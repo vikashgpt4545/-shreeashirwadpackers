@@ -1,0 +1,10 @@
+# Environment variables and API keys
+.env
+.env.*
+*.key
+*secret*
+
+# Local node/python artifacts
+node_modules/
+__pycache__/
+*.pyc

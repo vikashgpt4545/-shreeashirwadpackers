@@ -1,0 +1,23 @@
+{
+  "model": "jev-latest",
+  "state": "Classify whether this is a software-development task and return a structured decision.",
+  "questions": {
+    "is_software_development": {
+      "type": "choice",
+      "instructions": "Is this prompt or task describing or requesting a software-development task?",
+      "criteria": {
+        "software_development": "Tasks related to programming, software development, coding, APIs, debugging, or system integration.",
+        "non_software_development": "Tasks unrelated to software development (e.g. physical moving, logistics, general inquiries)."
+      }
+    },
+    "confidence_score": {
+      "type": "score",
+      "instructions": "Rate how clearly this pertains to software development.",
+      "criteria": [
+        "Definitely not software development",
+        "Ambiguous or partially related",
+        "Definitely software development"
+      ]
+    }
+  }
+}

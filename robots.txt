@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /cgi-bin/
+
+# Explicitly Allow AI Search Engines & LLMs (Perplexity, ChatGPT, Claude, Gemini)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Canonical Sitemaps & Machine-Readable LLM Knowledge Files
+Sitemap: https://www.shreeashirwadpackers.com/sitemap.xml
+# LLM Knowledge Standard: https://www.shreeashirwadpackers.com/llms.txt
