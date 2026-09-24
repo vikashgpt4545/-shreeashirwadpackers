@@ -70,9 +70,10 @@ define('BANK_IFSC_CODE', 'UTIB0004102');
 define('BANK_ACCOUNT_TYPE', 'Current Account');
 define('BANK_BRANCH', 'Upper Bazaar, Ranchi, Jharkhand');
 
-// Google Search Console & Analytics IDs
+// Google Search Console, Ads & Analytics IDs
 define('GOOGLE_SITE_VERIFICATION', '4bS_SrvZhqlH-eGeSRLjjQWU_pRDn4MxrlNKiYnh2Go');
 define('GOOGLE_GTAG_ID', 'AW-11099301221');
+define('GOOGLE_GA4_ID', 'G-MH5VFVB7R6');
 
 /**
  * Generate CSRF token in session
@@ -110,6 +111,54 @@ function sanitize_text(string|array|null $input): string|array {
 }
 
 /**
+ * Universal Google Tag (gtag.js) Injector & Synchronizer
+ * Guarantees that Google Analytics 4 (G-MH5VFVB7R6) and Google Ads (AW-11099301221)
+ * are cleanly and correctly active in the <head> of 100% of pages across the site.
+ */
+function inject_universal_google_tag(string $buffer): string {
+    if (empty($buffer) || stripos($buffer, '<head') === false) {
+        return $buffer;
+    }
+
+    $ga4_id = defined('GOOGLE_GA4_ID') ? GOOGLE_GA4_ID : 'G-MH5VFVB7R6';
+    $ads_id = defined('GOOGLE_GTAG_ID') ? GOOGLE_GTAG_ID : 'AW-11099301221';
+
+    $has_ga4 = stripos($buffer, $ga4_id) !== false;
+    $has_gtag = stripos($buffer, 'googletagmanager.com/gtag/js') !== false;
+
+    // If GA4 is already present in this response, avoid duplicating
+    if ($has_ga4) {
+        return $buffer;
+    }
+
+    // Case 1: Page already has an existing gtag.js block (e.g. only configured for Google Ads)
+    if ($has_gtag) {
+        $buffer = preg_replace(
+            '/(gtag\s*\(\s*[\'"]config[\'"]\s*,\s*[\'"][^\'"]+[\'"]\s*\);)/i',
+            "$1\n    gtag('config', '{$ga4_id}');",
+            $buffer,
+            1
+        );
+        return $buffer;
+    }
+
+    // Case 2: Page does not have Google Tag (e.g. location pages, utility pages)
+    $tag_snippet = "\n  <!-- Google tag (gtag.js) -->\n" .
+        "  <script async src=\"https://www.googletagmanager.com/gtag/js?id={$ga4_id}\"></script>\n" .
+        "  <script>\n" .
+        "    window.dataLayer = window.dataLayer || [];\n" .
+        "    function gtag(){dataLayer.push(arguments);}\n" .
+        "    gtag('js', new Date());\n\n" .
+        "    gtag('config', '{$ga4_id}');\n" .
+        "    gtag('config', '{$ads_id}');\n" .
+        "  </script>";
+
+    $buffer = preg_replace('/(<head\b[^>]*>)/i', "$1" . $tag_snippet, $buffer, 1);
+
+    return $buffer;
+}
+
+/**
  * Universal SEO Title Attribute Auto-Enricher
  * Guarantees 100% of <a> links and <img> tags across all pages
  * have descriptive, valid title attributes for search engines and SEO audit tools.
@@ -118,6 +167,9 @@ function seo_auto_enrich_titles(string $buffer): string {
     if (empty($buffer) || stripos($buffer, '<html') === false) {
         return $buffer;
     }
+
+    // 0. Universally inject/sync Google tag (gtag.js) for GA4 and Google Ads across all pages
+    $buffer = inject_universal_google_tag($buffer);
 
     // 1. Ensure all <img> tags have a title attribute (mirrors alt text or official brand name)
     $buffer = preg_replace_callback('/<img\b([^>]*?)>/i', function($matches) {

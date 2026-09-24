@@ -28,12 +28,14 @@ require_once __DIR__ . '/includes/seo.php';
   <!-- Core Stylesheet -->
   <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
 
-  <!-- Google tag (gtag.js) AW-11099301221 (Verified Live Tag) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=<?php echo GOOGLE_GTAG_ID; ?>"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MH5VFVB7R6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
+
+    gtag('config', 'G-MH5VFVB7R6');
     gtag('config', '<?php echo GOOGLE_GTAG_ID; ?>');
   </script>
 </head>
