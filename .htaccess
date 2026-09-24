@@ -69,6 +69,9 @@ RewriteRule ^packers-and-movers-in-ranchi(\.php)?/?$ / [R=301,L]
 RewriteRule ^services(\.php)?/?$ /#services [R=301,NE,L]
 RewriteRule ^(jharkhand|packers-and-movers-in-jharkhand)(\.php)?/?$ /#service-areas [R=301,NE,L]
 
+# 301 Permanent Redirect to prevent direct access to /pages/ directory in browser URL
+RewriteRule ^pages/(.*)$ /$1 [R=301,L]
+
 # Allow direct access to actual existing files, assets and images
 RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d

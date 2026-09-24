@@ -35,6 +35,13 @@ foreach ($service_slugs as $svc) {
     }
 }
 
+// 301 Permanent Canonical Redirects to strip /pages/ prefix if accessed directly
+if (preg_match('#^/pages/(.+)$#i', $path, $matches)) {
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: ' . SITE_BASE_URL . '/' . ltrim($matches[1], '/'));
+    exit;
+}
+
 // 301 Permanent Canonical Redirects for Spelling Duplicates & Ranchi Slug
 if (preg_match('#^/packers-and-movers-in-nagaruntari(\.php)?/?$#i', $path)) {
     header('HTTP/1.1 301 Moved Permanently');
@@ -72,7 +79,13 @@ if (preg_match('#^/(jharkhand|packers-and-movers-in-jharkhand)(\.php)?/?$#i', $p
     exit;
 }
 
-// Direct file check for standalone scripts and static assets
+// Direct file check for standalone scripts, pages, and static assets
+$clean_slug = preg_replace('/\.php$/i', '', trim($path, '/'));
+if (!empty($clean_slug) && file_exists(__DIR__ . '/pages/' . $clean_slug . '.php')) {
+    include __DIR__ . '/pages/' . $clean_slug . '.php';
+    exit;
+}
+
 $real_file = __DIR__ . str_replace('/', DIRECTORY_SEPARATOR, $path);
 if ($path !== '/' && file_exists($real_file . '.php')) {
     include $real_file . '.php';
@@ -342,85 +355,150 @@ if ($path === '/' || $path === '/index.php' || ($matched_route && $matched_route
 }
 
 // 1a. Dispatch Dedicated Standalone Page (Location or Content Page if file exists)
-$clean_slug = trim($path, '/');
+$clean_slug = preg_replace('/\.php$/i', '', trim($path, '/'));
 if (!empty($clean_slug)) {
-    $potential_file = __DIR__ . '/' . $clean_slug . '.php';
-    if (file_exists($potential_file)) {
-        include $potential_file;
+    $potential_page = __DIR__ . '/pages/' . $clean_slug . '.php';
+    if (file_exists($potential_page)) {
+        include $potential_page;
+        exit;
+    }
+    $potential_root = __DIR__ . '/' . $clean_slug . '.php';
+    if (file_exists($potential_root)) {
+        include $potential_root;
         exit;
     }
 }
 
 // 1b. Dispatch Dedicated About Page
-if (($path === '/about' || $path === '/about/') && file_exists(__DIR__ . '/about.php')) {
-    include __DIR__ . '/about.php';
-    exit;
+if ($path === '/about' || $path === '/about/') {
+    if (file_exists(__DIR__ . '/pages/about.php')) {
+        include __DIR__ . '/pages/about.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/about.php')) {
+        include __DIR__ . '/about.php';
+        exit;
+    }
 }
 
 // 1c. Dispatch Dedicated Residential Shifting Page
-if (($path === '/residential-shifting' || $path === '/residential-shifting/') && file_exists(__DIR__ . '/residential-shifting.php')) {
-    include __DIR__ . '/residential-shifting.php';
-    exit;
+if ($path === '/residential-shifting' || $path === '/residential-shifting/') {
+    if (file_exists(__DIR__ . '/pages/residential-shifting.php')) {
+        include __DIR__ . '/pages/residential-shifting.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/residential-shifting.php')) {
+        include __DIR__ . '/residential-shifting.php';
+        exit;
+    }
 }
 
 // 1d. Dispatch Dedicated Business Shifting Page
-if (($path === '/business-shifting' || $path === '/business-shifting/') && file_exists(__DIR__ . '/business-shifting.php')) {
-    include __DIR__ . '/business-shifting.php';
-    exit;
+if ($path === '/business-shifting' || $path === '/business-shifting/') {
+    if (file_exists(__DIR__ . '/pages/business-shifting.php')) {
+        include __DIR__ . '/pages/business-shifting.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/business-shifting.php')) {
+        include __DIR__ . '/business-shifting.php';
+        exit;
+    }
 }
 
 // 1e. Dispatch Dedicated Vehicle Shifting Page
-if (($path === '/vehicle-shifting' || $path === '/vehicle-shifting/') && file_exists(__DIR__ . '/vehicle-shifting.php')) {
-    include __DIR__ . '/vehicle-shifting.php';
-    exit;
+if ($path === '/vehicle-shifting' || $path === '/vehicle-shifting/') {
+    if (file_exists(__DIR__ . '/pages/vehicle-shifting.php')) {
+        include __DIR__ . '/pages/vehicle-shifting.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/vehicle-shifting.php')) {
+        include __DIR__ . '/vehicle-shifting.php';
+        exit;
+    }
 }
 
 // 1f. Dispatch Dedicated Packing and Unpacking Page
-if (($path === '/packing-and-unpacking' || $path === '/packing-and-unpacking/') && file_exists(__DIR__ . '/packing-and-unpacking.php')) {
-    include __DIR__ . '/packing-and-unpacking.php';
-    exit;
+if ($path === '/packing-and-unpacking' || $path === '/packing-and-unpacking/') {
+    if (file_exists(__DIR__ . '/pages/packing-and-unpacking.php')) {
+        include __DIR__ . '/pages/packing-and-unpacking.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/packing-and-unpacking.php')) {
+        include __DIR__ . '/packing-and-unpacking.php';
+        exit;
+    }
 }
 
 // 1g. Dispatch Dedicated Loading and Unloading Page
-if (($path === '/loading-and-unloading-services' || $path === '/loading-and-unloading-services/') && file_exists(__DIR__ . '/loading-and-unloading-services.php')) {
-    include __DIR__ . '/loading-and-unloading-services.php';
-    exit;
+if ($path === '/loading-and-unloading-services' || $path === '/loading-and-unloading-services/') {
+    if (file_exists(__DIR__ . '/pages/loading-and-unloading-services.php')) {
+        include __DIR__ . '/pages/loading-and-unloading-services.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/loading-and-unloading-services.php')) {
+        include __DIR__ . '/loading-and-unloading-services.php';
+        exit;
+    }
 }
 
 // 1h. Dispatch Dedicated Warehouse Service Page
-if (($path === '/warehouse-service' || $path === '/warehouse-service/') && file_exists(__DIR__ . '/warehouse-service.php')) {
-    include __DIR__ . '/warehouse-service.php';
-    exit;
+if ($path === '/warehouse-service' || $path === '/warehouse-service/') {
+    if (file_exists(__DIR__ . '/pages/warehouse-service.php')) {
+        include __DIR__ . '/pages/warehouse-service.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/warehouse-service.php')) {
+        include __DIR__ . '/warehouse-service.php';
+        exit;
+    }
 }
 
 // 1i. Dispatch Dedicated International Moving Page
-if (($path === '/international-service' || $path === '/international-service/') && file_exists(__DIR__ . '/international-service.php')) {
-    include __DIR__ . '/international-service.php';
-    exit;
+if ($path === '/international-service' || $path === '/international-service/') {
+    if (file_exists(__DIR__ . '/pages/international-service.php')) {
+        include __DIR__ . '/pages/international-service.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/international-service.php')) {
+        include __DIR__ . '/international-service.php';
+        exit;
+    }
 }
 
 // 1j. Dispatch Dedicated Domestic Moving Page
-if (($path === '/domestics-service' || $path === '/domestics-service/') && file_exists(__DIR__ . '/domestics-service.php')) {
-    include __DIR__ . '/domestics-service.php';
-    exit;
+if ($path === '/domestics-service' || $path === '/domestics-service/') {
+    if (file_exists(__DIR__ . '/pages/domestics-service.php')) {
+        include __DIR__ . '/pages/domestics-service.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/domestics-service.php')) {
+        include __DIR__ . '/domestics-service.php';
+        exit;
+    }
 }
 
 // 1k. Dispatch Dedicated Insurance Services Page
-if (($path === '/insurance-service' || $path === '/insurance-service/') && file_exists(__DIR__ . '/insurance-service.php')) {
-    include __DIR__ . '/insurance-service.php';
-    exit;
+if ($path === '/insurance-service' || $path === '/insurance-service/') {
+    if (file_exists(__DIR__ . '/pages/insurance-service.php')) {
+        include __DIR__ . '/pages/insurance-service.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/insurance-service.php')) {
+        include __DIR__ . '/insurance-service.php';
+        exit;
+    }
 }
 
 // 1l. Dispatch Dedicated Gallery Page
-if (($path === '/gallery' || $path === '/gallery/') && file_exists(__DIR__ . '/gallery.php')) {
-    include __DIR__ . '/gallery.php';
-    exit;
+if ($path === '/gallery' || $path === '/gallery/') {
+    if (file_exists(__DIR__ . '/pages/gallery.php')) {
+        include __DIR__ . '/pages/gallery.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/gallery.php')) {
+        include __DIR__ . '/gallery.php';
+        exit;
+    }
 }
 
 // 1m. Dispatch Dedicated Contact Page
-if (($path === '/contact' || $path === '/contact/') && file_exists(__DIR__ . '/contact.php')) {
-    include __DIR__ . '/contact.php';
-    exit;
+if ($path === '/contact' || $path === '/contact/') {
+    if (file_exists(__DIR__ . '/pages/contact.php')) {
+        include __DIR__ . '/pages/contact.php';
+        exit;
+    } elseif (file_exists(__DIR__ . '/contact.php')) {
+        include __DIR__ . '/contact.php';
+        exit;
+    }
 }
 
 // 2. Dispatch Managed Routes (All 45 preserved pages)

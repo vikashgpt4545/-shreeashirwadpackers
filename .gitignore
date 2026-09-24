@@ -3,6 +3,7 @@
 .env.*
 *.key
 *secret*
+service_account*.json
 
 # Local node/python artifacts
 node_modules/
