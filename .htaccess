@@ -6,6 +6,14 @@
 Options -Indexes
 RewriteEngine On
 
+# Canonical Redirects for Production (Force HTTPS and www)
+RewriteCond %{HTTP_HOST} ^shreeashirwadpackers\.com$ [NC]
+RewriteRule ^(.*)$ https://www.shreeashirwadpackers.com/$1 [R=301,L]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^www\.shreeashirwadpackers\.com$ [NC]
+RewriteRule ^(.*)$ https://www.shreeashirwadpackers.com/$1 [R=301,L]
+
 # Enforce UTF-8 Encoding
 AddDefaultCharset UTF-8
 
