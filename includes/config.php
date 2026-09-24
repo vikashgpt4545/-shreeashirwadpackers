@@ -20,13 +20,13 @@ $http_host = isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : 'localhost';
 // Strict Canonical Domain for Production
 define('PRODUCTION_CANONICAL_DOMAIN', 'https://www.shreeashirwadpackers.com');
 
-// Dynamic Base URL for asset loading across both local development and production
-if ($http_host === 'localhost' || strpos($http_host, '127.0.0.1') !== false || strpos($http_host, 'localhost:') !== false) {
+// Dynamic Base URL for asset loading across local development, Hostinger staging/preview, and production
+if (strpos($http_host, 'shreeashirwadpackers.com') !== false) {
+    define('SITE_BASE_URL', PRODUCTION_CANONICAL_DOMAIN);
+} else {
     $script_dir = str_replace('\\', '/', dirname($_SERVER['SCRIPT_NAME']));
     $script_dir = rtrim($script_dir, '/');
     define('SITE_BASE_URL', $protocol . $http_host . ($script_dir ? $script_dir : ''));
-} else {
-    define('SITE_BASE_URL', PRODUCTION_CANONICAL_DOMAIN);
 }
 
 // Business Entity & Contact Details (Verified directly from live website and official records)
