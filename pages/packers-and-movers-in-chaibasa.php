@@ -718,7 +718,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-cha
                 <td style="padding:14px 18px; color:#475569;">₹5,500 – ₹8,000</td>
               </tr>
               <tr style="border-bottom:1px solid #e2e8f0; background:#f8fafc;">
-                <td style="padding:14px 18px; font-weight:600; color:#0f223d;">Chaibasa to Ranchi</td>
+                <td style="padding:14px 18px; font-weight:700; color:#0f223d;">
+                  <a href="<?php echo SITE_BASE_URL; ?>/chaibasa-to-ranchi-packers-and-movers" style="color:#0f223d; text-decoration:none; font-weight:700;" onmouseover="this.style.color='#ff6a28'" onmouseout="this.style.color='#0f223d'">Chaibasa to Ranchi &rarr;</a>
+                </td>
                 <td style="padding:14px 18px; color:#475569;">~140 km (via Khunti/NH-20)</td>
                 <td style="padding:14px 18px; color:#475569;">₹12,500 – ₹19,500</td>
                 <td style="padding:14px 18px; color:#475569;">₹2,200 – ₹3,500</td>

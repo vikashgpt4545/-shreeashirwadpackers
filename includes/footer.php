@@ -147,8 +147,13 @@ $base_url = SITE_BASE_URL;
         <li><a href="<?php echo $base_url; ?>/packers-and-movers-in-daltonganj" title="Packers and Movers in Daltonganj">Packers and Movers in Daltonganj</a></li>
         <li><a href="<?php echo $base_url; ?>/packers-and-movers-in-lohardaga" title="Packers and Movers in Lohardaga">Packers and Movers in Lohardaga</a></li>
       </ul>
-      <!-- Complete 158 Locations & Sub-Divisions Directory -->
-      <?php render_footer_district_directory(); ?>
+      <!-- Complete 158 Locations & Sub-Divisions Directory (Rendered on Homepage for site architecture & deep crawlability without sitewide link equity dilution) -->
+      <?php 
+      $req_path = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH);
+      if ($req_path === '/' || (isset($path) && $path === '/')) {
+          render_footer_district_directory(); 
+      }
+      ?>
     </div>
   </div>
 
@@ -169,7 +174,7 @@ $base_url = SITE_BASE_URL;
       <svg viewBox="0 0 24 24" style="width:18px;height:18px;fill:currentColor;"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
       Call Now
     </a>
-    <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener noreferrer" class="btn-floating-whatsapp" title="Chat on WhatsApp with Shree Ashirwad Packers">
+    <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-floating-whatsapp" title="Chat on WhatsApp with Shree Ashirwad Packers">
       <svg viewBox="0 0 24 24" style="width:18px;height:18px;fill:currentColor;"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
       WhatsApp
     </a>

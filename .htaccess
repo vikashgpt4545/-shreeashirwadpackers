@@ -23,6 +23,7 @@ AddDefaultCharset UTF-8
     Header set X-Frame-Options "SAMEORIGIN"
     Header set X-XSS-Protection "1; mode=block"
     Header set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
 </IfModule>
 
 # Gzip / Brotli Compression for Core Web Vitals
@@ -57,17 +58,41 @@ AddDefaultCharset UTF-8
     Require all denied
 </FilesMatch>
 
-# 301 Permanent Redirects for Service /index URLs to Canonical Trailing Slash
-RewriteRule ^(residential-shifting|business-shifting|vehicle-shifting|packing-and-unpacking|loading-and-unloading-services|warehouse-service|international-service|domestics-service|insurance-service)/index(\.php)?/?$ /$1/ [R=301,L]
+# 301 Permanent Redirects for 9 Core Services to Canonical Trailing Slash
+RewriteRule ^(residential-shifting|business-shifting|vehicle-shifting|packing-and-unpacking|loading-and-unloading-services|warehouse-service|international-service|domestics-service|insurance-service)(/index)?(\.php)?$ /$1/ [R=301,L]
+
+# 301 Permanent Redirects to Rescue Historical Backlinks from External Domains
+RewriteRule ^packers-and-movers-in-dhanbad-for-home-and-vehicles-move(\.php)?/?$ /packers-and-movers-in-dhanbad [R=301,L]
+RewriteRule ^hire-packers-and-movers-in-jamshedpur-jharkhand(\.php)?/?$ /packers-and-movers-in-jamshedpur [R=301,L]
+RewriteRule ^packers-and-movers-in-bundu-ranchi(\.php)?/?$ /packers-and-movers-in-bundu [R=301,L]
+RewriteRule ^packers-and-movers-in-chanho-ranchi(\.php)?/?$ /packers-and-movers-in-chanho [R=301,L]
+RewriteRule ^packers-and-movers-in-kanke-ranchi(\.php)?/?$ /packers-and-movers-in-kanke [R=301,L]
+RewriteRule ^packers-and-movers-in-lapung-ranchi(\.php)?/?$ /packers-and-movers-in-lapung [R=301,L]
+RewriteRule ^packers-and-movers-in-mandar-ranchi(\.php)?/?$ /packers-and-movers-in-mandar [R=301,L]
+RewriteRule ^packers-and-movers-in-namkum-ranchi(\.php)?/?$ /packers-and-movers-in-namkum [R=301,L]
+RewriteRule ^packers-and-movers-in-ormanjhi-ranchi(\.php)?/?$ /packers-and-movers-in-ormanjhi [R=301,L]
+RewriteRule ^packers-and-movers-in-ratu-ranchi.*$ /packers-and-movers-in-ratu [R=301,L]
+RewriteRule ^packers-and-movers-in-silli-ranchi(\.php)?/?$ /packers-and-movers-in-silli [R=301,L]
+RewriteRule ^packers-and-movers-in-sonahatu-ranchi(\.php)?/?$ /packers-and-movers-in-sonahatu [R=301,L]
+RewriteRule ^packers-and-movers-in-(burmu|khalari|nagri|rahe)-ranchi(\.php)?/?$ / [R=301,L]
+
+# 301 Permanent Redirects for Ranchi Head-Term Duplicate Slugs to Homepage Authority
+RewriteRule ^packers-and-movers-in-ranchi-jharkhand(\.php)?/?$ / [R=301,L]
+RewriteRule ^professional-packers-and-movers-in-ranchi(\.php)?/?$ / [R=301,L]
+RewriteRule ^packers-and-movers-in-ranchi(\.php)?/?$ / [R=301,L]
 
 # 301 Permanent Redirects for Duplicate Spelling Slugs and Regional Slugs
 RewriteRule ^packers-and-movers-in-nagaruntari(\.php)?/?$ /packers-and-movers-in-nagar-untari [R=301,L]
 RewriteRule ^packers-and-movers-in-husainabad(\.php)?/?$ /packers-and-movers-in-hussainabad [R=301,L]
 RewriteRule ^packers-and-movers-in-garhwa(\.php)?/?$ /packers-and-movers-in-gharwha [R=301,L]
 RewriteRule ^packers-and-movers-in-seraikela-kharsawan(\.php)?/?$ /packers-and-movers-in-saraikela-kharsawan [R=301,L]
-RewriteRule ^packers-and-movers-in-ranchi(\.php)?/?$ / [R=301,L]
-RewriteRule ^services(\.php)?/?$ /#services [R=301,NE,L]
-RewriteRule ^(jharkhand|packers-and-movers-in-jharkhand)(\.php)?/?$ /#service-areas [R=301,NE,L]
+RewriteRule ^services(\.php)?/?$ / [R=301,L]
+RewriteRule ^(jharkhand|packers-and-movers-in-jharkhand)(\.php)?/?$ / [R=301,L]
+
+# 301 Permanent Redirect to strip trailing slash from non-service URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/(residential-shifting|business-shifting|vehicle-shifting|packing-and-unpacking|loading-and-unloading-services|warehouse-service|international-service|domestics-service|insurance-service)/
+RewriteRule ^(.+)/$ /$1 [R=301,L]
 
 # 301 Permanent Redirect to prevent direct access to /pages/ directory in browser URL
 RewriteRule ^pages/(.*)$ /$1 [R=301,L]

@@ -134,191 +134,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pay-online";
   }
   </script>
 
-  <style>
-    .pay-hero {
-      background: linear-gradient(135deg, #07152b 0%, #0f2b5c 50%, #163d7a 100%);
-      padding: 70px 0 50px;
-      color: #ffffff;
-      text-align: center;
-      position: relative;
-    }
-    .pay-hero-badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      background: rgba(16, 185, 129, 0.15);
-      border: 1px solid rgba(16, 185, 129, 0.4);
-      color: #34d399;
-      font-size: 0.85rem;
-      font-weight: 700;
-      padding: 6px 16px;
-      border-radius: 9999px;
-      margin-bottom: 18px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    .bank-card-container {
-      max-width: 620px;
-      margin: 0 auto;
-      background: linear-gradient(135deg, #870038 0%, #9e144a 45%, #b81c5a 100%);
-      border-radius: 20px;
-      padding: 35px 30px;
-      color: #ffffff;
-      box-shadow: 0 20px 45px rgba(135, 0, 56, 0.35);
-      position: relative;
-      overflow: hidden;
-      border: 1px solid rgba(255, 255, 255, 0.2);
-    }
-    .bank-card-container::before {
-      content: '';
-      position: absolute;
-      top: -80px;
-      right: -80px;
-      width: 220px;
-      height: 220px;
-      background: rgba(255, 255, 255, 0.08);
-      border-radius: 50%;
-      pointer-events: none;
-    }
-    .bank-card-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.18);
-      padding-bottom: 18px;
-      margin-bottom: 22px;
-    }
-    .bank-card-chip {
-      width: 46px;
-      height: 34px;
-      background: linear-gradient(135deg, #fef08a, #ca8a04);
-      border-radius: 6px;
-      position: relative;
-      box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);
-    }
-    .bank-detail-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 12px 0;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-      flex-wrap: wrap;
-      gap: 8px;
-    }
-    .bank-detail-label {
-      font-size: 0.85rem;
-      color: rgba(255, 255, 255, 0.8);
-      font-weight: 500;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    .bank-detail-val {
-      font-size: 1.15rem;
-      font-weight: 700;
-      color: #ffffff;
-      font-family: 'Outfit', sans-serif;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-    .btn-copy {
-      background: rgba(255, 255, 255, 0.2);
-      border: 1px solid rgba(255, 255, 255, 0.4);
-      color: #ffffff;
-      padding: 4px 10px;
-      border-radius: 6px;
-      font-size: 0.75rem;
-      font-weight: 600;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      gap: 5px;
-      transition: all 0.2s ease;
-    }
-    .btn-copy:hover {
-      background: #ffffff;
-      color: #870038;
-    }
-    .copy-success-tooltip {
-      position: fixed;
-      bottom: 24px;
-      right: 24px;
-      background: #10b981;
-      color: #ffffff;
-      padding: 12px 20px;
-      border-radius: 8px;
-      font-size: 0.95rem;
-      font-weight: 600;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-      display: none;
-      z-index: 9999;
-      animation: fadeIn 0.3s ease;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .payment-step-card {
-      background: #ffffff;
-      border-radius: 12px;
-      padding: 28px;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-      border: 1px solid #e2e8f0;
-      transition: all 0.3s ease;
-      height: 100%;
-    }
-    .payment-step-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-      border-color: #0284c7;
-    }
-    .step-badge {
-      width: 44px;
-      height: 44px;
-      border-radius: 50%;
-      background: #e0f2fe;
-      color: #0284c7;
-      font-size: 1.1rem;
-      font-weight: 800;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-bottom: 16px;
-    }
-    .payment-form-card {
-      background: #ffffff;
-      border-radius: 16px;
-      padding: 40px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
-      border: 1px solid #e2e8f0;
-    }
-    .form-group {
-      margin-bottom: 20px;
-    }
-    .form-group label {
-      display: block;
-      font-size: 0.9rem;
-      font-weight: 600;
-      color: #1e293b;
-      margin-bottom: 8px;
-    }
-    .form-control-custom {
-      width: 100%;
-      padding: 12px 16px;
-      border: 1px solid #cbd5e1;
-      border-radius: 8px;
-      font-size: 0.98rem;
-      font-family: inherit;
-      color: #0f172a;
-      transition: border-color 0.2s ease;
-      box-sizing: border-box;
-    }
-    .form-control-custom:focus {
-      outline: none;
-      border-color: #0284c7;
-      box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.15);
-    }
-  </style>
+
 </head>
 <body class="page-template">
 
@@ -456,7 +272,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pay-online";
 
       <!-- Quick Action Buttons below card -->
       <div style="display: flex; justify-content: center; gap: 15px; margin-top: 30px; flex-wrap: wrap;">
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20have%20transferred%20the%20payment%20to%20your%20Axis%20Bank%20account.%20Please%20find%20my%20UTR%20details." target="_blank" rel="noopener noreferrer" style="background: #25d366; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20have%20transferred%20the%20payment%20to%20your%20Axis%20Bank%20account.%20Please%20find%20my%20UTR%20details." target="_blank" rel="nofollow noopener noreferrer" style="background: #25d366; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);">
           <i class="fa-brands fa-whatsapp" style="font-size: 1.2rem;"></i> Share Transfer UTR on WhatsApp
         </a>
         <a href="tel:+918409531615" style="background: #0f172a; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 1rem; border: 1px solid #334155;">
@@ -820,6 +636,51 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pay-online";
 
       </div>
 
+    </div>
+  </section>
+
+  <!-- Payment Security & Official Verification Guidelines -->
+  <section style="background: #ffffff; padding: 50px 0; border-top: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1000px; margin: 0 auto; padding: 0 20px;">
+      <h2 style="font-size: 1.8rem; font-weight: 800; color: #0f172a; margin-bottom: 15px; font-family: 'Outfit', sans-serif;">
+        Official Guidelines for Safe Relocation Payment Transfers
+      </h2>
+      <p style="font-size: 1rem; color: #475569; line-height: 1.7; margin-bottom: 20px;">
+        To ensure transparency and protect our clients against fraudulent online payment scams, Shree Ashirwad Packers and Movers adheres to stringent banking security protocols. When transferring token booking advances or settling final relocation invoices, please review the following essential safety measures:
+      </p>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 25px;">
+        <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #0f172a; margin-bottom: 8px;">
+            1. Verify Business Beneficiary Name
+          </h3>
+          <p style="font-size: 0.92rem; color: #64748b; line-height: 1.6; margin: 0;">
+            Always confirm that the beneficiary name registered in your banking app matches <strong>Shree Ashirwad Packers & Movers</strong>. Never send moving payments to unauthorized personal bank accounts or unverified third-party mobile numbers.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #0f172a; margin-bottom: 8px;">
+            2. Real-Time UTR Reconciliation
+          </h3>
+          <p style="font-size: 0.92rem; color: #64748b; line-height: 1.6; margin: 0;">
+            Every electronic transfer generates an 8-to-22 digit Unique Transaction Reference (UTR) number or UPI reference ID. Submitting this reference through our notification desk ensures prompt ledger credit and immediate receipt dispatch.
+          </p>
+        </div>
+
+        <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px;">
+          <h3 style="font-size: 1.1rem; font-weight: 700; color: #0f172a; margin-bottom: 8px;">
+            3. GST Tax Invoice & SAC Code 996511
+          </h3>
+          <p style="font-size: 0.92rem; color: #64748b; line-height: 1.6; margin: 0;">
+            All transactions are fully compliant with Indian Goods and Services Tax laws under Goods Transport Agency SAC Code 996511. Your official GST invoice serves as authentic documentation for corporate reimbursement and employer transfer claims.
+          </p>
+        </div>
+      </div>
+
+      <p style="font-size: 0.95rem; color: #64748b; line-height: 1.7; margin: 0;">
+        For any discrepancies, payment verification updates, or queries regarding RTGS/NEFT clearing cutoff timings, please reach out to our dedicated central accounts billing department at <strong>+91 8409531615</strong> or write to <strong>enquiry@shreeashirwadpackers.com</strong>.
+      </p>
     </div>
   </section>
 

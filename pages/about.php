@@ -482,7 +482,7 @@ require_once __DIR__ . '/includes/seo.php';
             <p>
               Complete home relocation for 1 BHK, 2 BHK, 3 BHK flats and independent bungalows in Ranchi, Bokaro, Jamshedpur, and Dhanbad with room-by-room unpacking.
             </p>
-            <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" class="service-chip-link" title="Explore Household Shifting Services in Ranchi">Learn more &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" class="service-chip-link" title="Explore Household Shifting Services in Ranchi">Explore Residential Shifting &rarr;</a>
           </div>
 
           <div class="service-chip-card">
@@ -490,7 +490,7 @@ require_once __DIR__ . '/includes/seo.php';
             <p>
               Zero-downtime commercial corporate relocation including server racks, modular workstations, executive desks, conference rooms, and sensitive file archives.
             </p>
-            <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" class="service-chip-link" title="Explore Office Shifting Services in Ranchi">Learn more &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" class="service-chip-link" title="Explore Office Shifting Services in Ranchi">Explore Office Relocation &rarr;</a>
           </div>
 
           <div class="service-chip-card">
@@ -498,7 +498,7 @@ require_once __DIR__ . '/includes/seo.php';
             <p>
               Door-to-door hydraulic closed car carrier service ensuring scratch-free, zero-odometer transit for hatchbacks, sedans, and luxury SUVs across India.
             </p>
-            <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" class="service-chip-link" title="Explore Car Transport Services in Ranchi">Learn more &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" class="service-chip-link" title="Explore Car Transport Services in Ranchi">Explore Car Transportation &rarr;</a>
           </div>
 
           <div class="service-chip-card">
@@ -506,7 +506,7 @@ require_once __DIR__ . '/includes/seo.php';
             <p>
               Specialized two-wheeler motorcycle and scooter packaging using thick foam wrapping, bubble wrap, and sturdy wooden crate enclosures to prevent scratches.
             </p>
-            <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" class="service-chip-link" title="Explore Bike Transport Services in Ranchi">Learn more &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" class="service-chip-link" title="Explore Bike Transport Services in Ranchi">Explore Bike Parcel Shifting &rarr;</a>
           </div>
 
           <div class="service-chip-card">
@@ -514,7 +514,7 @@ require_once __DIR__ . '/includes/seo.php';
             <p>
               Secure, elevated, CCTV-monitored, moisture-free and pest-controlled storage facilities in Ranchi and Bokaro for flexible short-term and long-term storage needs.
             </p>
-            <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/" class="service-chip-link" title="Explore Warehousing Storage in Ranchi">Learn more &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/" class="service-chip-link" title="Explore Warehousing Storage in Ranchi">Explore Warehousing Solutions &rarr;</a>
           </div>
 
           <div class="service-chip-card">
@@ -522,7 +522,7 @@ require_once __DIR__ . '/includes/seo.php';
             <p>
               Daily container departures connecting Ranchi, Bokaro, and Jamshedpur to major Indian cities including Delhi NCR, Kolkata, Patna, Bengaluru, Mumbai, and Chennai.
             </p>
-            <a href="<?php echo SITE_BASE_URL; ?>/domestics-service/" class="service-chip-link" title="Explore Interstate Moving Services">Learn more &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/domestics-service/" class="service-chip-link" title="Explore Interstate Moving Services">Explore Pan-India Moving &rarr;</a>
           </div>
 
         </div>

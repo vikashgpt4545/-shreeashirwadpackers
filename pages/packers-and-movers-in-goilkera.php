@@ -306,7 +306,8 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             border-radius: 12px;
         }
 
-        .stat-item h4 {
+        .stat-item h4,
+        .stat-item .stat-num {
             font-size: 1.5rem;
             font-weight: 700;
             color: #f59e0b;
@@ -374,6 +375,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             color: var(--text-dark);
         }
 
+        .hero-form-card h2,
         .hero-form-card h3 {
             font-family: 'Outfit', sans-serif;
             font-size: 1.45rem;
@@ -652,6 +654,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             margin-bottom: 15px;
         }
 
+        .method-card h3,
         .method-card h4 {
             font-family: 'Outfit', sans-serif;
             font-size: 1.15rem;
@@ -766,6 +769,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             margin-bottom: 16px;
         }
 
+        .why-card h3,
         .why-card h4 {
             font-family: 'Outfit', sans-serif;
             font-size: 1.2rem;
@@ -896,15 +900,15 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             </p>
             <div class="hero-stats">
                 <div class="stat-item">
-                    <h4>10+ Years</h4>
+                    <div class="stat-num">10+ Years</div>
                     <p>Kolhan Region Moves</p>
                 </div>
                 <div class="stat-item">
-                    <h4>6,200+</h4>
+                    <div class="stat-num">6,200+</div>
                     <p>Successful Deliveries</p>
                 </div>
                 <div class="stat-item">
-                    <h4>100% Zero</h4>
+                    <div class="stat-num">100% Zero</div>
                     <p>Damage Guarantee</p>
                 </div>
             </div>
@@ -920,7 +924,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
 
         <!-- Quick Form Card -->
         <div class="hero-form-card" id="quick-quote">
-            <h3>Get Instant Moving Estimate</h3>
+            <h2>Get Instant Moving Estimate</h2>
             <p>Accurate quotes for railway, government & family shifting</p>
             <form action="<?php echo SITE_BASE_URL; ?>/contact" method="POST">
                 <div class="form-group-field">
@@ -1108,7 +1112,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
         <div class="method-steps">
             <div class="method-card">
                 <span class="step-number">01</span>
-                <h4>Pre-Move Assessment</h4>
+                <h3>Pre-Move Assessment</h3>
                 <p>
                     Our relocation expert evaluates your inventory either on-site in Goilkera or via video survey, calculating cargo volume, heavy furniture dismantling needs, and truck capacity requirements.
                 </p>
@@ -1116,7 +1120,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
 
             <div class="method-card">
                 <span class="step-number">02</span>
-                <h4>5-Layer Defense Packing</h4>
+                <h3>5-Layer Defense Packing</h3>
                 <p>
                     Every fragile item, television, and furniture piece is layered with anti-static bubble wrap, corrugated sheets, foam edge protectors, moisture desiccants, and industrial stretch film.
                 </p>
@@ -1124,7 +1128,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
 
             <div class="method-card">
                 <span class="step-number">03</span>
-                <h4>Shockproof Truck Loading</h4>
+                <h3>Shockproof Truck Loading</h3>
                 <p>
                     Heavy items are anchored to truck floor rings with reinforced cargo straps on rubber dunnage mats. Lighter boxes are stacked systematically above to avoid crushing pressure.
                 </p>
@@ -1132,7 +1136,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
 
             <div class="method-card">
                 <span class="step-number">04</span>
-                <h4>Controlled Transit</h4>
+                <h3>Controlled Transit</h3>
                 <p>
                     Our closed-body container trucks depart Goilkera via Chakradharpur or Chaibasa roads. Professional highway drivers adhere to safe speed limits on ghat bends and arterial expressways.
                 </p>
@@ -1140,7 +1144,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
 
             <div class="method-card">
                 <span class="step-number">05</span>
-                <h4>Unloading & Setup</h4>
+                <h3>Unloading & Setup</h3>
                 <p>
                     At your destination, our trained team unloads every carton, verifies inventory numbers, re-assembles beds and heavy cupboards, and clears all packing residue before completion.
                 </p>
@@ -1357,49 +1361,49 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
         <div class="why-us-grid">
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-train-subway"></i></div>
-                <h4>Railway Transfer Mastery</h4>
+                <h3>Railway Transfer Mastery</h3>
                 <p>Over a decade of handling South Eastern Railway transfer cases with approved billing and consignment tracking documents.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-truck-shield"></i></div>
-                <h4>Closed-Body Container Fleets</h4>
+                <h3>Closed-Body Container Fleets</h3>
                 <p>Weatherproof steel containers that protect your domestic belongings from monsoon rains, forest foliage, and road dirt.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-user-check"></i></div>
-                <h4>Trained & Verified Crew</h4>
+                <h3>Trained & Verified Crew</h3>
                 <p>Every worker on our team undergoes thorough background verification and professional training for careful goods handling.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-file-invoice"></i></div>
-                <h4>100% Valid GST Invoices</h4>
+                <h3>100% Valid GST Invoices</h3>
                 <p>Transparent invoices with verified HSN codes accepted seamlessly for central and state government transfer claims.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-shield-cat"></i></div>
-                <h4>Transit Insurance Coverage</h4>
+                <h3>Transit Insurance Coverage</h3>
                 <p>Comprehensive transit policy backed by major national insurance partners protecting your assets against all road risks.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-hand-holding-dollar"></i></div>
-                <h4>Zero Hidden Extras</h4>
+                <h3>Zero Hidden Extras</h3>
                 <p>Clear upfront quotes with guaranteed fixed pricing. No sudden demand for tip money or unauthorized delivery charges.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-boxes-packing"></i></div>
-                <h4>Fresh Multi-Layer Packaging</h4>
+                <h3>Fresh Multi-Layer Packaging</h3>
                 <p>We use only virgin bubble rolls, thick corrugated boards, corner buffers, and heavy stretch film for maximum protection.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-headset"></i></div>
-                <h4>24/7 Dedicated Support</h4>
+                <h3>24/7 Dedicated Support</h3>
                 <p>Direct communication with your personal moving coordinator to track your shipment from pickup to final room delivery.</p>
             </div>
         </div>
@@ -1492,7 +1496,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             <a href="tel:+918409531615" class="btn-call-primary" style="background: #f59e0b; color: #0f172a;">
                 <i class="fa-solid fa-phone"></i> Call +91 8409531615
             </a>
-            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%2C%20I%20need%20packers%20and%20movers%20services%20in%20Goilkera." target="_blank" class="btn-quote-secondary" style="background: #25d366; border-color: #25d366; color: #ffffff;">
+            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%2C%20I%20need%20packers%20and%20movers%20services%20in%20Goilkera." target="_blank" rel="nofollow noopener" class="btn-quote-secondary" style="background: #25d366; border-color: #25d366; color: #ffffff;">
                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>

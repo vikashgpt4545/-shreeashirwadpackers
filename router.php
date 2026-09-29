@@ -28,7 +28,8 @@ $service_slugs = [
 ];
 
 foreach ($service_slugs as $svc) {
-    if (preg_match('#^/' . preg_quote($svc, '#') . '/index(\.php)?/?$#i', $path)) {
+    if (preg_match('#^/' . preg_quote($svc, '#') . '(\.php)?$#i', $path) ||
+        preg_match('#^/' . preg_quote($svc, '#') . '/index(\.php)?/?$#i', $path)) {
         header('HTTP/1.1 301 Moved Permanently');
         header('Location: ' . SITE_BASE_URL . '/' . $svc . '/');
         exit;
@@ -42,40 +43,66 @@ if (preg_match('#^/pages/(.+)$#i', $path, $matches)) {
     exit;
 }
 
-// 301 Permanent Canonical Redirects for Spelling Duplicates & Ranchi Slug
-if (preg_match('#^/packers-and-movers-in-nagaruntari(\.php)?/?$#i', $path)) {
+// 301 Permanent Canonical Redirects for Historical Backlinks, Spelling Duplicates & Consolidation
+$redirect_map = [
+    // Historical Backlinks Rescued from Semrush Audit
+    'packers-and-movers-in-dhanbad-for-home-and-vehicles-move' => '/packers-and-movers-in-dhanbad',
+    'hire-packers-and-movers-in-jamshedpur-jharkhand' => '/packers-and-movers-in-jamshedpur',
+    'packers-and-movers-in-bundu-ranchi' => '/packers-and-movers-in-bundu',
+    'packers-and-movers-in-burmu-ranchi' => '/',
+    'packers-and-movers-in-chanho-ranchi' => '/packers-and-movers-in-chanho',
+    'packers-and-movers-in-kanke-ranchi' => '/packers-and-movers-in-kanke',
+    'packers-and-movers-in-khalari-ranchi' => '/',
+    'packers-and-movers-in-lapung-ranchi' => '/packers-and-movers-in-lapung',
+    'packers-and-movers-in-mandar-ranchi' => '/packers-and-movers-in-mandar',
+    'packers-and-movers-in-nagri-ranchi' => '/',
+    'packers-and-movers-in-namkum-ranchi' => '/packers-and-movers-in-namkum',
+    'packers-and-movers-in-ormanjhi-ranchi' => '/packers-and-movers-in-ormanjhi',
+    'packers-and-movers-in-rahe-ranchi' => '/',
+    'packers-and-movers-in-ratu-ranchi' => '/packers-and-movers-in-ratu',
+    'packers-and-movers-in-silli-ranchi' => '/packers-and-movers-in-silli',
+    'packers-and-movers-in-sonahatu-ranchi' => '/packers-and-movers-in-sonahatu',
+
+    // Ranchi Head-Term Cannibalization Consolidation to Homepage Authority
+    'packers-and-movers-in-ranchi' => '/',
+    'packers-and-movers-in-ranchi-jharkhand' => '/',
+    'professional-packers-and-movers-in-ranchi' => '/',
+
+    // Spelling Duplicates & Regional Slugs
+    'packers-and-movers-in-nagaruntari' => '/packers-and-movers-in-nagar-untari',
+    'packers-and-movers-in-husainabad' => '/packers-and-movers-in-hussainabad',
+    'packers-and-movers-in-garhwa' => '/packers-and-movers-in-gharwha',
+    'packers-and-movers-in-seraikela-kharsawan' => '/packers-and-movers-in-saraikela-kharsawan',
+    'services' => '/',
+    'jharkhand' => '/',
+    'packers-and-movers-in-jharkhand' => '/'
+];
+
+$raw_slug = preg_replace('/\.php$/i', '', trim($path, '/'));
+if (isset($redirect_map[$raw_slug])) {
     header('HTTP/1.1 301 Moved Permanently');
-    header('Location: ' . SITE_BASE_URL . '/packers-and-movers-in-nagar-untari');
+    header('Location: ' . SITE_BASE_URL . $redirect_map[$raw_slug]);
     exit;
 }
-if (preg_match('#^/packers-and-movers-in-husainabad(\.php)?/?$#i', $path)) {
+if (preg_match('#^packers-and-movers-in-ratu-ranchi.*#i', $raw_slug)) {
     header('HTTP/1.1 301 Moved Permanently');
-    header('Location: ' . SITE_BASE_URL . '/packers-and-movers-in-hussainabad');
+    header('Location: ' . SITE_BASE_URL . '/packers-and-movers-in-ratu');
     exit;
 }
-if (preg_match('#^/packers-and-movers-in-ranchi(\.php)?/?$#i', $path)) {
+
+// 301 Canonical URL Normalization: Remove .php extension
+if (preg_match('#\.php$#i', $path)) {
+    $clean_url = preg_replace('#\.php$#i', '', $path);
     header('HTTP/1.1 301 Moved Permanently');
-    header('Location: ' . SITE_BASE_URL . '/');
+    header('Location: ' . SITE_BASE_URL . $clean_url);
     exit;
 }
-if (preg_match('#^/packers-and-movers-in-garhwa(\.php)?/?$#i', $path)) {
+
+// 301 Canonical URL Normalization: Strip trailing slashes for non-service, non-root URLs
+if ($path !== '/' && substr($path, -1) === '/' && !in_array(trim($path, '/'), $service_slugs)) {
+    $clean_url = rtrim($path, '/');
     header('HTTP/1.1 301 Moved Permanently');
-    header('Location: ' . SITE_BASE_URL . '/packers-and-movers-in-gharwha');
-    exit;
-}
-if (preg_match('#^/packers-and-movers-in-seraikela-kharsawan(\.php)?/?$#i', $path)) {
-    header('HTTP/1.1 301 Moved Permanently');
-    header('Location: ' . SITE_BASE_URL . '/packers-and-movers-in-saraikela-kharsawan');
-    exit;
-}
-if (preg_match('#^/services(\.php)?/?$#i', $path)) {
-    header('HTTP/1.1 301 Moved Permanently');
-    header('Location: ' . SITE_BASE_URL . '/#services');
-    exit;
-}
-if (preg_match('#^/(jharkhand|packers-and-movers-in-jharkhand)(\.php)?/?$#i', $path)) {
-    header('HTTP/1.1 301 Moved Permanently');
-    header('Location: ' . SITE_BASE_URL . '/#service-areas');
+    header('Location: ' . SITE_BASE_URL . $clean_url);
     exit;
 }
 

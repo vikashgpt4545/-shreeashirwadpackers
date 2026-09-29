@@ -12,7 +12,7 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Packers and Movers in Gumla - 8409531615";
+$page_title = "Packers and Movers in Gumla - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Hire verified packers and movers in Gumla & Sisai by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, bauxite mining & home shifting. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gumla";
 ?>
@@ -281,7 +281,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gum
           ★ Certified Relocation Excellence in Gumla & South Chotanagpur
         </div>
         <h1 style="font-size: clamp(28px, 4.2vw, 44px); font-weight: 800; line-height: 1.25; margin-bottom: 18px; color: #ffffff;">
-          Packers and Movers in Gumla <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">- 8409531615</span>
+          Reliable Packers and Movers in <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">Gumla, Jharkhand</span>
         </h1>
         <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 28px; max-width: 820px;">
           Welcome to Shree Ashirwad Packers and Movers in Gumla — your trusted moving partner across South Chotanagpur and the southwestern interstate gateway to Chhattisgarh and Odisha. Whether you are moving locally within Gumla town, relocating from Sisai, Ghaghra, or Bishunpur bauxite mining communities, or undertaking long-distance moves to Ranchi, Jashpur, Rourkela, Raipur, or Kolkata via National Highway 43, we deliver engineered 5-layer protective packing, IBA-approved documentation, dedicated container trucks, and complete transit insurance.
@@ -290,10 +290,10 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gum
         <!-- CTAs -->
         <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
           <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
-            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
+            <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
             Call: 8409531615
           </a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Gumla" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Gumla" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
             WhatsApp Instant Quote
           </a>
@@ -721,10 +721,10 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gum
                 </tr>
               </thead>
               <tbody>
-                <tr style="border-bottom: 1px solid #e2e8f0;">
-                  <td style="padding: 12px 16px; font-weight: 600; color: #334155;">Gumla to Ranchi</td>
-                  <td style="padding: 12px 16px; color: #64748b;">~95 km (NH-43)</td>
-                  <td style="padding: 12px 16px; color: #27ae60; font-weight: 600;">Same Day (2.5 - 4 Hours)</td>
+                <tr style="border-bottom: 1px solid #e2e8f0; background: #fff7ed;">
+                  <td style="padding: 12px 16px; font-weight: 700;"><a href="<?php echo SITE_BASE_URL; ?>/gumla-to-ranchi-packers-and-movers" style="color: #c2410c; text-decoration: none; display: inline-flex; align-items: center; gap: 4px;">Gumla to Ranchi &rarr;</a></td>
+                  <td style="padding: 12px 16px; color: #64748b;">~95 to 105 km (NH-43)</td>
+                  <td style="padding: 12px 16px; color: #15803d; font-weight: 600;">Same Day Express (2.0 - 3.0 Hours)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #e2e8f0; background: #fafafa;">
                   <td style="padding: 12px 16px; font-weight: 600; color: #334155;">Gumla to Lohardaga</td>
@@ -1039,8 +1039,30 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gum
     </div>
   </section>
 
-  <!-- Section: Google My Business Authentic Reviews -->
-  <?php include __DIR__ . '/includes/sections/gmb-reviews.php'; ?>
+  <!-- Inter-District Express Highway Corridor Highlight -->
+  <section style="background: #fff7ed; border-top: 2px solid #fdba74; border-bottom: 2px solid #fdba74; padding: 45px 0;">
+    <div class="container" style="max-width: 1040px; margin: 0 auto; padding: 0 20px;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 24px;">
+        <div style="max-width: 700px;">
+          <span style="background: #ffedd5; color: #c2410c; padding: 4px 12px; border-radius: 9999px; font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 8px;">
+            Direct Express Highway Route
+          </span>
+          <h3 style="font-size: 22px; font-weight: 800; color: #0d1b2a; margin: 0 0 10px;">
+            Relocating from Gumla to Ranchi?
+          </h3>
+          <p style="font-size: 15px; line-height: 1.7; color: #475569; margin: 0;">
+            Shifting from Tower Chowk, DSP Road, Sisai, or Hindalco operational bases to Ranchi? Experience our same-day express corridor (2.0 to 3.0 hours transit) via NH-43 with sealed container trucks, 5-layer packing, and 100% genuine IBA-approved documentation.
+          </p>
+        </div>
+        <div>
+          <a href="<?php echo SITE_BASE_URL; ?>/gumla-to-ranchi-packers-and-movers" style="background: #ff6a28; color: #ffffff; padding: 14px 26px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; white-space: nowrap; box-shadow: 0 4px 14px rgba(255,106,40,0.3); font-size: 15px;">
+            Explore Gumla &rarr; Ranchi Service
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <!-- SECTION 11: CALL TO ACTION BANNER -->
   <section style="background: linear-gradient(135deg, #0d1b2a 0%, #1f4068 100%); padding: 55px 0; color: #ffffff; text-align: center;">

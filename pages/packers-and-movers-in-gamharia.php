@@ -234,7 +234,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gamharia";
                     <a href="tel:+918409531615" class="btn-primary" style="background: #ffc107; color: #1a252f; padding: 14px 28px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
                         <i class="fa-solid fa-phone-volume"></i> Call Now: 8409531615
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Gamharia" target="_blank" class="btn-secondary" style="background: #25d366; color: #ffffff; padding: 14px 24px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
+                    <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Gamharia" target="_blank" rel="nofollow noopener" class="btn-secondary" style="background: #25d366; color: #ffffff; padding: 14px 24px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
                         <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
                     </a>
                 </div>
@@ -242,9 +242,9 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gamharia";
 
             <!-- Quick Booking Form Container -->
             <div class="hero-form-container" style="flex: 0 1 420px; min-width: 320px; background: #ffffff; padding: 30px; border-radius: 14px; box-shadow: 0 20px 40px rgba(0,0,0,0.25); color: #2c3e50;">
-                <h3 style="font-family: 'Outfit', sans-serif; font-size: 22px; font-weight: 700; margin-bottom: 8px; color: #0f172a; text-align: center;">
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 22px; font-weight: 700; margin-bottom: 8px; color: #0f172a; text-align: center;">
                     Get Free Quote in Gamharia
-                </h3>
+                </h2>
                 <p style="font-size: 13px; color: #7f8c8d; text-align: center; margin-bottom: 20px;">Fast response in under 15 minutes</p>
                 <form action="<?php echo SITE_BASE_URL; ?>/contact-form-handler.php" method="POST" class="hero-quote-form">
                     <input type="hidden" name="service_city" value="Gamharia">
@@ -427,35 +427,35 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gamharia";
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 1 - Scratch-Proof Foam Wrap</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 1 - Scratch-Proof Foam Wrap</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Direct surface application of virgin polyethylene foam film eliminates scratches and abrasions on polished wood, metallic panels, and gloss finishes.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 2 - Multi-Cellular Air Bubble Cushioning</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 2 - Multi-Cellular Air Bubble Cushioning</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Thick 80 GSM air bubble wrap absorbs kinetic shocks on LED smart TVs, refrigerators, washing machines, and fine chinaware.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 3 - Heavy Corrugated Corner Protectors</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 3 - Heavy Corrugated Corner Protectors</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Rigid angle guards and corrugated caps secured to wardrobe corners, dining tables, and marble table edges.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 4 - Sturdy 5-Ply & 7-Ply Cartons</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 4 - Sturdy 5-Ply & 7-Ply Cartons</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Heavy-duty Kraft corrugated boxes pre-partitioned for delicate kitchenware, books, clothes, and family heirlooms.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 5 - Moisture & Dust-Proof Thermal Wrap</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #0f172a;">Layer 5 - Moisture & Dust-Proof Thermal Wrap</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Industrial shrink wrap film sealed completely over cartons and wrapped items, creating a 100% dust-proof and waterproof outer barrier.</p>
                         </div>
@@ -792,28 +792,28 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gamharia";
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #00c853; flex-shrink: 0;"><i class="fa-solid fa-shield-halved"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Zero Hidden Charges Guarantee</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Zero Hidden Charges Guarantee</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">Our written moving quotation includes all packaging supplies, labour, expressway tolls, and transport freight. You never pay unexpected surcharges on delivery.</p>
                     </div>
                 </div>
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #0284c7; flex-shrink: 0;"><i class="fa-solid fa-file-invoice"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">100% Valid Corporate Reimbursement</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">100% Valid Corporate Reimbursement</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">We supply full GST invoices, LR consignment copies, insurance papers, and itemized inventory lists for effortless employer reimbursement.</p>
                     </div>
                 </div>
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #e67e22; flex-shrink: 0;"><i class="fa-solid fa-truck-ramp-box"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">In-House Experienced Crew</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">In-House Experienced Crew</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">Our staff are full-time trained professionals, not daily-wage ad-hoc labourers. They handle your delicate glassware, temple idols, and furniture with supreme respect.</p>
                     </div>
                 </div>
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #ec4899; flex-shrink: 0;"><i class="fa-solid fa-satellite"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Active GPS Tracking & 24/7 Desk</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #0f172a; margin-bottom: 6px;">Active GPS Tracking & 24/7 Desk</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">Track your truck along expressways and highways in real-time. Our dedicated move coordinator is accessible around the clock for milestone updates.</p>
                     </div>
                 </div>

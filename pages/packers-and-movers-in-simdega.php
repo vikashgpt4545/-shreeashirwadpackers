@@ -12,7 +12,7 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Packers and Movers in Simdega - 8409531615";
+$page_title = "Packers and Movers in Simdega - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Hire top packers and movers in Simdega by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, home shifting, car carrier & cross-border moves. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-simdega";
 ?>
@@ -271,7 +271,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
         ★ Most Trusted Relocation Services in Simdega & NH-143 Corridor
       </div>
       <h1 style="font-size: clamp(28px, 4.2vw, 44px); font-weight: 800; line-height: 1.25; margin-bottom: 18px; color: #ffffff;">
-        Packers and Movers in Simdega <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">- 8409531615</span>
+        Reliable Packers and Movers in <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Simdega, Jharkhand</span>
       </h1>
       <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 28px; max-width: 820px;">
         Welcome to Shree Ashirwad Packers and Movers in Simdega — the undisputed leader in safe, seamless, and dependable relocation services across the "Cradle of Indian Hockey" and the southern gateway of Jharkhand. Whether you are moving household goods within Simdega town, transferring to Rourkela across the Odisha border, or relocating to Ranchi, Gumla, or pan-India, our verified moving specialists deliver 5-layer protective packing, IBA-approved documentation, zero-damage handling, and all-weather containerized transit.
@@ -283,7 +283,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
           Call: 8409531615
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Simdega" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Simdega" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
           WhatsApp Instant Quote
         </a>
@@ -390,7 +390,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
         </p>
         <ul style="padding-left: 20px; color: #334155; font-size: 14.5px; line-height: 1.8; margin-bottom: 20px;">
           <li><strong>Dedicated Simdega - Rourkela Daily Corridor:</strong> Fast 24-hour inter-state shifting with full transit documentation.</li>
-          <li><strong>Simdega to Ranchi & Gumla Express Transit:</strong> Direct highway dispatch via NH-143 with zero transshipment delays.</li>
+          <li><strong><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-simdega-to-ranchi" style="color: #1e3a8a; text-decoration: underline; font-weight: 700;">Simdega to Ranchi</a> & Gumla Express Transit:</strong> Direct highway dispatch via NH-143 with zero transshipment delays.</li>
           <li><strong>Government & Paramilitary Transfer Compliance:</strong> Certified IBA-compliant invoices, consignment bilty, and transit insurance receipts.</li>
           <li><strong>End-to-End White Glove Service:</strong> Disassembly, bubble cushioning, strapping, safe transit, room-wise placement, and reassembly.</li>
         </ul>
@@ -646,7 +646,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
                 <td style="padding: 10px 12px; font-weight: 700; color: #1e3a8a;">Same Day (4-6 Hrs)</td>
               </tr>
               <tr style="border-bottom: 1px solid #e2e8f0;">
-                <td style="padding: 10px 12px; font-weight: 600;">Simdega to Ranchi</td>
+                <td style="padding: 10px 12px; font-weight: 600;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-simdega-to-ranchi" style="color: #1e3a8a; text-decoration: underline; font-weight: 700;" title="Packers and Movers Simdega to Ranchi">Simdega to Ranchi</a></td>
                 <td style="padding: 10px 12px; color: #64748b;">140 km</td>
                 <td style="padding: 10px 12px; font-weight: 700; color: #1e3a8a;">24 Hours</td>
               </tr>
@@ -1070,6 +1070,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-palamu" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 6px 14px; border-radius: 20px; font-size: 13px; color: #1e3a8a; text-decoration: none; font-weight: 600;">Palamu</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ramgarh" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 6px 14px; border-radius: 20px; font-size: 13px; color: #1e3a8a; text-decoration: none; font-weight: 600;">Ramgarh</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-saraikela-kharsawan" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 6px 14px; border-radius: 20px; font-size: 13px; color: #1e3a8a; text-decoration: none; font-weight: 600;">Saraikela Kharsawan</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-simdega-to-ranchi" style="background: #1e3a8a; border: 1px solid #1e3a8a; padding: 6px 14px; border-radius: 20px; font-size: 13px; color: #ffffff; text-decoration: none; font-weight: 700;">Simdega to Ranchi Movers</a>
     </div>
   </div>
 </section>

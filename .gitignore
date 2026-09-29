@@ -12,3 +12,11 @@ __pycache__/
 
 includes/leads_backup.json
 .agents/
+
+# Audit, GSC, Semrush and Keyword Analysis Data (Local only)
+data/
+problem/
+*.xlsx
+keywords-*.txt
+disavow.txt
+

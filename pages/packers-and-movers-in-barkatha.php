@@ -12,7 +12,7 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Packers and Movers in Barkatha - 8409531615";
+$page_title = "Packers and Movers in Barkatha - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Top packers and movers in Barkatha, Hazaribagh. Shree Ashirwad Packers and Movers provides trusted household shifting, vehicle transport, office relocation, and storage on GT Road NH-19.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-barkatha";
 ?>
@@ -24,8 +24,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bar
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
   <title><?php echo $page_title; ?></title>
-  <meta name="description" content="<?php echo $page_description; ?>
-  <meta name="keywords" content="packers and movers in barkatha, packers and movers barkatha, best packers and movers in barkatha, household shifting barkatha, car transport barkatha, bike parcel barkatha, iba approved packers barkatha, local shifting barkatha">">
+  <meta name="description" content="<?php echo $page_description; ?>">
+  <meta name="keywords" content="packers and movers in barkatha, packers and movers barkatha, best packers and movers in barkatha, household shifting barkatha, car transport barkatha, bike parcel barkatha, iba approved packers barkatha, local shifting barkatha">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
@@ -225,7 +225,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bar
           ★ Premier Shifting Authority on the GT Road & Surajkund Corridor
         </div>
         <h1 style="font-size: clamp(28px, 4.2vw, 44px); font-weight: 800; line-height: 1.25; margin-bottom: 18px; color: #ffffff;">
-          Packers and Movers in Barkatha <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: #f39c12;">- 8409531615</span>
+          Reliable Packers and Movers in <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: #f39c12;">Barkatha, Jharkhand</span>
         </h1>
         <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 28px; max-width: 820px;">
           Welcome to Shree Ashirwad Packers and Movers in Barkatha — your trusted relocation specialist situated on the historic Grand Trunk Road (NH-19) in northern Hazaribagh. Famous across the nation for the divine Surajkund thermal springs and vibrant roadside commerce, Barkatha enjoys seamless highway connectivity. We provide 5-layer protective packing, closed container fleet transit, IBA-approved documentation, and zero-compromise safety for homes and enterprises.

@@ -302,7 +302,8 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             border-radius: 12px;
         }
 
-        .stat-item h4 {
+        .stat-item h4,
+        .stat-item .stat-num {
             font-size: 1.5rem;
             font-weight: 700;
             color: #f59e0b;
@@ -370,6 +371,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             color: var(--text-dark);
         }
 
+        .hero-form-card h2,
         .hero-form-card h3 {
             font-family: 'Outfit', sans-serif;
             font-size: 1.45rem;
@@ -648,6 +650,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             margin-bottom: 15px;
         }
 
+        .method-card h3,
         .method-card h4 {
             font-family: 'Outfit', sans-serif;
             font-size: 1.15rem;
@@ -762,6 +765,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             margin-bottom: 16px;
         }
 
+        .why-card h3,
         .why-card h4 {
             font-family: 'Outfit', sans-serif;
             font-size: 1.2rem;
@@ -892,15 +896,15 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             </p>
             <div class="hero-stats">
                 <div class="stat-item">
-                    <h4>12+ Years</h4>
+                    <div class="stat-num">12+ Years</div>
                     <p>Relocation Excellence</p>
                 </div>
                 <div class="stat-item">
-                    <h4>8,400+</h4>
+                    <div class="stat-num">8,400+</div>
                     <p>Moves Executed</p>
                 </div>
                 <div class="stat-item">
-                    <h4>100% Safe</h4>
+                    <div class="stat-num">100% Safe</div>
                     <p>Transit Guarantee</p>
                 </div>
             </div>
@@ -916,7 +920,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
 
         <!-- Quick Form Card -->
         <div class="hero-form-card" id="quick-quote">
-            <h3>Request Instant Moving Quote</h3>
+            <h2>Request Instant Moving Quote</h2>
             <p>Reliable pricing with zero hidden charges</p>
             <form action="<?php echo SITE_BASE_URL; ?>/contact" method="POST">
                 <div class="form-group-field">
@@ -1100,7 +1104,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
         <div class="method-steps">
             <div class="method-card">
                 <span class="step-number">01</span>
-                <h4>Technical Survey</h4>
+                <h3>Technical Survey</h3>
                 <p>
                     Our relocation counselor conducts an in-person or high-definition virtual inventory assessment in Ghatshila to analyze cargo volume, identify delicate antique items, check floor stairway access, and plan vehicle selection.
                 </p>
@@ -1108,7 +1112,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
 
             <div class="method-card">
                 <span class="step-number">02</span>
-                <h4>5-Layer Defense Packing</h4>
+                <h3>5-Layer Defense Packing</h3>
                 <p>
                     Every item receives multi-tiered shielding: virgin air bubble wrap, heavy 5-ply corrugated sheets, thermal polystyrene foam edge protectors, silica moisture desiccants, and tear-resistant stretch wrap.
                 </p>
@@ -1116,7 +1120,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
 
             <div class="method-card">
                 <span class="step-number">03</span>
-                <h4>Scientific Weight Loading</h4>
+                <h3>Scientific Weight Loading</h3>
                 <p>
                     Heavy appliances and hardwood furniture bases are anchored on rubberized dunnage mats on the truck floor, while lighter carton boxes are secured above using industrial cargo safety straps.
                 </p>
@@ -1124,7 +1128,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
 
             <div class="method-card">
                 <span class="step-number">04</span>
-                <h4>GPS Highway Transit</h4>
+                <h3>GPS Highway Transit</h3>
                 <p>
                     Closed-container trucks depart along NH-18 under continuous satellite telematics tracking. Experienced highway drivers maintain controlled speeds to neutralize vibration and rough terrain shocks.
                 </p>
@@ -1132,7 +1136,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
 
             <div class="method-card">
                 <span class="step-number">05</span>
-                <h4>Unpacking & Room Setup</h4>
+                <h3>Unpacking & Room Setup</h3>
                 <p>
                     At your destination, our trained team unloads, checks inventory against the consignment sheet, carefully unwraps cartons, reassembles furniture items, and cleans away debris before departure.
                 </p>
@@ -1347,49 +1351,49 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
         <div class="why-us-grid">
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-user-shield"></i></div>
-                <h4>100% Background-Checked Staff</h4>
+                <h3>100% Background-Checked Staff</h3>
                 <p>Every packaging technician and driver on our payroll undergoes police verification and safety training before entering your residence.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-boxes-packing"></i></div>
-                <h4>Virgin Packing Supplies</h4>
+                <h3>Virgin Packing Supplies</h3>
                 <p>We never reuse battered cardboard cartons. Only fresh 5-ply corrugated sheets, new bubble rolls, and commercial cling film are utilized.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-satellite-dish"></i></div>
-                <h4>GPS Real-Time Tracking</h4>
+                <h3>GPS Real-Time Tracking</h3>
                 <p>Receive milestone notifications and satellite location coordinates throughout your consignment's journey from Ghatshila to its final stop.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-file-shield"></i></div>
-                <h4>Comprehensive Transit Insurance</h4>
+                <h3>Comprehensive Transit Insurance</h3>
                 <p>Zero risk with end-to-end transit insurance covering accidental road hazards, overturn, fire, and unforeseen transit disruptions.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-hand-holding-dollar"></i></div>
-                <h4>Guaranteed Fixed Price</h4>
+                <h3>Guaranteed Fixed Price</h3>
                 <p>Our comprehensive quotes carry zero surprise charges, fuel surcharges, or arbitrary unloading fees on delivery day.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-headset"></i></div>
-                <h4>Dedicated Move Coordinator</h4>
+                <h3>Dedicated Move Coordinator</h3>
                 <p>A single point of contact answers your queries, organizes labor schedules, and ensures seamless coordination until the final box is opened.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-couch"></i></div>
-                <h4>Furniture Assembly Support</h4>
+                <h3>Furniture Assembly Support</h3>
                 <p>Our carpenters dismantle modular beds, wardrobes, and dining sets with precision tools, reassembling them securely at your new location.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-industry"></i></div>
-                <h4>Industrial & PSU Experience</h4>
+                <h3>Industrial & PSU Experience</h3>
                 <p>Over a decade of handling official corporate transfers for HCL Moubhandar, banks, railways, and educational institutions in East Singhbhum.</p>
             </div>
         </div>
@@ -1482,7 +1486,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             <a href="tel:+918409531615" class="btn-call-primary" style="background: #f59e0b; color: #0f172a;">
                 <i class="fa-solid fa-phone"></i> Call +91 8409531615
             </a>
-            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%2C%20I%20need%20packers%20and%20movers%20services%20in%20Ghatshila." target="_blank" class="btn-quote-secondary" style="background: #25d366; border-color: #25d366; color: #ffffff;">
+            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%2C%20I%20need%20packers%20and%20movers%20services%20in%20Ghatshila." target="_blank" rel="nofollow noopener" class="btn-quote-secondary" style="background: #25d366; border-color: #25d366; color: #ffffff;">
                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>

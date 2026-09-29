@@ -12,7 +12,7 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Packers and Movers in Basia - 8409531615";
+$page_title = "Packers and Movers in Basia - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Best packers and movers in Basia, Gumla. Shree Ashirwad Packers and Movers provides trusted household shifting, vehicle transport, office relocation, and storage in Basia.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-basia";
 ?>
@@ -24,8 +24,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bas
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
   <title><?php echo $page_title; ?></title>
-  <meta name="description" content="<?php echo $page_description; ?>
-  <meta name="keywords" content="packers and movers in basia, packers and movers basia, best packers and movers in basia, household shifting basia, car transport basia, bike parcel basia, iba approved packers basia, local shifting basia">">
+  <meta name="description" content="<?php echo $page_description; ?>">
+  <meta name="keywords" content="packers and movers in basia, packers and movers basia, best packers and movers in basia, household shifting basia, car transport basia, bike parcel basia, iba approved packers basia, local shifting basia">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
@@ -225,7 +225,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bas
           ★ Certified Relocation Leader along South Koel River & NH-43
         </div>
         <h1 style="font-size: clamp(28px, 4.2vw, 44px); font-weight: 800; line-height: 1.25; margin-bottom: 18px; color: #ffffff;">
-          Packers and Movers in Basia <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: #f39c12;">- 8409531615</span>
+          Reliable Packers and Movers in <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: #f39c12;">Basia, Jharkhand</span>
         </h1>
         <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 28px; max-width: 820px;">
           Welcome to Shree Ashirwad Packers and Movers in Basia — your trusted moving partner positioned at the scenic South Koel River crossing and the vital road junction connecting Gumla, Simdega, Khunti, and Ranchi. Whether moving a family household near Basia Bazar, transferring administrative or school staff across the district, or organizing direct container transit to Rourkela and pan-India, we guarantee 5-layer protective packing, sealed container fleets, and 100% safe arrival.

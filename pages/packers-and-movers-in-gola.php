@@ -302,7 +302,8 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
             border-radius: 12px;
         }
 
-        .stat-item h4 {
+        .stat-item h4,
+        .stat-item .stat-num {
             font-size: 1.5rem;
             font-weight: 700;
             color: #fbbf24;
@@ -370,6 +371,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
             color: var(--text-dark);
         }
 
+        .hero-form-card h2,
         .hero-form-card h3 {
             font-family: 'Outfit', sans-serif;
             font-size: 1.45rem;
@@ -648,6 +650,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
             margin-bottom: 15px;
         }
 
+        .method-card h3,
         .method-card h4 {
             font-family: 'Outfit', sans-serif;
             font-size: 1.15rem;
@@ -762,6 +765,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
             margin-bottom: 16px;
         }
 
+        .why-card h3,
         .why-card h4 {
             font-family: 'Outfit', sans-serif;
             font-size: 1.2rem;
@@ -892,15 +896,15 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
             </p>
             <div class="hero-stats">
                 <div class="stat-item">
-                    <h4>12+ Years</h4>
+                    <div class="stat-num">12+ Years</div>
                     <p>Ramgarh Moves</p>
                 </div>
                 <div class="stat-item">
-                    <h4>7,800+</h4>
+                    <div class="stat-num">7,800+</div>
                     <p>Families Relocated</p>
                 </div>
                 <div class="stat-item">
-                    <h4>100% Safe</h4>
+                    <div class="stat-num">100% Safe</div>
                     <p>Transit Assurance</p>
                 </div>
             </div>
@@ -916,7 +920,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
 
         <!-- Quick Form Card -->
         <div class="hero-form-card" id="quick-quote">
-            <h3>Get Instant Moving Estimate</h3>
+            <h2>Get Instant Moving Estimate</h2>
             <p>Honest pricing for home, mandi business & factory moves</p>
             <form action="<?php echo SITE_BASE_URL; ?>/contact" method="POST">
                 <div class="form-group-field">
@@ -1104,7 +1108,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
         <div class="method-steps">
             <div class="method-card">
                 <span class="step-number">01</span>
-                <h4>Technical Assessment</h4>
+                <h3>Technical Assessment</h3>
                 <p>
                     Our relocation coordinator reviews your belongings in Gola via on-site visit or digital video survey to determine cargo volume, packaging needs, fragile item crating, and vehicle sizing.
                 </p>
@@ -1112,7 +1116,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
 
             <div class="method-card">
                 <span class="step-number">02</span>
-                <h4>5-Layer Defense Packing</h4>
+                <h3>5-Layer Defense Packing</h3>
                 <p>
                     Appliances and furniture are wrapped with virgin bubble wrap, corrugated sheets, foam edge buffers, moisture absorbing desiccants, and multiple layers of industrial stretch film.
                 </p>
@@ -1120,7 +1124,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
 
             <div class="method-card">
                 <span class="step-number">03</span>
-                <h4>Scientific Weight Loading</h4>
+                <h3>Scientific Weight Loading</h3>
                 <p>
                     Heavy items are anchored to truck floor rings with reinforced cargo straps on rubber dunnage mats. Lighter boxes are stacked systematically above to avoid crushing pressure.
                 </p>
@@ -1128,7 +1132,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
 
             <div class="method-card">
                 <span class="step-number">04</span>
-                <h4>GPS Monitored Transit</h4>
+                <h3>GPS Monitored Transit</h3>
                 <p>
                     Closed-body container trucks depart Gola via SH-23 or connecting arterial roads. Experienced highway drivers maintain controlled speeds to neutralize vibration and rough terrain shocks.
                 </p>
@@ -1136,7 +1140,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
 
             <div class="method-card">
                 <span class="step-number">05</span>
-                <h4>Unloading & Setup</h4>
+                <h3>Unloading & Setup</h3>
                 <p>
                     At your destination, our trained team unloads every carton, verifies inventory numbers, re-assembles beds and heavy cupboards, and clears all packing residue before completion.
                 </p>
@@ -1349,49 +1353,49 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
         <div class="why-us-grid">
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-user-shield"></i></div>
-                <h4>Police Verified Staff</h4>
+                <h3>Police Verified Staff</h3>
                 <p>Every packaging technician and driver on our payroll undergoes rigorous background verification and professional safety training.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-truck-shield"></i></div>
-                <h4>Enclosed Container Fleets</h4>
+                <h3>Enclosed Container Fleets</h3>
                 <p>Weatherproof steel container trucks prevent rain, dust, and highway vibrations from damaging your precious belongings.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-boxes-packing"></i></div>
-                <h4>Virgin Packaging Materials</h4>
+                <h3>Virgin Packaging Materials</h3>
                 <p>We use only fresh 5-ply corrugated sheets, new air bubble rolls, corner guards, and industrial shrink wrap for maximum protection.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-file-invoice-dollar"></i></div>
-                <h4>100% Valid GST Invoices</h4>
+                <h3>100% Valid GST Invoices</h3>
                 <p>Complete paperwork including GST tax invoices, consignment receipts (LR), and itemized lists accepted for employer claim reimbursements.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-shield-halved"></i></div>
-                <h4>Transit Insurance Coverage</h4>
+                <h3>Transit Insurance Coverage</h3>
                 <p>Comprehensive transit insurance policies backed by leading national insurers protect your assets against unforeseen road hazards.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-hand-holding-dollar"></i></div>
-                <h4>Guaranteed Fixed Rates</h4>
+                <h3>Guaranteed Fixed Rates</h3>
                 <p>Our comprehensive written estimates carry zero hidden charges, sudden fuel surcharges, or unexpected delivery fees.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-couch"></i></div>
-                <h4>Furniture Assembly Support</h4>
+                <h3>Furniture Assembly Support</h3>
                 <p>Skilled technicians dismantle modular beds, wardrobes, and tables with proper tools, reassembling them securely at your new location.</p>
             </div>
 
             <div class="why-card">
                 <div class="why-icon"><i class="fa-solid fa-headset"></i></div>
-                <h4>Dedicated Move Coordinator</h4>
+                <h3>Dedicated Move Coordinator</h3>
                 <p>A single point of contact provides live updates and oversees your relocation from the moment packing begins until completion.</p>
             </div>
         </div>
@@ -1484,7 +1488,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gola";
             <a href="tel:+918409531615" class="btn-call-primary" style="background: #fbbf24; color: #0f172a;">
                 <i class="fa-solid fa-phone"></i> Call +91 8409531615
             </a>
-            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%2C%20I%20need%20packers%20and%20movers%20services%20in%20Gola." target="_blank" class="btn-quote-secondary" style="background: #25d366; border-color: #25d366; color: #ffffff;">
+            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%2C%20I%20need%20packers%20and%20movers%20services%20in%20Gola." target="_blank" rel="nofollow noopener" class="btn-quote-secondary" style="background: #25d366; border-color: #25d366; color: #ffffff;">
                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>

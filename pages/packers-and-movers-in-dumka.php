@@ -438,13 +438,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dum
             <div>
               <div style="color:#ff6a28; font-size:1.8rem; margin-bottom:12px;">&#127968;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting" style="color:#0f223d; text-decoration:none;">Household Shifting Services</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" style="color:#0f223d; text-decoration:none;">Household Shifting Services</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Complete home relocation for independent houses, flats, and bungalows in Dumka. We dismantle double beds, wrap wooden wardrobes, pack delicate temple artifacts, and unpack everything at your destination.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting" style="color:#ff6a28; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Home Shifting &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" style="color:#ff6a28; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Home Shifting &rarr;</a>
           </div>
 
           <!-- Service Card 2 -->
@@ -452,13 +452,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dum
             <div>
               <div style="color:#2563eb; font-size:1.8rem; margin-bottom:12px;">&#127973;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/business-shifting" style="color:#0f223d; text-decoration:none;">SKMU &amp; PJMCH Faculty Moves</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" style="color:#0f223d; text-decoration:none;">SKMU &amp; PJMCH Faculty Moves</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Specialized moving solutions for professors, researchers, and medical doctors at Sido Kanhu Murmu University and Phulo Jhano Murmu Medical College with 100% IBA-compliant bills.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/business-shifting" style="color:#2563eb; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Institutional Shifting &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" style="color:#2563eb; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Institutional Shifting &rarr;</a>
           </div>
 
           <!-- Service Card 3 -->
@@ -466,13 +466,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dum
             <div>
               <div style="color:#16a34a; font-size:1.8rem; margin-bottom:12px;">&#128663;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting" style="color:#0f223d; text-decoration:none;">Car Carrier &amp; Bike Transport</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" style="color:#0f223d; text-decoration:none;">Car Carrier &amp; Bike Transport</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Safe, insured automobile relocation from Dumka to Ranchi, Patna, Kolkata, Delhi NCR, and Bengaluru. Enclosed car carriers with wheel clamps and wooden crating for two-wheelers ensure scratch-free transit.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting" style="color:#16a34a; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Vehicle Shifting &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" style="color:#16a34a; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Vehicle Shifting &rarr;</a>
           </div>
 
           <!-- Service Card 4 -->
@@ -480,13 +480,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dum
             <div>
               <div style="color:#8b5cf6; font-size:1.8rem; margin-bottom:12px;">&#128230;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking" style="color:#0f223d; text-decoration:none;">5-Layer Protective Packaging</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking/" style="color:#0f223d; text-decoration:none;">5-Layer Protective Packaging</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Scientific packing employing virgin bubble wrap, heavy-duty corrugated sheets, corner foam protectors, and waterproof stretch wraps. Custom wooden crates are built for televisions, temple mandirs, and glassware.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking" style="color:#8b5cf6; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Packing Services &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking/" style="color:#8b5cf6; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Packing Services &rarr;</a>
           </div>
 
           <!-- Service Card 5 -->
@@ -494,13 +494,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dum
             <div>
               <div style="color:#ea580c; font-size:1.8rem; margin-bottom:12px;">&#128651;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services" style="color:#0f223d; text-decoration:none;">Loading &amp; Unloading Services</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services/" style="color:#0f223d; text-decoration:none;">Loading &amp; Unloading Services</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Trained laborers equipped with hydraulic trolleys, heavy lifting straps, and furniture dollies handle heavy wooden wardrobes, godrej almirahs, and appliances safely across staircases.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services" style="color:#ea580c; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Loading Services &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services/" style="color:#ea580c; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Loading Services &rarr;</a>
           </div>
 
           <!-- Service Card 6 -->
@@ -508,13 +508,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dum
             <div>
               <div style="color:#0284c7; font-size:1.8rem; margin-bottom:12px;">&#127981;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service" style="color:#0f223d; text-decoration:none;">Warehousing &amp; Storage</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/" style="color:#0f223d; text-decoration:none;">Warehousing &amp; Storage</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Secure, moisture-protected, and 24/7 CCTV-monitored warehouse storage facility in Dumka. Perfect for storing household goods, office archives, or retail stock during home renovations.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service" style="color:#0284c7; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Storage Solutions &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/" style="color:#0284c7; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Storage Solutions &rarr;</a>
           </div>
 
         </div>

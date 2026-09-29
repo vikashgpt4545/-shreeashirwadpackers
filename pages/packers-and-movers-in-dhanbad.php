@@ -435,13 +435,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
             <div>
               <div style="color:#ff6a28; font-size:1.8rem; margin-bottom:12px;">&#127968;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting" style="color:#0f223d; text-decoration:none;">Household Shifting Services</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" style="color:#0f223d; text-decoration:none;">Household Shifting Services</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Complete home relocation for independent houses, apartments, and government quarters in Dhanbad. We dismantle double beds, wrap wooden wardrobes, pack delicate kitchenware, and unpack everything at your destination.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting" style="color:#ff6a28; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Home Shifting &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" style="color:#ff6a28; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Home Shifting &rarr;</a>
           </div>
 
           <!-- Service Card 2 -->
@@ -449,13 +449,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
             <div>
               <div style="color:#2563eb; font-size:1.8rem; margin-bottom:12px;">&#127973;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/business-shifting" style="color:#0f223d; text-decoration:none;">BCCL &amp; Corporate Shifting</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" style="color:#0f223d; text-decoration:none;">BCCL &amp; Corporate Shifting</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Seamless commercial shifting for corporate mining offices, bank branches, and administrative departments in Dhanbad. We handle IT workstation packing, server setups, and confidential document organization.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/business-shifting" style="color:#2563eb; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Corporate Shifting &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" style="color:#2563eb; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Corporate Shifting &rarr;</a>
           </div>
 
           <!-- Service Card 3 -->
@@ -463,13 +463,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
             <div>
               <div style="color:#16a34a; font-size:1.8rem; margin-bottom:12px;">&#128663;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting" style="color:#0f223d; text-decoration:none;">Car Carrier &amp; Bike Transport</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" style="color:#0f223d; text-decoration:none;">Car Carrier &amp; Bike Transport</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Safe, insured automobile relocation from Dhanbad to Kolkata, Ranchi, Patna, Delhi NCR, and Bengaluru. Enclosed car carriers with wheel locking mechanisms and wooden crating for two-wheelers ensure scratch-free transit.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting" style="color:#16a34a; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Vehicle Shifting &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" style="color:#16a34a; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Vehicle Shifting &rarr;</a>
           </div>
 
           <!-- Service Card 4 -->
@@ -477,13 +477,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
             <div>
               <div style="color:#8b5cf6; font-size:1.8rem; margin-bottom:12px;">&#128230;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking" style="color:#0f223d; text-decoration:none;">5-Layer Protective Packaging</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking/" style="color:#0f223d; text-decoration:none;">5-Layer Protective Packaging</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Scientific packing employing virgin bubble wrap, heavy-duty corrugated sheets, corner foam protectors, and airtight stretch wraps. Specialized custom wooden crates are provided for televisions, temple mandirs, and glass tops.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking" style="color:#8b5cf6; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Packing Services &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking/" style="color:#8b5cf6; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Packing Services &rarr;</a>
           </div>
 
           <!-- Service Card 5 -->
@@ -491,13 +491,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
             <div>
               <div style="color:#ea580c; font-size:1.8rem; margin-bottom:12px;">&#128651;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services" style="color:#0f223d; text-decoration:none;">Loading &amp; Unloading Services</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services/" style="color:#0f223d; text-decoration:none;">Loading &amp; Unloading Services</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Trained laborers equipped with hydraulic trolleys, heavy lifting straps, and furniture dollies handle heavy wooden wardrobes, godrej almirahs, and washing machines safely across high-rise staircases and elevators.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services" style="color:#ea580c; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Loading Services &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services/" style="color:#ea580c; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Loading Services &rarr;</a>
           </div>
 
           <!-- Service Card 6 -->
@@ -505,13 +505,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
             <div>
               <div style="color:#0284c7; font-size:1.8rem; margin-bottom:12px;">&#127981;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service" style="color:#0f223d; text-decoration:none;">Warehousing &amp; Storage</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/" style="color:#0f223d; text-decoration:none;">Warehousing &amp; Storage</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Secure, moisture-protected, and 24/7 CCTV-monitored warehouse storage facility in Dhanbad. Perfect for storing household goods, office archives, or retail inventory during home renovations or job transfers.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service" style="color:#0284c7; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Storage Solutions &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/" style="color:#0284c7; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Storage Solutions &rarr;</a>
           </div>
 
         </div>
@@ -733,11 +733,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
                     <td style="padding:10px;">Same Day / 24 Hours</td>
                     <td style="padding:10px; font-weight:700; color:#ff6a28;">₹11,000 - ₹22,000</td>
                   </tr>
-                  <tr style="border-bottom:1px solid #f1f5f9;">
-                    <td style="padding:10px; font-weight:600;">Dhanbad to Ranchi</td>
+                  <tr style="border-bottom:1px solid #f1f5f9; background:#fff7ed;">
+                    <td style="padding:10px; font-weight:700;"><a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-ranchi-packers-and-movers" style="color:#c2410c; text-decoration:none; display:inline-flex; align-items:center; gap:4px;">Dhanbad to Ranchi &rarr;</a></td>
                     <td style="padding:10px;">150 km</td>
-                    <td style="padding:10px;">Same Day (6-8 Hours)</td>
-                    <td style="padding:10px; font-weight:700; color:#ff6a28;">₹8,500 - ₹17,000</td>
+                    <td style="padding:10px; font-weight:600; color:#15803d;">Same Day Express (3.5 - 5 Hrs)</td>
+                    <td style="padding:10px; font-weight:700; color:#ff6a28;">₹7,000 - ₹17,500</td>
                   </tr>
                   <tr style="border-bottom:1px solid #f1f5f9;">
                     <td style="padding:10px; font-weight:600;">Dhanbad to Bokaro</td>
@@ -1045,8 +1045,32 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
         </div>
       </section>
 
-      <!-- Section: Google My Business Authentic Reviews -->
-      <?php include __DIR__ . '/includes/sections/gmb-reviews.php'; ?>
+      <!-- Inter-District Express Highway Corridor Highlight -->
+      <section style="background:#fff7ed; border:2px solid #fdba74; border-radius:14px; padding:32px 28px; margin-bottom:45px;">
+        <div style="display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:20px;">
+          <div style="max-width:720px;">
+            <span style="background:#ffedd5; color:#c2410c; padding:4px 12px; border-radius:9999px; font-size:0.8rem; font-weight:700; text-transform:uppercase; letter-spacing:0.5px; display:inline-block; margin-bottom:8px;">
+              Direct Express Highway Service
+            </span>
+            <h3 style="font-size:1.45rem; font-weight:800; color:#0f223d; margin:0 0 8px;">
+              Looking for Dhanbad to Ranchi Packers and Movers?
+            </h3>
+            <p style="font-size:0.98rem; line-height:1.65; color:#475569; margin:0;">
+              Transferring from Bank More, Saraidhela, or BCCL Koyla Nagar to Ranchi? Experience our same-day express relocation corridor (3.5 to 5 hours transit) via NH-320 with soot-proof container trucks, 5-layer packing, and 100% genuine IBA-approved documentation.
+            </p>
+          </div>
+          <div style="display:flex; flex-direction:column; gap:8px;">
+            <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-ranchi-packers-and-movers" style="background:#ff6a28; color:#ffffff; padding:12px 20px; border-radius:8px; font-weight:700; text-decoration:none; display:inline-flex; align-items:center; gap:8px; white-space:nowrap; box-shadow:0 4px 14px rgba(255,106,40,0.3);">
+              Dhanbad &rarr; Ranchi Movers
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-dhanbad-packers-and-movers" style="background:#0f223d; color:#ffffff; padding:12px 20px; border-radius:8px; font-weight:700; text-decoration:none; display:inline-flex; align-items:center; gap:8px; white-space:nowrap;">
+              Ranchi &rarr; Dhanbad Movers
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </a>
+          </div>
+        </div>
+      </section>
 
       <!-- Section 11: Call to Action Banner -->
       <section style="background:linear-gradient(135deg, #0f223d 0%, #1e3a5f 100%); border-radius:14px; padding:45px 30px; text-align:center; color:#ffffff; margin-bottom:40px; box-shadow:0 8px 30px rgba(15,34,61,0.2);">

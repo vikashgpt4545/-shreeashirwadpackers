@@ -242,9 +242,9 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-domchanch";
 
             <!-- Quick Booking Form Container -->
             <div class="hero-form-container" style="flex: 0 1 420px; min-width: 320px; background: #ffffff; padding: 30px; border-radius: 14px; box-shadow: 0 20px 40px rgba(0,0,0,0.25); color: #2c3e50;">
-                <h3 style="font-family: 'Outfit', sans-serif; font-size: 22px; font-weight: 700; margin-bottom: 8px; color: #102a43; text-align: center;">
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 22px; font-weight: 700; margin-bottom: 8px; color: #102a43; text-align: center;">
                     Get Free Quote in Domchanch
-                </h3>
+                </h2>
                 <p style="font-size: 13px; color: #7f8c8d; text-align: center; margin-bottom: 20px;">Fast response in under 15 minutes</p>
                 <form action="<?php echo SITE_BASE_URL; ?>/contact-form-handler.php" method="POST" class="hero-quote-form">
                     <input type="hidden" name="service_city" value="Domchanch">
@@ -347,25 +347,25 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-domchanch";
             <!-- Structured Capabilities Cards: Section-wise Organization -->
             <div style="margin-top: 35px; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
                 <div style="background: #ffffff; padding: 22px; border-radius: 10px; border: 1px solid #e2e8f0; border-left: 4px solid #e67e22; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
-                    <h4 style="font-family: 'Outfit', sans-serif; font-size: 17px; font-weight: 700; color: #102a43; margin-bottom: 8px;">
+                    <h3 style="font-family: 'Outfit', sans-serif; font-size: 17px; font-weight: 700; color: #102a43; margin-bottom: 8px;">
                         <i class="fa-solid fa-shield-virus" style="color: #e67e22; margin-right: 6px;"></i> Dust-Resistant Encapsulation
-                    </h4>
+                    </h3>
                     <p style="font-size: 14px; color: #475569; margin: 0; line-height: 1.65;">
                         <strong>Shree Ashirwad Packers and Movers</strong> has engineered specialized moving protocols tailored specifically for Domchanch. Our dust-resistant shrink wrap encapsulation shields your precious items against airborne dust, while our heavy-duty enclosed container trucks navigate hilly terrain, sharp bypass bends, and state highways with total composure.
                     </p>
                 </div>
                 <div style="background: #ffffff; padding: 22px; border-radius: 10px; border: 1px solid #e2e8f0; border-left: 4px solid #102a43; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
-                    <h4 style="font-family: 'Outfit', sans-serif; font-size: 17px; font-weight: 700; color: #102a43; margin-bottom: 8px;">
+                    <h3 style="font-family: 'Outfit', sans-serif; font-size: 17px; font-weight: 700; color: #102a43; margin-bottom: 8px;">
                         <i class="fa-solid fa-map-location-dot" style="color: #102a43; margin-right: 6px;"></i> Local & Outstation Coverage
-                    </h4>
+                    </h3>
                     <p style="font-size: 14px; color: #475569; margin: 0; line-height: 1.65;">
                         Whether moving locally between Domchanch Chowk, Maheshpur, Dhab Road, and Jhumri Telaiya, or relocating outstation to Ranchi, Patna, Kolkata, or Delhi, our experienced team provides end-to-end relocation management backed by transparent written agreements, zero hidden charges, and comprehensive transit insurance.
                     </p>
                 </div>
                 <div style="background: #ffffff; padding: 22px; border-radius: 10px; border: 1px solid #e2e8f0; border-left: 4px solid #22c55e; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
-                    <h4 style="font-family: 'Outfit', sans-serif; font-size: 17px; font-weight: 700; color: #102a43; margin-bottom: 8px;">
+                    <h3 style="font-family: 'Outfit', sans-serif; font-size: 17px; font-weight: 700; color: #102a43; margin-bottom: 8px;">
                         <i class="fa-solid fa-couch" style="color: #22c55e; margin-right: 6px;"></i> Skilled Carpenter & Room Placement
-                    </h4>
+                    </h3>
                     <p style="font-size: 14px; color: #475569; margin: 0; line-height: 1.65;">
                         From professional furniture dismantling by skilled carpenters to careful room placement at your destination, we guarantee an effortless, punctual, and completely stress-free shifting experience with dedicated supervisor oversight.
                     </p>
@@ -451,35 +451,35 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-domchanch";
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 1 - Scratch-Proof Foam Underlay</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 1 - Scratch-Proof Foam Underlay</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">High-density polyethylene foam film wrapped directly against polished wood, glass mirrors, and metallic appliances to prevent friction and electrostatic charges.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 2 - Heavy 80 GSM Bubble Cushioning</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 2 - Heavy 80 GSM Bubble Cushioning</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Multi-pocket air bubble cushioning enclosing smart TVs, washing machines, refrigerators, and delicate crockery to absorb road bumps.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 3 - Heavy-Duty Corrugated Angle Guards</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 3 - Heavy-Duty Corrugated Angle Guards</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Rigid Kraft corner caps and edge protectors secured along dining table borders, wardrobes, and cabinet edges.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 4 - Sturdy 5-Ply & 7-Ply Cartons</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 4 - Sturdy 5-Ply & 7-Ply Cartons</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Heavy-gauge corrugated boxes partitioned systematically for kitchen appliances, clothing, books, and valuable articles.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 5 - Complete Dust & Moisture Thermal Wrap</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #102a43;">Layer 5 - Complete Dust & Moisture Thermal Wrap</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Industrial shrink wrap film sealed completely over each carton and furniture unit, making your goods 100% dust-proof and waterproof.</p>
                         </div>
@@ -816,28 +816,28 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-domchanch";
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #00c853; flex-shrink: 0;"><i class="fa-solid fa-circle-check"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #102a43; margin-bottom: 6px;">Zero Hidden Charges Guarantee</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #102a43; margin-bottom: 6px;">Zero Hidden Charges Guarantee</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">Our written moving quotation includes all packaging supplies, skilled labour, highway tolls, and transport freight. You never face surprise costs.</p>
                     </div>
                 </div>
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #0284c7; flex-shrink: 0;"><i class="fa-solid fa-file-invoice-dollar"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #102a43; margin-bottom: 6px;">100% Genuine Reimbursement Bills</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #102a43; margin-bottom: 6px;">100% Genuine Reimbursement Bills</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">We provide GST invoices, LR consignment copies, insurance certificates, and itemized inventory lists for effortless employer reimbursement.</p>
                     </div>
                 </div>
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #e67e22; flex-shrink: 0;"><i class="fa-solid fa-boxes-packing"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #102a43; margin-bottom: 6px;">Permanent Skilled Packing Crew</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #102a43; margin-bottom: 6px;">Permanent Skilled Packing Crew</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">Our staff are full-time trained professionals, not daily-wage labourers. They handle your delicate glassware, temple idols, and furniture with supreme care.</p>
                     </div>
                 </div>
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #ec4899; flex-shrink: 0;"><i class="fa-solid fa-satellite-dish"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #102a43; margin-bottom: 6px;">Live GPS Tracking & 24/7 Helpline</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #102a43; margin-bottom: 6px;">Live GPS Tracking & 24/7 Helpline</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">Track your transport vehicle in real-time. Our dedicated move coordinator is accessible 24/7 for milestone updates and complete support.</p>
                     </div>
                 </div>

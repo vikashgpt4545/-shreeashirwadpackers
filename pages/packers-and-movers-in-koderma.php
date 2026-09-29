@@ -12,7 +12,7 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Packers and Movers in Koderma - 8409531615";
+$page_title = "Packers and Movers in Koderma - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Hire best packers and movers in Koderma & Jhumri Telaiya by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, household & DVC plant shifting. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-koderma";
 ?>
@@ -260,7 +260,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-kod
         ★ Top-Rated Relocation Specialists in Koderma & Jhumri Telaiya
       </div>
       <h1 style="font-size: clamp(28px, 4.2vw, 44px); font-weight: 800; line-height: 1.25; margin-bottom: 18px; color: #ffffff;">
-        Packers and Movers in Koderma <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">- 8409531615</span>
+        Reliable Packers and Movers in <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">Koderma, Jharkhand</span>
       </h1>
       <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 28px; max-width: 820px;">
         Welcome to Shree Ashirwad Packers and Movers in Koderma — your most dependable relocation partner across the Mica Capital of India and the bustling commercial hub of Jhumri Telaiya. Whether you are shifting your family residence near Telaiya Chowk or Ranchi-Patna Road, transferring with Damodar Valley Corporation (DVC) at KTPS Banjhedih, moving commercial stock in Domchanch, or relocating across the Grand Chord railway corridor to Patna, Ranchi, or Kolkata, our specialized moving crews provide certified 5-layer packing, IBA-approved documentation, and zero-breakage closed container transit.
@@ -272,7 +272,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-kod
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
           Call: 8409531615
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Koderma" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Koderma" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
           WhatsApp Instant Quote
         </a>
@@ -572,7 +572,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-kod
             </thead>
             <tbody>
               <tr style="border-bottom: 1px solid #f1f5f9;">
-                <td style="padding: 11px 12px; font-weight: 600; color: #0f172a;">Koderma to Ranchi</td>
+                <td style="padding: 11px 12px; font-weight: 600; color: #0f172a;"><a href="<?php echo SITE_BASE_URL; ?>/koderma-to-ranchi-packers-and-movers" style="color: #1e3a8a; text-decoration: underline; font-weight: 700;">Koderma to Ranchi</a></td>
                 <td style="padding: 11px 12px; color: #475569;">160 km (NH-20)</td>
                 <td style="padding: 11px 12px; font-weight: 700; color: #3b82f6;">Same Day / 24 Hours</td>
               </tr>
@@ -920,7 +920,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-kod
           What are the transit times from Koderma to Ranchi, Patna, and Kolkata?
         </h3>
         <p style="font-size: 15px; color: #475569; line-height: 1.7; margin: 0;">
-          Transit from Koderma to Ranchi (approx. 160 km via NH-20) takes same-day or 24 hours. Koderma to Patna (approx. 170 km via Nawada/Bihar Sharif) takes 24 hours. Koderma to Kolkata takes 2 to 3 days.
+          Transit for our dedicated <a href="<?php echo SITE_BASE_URL; ?>/koderma-to-ranchi-packers-and-movers" style="color: #1e3a8a; text-decoration: underline; font-weight: 600;">Koderma to Ranchi packers and movers</a> route (approx. 160 km via NH-20) takes same-day or 24 hours. Koderma to Patna (approx. 170 km via Nawada/Bihar Sharif) takes 24 hours. Koderma to Kolkata takes 2 to 3 days.
         </p>
       </div>
 

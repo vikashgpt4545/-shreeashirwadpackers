@@ -51,7 +51,7 @@ function get_page_seo($page_identifier = 'home') {
             'og_image' => $canonical_base . '/assets/images/logo.png',
         ],
         'packing-and-unpacking' => [
-            'title' => 'Packing and Unpacking Services in Ranchi - 8409531615',
+            'title' => 'Packing and Unpacking Services in Ranchi - 8409531615 | Shree Ashirwad Packers',
             'description' => 'Professional packing and unpacking services in Ranchi by Shree Ashirwad Packers. 5-layer protective packing, bubble wrap, custom crating, zero damage guarantee. Call 8409531615.',
             'canonical' => $canonical_base . '/packing-and-unpacking/',
             'keywords' => 'packing and unpacking services in ranchi, packing and shifting services, house packing and moving services, house unpacking services, packers and movers packing, bubble wrap packaging services, fragile item packing, packers and movers in ranchi, best packers and movers in ranchi, trusted packers and movers in ranchi, iba approved packers and movers in ranchi, iso certified packers and movers in ranchi, packers and movers in ranchi price list, packers and movers charges in ranchi, packers and movers in ranchi jharkhand, shree ashirwad packers and movers ranchi, packing and moving charges, professional packing services',
@@ -358,39 +358,6 @@ function render_seo_tags($page_identifier = 'home') {
     }
     </script>
 
-    <!-- Product & Offer Schema for Google Search Rich Snippet Stars & Price Range -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Product",
-      "@id": "<?php echo htmlspecialchars($canonical_url, ENT_QUOTES, 'UTF-8'); ?>#product",
-      "name": "<?php echo htmlspecialchars($seo['title'], ENT_QUOTES, 'UTF-8'); ?>",
-      "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
-      "description": "<?php echo htmlspecialchars($seo['description'], ENT_QUOTES, 'UTF-8'); ?>",
-      "brand": {
-        "@type": "Brand",
-        "name": "<?php echo BUSINESS_NAME; ?>"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1",
-        "ratingCount": "664",
-        "reviewCount": "664"
-      },
-      "offers": {
-        "@type": "AggregateOffer",
-        "priceCurrency": "INR",
-        "lowPrice": "1500",
-        "highPrice": "50000",
-        "offerCount": "9",
-        "priceValidUntil": "2027-12-31",
-        "availability": "https://schema.org/InStock",
-        "url": "<?php echo htmlspecialchars($canonical_url, ENT_QUOTES, 'UTF-8'); ?>"
-      }
-    }
-    </script>
 
     <?php if ($page_identifier === 'about'): ?>
     <!-- BreadcrumbList Schema for Google Search -->
@@ -425,9 +392,18 @@ function render_seo_tags($page_identifier = 'home') {
       "description": "Learn more about Shree Ashirwad Packers and Movers, Jharkhand's leading relocation company since 2009 with IBA approved billing and ISO 9001:2015 certification.",
       "mainEntity": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        },
         "sameAs": [
           "https://share.google/ThfGaS541NwFKVsQZ",
           "<?php echo SOCIAL_FACEBOOK; ?>",
@@ -537,10 +513,19 @@ function render_seo_tags($page_identifier = 'home') {
       "name": "Residential Shifting Services in Ranchi",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "areaServed": [
         { "@type": "City", "name": "Ranchi" },
@@ -660,10 +645,19 @@ function render_seo_tags($page_identifier = 'home') {
       "name": "Business Shifting Services in Ranchi",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "areaServed": [
         { "@type": "City", "name": "Ranchi" },
@@ -783,10 +777,19 @@ function render_seo_tags($page_identifier = 'home') {
       "name": "Vehicle Shifting Services in Ranchi",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "areaServed": [
         { "@type": "City", "name": "Ranchi" },
@@ -906,10 +909,19 @@ function render_seo_tags($page_identifier = 'home') {
       "name": "Packing and Unpacking Services in Ranchi",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "areaServed": [
         { "@type": "City", "name": "Ranchi" },
@@ -1045,10 +1057,19 @@ function render_seo_tags($page_identifier = 'home') {
       "name": "Loading and Unloading Services in Ranchi",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "areaServed": [
         { "@type": "City", "name": "Ranchi" },
@@ -1184,10 +1205,19 @@ function render_seo_tags($page_identifier = 'home') {
       "name": "Warehouse Services in Ranchi",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "areaServed": [
         { "@type": "City", "name": "Ranchi" },
@@ -1323,10 +1353,19 @@ function render_seo_tags($page_identifier = 'home') {
       "name": "International Moving Services in Ranchi",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "areaServed": [
         { "@type": "Country", "name": "United States" },
@@ -1466,10 +1505,19 @@ function render_seo_tags($page_identifier = 'home') {
       "name": "Domestic Moving Services in Ranchi",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "areaServed": [
         { "@type": "City", "name": "Ranchi" },
@@ -1613,10 +1661,19 @@ function render_seo_tags($page_identifier = 'home') {
       "name": "Insurance Services in Ranchi",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "areaServed": [
         { "@type": "City", "name": "Ranchi" },
@@ -1748,10 +1805,19 @@ function render_seo_tags($page_identifier = 'home') {
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/gallery",
       "provider": {
         "@type": "MovingCompany",
+        "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
         "name": "<?php echo BUSINESS_NAME; ?>",
         "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
-        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png"
+        "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
+          "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
+          "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
+          "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+          "addressCountry": "IN"
+        }
       },
       "mainEntity": {
         "@type": "ImageGallery",

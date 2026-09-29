@@ -58,7 +58,7 @@ require_once __DIR__ . '/includes/seo.php';
         </nav>
         
         <h1 class="page-hero-title">
-          Packing and Unpacking Services in <span class="gradient-text">Ranchi - 8409531615</span>
+          Professional Packing &amp; Unpacking Services in <span class="gradient-text">Ranchi, Jharkhand</span>
         </h1>
         
         <p class="page-hero-subtitle">
@@ -1050,6 +1050,12 @@ require_once __DIR__ . '/includes/seo.php';
             <span class="area-pill">Chutia</span>
           </div>
           <div style="margin-top: 20px; padding-top: 16px; border-top: 1px solid #e2e8f0;">
+            <p style="font-size: 0.85rem; color: #64748b; margin-bottom: 8px;"><strong>Specialized Ranchi Division:</strong></p>
+            <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.85rem; margin-bottom: 14px;">
+              <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking-services-in-ranchi" title="Packing and Unpacking Services in Ranchi" style="color: var(--primary); text-decoration: underline; font-weight: 700;">Packing and Unpacking Services in Ranchi (Specialized City Unit)</a> &bull;
+              <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" title="Local Shifting Services in Ranchi" style="color: var(--primary); text-decoration: none; font-weight: 600;">Local Shifting in Ranchi</a> &bull;
+              <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" title="Household Shifting Services in Ranchi" style="color: var(--primary); text-decoration: none; font-weight: 600;">Household Shifting in Ranchi</a>
+            </div>
             <p style="font-size: 0.85rem; color: #64748b; margin-bottom: 8px;"><strong>Jharkhand District Branches:</strong></p>
             <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.85rem;">
               <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" title="Packers and Movers in Bokaro" style="color: var(--primary); text-decoration: none; font-weight: 600;">Bokaro Steel City</a> &bull;

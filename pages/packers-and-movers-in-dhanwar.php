@@ -242,9 +242,9 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dhanwar";
 
             <!-- Quick Booking Form Container -->
             <div class="hero-form-container" style="flex: 0 1 420px; min-width: 320px; background: #ffffff; padding: 30px; border-radius: 14px; box-shadow: 0 20px 40px rgba(0,0,0,0.25); color: #2c3e50;">
-                <h3 style="font-family: 'Outfit', sans-serif; font-size: 22px; font-weight: 700; margin-bottom: 8px; color: #132743; text-align: center;">
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 22px; font-weight: 700; margin-bottom: 8px; color: #132743; text-align: center;">
                     Get Free Quote in Dhanwar
-                </h3>
+                </h2>
                 <p style="font-size: 13px; color: #7f8c8d; text-align: center; margin-bottom: 20px;">Prompt response within 15 minutes</p>
                 <form action="<?php echo SITE_BASE_URL; ?>/contact-form-handler.php" method="POST" class="hero-quote-form">
                     <input type="hidden" name="service_city" value="Dhanwar">
@@ -427,35 +427,35 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dhanwar";
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 1 - Scratch-Proof Foam & Film</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 1 - Scratch-Proof Foam & Film</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Virgin polyethylene foam film applied directly over wooden veneers, glossy laminates, and polished furniture to eliminate surface abrasions.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 2 - High-Density Air Bubble Padding</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 2 - High-Density Air Bubble Padding</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Heavy-grade 80 GSM air bubble cushioning wrapped around LCD televisions, double-door refrigerators, microwave ovens, and glassware.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 3 - Heavy Corrugated Edge Guards</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 3 - Heavy Corrugated Edge Guards</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Rigid multi-ply edge protectors and corner caps fixed to wardrobes, dressing tables, and dining tables to absorb direct edge shocks.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 4 - Sturdy 5-Ply & 7-Ply Cartons</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 4 - Sturdy 5-Ply & 7-Ply Cartons</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Tough Kraft corrugated boxes pre-partitioned for chinaware, kitchen utensils, books, and delicate heirlooms with inner thermocol fillers.</p>
                         </div>
                         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 18px;">
                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
                                 <i class="fa-solid fa-circle-check" style="color: #00c853; font-size: 18px;"></i>
-                                <h4 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 5 - Moisture & Dust-Proof Shrink Film</h4>
+                                <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: #132743;">Layer 5 - Moisture & Dust-Proof Shrink Film</h3>
                             </div>
                             <p style="margin: 0; font-size: 13.5px; line-height: 1.6; color: #475569;">Industrial stretch wrap film thermally sealed around cartons and furniture to block humidity, dust, and sudden monsoon showers.</p>
                         </div>
@@ -789,28 +789,28 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dhanwar";
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #00c853; flex-shrink: 0;"><i class="fa-solid fa-circle-check"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #132743; margin-bottom: 6px;">Zero Hidden Charges Guarantee</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #132743; margin-bottom: 6px;">Zero Hidden Charges Guarantee</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">Our written quote covers all packing supplies, labour, state toll charges, and vehicle freight. You never pay unexpected surcharges on moving day.</p>
                     </div>
                 </div>
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #0284c7; flex-shrink: 0;"><i class="fa-solid fa-file-invoice-dollar"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #132743; margin-bottom: 6px;">100% Valid Transfer Bills</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #132743; margin-bottom: 6px;">100% Valid Transfer Bills</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">We provide GST invoices, lorry receipts (LR), packing inventory lists, and transit insurance certificates compliant with government and corporate reimbursement.</p>
                     </div>
                 </div>
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #e67e22; flex-shrink: 0;"><i class="fa-solid fa-boxes-packing"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #132743; margin-bottom: 6px;">Trained In-House Packaging Team</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #132743; margin-bottom: 6px;">Trained In-House Packaging Team</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">Our permanent staff are skilled carpenters and packing experts who treat your precious heirlooms, temple altars, and furniture with utmost care.</p>
                     </div>
                 </div>
                 <div style="display: flex; gap: 16px; background: #ffffff; padding: 22px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 3px 10px rgba(0,0,0,0.03);">
                     <div style="font-size: 28px; color: #ec4899; flex-shrink: 0;"><i class="fa-solid fa-satellite-dish"></i></div>
                     <div>
-                        <h4 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #132743; margin-bottom: 6px;">Live GPS Tracking & 24/7 Helpline</h4>
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 700; color: #132743; margin-bottom: 6px;">Live GPS Tracking & 24/7 Helpline</h3>
                         <p style="font-size: 14px; color: #475569; margin: 0;">Track your transport vehicle in real-time. Our dedicated move coordinator is accessible 24/7 for milestone updates and complete support.</p>
                     </div>
                 </div>

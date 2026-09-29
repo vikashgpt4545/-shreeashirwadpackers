@@ -12,7 +12,7 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Packers and Movers in Jamshedpur - 8409531615";
+$page_title = "Packers and Movers in Jamshedpur - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Hire top packers and movers in Jamshedpur & Bistupur by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, Tata Steel & corporate shifting. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jamshedpur";
 ?>
@@ -282,7 +282,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
           ★ Certified Relocation Excellence in Jamshedpur & Steel City
         </div>
         <h1 style="font-size: clamp(28px, 4.2vw, 44px); font-weight: 800; line-height: 1.25; margin-bottom: 18px; color: #ffffff;">
-          Packers and Movers in Jamshedpur <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">- 8409531615</span>
+          Reliable Packers and Movers in <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">Jamshedpur, Jharkhand</span>
         </h1>
         <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 28px; max-width: 820px;">
           Welcome to Shree Ashirwad Packers and Movers in Jamshedpur — the premier relocation authority across the Steel City, Tatanagar, and the vibrant industrial corridors of East Singhbhum and Adityapur. Whether you are moving between high-rise apartments in Bistupur, Sonari, or Kadma, transferring from corporate residences in Telco Colony and Baridih, or relocating inter-state to Kolkata, Ranchi, Bhubaneswar, Patna, or Delhi NCR via National Highway 33 and National Highway 18, we provide 5-layer protective packing, IBA-approved documentation, dedicated container trucks, and complete transit insurance.
@@ -294,7 +294,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
             Call: 8409531615
           </a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Jamshedpur" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Jamshedpur" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
             WhatsApp Instant Quote
           </a>
@@ -1004,7 +1004,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 22px;">
           <h3 style="font-size: 17px; font-weight: 700; color: #0d1b2a; margin-bottom: 8px;">How long does shifting take from Jamshedpur to Ranchi, Kolkata, or Bhubaneswar?</h3>
           <p style="font-size: 14.5px; line-height: 1.7; color: #475569; margin: 0;">
-            Shifting from Jamshedpur to Ranchi (~130 km) takes only 2.5 to 3.5 hours (same-day delivery) via the NH-33 four-lane highway. Relocations to Kolkata (~280 km via NH-18/NH-16) take 1 day (6-8 hours), while moves to Bhubaneswar take 1 day and to Delhi NCR or Mumbai take 3 to 5 days using our dedicated express container fleet.
+            Shifting from Jamshedpur to Ranchi (~130 km) takes only 3.5 to 5 hours (guaranteed same-day delivery) via the NH 43 four-lane highway with our dedicated <a href="<?php echo SITE_BASE_URL; ?>/jamshedpur-to-ranchi-packers-and-movers" title="Jamshedpur to Ranchi Packers and Movers" style="color: #f39c12; font-weight: 700; text-decoration: underline;">Jamshedpur to Ranchi Packers and Movers</a> and reverse <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jamshedpur-packers-and-movers" title="Ranchi to Jamshedpur Packers and Movers" style="color: #f39c12; font-weight: 700; text-decoration: underline;">Ranchi to Jamshedpur Packers and Movers</a> services. Relocations to Kolkata (~280 km via NH-18/NH-16) take 1 day (6-8 hours), while moves to Bhubaneswar take 1 day and to Delhi NCR or Mumbai take 3 to 5 days using our dedicated express container fleet.
           </p>
         </div>
 

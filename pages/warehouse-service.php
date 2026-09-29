@@ -758,6 +758,14 @@ require_once __DIR__ . '/includes/seo.php';
             <span class="area-pill">Chutia</span>
           </div>
           <div style="margin-top: 20px; padding-top: 16px; border-top: 1px solid #e2e8f0;">
+            <p style="font-size: 0.85rem; color: #64748b; margin-bottom: 8px;"><strong>Dedicated Ranchi Warehousing & Shifting Services:</strong></p>
+            <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.85rem; margin-bottom: 12px;">
+              <a href="<?php echo SITE_BASE_URL; ?>/warehouse-services-in-ranchi" title="Warehouse Services in Ranchi" style="color: var(--primary); text-decoration: underline; font-weight: 700;">Warehouse Services in Ranchi</a> &bull;
+              <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting-services-in-ranchi" title="Residential Shifting Services in Ranchi" style="color: var(--primary); text-decoration: underline; font-weight: 700;">Residential Shifting Services in Ranchi</a> &bull;
+              <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting-services-in-ranchi" title="Vehicle Shifting Services in Ranchi" style="color: var(--primary); text-decoration: underline; font-weight: 700;">Vehicle Shifting Services in Ranchi</a> &bull;
+              <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" title="Household Shifting Services in Ranchi" style="color: var(--primary); text-decoration: none; font-weight: 600;">Household Shifting Services in Ranchi</a> &bull;
+              <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" title="Local Shifting Services in Ranchi" style="color: var(--primary); text-decoration: none; font-weight: 600;">Local Shifting Services in Ranchi</a>
+            </div>
             <p style="font-size: 0.85rem; color: #64748b; margin-bottom: 8px;"><strong>Jharkhand District Branches:</strong></p>
             <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 0.85rem;">
               <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" title="Packers and Movers in Bokaro" style="color: var(--primary); text-decoration: none; font-weight: 600;">Bokaro Steel City</a> &bull;
