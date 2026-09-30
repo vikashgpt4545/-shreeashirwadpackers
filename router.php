@@ -14,6 +14,11 @@ $request_uri = isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : '/';
 $path = parse_url($request_uri, PHP_URL_PATH);
 $path = '/' . ltrim($path ? $path : '/', '/');
 
+// Serve static assets directly when running under PHP built-in dev server
+if (php_sapi_name() === 'cli-server' && is_file(__DIR__ . $path)) {
+    return false;
+}
+
 // 301 Permanent Canonical Redirects for 9 Service /index URLs to /service/
 $service_slugs = [
     'residential-shifting',

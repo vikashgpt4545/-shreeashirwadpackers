@@ -1170,6 +1170,28 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
         </div>
       </section>
 
+      <!-- Related Bokaro Relocation Routes & Services Cluster Navigation -->
+      <section style="background:#ffffff; padding:35px 25px; border-radius:12px; border:1px solid #e2e8f0; margin-bottom:40px; box-shadow:0 2px 10px rgba(0,0,0,0.03);">
+        <h3 style="font-size:1.25rem; color:#0f223d; font-weight:800; margin-bottom:12px;">
+          Bokaro Relocation Services &amp; Transport Corridors
+        </h3>
+        <p style="color:#64748b; font-size:0.95rem; margin-bottom:18px; line-height:1.6;">
+          Explore our specialized moving services, vehicle carriers, and trusted intercity transport corridors connecting Bokaro Steel City across Jharkhand, West Bengal, Bihar, and Pan-India:
+        </p>
+        <div style="display:flex; flex-wrap:wrap; gap:12px; font-size:0.9rem;">
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color:#ff6a28; text-decoration:none; background:#fff7ed; padding:9px 15px; border-radius:6px; font-weight:700; border:1px solid #fed7aa;">Packers and Movers in Bokaro (Current Hub)</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Household Shifting in Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Car Transport in Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bike Transport in Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Ranchi Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Kolkata Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bangalore to Bokaro Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Patna Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dhanbad to Bokaro Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro Shifting Guide</a>
+        </div>
+      </section>
+
     </div>
 
   </main>

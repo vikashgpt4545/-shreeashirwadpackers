@@ -1,38 +1,45 @@
 # Project State & Active Context (PROJECT_STATE.md)
 **Project**: Shree Ashirwad Packers and Movers (`shreeashirwadpackers`)  
-**Last Updated**: 2026-09-29 10:48 IST  
+**Last Updated**: 2026-09-30 22:35 IST  
 **State**: IDLE / READY FOR NEXT TASK  
 
 ---
 
 ## 1. Active Task
-- **Task Name**: Zero-Loss SEO Ranking & Backlink Preservation & Technical Implementation
-- **Current Objective**: Implement permanent 301 redirects to recover lost historical backlinks, consolidate cannibalizing duplicates into ranking URLs, resolve trailing slash duplication, remove spam-risk Product schema, and protect ranking equity.
+- **Task Name**: Ranchi Route Expansion Phase 2: 10 Handcrafted Interstate Corridors (>2,000 words each, full-width, zero sidebar forms, verified images, valid JSON-LD schemas, comprehensive internal cross-linking)
+- **Current Objective**: COMPLETED. Handcrafted 10 dedicated interstate corridor route pages from Ranchi one-by-one without automation or generator scripts. Validated each page on local server (>2k words, 4 schemas, 1 header, 0 warnings, HTTP 200). Updated `sitemap.xml` to 268 URLs. Preserved pages (`dhanbad-to-ranchi` and `hazaribagh-to-ranchi`) remain strictly 100% untouched.
 
 ---
 
 ## 2. Work Breakdown
 
-### Completed Work
-- [x] Full codebase audit and analysis of all 17 Semrush .xlsx files.
-- [x] Deep analysis of all GSC performance files and backlink files in data/.
-- [x] Identified exact URLs holding backlinks (Bokaro, Dhanbad, Jamshedpur, Ranchi, etc.).
-- [x] Identified 11 broken historical URLs with 50+ backlinks to recover via 301 redirects.
-- [x] Aligned with user on Zero-Loss 301 preservation strategy.
-- [x] Step 1: Implemented 301 redirects in .htaccess and router.php to rescue all historical backlink URLs.
-- [x] Step 2: Consolidated cannibalizing duplicate Ranchi URLs (packers-and-movers-in-ranchi-jharkhand.php, professional-packers-and-movers-in-ranchi.php) to Homepage via 301.
-- [x] Step 3: Verified service and location canonical architecture.
-- [x] Step 4: Fixed trailing slash and .php routing normalization in router.php and .htaccess.
-- [x] Step 5: Fixed .htaccess /jharkhand and /services redirects.
-- [x] Step 6: Removed deceptive @type: Product schema from includes/seo.php while preserving valid MovingCompany schema.
-- [x] Step 7: Optimized footer.php to eliminate 33,000+ internal link farm dilution.
-- [x] Step 8: Executed 27 automated live HTTP tests against PHP router (27 PASSED, 0 FAILED).
-- [x] Step 9: Synchronized sitemap.xml (removed 2 redirected URLs and 3 duplicate entries; exactly 206 100% unique 200 OK URLs).
-- [x] Step 10: Generated official Google Disavow file (disavow.txt) covering 58 toxic PBN and syndicated spam domains.
+### Active Work (10 New Route Corridors from Ranchi)
+- [x] Route 1: `pages/ranchi-to-gurgaon-packers-and-movers.php` (2,350 words, 4 schemas, HTTP 200)
+- [x] Route 2: `pages/ranchi-to-noida-packers-and-movers.php` (2,321 words, 4 schemas, HTTP 200)
+- [x] Route 3: `pages/ranchi-to-jaipur-packers-and-movers.php` (2,292 words, 4 schemas, HTTP 200)
+- [x] Route 4: `pages/ranchi-to-raipur-packers-and-movers.php` (2,266 words, 4 schemas, HTTP 200)
+- [x] Route 5: `pages/ranchi-to-nagpur-packers-and-movers.php` (2,262 words, 4 schemas, HTTP 200)
+- [x] Route 6: `pages/ranchi-to-indore-packers-and-movers.php` (2,902 words, 4 schemas, HTTP 200)
+- [x] Route 7: `pages/ranchi-to-guwahati-packers-and-movers.php` (2,730 words, 4 schemas, HTTP 200)
+- [x] Route 8: `pages/ranchi-to-surat-packers-and-movers.php` (2,922 words, 4 schemas, HTTP 200)
+- [x] Route 9: `pages/ranchi-to-visakhapatnam-packers-and-movers.php` (2,897 words, 4 schemas, HTTP 200)
+- [x] Route 10: `pages/ranchi-to-chandigarh-packers-and-movers.php` (2,938 words, 4 schemas, HTTP 200)
+- [x] Add all 10 new canonical URLs to `sitemap.xml` (total expanded from 258 to 268 URLs).
+- [x] Comprehensive validation test runner execution across all 10 new pages (100% PASS).
+
+### Completed Work (Previous Milestones)
+- [x] Step 1-12: Complete 301 audit, redirects, sitemap cleanup, disavow protection, and 9 Hazaribagh pages fully completed and verified.
+- [x] Step 13-14: Dhanbad expansion: 8 pages created, verified >2,400 words each, full-width, internal cluster links, sitemap updated (223 URLs), 100% passed.
+- [x] Step 15: Dumka expansion: 7 pages created, verified >2,000 words each, full-width, internal cluster links, sitemap updated (230 URLs), 100% passed.
+- [x] Step 16: Bokaro expansion: 8 pages created, verified >2,000 words each, full-width, internal cluster links, sitemap updated (238 URLs), 100% passed.
+- [x] Step 17: Ranchi expansion: 20 pages created, verified >2,000 words each, full-width, internal cluster links, sitemap updated (258 URLs), 100% passed.
+- [x] Step 18: Ranchi route expansion Phase 2: 10 pages created, verified >2,260 to 2,938 words each, full-width, internal cluster links, sitemap updated (268 URLs), 100% passed.
+- [x] Preserved `pages/dhanbad-to-ranchi-packers-and-movers.php` 100% untouched.
+- [x] Preserved `pages/hazaribagh-to-ranchi-packers-and-movers.php` 100% untouched.
 
 ### Pending Work
-- [x] User successfully uploaded disavow.txt to Google Search Console Disavow Tool (58 domains disavowed at 11:46:39 IST).
-- [ ] Monitor Google Search Console performance and indexing updates.
+- [ ] Submit updated sitemap.xml to Google Search Console (268 URLs).
+- [ ] Monitor GSC indexing and ranking improvements for Ranchi, Bokaro, Dumka, Dhanbad & Hazaribagh.
 
 ---
 

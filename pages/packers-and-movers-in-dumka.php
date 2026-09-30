@@ -1073,6 +1073,24 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dum
             Contact Us &rarr;
           </a>
         </div>
+      <!-- Related Dumka Relocation Routes & Services Cluster Navigation -->
+      <section style="background:#ffffff; padding:35px 25px; border-radius:12px; border:1px solid #e2e8f0; margin-bottom:40px; box-shadow:0 2px 10px rgba(0,0,0,0.03);">
+        <h3 style="font-size:1.25rem; color:#0f223d; font-weight:800; margin-bottom:12px;">
+          Dumka Relocation Services &amp; Transport Corridors
+        </h3>
+        <p style="color:#64748b; font-size:0.95rem; margin-bottom:18px; line-height:1.6;">
+          Explore our specialized moving services, vehicle carriers, and trusted intercity transport corridors across Dumka, Santhal Pargana, and Pan-India:
+        </p>
+        <div style="display:flex; flex-wrap:wrap; gap:12px; font-size:0.9rem;">
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dumka" style="color:#ff6a28; text-decoration:none; background:#fff7ed; padding:9px 15px; border-radius:6px; font-weight:700; border:1px solid #fed7aa;">Packers and Movers in Dumka (Current Hub)</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-dumka" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Household Shifting in Dumka</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-dumka" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Car Transport in Dumka</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-dumka" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bike Transport in Dumka</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/dumka-to-ranchi-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dumka to Ranchi Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/dumka-to-kolkata-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dumka to Kolkata Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/dumka-to-patna-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dumka to Patna Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-dumka" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dumka House Shifting Guide</a>
+        </div>
       </section>
 
     </div>

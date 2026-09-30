@@ -1070,6 +1070,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
             </a>
           </div>
         </div>
+
+        <!-- Specialized Dhanbad Services & Interstate Corridors -->
+        <div style="margin-top: 25px; padding-top: 20px; border-top: 1px solid #fed7aa; display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+          <span style="font-size: 13px; font-weight: 700; color: #7c2d12;">More Dhanbad Routes &amp; Services:</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-dhanbad" style="color: #c2410c; background: #ffedd5; padding: 5px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; text-decoration: none;">Household Shifting</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-dhanbad" style="color: #c2410c; background: #ffedd5; padding: 5px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; text-decoration: none;">Car Carrier</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-dhanbad" style="color: #c2410c; background: #ffedd5; padding: 5px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; text-decoration: none;">Bike Parcel</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-kolkata-packers-and-movers" style="color: #c2410c; background: #ffedd5; padding: 5px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; text-decoration: none;">To Kolkata</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-delhi-packers-and-movers" style="color: #c2410c; background: #ffedd5; padding: 5px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; text-decoration: none;">To Delhi NCR</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-patna-packers-and-movers" style="color: #c2410c; background: #ffedd5; padding: 5px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; text-decoration: none;">To Patna</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color: #c2410c; background: #ffedd5; padding: 5px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; text-decoration: none;">To Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-dhanbad" style="color: #c2410c; background: #ffedd5; padding: 5px 12px; border-radius: 6px; font-size: 13px; font-weight: 600; text-decoration: none;">House Shifting Guide</a>
+        </div>
       </section>
 
       <!-- Section 11: Call to Action Banner -->
