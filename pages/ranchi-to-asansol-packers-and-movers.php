@@ -1193,7 +1193,7 @@ require_once __DIR__ . '/includes/seo.php';
   <section class="r2a-content-section r2a-section-alt">
     <div class="r2a-section-header">
       <span class="r2a-section-kicker">Geographic Coverage</span>
-      <h2 class="r2a-section-title">Doorstep Pickup in Ranchi $\rightarrow$ Direct Delivery Across Asansol</h2>
+      <h2 class="r2a-section-title">Doorstep Pickup in Ranchi &rarr; Direct Delivery Across Asansol</h2>
       <p class="r2a-section-desc">
         We provide complete neighborhood-level coverage across both industrial cities, ensuring direct doorstep service without third-party handoffs.
       </p>

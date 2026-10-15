@@ -1193,7 +1193,7 @@ require_once __DIR__ . '/includes/seo.php';
   <section class="r2dp-content-section r2dp-section-alt">
     <div class="r2dp-section-header">
       <span class="r2dp-section-kicker">Geographic Coverage</span>
-      <h2 class="r2dp-section-title">Doorstep Pickup in Ranchi $\rightarrow$ Direct Delivery Across Durgapur</h2>
+      <h2 class="r2dp-section-title">Doorstep Pickup in Ranchi &rarr; Direct Delivery Across Durgapur</h2>
       <p class="r2dp-section-desc">
         We provide complete neighborhood-level coverage across both industrial cities, ensuring direct doorstep service without third-party handoffs.
       </p>

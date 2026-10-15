@@ -33,7 +33,7 @@ $clientEmail = $keyData['client_email'];
 echo "[1/4] Service Account: $clientEmail\n";
 
 // Helper for Base64Url
-function base64UrlEncode($data) {
+function base64UrlEncode(string $data): string {
     return str_replace(['+', '/', '='], ['-', '_', ''], base64_encode($data));
 }
 
@@ -69,7 +69,7 @@ curl_setopt_array($ch, [
 ]);
 $res = curl_exec($ch);
 $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-curl_close($ch);
+unset($ch);
 
 $tokenData = json_decode($res, true);
 if ($httpCode !== 200 || empty($tokenData['access_token'])) {
@@ -127,7 +127,7 @@ foreach ($urls as $index => $url) {
 
     $response = curl_exec($ch);
     $status = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    curl_close($ch);
+    unset($ch);
 
     if ($status === 200) {
         $successCount++;

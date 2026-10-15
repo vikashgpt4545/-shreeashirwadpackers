@@ -1193,7 +1193,7 @@ require_once __DIR__ . '/includes/seo.php';
   <section class="r2s-content-section r2s-section-alt">
     <div class="r2s-section-header">
       <span class="r2s-section-kicker">Geographic Coverage</span>
-      <h2 class="r2s-section-title">Doorstep Pickup in Ranchi $\rightarrow$ Direct Delivery Across Siliguri</h2>
+      <h2 class="r2s-section-title">Doorstep Pickup in Ranchi &rarr; Direct Delivery Across Siliguri</h2>
       <p class="r2s-section-desc">
         We serve every neighborhood and suburb across both metropolitan centers, offering true doorstep-to-doorstep logistical support without subcontracting to third parties.
       </p>

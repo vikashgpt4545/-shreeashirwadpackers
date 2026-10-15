@@ -675,7 +675,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="grid-chaibasa-cards">
     <div class="card-chaibasa-box">
       <h4>Primary Corridor: NH-20 (Direct Highway)</h4>
-      <p><strong>Ranchi $\rightarrow$ Khunti $\rightarrow$ Torpa Link $\rightarrow$ Bandgaon $\rightarrow$ Chakradharpur $\rightarrow$ Chaibasa</strong>. Total road distance is ~140 km with a transit time of 3.5 to 4.5 hours. A wide, well-paved national highway ensuring minimal transit vibrations and rapid same-day turnaround.</p>
+      <p><strong>Ranchi &rarr; Khunti &rarr; Torpa Link &rarr; Bandgaon &rarr; Chakradharpur &rarr; Chaibasa</strong>. Total road distance is ~140 km with a transit time of 3.5 to 4.5 hours. A wide, well-paved national highway ensuring minimal transit vibrations and rapid same-day turnaround.</p>
     </div>
     <div class="card-chaibasa-box">
       <h4>Bandgaon Forest & Ghat Safeguards</h4>

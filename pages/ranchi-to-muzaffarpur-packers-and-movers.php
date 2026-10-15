@@ -929,15 +929,15 @@ require_once __DIR__ . '/includes/seo.php';
           <div class="r2m-corridor-steps">
             <div class="r2m-step-box">
               <h4>Stage 1: Chotanagpur Plateau</h4>
-              <p>Ranchi $\rightarrow$ Ormanjhi $\rightarrow$ Ramgarh $\rightarrow$ Hazaribagh bypass $\rightarrow$ Barhi junction via 4-lane NH-20 (140 km). Smooth gradient descent with constant container stability.</p>
+              <p>Ranchi &rarr; Ormanjhi &rarr; Ramgarh &rarr; Hazaribagh bypass &rarr; Barhi junction via 4-lane NH-20 (140 km). Smooth gradient descent with constant container stability.</p>
             </div>
             <div class="r2m-step-box">
               <h4>Stage 2: GT Road & South Bihar</h4>
-              <p>Barhi $\rightarrow$ Chauparan $\rightarrow$ Dobhi junction $\rightarrow$ NH-22 four-lane expressway through Bodh Gaya bypass & Jahanabad (160 km). Fast straight-line expressway movement.</p>
+              <p>Barhi &rarr; Chauparan &rarr; Dobhi junction &rarr; NH-22 four-lane expressway through Bodh Gaya bypass & Jahanabad (160 km). Fast straight-line expressway movement.</p>
             </div>
             <div class="r2m-step-box">
               <h4>Stage 3: Ganga Crossing & Muzaffarpur</h4>
-              <p>Patna bypass $\rightarrow$ Mahatma Gandhi Setu $\rightarrow$ Hajipur $\rightarrow$ Bhagwanpur $\rightarrow$ Muzaffarpur Zero Mile & Mithanpura (110 km). Swift entry via wide arterial expressways.</p>
+              <p>Patna bypass &rarr; Mahatma Gandhi Setu &rarr; Hajipur &rarr; Bhagwanpur &rarr; Muzaffarpur Zero Mile & Mithanpura (110 km). Swift entry via wide arterial expressways.</p>
             </div>
           </div>
 

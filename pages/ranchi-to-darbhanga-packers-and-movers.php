@@ -930,15 +930,15 @@ require_once __DIR__ . '/includes/seo.php';
           <div class="r2d-corridor-steps">
             <div class="r2d-step-box">
               <h4>Stage 1: Chotanagpur to South Bihar</h4>
-              <p>Ranchi $\rightarrow$ Ramgarh $\rightarrow$ Hazaribagh bypass $\rightarrow$ Barhi $\rightarrow$ Dobhi junction via NH-20 & NH-19 (170 km). Smooth 4-lane gradient descent.</p>
+              <p>Ranchi &rarr; Ramgarh &rarr; Hazaribagh bypass &rarr; Barhi &rarr; Dobhi junction via NH-20 & NH-19 (170 km). Smooth 4-lane gradient descent.</p>
             </div>
             <div class="r2d-step-box">
               <h4>Stage 2: Ganga Crossing & North Bihar</h4>
-              <p>Dobhi $\rightarrow$ NH-22 through Gaya & Jahanabad $\rightarrow$ Patna bypass $\rightarrow$ Mahatma Gandhi Setu bridge $\rightarrow$ Hajipur $\rightarrow$ Muzaffarpur (190 km).</p>
+              <p>Dobhi &rarr; NH-22 through Gaya & Jahanabad &rarr; Patna bypass &rarr; Mahatma Gandhi Setu bridge &rarr; Hajipur &rarr; Muzaffarpur (190 km).</p>
             </div>
             <div class="r2d-step-box">
               <h4>Stage 3: East-West Corridor to Darbhanga</h4>
-              <p>Muzaffarpur Zero Mile $\rightarrow$ 4-lane NH-27 East-West Expressway $\rightarrow$ Shobhan bypass $\rightarrow$ Laheriasarai & Donar (85 km). High-speed flat linehaul.</p>
+              <p>Muzaffarpur Zero Mile &rarr; 4-lane NH-27 East-West Expressway &rarr; Shobhan bypass &rarr; Laheriasarai & Donar (85 km). High-speed flat linehaul.</p>
             </div>
           </div>
 

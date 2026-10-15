@@ -931,15 +931,15 @@ require_once __DIR__ . '/includes/seo.php';
           <div class="r2bg-corridor-steps">
             <div class="r2bg-step-box">
               <h4>Stage 1: Chotanagpur to Santhal Parganas</h4>
-              <p>Ranchi $\rightarrow$ Ramgarh $\rightarrow$ Bokaro/Giridih corridor $\rightarrow$ Madhupur $\rightarrow$ Deoghar bypass (185 km). Well-paved highway with smooth ghat gradients.</p>
+              <p>Ranchi &rarr; Ramgarh &rarr; Bokaro/Giridih corridor &rarr; Madhupur &rarr; Deoghar bypass (185 km). Well-paved highway with smooth ghat gradients.</p>
             </div>
             <div class="r2bg-step-box">
               <h4>Stage 2: Banka Inter-State Transition</h4>
-              <p>Deoghar $\rightarrow$ Banka border $\rightarrow$ Amarpur bypass (95 km). Swift commercial clearance across state border with active GST E-Way bill clearance.</p>
+              <p>Deoghar &rarr; Banka border &rarr; Amarpur bypass (95 km). Swift commercial clearance across state border with active GST E-Way bill clearance.</p>
             </div>
             <div class="r2bg-step-box">
               <h4>Stage 3: Gangetic Plains to Bhagalpur</h4>
-              <p>Amarpur $\rightarrow$ Mirjanhat $\rightarrow$ Tilkamanjhi & Sabour BAU corridor (65 km). Direct arterial entry avoiding congested bazaar choke points.</p>
+              <p>Amarpur &rarr; Mirjanhat &rarr; Tilkamanjhi & Sabour BAU corridor (65 km). Direct arterial entry avoiding congested bazaar choke points.</p>
             </div>
           </div>
 

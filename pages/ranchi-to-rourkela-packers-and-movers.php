@@ -930,15 +930,15 @@ require_once __DIR__ . '/includes/seo.php';
           <div class="r2r-corridor-steps">
             <div class="r2r-step-box">
               <h4>Stage 1: Chotanagpur Plateau South</h4>
-              <p>Ranchi $\rightarrow$ Hatia $\rightarrow$ Khunti $\rightarrow$ Torpa $\rightarrow$ Kolebira (85 km). Well-paved highway with smooth forest and plateau curves.</p>
+              <p>Ranchi &rarr; Hatia &rarr; Khunti &rarr; Torpa &rarr; Kolebira (85 km). Well-paved highway with smooth forest and plateau curves.</p>
             </div>
             <div class="r2r-step-box">
               <h4>Stage 2: Simdega to Birmitrapur Border</h4>
-              <p>Kolebira $\rightarrow$ Simdega $\rightarrow$ NH-143 $\rightarrow$ Birmitrapur Odisha border (65 km). Rapid commercial clearance with active GST E-Way bill credentials.</p>
+              <p>Kolebira &rarr; Simdega &rarr; NH-143 &rarr; Birmitrapur Odisha border (65 km). Rapid commercial clearance with active GST E-Way bill credentials.</p>
             </div>
             <div class="r2r-step-box">
               <h4>Stage 3: Panposh to Rourkela Townships</h4>
-              <p>Birmitrapur $\rightarrow$ Panposh bridge $\rightarrow$ Civil Township, Chhend Colony & Steel Townships (30 km). Broad arterial entry into all residential sectors.</p>
+              <p>Birmitrapur &rarr; Panposh bridge &rarr; Civil Township, Chhend Colony & Steel Townships (30 km). Broad arterial entry into all residential sectors.</p>
             </div>
           </div>
 

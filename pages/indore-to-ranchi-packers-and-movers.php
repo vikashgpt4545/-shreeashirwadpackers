@@ -1602,7 +1602,7 @@ require_once __DIR__ . '/includes/seo.php';
             <div class="i2r-testi-avatar">SP</div>
             <div class="i2r-testi-meta">
               <h5>Siddharth Pandey</h5>
-              <span>Tech Lead, IT Super Corridor Indore $\rightarrow$ Ranchi</span>
+              <span>Tech Lead, IT Super Corridor Indore &rarr; Ranchi</span>
             </div>
           </div>
         </div>
@@ -1616,7 +1616,7 @@ require_once __DIR__ . '/includes/seo.php';
             <div class="i2r-testi-avatar">AK</div>
             <div class="i2r-testi-meta">
               <h5>Anurag Kulshrestha</h5>
-              <span>Senior QA Manager, Pithampur SEZ $\rightarrow$ Morabadi, Ranchi</span>
+              <span>Senior QA Manager, Pithampur SEZ &rarr; Morabadi, Ranchi</span>
             </div>
           </div>
         </div>

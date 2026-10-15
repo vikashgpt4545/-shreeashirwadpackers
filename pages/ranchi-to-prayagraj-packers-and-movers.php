@@ -1194,7 +1194,7 @@ require_once __DIR__ . '/includes/seo.php';
   <section class="r2p-content-section r2p-section-alt">
     <div class="r2p-section-header">
       <span class="r2p-section-kicker">Geographic Coverage</span>
-      <h2 class="r2p-section-title">Doorstep Pickup in Ranchi $\rightarrow$ Direct Delivery Across Prayagraj</h2>
+      <h2 class="r2p-section-title">Doorstep Pickup in Ranchi &rarr; Direct Delivery Across Prayagraj</h2>
       <p class="r2p-section-desc">
         We provide complete neighborhood-level coverage across both metropolitan centers, ensuring direct doorstep service without third-party handoffs.
       </p>

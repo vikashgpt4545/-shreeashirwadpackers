@@ -930,15 +930,15 @@ require_once __DIR__ . '/includes/seo.php';
           <div class="r2c-corridor-steps">
             <div class="r2c-step-box">
               <h4>Stage 1: Chotanagpur to Keonjhar</h4>
-              <p>Ranchi $\rightarrow$ Khunti $\rightarrow$ Chaibasa $\rightarrow$ Jinkpani border $\rightarrow$ Keonjhar (Kendujhar) via NH-20 (195 km). Smooth 4-lane highway with gentle plateau descents.</p>
+              <p>Ranchi &rarr; Khunti &rarr; Chaibasa &rarr; Jinkpani border &rarr; Keonjhar (Kendujhar) via NH-20 (195 km). Smooth 4-lane highway with gentle plateau descents.</p>
             </div>
             <div class="r2c-step-box">
               <h4>Stage 2: Keonjhar to Panikoili NH-16</h4>
-              <p>Keonjhar $\rightarrow$ Anandapur bypass $\rightarrow$ Panikoili junction (110 km). Fast transition onto 6-lane Golden Quadrilateral highway with active GST E-Way bill clearance.</p>
+              <p>Keonjhar &rarr; Anandapur bypass &rarr; Panikoili junction (110 km). Fast transition onto 6-lane Golden Quadrilateral highway with active GST E-Way bill clearance.</p>
             </div>
             <div class="r2c-step-box">
               <h4>Stage 3: NH-16 to Cuttack Localities</h4>
-              <p>Panikoili $\rightarrow$ Chandikhole $\rightarrow$ Mahanadi River bridge $\rightarrow$ CDA Sectors, Cantonment & Tulasipur (95 km). Swift 6-lane express entry into all residential zones.</p>
+              <p>Panikoili &rarr; Chandikhole &rarr; Mahanadi River bridge &rarr; CDA Sectors, Cantonment & Tulasipur (95 km). Swift 6-lane express entry into all residential zones.</p>
             </div>
           </div>
 

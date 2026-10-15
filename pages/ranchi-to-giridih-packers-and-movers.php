@@ -675,11 +675,11 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="grid-giridih-cards">
     <div class="card-giridih-box">
       <h4>Primary Corridor: NH-20 to NH-19 via Bagodar</h4>
-      <p><strong>Ranchi $\rightarrow$ Ramgarh $\rightarrow$ Hazaribagh $\rightarrow$ Bagodar (NH-19) $\rightarrow$ Giridih (SH-13)</strong>. Total distance is ~195 km with a transit time of 4.5 to 5.5 hours. It utilizes the modern 4-lane NH-20 expressway, transitions onto the 6-lane Grand Trunk Road (NH-19), and connects via the well-maintained Bagodar-Giridih highway, providing the smoothest ride for household goods.</p>
+      <p><strong>Ranchi &rarr; Ramgarh &rarr; Hazaribagh &rarr; Bagodar (NH-19) &rarr; Giridih (SH-13)</strong>. Total distance is ~195 km with a transit time of 4.5 to 5.5 hours. It utilizes the modern 4-lane NH-20 expressway, transitions onto the 6-lane Grand Trunk Road (NH-19), and connects via the well-maintained Bagodar-Giridih highway, providing the smoothest ride for household goods.</p>
     </div>
     <div class="card-giridih-box">
       <h4>Alternate Corridor: Ormanjhi-Gola-Bokaro-Topchanchi</h4>
-      <p><strong>Ranchi $\rightarrow$ Ormanjhi $\rightarrow$ Gola $\rightarrow$ Peterbar $\rightarrow$ Bokaro Steel City $\rightarrow$ Topchanchi $\rightarrow$ Giridih</strong>. Total distance is ~190 km with a transit time of 5 to 6 hours. This corridor is preferred when clients require partial drops or pickups in Bokaro or Chas before proceeding to Giridih.</p>
+      <p><strong>Ranchi &rarr; Ormanjhi &rarr; Gola &rarr; Peterbar &rarr; Bokaro Steel City &rarr; Topchanchi &rarr; Giridih</strong>. Total distance is ~190 km with a transit time of 5 to 6 hours. This corridor is preferred when clients require partial drops or pickups in Bokaro or Chas before proceeding to Giridih.</p>
     </div>
     <div class="card-giridih-box">
       <h4>Charhi Ghat & Mountain Section Safeguards</h4>

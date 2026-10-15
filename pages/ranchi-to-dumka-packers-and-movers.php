@@ -672,11 +672,11 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="grid-dumka-cards">
     <div class="card-dumka-box">
       <h4>Primary Route: Govindpur-Dumka Expressway</h4>
-      <p><strong>Ranchi $\rightarrow$ Ramgarh $\rightarrow$ Chas/Bokaro $\rightarrow$ Govindpur (NH-19) $\rightarrow$ Jamtara $\rightarrow$ Dumka (SH-18)</strong>. Total distance is ~275 km with a transit time of 6.5 to 7.5 hours. Features 4-lane express highways up to Govindpur and a smooth, wide 2-lane state expressway into Dumka, offering the smoothest ride for fragile household furniture.</p>
+      <p><strong>Ranchi &rarr; Ramgarh &rarr; Chas/Bokaro &rarr; Govindpur (NH-19) &rarr; Jamtara &rarr; Dumka (SH-18)</strong>. Total distance is ~275 km with a transit time of 6.5 to 7.5 hours. Features 4-lane express highways up to Govindpur and a smooth, wide 2-lane state expressway into Dumka, offering the smoothest ride for fragile household furniture.</p>
     </div>
     <div class="card-dumka-box">
       <h4>Alternate Route: NH-20 & Deoghar Corridor</h4>
-      <p><strong>Ranchi $\rightarrow$ Hazaribagh $\rightarrow$ Barhi $\rightarrow$ Bagodar $\rightarrow$ Giridih $\rightarrow$ Deoghar $\rightarrow$ Dumka (NH-114A)</strong>. Total distance is ~285 km with a transit time of 7.5 to 8.5 hours. Utilized during specialized multi-point deliveries or when clients have partial drop-offs scheduled in Giridih or Deoghar before final delivery in Dumka.</p>
+      <p><strong>Ranchi &rarr; Hazaribagh &rarr; Barhi &rarr; Bagodar &rarr; Giridih &rarr; Deoghar &rarr; Dumka (NH-114A)</strong>. Total distance is ~285 km with a transit time of 7.5 to 8.5 hours. Utilized during specialized multi-point deliveries or when clients have partial drop-offs scheduled in Giridih or Deoghar before final delivery in Dumka.</p>
     </div>
     <div class="card-dumka-box">
       <h4>Zero-Transshipment Guarantee</h4>
