@@ -115,5 +115,45 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         }
     });
+
+    // General Accordion / Collapse Toggle Handler (e.g. data-toggle="collapse")
+    document.addEventListener('click', function(e) {
+        const btn = e.target.closest('[data-toggle="collapse"]');
+        if (!btn) return;
+        e.preventDefault();
+        const targetSelector = btn.getAttribute('data-target') || btn.getAttribute('href');
+        if (!targetSelector) return;
+        const targetEl = document.querySelector(targetSelector);
+        if (!targetEl) return;
+        
+        const isShown = targetEl.classList.contains('show');
+        const parentSelector = targetEl.getAttribute('data-parent') || btn.getAttribute('data-parent');
+        
+        if (parentSelector) {
+            const parent = document.querySelector(parentSelector);
+            if (parent) {
+                parent.querySelectorAll('.collapse.show').forEach(el => {
+                    if (el !== targetEl) {
+                        el.classList.remove('show');
+                        const otherBtn = parent.querySelector(`[data-target="#${el.id}"], [href="#${el.id}"]`);
+                        if (otherBtn) {
+                            otherBtn.classList.add('collapsed');
+                            otherBtn.setAttribute('aria-expanded', 'false');
+                        }
+                    }
+                });
+            }
+        }
+        
+        if (isShown) {
+            targetEl.classList.remove('show');
+            btn.classList.add('collapsed');
+            btn.setAttribute('aria-expanded', 'false');
+        } else {
+            targetEl.classList.add('show');
+            btn.classList.remove('collapsed');
+            btn.setAttribute('aria-expanded', 'true');
+        }
+    });
 });
 
