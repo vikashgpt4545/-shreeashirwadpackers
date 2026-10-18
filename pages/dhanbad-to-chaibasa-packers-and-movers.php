@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-chaibasa-packe
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="dhanbad to chaibasa packers and movers, packers and movers dhanbad to chaibasa, house shifting dhanbad to chaibasa, car transport dhanbad to chaibasa, bike parcel dhanbad to chaibasa, luggage transport dhanbad to chaibasa">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">

@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-jamtara-packer
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="giridih to jamtara packers and movers, packers and movers giridih to jamtara, house shifting giridih to jamtara, giridih to jamtara luggage transport, giridih to jamtara car carrier, giridih to jamtara bike parcel">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">

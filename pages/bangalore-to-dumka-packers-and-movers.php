@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-dumka-packer
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="bangalore to dumka packers and movers, packers and movers bangalore to dumka, house shifting bangalore to dumka, car transport bangalore to dumka, bike parcel bangalore to dumka, bengaluru to dumka goods transport">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-KA">

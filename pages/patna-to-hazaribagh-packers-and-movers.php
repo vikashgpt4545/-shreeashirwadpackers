@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/patna-to-hazaribagh-packe
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="patna to hazaribagh packers and movers, packers and movers patna to hazaribagh, house shifting patna to hazaribagh, patna to hazaribagh luggage parcel, patna to hazaribagh car carrier, patna to hazaribagh bike parcel">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-BR">

@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-asansol-packer
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="deoghar to asansol packers and movers, packers and movers deoghar to asansol, house shifting deoghar to asansol, deoghar to asansol luggage parcel, deoghar to asansol car carrier, deoghar to asansol bike parcel">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">

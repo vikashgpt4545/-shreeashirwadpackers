@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-jamshedpur-pac
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="koderma to jamshedpur packers and movers, packers and movers koderma to jamshedpur, jhumri telaiya to jamshedpur packers movers, house shifting koderma to jamshedpur, car transport koderma to jamshedpur, bike parcel koderma to jamshedpur">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">

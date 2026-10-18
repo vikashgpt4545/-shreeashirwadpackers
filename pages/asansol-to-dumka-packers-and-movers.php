@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-dumka-packers-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="asansol to dumka packers and movers, packers and movers asansol to dumka, house shifting asansol to dumka, car transport asansol to dumka, bike parcel asansol to dumka, sail iisco burnpur to dumka movers">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-WB">

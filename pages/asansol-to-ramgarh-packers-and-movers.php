@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-ramgarh-packer
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="asansol to ramgarh packers and movers, packers and movers asansol to ramgarh, house shifting asansol to ramgarh, car transport asansol to ramgarh, bike parcel asansol to ramgarh, movers from asansol to ramgarh">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-WB">

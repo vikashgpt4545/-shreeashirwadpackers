@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-hazaribagh-packe
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="dumka to hazaribagh packers and movers, packers and movers dumka to hazaribagh, house shifting dumka to hazaribagh, car transport dumka to hazaribagh, bike parcel dumka to hazaribagh, military transfer movers hazaribagh">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">

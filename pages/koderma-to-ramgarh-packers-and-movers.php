@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-ramgarh-packer
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="koderma to ramgarh packers and movers, packers and movers koderma to ramgarh, house shifting koderma to ramgarh, car transport koderma to ramgarh, bike parcel koderma to ramgarh, movers from koderma to ramgarh">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">

@@ -20,6 +20,7 @@ require_once dirname(__DIR__) . '/includes/config.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($pageTitle); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+    <meta name="keywords" content="patna to bokaro packers and movers, packers and movers patna to bokaro, house shifting patna to bokaro, car transport patna to bokaro, bike parcel patna to bokaro, intercity relocation patna to bokaro">
     <link rel="canonical" href="<?php echo $canonicalUrl; ?>">
     <meta name="robots" content="index, follow">
 

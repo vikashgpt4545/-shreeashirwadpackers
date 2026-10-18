@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/delhi-to-dhanbad-packers-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="delhi to dhanbad packers and movers, packers and movers delhi to dhanbad, house shifting delhi to dhanbad, car carrier delhi to dhanbad, bike transport delhi to dhanbad, household moving delhi dhanbad">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-DL">

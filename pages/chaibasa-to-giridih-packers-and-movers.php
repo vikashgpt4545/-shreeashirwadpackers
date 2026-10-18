@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/chaibasa-to-giridih-packe
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="chaibasa to giridih packers and movers, packers and movers chaibasa to giridih, house shifting chaibasa to giridih, car transport chaibasa to giridih, bike parcel chaibasa to giridih, west singhbhum to giridih movers">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">

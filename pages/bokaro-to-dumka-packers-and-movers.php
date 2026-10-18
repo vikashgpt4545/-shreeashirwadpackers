@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-a
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="bokaro to dumka packers and movers, packers and movers bokaro to dumka, house shifting bokaro to dumka, car transport bokaro to dumka, bike parcel bokaro to dumka, sail bokaro employee movers dumka">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">

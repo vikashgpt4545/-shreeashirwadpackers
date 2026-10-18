@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pune-to-jamshedpur-packer
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="pune to jamshedpur packers and movers, packers and movers pune to jamshedpur, house shifting pune to jamshedpur, car transport pune to jamshedpur, bike parcel pune to jamshedpur, tata motors relocation pune jamshedpur">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-MH">

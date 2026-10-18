@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-jamtara-packer
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="asansol to jamtara packers and movers, packers and movers asansol to jamtara, house shifting asansol to jamtara, asansol to jamtara luggage transport, asansol to jamtara car carrier, burnpur to jamtara packers and movers">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-WB">

@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-jamshedpur-p
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="bangalore to jamshedpur packers and movers, packers and movers bangalore to jamshedpur, house shifting bangalore to jamshedpur, car transport bangalore to jamshedpur, bike parcel bangalore to jamshedpur, bangalore to tata relocation">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-KA">

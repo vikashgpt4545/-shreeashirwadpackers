@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/godda-to-dumka-packers-an
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="godda to dumka packers and movers, packers and movers godda to dumka, house shifting godda to dumka, car transport godda to dumka, bike parcel godda to dumka, ecl lalmatia movers dumka">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">

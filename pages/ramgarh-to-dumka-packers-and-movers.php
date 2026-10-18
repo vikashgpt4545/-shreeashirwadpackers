@@ -20,6 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-dumka-packers-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="ramgarh to dumka packers and movers, packers and movers ramgarh to dumka, house shifting ramgarh to dumka, car transport ramgarh to dumka, bike parcel ramgarh to dumka, army cantonment movers dumka">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">
