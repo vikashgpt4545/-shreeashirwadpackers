@@ -998,7 +998,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gua";
         </div>
 
         <p>
-            Shree Ashirwad Packers and Movers has managed residential relocations and official employee transfers across Gua, Barajamda, Noamundi, and the Saranda basin for more than twelve years. As senior mining engineers, geologists, metallurgical supervisors, administrative executives, and Central Industrial Security Force (CISF) officers receive transfer orders to SAIL facilities in Bokaro Steel City, Bhilai, Rourkela, Durgapur, Burnpur, or corporate headquarters in Kolkata and Delhi, our team steps in with seamless solutions. We take complete responsibility for your possessions—from packing executive residences in SAIL Officers Colony to safe arrival at your distant new residence.
+            Shree Ashirwad Packers and Movers has managed residential relocations and official employee transfers across Gua, Barajamda, Noamundi, and the Saranda basin for more than twelve years. As senior mining engineers, geologists, and PSU executives relocate across West Singhbhum and beyond, our logistics network provides seamless connections with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chaibasa" style="color: #2563eb; font-weight: 600; text-decoration: underline;">packers and movers in Chaibasa</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chakradharpur" style="color: #2563eb; font-weight: 600; text-decoration: underline;">packers and movers in Chakradharpur</a>, ensuring direct linehaul transit to the state capital via <a href="<?php echo SITE_BASE_URL; ?>/chaibasa-to-ranchi-packers-and-movers" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Chaibasa to Ranchi packers and movers</a>.
         </p>
 
         <p>
@@ -1413,6 +1413,39 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gua";
     <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0;">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59050.123456789!2d85.3800!3d22.2000!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f605123456789%3A0x7d6a5d4e3c2b1a0!2sGua%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Map Location of Gua West Singhbhum"></iframe>
     </div>
+
+    <!-- Dedicated Connected Routes Section -->
+    <section class="content-block">
+        <div class="section-header">
+            <span class="section-tag">Key Relocation Routes</span>
+            <h2 class="section-title">Popular Moving Corridors from Gua &amp; West Singhbhum</h2>
+            <p class="section-intro">
+                We provide daily containerized moving services connecting Gua and West Singhbhum mining towns with major regional centers:
+            </p>
+        </div>
+        <div class="why-us-grid">
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/chaibasa-to-ranchi-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Chaibasa to Ranchi</a></h3>
+                <p>Express NH-20 &amp; NH-75 four-lane highway moving connecting West Singhbhum to Ranchi state capital.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-chaibasa-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Ranchi to Chaibasa</a></h3>
+                <p>Return express container service connecting Ranchi capital back into Chaibasa, Gua, and mining enclaves.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/chaibasa-to-adityapur-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Chaibasa to Adityapur</a></h3>
+                <p>District headquarters industrial moving connecting West Singhbhum to Jamshedpur industrial belt.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/adityapur-to-chaibasa-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Adityapur to Chaibasa</a></h3>
+                <p>Return industrial corridor freight connecting steel city manufacturing hubs back to Chaibasa.</p>
+            </div>
+        </div>
+    </section>
 
     <!-- Section 8: Frequently Asked Questions -->
     <section class="content-block">

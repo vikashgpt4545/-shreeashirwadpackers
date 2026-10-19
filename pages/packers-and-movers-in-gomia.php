@@ -1002,7 +1002,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gomia";
         </div>
 
         <p>
-            Shree Ashirwad Packers and Movers has spent more than twelve years delivering seamless, secure, and professional moving solutions across Gomia, IEL Township, and the greater Bokaro district. As corporate chemical engineers, plant managers, research scientists, and mining officers regularly receive promotional transfers to corporate headquarters or manufacturing plants across India, our logistics coordinators provide turnkey support. From packing expansive executive bungalows in IEL Officers Colony to shifting family residences in Swang, Kathara, and Tenughat, we handle every consignment with punctuality and meticulous care.
+            Shree Ashirwad Packers and Movers has spent more than twelve years delivering seamless, secure, and professional moving solutions across Gomia, IEL Township, and the greater Bokaro district. As corporate chemical engineers, plant managers, research scientists, and mining officers regularly receive promotional transfers to corporate headquarters or manufacturing plants across India, our logistics coordinators provide turnkey support. From packing expansive executive bungalows in IEL Officers Colony to shifting family residences in Swang, Kathara, and Tenughat, our trusted team provides seamless regional connections with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #2563eb; font-weight: 600; text-decoration: underline;">packers and movers in Bokaro</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-phusro" style="color: #2563eb; font-weight: 600; text-decoration: underline;">packers and movers in Phusro</a>, ensuring prompt linehaul connections via <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Bokaro to Ranchi packers and movers</a>.
         </p>
 
         <p>
@@ -1417,6 +1417,39 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gomia";
     <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0;">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58500.123456789!2d85.8300!3d23.8000!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f405123456789%3A0x7d6a5d4e3c2b1a0!2sGomia%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Map Location of Gomia Bokaro"></iframe>
     </div>
+
+    <!-- Dedicated Connected Routes Section -->
+    <section class="content-block">
+        <div class="section-header">
+            <span class="section-tag">Key Relocation Routes</span>
+            <h2 class="section-title">Popular Moving Corridors from Gomia &amp; Bokaro</h2>
+            <p class="section-intro">
+                We provide daily containerized moving services connecting Gomia and Bokaro district with key regional cities:
+            </p>
+        </div>
+        <div class="why-us-grid">
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Bokaro to Ranchi</a></h3>
+                <p>Express NH-320 &amp; NH-20 four-lane transit connecting Bokaro and Gomia to Ranchi state capital.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bokaro-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Ranchi to Bokaro</a></h3>
+                <p>Direct return container relocation from Ranchi into Bokaro Steel City, Gomia, and Tenughat.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-phusro-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Ranchi to Phusro</a></h3>
+                <p>Coalfield belt express moving service connecting Ranchi directly to Phusro and Bermo.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/phusro-to-ranchi-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Phusro to Ranchi</a></h3>
+                <p>Reciprocal linehaul container transit connecting Phusro, Bermo, and Gomia back to Ranchi.</p>
+            </div>
+        </div>
+    </section>
 
     <!-- Section 8: Frequently Asked Questions -->
     <section class="content-block">

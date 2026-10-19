@@ -735,7 +735,7 @@ require_once __DIR__ . '/includes/header.php';
           Our primary route departs from Sahibganj (Station Road, Sakrugarh, or Ganga Vihar) through Barharwa Junction, traversing NH-333A down into Dumka. From Dumka, our linehaul vehicles proceed toward Jamtara and Dhanbad, merging smoothly onto the high-speed NH-20 / NH-320 expressway corridor through Bokaro Steel City and Ramgarh, ascending the gentle Patel Chowk and Ormanjhi approaches into Ranchi.
         </p>
         <p style="font-size: 0.96rem; color: var(--s2r-slate-700); line-height: 1.7;">
-          This corridor totals approximately 405 kilometers. With well-paved four-lane segments and planned bypass rings, total direct transit time averages between 10 and 12 hours. All vehicles carry digital toll tags (FASTag), allowing smooth, non-stop movement through toll plazas without unnecessary bottleneck halts.
+          This corridor totals approximately 405 kilometers. With well-paved four-lane segments and planned bypass rings, total direct transit time averages between 10 and 12 hours. All vehicles carry digital toll tags (FASTag), allowing smooth, non-stop movement through toll plazas without unnecessary bottleneck halts. We also offer daily reciprocal departures on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-sahibganj-packers-and-movers" style="color: var(--s2r-primary); font-weight: 600; text-decoration: underline;">Ranchi to Sahibganj packers and movers</a> corridor with equal reliability and care.
         </p>
       </div>
 
@@ -1312,6 +1312,9 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="s2r-cluster-links">
+      <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-sahibganj-packers-and-movers" class="s2r-cluster-btn">
+        <i class="fas fa-arrow-left"></i> Ranchi to Sahibganj (Return)
+      </a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="s2r-cluster-btn">
         <i class="fas fa-home"></i> Ranchi Relocation Hub
       </a>

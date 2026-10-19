@@ -994,7 +994,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
         </div>
 
         <p>
-            Shree Ashirwad Packers and Movers has served the residents, mining executives, corporate engineers, central government officers, and commercial entrepreneurs of Ghatshila for more than twelve years. Whether you are transitioning from the copper plant colonies of Moubhandar to another metropolitan center, shifting a sprawling residential household from Dahigora or Kasida to Jamshedpur, or relocating academic personnel from Ghatshila College Road, our logistics fleet provides complete tranquility. With our main hub in Jharkhand and dedicated corridors along National Highway 18 (NH-18 / old NH-33), we ensure punctual pickups, impenetrable packaging, and pristine door-to-door delivery.
+            Shree Ashirwad Packers and Movers has served the residents, mining executives, corporate engineers, central government officers, and commercial entrepreneurs of Ghatshila for more than twelve years. Whether you are transitioning from the copper plant colonies of Moubhandar to another metropolitan center, shifting a sprawling residential household from Dahigora or Kasida to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur" style="color: #2563eb; font-weight: 600; text-decoration: underline;">packers and movers in Jamshedpur</a>, arranging dedicated <a href="<?php echo SITE_BASE_URL; ?>/ghatshila-to-ranchi-packers-and-movers" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ghatshila to Ranchi packers and movers</a>, or moving to the industrial hub via <a href="<?php echo SITE_BASE_URL; ?>/ghatshila-to-adityapur-packers-and-movers" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ghatshila to Adityapur</a>, our logistics fleet provides complete tranquility. With our main hub in Jharkhand and dedicated corridors along National Highway 18 (NH-18 / old NH-33), we ensure punctual pickups, impenetrable packaging, and pristine door-to-door delivery.
         </p>
 
         <p>
@@ -1403,6 +1403,39 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
     <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0;">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58950.123456789!2d86.4800!3d22.5800!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f605123456789%3A0x7d6a5d4e3c2b1a0!2sGhatshila%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Map Location of Ghatshila East Singhbhum"></iframe>
     </div>
+
+    <!-- Dedicated Connected Routes Section -->
+    <section class="content-block">
+        <div class="section-header">
+            <span class="section-tag">Key Relocation Routes</span>
+            <h2 class="section-title">Popular Moving Corridors from Ghatshila</h2>
+            <p class="section-intro">
+                We provide daily containerized moving services connecting Ghatshila with key cities and industrial corridors:
+            </p>
+        </div>
+        <div class="why-us-grid">
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/ghatshila-to-ranchi-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Ghatshila to Ranchi</a></h3>
+                <p>Express capital transit via NH-18 and NH-43 connecting Ghatshila directly to Ranchi with full home setup.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-ghatshila-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Ranchi to Ghatshila</a></h3>
+                <p>Return express moving services from Ranchi capital into Ghatshila, Moubhandar, and Subarnarekha valley.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/ghatshila-to-adityapur-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Ghatshila to Adityapur</a></h3>
+                <p>Industrial corridor relocation for manufacturing staff, technicians, and engineering families.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/adityapur-to-ghatshila-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Adityapur to Ghatshila</a></h3>
+                <p>Doorstep relocation from Adityapur industrial belt to Ghatshila and copper colliery colonies.</p>
+            </div>
+        </div>
+    </section>
 
     <!-- Section 8: Frequently Asked Questions -->
     <section class="content-block">

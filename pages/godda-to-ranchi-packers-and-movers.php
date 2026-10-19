@@ -504,13 +504,13 @@ $meta_keywords = "godda to ranchi packers and movers, packers and movers godda t
               Mastering the 320 km Godda to Ranchi Route
             </h2>
             <p style="font-size:1.02rem; line-height:1.75; color:#334155; margin-bottom:16px;">
-              The journey from Godda to Ranchi extends approximately <strong>310 to 335 kilometers</strong>, creating one of the longest inter-district moves within Jharkhand. The standard freight itinerary travels along <strong>NH-133 through Poraiyahat and Hansdiha</strong>, connects past Deoghar and Madhupur toward Giridih, joins the Grand Trunk Road (NH-19) at Dumri, and smoothly cruises along the high-speed NH-20 Expressway through Bagodar, Charhi, Ramgarh, and Ormanjhi before entering Ranchi.
+              The journey from Godda to Ranchi extends approximately <strong>310 to 335 kilometers</strong>, creating one of the longest inter-district moves within Jharkhand. The standard freight itinerary travels along <strong>NH-133 through Poraiyahat and Hansdiha</strong>, connects past Deoghar and Madhupur toward Giridih, joins the Grand Trunk Road (NH-19) at Dumri, and smoothly cruises along the high-speed NH-20 Expressway through Bagodar, Charhi, Ramgarh, and Ormanjhi before entering <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#2563eb; font-weight:600; text-decoration:underline;">Ranchi</a>.
             </p>
             <p style="font-size:1.02rem; line-height:1.75; color:#475569; margin-bottom:16px;">
               Over this extensive transit, trucks face diverse road surfaces ranging from rural state highways to busy multi-lane expressways, alongside the winding mountain gradients of the Ramgarh-Chutupalu ghats. If goods are transported in conventional open wooden lorries with loose tarpaulins, items are vulnerable to severe moisture penetration, road grime, coal dust from heavy dumpers, and load shifts when climbing steep incline curves.
             </p>
             <p style="font-size:1.02rem; line-height:1.75; color:#475569; margin-bottom:20px;">
-              Shree Ashirwad Packers neutralizes these highway hazards through engineered container packing. We deploy custom-built, fully covered metal containers equipped with air-cushioned shock-damped suspensions and internal heavy-duty anchor rails. Every fragile carton, wardrobe panel, and appliance is tightly strapped with industrial nylon ratchets to guarantee zero load displacement across the entire 8 to 9 hour highway crossing.
+              Shree Ashirwad Packers neutralizes these highway hazards through engineered container packing. As Jharkhand's leading moving brand, we also provide reciprocal scheduled departures on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-godda-packers-and-movers" style="color:#2563eb; font-weight:600; text-decoration:underline;">Ranchi to Godda packers and movers</a> corridor with equal dedication. We deploy custom-built, fully covered metal containers equipped with air-cushioned shock-damped suspensions and internal heavy-duty anchor rails. Every fragile carton, wardrobe panel, and appliance is tightly strapped with industrial nylon ratchets to guarantee zero load displacement across the entire 8 to 9 hour highway crossing.
             </p>
             <div style="background:#eff6ff; border-left:4px solid #2563eb; padding:16px 20px; border-radius:0 8px 8px 0;">
               <strong style="color:#1e40af; font-size:0.95rem; display:block; margin-bottom:4px;">Express Timelines:</strong>
@@ -1073,6 +1073,42 @@ $meta_keywords = "godda to ranchi packers and movers, packers and movers godda t
 
       <!-- Section: Google My Business Authentic Reviews -->
       <?php include __DIR__ . '/includes/sections/gmb-reviews.php'; ?>
+
+      <!-- Cluster Navigation Module -->
+      <section style="margin-bottom:50px; background:#f8fafc; border:1px solid #e2e8f0; border-radius:14px; padding:35px 25px;">
+        <h2 style="font-size:1.6rem; font-weight:800; color:#0f223d; text-align:center; margin-bottom:10px;">
+          Explore Connected Jharkhand &amp; Santhal Pargana Moving Routes
+        </h2>
+        <p style="text-align:center; color:#64748b; font-size:0.95rem; max-width:650px; margin:0 auto 25px;">
+          Direct highway container logistics linking Godda and Ranchi across prominent regional corridors and industrial centers.
+        </p>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:15px;">
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-godda-packers-and-movers" style="display:flex; justify-content:space-between; align-items:center; background:#ffffff; padding:15px 18px; border-radius:8px; border:1px solid #e2e8f0; text-decoration:none; color:#1e40af; font-weight:600; font-size:0.95rem;">
+            <span>Ranchi to Godda (Reciprocal)</span>
+            <i class="fas fa-arrow-right" style="color:#ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display:flex; justify-content:space-between; align-items:center; background:#ffffff; padding:15px 18px; border-radius:8px; border:1px solid #e2e8f0; text-decoration:none; color:#1e40af; font-weight:600; font-size:0.95rem;">
+            <span>Ranchi Relocation Hub</span>
+            <i class="fas fa-arrow-right" style="color:#ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-godda" style="display:flex; justify-content:space-between; align-items:center; background:#ffffff; padding:15px 18px; border-radius:8px; border:1px solid #e2e8f0; text-decoration:none; color:#1e40af; font-weight:600; font-size:0.95rem;">
+            <span>Godda District Hub</span>
+            <i class="fas fa-arrow-right" style="color:#ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-deoghar-packers-and-movers" style="display:flex; justify-content:space-between; align-items:center; background:#ffffff; padding:15px 18px; border-radius:8px; border:1px solid #e2e8f0; text-decoration:none; color:#1e40af; font-weight:600; font-size:0.95rem;">
+            <span>Ranchi to Deoghar Route</span>
+            <i class="fas fa-arrow-right" style="color:#ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-dumka-packers-and-movers" style="display:flex; justify-content:space-between; align-items:center; background:#ffffff; padding:15px 18px; border-radius:8px; border:1px solid #e2e8f0; text-decoration:none; color:#1e40af; font-weight:600; font-size:0.95rem;">
+            <span>Ranchi to Dumka Route</span>
+            <i class="fas fa-arrow-right" style="color:#ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-sahibganj-packers-and-movers" style="display:flex; justify-content:space-between; align-items:center; background:#ffffff; padding:15px 18px; border-radius:8px; border:1px solid #e2e8f0; text-decoration:none; color:#1e40af; font-weight:600; font-size:0.95rem;">
+            <span>Ranchi to Sahibganj Route</span>
+            <i class="fas fa-arrow-right" style="color:#ff6a28;"></i>
+          </a>
+        </div>
+      </section>
 
       <!-- Section 11: Call to Action Banner -->
       <section style="background:linear-gradient(135deg, #0f223d 0%, #1e3a5f 100%); border-radius:14px; padding:45px 30px; text-align:center; color:#ffffff; margin-bottom:40px; box-shadow:0 8px 30px rgba(15,34,61,0.2);">

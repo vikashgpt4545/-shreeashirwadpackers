@@ -481,7 +481,7 @@ $meta_keywords = "latehar to ranchi packers and movers, packers and movers lateh
               Relocating between Latehar district and Ranchi represents one of the most vital administrative, industrial, and residential transit corridors in Jharkhand. Covering approximately 110 kilometers of high-speed 4-lane highway along National Highway 39 (NH 39), our dedicated moving fleet links Latehar Main Town, Chandwa, the Tori Railway Junction, Balumath's coal mining belt, and Manika directly to Ranchi in just <strong>2.5 to 3.5 hours</strong>.
             </p>
             <p style="font-size: 1.02rem; line-height: 1.8; color: #475569; margin-bottom: 24px;">
-              Whether you are an officer being transferred from the Latehar Collectorate, a Central Coalfields Limited (CCL) employee moving from the Magadh-Amrapali or Sikni coal projects, an East Central Railway official transferred from Tori or Latehar stations, or a family moving to Ranchi for educational access and modern amenities, Shree Ashirwad Packers and Movers delivers an unmatched zero-stress relocation experience.
+              Whether you are an officer being transferred from the Latehar Collectorate, a Central Coalfields Limited (CCL) employee moving from the Magadh-Amrapali or Sikni coal projects, an East Central Railway official transferred from Tori or Latehar stations, or a family moving to Ranchi for educational access and modern amenities, as the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#2563eb; font-weight:600; text-decoration:underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers delivers an unmatched zero-stress relocation experience. We also operate scheduled reciprocal daily moves on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-latehar-packers-and-movers" style="color:#2563eb; font-weight:600; text-decoration:underline;">Ranchi to Latehar packers and movers</a> corridor with equal dedication.
             </p>
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; margin-top: 24px;">
               <div style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 14px 18px; border-radius: 8px;">
@@ -1317,6 +1317,44 @@ $meta_keywords = "latehar to ranchi packers and movers, packers and movers lateh
 
         </div>
 
+      </div>
+    </section>
+
+    <!-- Cluster Navigation Module -->
+    <section style="padding: 60px 0; background: #f8fafc; border-top: 1px solid #e2e8f0;">
+      <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 20px;">
+        <h2 style="font-size: 1.6rem; font-weight: 800; color: #0f223d; text-align: center; margin-bottom: 10px;">
+          Explore Connected Western Jharkhand Moving Corridors
+        </h2>
+        <p style="text-align: center; color: #64748b; font-size: 0.95rem; max-width: 650px; margin: 0 auto 25px;">
+          Seamless highway logistics connecting Latehar and Ranchi across Palamu division and neighboring districts.
+        </p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 15px;">
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-latehar-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 15px 18px; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #1e40af; font-weight: 600; font-size: 0.95rem;">
+            <span>Ranchi to Latehar (Reciprocal)</span>
+            <i class="fas fa-arrow-right" style="color: #ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 15px 18px; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #1e40af; font-weight: 600; font-size: 0.95rem;">
+            <span>Ranchi Relocation Hub</span>
+            <i class="fas fa-arrow-right" style="color: #ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-daltonganj-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 15px 18px; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #1e40af; font-weight: 600; font-size: 0.95rem;">
+            <span>Ranchi to Daltonganj Route</span>
+            <i class="fas fa-arrow-right" style="color: #ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-garhwa-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 15px 18px; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #1e40af; font-weight: 600; font-size: 0.95rem;">
+            <span>Ranchi to Garhwa Corridor</span>
+            <i class="fas fa-arrow-right" style="color: #ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-chatra-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 15px 18px; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #1e40af; font-weight: 600; font-size: 0.95rem;">
+            <span>Ranchi to Chatra Route</span>
+            <i class="fas fa-arrow-right" style="color: #ff6a28;"></i>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-lohardaga-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 15px 18px; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #1e40af; font-weight: 600; font-size: 0.95rem;">
+            <span>Ranchi to Lohardaga Route</span>
+            <i class="fas fa-arrow-right" style="color: #ff6a28;"></i>
+          </a>
+        </div>
       </div>
     </section>
 

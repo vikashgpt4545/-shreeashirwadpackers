@@ -994,7 +994,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hariharganj";
         </div>
 
         <p>
-            Shree Ashirwad Packers and Movers has served the residents, agricultural wholesalers, border administrative personnel, police officials, bank executives, and educators of Hariharganj for over a decade. Whether you are shifting a family apartment near Hariharganj Main Chowk, relocating a rural homestead in Pipra, Mahuari, or Semarwar, moving commercial hardware godowns, or coordinating an interstate employee transfer to Aurangabad, Gaya, Patna, or Ranchi, our logistics fleet provides complete tranquility. With our core operational hub in Jharkhand and direct transit corridors across NH-139, we guarantee punctual pickups, fortified packaging, and damage-free delivery.
+            Shree Ashirwad Packers and Movers has served the residents, agricultural wholesalers, border administrative personnel, police officials, bank executives, and educators of Hariharganj for over a decade. Whether you are shifting a family apartment near Hariharganj Main Chowk, relocating a rural homestead in Pipra, Mahuari, or Semarwar, or connecting to the district headquarters with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-daltonganj" style="color: #2563eb; font-weight: 600; text-decoration: underline;">packers and movers in Daltonganj</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-palamu" style="color: #2563eb; font-weight: 600; text-decoration: underline;">packers and movers in Palamu</a>, our logistics network provides direct linehaul transport via <a href="<?php echo SITE_BASE_URL; ?>/daltonganj-to-ranchi-packers-and-movers" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Daltonganj to Ranchi packers and movers</a>. With our core operational hub in Jharkhand and direct transit corridors across NH-139, we guarantee punctual pickups, fortified packaging, and damage-free delivery.
         </p>
 
         <p>
@@ -1409,6 +1409,39 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hariharganj";
     <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0;">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58200.123456789!2d84.2700!3d24.5300!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398c05123456789%3A0x7d6a5d4e3c2b1a0!2sHariharganj%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Map Location of Hariharganj Palamu"></iframe>
     </div>
+
+    <!-- Dedicated Connected Routes Section -->
+    <section class="content-block">
+        <div class="section-header">
+            <span class="section-tag">Key Relocation Routes</span>
+            <h2 class="section-title">Popular Moving Corridors from Hariharganj &amp; Palamu</h2>
+            <p class="section-intro">
+                We provide daily containerized moving services connecting Hariharganj and Palamu district with major regional hubs:
+            </p>
+        </div>
+        <div class="why-us-grid">
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/daltonganj-to-ranchi-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Daltonganj to Ranchi</a></h3>
+                <p>Express NH-39 &amp; NH-22 highway freight transit connecting Palamu directly to Ranchi state capital.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-daltonganj-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Ranchi to Daltonganj</a></h3>
+                <p>Return express container moving service from Ranchi capital into Daltonganj, Hariharganj, and Palamu.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-palamu-to-ranchi" style="color:#1e3a8a; text-decoration:underline;">Palamu to Ranchi</a></h3>
+                <p>Dedicated districtwide household and government employee relocation corridor to Ranchi capital.</p>
+            </div>
+            <div class="why-card">
+                <div class="why-icon"><i class="fa-solid fa-route"></i></div>
+                <h3><a href="<?php echo SITE_BASE_URL; ?>/daltonganj-to-lesliganj-packers-and-movers" style="color:#1e3a8a; text-decoration:underline;">Daltonganj to Lesliganj</a></h3>
+                <p>Local Palamu subdivision moving service connecting district headquarters to Lesliganj and adjoining blocks.</p>
+            </div>
+        </div>
+    </section>
 
     <!-- Section 8: Frequently Asked Questions -->
     <section class="content-block">

@@ -58,7 +58,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
 
   <!-- Favicons -->
   <link rel="icon" type="image/png" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
-  <link rel="apple-touch-icon" href="<?php echo SITE_BASE_URL; ?>/assets/images/apple-touch-icon.png">
+  <link rel="apple-touch-icon" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
 
   <!-- Core Stylesheet -->
   <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">

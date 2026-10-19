@@ -1492,7 +1492,7 @@ require_once __DIR__ . '/includes/seo.php';
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gwalior-packers-and-movers">Ranchi to Gwalior</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jabalpur-packers-and-movers">Ranchi to Jabalpur</a>
           <a href="<?php echo SITE_BASE_URL; ?>/patna-to-ranchi-packers-and-movers">Patna to Ranchi</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/cost-calculator">Moving Cost Calculator</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Moving Cost Calculator</a>
         </div>
       </div>
     </div>

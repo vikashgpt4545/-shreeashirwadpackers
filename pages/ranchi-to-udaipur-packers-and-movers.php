@@ -1442,6 +1442,7 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our interstate network linking Jharkhand with Rajasthan and western India:
         </p>
         <div class="r2udp-cluster-links">
+          <a href="<?php echo SITE_BASE_URL; ?>/udaipur-to-ranchi-packers-and-movers" class="r2udp-cluster-link">Udaipur to Ranchi (Return)</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2udp-cluster-link">Ranchi Main Hub</a>
           <a href="<?php echo SITE_BASE_URL; ?>/jaipur-to-ranchi-packers-and-movers" class="r2udp-cluster-link">Jaipur to Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ahmedabad-to-ranchi-packers-and-movers" class="r2udp-cluster-link">Ahmedabad to Ranchi</a>

@@ -735,7 +735,7 @@ require_once __DIR__ . '/includes/header.php';
           Our vehicles depart Saraikela (Rajmahal Palace area, Court Road, or Kandra industrial link) onto NH-43, connecting at Chowka with the four-lane NH-33 / NH-20 expressway corridor. Passing Chandil and traversing Tamar and Bundu, the highway enters Ranchi via Rampur and Namkum, providing swift access to all major residential colonies without cross-city traffic bottlenecks.
         </p>
         <p style="font-size: 0.96rem; color: var(--sk2r-slate-700); line-height: 1.7;">
-          Total highway distance is approximately 120 kilometers. Direct container transit takes between 2.5 and 3.5 hours. With our synchronized operations, a move begun at 8:00 AM in Saraikela is fully delivered, unpacked, and arranged in Ranchi before mid-afternoon on the very same day.
+          Total highway distance is approximately 120 kilometers. Direct container transit takes between 2.5 and 3.5 hours. With our synchronized operations, a move begun at 8:00 AM in Saraikela is fully delivered, unpacked, and arranged in Ranchi before mid-afternoon on the very same day. We also offer daily reciprocal departures on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-saraikela-packers-and-movers" style="color: var(--sk2r-primary); font-weight: 600; text-decoration: underline;">Ranchi to Saraikela packers and movers</a> corridor with equal speed.
         </p>
       </div>
 
@@ -1312,6 +1312,9 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="sk2r-cluster-links">
+      <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-saraikela-packers-and-movers" class="sk2r-cluster-btn">
+        <i class="fas fa-arrow-left"></i> Ranchi to Saraikela (Return)
+      </a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="sk2r-cluster-btn">
         <i class="fas fa-home"></i> Ranchi Relocation Hub
       </a>

@@ -80,7 +80,10 @@ $redirect_map = [
     'packers-and-movers-in-seraikela-kharsawan' => '/packers-and-movers-in-saraikela-kharsawan',
     'services' => '/',
     'jharkhand' => '/',
-    'packers-and-movers-in-jharkhand' => '/'
+    'packers-and-movers-in-jharkhand' => '/',
+    'cost-calculator' => '/packers-and-movers-charges-in-ranchi',
+    'pricing' => '/packers-and-movers-charges-in-ranchi',
+    'contact-us' => '/contact'
 ];
 
 $raw_slug = preg_replace('/\.php$/i', '', trim($path, '/'));

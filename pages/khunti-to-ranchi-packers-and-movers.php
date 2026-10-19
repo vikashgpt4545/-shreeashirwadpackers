@@ -735,7 +735,7 @@ require_once __DIR__ . '/includes/header.php';
           Our vehicles depart Khunti (Birsa College Road, Torpa Road, or Court Compound) onto the four-lane NH-20 expressway. Passing Maranghada and the Lodhma railway bypass, our trucks enter the southern gateway of Ranchi through the Tupudana industrial zone, directly accessing Hatia, Birsa Chowk, HEC Dhurwa, and the Ranchi ring road.
         </p>
         <p style="font-size: 0.96rem; color: var(--k2r-slate-700); line-height: 1.7;">
-          Total road distance is approximately 38 kilometers. Direct highway transit takes between 60 and 90 minutes. With our systematic workflow, a complete household packed starting at 8:00 AM in Khunti is delivered, unloaded, and assembled at your Ranchi residence well before 1:30 PM on the very same day.
+          Total road distance is approximately 38 kilometers. Direct highway transit takes between 60 and 90 minutes. With our systematic workflow, a complete household packed starting at 8:00 AM in Khunti is delivered, unloaded, and assembled at your Ranchi residence well before 1:30 PM on the very same day. We also operate scheduled reverse moves on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-khunti-packers-and-movers" style="color: var(--k2r-primary); font-weight: 600; text-decoration: underline;">Ranchi to Khunti packers and movers</a> corridor with equal speed.
         </p>
       </div>
 
@@ -1312,6 +1312,9 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="k2r-cluster-links">
+      <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-khunti-packers-and-movers" class="k2r-cluster-btn">
+        <i class="fas fa-arrow-left"></i> Ranchi to Khunti (Return)
+      </a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="k2r-cluster-btn">
         <i class="fas fa-home"></i> Ranchi Relocation Hub
       </a>
