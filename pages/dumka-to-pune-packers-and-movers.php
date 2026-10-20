@@ -679,7 +679,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-pune-packers-and
                         We deploy seasoned packing professionals directly to your Dumka residence in Rasikpur, Tinghar, Dudhani, or Bandhdih. Using high-grade protective packaging, heavy-duty cartons, and shock-absorbent cushioning, we secure your furniture, electronics, chinaware, and personal valuables before loading them into dedicated, weatherproof container vehicles.
                     </p>
                     <p>
-                        In addition, our specialized long-distance teams have extensive experience with Pune’s unique residential landscape. High-density gated complexes across Wakad, Baner, Balewadi, and Kharadi enforce specific society by-laws regarding loading truck timings, elevator lift protection padding, and vehicle entry clearance. Our Pune destination team coordinates seamlessly with society facility managers, takes care of security documentation, and handles heavy carrying up service lifts to guarantee zero friction upon your arrival.
+                        In addition, our specialized long-distance teams have extensive experience with Puneâ€™s unique residential landscape. High-density gated complexes across Wakad, Baner, Balewadi, and Kharadi enforce specific society by-laws regarding loading truck timings, elevator lift protection padding, and vehicle entry clearance. Our Pune destination team coordinates seamlessly with society facility managers, takes care of security documentation, and handles heavy carrying up service lifts to guarantee zero friction upon your arrival.
                     </p>
                     <p>
                         Whether you are moving an entire 3 BHK family duplex or shipping high-end electronics and two-wheelers for a young tech career in Rajiv Gandhi Infotech Park at Hinjawadi, our end-to-end relocation system protects your assets against moisture, dust, and highway bumps throughout the 1,680 km journey.
@@ -926,7 +926,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-pune-packers-and
         <div class="dum2pun-container">
             <div class="dum2pun-grid-2">
                 <div>
-                    <div class="dum2blr-img-wrapper">
+                    <div class="dum2pun-img-wrapper">
                         <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service in Pune" width="600" height="400" loading="lazy">
                     </div>
                 </div>
@@ -940,7 +940,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-pune-packers-and
                         We coordinate society gate passes, utilize service elevators, carefully bring each carton into your residence, and place heavy furniture exactly where you want it.
                     </p>
                     <p>
-                        Our crew unboxes fragile crockery, reassembles beds and study tables, positions refrigerators and washing machines, and collects all discarded wrapping materials—leaving your new Pune home organized, functional, and ready to live in.
+                        Our crew unboxes fragile crockery, reassembles beds and study tables, positions refrigerators and washing machines, and collects all discarded wrapping materialsâ€”leaving your new Pune home organized, functional, and ready to live in.
                     </p>
                 </div>
             </div>

@@ -655,7 +655,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     At destination in Ranchi, our trained crew delivers straight to your doorstep across Morabadi, Kanke Road, Bariatu, Ashok Nagar, Namkum Army Cantonment, Dipatoli Cantonment, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Tupudana, the Dhurwa core capital complex, SAIL Township, MECON Colony, CMPDI complex, and BIT Mesra. Every carton is inspected, placed in designated bedrooms, unpacked, assembled by skilled carpenters, and cleaned of packing debris. We also offer trusted, scheduled services on our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-siliguri-packers-and-movers" style="color: var(--slg-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Siliguri packers and movers</a> corridor, coordinated directly through our main corporate office for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--slg-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>.
                 </p>
             </div>
-            <div class="dbg-ran-img-box">
+            <div class="slg-ran-img-box">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sealed Container Truck for Siliguri to Ranchi Relocation" title="Household Goods Loading Siliguri to Ranchi">
             </div>
         </div>
@@ -802,7 +802,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Four-wheelers are loaded via hydraulic ramps into covered car trailers, anchored firmly with soft nylon wheel chokes, and protected by comprehensive transit insurance coverage. For two-wheelers, our technicians drain remaining fuel, pad delicate mirrors and fairings with multi-layer bubble wrap, and secure the bike firmly inside an upright wooden crate to prevent any cosmetic or structural damage during the interstate trip.
                 </p>
             </div>
-            <div class="dbg-ran-img-box">
+            <div class="slg-ran-img-box">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Siliguri to Ranchi Transport" title="Motorcycle Transport Siliguri to Ranchi">
             </div>
         </div>
@@ -813,7 +813,7 @@ require_once __DIR__ . '/../includes/seo.php';
 <section class="slg-ran-section slg-ran-section-white">
     <div class="slg-ran-container">
         <div class="slg-ran-two-col">
-            <div class="dbg-ran-img-box">
+            <div class="slg-ran-img-box">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Storage and Warehouse Hub for Transit Goods" title="Secure Warehouse Storage Facility">
             </div>
             <div class="dbg-ran-two-col-text">

@@ -57,6 +57,34 @@ main,
   overflow-x: hidden !important;
 }
 
+/* Universal Image Container Safety Constraint (Prevents vertical image explosion) */
+[class*="-image-container"],
+[class*="-img-box"],
+[class*="-img-frame"],
+[class*="-img-wrap"],
+[class*="-img-wrapper"],
+.visual-card {
+  max-width: 600px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 12px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+[class*="-image-container"] img,
+[class*="-img-box"] img,
+[class*="-img-frame"] img,
+[class*="-img-wrap"] img,
+[class*="-img-wrapper"] img {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  object-fit: cover;
+  display: block;
+}
+
 /* Decorative Glow Elements Containment */
 .hero-glow,
 .hero-glow-1,

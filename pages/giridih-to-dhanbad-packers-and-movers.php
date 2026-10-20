@@ -670,7 +670,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-dhanbad-packer
 <section class="gir2dhn-section">
     <div class="container">
         <div class="gir2dhn-grid-2">
-            <div class="dum2dhn-img-wrap">
+            <div class="gir2dhn-img-wrap">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Protective Multi-Layer Furniture Packing Giridih to Dhanbad" loading="lazy">
             </div>
             <div>
@@ -838,7 +838,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-dhanbad-packer
 <section class="gir2dhn-section">
     <div class="container">
         <div class="gir2dhn-grid-2">
-            <div class="dum2dhn-img-wrap">
+            <div class="gir2dhn-img-wrap">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Giridih to Dhanbad" loading="lazy">
             </div>
             <div>

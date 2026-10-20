@@ -613,7 +613,7 @@ require_once __DIR__ . '/../includes/seo.php';
         }
 
         .kzr-faq-item[open] summary::after {
-            content: "−";
+            content: "âˆ’";
         }
 
         .kzr-faq-item[open] summary {
@@ -706,19 +706,19 @@ require_once __DIR__ . '/../includes/seo.php';
     <!-- Hero Section -->
     <section class="kzr-hero">
         <div class="kzr-hero-content">
-            <span class="kzr-badge">⭐ Safe Long-Haul Return Corridor | 2,160 km Direct Express Transit</span>
+            <span class="kzr-badge">â­ Safe Long-Haul Return Corridor | 2,160 km Direct Express Transit</span>
             <h1>Kozhikode to Ranchi Packers and Movers</h1>
             <p>Relocating from Kerala's historic Malabar coast back to Jharkhand's capital city? Shree Ashirwad Packers and Movers provides dependable, zero-transshipment inter-state moving across the 2,160 km highway corridor with specialized moisture-proof packaging, enclosed car carriers, and academic/IT transfer clearance.</p>
             
             <div class="kzr-hero-actions">
                 <a href="tel:+918409531615" class="kzr-btn-primary">
-                    📞 Call 8409531615
+                    ðŸ“ž Call 8409531615
                 </a>
                 <a href="tel:+919835565233" class="kzr-btn-secondary">
-                    📱 Call 9835565233
+                    ðŸ“± Call 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="kzr-btn-secondary">
-                    📝 Get Free Route Quote
+                    ðŸ“ Get Free Route Quote
                 </a>
             </div>
 
@@ -760,7 +760,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Neighborhood Coverage: Kozhikode & Ranchi -->
-    <section class="kzr-section rkz-section-light">
+    <section class="kzr-section kzr-section-light">
         <div class="kzr-section-title">
             <h2>Complete Door-to-Door Pickup &amp; Delivery Network</h2>
             <p>From prominent residential sectors and institutional campuses in Kozhikode to prime residential colonies and institutional hubs across Ranchi.</p>
@@ -768,7 +768,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <div class="kzr-grid-2">
             <div class="kzr-card">
-                <div class="kzr-card-icon">📍</div>
+                <div class="kzr-card-icon">ðŸ“</div>
                 <h3>Kozhikode Pickup Sectors</h3>
                 <p style="margin-bottom: 1rem;">Our Kozhikode operations team provides rapid doorstep packing, furniture dismantling, and covered container loading across all major residential, commercial, and academic sectors:</p>
                 <ul style="padding-left: 1.25rem; font-size: 0.95rem; color: var(--kzr-text-muted); line-height: 1.8;">
@@ -782,7 +782,7 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
 
             <div class="kzr-card">
-                <div class="kzr-card-icon">🏠</div>
+                <div class="kzr-card-icon">ðŸ </div>
                 <h3>Ranchi Delivery &amp; Unpacking Hubs</h3>
                 <p style="margin-bottom: 1rem;">Upon arrival in Ranchi, our local destination team conducts careful unloading, room-specific placement, furniture reassembly, and debris removal across:</p>
                 <ul style="padding-left: 1.25rem; font-size: 0.95rem; color: var(--kzr-text-muted); line-height: 1.8;">
@@ -798,45 +798,45 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Specialized Services Section -->
-    <section class="rkz-section">
-        <div class="rkz-section-title">
+    <section class="kzr-section">
+        <div class="kzr-section-title">
             <h2>Our Specialized Relocation Solutions</h2>
             <p>End-to-end moving services engineered to withstand the rigorous demands of a 2,160 km inter-state journey from Kozhikode to Ranchi.</p>
         </div>
 
         <div class="kzr-grid-3">
             <div class="kzr-card">
-                <div class="kzr-card-icon">🛋️</div>
+                <div class="kzr-card-icon">ðŸ›‹ï¸</div>
                 <h3>Household &amp; Family Relocation</h3>
                 <p>Complete household shifting with 5-ply cartons, shock-absorbing bubble wrap, and multi-layer stretch film. Our crew dismantles modular furniture, protecting wood finishes against scratches and transit shock.</p>
             </div>
 
             <div class="kzr-card">
-                <div class="kzr-card-icon">🎓</div>
+                <div class="kzr-card-icon">ðŸŽ“</div>
                 <h3>IIM &amp; NIT Faculty Return Moves</h3>
                 <p>Specialized transfers for professors, scientists, and researchers returning from IIM Kozhikode and NIT Calicut. We provide custom book cartons, delicate IT crating, and doorstep room placement.</p>
             </div>
 
             <div class="kzr-card">
-                <div class="kzr-card-icon">💻</div>
+                <div class="kzr-card-icon">ðŸ’»</div>
                 <h3>Cyberpark IT Professional Returns</h3>
                 <p>Relocating software engineers returning from UL Cyberpark and Government Cyberpark to Ranchi. We provide specialized anti-static crating for dual-monitor setups, gaming consoles, desktop towers, and home office workstations.</p>
             </div>
 
             <div class="kzr-card">
-                <div class="kzr-card-icon">🪑</div>
+                <div class="kzr-card-icon">ðŸª‘</div>
                 <h3>Teakwood &amp; Malabar Timber Packaging</h3>
                 <p>Kerala is celebrated for handcrafted teak, rosewood furniture, and intricate wooden handicrafts. We custom-build wooden skeleton crates with high-density EPE foam cushioning to prevent chipping, breakage, or friction during transit.</p>
             </div>
 
             <div class="kzr-card">
-                <div class="kzr-card-icon">🚗</div>
+                <div class="kzr-card-icon">ðŸš—</div>
                 <h3>Enclosed Automobile Carrier</h3>
                 <p>Doorstep car pickup in Kozhikode and direct delivery to your Ranchi address using closed double-decker carriers. Equipped with hydraulic ramps, wheel locking clamps, GPS tracking, and comprehensive transit insurance.</p>
             </div>
 
             <div class="kzr-card">
-                <div class="kzr-card-icon">🏍️</div>
+                <div class="kzr-card-icon">ðŸï¸</div>
                 <h3>Two-Wheeler &amp; Bike Courier</h3>
                 <p>Safe motorcycle and scooter transport with fuel draining, battery disconnect, multi-layer bubble wrapping, mirror cushioning, and heavy corrugated carton encasement for complete dent-free delivery.</p>
             </div>
@@ -844,9 +844,9 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Packaging Engineering Protocol -->
-    <section class="rkz-section rkz-section-light">
-        <div class="rkz-grid-2">
-            <div class="rkz-image-container">
+    <section class="kzr-section kzr-section-light">
+        <div class="kzr-grid-2">
+            <div class="kzr-image-container">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing for Kozhikode to Ranchi moving" loading="lazy">
             </div>
             <div>
@@ -865,14 +865,14 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Pricing & Distance Matrix Table -->
-    <section class="rkz-section">
-        <div class="rkz-section-title">
+    <section class="kzr-section">
+        <div class="kzr-section-title">
             <h2>Estimated Relocation Rates from Kozhikode to Ranchi</h2>
             <p>Transparent pricing with zero hidden fees. Estimates cover premium packing supplies, professional labor, interstate transit permits, highway tolls, and doorstep delivery.</p>
         </div>
 
-        <div class="rkz-table-wrapper">
-            <table class="rkz-table">
+        <div class="kzr-table-wrapper">
+            <table class="kzr-table">
                 <thead>
                     <tr>
                         <th>Consignment Scope</th>
@@ -893,7 +893,7 @@ require_once __DIR__ . '/../includes/seo.php';
                         <td>5 - 7 Days</td>
                     </tr>
                     <tr>
-                        <td><strong>2 BHK Flat Relocation</strong> <span class="rkz-highlight-tag">Popular</span></td>
+                        <td><strong>2 BHK Flat Relocation</strong> <span class="kzr-highlight-tag">Popular</span></td>
                         <td>~2,160 km</td>
                         <td>Rs 8,000 - 11,000</td>
                         <td>Rs 20,000 - 27,000</td>
@@ -943,12 +943,12 @@ require_once __DIR__ . '/../includes/seo.php';
                 </tbody>
             </table>
         </div>
-        <p style="font-size: 0.85rem; color: var(--rkz-text-muted); margin-top: 1rem; text-align: center;">*Note: Final prices may fluctuate depending on elevator accessibility, floor levels, overall weight and volume, declared insurance value, and specific crate packaging requirements for delicate antiques.</p>
+        <p style="font-size: 0.85rem; color: var(--kzr-text-muted); margin-top: 1rem; text-align: center;">*Note: Final prices may fluctuate depending on elevator accessibility, floor levels, overall weight and volume, declared insurance value, and specific crate packaging requirements for delicate antiques.</p>
     </section>
 
     <!-- Car & Bike Carrier Spotlight -->
-    <section class="rkz-section rkz-section-light">
-        <div class="rkz-grid-2">
+    <section class="kzr-section kzr-section-light">
+        <div class="kzr-grid-2">
             <div>
                 <span style="color: var(--kzr-emerald); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Vehicle Relocation Fleet</span>
                 <h2 style="font-size: 2rem; font-weight: 800; color: var(--kzr-navy); margin: 0.5rem 0 1.25rem;">Closed Container Car &amp; Motorcycle Carriers to Ranchi</h2>
@@ -956,46 +956,46 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Every vehicle undergoes a detailed digital pre-dispatch inspection in Kozhikode, recording odometer readings, fuel levels, and exterior condition on an inspection sheet. Vehicles are driven onto enclosed carriers via hydraulic ramps and secured with heavy-duty wheel chocks.</p>
                 <p>With comprehensive all-risk transit insurance and continuous GPS tracking, you receive regular transit updates until your automobile is delivered directly to your doorstep in Ranchi.</p>
             </div>
-            <div class="rkz-image-container">
+            <div class="kzr-image-container">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Kozhikode to Ranchi" loading="lazy">
             </div>
         </div>
     </section>
 
     <!-- Relocation Workflow Process -->
-    <section class="rkz-section">
-        <div class="rkz-section-title">
+    <section class="kzr-section">
+        <div class="kzr-section-title">
             <h2>Our 5-Step Seamless Relocation Process</h2>
             <p>From the initial pre-move survey in Kozhikode to final room placement in Ranchi, our standardized execution prevents delays and guarantees complete accountability.</p>
         </div>
 
-        <div class="rkz-timeline">
-            <div class="rkz-step">
-                <span class="rkz-step-num">1</span>
+        <div class="kzr-timeline">
+            <div class="kzr-step">
+                <span class="kzr-step-num">1</span>
                 <h4>Survey &amp; Fixed Quotation</h4>
                 <p>Our relocation supervisor conducts a virtual video or home survey in Kozhikode to evaluate consignment volume, fragile items, and vehicle requirements, providing a transparent quote.</p>
             </div>
 
-            <div class="rkz-step">
-                <span class="rkz-step-num">2</span>
+            <div class="kzr-step">
+                <span class="kzr-step-num">2</span>
                 <h4>Multi-Layer Packing</h4>
                 <p>Our experienced packers pack every item room-by-room utilizing 5-ply cartons, bubble wrap, stretch film, and custom crates for delicate items and glassware.</p>
             </div>
 
-            <div class="rkz-step">
-                <span class="rkz-step-num">3</span>
+            <div class="kzr-step">
+                <span class="kzr-step-num">3</span>
                 <h4>Hydraulic Container Loading</h4>
                 <p>Heavy furniture and appliances are systematically arranged in sealed container trucks using safety belts and shock-absorbing pads to prevent transit movement.</p>
             </div>
 
-            <div class="rkz-step">
-                <span class="rkz-step-num">4</span>
+            <div class="kzr-step">
+                <span class="kzr-step-num">4</span>
                 <h4>GPS-Tracked Highway Transit</h4>
                 <p>Our trucks navigate via NH-766 and NH-44 with dual-driver rotation. Customers receive regular SMS and WhatsApp updates as the vehicle passes major toll corridors.</p>
             </div>
 
-            <div class="rkz-step">
-                <span class="rkz-step-num">5</span>
+            <div class="kzr-step">
+                <span class="kzr-step-num">5</span>
                 <h4>Doorstep Delivery &amp; Placement</h4>
                 <p>In Ranchi, our unloading team delivers cartons into designated rooms, reassembles beds and dining tables, and removes all empty packing debris for immediate settling.</p>
             </div>
@@ -1003,9 +1003,9 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Why Choose Shree Ashirwad Packers and Movers -->
-    <section class="rkz-section rkz-section-light">
-        <div class="rkz-grid-2">
-            <div class="rkz-image-container">
+    <section class="kzr-section kzr-section-light">
+        <div class="kzr-grid-2">
+            <div class="kzr-image-container">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Ranchi Shree Ashirwad Packers" loading="lazy">
             </div>
             <div>
@@ -1014,28 +1014,28 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>With more than a decade of proven expertise in long-haul inter-state logistics between southern India and Jharkhand, Shree Ashirwad Packers and Movers has earned the trust of over 10,000 families, academic faculty, and IT executives.</p>
                 <div style="margin-top: 1.5rem;">
                     <div style="display: flex; gap: 1rem; margin-bottom: 1.25rem; align-items: flex-start;">
-                        <span style="font-size: 1.25rem; color: #059669;">✔</span>
+                        <span style="font-size: 1.25rem; color: #059669;">âœ”</span>
                         <div>
                             <strong style="color: var(--kzr-navy);">100% Dedicated Company Fleet:</strong>
                             <p style="margin: 0; font-size: 0.9rem; color: var(--kzr-text-muted);">We operate our own sealed metal container vehicles, eliminating middleman broker delays and ensuring your consignment remains untouched from start to finish.</p>
                         </div>
                     </div>
                     <div style="display: flex; gap: 1rem; margin-bottom: 1.25rem; align-items: flex-start;">
-                        <span style="font-size: 1.25rem; color: #059669;">✔</span>
+                        <span style="font-size: 1.25rem; color: #059669;">âœ”</span>
                         <div>
                             <strong style="color: var(--kzr-navy);">Academic &amp; IT Relocation Specialists:</strong>
                             <p style="margin: 0; font-size: 0.9rem; color: var(--kzr-text-muted);">Complete compliance with IIM, NIT, and corporate transfer protocols, providing certified IBA consignment notes, itemized checklists, and GST invoices.</p>
                         </div>
                     </div>
                     <div style="display: flex; gap: 1rem; margin-bottom: 1.25rem; align-items: flex-start;">
-                        <span style="font-size: 1.25rem; color: #059669;">✔</span>
+                        <span style="font-size: 1.25rem; color: #059669;">âœ”</span>
                         <div>
                             <strong style="color: var(--kzr-navy);">Comprehensive All-Risk Insurance:</strong>
                             <p style="margin: 0; font-size: 0.9rem; color: var(--kzr-text-muted);">Complete financial security against unforeseen highway perils, accidents, or weather damage with hassle-free claim facilitation and minimal paperwork.</p>
                         </div>
                     </div>
                     <div style="display: flex; gap: 1rem; align-items: flex-start;">
-                        <span style="font-size: 1.25rem; color: #059669;">✔</span>
+                        <span style="font-size: 1.25rem; color: #059669;">âœ”</span>
                         <div>
                             <strong style="color: var(--kzr-navy);">Full Doorstep Unpacking Assistance:</strong>
                             <p style="margin: 0; font-size: 0.9rem; color: var(--kzr-text-muted);">We don't merely unload at your gate; our Ranchi team positions heavy furniture inside specified rooms, reassembles beds, and clears away packing debris.</p>
@@ -1047,8 +1047,8 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Frequently Asked Questions (Accordion) -->
-    <section class="rkz-section">
-        <div class="rkz-section-title">
+    <section class="kzr-section">
+        <div class="kzr-section-title">
             <h2>Frequently Asked Questions</h2>
             <p>Everything you need to know about booking and preparing for your inter-state move from Kozhikode to Ranchi.</p>
         </div>
@@ -1099,7 +1099,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Connected South India Cluster Navigation -->
-    <section class="kzr-section rkz-section-light" style="padding: 50px 0;">
+    <section class="kzr-section kzr-section-light" style="padding: 50px 0;">
         <div style="max-width: 1200px; margin: 0 auto; padding: 0 1rem;">
             <div class="kzr-section-title" style="margin-bottom: 2rem;">
                 <span style="color: var(--kzr-emerald); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Connected Route Network</span>
@@ -1109,47 +1109,47 @@ require_once __DIR__ . '/../includes/seo.php';
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem;">
                 <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kozhikode-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--kzr-border); text-decoration: none; color: var(--kzr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                     <span>Ranchi to Kozhikode (Return)</span>
-                    <span style="color: var(--kzr-emerald);">→</span>
+                    <span style="color: var(--kzr-emerald);">â†’</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--kzr-border); text-decoration: none; color: var(--kzr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                     <span>Ranchi Headquarters Hub</span>
-                    <span style="color: var(--kzr-emerald);">→</span>
+                    <span style="color: var(--kzr-emerald);">â†’</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/kochi-to-ranchi-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--kzr-border); text-decoration: none; color: var(--kzr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                     <span>Kochi to Ranchi Corridor</span>
-                    <span style="color: var(--kzr-emerald);">→</span>
+                    <span style="color: var(--kzr-emerald);">â†’</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/mysore-to-ranchi-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--kzr-border); text-decoration: none; color: var(--kzr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                     <span>Mysore to Ranchi Route</span>
-                    <span style="color: var(--kzr-emerald);">→</span>
+                    <span style="color: var(--kzr-emerald);">â†’</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/mangalore-to-ranchi-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--kzr-border); text-decoration: none; color: var(--kzr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                     <span>Mangalore to Ranchi Route</span>
-                    <span style="color: var(--kzr-emerald);">→</span>
+                    <span style="color: var(--kzr-emerald);">â†’</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-ranchi-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--kzr-border); text-decoration: none; color: var(--kzr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                     <span>Bangalore to Ranchi Express</span>
-                    <span style="color: var(--kzr-emerald);">→</span>
+                    <span style="color: var(--kzr-emerald);">â†’</span>
                 </a>
             </div>
         </div>
     </section>
 
     <!-- Call to Action Banner -->
-    <section class="rkz-section" style="padding-top: 0;">
+    <section class="kzr-section" style="padding-top: 0;">
         <div class="kzr-cta-banner">
             <h2>Ready for a Safe Move from Kozhikode to Ranchi?</h2>
             <p>Connect with our expert inter-state relocation specialists today. Get transparent pricing, guaranteed delivery schedules, and zero-transshipment container transit.</p>
             
             <div class="kzr-cta-phones">
                 <a href="tel:+918409531615" class="kzr-phone-pill">
-                    📞 +91 8409531615
+                    ðŸ“ž +91 8409531615
                 </a>
                 <a href="tel:+919835565233" class="kzr-phone-pill">
-                    📱 +91 9835565233
+                    ðŸ“± +91 9835565233
                 </a>
                 <a href="mailto:enquiry@shreeashirwadpackers.com" class="kzr-phone-pill">
-                    ✉️ enquiry@shreeashirwadpackers.com
+                    âœ‰ï¸ enquiry@shreeashirwadpackers.com
                 </a>
             </div>
 

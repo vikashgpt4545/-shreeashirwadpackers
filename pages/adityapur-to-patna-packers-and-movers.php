@@ -729,8 +729,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             </div>
 
             <!-- TWO COLUMN STORY: AUTO-ANCILLARY CLUSTER TO HISTORIC CAPITAL -->
-            <div class="adi-kol-two-col">
-                <div class="adi-kol-two-col-text">
+            <div class="adi-pat-two-col">
+                <div class="adi-pat-two-col-text">
                     <h2>Connecting Jharkhand's Manufacturing Engine with Patna</h2>
                     <p>
                         The northbound corridor from Adityapur to Patna unites two pivotal urban centers of Eastern India. Adityapur is widely recognized as Asia's largest auto ancillary and component manufacturing hub, containing more than 1,200 small, medium, and heavy engineering plants feeding Tata Motors, Tata Steel, and national infrastructure. Conversely, Patna serves as the administrative, political, commercial, and educational epicenter of Bihar.
@@ -742,7 +742,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                         Shree Ashirwad Packers and Movers delivers specialized moving solutions tailored for this long-distance route. Our sealed container trucks traverse the NH-22 expressway with precision, protecting valuable furniture, kitchenware, and sensitive electronic goods from highway vibrations, dust, and climatic shifts.
                     </p>
                 </div>
-                <div class="adi-kol-img-box">
+                <div class="adi-pat-img-box">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Warehouse Storage and Transit Facility for Adityapur to Patna Relocation" title="Warehouse Storage and Transit Facility">
                 </div>
             </div>

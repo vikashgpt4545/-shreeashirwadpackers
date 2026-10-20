@@ -672,7 +672,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Moving long distance requires disciplined packing protocols that protect furniture from elevator scraping, tight staircase turns, and road turbulence across 1,290 km of national expressways. Shree Ashirwad Packers and Movers implements a rigorous multi-tier packaging process:
         </p>
 
-        <div class="r2sn-grid-3">
+        <div class="sn2r-grid-3">
             <div class="sn2r-card">
                 <div class="sn2r-card-title">Carpentry &amp; Dismantling</div>
                 <p class="sn2r-text" style="font-size: 0.95rem; margin-bottom: 0;">

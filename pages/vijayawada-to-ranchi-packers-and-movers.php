@@ -567,7 +567,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
     <!-- Section 1: Inbound Overview & Reverse Logistics Advantage -->
     <section class="vijr-section">
-        <h2 class="rvij-section-title">Seamless Inbound Relocation from Vijayawada to Ranchi</h2>
+        <h2 class="vijr-section-title">Seamless Inbound Relocation from Vijayawada to Ranchi</h2>
         <p class="vijr-text">
             Relocating your household and vehicle from the bustling Krishna delta commercial metropolis of Vijayawada back to Ranchi is a journey spanning approximately 1,090 kilometers along the scenic Eastern coastal highway corridor. Whether you are concluding an executive assignment at the Gannavaram IT corridor or Auto Nagar, wrapping up clinical or research tenure at AIIMS Mangalagiri, transferring from Andhra Pradesh state administrative bodies in Amaravati / Velagapudi, or moving home to Jharkhand, having a certified, direct-custody moving specialist ensures total protection of your assets.
         </p>
@@ -588,13 +588,13 @@ require_once __DIR__ . '/../includes/seo.php';
 
     <!-- Section 2: Transparent Pricing Guide -->
     <section class="vijr-section">
-        <h2 class="rvij-section-title">Transparent Pricing Table: Vijayawada to Ranchi Moving Costs</h2>
+        <h2 class="vijr-section-title">Transparent Pricing Table: Vijayawada to Ranchi Moving Costs</h2>
         <p class="vijr-text">
             Our moving rates are determined transparently based on total cargo volume, packaging material tier, floor elevator access, and highway transit. Benefit from our optimized return-freight pricing schedule:
         </p>
 
-        <div class="rvij-table-wrap">
-            <table class="rvij-table">
+        <div class="vijr-table-wrap">
+            <table class="vijr-table">
                 <thead>
                     <tr>
                         <th>Configuration / Household Size</th>
@@ -671,7 +671,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
     <!-- Section 3: Highway Route & Return Transit Logistics -->
     <section class="vijr-section">
-        <h2 class="rvij-section-title">Highway Routing & Reverse Transit Engineering Across 1,090 km</h2>
+        <h2 class="vijr-section-title">Highway Routing & Reverse Transit Engineering Across 1,090 km</h2>
         <p class="vijr-text">
             Transporting goods securely from Vijayawada back to Ranchi benefits from the high-speed infrastructure of National Highway 16:
         </p>
@@ -709,7 +709,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
     <!-- Section 4: 5-Layer Packing Standard -->
     <section class="vijr-section">
-        <h2 class="rvij-section-title">5-Layer Protective Packaging for Road Transit</h2>
+        <h2 class="vijr-section-title">5-Layer Protective Packaging for Road Transit</h2>
         <p class="vijr-text">
             Over a 1,090-kilometer highway journey, household items encounter highway vibrations, sudden braking, and ambient dust. Shree Ashirwad Packers and Movers implements a rigorous 5-layer packing standard:
         </p>
@@ -761,7 +761,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
     <!-- Section 5: Pickup Localities & Delivery Across Ranchi -->
     <section class="vijr-section">
-        <h2 class="rvij-section-title">Doorstep Pickup Across Vijayawada & Delivery in Ranchi</h2>
+        <h2 class="vijr-section-title">Doorstep Pickup Across Vijayawada & Delivery in Ranchi</h2>
         <p class="vijr-text">
             Our experienced moving crew coordinates pickups across all residential, institutional, and commercial sectors in both cities:
         </p>
@@ -799,7 +799,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
     <!-- Section 6: Corporate Relocation & IBA Invoicing -->
     <section class="vijr-section">
-        <h2 class="rvij-section-title">Corporate Relocation & IBA-Approved Invoicing for Reimbursements</h2>
+        <h2 class="vijr-section-title">Corporate Relocation & IBA-Approved Invoicing for Reimbursements</h2>
         <p class="vijr-text">
             Employees transitioning from corporate tech firms, government departments, research institutes, and healthcare organizations in Vijayawada require strict documentation compliance to claim relocation allowances from their employers:
         </p>
@@ -821,7 +821,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
     <!-- Section 7: Step-by-Step Relocation Flow -->
     <section class="vijr-section">
-        <h2 class="rvij-section-title">Our Systematic 6-Step Inbound Workflow</h2>
+        <h2 class="vijr-section-title">Our Systematic 6-Step Inbound Workflow</h2>
         <div class="vijr-timeline">
             <div class="vijr-timeline-step">
                 <div class="vijr-step-title">Step 1: Free On-Site or Video Survey in Vijayawada</div>
@@ -864,7 +864,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
     <!-- Section 8: Frequently Asked Questions -->
     <section class="vijr-section">
-        <h2 class="rvij-section-title">Frequently Asked Questions: Vijayawada to Ranchi Relocation</h2>
+        <h2 class="vijr-section-title">Frequently Asked Questions: Vijayawada to Ranchi Relocation</h2>
         <div class="vijr-faq-item">
             <h3 class="vijr-faq-question">What is the transit duration for goods returning from Vijayawada to Ranchi?</h3>
             <div class="vijr-faq-answer">

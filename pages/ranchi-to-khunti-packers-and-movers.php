@@ -662,7 +662,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Every move is accompanied by our trained moving supervisor, ensuring that your valuable furnishings, electronic gadgets, glass cabinets, and kitchenware are placed precisely where you want them in your new Khunti residence.
                 </p>
             </div>
-            <div class="ran-god-img-box">
+            <div class="ran-khu-img-box">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated Sealed Container Truck Loading for Same-Day Ranchi to Khunti Move" title="Ranchi to Khunti Household Shifting">
             </div>
         </div>

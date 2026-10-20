@@ -900,7 +900,7 @@ require_once __DIR__ . '/../includes/seo.php';
 </section>
 
 <!-- SECTION 6: RANCHI DESTINATION LOCALITIES -->
-<section class="klr-section rkl-section-light">
+<section class="klr-section klr-section-light">
     <div class="klr-container">
         <div class="klr-two-col">
             <div>

@@ -788,7 +788,7 @@ require_once __DIR__ . '/../includes/seo.php';
 </section>
 
 <!-- SECTION 4: 5-LAYER PACKAGING PROTOCOL -->
-<section class="vpr-section rvp-section-light">
+<section class="vpr-section vpr-section-light">
     <div class="vpr-container">
         <div class="vpr-two-col">
             <div class="vpr-img-frame">
@@ -854,7 +854,7 @@ require_once __DIR__ . '/../includes/seo.php';
 </section>
 
 <!-- SECTION 6: RANCHI DESTINATION LOCALITY COVERAGE -->
-<section class="vpr-section rvp-section-light">
+<section class="vpr-section vpr-section-light">
     <div class="vpr-container">
         <div class="vpr-two-col">
             <div>

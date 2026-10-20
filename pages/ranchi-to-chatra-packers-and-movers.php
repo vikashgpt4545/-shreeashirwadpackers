@@ -1077,7 +1077,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
     </div>
 
-    <div class="simdega-media-box">
+    <div class="chatra-media-box">
       <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing for Chatra Relocation">
       <div class="chatra-media-caption">
         Figure 4: Delicate kitchen chinaware and glassware individually bubble-padded and compartmentalized for the Ranchi to Chatra moving corridor.

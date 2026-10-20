@@ -709,7 +709,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Our inter-state transport operations adhere strictly to commercial compliance standards, including active GST e-Way bills, multi-state highway toll clearances via FASTag linehaul lanes, and all RTO border permits. Drivers follow regulated driving hour limits with mandatory rest stops, ensuring that driver alertness remains optimal through winding ghat descents and multi-lane expressways alike.
                 </p>
             </div>
-            <div class="rth-img-frame">
+            <div class="thr-img-frame">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Thane to Ranchi Complete Household Packing and Wrapping" loading="lazy">
             </div>
         </div>

@@ -672,7 +672,7 @@ require_once __DIR__ . '/../includes/seo.php';
             High-rise societies in Greater Noida require disciplined packing protocols that protect furniture from elevator scraping, tight staircase turns, and road turbulence across 1,200 km of national highways. Shree Ashirwad Packers and Movers implements a rigorous multi-tier packaging process:
         </p>
 
-        <div class="r2gn-grid-3">
+        <div class="gn2r-grid-3">
             <div class="gn2r-card">
                 <div class="gn2r-card-title">Carpentry &amp; Dismantling</div>
                 <p class="gn2r-text" style="font-size: 0.95rem; margin-bottom: 0;">

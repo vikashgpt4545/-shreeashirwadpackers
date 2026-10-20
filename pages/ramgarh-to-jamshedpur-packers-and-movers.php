@@ -708,7 +708,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-jamshedpur-pac
 <!-- 5-Layer Packing Methodology -->
 <section class="ram2jsr-section ram2jsr-section-gray">
     <div class="container">
-        <div class="jsr2ram-img-wrap">
+        <div class="ram2jsr-img-wrap">
             <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer household packing in Ramgarh for safe transit to Jamshedpur">
         </div>
         <div>

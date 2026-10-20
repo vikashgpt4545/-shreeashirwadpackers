@@ -675,22 +675,22 @@ require_once __DIR__ . '/../includes/seo.php';
         <p class="mngr-text">
             The road trip from coastal Mangalore begins with climbing out of the Arabian Sea coastal basin up through the steep, winding Western Ghat mountain passes before entering the vast Deccan plateau. Managing heavy container trucks over these demanding ghat roads requires specialized mechanical checks and experienced hill-driving professionals:
         </p>
-        <div class="rmng-grid-2">
-            <div class="rmng-card">
-                <h3 class="rmng-card-title">Ghat Ascent via Shiradi Ghat (NH-75)</h3>
-                <p class="rmng-text">
+        <div class="mngr-grid-2">
+            <div class="mngr-card">
+                <h3 class="mngr-card-title">Ghat Ascent via Shiradi Ghat (NH-75)</h3>
+                <p class="mngr-text">
                     <strong>Mangaluru &rarr; Bantwal &rarr; Uppinangady &rarr; Gundya &rarr; Sakleshpur (Shiradi Ghat Ascent) &rarr; Hassan &rarr; Kunigal &rarr; Nelamangala (Bengaluru Bypass) &rarr; NH-44 Northward.</strong>
                 </p>
-                <p class="rmng-text">
+                <p class="mngr-text">
                     This is the standard high-capacity commercial freight corridor connecting Dakshina Kannada with inland Karnataka. Our vehicles utilize low-gear transmission modes and pneumatic retarders to climb the ghats smoothly without placing sudden shear forces on packed cargo.
                 </p>
             </div>
-            <div class="rmng-card">
-                <h3 class="rmng-card-title">Alternative Ascent via Charmadi Ghat</h3>
-                <p class="rmng-text">
+            <div class="mngr-card">
+                <h3 class="mngr-card-title">Alternative Ascent via Charmadi Ghat</h3>
+                <p class="mngr-text">
                     <strong>Mangaluru &rarr; Belthangady &rarr; Ujire &rarr; Charmadi Ghat &rarr; Kottigehara &rarr; Mudigere &rarr; Belur &rarr; Chitradurga &rarr; Ballari &rarr; Hyderabad ORR.</strong>
                 </p>
-                <p class="rmng-text">
+                <p class="mngr-text">
                     During heavy monsoon conditions or when Shiradi Ghat is under seasonal maintenance, the Charmadi Ghat route provides a viable alternative. Ratchet tie-downs inside our trucks prevent any sliding or shifting of stacked cartons during steep hairpin turns.
                 </p>
             </div>
@@ -796,9 +796,9 @@ require_once __DIR__ . '/../includes/seo.php';
         <p class="mngr-text">
             Our comprehensive service covers all residential extensions, corporate tech parks, and institutional campuses in both locations:
         </p>
-        <div class="rmng-grid-2">
-            <div class="rmng-card">
-                <h3 class="rmng-card-title">Pickup Localities Across Mangalore</h3>
+        <div class="mngr-grid-2">
+            <div class="mngr-card">
+                <h3 class="mngr-card-title">Pickup Localities Across Mangalore</h3>
                 <ul class="mngr-text" style="padding-left: 20px;">
                     <li><strong>Kadri, Bejai & Urwa:</strong> High-rise residential apartments and commercial hubs.</li>
                     <li><strong>Surathkal (NITK):</strong> Faculty housing, research staff quarters, and student relocations.</li>
@@ -808,8 +808,8 @@ require_once __DIR__ . '/../includes/seo.php';
                     <li><strong>Derebail, Maryhill & Bondel:</strong> Growing modern suburban residential layouts.</li>
                 </ul>
             </div>
-            <div class="rmng-card">
-                <h3 class="rmng-card-title">Doorstep Delivery Across Ranchi</h3>
+            <div class="mngr-card">
+                <h3 class="mngr-card-title">Doorstep Delivery Across Ranchi</h3>
                 <ul class="mngr-text" style="padding-left: 20px;">
                     <li><strong>Morabadi & Bariatu:</strong> Educational campuses, university residences, and medical colonies.</li>
                     <li><strong>Kanke Road & Harmu:</strong> Upscale residential towers and central housing societies.</li>

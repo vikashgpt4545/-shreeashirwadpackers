@@ -804,7 +804,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Motorcycles and scooters are packed in multi-layer bubble film and crated in heavy timber frames. For personal sedans and SUVs, our specialized car carriers feature pneumatic ramps and non-scratch safety harnesses, delivering your vehicle directly to your doorstep in Ghatshila in showroom condition.
                 </p>
             </div>
-            <div class="ran-gar-img-box">
+            <div class="ran-gha-img-box">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Ranchi to Ghatshila Move" title="Motorcycle Transport Ranchi to Ghatshila">
             </div>
         </div>

@@ -760,7 +760,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Neighborhood Coverage: Madurai & Ranchi -->
-    <section class="mdr-section rmd-section-light">
+    <section class="mdr-section mdr-section-light">
         <div class="mdr-section-title">
             <h2>Complete Door-to-Door Pickup &amp; Delivery Network</h2>
             <p>From prominent residential sectors and institutional campuses in Madurai to prime residential colonies and institutional hubs across Ranchi.</p>
@@ -798,8 +798,8 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Specialized Services Section -->
-    <section class="rmd-section">
-        <div class="rmd-section-title">
+    <section class="mdr-section">
+        <div class="mdr-section-title">
             <h2>Our Specialized Relocation Solutions</h2>
             <p>End-to-end moving services engineered to withstand the rigorous demands of a 2,020 km inter-state journey from Madurai to Ranchi.</p>
         </div>
@@ -844,9 +844,9 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Packaging Engineering Protocol -->
-    <section class="rmd-section rmd-section-light">
-        <div class="rmd-grid-2">
-            <div class="rmd-image-container">
+    <section class="mdr-section mdr-section-light">
+        <div class="mdr-grid-2">
+            <div class="mdr-image-container">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing for Madurai to Ranchi moving" loading="lazy">
             </div>
             <div>
@@ -865,14 +865,14 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Pricing & Distance Matrix Table -->
-    <section class="rmd-section">
-        <div class="rmd-section-title">
+    <section class="mdr-section">
+        <div class="mdr-section-title">
             <h2>Estimated Relocation Rates from Madurai to Ranchi</h2>
             <p>Transparent pricing with zero hidden fees. Estimates cover premium packing supplies, professional labor, interstate transit permits, highway tolls, and doorstep delivery.</p>
         </div>
 
-        <div class="rmd-table-wrapper">
-            <table class="rmd-table">
+        <div class="mdr-table-wrapper">
+            <table class="mdr-table">
                 <thead>
                     <tr>
                         <th>Consignment Scope</th>
@@ -893,7 +893,7 @@ require_once __DIR__ . '/../includes/seo.php';
                         <td>5 - 6 Days</td>
                     </tr>
                     <tr>
-                        <td><strong>2 BHK Flat Relocation</strong> <span class="rmd-highlight-tag">Popular</span></td>
+                        <td><strong>2 BHK Flat Relocation</strong> <span class="mdr-highlight-tag">Popular</span></td>
                         <td>~2,020 km</td>
                         <td>Rs 7,500 - 10,500</td>
                         <td>Rs 19,500 - 26,000</td>
@@ -943,59 +943,59 @@ require_once __DIR__ . '/../includes/seo.php';
                 </tbody>
             </table>
         </div>
-        <p style="font-size: 0.85rem; color: var(--rmd-text-muted); margin-top: 1rem; text-align: center;">*Note: Final prices may fluctuate depending on elevator accessibility, floor levels, overall weight and volume, declared insurance value, and specific crate packaging requirements for delicate antiques.</p>
+        <p style="font-size: 0.85rem; color: var(--mdr-text-muted); margin-top: 1rem; text-align: center;">*Note: Final prices may fluctuate depending on elevator accessibility, floor levels, overall weight and volume, declared insurance value, and specific crate packaging requirements for delicate antiques.</p>
     </section>
 
     <!-- Car & Bike Carrier Spotlight -->
-    <section class="rmd-section rmd-section-light">
-        <div class="rmd-grid-2">
+    <section class="mdr-section mdr-section-light">
+        <div class="mdr-grid-2">
             <div>
-                <span style="color: var(--rmd-rose); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Vehicle Relocation Fleet</span>
+                <span style="color: var(--mdr-rose); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Vehicle Relocation Fleet</span>
                 <h2 style="font-size: 2rem; font-weight: 800; color: var(--mdr-navy); margin: 0.5rem 0 1.25rem;">Closed Container Car &amp; Motorcycle Carriers to Ranchi</h2>
                 <p>Driving your personal car or motorbike across 2,020 km through multiple states, interstate checkposts, and unpredictable highway traffic leads to severe engine wear, tire degradation, and transit fatigue. Our specialized auto shipping service ensures your automobile reaches Ranchi in pristine condition.</p>
                 <p>Every vehicle undergoes a detailed digital pre-dispatch inspection in Madurai, recording odometer readings, fuel levels, and exterior condition on an inspection sheet. Vehicles are driven onto enclosed carriers via hydraulic ramps and secured with heavy-duty wheel chocks.</p>
                 <p>With comprehensive all-risk transit insurance and continuous GPS tracking, you receive regular transit updates until your automobile is delivered directly to your doorstep in Ranchi.</p>
             </div>
-            <div class="rmd-image-container">
+            <div class="mdr-image-container">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Madurai to Ranchi" loading="lazy">
             </div>
         </div>
     </section>
 
     <!-- Relocation Workflow Process -->
-    <section class="rmd-section">
-        <div class="rmd-section-title">
+    <section class="mdr-section">
+        <div class="mdr-section-title">
             <h2>Our 5-Step Seamless Relocation Process</h2>
             <p>From the initial pre-move survey in Madurai to final room placement in Ranchi, our standardized execution prevents delays and guarantees complete accountability.</p>
         </div>
 
-        <div class="rmd-timeline">
-            <div class="rmd-step">
-                <span class="rmd-step-num">1</span>
+        <div class="mdr-timeline">
+            <div class="mdr-step">
+                <span class="mdr-step-num">1</span>
                 <h4>Survey &amp; Fixed Quotation</h4>
                 <p>Our relocation supervisor conducts a virtual video or home survey in Madurai to evaluate consignment volume, fragile items, and vehicle requirements, providing a transparent quote.</p>
             </div>
 
-            <div class="rmd-step">
-                <span class="rmd-step-num">2</span>
+            <div class="mdr-step">
+                <span class="mdr-step-num">2</span>
                 <h4>Multi-Layer Packing</h4>
                 <p>Our experienced packers pack every item room-by-room utilizing 5-ply cartons, bubble wrap, stretch film, and custom crates for delicate temple crafts and glassware.</p>
             </div>
 
-            <div class="rmd-step">
-                <span class="rmd-step-num">3</span>
+            <div class="mdr-step">
+                <span class="mdr-step-num">3</span>
                 <h4>Hydraulic Container Loading</h4>
                 <p>Heavy furniture and appliances are systematically arranged in sealed container trucks using safety belts and shock-absorbing pads to prevent transit movement.</p>
             </div>
 
-            <div class="rmd-step">
-                <span class="rmd-step-num">4</span>
+            <div class="mdr-step">
+                <span class="mdr-step-num">4</span>
                 <h4>GPS-Tracked Highway Transit</h4>
                 <p>Our trucks navigate via NH-44 with dual-driver rotation. Customers receive regular SMS and WhatsApp updates as the vehicle passes major toll corridors.</p>
             </div>
 
-            <div class="rmd-step">
-                <span class="rmd-step-num">5</span>
+            <div class="mdr-step">
+                <span class="mdr-step-num">5</span>
                 <h4>Doorstep Delivery &amp; Placement</h4>
                 <p>In Ranchi, our unloading team delivers cartons into designated rooms, reassembles beds and dining tables, and removes all empty packing debris for immediate settling.</p>
             </div>
@@ -1003,14 +1003,14 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Why Choose Shree Ashirwad Packers and Movers -->
-    <section class="rmd-section rmd-section-light">
-        <div class="rmd-grid-2">
-            <div class="rmd-image-container">
+    <section class="mdr-section mdr-section-light">
+        <div class="mdr-grid-2">
+            <div class="mdr-image-container">
                 <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Ranchi Shree Ashirwad Packers" loading="lazy">
             </div>
             <div>
-                <span style="color: var(--rmd-rose); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Why Clients Trust Us</span>
-                <h2 style="font-size: 2rem; font-weight: 800; color: var(--rmd-navy); margin: 0.5rem 0 1.25rem;">The Preferred Choice for Madurai to Ranchi Moves</h2>
+                <span style="color: var(--mdr-rose); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Why Clients Trust Us</span>
+                <h2 style="font-size: 2rem; font-weight: 800; color: var(--mdr-navy); margin: 0.5rem 0 1.25rem;">The Preferred Choice for Madurai to Ranchi Moves</h2>
                 <p>With more than a decade of proven expertise in long-haul inter-state logistics between southern India and Jharkhand, Shree Ashirwad Packers and Movers has earned the trust of over 10,000 families, hospital staff, and corporate managers.</p>
                 <div style="margin-top: 1.5rem;">
                     <div style="display: flex; gap: 1rem; margin-bottom: 1.25rem; align-items: flex-start;">
@@ -1047,8 +1047,8 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Frequently Asked Questions (Accordion) -->
-    <section class="rmd-section">
-        <div class="rmd-section-title">
+    <section class="mdr-section">
+        <div class="mdr-section-title">
             <h2>Frequently Asked Questions</h2>
             <p>Everything you need to know about booking and preparing for your inter-state move from Madurai to Ranchi.</p>
         </div>
@@ -1099,9 +1099,9 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Connected South India Cluster Navigation -->
-    <section class="rmd-section rmd-section-light" style="padding: 50px 0;">
+    <section class="mdr-section mdr-section-light" style="padding: 50px 0;">
         <div style="max-width: 1200px; margin: 0 auto; padding: 0 1rem;">
-            <div class="rmd-section-title" style="margin-bottom: 2rem;">
+            <div class="mdr-section-title" style="margin-bottom: 2rem;">
                 <span style="color: var(--mdr-rose); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Connected Route Network</span>
                 <h2>Explore Related South India Moving Corridors</h2>
                 <p>Direct long-haul container linehaul connecting Tamil Nadu, Kerala, Karnataka, and Andhra Pradesh with Ranchi.</p>
@@ -1136,7 +1136,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </section>
 
     <!-- Call to Action Banner -->
-    <section class="rmd-section" style="padding-top: 0;">
+    <section class="mdr-section" style="padding-top: 0;">
         <div class="mdr-cta-banner">
             <h2>Ready for a Safe Move from Madurai to Ranchi?</h2>
             <p>Connect with our expert inter-state relocation specialists today. Get transparent pricing, guaranteed delivery schedules, and zero-transshipment container transit.</p>
