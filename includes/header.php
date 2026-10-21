@@ -68,7 +68,7 @@ $base_url = SITE_BASE_URL;
 
         <li><a href="<?php echo $base_url; ?>/gallery" class="nav-link" title="Photo Gallery of Moving Operations">Gallery</a></li>
         <li><a href="<?php echo $base_url; ?>/contact" class="nav-link" title="Contact Shree Ashirwad Packers and Movers">Contact</a></li>
-        <li><a href="<?php echo $base_url; ?>/pay-online" class="nav-link" title="Pay Moving Invoice Online">Pay Online</a></li>
+        <li><a href="<?php echo $base_url; ?>/blog" class="nav-link" title="Moving Guides & Relocation Tips Blog">Blog</a></li>
       </ul>
     </nav>
 

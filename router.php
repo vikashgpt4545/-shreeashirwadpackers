@@ -83,7 +83,54 @@ $redirect_map = [
     'packers-and-movers-in-jharkhand' => '/',
     'cost-calculator' => '/packers-and-movers-charges-in-ranchi',
     'pricing' => '/packers-and-movers-charges-in-ranchi',
-    'contact-us' => '/contact'
+    'contact-us' => '/contact',
+
+    // Surya Packers Exact Locality Slugs (Capturing Competitor Search & Backlink Traffic)
+    'packers-and-movers-booty-more-ranchi' => '/packers-and-movers-in-booty-more-ranchi',
+    'packers-and-movers-bariatu-ranchi' => '/packers-and-movers-in-bariatu-ranchi',
+    'packers-and-movers-kanke-ranchi' => '/packers-and-movers-in-kanke',
+    'packers-and-movers-lalpur-ranchi' => '/packers-and-movers-in-lalpur-ranchi',
+    'packers-and-movers-doranda-ranchi' => '/packers-and-movers-in-doranda-ranchi',
+    'packers-and-movers-harmu-ranchi' => '/packers-and-movers-in-harmu-ranchi',
+    'packers-and-movers-hatia-ranchi' => '/packers-and-movers-in-hatia-ranchi',
+    'packers-and-movers-morabadi-ranchi' => '/packers-and-movers-in-morabadi-ranchi',
+    'packers-and-movers-kokar-ranchi' => '/packers-and-movers-in-kokar-ranchi',
+    'packers-and-movers-ratu-road-ranchi' => '/packers-and-movers-in-ratu-road-ranchi',
+
+    // Surya Packers Exact Jharkhand District Slugs
+    'packers-and-movers-ramgarh-jharkhand' => '/packers-and-movers-in-ramgarh',
+    'packers-and-movers-deoghar-jharkhand' => '/packers-and-movers-in-deoghar',
+    'packers-and-movers-dumka-jharkhand' => '/packers-and-movers-in-dumka',
+    'packers-and-movers-bokaro' => '/packers-and-movers-in-bokaro',
+    'packers-and-movers-dhanbad' => '/packers-and-movers-in-dhanbad',
+    'packers-and-movers-hazaribagh' => '/packers-and-movers-in-hazaribagh',
+    'packers-and-movers-jamshedpur' => '/packers-and-movers-in-jamshedpur',
+    'packers-and-movers-giridih-jharkhand' => '/packers-and-movers-in-giridih',
+    'packers-and-movers-koderma-jharkhand' => '/packers-and-movers-in-koderma',
+    'packers-and-movers-jamtara-jharkhand' => '/packers-and-movers-in-jamtara',
+    'packers-and-movers-chatra-jharkhand' => '/packers-and-movers-in-chatra',
+    'packers-and-movers-khunti-jharkhand' => '/packers-and-movers-in-khunti',
+    'packers-and-movers-lohardaga-jharkhand' => '/packers-and-movers-in-lohardaga',
+    'packers-and-movers-gumla-jharkhand' => '/packers-and-movers-in-gumla',
+    'packers-and-movers-latehar-jharkhand' => '/packers-and-movers-in-latehar',
+    'packers-and-movers-simdega-jharkhand' => '/packers-and-movers-in-simdega',
+    'packers-and-movers-palamu-jharkhand' => '/packers-and-movers-in-daltonganj',
+    'packers-and-movers-godda-jharkhand' => '/packers-and-movers-in-godda',
+    'packers-and-movers-pakur-jharkhand' => '/packers-and-movers-in-pakur',
+    'packers-and-movers-sahibganj-jharkhand' => '/packers-and-movers-in-sahibganj',
+
+    // Surya Packers Exact Route Corridors
+    'packers-movers-from-ranchi-to-delhi' => '/ranchi-to-delhi-packers-and-movers',
+    'packers-movers-from-ranchi-to-mumbai' => '/ranchi-to-mumbai-packers-and-movers',
+    'packers-movers-from-ranchi-to-kolkata' => '/ranchi-to-kolkata-packers-and-movers',
+    'packers-movers-from-ranchi-to-patna' => '/ranchi-to-patna-packers-and-movers',
+    'packers-movers-from-ranchi-to-bangalore' => '/ranchi-to-bangalore-packers-and-movers',
+    'packers-movers-from-ranchi-to-pune' => '/ranchi-to-pune-packers-and-movers',
+    'packers-movers-from-ranchi-to-hyderabad' => '/ranchi-to-hyderabad-packers-and-movers',
+    'packers-movers-from-ranchi-to-chennai' => '/ranchi-to-chennai-packers-and-movers',
+    'packers-movers-from-ranchi-to-lucknow' => '/ranchi-to-lucknow-packers-and-movers',
+    'packers-movers-from-ranchi-to-jamshedpur' => '/ranchi-to-jamshedpur-packers-and-movers',
+    'packers-movers-from-ranchi-to-dhanbad' => '/ranchi-to-dhanbad-packers-and-movers'
 ];
 
 $raw_slug = preg_replace('/\.php$/i', '', trim($path, '/'));
