@@ -13,7 +13,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sah
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Packers and Movers in Sahibganj - 8409531615</title>
     <meta name="description" content="<?php echo $page_description; ?>">
-    <meta name="keywords" content="packers and movers in sahibganj, movers and packers sahibganj jharkhand, house shifting sahibganj, ganga multi modal terminal logistics sahibganj, sahibganj junction packers, best packers and movers sahibganj, household relocation sahibganj, car bike transport sahibganj, iba approved packers in sahibganj, shree ashirwad packers sahibganj">
+    <meta name="keywords" content="packers and movers in sahibganj, best packers and movers in sahibganj, household shifting services in sahibganj, house shifting sahibganj, car transport in sahibganj, bike transport in sahibganj, ganga multi modal terminal logistics sahibganj, sahibganj junction packers, best packers and movers sahibganj, household relocation sahibganj, car bike transport sahibganj, iba approved packers and movers in sahibganj, iba approved packers in sahibganj, shree ashirwad packers sahibganj">
     <link rel="canonical" href="https://www.shreeashirwadpackers.com/packers-and-movers-in-sahibganj">
 
     <!-- Google Fonts & Font Awesome -->

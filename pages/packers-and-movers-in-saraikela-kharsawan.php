@@ -25,7 +25,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sar
   
   <title><?php echo $page_title; ?></title>
   <meta name="description" content="<?php echo $page_description; ?>">
-  <meta name="keywords" content="packers and movers in saraikela kharsawan, packers and movers adityapur, packers and movers gamharia, best packers and movers in saraikela kharsawan, household shifting adityapur, house shifting gamharia, packers and movers chandil, packers and movers saraikela to ranchi, car transport adityapur, bike parcel gamharia, iba approved packers in saraikela kharsawan">
+  <meta name="keywords" content="packers and movers in saraikela kharsawan, best packers and movers in saraikela, best packers and movers in saraikela kharsawan, packers and movers adityapur, packers and movers gamharia, household shifting services in saraikela, household shifting adityapur, house shifting gamharia, packers and movers chandil, packers and movers saraikela to ranchi, car transport in saraikela, car transport adityapur, bike transport in saraikela, bike parcel gamharia, iba approved packers and movers in saraikela, iba approved packers in saraikela kharsawan">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">

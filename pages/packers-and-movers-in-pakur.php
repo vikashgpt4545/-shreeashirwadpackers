@@ -25,7 +25,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
   
   <title><?php echo $page_title; ?></title>
   <meta name="description" content="<?php echo $page_description; ?>">
-  <meta name="keywords" content="packers and movers in pakur, best packers and movers in pakur, household shifting in pakur, house shifting pakur, packers and movers hiranpur, packers and movers maheshpur, packers and movers pakur to kolkata, packers and movers pakur to ranchi, car transport pakur, bike parcel pakur, iba approved packers in pakur">
+  <meta name="keywords" content="packers and movers in pakur, best packers and movers in pakur, household shifting services in pakur, household shifting in pakur, house shifting pakur, packers and movers hiranpur, packers and movers maheshpur, packers and movers pakur to kolkata, packers and movers pakur to ranchi, car transport in pakur, car transport pakur, bike transport in pakur, bike parcel pakur, iba approved packers and movers in pakur">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">

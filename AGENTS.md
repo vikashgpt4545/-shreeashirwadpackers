@@ -79,6 +79,11 @@ Unless a user prompt explicitly commands code modification for a specific task:
       - **Chat 5 (`33bf0d35-19c3-455f-9f94-eb6efcb590e0`)**: Exclusively owns Central Hubs &mdash; Chhattisgarh (30 Hubs: 12 Cities + 18 Hyper-Local Localities).
     - **Strict Non-Interference**: No chat session may touch, overwrite, or edit pages belonging to the other chats' assigned territories.
     - **Cumulative Progress Ledger**: All chats record progress cleanly in `PAN_INDIA_HUB_PAGE_PROGRESS.md` without overwriting the other chats' checkmarks.
+16. **Mandatory Concurrent Dual-Chat Operating & Blog Partition Standard**:
+    - **Exclusive Territorial Ownership**: When multiple chat sessions work concurrently on the 49 Blog & Relocation Guide Network (`BLOG_PAGE_PROGRESS.md`):
+      - **Blog Chat 1 (`416a1c4e-d6e6-4fbe-be42-02c7f75ec210`)**: Exclusively owns **Pages 1 to 29** (Clusters 1, 2, 3, 4, and initial Cluster 5: `pages/home-shifting-checklist-ranchi.php` through `pages/schools-around-ranchi.php`). Blog Chat 1 MUST NOT create, touch, or overwrite Pages 30 to 49.
+      - **Blog Chat 2 (`3b858c70-6d7a-48bd-ad3a-3bc965e8ddf3` - Current Chat)**: Exclusively owns **Pages 30 to 49** (20 Pages: State/District Guides 30–32, plus all Long-Distance Corridors 33–49: `pages/jharkhand-tourism-famous-places-guide.php` through `pages/ranchi-to-ahmedabad-relocation-guide.php`). Blog Chat 2 MUST NOT create, touch, or overwrite Pages 1 to 29.
+    - **Strict Non-Interference & Zero Overwrite**: Neither session shall touch, overwrite, or edit the other session's assigned pages or ledger checkmarks in `BLOG_PAGE_PROGRESS.md`.
 
 ---
 

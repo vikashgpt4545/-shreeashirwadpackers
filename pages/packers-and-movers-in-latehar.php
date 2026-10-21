@@ -25,7 +25,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-lat
   
   <title><?php echo $page_title; ?></title>
   <meta name="description" content="<?php echo $page_description; ?>">
-  <meta name="keywords" content="packers and movers in latehar, best packers and movers in latehar, household shifting in latehar, house shifting latehar, packers and movers chandwa, packers and movers balumath, packers and movers netarhat, packers and movers barwadih, packers and movers latehar to ranchi, packers and movers latehar to daltonganj, car transport latehar, bike parcel latehar, iba approved packers in latehar">
+  <meta name="keywords" content="packers and movers in latehar, best packers and movers in latehar, household shifting services in latehar, household shifting in latehar, house shifting latehar, packers and movers chandwa, packers and movers balumath, packers and movers netarhat, packers and movers barwadih, packers and movers latehar to ranchi, packers and movers latehar to daltonganj, car transport in latehar, bike transport in latehar, bike parcel latehar, iba approved packers and movers in latehar">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">

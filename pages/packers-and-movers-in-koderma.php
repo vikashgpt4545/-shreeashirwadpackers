@@ -25,7 +25,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-kod
   
   <title><?php echo $page_title; ?></title>
   <meta name="description" content="<?php echo $page_description; ?>">
-  <meta name="keywords" content="packers and movers in koderma, packers and movers jhumri telaiya, best packers and movers in koderma, household shifting in koderma, house shifting jhumri telaiya, packers and movers domchanch, packers and movers koderma to ranchi, packers and movers koderma to patna, car transport in koderma, bike parcel jhumri telaiya, iba approved packers in koderma">
+  <meta name="keywords" content="packers and movers in koderma, packers and movers jhumri telaiya, best packers and movers in koderma, household shifting services in koderma, household shifting in koderma, house shifting jhumri telaiya, packers and movers domchanch, packers and movers koderma to ranchi, packers and movers koderma to patna, car transport in koderma, bike transport in koderma, bike parcel jhumri telaiya, iba approved packers and movers in koderma">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">

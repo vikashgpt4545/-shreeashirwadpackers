@@ -25,7 +25,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ram
   
   <title><?php echo $page_title; ?></title>
   <meta name="description" content="<?php echo $page_description; ?>">
-  <meta name="keywords" content="packers and movers in ramgarh, best packers and movers in ramgarh, household shifting in ramgarh, house shifting ramgarh, packers and movers ramgarh cantt, packers and movers patratu, packers and movers barkakana, packers and movers rajrappa, packers and movers ramgarh to ranchi, car transport ramgarh, bike parcel ramgarh, iba approved packers in ramgarh">
+  <meta name="keywords" content="packers and movers in ramgarh, best packers and movers in ramgarh, household shifting services in ramgarh, household shifting in ramgarh, house shifting ramgarh, packers and movers ramgarh cantt, packers and movers patratu, packers and movers barkakana, packers and movers rajrappa, packers and movers ramgarh to ranchi, car transport in ramgarh, bike transport in ramgarh, bike parcel ramgarh, iba approved packers and movers in ramgarh">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
