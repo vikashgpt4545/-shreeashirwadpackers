@@ -9,6 +9,11 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
+// Define Root Base Path if not already defined
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+
 // Environment Detection & Base URL Handling
 $is_https = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || 
             (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') ||

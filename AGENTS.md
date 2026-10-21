@@ -41,6 +41,44 @@ Unless a user prompt explicitly commands code modification for a specific task:
 3. **Do NOT touch** dependencies, package files, or credentials (`service_account.json`, `.env`).
 4. **Do NOT rename, delete, or rewrite** existing assets, database dumps, or audit documents (`problem/`, `data/`).
 5. **Keep Agent Infrastructure Isolated**: All persistent agent context files (`AGENTS.md`, `PROJECT_STATE.md`, `TASK_PROGRESS.md`, `.agents/`) must remain completely decoupled from website runtime code.
+6. **Brand & CSS Scope Protection**: NEVER override global CSS variables (`--primary`, `--primary-dark`, `--accent`) or tag-level `body` styles that alter or corrupt global `header.php` and `footer.php` colors. Header and footer styling must remain 100% consistent across every page.
+7. **Mobile UX Standard**: NEVER insert two-column sidebar wrappers, floating widgets, or desktop-only aside elements that break responsive mobile rendering. All pages must use responsive full-width containers.
+8. **Full HTML Document Shell Standard**: Every PHP page in `pages/` MUST be a complete HTML document with `<!DOCTYPE html>`, `<head>`, `<link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">`, `<body>`, `header.php`, `footer.php`, and `</body></html>`. `header.php` and `footer.php` are markup partials; never omit the outer document shell or the core stylesheet link.
+9. **Mandatory In-Body Internal Linking Standard**: Every service, corridor, city hub, or neighborhood page in `pages/` MUST contain contextual, in-body internal links built directly into the page markup at creation time (never retrofitted as an afterthought):
+   - **Pillar / Hub Link**: At least 1 contextual link to the parent city authority page (e.g. `packers-and-movers-in-[city]`) or the company HQ authority page (`packers-and-movers-in-ranchi`).
+   - **Live Tariff Calculator Link**: In-text link within pricing sections pointing to `/packers-and-movers-charges-in-ranchi`.
+   - **Return Pair Link (for Directional Corridors)**: Directional routes (City A to City B) must link directly to their exact reciprocal return route (City B to City A).
+   - **Connected Cluster Module**: A dedicated, responsive cluster module with 4 to 8 valid internal links to thematically relevant routes or sister neighborhood hubs using descriptive anchor text.
+   - **Zero Dead Ends & Zero Broken Links**: No page may be left with 0 in-body internal links. All target slugs MUST exist in `pages/` or `PAN_INDIA_HUB_PAGE_PROGRESS.md` (zero broken links).
+10. **Pan-India Hub & Hyper-Local Execution Standard**: All non-Jharkhand expansion pages must adhere strictly to `PAN_INDIA_HUB_PAGE_PROGRESS.md` and `AI_PAGE_CREATION_RULES.md`:
+    - **50-Page Non-Stop Handcrafting Execution**: When page creation commences, execute a batch of **50 pages in one go as planned**, continuing continuously without premature stopping or pausing. Only stop and present the comprehensive progress report after completing the full 50-page target.
+    - **Handcrafted Quality (Zero Automation / No Scripts)**: Never run generator bots, scrapers, automated scripts, or bulk templating tools to generate or write page content. Each of the 50 pages must be individually handcrafted with rich, authentic local detail.
+    - **Word Count & Content Depth**: Minimum 1,600 visible words (target 1,700–2,100) with authentic, localized geographic, residential, and industrial details.
+    - **Schema & Visual Compliance**: Exactly 4 valid JSON-LD schemas (`MovingCompany`, `BreadcrumbList`, `Service`, `FAQPage`) and 4 verified image assets (`max-width: 680px; margin: 28px auto;`).
+    - **Pre-Publish Verification**: Verify 0 PHP errors (`php -l`), 100% HTTP 200 OK on local web server, and check off the item in `PAN_INDIA_HUB_PAGE_PROGRESS.md`.
+11. **Mandatory Scoped CSS Class Parity & Image Dimension Containment Standard**:
+    - **100% Class Prefix Parity**: When utilizing scoped CSS prefixes (e.g. `[pfx]-wrap`, `[pfx]-section`, `[pfx]-image-container`, `[pfx]-table`, `[pfx]-grid-2`), the prefix declared in the page's `<style>` block must match 100% of the class names in the `<body>` markup. Partial find-and-replace, remnant classes from donor templates (e.g., `rkz-` on a `kzr-` page, `adi-kol-` on an `adi-pat-` page), and orphaned classes are strictly prohibited.
+    - **Image Dimension Containment**: All images MUST reside inside an explicitly dimension-constrained container (`max-width: 580px; margin: 0 auto; overflow: hidden; border-radius: 12px;` or `aspect-ratio: 4/3` / `16/9` / `3/4`). Never leave raw `<img>` tags in unconstrained block containers that allow vertical/portrait photos to expand to full container width.
+    - **Pre-Publish Layout Parity Verification**: Every page must undergo verification ensuring zero orphaned/unmatched classes, styled table borders/headers, and responsive image containment without vertical blowing-up or layout collapse.
+12. **Mandatory Physical Image Existence Verification Standard**:
+    - **Physical Disk Existence Required**: Never guess, invent, or use approximate image file names. Every `<img>` `src` and JSON-LD Schema `image` URL MUST correspond to an existing physical file on disk in `images/` or `assets/images/`.
+    - **Automated Verification**: Before publishing, every page must be verified with an automated tool (such as `scratch/validate_page.py`) ensuring zero 404/broken image references.
+13. **Content Chunking & Visual Balance Standard**:
+    - **No Walls of Text**: Monotonous walls of text (more than 2 to 3 consecutive `<p>` paragraphs in a single block) are strictly prohibited.
+    - **Micro-Elements & Visual Breaks**: Break up long descriptions with stylized bullet highlight boxes (`<ul>` with custom styling), micro-metric cards, 2x2 capability grids, or subheadings.
+    - **Column Height Balance**: In 2-column grid layouts (such as Section 1), the text column and visual column must maintain visual balance. Complement images with key takeaway cards, service guarantee boxes, or secondary visual media to avoid massive empty white spaces.
+14. **Mandatory Meta Keywords Tag Standard**:
+    - Every page `<head>` block MUST explicitly include a comprehensive, comma-separated `<meta name="keywords" content="...">` tag directly beneath the `<meta name="description">` tag.
+    - The keywords must be hyper-localized to the target area (e.g. packers and movers in [Locality] [City], household shifting, office relocation, cost, best moving company in [Locality]). Never omit this tag.
+15. **Mandatory Concurrent Quint-Chat Operating & Territory Partition Standard**:
+    - **Exclusive Territorial Ownership**: When multiple chat sessions operate simultaneously, each session is strictly bound to its assigned territory to eliminate race conditions, duplicate effort, and file collisions:
+      - **Chat 1 (`3e493272-ffad-4c5b-a2ab-e8a45f211ac5`)**: Exclusively owns Northern States (Punjab, Chandigarh, Uttarakhand, Himachal Pradesh, Jammu & Kashmir).
+      - **Chat 2 (`e4c5c124-07a7-4a91-bbfb-c5653cac8485`)**: Exclusively owns Western Hubs &mdash; Gujarat (45 Hubs: 20 Cities + 25 Hyper-Local Localities).
+      - **Chat 3 (`b13ca1a9-481b-40bb-91ae-ca7c5c084375`)**: Exclusively owns Central Hubs &mdash; Madhya Pradesh (47 Hubs: 22 Cities + 25 Hyper-Local Localities).
+      - **Chat 4 (`96b67ba7-1cb0-42d2-b5c0-4375d41ecff1`)**: Exclusively owns Western Hubs &mdash; Rajasthan (36 Hubs: 16 Cities + 20 Hyper-Local Localities).
+      - **Chat 5 (`33bf0d35-19c3-455f-9f94-eb6efcb590e0`)**: Exclusively owns Central Hubs &mdash; Chhattisgarh (30 Hubs: 12 Cities + 18 Hyper-Local Localities).
+    - **Strict Non-Interference**: No chat session may touch, overwrite, or edit pages belonging to the other chats' assigned territories.
+    - **Cumulative Progress Ledger**: All chats record progress cleanly in `PAN_INDIA_HUB_PAGE_PROGRESS.md` without overwriting the other chats' checkmarks.
 
 ---
 

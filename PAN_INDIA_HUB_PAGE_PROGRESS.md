@@ -32,33 +32,33 @@
 | **East** | Odisha | 16 | 16 | 32 | 32 | 0 | [x] COMPLETED |
 | **North** | Delhi NCR | 6 | 45 | 51 | 51 | 0 | [x] 100% COMPLETED (51/51) |
 | **North** | Uttar Pradesh | 30 | 35 | 65 | 65 | 0 | [x] 100% COMPLETED (65/65 Hubs across All 30 Cities & 35 Hyper-Local Localities) |
-| **North** | Haryana | 15 | 15 | 30 | 0 | 30 | [ ] PENDING |
-| **North** | Punjab | 12 | 15 | 27 | 0 | 27 | [ ] PENDING |
-| **North** | Chandigarh (UT) | 1 | 5 | 6 | 0 | 6 | [ ] PENDING |
-| **North** | Uttarakhand | 7 | 10 | 17 | 0 | 17 | [ ] PENDING |
-| **North** | Himachal Pradesh | 5 | 5 | 10 | 0 | 10 | [ ] PENDING |
-| **North** | Jammu & Kashmir (UT) | 4 | 5 | 9 | 0 | 9 | [ ] PENDING |
+| **North** | Haryana | 15 | 15 | 30 | 30 | 0 | [x] 100% COMPLETED (30/30 Hubs &mdash; All 15 Cities & 15 Localities) |
+| **North** | Punjab | 12 | 15 | 27 | 27 | 0 | [x] 100% COMPLETED (27/27 Hubs &mdash; All 12 Cities & 15 Localities) |
+| **North** | Chandigarh (UT) | 1 | 5 | 6 | 6 | 0 | [x] 100% COMPLETED (6/6 Hubs &mdash; Capital Hub + 5 Localities) |
+| **North** | Uttarakhand | 7 | 10 | 17 | 17 | 0 | [x] 100% COMPLETED (17/17 Hubs &mdash; All 7 Cities & 10 Localities) |
+| **North** | Himachal Pradesh | 5 | 5 | 10 | 10 | 0 | [x] 100% COMPLETED (10/10 Hubs &mdash; All 5 Cities & 5 Localities) |
+| **North** | Jammu & Kashmir (UT) | 4 | 5 | 9 | 9 | 0 | [x] 100% COMPLETED (9/9 Hubs &mdash; All 4 Cities + 5 Localities) |
 | **West** | Maharashtra | 25 | 45 | 70 | 70 | 0 | [x] 100% COMPLETED (70/70 Hubs across All 25 Cities & 45 Hyper-Local Localities) |
-| **West** | Gujarat | 20 | 25 | 45 | 0 | 45 | [ ] PENDING |
-| **West** | Rajasthan | 16 | 20 | 36 | 0 | 36 | [ ] PENDING |
-| **West** | Goa | 4 | 4 | 8 | 0 | 8 | [ ] PENDING |
-| **Central**| Madhya Pradesh | 22 | 25 | 47 | 0 | 47 | [ ] PENDING |
-| **Central**| Chhattisgarh | 12 | 18 | 30 | 0 | 30 | [ ] PENDING |
-| **South** | Karnataka | 14 | 30 | 44 | 15 | 29 | [>] IN PROGRESS (15/44 Completed) |
-| **South** | Tamil Nadu | 18 | 25 | 43 | 0 | 43 | [ ] PENDING |
-| **South** | Telangana | 10 | 20 | 30 | 0 | 30 | [ ] PENDING |
-| **South** | Andhra Pradesh | 15 | 15 | 30 | 0 | 30 | [ ] PENDING |
-| **South** | Kerala | 10 | 15 | 25 | 0 | 25 | [ ] PENDING |
-| **South** | Puducherry (UT) | 1 | 3 | 4 | 0 | 4 | [ ] PENDING |
-| **Northeast**| Assam | 8 | 10 | 18 | 0 | 18 | [ ] PENDING |
-| **Northeast**| Tripura | 1 | 2 | 3 | 0 | 3 | [ ] PENDING |
-| **Northeast**| Meghalaya | 1 | 2 | 3 | 0 | 3 | [ ] PENDING |
-| **Northeast**| Nagaland | 2 | 2 | 4 | 0 | 4 | [ ] PENDING |
-| **Northeast**| Manipur | 1 | 2 | 3 | 0 | 3 | [ ] PENDING |
-| **Northeast**| Mizoram | 1 | 1 | 2 | 0 | 2 | [ ] PENDING |
-| **Northeast**| Arunachal Pradesh | 1 | 1 | 2 | 0 | 2 | [ ] PENDING |
-| **Northeast**| Sikkim | 1 | 1 | 2 | 0 | 2 | [ ] PENDING |
-| **TOTAL** | **31 States & UTs** | **321** | **456** | **777** | **320** | **457** | **MASTER ROLLOUT (320/777 Completed - 41.2%)** |
+| **West** | Gujarat | 22 | 28 | 50 | 50 | 0 | [x] 100% COMPLETED (50/50 Hubs &mdash; 22 Cities + 28 Localities) |
+| **West** | Rajasthan | 16 | 20 | 36 | 36 | 0 | [x] 100% COMPLETED (36/36 Hubs &mdash; All 16 Cities + 20 Localities) |
+| **West** | Goa | 6 | 4 | 10 | 10 | 0 | [x] 100% COMPLETED (10/10 Hubs &mdash; 6 Cities + 4 Localities) |
+| **Central**| Madhya Pradesh | 22 | 25 | 47 | 47 | 0 | [x] 100% COMPLETED (47/47 Hubs &mdash; All 22 Cities + 25 Localities) |
+| **Central**| Chhattisgarh | 12 | 18 | 30 | 30 | 0 | [x] 100% COMPLETED (30/30 Hubs &mdash; All 12 Cities + 18 Localities) |
+| **South** | Karnataka | 14 | 30 | 44 | 44 | 0 | [x] 100% COMPLETED (44/44 Hubs across All 14 Cities & 30 Hyper-Local Localities) |
+| **South** | Tamil Nadu | 18 | 25 | 43 | 43 | 0 | [x] 100% COMPLETED (43/43 Hubs across All 18 Cities & 25 Hyper-Local Localities) |
+| **South** | Telangana | 10 | 20 | 30 | 30 | 0 | [x] 100% COMPLETED (30/30 Hubs across All 10 Cities & 20 Hyper-Local Localities) |
+| **South** | Andhra Pradesh | 15 | 15 | 30 | 30 | 0 | [x] 100% COMPLETED (30/30 Hubs across All 15 Cities & 15 Hyper-Local Localities) |
+| **South** | Kerala | 10 | 15 | 25 | 25 | 0 | [x] 100% COMPLETED (25/25 Hubs &mdash; All 10 Cities & 15 Localities) |
+| **South** | Puducherry (UT) | 1 | 3 | 4 | 4 | 0 | [x] 100% COMPLETED (4/4 Hubs &mdash; Capital Hub + 3 Localities) |
+| **Northeast**| Assam | 8 | 13 | 21 | 21 | 0 | [x] 100% COMPLETED (21/21 Hubs &mdash; 8 Cities + 13 Localities) |
+| **Northeast**| Tripura | 1 | 2 | 3 | 3 | 0 | [x] 100% COMPLETED (3/3 Hubs &mdash; Capital Hub + 2 Localities) |
+| **Northeast**| Meghalaya | 1 | 2 | 3 | 3 | 0 | [x] 100% COMPLETED (3/3 Hubs &mdash; Capital Hub + 2 Localities) |
+| **Northeast**| Nagaland | 3 | 1 | 4 | 4 | 0 | [x] 100% COMPLETED (4/4 Hubs &mdash; 3 Cities + 1 Locality) |
+| **Northeast**| Manipur | 1 | 2 | 3 | 3 | 0 | [x] 100% COMPLETED (3/3 Hubs &mdash; Capital Hub + 2 Localities) |
+| **Northeast**| Mizoram | 1 | 1 | 2 | 2 | 0 | [x] 100% COMPLETED (2/2 Hubs &mdash; Capital Hub + 1 Locality) |
+| **Northeast**| Arunachal Pradesh | 2 | 0 | 2 | 2 | 0 | [x] 100% COMPLETED (2/2 Hubs &mdash; Twin Cities) |
+| **Northeast**| Sikkim | 1 | 1 | 2 | 2 | 0 | [x] 100% COMPLETED (2/2 Hubs &mdash; Capital Hub + 1 Locality) |
+| **TOTAL** | **31 States & UTs** | **327** | **466** | **793** | **793** | **0** | **[x] MASTER ROLLOUT 100% COMPLETED (793/793 Completed - 100.0%)** |
 
 ---
 
@@ -425,41 +425,577 @@
 | 318 | Local | JP Nagar | Bangalore (South Established Residential)| `pages/packers-and-movers-in-jp-nagar-bangalore.php` | `packers-and-movers-in-jp-nagar-bangalore` | [x] COMPLETED (1,637 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
 | 319 | Local | Sarjapur Road | Bangalore (High-Density High-Rise Tech Corridor)| `pages/packers-and-movers-in-sarjapur-road-bangalore.php` | `packers-and-movers-in-sarjapur-road-bangalore` | [x] COMPLETED (1,678 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
 | 320 | Local | Banashankari | Bangalore (South Largest Residential Node)| `pages/packers-and-movers-in-banashankari-bangalore.php` | `packers-and-movers-in-banashankari-bangalore` | [x] COMPLETED (1,695 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
-| 321 | Local | Malleshwaram | Bangalore (North-West Cultural & Heritage)| `pages/packers-and-movers-in-malleshwaram-bangalore.php` | `packers-and-movers-in-malleshwaram-bangalore` | [ ] PENDING |
-| 322 | Local | Rajajinagar | Bangalore (Industrial & Commercial Hub)| `pages/packers-and-movers-in-rajajinagar-bangalore.php` | `packers-and-movers-in-rajajinagar-bangalore` | [ ] PENDING |
-| 323 | Local | KR Puram | Bangalore (Old Madras Road Railway Gateway)| `pages/packers-and-movers-in-kr-puram-bangalore.php` | `packers-and-movers-in-kr-puram-bangalore` | [ ] PENDING |
-| 324 | Local | Bannerghatta Road| Bangalore (IIM Bangalore & South Corridor)| `pages/packers-and-movers-in-bannerghatta-road-bangalore.php` | `packers-and-movers-in-bannerghatta-road-bangalore` | [ ] PENDING |
-| 325 | Local | Thanisandra | Bangalore (Manyata Tech Park Gateway) | `pages/packers-and-movers-in-thanisandra-bangalore.php` | `packers-and-movers-in-thanisandra-bangalore` | [ ] PENDING |
-| 326 | City | Mysore (Mysuru) | Heritage Capital & Emerging IT City | `pages/packers-and-movers-in-mysore.php` | `packers-and-movers-in-mysore` | [ ] PENDING |
-| 327 | Local | Vijayanagar | Mysore (Largest Modern Housing Extension) | `pages/packers-and-movers-in-vijayanagar-mysore.php` | `packers-and-movers-in-vijayanagar-mysore` | [ ] PENDING |
-| 328 | Local | Kuvempunagar | Mysore (South Affluent Residential Hub) | `pages/packers-and-movers-in-kuvempunagar-mysore.php` | `packers-and-movers-in-kuvempunagar-mysore` | [ ] PENDING |
-| 329 | Local | Gokulam | Mysore (Yoga Capital & Central Enclave) | `pages/packers-and-movers-in-gokulam-mysore.php` | `packers-and-movers-in-gokulam-mysore` | [ ] PENDING |
-| 330 | City | Hubli-Dharwad | Commercial Capital of North Karnataka | `pages/packers-and-movers-in-hubli.php` | `packers-and-movers-in-hubli` | [ ] PENDING |
-| 331 | Local | Vidyanagar | Hubli (Educational & Commercial Center)| `pages/packers-and-movers-in-vidyanagar-hubli.php` | `packers-and-movers-in-vidyanagar-hubli` | [ ] PENDING |
-| 332 | Local | Gokul Road | Hubli (Industrial & Airport Corridor) | `pages/packers-and-movers-in-gokul-road-hubli.php` | `packers-and-movers-in-gokul-road-hubli` | [ ] PENDING |
-| 333 | City | Mangalore | Major Port & Petrochemical Coast City | `pages/packers-and-movers-in-mangalore.php` | `packers-and-movers-in-mangalore` | [ ] PENDING |
-| 334 | Local | Kadri | Mangalore (Prime Residential & Temple Zone)| `pages/packers-and-movers-in-kadri-mangalore.php` | `packers-and-movers-in-kadri-mangalore` | [ ] PENDING |
-| 335 | Local | Surathkal | Mangalore (NITK & Petrochemical Belt) | `pages/packers-and-movers-in-surathkal-mangalore.php` | `packers-and-movers-in-surathkal-mangalore` | [ ] PENDING |
-| 336 | City | Belgaum (Belagavi)| Foundry & Precision Auto Engineering | `pages/packers-and-movers-in-belgaum.php` | `packers-and-movers-in-belgaum` | [ ] PENDING |
-| 337 | City | Gulbarga (Kalaburagi)| Cement & Agro Center | `pages/packers-and-movers-in-gulbarga.php` | `packers-and-movers-in-gulbarga` | [ ] PENDING |
-| 338 | City | Davanagere | Textile & Central Karnataka Education | `pages/packers-and-movers-in-davanagere.php` | `packers-and-movers-in-davanagere` | [ ] PENDING |
-| 339 | City | Bellary (Ballari) | Steel Capital (JSW) & Mining Center | `pages/packers-and-movers-in-bellary.php` | `packers-and-movers-in-bellary` | [ ] PENDING |
-| 340 | City | Shimoga | Foundry & Gateway to Western Ghats | `pages/packers-and-movers-in-shimoga.php` | `packers-and-movers-in-shimoga` | [ ] PENDING |
-| 341 | City | Tumkur | Industrial Smart City near Bangalore | `pages/packers-and-movers-in-tumkur.php` | `packers-and-movers-in-tumkur` | [ ] PENDING |
-| 342 | City | Udupi | Temple City & Coastal Healthcare Hub | `pages/packers-and-movers-in-udupi.php` | `packers-and-movers-in-udupi` | [ ] PENDING |
-| 343 | Local | Manipal | Udupi (World-Renowned University Town) | `pages/packers-and-movers-in-manipal-udupi.php` | `packers-and-movers-in-manipal-udupi` | [ ] PENDING |
-| 344 | City | Bidar | Northern Heritage Border City | `pages/packers-and-movers-in-bidar.php` | `packers-and-movers-in-bidar` | [ ] PENDING |
-| 345 | City | Hospet | Vijayanagara District Steel Corridor | `pages/packers-and-movers-in-hospet.php` | `packers-and-movers-in-hospet` | [ ] PENDING |
-| 346 | City | Hassan | Coffee Capital & Master Control Facility | `pages/packers-and-movers-in-hassan.php` | `packers-and-movers-in-hassan` | [ ] PENDING |
-| 347 | City | Raichur | Thermal Power & Agricultural Trading | `pages/packers-and-movers-in-raichur.php` | `packers-and-movers-in-raichur` | [ ] PENDING |
-| 348 | City | Mandya | Sugar Capital of Karnataka | `pages/packers-and-movers-in-mandya.php` | `packers-and-movers-in-mandya` | [ ] PENDING |
-| 349 | City | Chitradurga | Historic Fort City & Wind Energy Hub | `pages/packers-and-movers-in-chitradurga.php` | `packers-and-movers-in-chitradurga` | [ ] PENDING |
+| 321 | Local | Malleshwaram | Bangalore (North-West Cultural & Heritage)| `pages/packers-and-movers-in-malleshwaram-bangalore.php` | `packers-and-movers-in-malleshwaram-bangalore` | [x] COMPLETED (1,657 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 322 | Local | Rajajinagar | Bangalore (Industrial & Commercial Hub)| `pages/packers-and-movers-in-rajajinagar-bangalore.php` | `packers-and-movers-in-rajajinagar-bangalore` | [x] COMPLETED (1,710 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 323 | Local | KR Puram | Bangalore (Old Madras Road Railway Gateway)| `pages/packers-and-movers-in-kr-puram-bangalore.php` | `packers-and-movers-in-kr-puram-bangalore` | [x] COMPLETED (1,620 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 324 | Local | Bannerghatta Road| Bangalore (IIM Bangalore & South Corridor)| `pages/packers-and-movers-in-bannerghatta-road-bangalore.php` | `packers-and-movers-in-bannerghatta-road-bangalore` | [x] COMPLETED (1,651 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 325 | Local | Thanisandra | Bangalore (Manyata Tech Park Gateway) | `pages/packers-and-movers-in-thanisandra-bangalore.php` | `packers-and-movers-in-thanisandra-bangalore` | [x] COMPLETED (1,613 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 326 | City | Mysore (Mysuru) | Heritage Capital & Emerging IT City | `pages/packers-and-movers-in-mysore.php` | `packers-and-movers-in-mysore` | [x] COMPLETED (1,646 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 327 | Local | Vijayanagar | Mysore (Largest Modern Housing Extension) | `pages/packers-and-movers-in-vijayanagar-mysore.php` | `packers-and-movers-in-vijayanagar-mysore` | [x] COMPLETED (1,607 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 328 | Local | Kuvempunagar | Mysore (South Affluent Residential Hub) | `pages/packers-and-movers-in-kuvempunagar-mysore.php` | `packers-and-movers-in-kuvempunagar-mysore` | [x] COMPLETED (1,630 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 329 | Local | Gokulam | Mysore (Yoga Capital & Central Enclave) | `pages/packers-and-movers-in-gokulam-mysore.php` | `packers-and-movers-in-gokulam-mysore` | [x] COMPLETED (1,712 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 330 | City | Hubli-Dharwad | Commercial Capital of North Karnataka | `pages/packers-and-movers-in-hubli.php` | `packers-and-movers-in-hubli` | [x] COMPLETED (1,676 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 331 | Local | Vidyanagar | Hubli (Educational & Commercial Center)| `pages/packers-and-movers-in-vidyanagar-hubli.php` | `packers-and-movers-in-vidyanagar-hubli` | [x] COMPLETED (1,684 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 332 | Local | Gokul Road | Hubli (Industrial & Airport Corridor) | `pages/packers-and-movers-in-gokul-road-hubli.php` | `packers-and-movers-in-gokul-road-hubli` | [x] COMPLETED (1,634 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 333 | City | Mangalore | Major Port & Petrochemical Coast City | `pages/packers-and-movers-in-mangalore.php` | `packers-and-movers-in-mangalore` | [x] COMPLETED (1,633 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 334 | Local | Kadri | Mangalore (Prime Residential & Temple Zone)| `pages/packers-and-movers-in-kadri-mangalore.php` | `packers-and-movers-in-kadri-mangalore` | [x] COMPLETED (1,681 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 335 | Local | Surathkal | Mangalore (NITK & Petrochemical Belt) | `pages/packers-and-movers-in-surathkal-mangalore.php` | `packers-and-movers-in-surathkal-mangalore` | [x] COMPLETED (1,678 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 336 | City | Belgaum (Belagavi)| Foundry & Precision Auto Engineering | `pages/packers-and-movers-in-belgaum.php` | `packers-and-movers-in-belgaum` | [x] COMPLETED (1,639 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 337 | City | Gulbarga (Kalaburagi)| Cement & Agro Center | `pages/packers-and-movers-in-gulbarga.php` | `packers-and-movers-in-gulbarga` | [x] COMPLETED (1,648 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 338 | City | Davanagere | Textile & Central Karnataka Education | `pages/packers-and-movers-in-davanagere.php` | `packers-and-movers-in-davanagere` | [x] COMPLETED (1,620 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 339 | City | Bellary (Ballari) | Steel Capital (JSW) & Mining Center | `pages/packers-and-movers-in-bellary.php` | `packers-and-movers-in-bellary` | [x] COMPLETED (1,643 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 340 | City | Shimoga | Foundry & Gateway to Western Ghats | `pages/packers-and-movers-in-shimoga.php` | `packers-and-movers-in-shimoga` | [x] COMPLETED (1,634 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 341 | City | Tumkur | Industrial Smart City near Bangalore | `pages/packers-and-movers-in-tumkur.php` | `packers-and-movers-in-tumkur` | [x] COMPLETED (1,606 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 342 | City | Udupi | Temple City & Coastal Healthcare Hub | `pages/packers-and-movers-in-udupi.php` | `packers-and-movers-in-udupi` | [x] COMPLETED (1,633 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 343 | Local | Manipal | Udupi (World-Renowned University Town) | `pages/packers-and-movers-in-manipal-udupi.php` | `packers-and-movers-in-manipal-udupi` | [x] COMPLETED (1,637 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 344 | City | Bidar | Northern Heritage Border City | `pages/packers-and-movers-in-bidar.php` | `packers-and-movers-in-bidar` | [x] COMPLETED (1,635 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 345 | City | Hospet | Vijayanagara District Steel Corridor | `pages/packers-and-movers-in-hospet.php` | `packers-and-movers-in-hospet` | [x] COMPLETED (1,616 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 346 | City | Hassan | Coffee Capital & Master Control Facility | `pages/packers-and-movers-in-hassan.php` | `packers-and-movers-in-hassan` | [x] COMPLETED (1,617 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 347 | City | Raichur | Thermal Power & Agricultural Trading | `pages/packers-and-movers-in-raichur.php` | `packers-and-movers-in-raichur` | [x] COMPLETED (1,648 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 348 | City | Bijapur (Vijayapura)| Adil Shahi Heritage & Commercial Hub | `pages/packers-and-movers-in-bijapur.php` | `packers-and-movers-in-bijapur` | [x] COMPLETED (1,623 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 349 | City | Chitradurga | Historic Fort City & Wind Energy Hub | `pages/packers-and-movers-in-chitradurga.php` | `packers-and-movers-in-chitradurga` | [x] COMPLETED (1,667 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+#### 8. Tamil Nadu (18 Cities + 25 Hyper-Local Areas = 43 Hubs)
+| # | Level | Place / Locality Name | Parent City / District | Target Page File | URL Slug | Status |
+| :-: | :---: | :--- | :--- | :--- | :--- | :-: |
+| 350 | City | Chennai | State Capital & Automobile/IT Metropolis | `pages/packers-and-movers-in-chennai.php` | `packers-and-movers-in-chennai` | [x] COMPLETED (1,625 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 351 | Local | Anna Nagar | Chennai (West Master-Planned Affluent Hub) | `pages/packers-and-movers-in-anna-nagar-chennai.php` | `packers-and-movers-in-anna-nagar-chennai` | [x] COMPLETED (1,701 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 352 | Local | T Nagar | Chennai (Central Retail & Commercial Epicenter)| `pages/packers-and-movers-in-t-nagar-chennai.php` | `packers-and-movers-in-t-nagar-chennai` | [x] COMPLETED (1,785 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 353 | Local | Adyar | Chennai (South Coastal Heritage & Green Hub)| `pages/packers-and-movers-in-adyar-chennai.php` | `packers-and-movers-in-adyar-chennai` | [x] COMPLETED (1,724 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 354 | Local | Velachery | Chennai (South Transit & IT Residential Node) | `pages/packers-and-movers-in-velachery-chennai.php` | `packers-and-movers-in-velachery-chennai` | [x] COMPLETED (1,708 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 355 | Local | OMR | Chennai (Old Mahabalipuram Rd IT Expressway)| `pages/packers-and-movers-in-omr-chennai.php` | `packers-and-movers-in-omr-chennai` | [x] COMPLETED (1,725 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 356 | Local | Sholinganallur | Chennai (OMR IT SEZ & High-Rise Corridor) | `pages/packers-and-movers-in-sholinganallur-chennai.php` | `packers-and-movers-in-sholinganallur-chennai` | [x] COMPLETED (1,761 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 357 | Local | Thoraipakkam | Chennai (OMR Tech Residential & Canal Zone) | `pages/packers-and-movers-in-thoraipakkam-chennai.php` | `packers-and-movers-in-thoraipakkam-chennai` | [x] COMPLETED (1,704 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 358 | Local | Guindy | Chennai (Industrial Estate & Transit Junction)| `pages/packers-and-movers-in-guindy-chennai.php` | `packers-and-movers-in-guindy-chennai` | [x] COMPLETED (1,897 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 359 | Local | Porur | Chennai (DLF Cybercity & West IT Corridor) | `pages/packers-and-movers-in-porur-chennai.php` | `packers-and-movers-in-porur-chennai` | [x] COMPLETED (1,805 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 360 | Local | Tambaram | Chennai (South Rail & Air Force Transit Gateway)| `pages/packers-and-movers-in-tambaram-chennai.php` | `packers-and-movers-in-tambaram-chennai` | [x] COMPLETED (1,786 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 361 | Local | Chromepet | Chennai (GST Road Commercial & Family Hub) | `pages/packers-and-movers-in-chromepet-chennai.php` | `packers-and-movers-in-chromepet-chennai` | [x] COMPLETED (1,705 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 362 | Local | Medavakkam | Chennai (South Fast-Growing Residential Node)| `pages/packers-and-movers-in-medavakkam-chennai.php` | `packers-and-movers-in-medavakkam-chennai` | [x] COMPLETED (1,666 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 363 | Local | Mylapore | Chennai (Historic Cultural & Temple Heart) | `pages/packers-and-movers-in-mylapore-chennai.php` | `packers-and-movers-in-mylapore-chennai` | [x] COMPLETED (1,753 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 364 | Local | Besant Nagar | Chennai (Elliot Beach Coastal Enclave) | `pages/packers-and-movers-in-besant-nagar-chennai.php` | `packers-and-movers-in-besant-nagar-chennai` | [x] COMPLETED (1,769 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 365 | Local | Ambattur | Chennai (North-West Industrial Estate Hub) | `pages/packers-and-movers-in-ambattur-chennai.php` | `packers-and-movers-in-ambattur-chennai` | [x] COMPLETED (1,732 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 366 | City | Coimbatore | Manchester of South India & Tech/Industrial | `pages/packers-and-movers-in-coimbatore.php` | `packers-and-movers-in-coimbatore` | [x] COMPLETED (1,726 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 367 | Local | RS Puram | Coimbatore (West Prime Commercial & Housing) | `pages/packers-and-movers-in-rs-puram-coimbatore.php` | `packers-and-movers-in-rs-puram-coimbatore` | [x] COMPLETED (1,765 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 368 | Local | Gandhipuram | Coimbatore (Central Commercial & Bus Hub) | `pages/packers-and-movers-in-gandhipuram-coimbatore.php` | `packers-and-movers-in-gandhipuram-coimbatore` | [x] COMPLETED (1,693 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 369 | Local | Peelamedu | Coimbatore (Airport & Educational Corridor) | `pages/packers-and-movers-in-peelamedu-coimbatore.php` | `packers-and-movers-in-peelamedu-coimbatore` | [x] COMPLETED (1,761 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 370 | Local | Saravanampatti | Coimbatore (IT Corridor & Tech Park Zone) | `pages/packers-and-movers-in-saravanampatti-coimbatore.php` | `packers-and-movers-in-saravanampatti-coimbatore` | [x] COMPLETED (1,748 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 371 | Local | Saibaba Colony | Coimbatore (Established Green Residential) | `pages/packers-and-movers-in-saibaba-colony-coimbatore.php` | `packers-and-movers-in-saibaba-colony-coimbatore` | [x] COMPLETED (1,734 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 372 | City | Madurai | Cultural Capital & Historic Temple City | `pages/packers-and-movers-in-madurai.php` | `packers-and-movers-in-madurai` | [x] COMPLETED (1,844 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 373 | Local | KK Nagar | Madurai (East Planned Commercial & Medical) | `pages/packers-and-movers-in-kk-nagar-madurai.php` | `packers-and-movers-in-kk-nagar-madurai` | [x] COMPLETED (1,760 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 374 | Local | Anna Nagar | Madurai (Central Prime Residential Hub) | `pages/packers-and-movers-in-anna-nagar-madurai.php` | `packers-and-movers-in-anna-nagar-madurai` | [x] COMPLETED (1,754 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 375 | Local | SS Colony | Madurai (West Established Residential Hub) | `pages/packers-and-movers-in-ss-colony-madurai.php` | `packers-and-movers-in-ss-colony-madurai` | [x] COMPLETED (1,695 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 376 | City | Tiruchirappalli (Trichy)| Central Engineering, BHEL & Temple City | `pages/packers-and-movers-in-tiruchirappalli.php` | `packers-and-movers-in-tiruchirappalli` | [x] COMPLETED (1,779 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 377 | Local | Thillai Nagar | Trichy (Prime Commercial & Healthcare Center)| `pages/packers-and-movers-in-thillai-nagar-trichy.php` | `packers-and-movers-in-thillai-nagar-trichy` | [x] COMPLETED (1,726 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 378 | Local | KK Nagar | Trichy (Airport Road Planned Housing Sector)| `pages/packers-and-movers-in-kk-nagar-trichy.php` | `packers-and-movers-in-kk-nagar-trichy` | [x] COMPLETED (1,729 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 379 | City | Salem | Steel, Sago & Textile Manufacturing Hub | `pages/packers-and-movers-in-salem.php` | `packers-and-movers-in-salem` | [x] COMPLETED (1,771 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 380 | City | Tirunelveli | Southern Commercial & Education Hub | `pages/packers-and-movers-in-tirunelveli.php` | `packers-and-movers-in-tirunelveli` | [x] COMPLETED (1,692 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 381 | City | Tiruppur | Knitwear Capital of India & Garment Export | `pages/packers-and-movers-in-tiruppur.php` | `packers-and-movers-in-tiruppur` | [x] COMPLETED (1,746 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 382 | City | Erode | Turmeric Capital & Major Textile Market | `pages/packers-and-movers-in-erode.php` | `packers-and-movers-in-erode` | [x] COMPLETED (1,720 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 383 | City | Vellore | Healthcare (CMC), Leather & Education City | `pages/packers-and-movers-in-vellore.php` | `packers-and-movers-in-vellore` | [x] COMPLETED (1,749 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 384 | City | Thanjavur | Rice Bowl of Tamil Nadu & Heritage Capital | `pages/packers-and-movers-in-thanjavur.php` | `packers-and-movers-in-thanjavur` | [x] COMPLETED (1,777 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 385 | City | Dindigul | Lock & Leather Manufacturing Center | `pages/packers-and-movers-in-dindigul.php` | `packers-and-movers-in-dindigul` | [x] COMPLETED (1,734 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 386 | City | Cuddalore | Coastal Port & SIPCOT Chemical Industrial Hub| `pages/packers-and-movers-in-cuddalore.php` | `packers-and-movers-in-cuddalore` | [x] COMPLETED (1,734 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 387 | City | Kanchipuram | Silk City of India & Temple Heritage Hub | `pages/packers-and-movers-in-kanchipuram.php` | `packers-and-movers-in-kanchipuram` | [x] COMPLETED (1,736 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 388 | City | Kumbakonam | Temple City & Brass/Bronze Craft Center | `pages/packers-and-movers-in-kumbakonam.php` | `packers-and-movers-in-kumbakonam` | [x] COMPLETED (1,768 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 389 | City | Nagercoil | Southern Coastal District Headquarters | `pages/packers-and-movers-in-nagercoil.php` | `packers-and-movers-in-nagercoil` | [x] COMPLETED (1,731 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 390 | City | Hosur | Automotive, EV & Tech Manufacturing Hub | `pages/packers-and-movers-in-hosur.php` | `packers-and-movers-in-hosur` | [x] COMPLETED (1,746 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 391 | City | Karur | Textile Export & Bus Body Manufacturing Hub | `pages/packers-and-movers-in-karur.php` | `packers-and-movers-in-karur` | [x] COMPLETED (1,754 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 392 | City | Ranipet | Leather Industrial Estate & Export Hub | `pages/packers-and-movers-in-ranipet.php` | `packers-and-movers-in-ranipet` | [x] COMPLETED (1,715 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
 
 ---
 
-*(Note: States 8 to 31 continue in `PAN_INDIA_HUB_PAGE_PROGRESS.md` with full coverage for Telangana, Tamil Nadu, Andhra Pradesh, Kerala, Madhya Pradesh, Gujarat, Rajasthan, Haryana, Punjab, Assam, and all Union Territories).*
+### Region 4: Southern India (Continued)
+
+#### 9. Telangana (10 Cities + 20 Hyper-Local Areas = 30 Hubs)
+| # | Level | Place / Locality Name | Parent City / District | Target Page File | URL Slug | Status |
+| :-: | :---: | :--- | :--- | :--- | :--- | :--- |
+| 393 | City | Hyderabad | State Capital, Cyberabad & Deccan Metro Hub | `pages/packers-and-movers-in-hyderabad.php` | `packers-and-movers-in-hyderabad` | [x] COMPLETED (1,744 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 394 | Local | Gachibowli | Hyderabad (IT Corridor & Financial District) | `pages/packers-and-movers-in-gachibowli-hyderabad.php` | `packers-and-movers-in-gachibowli-hyderabad` | [x] COMPLETED (1,695 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 395 | Local | Hitec City | Hyderabad (Cyber Towers & Tech Park Hub) | `pages/packers-and-movers-in-hitec-city-hyderabad.php` | `packers-and-movers-in-hitec-city-hyderabad` | [x] COMPLETED (1,646 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 396 | Local | Madhapur | Hyderabad (IT Core & Durgam Cheruvu Hub) | `pages/packers-and-movers-in-madhapur-hyderabad.php` | `packers-and-movers-in-madhapur-hyderabad` | [x] COMPLETED (1,645 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 397 | Local | Kondapur | Hyderabad (Botanical Garden & Luxury IT Sector) | `pages/packers-and-movers-in-kondapur-hyderabad.php` | `packers-and-movers-in-kondapur-hyderabad` | [x] COMPLETED (1,691 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 398 | Local | Kukatpally | Hyderabad (Major Residential & Commercial Hub) | `pages/packers-and-movers-in-kukatpally-hyderabad.php` | `packers-and-movers-in-kukatpally-hyderabad` | [x] COMPLETED (1,687 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 399 | Local | Jubilee Hills | Hyderabad (Ultra-Luxury & Media Hub) | `pages/packers-and-movers-in-jubilee-hills-hyderabad.php` | `packers-and-movers-in-jubilee-hills-hyderabad` | [x] COMPLETED (1,696 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 400 | Local | Banjara Hills | Hyderabad (Upscale Commercial & Residential) | `pages/packers-and-movers-in-banjara-hills-hyderabad.php` | `packers-and-movers-in-banjara-hills-hyderabad` | [x] COMPLETED (1,694 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 401 | Local | Begumpet | Hyderabad (Old Airport & Central Commercial Hub) | `pages/packers-and-movers-in-begumpet-hyderabad.php` | `packers-and-movers-in-begumpet-hyderabad` | [x] COMPLETED (1,669 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 402 | Local | Secunderabad | Hyderabad (Twin City & Railway HQ Hub) | `pages/packers-and-movers-in-secunderabad-hyderabad.php` | `packers-and-movers-in-secunderabad-hyderabad` | [x] COMPLETED (1,684 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 403 | Local | Miyapur | Hyderabad (Metro Terminal & Tech Corridor) | `pages/packers-and-movers-in-miyapur-hyderabad.php` | `packers-and-movers-in-miyapur-hyderabad` | [x] COMPLETED (1,677 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 404 | Local | Ameerpet | Hyderabad (Commercial, Coaching & Transit Hub) | `pages/packers-and-movers-in-ameerpet-hyderabad.php` | `packers-and-movers-in-ameerpet-hyderabad` | [x] COMPLETED (1,673 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 405 | Local | Manikonda | Hyderabad (Lanco Hills & IT Residential Belt) | `pages/packers-and-movers-in-manikonda-hyderabad.php` | `packers-and-movers-in-manikonda-hyderabad` | [x] COMPLETED (1,686 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 406 | Local | Uppal | Hyderabad (Eastern Industrial, Tech & Stadium) | `pages/packers-and-movers-in-uppal-hyderabad.php` | `packers-and-movers-in-uppal-hyderabad` | [x] COMPLETED (1,706 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 407 | Local | Dilsukhnagar | Hyderabad (Commercial Trade & Educational Hub) | `pages/packers-and-movers-in-dilsukhnagar-hyderabad.php` | `packers-and-movers-in-dilsukhnagar-hyderabad` | [x] COMPLETED (1,672 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 408 | Local | LB Nagar | Hyderabad (Southeastern Highway & Transit Hub) | `pages/packers-and-movers-in-lb-nagar-hyderabad.php` | `packers-and-movers-in-lb-nagar-hyderabad` | [x] COMPLETED (1,719 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 409 | Local | Kompally | Hyderabad (Northern Highway & Residential Hub) | `pages/packers-and-movers-in-kompally-hyderabad.php` | `packers-and-movers-in-kompally-hyderabad` | [x] COMPLETED (1,683 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 410 | Local | Sainikpuri | Hyderabad (Northeastern Cantonment Residential) | `pages/packers-and-movers-in-sainikpuri-hyderabad.php` | `packers-and-movers-in-sainikpuri-hyderabad` | [x] COMPLETED (1,687 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 411 | Local | Financial District | Hyderabad (Nanakramguda Global FinTech Hub) | `pages/packers-and-movers-in-financial-district-hyderabad.php` | `packers-and-movers-in-financial-district-hyderabad` | [x] COMPLETED (1,740 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 412 | City | Warangal | Heritage Capital & Second Largest Metropolis | `pages/packers-and-movers-in-warangal.php` | `packers-and-movers-in-warangal` | [x] COMPLETED (1,708 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 413 | Local | Hanamkonda | Warangal (Administrative & University Center) | `pages/packers-and-movers-in-hanamkonda-warangal.php` | `packers-and-movers-in-hanamkonda-warangal` | [x] COMPLETED (1,672 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 414 | Local | Kazipet | Warangal (Major Railway Junction & Locomotive) | `pages/packers-and-movers-in-kazipet-warangal.php` | `packers-and-movers-in-kazipet-warangal` | [x] COMPLETED (1,707 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 415 | City | Nizamabad | Northern Commercial, Turmeric & Agricultural | `pages/packers-and-movers-in-nizamabad.php` | `packers-and-movers-in-nizamabad` | [x] COMPLETED (1,654 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 416 | City | Karimnagar | Granite, Agro-Processing & Education Hub | `pages/packers-and-movers-in-karimnagar.php` | `packers-and-movers-in-karimnagar` | [x] COMPLETED (1,643 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 417 | City | Ramagundam | Thermal Power City (NTPC) & Coal Industrial | `pages/packers-and-movers-in-ramagundam.php` | `packers-and-movers-in-ramagundam` | [x] COMPLETED (1,715 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 418 | City | Khammam | Granite, Mineral & Southern Agro Gateway | `pages/packers-and-movers-in-khammam.php` | `packers-and-movers-in-khammam` | [x] COMPLETED (1,630 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 419 | City | Mahbubnagar | Palamuru Region Industrial & Commercial Center | `pages/packers-and-movers-in-mahbubnagar.php` | `packers-and-movers-in-mahbubnagar` | [x] COMPLETED (1,643 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 420 | City | Nalgonda | Cement, Agriculture & Educational Hub | `pages/packers-and-movers-in-nalgonda.php` | `packers-and-movers-in-nalgonda` | [x] COMPLETED (1,649 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 421 | City | Adilabad | Northern Border, Cotton & Mineral Hub | `pages/packers-and-movers-in-adilabad.php` | `packers-and-movers-in-adilabad` | [x] COMPLETED (1,649 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 422 | City | Suryapet | Gateway of Telangana & Fast-Growing Trade Hub | `pages/packers-and-movers-in-suryapet.php` | `packers-and-movers-in-suryapet` | [x] COMPLETED (1,623 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
 
 ---
+
+### 3.10 Andhra Pradesh (Planned: 30 Hubs &mdash; 15 Cities + 15 Localities)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| 423 | Metro | Visakhapatnam | Executive Capital, Eastern Naval Command, Port & Steel City | `pages/packers-and-movers-in-visakhapatnam.php` | `packers-and-movers-in-visakhapatnam` | [x] COMPLETED (1,809 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 424 | Locality | Madhurawada (Vizag) | Rushikonda IT SEZ, Millennium Towers, Gated Enclaves | `pages/packers-and-movers-in-madhurawada-visakhapatnam.php` | `packers-and-movers-in-madhurawada-visakhapatnam` | [x] COMPLETED (1,653 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 425 | Locality | Gajuwaka (Vizag) | Vizag Steel Plant, Ukkunagaram, Autonagar Industrial | `pages/packers-and-movers-in-gajuwaka-visakhapatnam.php` | `packers-and-movers-in-gajuwaka-visakhapatnam` | [x] COMPLETED (1,653 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 426 | Locality | MVP Colony (Vizag) | Asia's Largest Planned Layout, Coastal Executive Villas | `pages/packers-and-movers-in-mvp-colony-visakhapatnam.php` | `packers-and-movers-in-mvp-colony-visakhapatnam` | [x] COMPLETED (1,680 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 427 | Locality | Seethammadhara (Vizag) | Central Upscale Residential, North Extension, HB Colony | `pages/packers-and-movers-in-seethammadhara-visakhapatnam.php` | `packers-and-movers-in-seethammadhara-visakhapatnam` | [x] COMPLETED (1,612 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 428 | Locality | Pendurthi (Vizag) | Western Rail Junction & Industrial Logistics | `pages/packers-and-movers-in-pendurthi-visakhapatnam.php` | `packers-and-movers-in-pendurthi-visakhapatnam` | [x] COMPLETED (1,659 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 429 | City | Vijayawada | Commercial Capital, Amaravati Corridor, Durga Temple Hub | `pages/packers-and-movers-in-vijayawada.php` | `packers-and-movers-in-vijayawada` | [x] COMPLETED (1,762 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 430 | Locality | Benz Circle (Vijayawada) | Premier Commercial & Luxury Residential Crossroad | `pages/packers-and-movers-in-benz-circle-vijayawada.php` | `packers-and-movers-in-benz-circle-vijayawada` | [x] COMPLETED (1,652 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 431 | Locality | Bhavanipuram (Vijayawada) | Western Commercial, Gollapudi Bypass, Market Hub | `pages/packers-and-movers-in-bhavanipuram-vijayawada.php` | `packers-and-movers-in-bhavanipuram-vijayawada` | [x] COMPLETED (1,641 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 432 | Locality | Patamata (Vijayawada) | High-Growth Urban Residential & Healthcare Corridor | `pages/packers-and-movers-in-patamata-vijayawada.php` | `packers-and-movers-in-patamata-vijayawada` | [x] COMPLETED (1,631 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 433 | City | Guntur | Chilli Capital, Tobacco Board & Education Hub | `pages/packers-and-movers-in-guntur.php` | `packers-and-movers-in-guntur` | [x] COMPLETED (1,746 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 434 | Locality | Brodipet (Guntur) | Central Commercial & Prime Residential Zone | `pages/packers-and-movers-in-brodipet-guntur.php` | `packers-and-movers-in-brodipet-guntur` | [x] COMPLETED (1,626 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 435 | Locality | Arundelpet (Guntur) | Commercial Trading & Established Residential Hub | `pages/packers-and-movers-in-arundelpet-guntur.php` | `packers-and-movers-in-arundelpet-guntur` | [x] COMPLETED (1,607 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 436 | City | Nellore | Aquaculture & Port Logistics Gateway (Krishnapatnam) | `pages/packers-and-movers-in-nellore.php` | `packers-and-movers-in-nellore` | [x] COMPLETED (1,746 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 437 | City | Tirupati | Spiritual Capital, Pilgrimage Center & Electronic SEZ | `pages/packers-and-movers-in-tirupati.php` | `packers-and-movers-in-tirupati` | [x] COMPLETED (1,765 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 438 | City | Kurnool | Rayalaseema Gateway, Tungabhadra River & Cement Hub | `pages/packers-and-movers-in-kurnool.php` | `packers-and-movers-in-kurnool` | [x] COMPLETED (1,736 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 439 | City | Rajahmundry | Cultural Capital, Godavari River & Paper Manufacturing | `pages/packers-and-movers-in-rajahmundry.php` | `packers-and-movers-in-rajahmundry` | [x] COMPLETED (1,754 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 440 | City | Kakinada | Deepwater Port, Fertilizer Capital & Rice Export Hub | `pages/packers-and-movers-in-kakinada.php` | `packers-and-movers-in-kakinada` | [x] COMPLETED (1,735 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 441 | City | Anantapur | Automotive & Aerospace Industrial Belt (Kia Corridor) | `pages/packers-and-movers-in-anantapur.php` | `packers-and-movers-in-anantapur` | [x] COMPLETED (1,746 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 442 | City | Kadapa | Mineral Capital, Uranium, Barytes & Cement Belt | `pages/packers-and-movers-in-kadapa.php` | `packers-and-movers-in-kadapa` | [x] COMPLETED (1,778 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 443 | City | Eluru | Commercial Wool & Agro-Processing District Center | `pages/packers-and-movers-in-eluru.php` | `packers-and-movers-in-eluru` | [x] COMPLETED (1,744 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 444 | City | Ongole | Granite Galaxy Belt & Coastal Agricultural Trade | `pages/packers-and-movers-in-ongole.php` | `packers-and-movers-in-ongole` | [x] COMPLETED (1,750 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 445 | City | Vizianagaram | Historic Royal City, Jute Mills & Education Hub | `pages/packers-and-movers-in-vizianagaram.php` | `packers-and-movers-in-vizianagaram` | [x] COMPLETED (1,747 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 446 | City | Srikakulam | Northern Coastal Gateway & Cashew / Granite Hub | `pages/packers-and-movers-in-srikakulam.php` | `packers-and-movers-in-srikakulam` | [x] COMPLETED (1,739 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 447 | City | Chittoor | Mango Processing & Southern Border Logistics | `pages/packers-and-movers-in-chittoor.php` | `packers-and-movers-in-chittoor` | [x] COMPLETED (1,762 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 448 | City | Machilipatnam | Historic Port City & Kalamkari Textile Center | `pages/packers-and-movers-in-machilipatnam.php` | `packers-and-movers-in-machilipatnam` | [x] COMPLETED (1,727 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 449 | City | Tenali | Cultural & Agricultural Rice Bowl of Andhra | `pages/packers-and-movers-in-tenali.php` | `packers-and-movers-in-tenali` | [x] COMPLETED (1,767 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 450 | Locality | Auto Nagar (Vijayawada) | Asia's Largest Automobile & Heavy Engineering Workshop | `pages/packers-and-movers-in-auto-nagar-vijayawada.php` | `packers-and-movers-in-auto-nagar-vijayawada` | [x] COMPLETED (1,737 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 451 | Locality | Gunadala (Vijayawada) | Eastern Residential & Healthcare Institutional Hub | `pages/packers-and-movers-in-gunadala-vijayawada.php` | `packers-and-movers-in-gunadala-vijayawada` | [x] COMPLETED (1,700 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 452 | Locality | Mangalagiri (Guntur/Vijayawada) | AIIMS Medical & Capital Smart City Growth Corridor | `pages/packers-and-movers-in-mangalagiri.php` | `packers-and-movers-in-mangalagiri` | [x] COMPLETED (1,759 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.11 Kerala (Planned: 25 Hubs &mdash; 10 Cities + 15 Localities)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| 453 | Metro | Kochi | Commercial Capital, Cochin Port, Cochin Shipyard, Vallarpadam ICTT | `pages/packers-and-movers-in-kochi.php` | `packers-and-movers-in-kochi` | [x] COMPLETED (1,795 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 454 | Locality | Edappally (Kochi) | Edappally Bypass, LuLu Mall Junction & Metro Interchange | `pages/packers-and-movers-in-edappally-kochi.php` | `packers-and-movers-in-edappally-kochi` | [x] COMPLETED (1,710 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 455 | Locality | Kakkanad (Kochi) | Infopark IT SEZ, SmartCity Kochi & Rajagiri Valley | `pages/packers-and-movers-in-kakkanad-kochi.php` | `packers-and-movers-in-kakkanad-kochi` | [x] COMPLETED (1,695 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 456 | Locality | Kaloor (Kochi) | JLN Stadium, Kaloor Bus Terminal & Central Residential Corridor | `pages/packers-and-movers-in-kaloor-kochi.php` | `packers-and-movers-in-kaloor-kochi` | [x] COMPLETED (1,670 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 457 | Locality | Aluva (Kochi) | Periyar River Gateway, Kochi Metro Terminal & Industrial Belt | `pages/packers-and-movers-in-aluva-kochi.php` | `packers-and-movers-in-aluva-kochi` | [x] COMPLETED (1,665 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 458 | Locality | Palarivattom (Kochi) | Central Commercial Junction, Civil Line Road & Medical Enclaves | `pages/packers-and-movers-in-palarivattom-kochi.php` | `packers-and-movers-in-palarivattom-kochi` | [x] COMPLETED (1,683 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 459 | Locality | Kadavanthra (Kochi) | Upscale Residential, South Railway Station Corridor & Elamkulam | `pages/packers-and-movers-in-kadavanthra-kochi.php` | `packers-and-movers-in-kadavanthra-kochi` | [x] COMPLETED (1,667 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 460 | Locality | Thrikkakara (Kochi) | Thrikkakara Temple, CUSAT Academic Campus & BMC Colony | `pages/packers-and-movers-in-thrikkakara-kochi.php` | `packers-and-movers-in-thrikkakara-kochi` | [x] COMPLETED (1,665 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 461 | Metro | Thiruvananthapuram | State Capital, Secretariat, VSSC ISRO, Technopark, Vizhinjam Port | `pages/packers-and-movers-in-thiruvananthapuram.php` | `packers-and-movers-in-thiruvananthapuram` | [x] COMPLETED (1,667 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 462 | Locality | Kazhakoottam (Trivandrum) | Technopark Phases 1-4, IT Corridor & NH 66 Bypass | `pages/packers-and-movers-in-kazhakoottam-thiruvananthapuram.php` | `packers-and-movers-in-kazhakoottam-thiruvananthapuram` | [x] COMPLETED (1,641 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 463 | Locality | Kowdiar (Trivandrum) | Kowdiar Palace Avenue, Elite Residential Villas & Vellayambalam | `pages/packers-and-movers-in-kowdiar-thiruvananthapuram.php` | `packers-and-movers-in-kowdiar-thiruvananthapuram` | [x] COMPLETED (1,678 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 464 | Locality | Pattom (Trivandrum) | Administrative Spine, Kerala PSC HQ & Premier Educational Hub | `pages/packers-and-movers-in-pattom-thiruvananthapuram.php` | `packers-and-movers-in-pattom-thiruvananthapuram` | [x] COMPLETED (1,608 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 465 | Locality | Medical College (Trivandrum) | Government Medical College, SCTIMST, RCC & Healthcare Enclave | `pages/packers-and-movers-in-medical-college-thiruvananthapuram.php` | `packers-and-movers-in-medical-college-thiruvananthapuram` | [x] COMPLETED (1,600 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 466 | Locality | Peroorkada (Trivandrum) | Northeastern Residential Hub, SAP Camp & Mannanthala Link | `pages/packers-and-movers-in-peroorkada-thiruvananthapuram.php` | `packers-and-movers-in-peroorkada-thiruvananthapuram` | [x] COMPLETED (1,614 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 467 | Locality | Vattiyoorkavu (Trivandrum) | High-Elevation Residential Enclave, ISRO/VSSC Staff Colonies | `pages/packers-and-movers-in-vattiyoorkavu-thiruvananthapuram.php` | `packers-and-movers-in-vattiyoorkavu-thiruvananthapuram` | [x] COMPLETED (1,636 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 468 | Locality | Karamana (Trivandrum) | Historic Southern Commercial Arterial Spine & Agragaram Cultural Corridor | `pages/packers-and-movers-in-karamana-thiruvananthapuram.php` | `packers-and-movers-in-karamana-thiruvananthapuram` | [x] COMPLETED (1,669 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 469 | Locality | Sreekariyam (Trivandrum) | Engineering College Campus, CTCRI & Technopark Residential Gateway | `pages/packers-and-movers-in-sreekariyam-thiruvananthapuram.php` | `packers-and-movers-in-sreekariyam-thiruvananthapuram` | [x] COMPLETED (1,607 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 470 | Locality | Mannanthala (Trivandrum) | MC Road Northern Gateway, Mar Ivanios Vidya Nagar Education Zone | `pages/packers-and-movers-in-mannanthala-thiruvananthapuram.php` | `packers-and-movers-in-mannanthala-thiruvananthapuram` | [x] COMPLETED (1,652 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 471 | City | Kozhikode | Malabar Trade Capital, Port, Timber, Spice Trade & Cyberpark | `pages/packers-and-movers-in-kozhikode.php` | `packers-and-movers-in-kozhikode` | [x] COMPLETED (1,833 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 472 | Locality | Mavoor Road (Kozhikode) | Commercial Arterial Spine, KSRTC Terminal & Arayidathupalam | `pages/packers-and-movers-in-mavoor-road-kozhikode.php` | `packers-and-movers-in-mavoor-road-kozhikode` | [x] COMPLETED (1,690 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 473 | Locality | Palayam (Kozhikode) | Historic Market, Valiyangadi Wholesale Trade & SM Street Core | `pages/packers-and-movers-in-palayam-kozhikode.php` | `packers-and-movers-in-palayam-kozhikode` | [x] COMPLETED (1,723 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 474 | Locality | Pottammal (Kozhikode) | Medical College Arterial Junction & Modern Residential Enclaves | `pages/packers-and-movers-in-pottammal-kozhikode.php` | `packers-and-movers-in-pottammal-kozhikode` | [x] COMPLETED (1,613 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 475 | City | Thrissur | Cultural Capital, Pooram Festival, Gold Jewellery & Banking Hub | `pages/packers-and-movers-in-thrissur.php` | `packers-and-movers-in-thrissur` | [x] COMPLETED (1,647 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 476 | City | Kollam | World Cashew Capital, Ashtamudi Lake Waterways & Coastal Port | `pages/packers-and-movers-in-kollam.php` | `packers-and-movers-in-kollam` | [x] COMPLETED (1,639 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 477 | City | Palakkad | Gateway of Kerala, Palakkad Gap & Kinfra Mega Food Park | `pages/packers-and-movers-in-palakkad.php` | `packers-and-movers-in-palakkad` | [x] COMPLETED (1,657 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 478 | City | Alappuzha | Venice of the East, Coir Capital & Backwater Tourism Hub | `pages/packers-and-movers-in-alappuzha.php` | `packers-and-movers-in-alappuzha` | [x] COMPLETED (1,633 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 479 | City | Kannur | Crown of Malabar, Handloom & Weaving Capital, Naval Corridor | `pages/packers-and-movers-in-kannur.php` | `packers-and-movers-in-kannur` | [x] COMPLETED (1,642 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 480 | City | Kottayam | Land of Letters, Latex & Lakes, Rubber Board HQ & Publishing Hub | `pages/packers-and-movers-in-kottayam.php` | `packers-and-movers-in-kottayam` | [x] COMPLETED (1,637 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 481 | City | Malappuram | Rapidly Growing Malabar Urban Center & Calicut Airport Vicinity | `pages/packers-and-movers-in-malappuram.php` | `packers-and-movers-in-malappuram` | [x] COMPLETED (1,619 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.12 Puducherry (Planned: 4 Hubs &mdash; 1 City + 3 Localities)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| 482 | Metro | Puducherry | Union Territory Capital, French Quarter, White Town, JIPMER, Beach Promenade | `pages/packers-and-movers-in-puducherry.php` | `packers-and-movers-in-puducherry` | [x] COMPLETED (1,675 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 483 | Locality | White Town (Pondicherry) | Historic French Quarter, Dumas Street, Heritage Villas & Boutique Hotels | `pages/packers-and-movers-in-white-town-pondicherry.php` | `packers-and-movers-in-white-town-pondicherry` | [x] COMPLETED (1,604 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 484 | Locality | Lawspet (Pondicherry) | Prime Residential Suburb, Airport Road & Educational Institutions | `pages/packers-and-movers-in-lawspet-pondicherry.php` | `packers-and-movers-in-lawspet-pondicherry` | [x] COMPLETED (1,686 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 485 | Locality | Reddiarpalayam (Pondicherry) | High-Density Residential Hub, Villianur Road & Gated Apartments | `pages/packers-and-movers-in-reddiarpalayam-pondicherry.php` | `packers-and-movers-in-reddiarpalayam-pondicherry` | [x] COMPLETED (1,623 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.13 Haryana (Planned: 30 Hubs &mdash; 15 Cities + 15 Localities) &mdash; [x] 100% COMPLETED (30/30)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| 486 | City | Panipat | Textile Capital & Handloom Export Hub | `pages/packers-and-movers-in-panipat.php` | `packers-and-movers-in-panipat` | [x] COMPLETED (1,624 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 487 | City | Ambala | Twin City, Scientific Instruments & Defense Hub | `pages/packers-and-movers-in-ambala.php` | `packers-and-movers-in-ambala` | [x] COMPLETED (1,645 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 488 | City | Karnal | Rice City, NDRI & Agro-Industrial Center | `pages/packers-and-movers-in-karnal.php` | `packers-and-movers-in-karnal` | [x] COMPLETED (1,635 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 489 | City | Rohtak | Education Hub, IMT & Medical Center | `pages/packers-and-movers-in-rohtak.php` | `packers-and-movers-in-rohtak` | [x] COMPLETED (1,631 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 490 | City | Hisar | Steel City of Haryana & Western Agro Hub | `pages/packers-and-movers-in-hisar.php` | `packers-and-movers-in-hisar` | [x] COMPLETED (1,688 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 491 | City | Sonipat | Education City & NCR Industrial Corridor | `pages/packers-and-movers-in-sonipat.php` | `packers-and-movers-in-sonipat` | [x] COMPLETED (1,677 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 492 | City | Panchkula | Planned City, HSIIDC & Tricity Administrative Hub | `pages/packers-and-movers-in-panchkula.php` | `packers-and-movers-in-panchkula` | [x] COMPLETED (1,661 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 493 | City | Yamunanagar | Plywood Capital & Metal Manufacturing Hub | `pages/packers-and-movers-in-yamunanagar.php` | `packers-and-movers-in-yamunanagar` | [x] COMPLETED (1,608 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 494 | City | Kurukshetra | Historic Heritage City & Education Center | `pages/packers-and-movers-in-kurukshetra.php` | `packers-and-movers-in-kurukshetra` | [x] COMPLETED (1,648 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 495 | City | Rewari | Brass City & Bawal Industrial Corridor Gateway | `pages/packers-and-movers-in-rewari.php` | `packers-and-movers-in-rewari` | [x] COMPLETED (1,648 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 496 | City | Bahadurgarh | Gateway of Haryana & Industrial Suburb | `pages/packers-and-movers-in-bahadurgarh.php` | `packers-and-movers-in-bahadurgarh` | [x] COMPLETED (1,606 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 497 | City | Bhiwani | Textile, Education & Sports Hub | `pages/packers-and-movers-in-bhiwani.php` | `packers-and-movers-in-bhiwani` | [x] COMPLETED (1,620 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 498 | City | Sirsa | Cotton & Grain Agro-Trade Center | `pages/packers-and-movers-in-sirsa.php` | `packers-and-movers-in-sirsa` | [x] COMPLETED (1,617 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 499 | City | Jind | Heart of Haryana & Commercial Agricultural Hub | `pages/packers-and-movers-in-jind.php` | `packers-and-movers-in-jind` | [x] COMPLETED (1,620 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 500 | City | Palwal | Southern NCR Industrial & Highway Node | `pages/packers-and-movers-in-palwal.php` | `packers-and-movers-in-palwal` | [x] COMPLETED (1,618 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 501 | Locality | Sector 20 (Panchkula) | Panchkula (Major High-Density Residential Sector) | `pages/packers-and-movers-in-sector-20-panchkula.php` | `packers-and-movers-in-sector-20-panchkula` | [x] COMPLETED (1,605 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 502 | Locality | Sector 15 (Panchkula) | Panchkula (Prime Central Residential Sector) | `pages/packers-and-movers-in-sector-15-panchkula.php` | `packers-and-movers-in-sector-15-panchkula` | [x] COMPLETED (1,627 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 503 | Locality | MDC (Panchkula) | Panchkula (Mansa Devi Complex & Luxury Housing) | `pages/packers-and-movers-in-mdc-panchkula.php` | `packers-and-movers-in-mdc-panchkula` | [x] COMPLETED (1,622 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 504 | Locality | Ambala Cantt | Ambala (Railway Junction & Cantonment Commercial) | `pages/packers-and-movers-in-ambala-cantt.php` | `packers-and-movers-in-ambala-cantt` | [x] COMPLETED (1,609 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 505 | Locality | Kundli (Sonipat) | Sonipat (KMP Expressway & Food Processing Hub) | `pages/packers-and-movers-in-kundli-sonipat.php` | `packers-and-movers-in-kundli-sonipat` | [x] COMPLETED (1,629 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 506 | Locality | Rai (Sonipat) | Sonipat (HSIIDC Mega Industrial Estate) | `pages/packers-and-movers-in-rai-sonipat.php` | `packers-and-movers-in-rai-sonipat` | [x] COMPLETED (1,648 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 507 | Locality | Model Town (Panipat) | Panipat (High-Income Residential Enclave) | `pages/packers-and-movers-in-model-town-panipat.php` | `packers-and-movers-in-model-town-panipat` | [x] COMPLETED (1,630 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 508 | Locality | Sector 11-12 (Panipat) | Panipat (Planned Sectors & Commercial District) | `pages/packers-and-movers-in-sector-11-12-panipat.php` | `packers-and-movers-in-sector-11-12-panipat` | [x] COMPLETED (1,626 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 509 | Locality | Model Town (Rohtak) | Rohtak (Central Commercial & Residential Hub) | `pages/packers-and-movers-in-model-town-rohtak.php` | `packers-and-movers-in-model-town-rohtak` | [x] COMPLETED (1,630 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 510 | Locality | Sector 14 (Rohtak) | Rohtak (MDU Vicinity & Premium Housing) | `pages/packers-and-movers-in-sector-14-rohtak.php` | `packers-and-movers-in-sector-14-rohtak` | [x] COMPLETED (1,607 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 511 | Locality | Model Town (Karnal) | Karnal (Premier Urban Residential Enclave) | `pages/packers-and-movers-in-model-town-karnal.php` | `packers-and-movers-in-model-town-karnal` | [x] COMPLETED (1,647 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 512 | Locality | Sector 13 (Karnal) | Karnal (Planned Sectors & High-Street Retail) | `pages/packers-and-movers-in-sector-13-karnal.php` | `packers-and-movers-in-sector-13-karnal` | [x] COMPLETED (1,623 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 513 | Locality | Urban Estate (Hisar) | Hisar (Planned Residential & Commercial Hub) | `pages/packers-and-movers-in-urban-estate-hisar.php` | `packers-and-movers-in-urban-estate-hisar` | [x] COMPLETED (1,626 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 514 | Locality | Model Town (Hisar) | Hisar (Central Affluent Residential Colony) | `pages/packers-and-movers-in-model-town-hisar.php` | `packers-and-movers-in-model-town-hisar` | [x] COMPLETED (1,646 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 515 | Locality | Bawal (Rewari) | Rewari (HSIIDC Growth Center & Auto SEZ) | `pages/packers-and-movers-in-bawal-rewari.php` | `packers-and-movers-in-bawal-rewari` | [x] COMPLETED (1,615 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.14 Punjab (Planned: 27 Hubs &mdash; 12 Cities + 15 Localities) &mdash; [x] 100% COMPLETED (27/27)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| 516 | City | Ludhiana | Commercial & Industrial Capital of Punjab | `pages/packers-and-movers-in-ludhiana.php` | `packers-and-movers-in-ludhiana` | [x] COMPLETED (1,620 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 517 | City | Amritsar | Spiritual & Cultural Capital, Tourism & Border Trade | `pages/packers-and-movers-in-amritsar.php` | `packers-and-movers-in-amritsar` | [x] COMPLETED (1,605 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 518 | City | Jalandhar | Sports Goods, Leather & Media Hub | `pages/packers-and-movers-in-jalandhar.php` | `packers-and-movers-in-jalandhar` | [x] COMPLETED (1,621 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 519 | City | Patiala | Royal Heritage City, Judicial & Education Center | `pages/packers-and-movers-in-patiala.php` | `packers-and-movers-in-patiala` | [x] COMPLETED (1,606 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 520 | City | Bathinda | Malwa Petrochemical & Thermal Energy Center | `pages/packers-and-movers-in-bathinda.php` | `packers-and-movers-in-bathinda` | [x] COMPLETED (1,632 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 521 | City | Mohali | SAS Nagar, IT City & Tricity Tech Hub | `pages/packers-and-movers-in-mohali.php` | `packers-and-movers-in-mohali` | [x] COMPLETED (1,625 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 522 | City | Hoshiarpur | Doaba Agro-Industrial & Wood Inlay Hub | `pages/packers-and-movers-in-hoshiarpur.php` | `packers-and-movers-in-hoshiarpur` | [x] COMPLETED (1,628 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 523 | City | Pathankot | Northern Defense & Gateway to Himachal / J&K | `pages/packers-and-movers-in-pathankot.php` | `packers-and-movers-in-pathankot` | [x] COMPLETED (1,633 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 524 | Locality | Model Town (Ludhiana) | Ludhiana (High-Income Residential & Retail Hub) | `pages/packers-and-movers-in-model-town-ludhiana.php` | `packers-and-movers-in-model-town-ludhiana` | [x] COMPLETED (1,618 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 525 | Locality | Sarabha Nagar (Ludhiana) | Ludhiana (Kipps Market & Elite Residential) | `pages/packers-and-movers-in-sarabha-nagar-ludhiana.php` | `packers-and-movers-in-sarabha-nagar-ludhiana` | [x] COMPLETED (1,633 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 526 | Locality | Civil Lines (Ludhiana) | Ludhiana (Administrative & Historic Residential Enclave) | `pages/packers-and-movers-in-civil-lines-ludhiana.php` | `packers-and-movers-in-civil-lines-ludhiana` | [x] COMPLETED (1,635 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 527 | Locality | Phase 7 (Mohali) | Mohali (Central Commercial & High-Density Residential) | `pages/packers-and-movers-in-phase-7-mohali.php` | `packers-and-movers-in-phase-7-mohali` | [x] COMPLETED (1,603 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528 | Locality | Phase 3B2 (Mohali) | Mohali (Famous Market & Premium Housing Sector) | `pages/packers-and-movers-in-phase-3b2-mohali.php` | `packers-and-movers-in-phase-3b2-mohali` | [x] COMPLETED (1,638 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528a | City | Moga | Agro-Industrial & Nestle Dairy Manufacturing Hub | `pages/packers-and-movers-in-moga.php` | `packers-and-movers-in-moga` | [x] COMPLETED (1,620 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528b | City | Batala | Historical Foundry & Agricultural Machinery Hub | `pages/packers-and-movers-in-batala.php` | `packers-and-movers-in-batala` | [x] COMPLETED (1,659 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528c | City | Khanna | Asia's Largest Grain Market & National Highway Hub | `pages/packers-and-movers-in-khanna.php` | `packers-and-movers-in-khanna` | [x] COMPLETED (1,679 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528d | City | Phagwara | Auto Parts, Engineering & Sugar Mill Center | `pages/packers-and-movers-in-phagwara.php` | `packers-and-movers-in-phagwara` | [x] COMPLETED (1,651 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528e | Locality | Ranjit Avenue (Amritsar) | Amritsar (Modern Commercial & High-Rise Apartments) | `pages/packers-and-movers-in-ranjit-avenue-amritsar.php` | `packers-and-movers-in-ranjit-avenue-amritsar` | [x] COMPLETED (1,637 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528f | Locality | Mall Road (Amritsar) | Amritsar (Historic Posh Avenue & Financial District) | `pages/packers-and-movers-in-mall-road-amritsar.php` | `packers-and-movers-in-mall-road-amritsar` | [x] COMPLETED (1,634 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528g | Locality | Lawrence Road (Amritsar) | Amritsar (High-Street Retail & Elite Residential) | `pages/packers-and-movers-in-lawrence-road-amritsar.php` | `packers-and-movers-in-lawrence-road-amritsar` | [x] COMPLETED (1,615 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528h | Locality | Model Town (Jalandhar) | Jalandhar (Premier Upscale Market & Luxury Villas) | `pages/packers-and-movers-in-model-town-jalandhar.php` | `packers-and-movers-in-model-town-jalandhar` | [x] COMPLETED (1,629 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528i | Locality | Urban Estate Phase 2 (Jalandhar)| Jalandhar (Modern Planned Gated Community) | `pages/packers-and-movers-in-urban-estate-phase-2-jalandhar.php` | `packers-and-movers-in-urban-estate-phase-2-jalandhar` | [x] COMPLETED (1,600 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528j | Locality | Cantt Road (Jalandhar) | Jalandhar (Defense Cantonment Arterial Corridor) | `pages/packers-and-movers-in-cantt-road-jalandhar.php` | `packers-and-movers-in-cantt-road-jalandhar` | [x] COMPLETED (1,696 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528k | Locality | Urban Estate (Patiala) | Patiala (Planned PDA Residential Sectors) | `pages/packers-and-movers-in-urban-estate-patiala.php` | `packers-and-movers-in-urban-estate-patiala` | [x] COMPLETED (1,603 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528l | Locality | Model Town (Patiala) | Patiala (Affluent Historic Residential Enclave) | `pages/packers-and-movers-in-model-town-patiala.php` | `packers-and-movers-in-model-town-patiala` | [x] COMPLETED (1,637 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528m | Locality | Model Town (Bathinda) | Bathinda (Premier Residential Sectors Phase 1-3) | `pages/packers-and-movers-in-model-town-bathinda.php` | `packers-and-movers-in-model-town-bathinda` | [x] COMPLETED (1,613 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 528n | Locality | Civil Lines (Bathinda) | Bathinda (Administrative & Executive Officers Enclave) | `pages/packers-and-movers-in-civil-lines-bathinda.php` | `packers-and-movers-in-civil-lines-bathinda` | [x] COMPLETED (1,621 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.15 Chandigarh (Planned: 6 Hubs &mdash; 1 City + 5 Localities) &mdash; [x] 100% COMPLETED (6/6)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| 529 | City | Chandigarh | Joint Capital of Punjab & Haryana, Beautiful City | `pages/packers-and-movers-in-chandigarh.php` | `packers-and-movers-in-chandigarh` | [x] COMPLETED (1,641 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 530 | Locality | Sector 17 (Chandigarh) | Chandigarh (City Centre & Commercial Plaza) | `pages/packers-and-movers-in-sector-17-chandigarh.php` | `packers-and-movers-in-sector-17-chandigarh` | [x] COMPLETED (1,645 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 531 | Locality | Sector 35 (Chandigarh) | Chandigarh (High-Street Hospitality & Prime Housing) | `pages/packers-and-movers-in-sector-35-chandigarh.php` | `packers-and-movers-in-sector-35-chandigarh` | [x] COMPLETED (1,606 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 532 | Locality | Sector 22 (Chandigarh) | Chandigarh (Shastri Market & Central Residential Belt) | `pages/packers-and-movers-in-sector-22-chandigarh.php` | `packers-and-movers-in-sector-22-chandigarh` | [x] COMPLETED (1,650 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 532a | Locality | Sector 43 (Chandigarh) | Chandigarh (ISBT Interstate Bus Terminal & Judicial Hub) | `pages/packers-and-movers-in-sector-43-chandigarh.php` | `packers-and-movers-in-sector-43-chandigarh` | [x] COMPLETED (1,619 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 532b | Locality | Manimajra (Chandigarh) | Chandigarh (Modern Housing Complex & IT Park Gateway) | `pages/packers-and-movers-in-manimajra-chandigarh.php` | `packers-and-movers-in-manimajra-chandigarh` | [x] COMPLETED (1,608 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.16 Uttarakhand (Planned: 17 Hubs &mdash; 7 Cities + 10 Localities) &mdash; [x] 100% COMPLETED (17/17)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| UK-01 | City | Dehradun | State Capital, Doon Valley & Premier Education Center | `pages/packers-and-movers-in-dehradun.php` | `packers-and-movers-in-dehradun` | [x] COMPLETED (1,614 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-02 | City | Haridwar | Holy Pilgrimage Center, SIDCUL Mega Industrial Estate | `pages/packers-and-movers-in-haridwar.php` | `packers-and-movers-in-haridwar` | [x] COMPLETED (1,618 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-03 | City | Roorkee | IIT Roorkee, CBRI & Engineering Manufacturing Hub | `pages/packers-and-movers-in-roorkee.php` | `packers-and-movers-in-roorkee` | [x] COMPLETED (1,708 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-04 | City | Haldwani | Gateway of Kumaon, Commercial Trade & Medical Hub | `pages/packers-and-movers-in-haldwani.php` | `packers-and-movers-in-haldwani` | [x] COMPLETED (1,760 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-05 | City | Rudrapur | SIDCUL Pantnagar Mega Auto & Industrial Complex | `pages/packers-and-movers-in-rudrapur.php` | `packers-and-movers-in-rudrapur` | [x] COMPLETED (1,606 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-06 | City | Rishikesh | Yoga Capital of the World, Tourism & AIIMS Hub | `pages/packers-and-movers-in-rishikesh.php` | `packers-and-movers-in-rishikesh` | [x] COMPLETED (1,739 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-07 | City | Kashipur | Paper, Chemical, Agro & Industrial Center | `pages/packers-and-movers-in-kashipur.php` | `packers-and-movers-in-kashipur` | [x] COMPLETED (1,610 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-08 | Locality | Rajpur Road (Dehradun) | Dehradun (Posh Commercial & Luxury Residential Avenue) | `pages/packers-and-movers-in-rajpur-road-dehradun.php` | `packers-and-movers-in-rajpur-road-dehradun` | [x] COMPLETED (1,608 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-09 | Locality | Dharampur (Dehradun) | Dehradun (Central Commercial Market & Family Housing) | `pages/packers-and-movers-in-dharampur-dehradun.php` | `packers-and-movers-in-dharampur-dehradun` | [x] COMPLETED (1,637 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-10 | Locality | Vasant Vihar (Dehradun) | Dehradun (Established High-Income Residential Colony) | `pages/packers-and-movers-in-vasant-vihar-dehradun.php` | `packers-and-movers-in-vasant-vihar-dehradun` | [x] COMPLETED (1,655 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-11 | Locality | Jakhan (Dehradun) | Dehradun (Upscale Residential & High-Rise Apartments) | `pages/packers-and-movers-in-jakhan-dehradun.php` | `packers-and-movers-in-jakhan-dehradun` | [x] COMPLETED (1,618 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-12 | Locality | Sahastradhara Road (Dehradun)| Dehradun (IT Park & Rapid Urban High-Rise Corridor) | `pages/packers-and-movers-in-sahastradhara-road-dehradun.php` | `packers-and-movers-in-sahastradhara-road-dehradun` | [x] COMPLETED (1,647 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-13 | Locality | SIDCUL (Haridwar) | Haridwar (Integrated Industrial Estate & Housing) | `pages/packers-and-movers-in-sidcul-haridwar.php` | `packers-and-movers-in-sidcul-haridwar` | [x] COMPLETED (1,621 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-14 | Locality | Jwalapur (Haridwar) | Haridwar (Commercial Heart & Traditional Housing) | `pages/packers-and-movers-in-jwalapur-haridwar.php` | `packers-and-movers-in-jwalapur-haridwar` | [x] COMPLETED (1,601 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-15 | Locality | Ranipur (Haridwar) | Haridwar (BHEL Township & Planned Residential Sector) | `pages/packers-and-movers-in-ranipur-haridwar.php` | `packers-and-movers-in-ranipur-haridwar` | [x] COMPLETED (1,615 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-16 | Locality | Kaladhungi Road (Haldwani) | Haldwani (Commercial Corridor & Luxury Housing Enclave) | `pages/packers-and-movers-in-kaladhungi-road-haldwani.php` | `packers-and-movers-in-kaladhungi-road-haldwani` | [x] COMPLETED (1,608 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| UK-17 | Locality | Bareilly Road (Haldwani) | Haldwani (Southern Industrial & Transport Corridor) | `pages/packers-and-movers-in-bareilly-road-haldwani.php` | `packers-and-movers-in-bareilly-road-haldwani` | [x] COMPLETED (1,609 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.17 Himachal Pradesh (Planned: 10 Hubs &mdash; 5 Cities + 5 Localities) &mdash; [x] 100% COMPLETED (10/10)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| HP-01 | City | Shimla | State Capital, Queen of Hills & Administrative Center | `pages/packers-and-movers-in-shimla.php` | `packers-and-movers-in-shimla` | [x] COMPLETED (1,666 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| HP-02 | City | Solan | Mushroom City, Industrial, Brewery & Education Hub | `pages/packers-and-movers-in-solan.php` | `packers-and-movers-in-solan` | [x] COMPLETED (1,601 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| HP-03 | City | Baddi | Asia's Largest Pharmaceutical Manufacturing Capital | `pages/packers-and-movers-in-baddi.php` | `packers-and-movers-in-baddi` | [x] COMPLETED (1,604 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| HP-04 | City | Mandi | Cultural Heart, IIT Mandi & Hydro-Power Transit Hub | `pages/packers-and-movers-in-mandi.php` | `packers-and-movers-in-mandi` | [x] COMPLETED (1,674 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| HP-05 | City | Dharamshala | Winter Capital, Kangra Valley & International Tourism Hub | `pages/packers-and-movers-in-dharamshala.php` | `packers-and-movers-in-dharamshala` | [x] COMPLETED (1,657 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| HP-06 | Locality | Sanjauli (Shimla) | Shimla (Major Urban Residential Enclave & High-Density) | `pages/packers-and-movers-in-sanjauli-shimla.php` | `packers-and-movers-in-sanjauli-shimla` | [x] COMPLETED (1,679 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| HP-07 | Locality | Chotta Shimla | Shimla (Secretariat, VIP Enclave & Heritage Residences) | `pages/packers-and-movers-in-chotta-shimla.php` | `packers-and-movers-in-chotta-shimla` | [x] COMPLETED (1,602 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| HP-08 | Locality | Barotiwala (Baddi) | Baddi (Pharma Industrial Corridor & Manufacturing Park) | `pages/packers-and-movers-in-barotiwala-baddi.php` | `packers-and-movers-in-barotiwala-baddi` | [x] COMPLETED (1,603 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| HP-09 | Locality | Nalagarh | Baddi Industrial Belt (Heavy Engineering & Pharma Hub) | `pages/packers-and-movers-in-nalagarh.php` | `packers-and-movers-in-nalagarh` | [x] COMPLETED (1,618 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| HP-10 | Locality | McLeod Ganj (Dharamshala)| Dharamshala (Little Lhasa, Tibetan Heritage & Tourism) | `pages/packers-and-movers-in-mcleod-ganj-dharamshala.php` | `packers-and-movers-in-mcleod-ganj-dharamshala` | [x] COMPLETED (1,697 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.18 Jammu & Kashmir (UT) (Planned: 9 Hubs &mdash; 4 Cities + 5 Localities) &mdash; [x] 100% COMPLETED (9/9)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| JK-01 | City | Jammu | Winter Capital, Commercial Hub & Tawi River Metropolis | `pages/packers-and-movers-in-jammu.php` | `packers-and-movers-in-jammu` | [x] COMPLETED (1,676 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| JK-02 | City | Srinagar | Summer Capital, Kashmir Valley Trade & Tourism Epicenter | `pages/packers-and-movers-in-srinagar.php` | `packers-and-movers-in-srinagar` | [x] COMPLETED (1,691 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| JK-03 | City | Udhampur | Northern Command HQ & Highway Gateway | `pages/packers-and-movers-in-udhampur.php` | `packers-and-movers-in-udhampur` | [x] COMPLETED (1,755 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| JK-04 | City | Kathua | Gateway to J&K, Ravi River & Govindsar Industrial Hub | `pages/packers-and-movers-in-kathua.php` | `packers-and-movers-in-kathua` | [x] COMPLETED (1,806 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| JK-05 | Locality | Gandhi Nagar (Jammu) | Jammu (Premier Posh Residential, Apsara Road & Luxury) | `pages/packers-and-movers-in-gandhi-nagar-jammu.php` | `packers-and-movers-in-gandhi-nagar-jammu` | [x] COMPLETED (1,671 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| JK-06 | Locality | Channi Himmat (Jammu) | Jammu (Affluent Villa Township Sectors 1-7 & Bypass) | `pages/packers-and-movers-in-channi-himmat-jammu.php` | `packers-and-movers-in-channi-himmat-jammu` | [x] COMPLETED (1,708 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| JK-07 | Locality | Trikuta Nagar (Jammu) | Jammu (Bahu Plaza Commercial Capital & Sectors 1-9) | `pages/packers-and-movers-in-trikuta-nagar-jammu.php` | `packers-and-movers-in-trikuta-nagar-jammu` | [x] COMPLETED (1,718 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| JK-08 | City | Anantnag | Commercial Capital of South Kashmir, Agro-Horticulture & Highway Hub | `pages/packers-and-movers-in-anantnag.php` | `packers-and-movers-in-anantnag` | [x] COMPLETED (1,656 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| JK-09 | City | Baramulla | Northern Gateway to Kashmir Valley, Jhelum River Trade & Cantonment | `pages/packers-and-movers-in-baramulla.php` | `packers-and-movers-in-baramulla` | [x] COMPLETED (1,607 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.16 Rajasthan (Planned: 36 Hubs &mdash; 16 Cities + 20 Localities) &mdash; [x] 100% COMPLETED (36/36)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| 533 | Metro | Jaipur | State Capital, Pink City, Heritage Tourism & Fast Growing IT Hub | `pages/packers-and-movers-in-jaipur.php` | `packers-and-movers-in-jaipur` | [x] COMPLETED (1,602 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 534 | Locality | Mansarovar (Jaipur) | Asia's Largest Planned Housing Colony & Metro Terminal | `pages/packers-and-movers-in-mansarovar-jaipur.php` | `packers-and-movers-in-mansarovar-jaipur` | [x] COMPLETED (1,601 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 535 | Locality | Vaishali Nagar (Jaipur) | Premier Upscale Commercial, Luxury Villas & High-End Living | `pages/packers-and-movers-in-vaishali-nagar-jaipur.php` | `packers-and-movers-in-vaishali-nagar-jaipur` | [x] COMPLETED (1,625 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 536 | Locality | Malviya Nagar (Jaipur) | World Trade Park, Corporate Hub & Calgiri Hospital Enclave | `pages/packers-and-movers-in-malviya-nagar-jaipur.php` | `packers-and-movers-in-malviya-nagar-jaipur` | [x] COMPLETED (1,600 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 537 | Locality | Jagatpura (Jaipur) | Modern High-Rise Corridor, Bombay Hospital & Educational Zone | `pages/packers-and-movers-in-jagatpura-jaipur.php` | `packers-and-movers-in-jagatpura-jaipur` | [x] COMPLETED (1,603 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 538 | Locality | Tonk Road (Jaipur) | Key Commercial Arterial Spine, Sitapura Industrial Link & Airport | `pages/packers-and-movers-in-tonk-road-jaipur.php` | `packers-and-movers-in-tonk-road-jaipur` | [x] COMPLETED (1,601 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 539 | Locality | Raja Park (Jaipur) | Central Commercial Retail, Bustling Markets & Established Enclaves | `pages/packers-and-movers-in-raja-park-jaipur.php` | `packers-and-movers-in-raja-park-jaipur` | [x] COMPLETED (1,665 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 540 | Locality | C-Scheme (Jaipur) | Central Administrative, Diplomatic, High-Street & Corporate Heart | `pages/packers-and-movers-in-c-scheme-jaipur.php` | `packers-and-movers-in-c-scheme-jaipur` | [x] COMPLETED (1,624 words, 4 imgs, 4 schemas, 100% verified) |
+| 541 | Locality | Vidhyadhar Nagar (Jaipur) | Sector-Planned Northern Suburb, Sikar Road Gateway | `pages/packers-and-movers-in-vidhyadhar-nagar-jaipur.php` | `packers-and-movers-in-vidhyadhar-nagar-jaipur` | [x] COMPLETED (1,619 words, 4 imgs, 4 schemas, 100% verified) |
+| 542 | Locality | Ajmer Road (Jaipur) | Delhi-Mumbai Expressway Gateway, Mahindra World City SEZ Corridor | `pages/packers-and-movers-in-ajmer-road-jaipur.php` | `packers-and-movers-in-ajmer-road-jaipur` | [x] COMPLETED (1,623 words, 4 imgs, 4 schemas, 100% verified) |
+| 543 | Locality | Jhotwara (Jaipur) | Heavy Industrial Area, Defense Cantonment & Dense Residential Hub | `pages/packers-and-movers-in-jhotwara-jaipur.php` | `packers-and-movers-in-jhotwara-jaipur` | [x] COMPLETED (1,600 words, 4 imgs, 4 schemas, 100% verified) |
+| 544 | City | Jodhpur | Sun City, Blue City, Handicrafts Capital & Second Largest Metro | `pages/packers-and-movers-in-jodhpur.php` | `packers-and-movers-in-jodhpur` | [x] COMPLETED (1,660 words, 4 imgs, 4 schemas, 100% verified) |
+| 545 | Locality | Shastri Nagar (Jodhpur) | Central Affluent Residential, Medical College & MDM Hospital Enclave | `pages/packers-and-movers-in-shastri-nagar-jodhpur.php` | `packers-and-movers-in-shastri-nagar-jodhpur` | [x] COMPLETED (1,610 words, 4 imgs, 4 schemas, 100% verified) |
+| 546 | Locality | Sardarpura (Jodhpur) | High-Street Retail, Established Family Enclaves & Commercial Core | `pages/packers-and-movers-in-sardarpura-jodhpur.php` | `packers-and-movers-in-sardarpura-jodhpur` | [x] COMPLETED (1,602 words, 4 imgs, 4 schemas, 100% verified) |
+| 547 | Locality | Ratanada (Jodhpur) | Defense Cantonment, Airport Vicinity & Premier Officers Enclave | `pages/packers-and-movers-in-ratanada-jodhpur.php` | `packers-and-movers-in-ratanada-jodhpur` | [x] COMPLETED (1,603 words, 4 imgs, 4 schemas, 100% verified) |
+| 548 | Locality | Basni (Jodhpur) | Major Industrial Phase 1-2, AIIMS Jodhpur Healthcare Hub | `pages/packers-and-movers-in-basni-jodhpur.php` | `packers-and-movers-in-basni-jodhpur` | [x] COMPLETED (1,606 words, 4 imgs, 4 schemas, 100% verified) |
+| 549 | City | Udaipur | City of Lakes, Venice of the East, Tourism Capital & Mineral Hub | `pages/packers-and-movers-in-udaipur.php` | `packers-and-movers-in-udaipur` | [x] COMPLETED (1,654 words, 4 imgs, 4 schemas, 100% verified) |
+| 550 | Locality | Hiran Magri (Udaipur) | Largest Sector-Planned Residential Townships (Sectors 3 to 14) | `pages/packers-and-movers-in-hiran-magri-udaipur.php` | `packers-and-movers-in-hiran-magri-udaipur` | [x] COMPLETED (1,657 words, 4 imgs, 4 schemas, 100% verified) |
+| 551 | Locality | Sukher (Udaipur) | Asia's Marble Wholesale Hub, NH 58 Corridor & Industrial Area | `pages/packers-and-movers-in-sukher-udaipur.php` | `packers-and-movers-in-sukher-udaipur` | [x] COMPLETED (1,608 words, 4 imgs, 4 schemas, 100% verified) |
+| 552 | Locality | Fatehpura (Udaipur) | Luxury Residential & Lake Pichola Vicinity | `pages/packers-and-movers-in-fatehpura-udaipur.php` | `packers-and-movers-in-fatehpura-udaipur` | [x] COMPLETED (1,620 words, 4 imgs, 4 schemas, 100% verified) |
+| 553 | City | Kota | Coaching Capital of India, Chambal Industrial & Power Hub | `pages/packers-and-movers-in-kota.php` | `packers-and-movers-in-kota` | [x] COMPLETED (1,666 words, 4 imgs, 4 schemas, 100% verified) |
+| 554 | Locality | Talwandi (Kota) | Education Institute Epicenter, Student Hostels & Commercial Core | `pages/packers-and-movers-in-talwandi-kota.php` | `packers-and-movers-in-talwandi-kota` | [x] COMPLETED (1,619 words, 4 imgs, 4 schemas, 100% verified) |
+| 555 | Locality | Vigyan Nagar (Kota) | Established Central Residential, Electronic & Commercial Market | `pages/packers-and-movers-in-vigyan-nagar-kota.php` | `packers-and-movers-in-vigyan-nagar-kota` | [x] COMPLETED (1,630 words, 4 imgs, 4 schemas, 100% verified) |
+| 556 | Locality | Mahaveer Nagar (Kota) | High-Density Student Residences, Retail & Coaching Corridor | `pages/packers-and-movers-in-mahaveer-nagar-kota.php` | `packers-and-movers-in-mahaveer-nagar-kota` | [x] COMPLETED (1,601 words, 4 imgs, 4 schemas, 100% verified) |
+| 557 | City | Bikaner | Desert Cultural Capital, Camel Breeding Hub, Sweets & Ceramics | `pages/packers-and-movers-in-bikaner.php` | `packers-and-movers-in-bikaner` | [x] COMPLETED (1,617 words, 4 imgs, 4 schemas, 100% verified) |
+| 558 | City | Ajmer | Spiritual & Heritage Capital (Dargah Sharif), Educational Hub | `pages/packers-and-movers-in-ajmer.php` | `packers-and-movers-in-ajmer` | [x] COMPLETED (1,614 words, 4 imgs, 4 schemas, 100% verified) |
+| 559 | City | Bhilwara | Textile City of India, Suiting Fabric Capital & Export Hub | `pages/packers-and-movers-in-bhilwara.php` | `packers-and-movers-in-bhilwara` | [x] COMPLETED (1,600 words, 4 imgs, 4 schemas, 100% verified) |
+| 560 | City | Alwar | Matsya Industrial Hub, Tiger Gateway & NCR Manufacturing Belt | `pages/packers-and-movers-in-alwar.php` | `packers-and-movers-in-alwar` | [x] COMPLETED (1,601 words, 4 imgs, 4 schemas, 100% verified) |
+| 561 | City | Sikar | Shekhawati Capital, Fast-Growing Education & Coaching Hub | `pages/packers-and-movers-in-sikar.php` | `packers-and-movers-in-sikar` | [x] COMPLETED (1,608 words, 4 imgs, 4 schemas, 100% verified) |
+| 562 | City | Pali | Textile Processing Capital, Marble Cutting & Industrial Center | `pages/packers-and-movers-in-pali.php` | `packers-and-movers-in-pali` | [x] COMPLETED (1,610 words, 4 imgs, 4 schemas, 100% verified) |
+| 563 | City | Bharatpur | Eastern Gateway of Rajasthan, Keoladeo World Heritage & Agro Hub | `pages/packers-and-movers-in-bharatpur.php` | `packers-and-movers-in-bharatpur` | [x] COMPLETED (1,601 words, 4 imgs, 4 schemas, 100% verified) |
+| 564 | City | Sri Ganganagar | Food Basket of Rajasthan, Agro-Industry & Canal Belt Gateway | `pages/packers-and-movers-in-sri-ganganagar.php` | `packers-and-movers-in-sri-ganganagar` | [x] COMPLETED (1,652 words, 4 imgs, 4 schemas, 100% verified) |
+| 565 | City | Kishangarh | Marble City of India, Painting Heritage & Airport Transit Hub | `pages/packers-and-movers-in-kishangarh.php` | `packers-and-movers-in-kishangarh` | [x] COMPLETED (1,626 words, 4 imgs, 4 schemas, 100% verified) |
+| 566 | City | Beawar | Mineral Trade Capital, Cement Manufacturing & Commercial Crossroad | `pages/packers-and-movers-in-beawar.php` | `packers-and-movers-in-beawar` | [x] COMPLETED (1,641 words, 4 imgs, 4 schemas, 100% verified) |
+| 567 | City | Hanumangarh | Northern Agro-Industrial Center & Ghaggar River Canal Network | `pages/packers-and-movers-in-hanumangarh.php` | `packers-and-movers-in-hanumangarh` | [x] COMPLETED (1,741 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| 568 | City | Chittorgarh | Historic Fort Capital, Mega Cement Belt (Birla/Wonder) & Mining | `pages/packers-and-movers-in-chittorgarh.php` | `packers-and-movers-in-chittorgarh` | [x] COMPLETED (1,662 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.17 Chhattisgarh (Planned: 30 Hubs &mdash; 12 Cities + 18 Localities) &mdash; [x] 100% COMPLETED (30/30)
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| 569 | Metro | Raipur | State Capital, Central Logistics, Commercial & Industrial Metropolis | `pages/packers-and-movers-in-raipur.php` | `packers-and-movers-in-raipur` | [x] COMPLETED (1,747 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 570 | City | Bilaspur | High Court of Chhattisgarh, SECR Railway Zonal HQ & Power Hub | `pages/packers-and-movers-in-bilaspur.php` | `packers-and-movers-in-bilaspur` | [x] COMPLETED (1,613 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 571 | City | Bhilai | Steel City of India, SAIL Bhilai Steel Plant & Premier Education Hub | `pages/packers-and-movers-in-bhilai.php` | `packers-and-movers-in-bhilai` | [x] COMPLETED (1,672 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 572 | City | Durg | Twin City of Bhilai, District Administrative & Industrial Center | `pages/packers-and-movers-in-durg.php` | `packers-and-movers-in-durg` | [x] COMPLETED (1,628 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 573 | City | Korba | Power Capital of India, NTPC, CSEB & BALCO Aluminium Industrial Hub | `pages/packers-and-movers-in-korba.php` | `packers-and-movers-in-korba` | [x] COMPLETED (1,695 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 574 | City | Raigarh | Steel, Sponge Iron Capital & Cultural Arts Epicenter (Jindal Hub) | `pages/packers-and-movers-in-raigarh.php` | `packers-and-movers-in-raigarh` | [x] COMPLETED (1,766 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 575 | City | Jagdalpur | Bastar Cultural Capital, Mineral Heartland & Tourism Gateway | `pages/packers-and-movers-in-jagdalpur.php` | `packers-and-movers-in-jagdalpur` | [x] COMPLETED (1,708 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 576 | City | Rajnandgaon | Sanskardhani, Major Agro-Trade & National Highway 53 Node | `pages/packers-and-movers-in-rajnandgaon.php` | `packers-and-movers-in-rajnandgaon` | [x] COMPLETED (1,687 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 577 | City | Ambikapur | Surguja Divisional Headquarters, Northern Coal Corridor Hub | `pages/packers-and-movers-in-ambikapur.php` | `packers-and-movers-in-ambikapur` | [x] COMPLETED (1,690 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 578 | City | Dhamtari | Rice Bowl of Chhattisgarh, Mahanadi Basin Agricultural Processing | `pages/packers-and-movers-in-dhamtari.php` | `packers-and-movers-in-dhamtari` | [x] COMPLETED (1,673 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 579 | City | Mahasamund | Eastern Agricultural Gateway & Mineral Processing Center | `pages/packers-and-movers-in-mahasamund.php` | `packers-and-movers-in-mahasamund` | [x] COMPLETED (1,691 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 580 | City | Champa | Kosa Silk Capital, Textile Weaving & Power Plant Industrial Zone | `pages/packers-and-movers-in-champa.php` | `packers-and-movers-in-champa` | [x] COMPLETED (1,688 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 581 | Locality | Pandri (Raipur) | Central Commercial Apparel Wholesale & City Center Retail Mall Hub | `pages/packers-and-movers-in-pandri-raipur.php` | `packers-and-movers-in-pandri-raipur` | [x] COMPLETED (1,722 words, 4 imgs, 4 schemas, 100% verified, HTTP 200) |
+| 582 | Locality | Shankar Nagar (Raipur) | Premier Elite Residential Enclave, Officers Colony & VIP Road Link | `pages/packers-and-movers-in-shankar-nagar-raipur.php` | `packers-and-movers-in-shankar-nagar-raipur` | [x] COMPLETED (1,710 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 583 | Locality | Telibandha (Raipur) | Marine Drive Waterfront, Corporate Financial Parks & Luxury Apartments | `pages/packers-and-movers-in-telibandha-raipur.php` | `packers-and-movers-in-telibandha-raipur` | [x] COMPLETED (1,637 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 584 | Locality | Tatibandh (Raipur) | AIIMS Raipur Medical Epicenter, GE Road Transport & Logistics Belt | `pages/packers-and-movers-in-tatibandh-raipur.php` | `packers-and-movers-in-tatibandh-raipur` | [x] COMPLETED (1,606 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 585 | Locality | VIP Road (Raipur) | Airport Arterial Highway, 5-Star Hospitality & Gated Luxury Townships | `pages/packers-and-movers-in-vip-road-raipur.php` | `packers-and-movers-in-vip-road-raipur` | [x] COMPLETED (1,616 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 586 | Locality | Devendra Nagar (Raipur) | Central Sector Planned Residential, Heart Hospital & Modern Enclaves | `pages/packers-and-movers-in-devendra-nagar-raipur.php` | `packers-and-movers-in-devendra-nagar-raipur` | [x] COMPLETED (1,623 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 587 | Locality | Sarona (Raipur) | Western High-Growth Residential Belt & AIIMS Doctors Housing Zone | `pages/packers-and-movers-in-sarona-raipur.php` | `packers-and-movers-in-sarona-raipur` | [x] COMPLETED (1,614 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 588 | Locality | Naya Raipur | Atal Nagar Smart Capital, Mantralaya Secretariat & IT SEZ Hub | `pages/packers-and-movers-in-naya-raipur.php` | `packers-and-movers-in-naya-raipur` | [x] COMPLETED (1,607 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 589 | Locality | Civic Center (Bhilai) | Central Cultural & Retail Plaza, Commercial Heart of Steel City | `pages/packers-and-movers-in-civic-center-bhilai.php` | `packers-and-movers-in-civic-center-bhilai` | [x] COMPLETED (1,635 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 590 | Locality | Nehru Nagar (Bhilai) | Premier Posh Residential Colony, East-West Sectors & Shopping Centers | `pages/packers-and-movers-in-nehru-nagar-bhilai.php` | `packers-and-movers-in-nehru-nagar-bhilai` | [x] COMPLETED (1,623 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 591 | Locality | Sector 6 (Bhilai) | BSP Township Epicenter, Central Avenue & A-Market High-Street Retail | `pages/packers-and-movers-in-sector-6-bhilai.php` | `packers-and-movers-in-sector-6-bhilai` | [x] COMPLETED (1,616 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 592 | Locality | Supela (Bhilai) | Major Commercial Trading Center, Clock Tower & GE Road Transport Node | `pages/packers-and-movers-in-supela-bhilai.php` | `packers-and-movers-in-supela-bhilai` | [x] COMPLETED (1,614 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 593 | Locality | Risali (Bhilai) | Southern High-Density Residential Townships & Defense Personnel Colony | `pages/packers-and-movers-in-risali-bhilai.php` | `packers-and-movers-in-risali-bhilai` | [x] COMPLETED (1,617 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 594 | Locality | Padmanabhpur (Durg) | Premier Durg District Residential Hub, VIP Enclave & District Court Link | `pages/packers-and-movers-in-padmanabhpur-durg.php` | `packers-and-movers-in-padmanabhpur-durg` | [x] COMPLETED (1,624 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 595 | Locality | Vyapar Vihar (Bilaspur) | Central Wholesale Trading Terminal, Commercial Warehouses & Logistics | `pages/packers-and-movers-in-vyapar-vihar-bilaspur.php` | `packers-and-movers-in-vyapar-vihar-bilaspur` | [x] COMPLETED (1,653 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 596 | Locality | Shrikant Verma Marg (Bilaspur) | Rama Magneto Mall Corridor, Corporate Offices & Premium Apartments | `pages/packers-and-movers-in-shrikant-verma-marg-bilaspur.php` | `packers-and-movers-in-shrikant-verma-marg-bilaspur` | [x] COMPLETED (1,620 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 597 | Locality | Civil Lines (Bilaspur) | Administrative District Zone, High Court Lawyers Enclave & Housing | `pages/packers-and-movers-in-civil-lines-bilaspur.php` | `packers-and-movers-in-civil-lines-bilaspur` | [x] COMPLETED (1,623 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+| 598 | Locality | BALCO Nagar (Korba) | BALCO Aluminium Township, Industrial Housing & Smelter Plant Vicinity | `pages/packers-and-movers-in-balco-nagar-korba.php` | `packers-and-movers-in-balco-nagar-korba` | [x] COMPLETED (1,633 words, 4 imgs, 4 schemas, 100% verified, HTTP 200, in sitemap) |
+
+---
+
+### 3.19 Gujarat (Planned: 50 Hubs &mdash; 22 Cities + 28 Localities) &mdash; [x] 100% COMPLETED (50/50) [CHAT 2 COMPLETE]
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| GJ-01 | Metro | Ahmedabad | Commercial Capital, Mega Textile & Chemical Metropolis | `pages/packers-and-movers-in-ahmedabad.php` | `packers-and-movers-in-ahmedabad` | [x] COMPLETED (1,733 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-02 | Locality | Bopal (Ahmedabad) | SP Ring Road Residential Corridor & Gated Townships | `pages/packers-and-movers-in-bopal-ahmedabad.php` | `packers-and-movers-in-bopal-ahmedabad` | [x] COMPLETED (1,666 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-03 | Locality | Satellite (Ahmedabad) | Central Posh Residential & Commercial Hub | `pages/packers-and-movers-in-satellite-ahmedabad.php` | `packers-and-movers-in-satellite-ahmedabad` | [x] COMPLETED (1,603 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-04 | Locality | Prahlad Nagar (Ahmedabad) | Corporate Financial Hub & Elite High-Rise Living | `pages/packers-and-movers-in-prahlad-nagar-ahmedabad.php` | `packers-and-movers-in-prahlad-nagar-ahmedabad` | [x] COMPLETED (1,602 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-05 | Locality | Vastrapur (Ahmedabad) | IIM Ahmedabad Lakefront & Premium Residential | `pages/packers-and-movers-in-vastrapur-ahmedabad.php` | `packers-and-movers-in-vastrapur-ahmedabad` | [x] COMPLETED (1,616 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-06 | Locality | Bodakdev (Ahmedabad) | Judges Bungalow Road & Luxury Mansions Enclave | `pages/packers-and-movers-in-bodakdev-ahmedabad.php` | `packers-and-movers-in-bodakdev-ahmedabad` | [x] COMPLETED (1,618 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-07 | Locality | Maninagar (Ahmedabad) | Eastern Cultural & Railway Commercial Gateway | `pages/packers-and-movers-in-maninagar-ahmedabad.php` | `packers-and-movers-in-maninagar-ahmedabad` | [x] COMPLETED (1,600 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-08 | Locality | Chandkheda (Ahmedabad) | ONGC Ankleshwar/Ahmedabad Asset & Western Gateway | `pages/packers-and-movers-in-chandkheda-ahmedabad.php` | `packers-and-movers-in-chandkheda-ahmedabad` | [x] COMPLETED (1,621 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-09 | Locality | Gota (Ahmedabad) | High-Density SG Highway Expansion Corridor | `pages/packers-and-movers-in-gota-ahmedabad.php` | `packers-and-movers-in-gota-ahmedabad` | [x] COMPLETED (1,754 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-10 | Locality | Navrangpura (Ahmedabad) | University Education & Commerce Epicenter | `pages/packers-and-movers-in-navrangpura-ahmedabad.php` | `packers-and-movers-in-navrangpura-ahmedabad` | [x] COMPLETED (1,695 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-11 | Locality | Thaltej (Ahmedabad) | SG Highway Luxury High-Rise & Villa Enclave | `pages/packers-and-movers-in-thaltej-ahmedabad.php` | `packers-and-movers-in-thaltej-ahmedabad` | [x] COMPLETED (1,620 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-12 | Metro | Surat | Diamond City of India, Silk Textile & Port Hub | `pages/packers-and-movers-in-surat.php` | `packers-and-movers-in-surat` | [x] COMPLETED (1,743 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-13 | Locality | Adajan (Surat) | Prime High-Rise Residential & Commercial Core | `pages/packers-and-movers-in-adajan-surat.php` | `packers-and-movers-in-adajan-surat` | [x] COMPLETED (1,704 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-14 | Locality | Vesu (Surat) | Airport Corridor & Ultra-Luxury Gated Communities | `pages/packers-and-movers-in-vesu-surat.php` | `packers-and-movers-in-vesu-surat` | [x] COMPLETED (1,603 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-15 | Locality | Varachha (Surat) | Diamond Cutting & Polishing Enterprise Hub | `pages/packers-and-movers-in-varachha-surat.php` | `packers-and-movers-in-varachha-surat` | [x] COMPLETED (1,643 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-16 | Locality | Pal (Surat) | Fast-Growing Modern Residential Enclaves | `pages/packers-and-movers-in-pal-surat.php` | `packers-and-movers-in-pal-surat` | [x] COMPLETED (1,723 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-17 | Locality | Katargam (Surat) | Northern Diamond Bourse & Engineering Center | `pages/packers-and-movers-in-katargam-surat.php` | `packers-and-movers-in-katargam-surat` | [x] COMPLETED (1,641 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-18 | Locality | Piplod (Surat) | Dumas Road Luxury Waterfront Corridor | `pages/packers-and-movers-in-piplod-surat.php` | `packers-and-movers-in-piplod-surat` | [x] COMPLETED (1,667 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-19 | City | Vadodara | Cultural Capital, Petrochemical & Engineering Hub | `pages/packers-and-movers-in-vadodara.php` | `packers-and-movers-in-vadodara` | [x] COMPLETED (1,713 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-20 | Locality | Alkapuri (Vadodara) | Premier Posh Residential & Financial District | `pages/packers-and-movers-in-alkapuri-vadodara.php` | `packers-and-movers-in-alkapuri-vadodara` | [x] COMPLETED (1,652 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-21 | Locality | Manjalpur (Vadodara) | Southern Industrial & High-Density Residential | `pages/packers-and-movers-in-manjalpur-vadodara.php` | `packers-and-movers-in-manjalpur-vadodara` | [x] COMPLETED (1,693 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-22 | Locality | Gotri (Vadodara) | Sevasi Luxury Villa Corridor & Healthcare Belt | `pages/packers-and-movers-in-gotri-vadodara.php` | `packers-and-movers-in-gotri-vadodara` | [x] COMPLETED (1,711 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-23 | Locality | Karelibaug (Vadodara) | Historic Heritage & Central Family Enclave | `pages/packers-and-movers-in-karelibaug-vadodara.php` | `packers-and-movers-in-karelibaug-vadodara` | [x] COMPLETED (1,696 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-24 | Locality | Fatehgunj (Vadodara) | MS University & Cantonment Vicinity Corridor | `pages/packers-and-movers-in-fatehgunj-vadodara.php` | `packers-and-movers-in-fatehgunj-vadodara` | [x] COMPLETED (1,648 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-25 | City | Rajkot | Engineering Capital of Saurashtra, Auto Parts & Forging | `pages/packers-and-movers-in-rajkot.php` | `packers-and-movers-in-rajkot` | [x] COMPLETED (1,713 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-26 | Locality | Kalawad Road (Rajkot) | Premier Educational & Luxury Residential Corridor | `pages/packers-and-movers-in-kalawad-road-rajkot.php` | `packers-and-movers-in-kalawad-road-rajkot` | [x] COMPLETED (1,668 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-27 | Locality | University Road (Rajkot) | Saurashtra University Vicinity & Modern Apartments | `pages/packers-and-movers-in-university-road-rajkot.php` | `packers-and-movers-in-university-road-rajkot` | [x] COMPLETED (1,732 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-28 | Locality | 150 Feet Ring Road (Rajkot) | Major Urban Arterial Spine & Commercial Transit Belt | `pages/packers-and-movers-in-150-feet-ring-road-rajkot.php` | `packers-and-movers-in-150-feet-ring-road-rajkot` | [x] COMPLETED (1,821 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-29 | Locality | Yagnik Road (Rajkot) | Central Commercial Retail, Corporate & Posh Enclave | `pages/packers-and-movers-in-yagnik-road-rajkot.php` | `packers-and-movers-in-yagnik-road-rajkot` | [x] COMPLETED (1,725 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-30 | City | Bhavnagar | Ship Breaking & Engineering Gateway, Alang Port Hub | `pages/packers-and-movers-in-bhavnagar.php` | `packers-and-movers-in-bhavnagar` | [x] COMPLETED (1,681 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-31 | City | Jamnagar | Oil City of India, Brass Parts & Reliance Refinery Hub | `pages/packers-and-movers-in-jamnagar.php` | `packers-and-movers-in-jamnagar` | [x] COMPLETED (1,677 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-32 | City | Gandhinagar | Green Capital, Secretariat & Administrative Center | `pages/packers-and-movers-in-gandhinagar.php` | `packers-and-movers-in-gandhinagar` | [x] COMPLETED (1,679 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-33 | City | Junagadh | Girnar Foothills, Agro Trade & Historical Tourism | `pages/packers-and-movers-in-junagadh.php` | `packers-and-movers-in-junagadh` | [x] COMPLETED (1,656 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-34 | City | Anand | Milk Capital of India, Amul Headquarters & Dairy Hub | `pages/packers-and-movers-in-anand.php` | `packers-and-movers-in-anand` | [x] COMPLETED (1,707 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-35 | City | Navsari | Twin City of Surat, Diamond & Agro-Floriculture Center | `pages/packers-and-movers-in-navsari.php` | `packers-and-movers-in-navsari` | [x] COMPLETED (1,685 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-36 | City | Morbi | Ceramic Capital of the World, Tiles & Clock Industry | `pages/packers-and-movers-in-morbi.php` | `packers-and-movers-in-morbi` | [x] COMPLETED (1,742 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-37 | City | Nadiad | Charotar Educational & Agricultural Commerce Hub | `pages/packers-and-movers-in-nadiad.php` | `packers-and-movers-in-nadiad` | [x] COMPLETED (1,671 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-38 | City | Surendranagar | Gateway of Saurashtra, Cotton & Salt Processing Center | `pages/packers-and-movers-in-surendranagar.php` | `packers-and-movers-in-surendranagar` | [x] COMPLETED (1,666 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-39 | City | Bharuch | Historic Narmada Port, Petroleum & Chemical PCPIR Hub | `pages/packers-and-movers-in-bharuch.php` | `packers-and-movers-in-bharuch` | [x] COMPLETED (1,668 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-40 | City | Mehsana | Dairy, Oil & Northern Industrial Engineering Belt | `pages/packers-and-movers-in-mehsana.php` | `packers-and-movers-in-mehsana` | [x] COMPLETED (1,686 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-41 | City | Bhuj | Kutch Heritage Capital, Mineral & Handicrafts Trade | `pages/packers-and-movers-in-bhuj.php` | `packers-and-movers-in-bhuj` | [x] COMPLETED (1,698 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-42 | City | Porbandar | Coastal Deep-Sea Port, Limestone & Marine Products Hub | `pages/packers-and-movers-in-porbandar.php` | `packers-and-movers-in-porbandar` | [x] COMPLETED (1,703 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-43 | City | Vapi | Chemical & Paper Industrial Hub, Southern GIDC Epicenter | `pages/packers-and-movers-in-vapi.php` | `packers-and-movers-in-vapi` | [x] COMPLETED (1,674 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-44 | City | Valsad | Southern Coastal Gateway, Chemical & Horticulture Trade | `pages/packers-and-movers-in-valsad.php` | `packers-and-movers-in-valsad` | [x] COMPLETED (1,677 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-45 | City | Veraval | Somnath Pilgrimage & Mega Seafood Processing Hub | `pages/packers-and-movers-in-veraval.php` | `packers-and-movers-in-veraval` | [x] COMPLETED (1,699 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-46 | City | Gandhidham | Major Logistics Hub for Kandla & Mundra Mega Ports | `pages/packers-and-movers-in-gandhidham.php` | `packers-and-movers-in-gandhidham` | [x] COMPLETED (1,720 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-47 | City | Ankleshwar | Chemical Capital of India, Asia's Largest GIDC Estate | `pages/packers-and-movers-in-ankleshwar.php` | `packers-and-movers-in-ankleshwar` | [x] COMPLETED (1,905 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-48 | Locality | GIFT City (Gandhinagar) | International Financial Services Centre (IFSC) & SEZ | `pages/packers-and-movers-in-gift-city-gandhinagar.php` | `packers-and-movers-in-gift-city-gandhinagar` | [x] COMPLETED (1,739 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-49 | Locality | Kudasan (Gandhinagar) | High-Rise Residential Corridor & Gated Condominiums | `pages/packers-and-movers-in-kudasan-gandhinagar.php` | `packers-and-movers-in-kudasan-gandhinagar` | [x] COMPLETED (1,727 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GJ-50 | Locality | Infocity (Gandhinagar) | Premier IT & Electronics Park, TCS Garima Park Corridor | `pages/packers-and-movers-in-infocity-gandhinagar.php` | `packers-and-movers-in-infocity-gandhinagar` | [x] COMPLETED (1,706 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+---
+
+### 3.12 Goa (10 Hubs &mdash; 6 Cities + 4 Localities) [CHAT 6]
+
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| GA-01 | City | Panaji | State Capital, Port & Administrative Center | pages/packers-and-movers-in-panaji.php | packers-and-movers-in-panaji | [x] COMPLETED (1,695 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GA-02 | City | Margao | Commercial Capital of South Goa & Rail Hub | pages/packers-and-movers-in-margao.php | packers-and-movers-in-margao | [x] COMPLETED (1,648 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GA-03 | City | Vasco da Gama | Major Port City (Mormugao) & Naval Base | pages/packers-and-movers-in-vasco-da-gama.php | packers-and-movers-in-vasco-da-gama | [x] COMPLETED (1,604 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GA-04 | City | Mapusa | Northern Commercial Gateway & Market Center | pages/packers-and-movers-in-mapusa.php | packers-and-movers-in-mapusa | [x] COMPLETED (1,645 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GA-05 | Locality | Porvorim | Legislative Assembly & Executive Residential Hub | pages/packers-and-movers-in-porvorim.php | packers-and-movers-in-porvorim | [x] COMPLETED (1,655 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GA-06 | City | Ponda | Cultural Capital & Industrial Pharmaceutical Hub | pages/packers-and-movers-in-ponda.php | packers-and-movers-in-ponda | [x] COMPLETED (1,657 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GA-07 | Locality | Candolim | North Coastal Tourism & Hospitality Villa Hub | pages/packers-and-movers-in-candolim.php | packers-and-movers-in-candolim | [x] COMPLETED (1,615 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GA-08 | Locality | Verna | South Goa Major Electronic & Pharma Industrial Estate | pages/packers-and-movers-in-verna.php | packers-and-movers-in-verna | [x] COMPLETED (1,645 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GA-09 | Locality | Dona Paula | Elite Coastal Living & National Institute of Oceanography | pages/packers-and-movers-in-dona-paula.php | packers-and-movers-in-dona-paula | [x] COMPLETED (1,698 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| GA-10 | Locality | Miramar | Capital Waterfront Promenade & University Enclave | pages/packers-and-movers-in-miramar.php | packers-and-movers-in-miramar | [x] COMPLETED (1,602 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+---
+
+### 3.13 Northeast India (40 Hubs across 8 States) [CHAT 6]
+
+#### A. Assam (21 Hubs: 8 Cities + 13 Localities)
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| AS-01 | Metro | Guwahati | Gateway of Northeast India, Brahmaputra Metropolis | pages/packers-and-movers-in-guwahati.php | packers-and-movers-in-guwahati | [x] COMPLETED (1,616 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-02 | Locality | GS Road (Guwahati) | Premier Commercial Spine & Corporate Showrooms | pages/packers-and-movers-in-gs-road-guwahati.php | packers-and-movers-in-gs-road-guwahati | [x] COMPLETED (1,601 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-03 | Locality | Dispur (Guwahati) | State Capital, Assam Secretariat & Capital Complex | pages/packers-and-movers-in-dispur-guwahati.php | packers-and-movers-in-dispur-guwahati | [x] COMPLETED (1,610 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-04 | Locality | Zoo Road (Guwahati) | RG Baruah Road Retail, Media & Family Corridor | pages/packers-and-movers-in-zoo-road-guwahati.php | packers-and-movers-in-zoo-road-guwahati | [x] COMPLETED (1,621 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-05 | Locality | Christian Basti (Guwahati) | Central Commercial Retail & Healthcare Hub | pages/packers-and-movers-in-christian-basti-guwahati.php | packers-and-movers-in-christian-basti-guwahati | [x] COMPLETED (1,600 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-06 | Locality | Beltola (Guwahati) | Southeastern Residential Hub & Trade Center | pages/packers-and-movers-in-beltola-guwahati.php | packers-and-movers-in-beltola-guwahati | [x] COMPLETED (1,622 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-07 | Locality | Jalukbari (Guwahati) | Gauhati University & Western Highway Gateway | pages/packers-and-movers-in-jalukbari-guwahati.php | packers-and-movers-in-jalukbari-guwahati | [x] COMPLETED (1,614 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-08 | Locality | Khanapara (Guwahati) | Assam-Meghalaya Border Highway Gateway | pages/packers-and-movers-in-khanapara-guwahati.php | packers-and-movers-in-khanapara-guwahati | [x] COMPLETED (1,629 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-09 | Locality | Maligaon (Guwahati) | Northeast Frontier Railway (NFR) HQ & Kamakhya | pages/packers-and-movers-in-maligaon-guwahati.php | packers-and-movers-in-maligaon-guwahati | [x] COMPLETED (1,735 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-10 | Locality | Pan Bazaar (Guwahati) | Historic Heritage & Educational Cultural Center | pages/packers-and-movers-in-pan-bazaar-guwahati.php | packers-and-movers-in-pan-bazaar-guwahati | [x] COMPLETED (1,683 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-11 | Locality | Ulubari (Guwahati) | Central Sports, Administrative & Residential Hub | pages/packers-and-movers-in-ulubari-guwahati.php | packers-and-movers-in-ulubari-guwahati | [x] COMPLETED (1,660 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-12 | Locality | Six Mile (Guwahati) | VIP Road & Panjabari Growth Corridor | pages/packers-and-movers-in-six-mile-guwahati.php | packers-and-movers-in-six-mile-guwahati | [x] COMPLETED (1,681 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-13 | Locality | Hatigaon (Guwahati) | High-Density Residential & Secretariat Link | pages/packers-and-movers-in-hatigaon-guwahati.php | packers-and-movers-in-hatigaon-guwahati | [x] COMPLETED (1,708 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-14 | Locality | Lokhra (Guwahati) | NH-27 Inter-State Bus Terminus & Warehousing Hub | pages/packers-and-movers-in-lokhra-guwahati.php | packers-and-movers-in-lokhra-guwahati | [x] COMPLETED (1,677 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-15 | City | Silchar | Barak Valley Commercial Capital, NIT Silchar & Tea Hub | pages/packers-and-movers-in-silchar.php | packers-and-movers-in-silchar | [x] COMPLETED (1,727 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-16 | City | Dibrugarh | Tea City of India, Oil & Petrochemical Gateway | pages/packers-and-movers-in-dibrugarh.php | packers-and-movers-in-dibrugarh | [x] COMPLETED (1,701 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-17 | City | Jorhat | Cultural Capital of Assam, Tocklai Tea Research Hub | pages/packers-and-movers-in-jorhat.php | packers-and-movers-in-jorhat | [x] COMPLETED (1,733 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-18 | City | Tezpur | Cultural City of Eternal Romance & Defense Corps Hub | pages/packers-and-movers-in-tezpur.php | packers-and-movers-in-tezpur | [x] COMPLETED (1,766 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-19 | City | Tinsukia | Commercial & Industrial Hub, Coal & Railway Junction | pages/packers-and-movers-in-tinsukia.php | packers-and-movers-in-tinsukia | [x] COMPLETED (1,732 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-20 | City | Nagaon | Central Agricultural Trading & Jute Processing Center | pages/packers-and-movers-in-nagaon.php | packers-and-movers-in-nagaon | [x] COMPLETED (1,717 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AS-21 | City | Bongaigaon | Petrochemical Refinery (IOCL) & Lower Assam Rail Hub | pages/packers-and-movers-in-bongaigaon.php | packers-and-movers-in-bongaigaon | [x] COMPLETED (1,739 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+#### B. Tripura (3 Hubs: 1 City + 2 Localities)
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| TR-01 | City | Agartala | State Capital & Second Largest City in Northeast | pages/packers-and-movers-in-agartala.php | packers-and-movers-in-agartala | [x] COMPLETED (1,712 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| TR-02 | Locality | Banamalipur (Agartala) | Central Commercial Retail & Traditional Residential | pages/packers-and-movers-in-banamalipur-agartala.php | packers-and-movers-in-banamalipur-agartala | [x] COMPLETED (1,625 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| TR-03 | Locality | Kunjaban (Agartala) | New Capital Complex, Raj Bhavan & High Court | pages/packers-and-movers-in-kunjaban-agartala.php | packers-and-movers-in-kunjaban-agartala | [x] COMPLETED (1,625 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+#### C. Meghalaya (3 Hubs: 1 City + 2 Localities)
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| ML-01 | City | Shillong | Scotland of the East, State Capital & Air Command HQ | pages/packers-and-movers-in-shillong.php | packers-and-movers-in-shillong | [x] COMPLETED (1,796 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| ML-02 | Locality | Police Bazar (Shillong) | Commercial Nerve Center, Retail Bazaars & Hotels | pages/packers-and-movers-in-police-bazar-shillong.php | packers-and-movers-in-police-bazar-shillong | [x] COMPLETED (1,697 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| ML-03 | Locality | Laitumkhrah (Shillong) | Educational, Mission & High-Altitude Residential Hub | pages/packers-and-movers-in-laitumkhrah-shillong.php | packers-and-movers-in-laitumkhrah-shillong | [x] COMPLETED (1,672 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+#### D. Nagaland (4 Hubs: 3 Cities + 1 Locality)
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| NL-01 | City | Dimapur | Commercial Capital, Sole Railhead & Airport Hub | pages/packers-and-movers-in-dimapur.php | packers-and-movers-in-dimapur | [x] COMPLETED (1,960 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| NL-02 | City | Kohima | State Capital, Civil Secretariat & Ridge Mountain Hub | pages/packers-and-movers-in-kohima.php | packers-and-movers-in-kohima | [x] COMPLETED (1,727 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| NL-03 | City | Chumukedima | District HQ, Police Training School & University Hub | pages/packers-and-movers-in-chumukedima.php | packers-and-movers-in-chumukedima | [x] COMPLETED (1,631 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| NL-04 | Locality | Purana Bazar (Dimapur) | Wholesale Trade Hub, Hardware & Inter-State Corridor | pages/packers-and-movers-in-purana-bazar-dimapur.php | packers-and-movers-in-purana-bazar-dimapur | [x] COMPLETED (1,649 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+#### E. Manipur (3 Hubs: 1 City + 2 Localities)
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| MN-01 | City | Imphal | State Capital, Kangla Fort, RIMS & Defense Hub | pages/packers-and-movers-in-imphal.php | packers-and-movers-in-imphal | [x] COMPLETED (1,654 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| MN-02 | Locality | Thangal Bazar (Imphal) | Central Wholesale Trading, Retail & Financial Core | pages/packers-and-movers-in-thangal-bazar-imphal.php | packers-and-movers-in-thangal-bazar-imphal | [x] COMPLETED (1,633 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| MN-03 | Locality | Lamphelpat (Imphal) | High Court, RIMS Medical Enclave & DC Office Complex | pages/packers-and-movers-in-lamphelpat-imphal.php | packers-and-movers-in-lamphelpat-imphal | [x] COMPLETED (1,654 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+#### F. Mizoram (2 Hubs: 1 City + 1 Locality)
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| MZ-01 | City | Aizawl | State Capital, MINECO Secretariat & Steep Ridge Hub | pages/packers-and-movers-in-aizawl.php | packers-and-movers-in-aizawl | [x] COMPLETED (1,688 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| MZ-02 | Locality | Zarkawt (Aizawl) | Central Commercial Ridgeline, Retail & Fashion District | pages/packers-and-movers-in-zarkawt-aizawl.php | packers-and-movers-in-zarkawt-aizawl | [x] COMPLETED (1,615 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+#### G. Arunachal Pradesh (2 Hubs: 2 Cities)
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| AR-01 | City | Itanagar | State Capital, Civil Secretariat & Himalayan Foothill Hub | pages/packers-and-movers-in-itanagar.php | packers-and-movers-in-itanagar | [x] COMPLETED (1,636 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| AR-02 | City | Naharlagun | Twin Commercial City, Railway Terminus & TRIHMS Hospital | pages/packers-and-movers-in-naharlagun.php | packers-and-movers-in-naharlagun | [x] COMPLETED (1,625 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+
+#### H. Sikkim (2 Hubs: 1 City + 1 Locality)
+| # | Type | Name | Geographic / Industrial Relevance | PHP Target File | Canonical URL Slug | Status |
+|---|---|---|---|---|---|---|
+| SK-01 | City | Gangtok | State Capital, Tashiling Secretariat & Alpine Mountain Hub | pages/packers-and-movers-in-gangtok.php | packers-and-movers-in-gangtok | [x] COMPLETED (1,735 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
+| SK-02 | Locality | Deorali (Gangtok) | Mountain Transit Gateway, Ropeway Terminus & NH-10 Link | pages/packers-and-movers-in-deorali-gangtok.php | packers-and-movers-in-deorali-gangtok | [x] COMPLETED (1,695 words, 4 imgs, 4 schemas, 100% verified, in sitemap) |
 
 ## 4. Prioritized Execution Groups
 
