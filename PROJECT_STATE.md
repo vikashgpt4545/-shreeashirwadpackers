@@ -1,12 +1,103 @@
 # Project State & Active Context (PROJECT_STATE.md)
 **Project**: Shree Ashirwad Packers and Movers (`shreeashirwadpackers`)  
-**Last Updated**: 2026-10-22 02:15 IST  
-**State**: 100% COMPLETED JHARKHAND KEYWORD AUDIT & DUAL-PHASE EXPANSION (423 KEYWORDS AUDITED; 14 STANDALONE HIGH-INTENT PAGES HANDCRAFTED WITH 2,200+ WORDS, 4 SCHEMAS, 4 PHYSICAL IMAGES, ZERO SCRIPT BOT TEMPLATING; 7 DISTRICT HUBS ENRICHED; 2 HIGH-INTENT ALIASES 301-REDIRECTED; SITEMAP SYNCED & 100% HTTP 200 OK)
+**Last Updated**: 2026-10-22 23:06 IST  
+**State**: ALL 4 PHASES FULLY COMPLETED (175 TOTAL NEW HANDCRAFTED PAGES). FULL SITE-WIDE SITEMAP AUDIT COMPLETED: 100% OF ALL 2,009 PHP PAGES SYNCHRONIZED IN SITEMAP.XML (TOTAL 2,011 CANONICAL URLS, ZERO MISSING PAGES, 100% VALID XML).
 
 ---
 
-- **Current Objective**: Complete Jharkhand Keyword Optimization & Organic Coverage (`keywords-jharkhand.txt`)
-- **Status**: [x] 100% COMPLETED & VERIFIED (423/423 Keywords Mapped & Covered)
+- **Current Objective**: Master Plan Execution — All 4 Strategic Phases Fully Completed & Site-Wide Sitemap 100% Synchronized (2,011 URLs)
+- **Status**:
+  - [x] Phase 1: Batch 1 (50 Corridors), Batch 2 (50 Corridors), and Batch 3 (50 Corridors) = 150 Total Corridors Handcrafted, Verified, and Published in Sitemap (1,892 URLs)
+  - [x] Phase 2: Specialized Moving Services Silo (8 Strategic Pages: Single Item, Luggage, Pet Relocation, Plant Relocation, Data Center, Warehousing, Fragile/Piano, Bike Parcel) &mdash; 100% COMPLETED (Sitemap 1,900 URLs)
+  - [x] Phase 3: High-Impact Regional & Hyper-Local Hubs (12 Pages) &mdash; 100% COMPLETED (Sitemap 1,912 URLs)
+  - [x] Phase 4: Tariff, GST, Billing & Claim Guides (5 Strategic Pages) &mdash; 100% COMPLETED (Sitemap 1,917 URLs)
+  - [x] Full Site-Wide Audit & Sync: All 94 missing regional pages synchronized &mdash; 100% COMPLETED (Sitemap 2,011 URLs, 0 Missing Pages)
+- **Completed Phase 4: Tariff, GST, Billing & Claim Guides (5/5 - 100% PASS)**:
+  - [x] `pages/packers-and-movers-gst-rate.php` (`pmgst-`, 1,914 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/iba-approved-packers-and-movers-bill-format.php` (`ibab-`, 1,801 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/how-to-calculate-packers-and-movers-charges.php` (`hcmc-`, 1,702 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packing-material-box-cost-guide.php` (`pmbc-`, 1,840 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/household-goods-transit-insurance-claim-guide.php` (`ticg-`, 1,635 words, 4 schemas, 4 images, [PASS])
+- **Completed Phase 3: High-Impact Regional & Hyper-Local Hubs (12/12 - 100% PASS)**:
+  - [x] `pages/packers-and-movers-in-goa.php` (`goah-`, 1,684 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-kalyan-dombivli.php` (`kdmb-`, 1,669 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-hubli-dharwad.php` (`hbdh-`, 1,611 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-bhubaneswar-smart-city.php` (`bbsc-`, 1,619 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-pimpri-chinchwad.php` (`pmch-`, 1,645 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-greater-noida-west.php` (`gnwt-`, 1,748 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-dwarka-expressway.php` (`dwex-`, 1,747 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-golf-course-road-gurgaon.php` (`gcrg-`, 1,715 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-new-gurgaon.php` (`nwgg-`, 1,720 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-whitefield-kadugodi.php` (`wfkd-`, 1,646 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-baner-pashan-pune.php` (`bnps-`, 1,695 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/packers-and-movers-in-rajarhat-kolkata.php` (`rjrk-`, 1,721 words, 4 schemas, 4 images, [PASS])
+- **Completed Phase 2: Specialized Services Silo (8/8 - 100% PASS)**:
+  - [x] `pages/single-item-furniture-shifting-service.php` (`sifs-`, 1,851 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/luggage-delivery-and-baggage-transport.php` (`ldbt-`, 1,787 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/pet-relocation-services-india.php` (`prsi-`, 1,776 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/indoor-plant-relocation-services.php` (`iprs-`, 1,683 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/data-center-server-and-office-relocation.php` (`dcso-`, 1,653 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/household-goods-storage-and-warehousing.php` (`hgsw-`, 1,796 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/fragile-antique-and-piano-moving-service.php` (`faps-`, 1,698 words, 4 schemas, 4 images, [PASS])
+  - [x] `pages/interstate-bike-parcel-and-courier-service.php` (`ibpc-`, 1,720 words, 4 schemas, 4 images, [PASS])
+- **Completed Handcrafted Corridors Batch 3 (50/50 - 100% PASS)**:
+  - [x] Gurgaon-Bangalore (`ggb-`, 1,723 words) & Bangalore-Gurgaon (`bggu-`, 1,698 words)
+  - [x] Pune-Gurgaon (`pngg-`, 1,702 words) & Gurgaon-Pune (`ggp-`, 1,688 words)
+  - [x] Mumbai-Gurgaon (`mbgg-`, 1,691 words) & Gurgaon-Mumbai (`ggmb-`, 1,684 words)
+  - [x] Kolkata-Gurgaon (`klgg-`, 1,738 words) & Gurgaon-Kolkata (`ggk-`, 1,706 words)
+  - [x] Chennai-Gurgaon (`cngg-`, 1,651 words) & Gurgaon-Chennai (`ggc-`, 1,617 words)
+  - [x] Noida-Bangalore (`ndbg-`, 1,643 words) & Bangalore-Noida (`bgnd-`, 1,639 words)
+  - [x] Ahmedabad-Pune (`ahpn-`, 1,623 words) & Pune-Ahmedabad (`pnah-`, 1,607 words)
+  - [x] Ahmedabad-Hyderabad (`ahhy-`, 1,612 words) & Hyderabad-Ahmedabad (`hyah-`, 1,605 words)
+  - [x] Mumbai-Nagpur (`mbng-`, 1,621 words) & Nagpur-Mumbai (`ngmb-`, 1,635 words)
+  - [x] Indore-Bhopal (`idbp-`, 1,667 words) & Bhopal-Indore (`bpid-`, 1,681 words)
+  - [x] Jaipur-Bangalore (`jpbg-`, 1,619 words) & Bangalore-Jaipur (`bgjp-`, 1,618 words)
+  - [x] Delhi-Bhopal (`dlbp-`, 1,641 words) & Bhopal-Delhi (`bpdl-`, 1,636 words)
+  - [x] Delhi-Dehradun (`dldh-`, 1,652 words) & Dehradun-Delhi (`dhdl-`, 1,648 words)
+  - [x] Chennai-Bhubaneswar (`cnbb-`, 1,636 words) & Bhubaneswar-Chennai (`bbcn-`, 1,642 words)
+  - [x] Chennai-Tiruchirappalli (`cntr-`, 1,687 words) & Tiruchirappalli-Chennai (`trcn-`, 1,674 words)
+  - [x] Chennai-Tirunelveli (`cntv-`, 1,653 words) & Tirunelveli-Chennai (`tvcn-`, 1,612 words)
+  - [x] Chennai-Vijayawada (`cnvj-`, 1,610 words) & Vijayawada-Chennai (`vjcn-`, 1,609 words)
+  - [x] Mumbai-Coimbatore (`mbcb-`, 1,663 words) & Coimbatore-Mumbai (`cbmb-`, 1,623 words)
+  - [x] Mumbai-Goa (`mbga-`, 1,627 words) & Goa-Mumbai (`gamb-`, 1,602 words)
+  - [x] Pune-Goa (`pnga-`, 1,664 words) & Goa-Pune (`gapn-`, 1,601 words)
+  - [x] Bangalore-Mysore (`bgmy-`, 1,639 words) & Mysore-Bangalore (`mybg-`, 1,630 words)
+  - [x] Bangalore-Mangalore (`bgmg-`, 1,635 words) & Mangalore-Bangalore (`mgbg-`, 1,625 words)
+  - [x] Hyderabad-Kurnool (`hdkn-`, 1,620 words) & Kurnool-Hyderabad (`knhd-`, 1,634 words)
+  - [x] Hyderabad-Kakinada (`hdkk-`, 1,638 words) & Kakinada-Hyderabad (`kkhd-`, 1,620 words)
+  - [x] Hyderabad-Rajahmundry (`hdrj-`, 1,612 words) & Rajahmundry-Hyderabad (`rjhd-`, 1,619 words)
+  - [x] Hyderabad-Visakhapatnam (`hdv-`, 1,811 words) & Visakhapatnam-Hyderabad (`vzh-`, 1,806 words)
+  - [x] Hyderabad-Vijayawada (`hdvj-`, 1,827 words) & Vijayawada-Hyderabad (`vjhd-`, 1,764 words)
+  - [x] Chennai-Pune (`cnp-`, 1,840 words) & Pune-Chennai (`pnc-`, 1,700 words)
+  - [x] Kolkata-Hyderabad (`klhd-`, 1,672 words) & Hyderabad-Kolkata (`hdk-`, 1,610 words)
+  - [x] Bangalore-Ahmedabad (`bga-`, 1,701 words) & Ahmedabad-Bangalore (`abg-`, 1,687 words)
+  - [x] Delhi-Ahmedabad (`dla-`, 1,688 words) & Ahmedabad-Delhi (`ahdl-`, 1,684 words)
+  - [x] Bangalore-Patna (`bglp-`, 1,709 words) & Patna-Bangalore (`ptbg-`, 1,699 words)
+  - [x] Delhi-Patna (`dlpt-`, 1,683 words) & Patna-Delhi (`ptdl-`, 1,692 words)
+  - [x] Chandigarh-Bangalore (`chbg-`, 1,738 words) & Bangalore-Chandigarh (`bgch-`, 1,721 words)
+  - [x] Mumbai-Indore (`mbi-`, 1,690 words) & Indore-Mumbai (`idm-`, 1,683 words)
+  - [x] Pune-Nagpur (`pngp-`, 1,625 words) & Nagpur-Pune (`ngpn-`, 1,633 words)
+  - [x] Bangalore-Visakhapatnam (`bgvz-`, 1,653 words) & Visakhapatnam-Bangalore (`vzbg-`, 1,664 words)
+  - [x] Delhi-Chennai (`dlc-`, 1,631 words) & Chennai-Delhi (`cnd-`, 1,622 words)
+  - [x] Pune-Indore (`pni-`, 1,614 words) & Indore-Pune (`idp-`, 1,666 words)
+  - [x] Bhopal-Bangalore (`bpb-`, 1,684 words) & Bangalore-Bhopal (`bgbp-`, 1,686 words)
+  - [x] Delhi-Raipur (`dlrp-`, 1,716 words) & Raipur-Delhi (`rpdl-`, 1,720 words)
+  - [x] Hyderabad-Indore (`hdi-`, 1,669 words) & Indore-Hyderabad (`idh-`, 1,664 words)
+  - [x] Chennai-Madurai (`cnmd-`, 1,642 words) & Madurai-Chennai (`mdc-`, 1,639 words)
+  - [x] Bangalore-Hubli (`bghb-`, 1,632 words) & Hubli-Bangalore (`hbbg-`, 1,629 words)
+  - [x] Vijayawada-Bangalore (`vjbg-`, 1,654 words) & Bangalore-Vijayawada (`bgvj-`, 1,657 words)
+  - [x] Chennai-Nagercoil (`cnn-`, 1,657 words) & Nagercoil-Chennai (`ngc-`, 1,659 words)
+  - [x] Tirupur-Chennai (`tpc-`, 1,674 words) & Chennai-Tirupur (`cnt-`, 1,673 words)
+  - [x] Chennai-Thanjavur (`cntj-`, 1,669 words) & Thanjavur-Chennai (`tjc-`, 1,670 words)
+  - [x] Hyderabad-Guntur (`hdg-`, 1,639 words) & Guntur-Hyderabad (`gth-`, 1,648 words)
+  - [x] Delhi-Kanpur (`dlk-`, 1,646 words) & Kanpur-Delhi (`kpd-`, 1,681 words)
+- **Completed Handcrafted Corridors Batch 1 (50/50 - 100% PASS)**:
+  - [x] Pages 1–10: Bangalore-Delhi, Delhi-Bangalore, Bangalore-Hyderabad, Hyderabad-Bangalore, Bangalore-Kolkata, Kolkata-Bangalore, Kolkata-Pune, Pune-Kolkata, Mumbai-Bangalore, Bangalore-Mumbai
+  - [x] Pages 11–20: Hyderabad-Patna, Patna-Hyderabad, Pune-Mumbai, Mumbai-Pune, Chennai-Bangalore, Bangalore-Chennai, Chennai-Hyderabad, Hyderabad-Chennai, Bangalore-Pune, Pune-Bangalore
+  - [x] Pages 21–30: Mumbai-Delhi, Delhi-Mumbai, Delhi-Pune, Pune-Delhi, Delhi-Hyderabad, Hyderabad-Delhi, Mumbai-Hyderabad, Hyderabad-Mumbai, Delhi-Jaipur, Jaipur-Delhi
+  - [x] Pages 31–40: Chennai-Coimbatore, Coimbatore-Chennai, Mumbai-Ahmedabad, Ahmedabad-Mumbai, Kolkata-Delhi, Delhi-Kolkata, Chennai-Kolkata, Kolkata-Chennai, Pune-Hyderabad, Hyderabad-Pune
+  - [x] Pages 41–44: Delhi-Lucknow, Lucknow-Delhi, Delhi-Chandigarh, Chandigarh-Delhi
+  - [x] Pages 45–50: Mumbai-Kolkata, Kolkata-Mumbai, Mumbai-Chennai, Chennai-Mumbai, Bangalore-Coimbatore, Coimbatore-Bangalore
 - **Execution Standards Achieved**:
   - Full classification of all 423 keywords: 201 covered by live district/calculator pages, 200 integrated into in-content silos & metadata, 22 high-intent candidates analyzed resulting in 14 handcrafted standalone pages + 2 SEO alias 301 redirects + 6 already live regional corridors.
   - 100% Handcrafted without any generator scripts or scraping bots
@@ -721,11 +812,41 @@
 ---
 
 ## 7. Next Action
-- **50-Page Non-Stop Handcrafted Run Completed (Milestone 91)**: Successfully delivered exactly 50 handcrafted hub pages in one uninterrupted run (Punjab Remaining 14 hubs &mdash; Punjab 27/27 100% Complete; Chandigarh Remaining 2 localities &mdash; Chandigarh 6/6 100% Complete; Uttarakhand 7 cities + 10 localities &mdash; Uttarakhand 17/17 100% Complete; Himachal Pradesh 5 cities + 5 localities &mdash; Himachal Pradesh 10/10 100% Complete; Jammu & Kashmir 4 cities + 3 localities &mdash; J&K 7/9 Complete).
-- **Quality & SEO Verification**: 100% of 50 pages verified with word counts from 1,600 to 1,806 words, exactly 4 physical images inside dimension-constrained cards, 4 Google-compliant schemas, 100% CSS class prefix parity, 0 PHP lint errors, and 100% HTTP 200 OK on local web server.
-- **Sitemap Total**: All 50 canonical URLs synchronized into `sitemap.xml` (now total 1,531 valid URLs, validated with zero XML errors).
-- **Master Progress**: 582 / 777 Pan-India hubs completed (74.90% nationwide coverage).
-- **Next Target**: Complete the remaining 2 J&K localities to finalize 100% of the entire North Region (Punjab, Chandigarh, Haryana, Uttarakhand, HP, and J&K), followed by subsequent state rollouts. Ready for user command.
+- **Phase 1 Complete (150 Handcrafted Pan-India Intercity Corridors Published)**: All 3 batches of 50 corridors each (Batches 1, 2, and 3 = 75 reciprocal pairs = 150 pages) are 100% completed, verified with $\ge 1,600$ words, 4 schemas, 4 images, 0 PHP errors, 100% HTTP 200 OK, and published in `sitemap.xml` (1,892 total valid URLs).
+- **Phase 2 Complete (8 Specialized Moving Services Silo Pages Published)**:
+  - [x] Page 1: `pages/single-item-furniture-shifting-service.php` (`sifs-`, 1,851 words, [PASS])
+  - [x] Page 2: `pages/luggage-delivery-and-baggage-transport.php` (`ldbt-`, 1,787 words, [PASS])
+  - [x] Page 3: `pages/pet-relocation-services-india.php` (`prsi-`, 1,776 words, [PASS])
+  - [x] Page 4: `pages/indoor-plant-relocation-services.php` (`iprs-`, 1,683 words, [PASS])
+  - [x] Page 5: `pages/data-center-server-and-office-relocation.php` (`dcso-`, 1,653 words, [PASS])
+  - [x] Page 6: `pages/household-goods-storage-and-warehousing.php` (`hgsw-`, 1,796 words, [PASS])
+  - [x] Page 7: `pages/fragile-antique-and-piano-moving-service.php` (`faps-`, 1,698 words, [PASS])
+  - [x] Page 8: `pages/interstate-bike-parcel-and-courier-service.php` (`ibpc-`, 1,720 words, [PASS])
+  - All 8 URLs registered in `sitemap.xml` (total valid URLs = 1,900, 100% valid XML, 100% HTTP 200 OK).
+- **Active Task & Immediate Execution — Phase 3: High-Impact Regional & Hyper-Local Hubs (12 Pages)**:
+  - 1. `pages/packers-and-movers-in-goa.php`
+  - 2. `pages/packers-and-movers-in-noida-extension.php`
+  - 3. `pages/packers-and-movers-in-dwarka-delhi.php`
+  - 4. `pages/packers-and-movers-in-hinjewadi-pune.php`
+  - 5. `pages/packers-and-movers-in-whitefield-bangalore.php`
+  - 6. `pages/packers-and-movers-in-gachibowli-hyderabad.php`
+  - 7. `pages/packers-and-movers-in-omr-chennai.php`
+  - 8. `pages/packers-and-movers-in-new-town-kolkata.php`
+  - 9. `pages/packers-and-movers-in-kalyan-dombivli.php`
+  - 10. `pages/packers-and-movers-in-vasai-virar.php`
+  - 11. `pages/packers-and-movers-in-hubli-dharwad.php`
+  - 12. `pages/packers-and-movers-in-bhubaneswar-smart-city.php`
+- **Execution Standards**: Handcraft sequentially one by one adhering to:
+  - Word count $\ge 1,600$ words (target: 1,700–2,100).
+  - 4 Google JSON-LD schemas (`MovingCompany`, `BreadcrumbList`, `Service`, `FAQPage`).
+  - 4 verified physical images on disk in constrained containers (`max-width: 580px; margin: 24px auto; border-radius: 12px; overflow: hidden;`).
+  - 100% unique scoped CSS prefix parity (0 orphaned classes in markup).
+  - Content chunking compliance (max 2 consecutive `<p>` paragraphs).
+  - Mandatory `<meta name="keywords">` tag localized to the target hub.
+  - In-body internal links: parent authority link, charges calculator link, and connected cluster module.
+  - Pre-publish validation with `scratch/validate_page.py`, 100% HTTP 200 OK, 0 PHP errors.
+- **Subsequent Phase**:
+  - Phase 4: Tariff, GST, Billing & Claim Guides (5 Pages)
 
 ---
 
