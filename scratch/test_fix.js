@@ -1,0 +1,191 @@
+const http = require('http');
+const { spawn } = require('child_process');
+const fs = require('fs');
+
+const edgePath = 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe';
+
+const edge = spawn(edgePath, [
+  '--headless=new',
+  '--remote-debugging-port=9222',
+  '--disable-gpu',
+  '--no-first-run',
+  '--no-default-browser-check',
+  '--window-size=382,642',
+  'http://127.0.0.1:8000/kolkata-to-phusro-packers-and-movers'
+]);
+
+setTimeout(async () => {
+  try {
+    const listRes = await fetch('http://127.0.0.1:9222/json');
+    const pages = await listRes.json();
+    const page = pages.find(p => p.type === 'page' && p.url.includes('kolkata-to-phusro'));
+    const ws = new WebSocket(page.webSocketDebuggerUrl);
+
+    let id = 1;
+    function send(method, params = {}) {
+      return new Promise((resolve) => {
+        const msgId = id++;
+        const handler = (event) => {
+          const resp = JSON.parse(event.data);
+          if (resp.id === msgId) {
+            ws.removeEventListener('message', handler);
+            resolve(resp.result);
+          }
+        };
+        ws.addEventListener('message', handler);
+        ws.send(JSON.stringify({ id: msgId, method, params }));
+      });
+    }
+
+    ws.onopen = async () => {
+      await send('Emulation.setDeviceMetricsOverride', {
+        width: 382,
+        height: 642,
+        deviceScaleFactor: 2,
+        mobile: true
+      });
+
+      await new Promise(r => setTimeout(r, 800));
+
+      // Inject test CSS
+      const testCss = `
+        .route-hero {
+          overflow-x: hidden;
+          width: 100%;
+          max-width: 100vw;
+        }
+        .route-hero .container {
+          width: 100%;
+          max-width: 100%;
+          box-sizing: border-box;
+          grid-template-columns: minmax(0, 1fr) !important;
+          padding: 0 15px !important;
+        }
+        .hero-content {
+          min-width: 0 !important;
+          width: 100% !important;
+          max-width: 100% !important;
+          overflow-wrap: break-word !important;
+          word-break: normal !important;
+        }
+        .hero-content h1 {
+          font-size: 1.65rem !important;
+          line-height: 1.25 !important;
+          overflow-wrap: break-word !important;
+          word-break: normal !important;
+        }
+        .hero-lead {
+          font-size: 0.95rem !important;
+          line-height: 1.5 !important;
+          overflow-wrap: break-word !important;
+        }
+        .hero-badges {
+          display: flex !important;
+          flex-wrap: wrap !important;
+          gap: 8px !important;
+        }
+        .badge-item {
+          max-width: 100% !important;
+          font-size: 0.78rem !important;
+          padding: 5px 10px !important;
+          box-sizing: border-box !important;
+        }
+        .hero-cta-group {
+          flex-direction: column !important;
+          gap: 10px !important;
+        }
+        .hero-cta-group a {
+          width: 100% !important;
+          justify-content: center !important;
+          text-align: center !important;
+          box-sizing: border-box !important;
+        }
+        .hero-form-card {
+          min-width: 0 !important;
+          width: 100% !important;
+          max-width: 100% !important;
+          padding: 20px 15px !important;
+          box-sizing: border-box !important;
+        }
+        .hero-form-card .form-row {
+          flex-direction: column !important;
+          gap: 0 !important;
+        }
+        .hero-form-card .form-group {
+          width: 100% !important;
+          max-width: 100% !important;
+          box-sizing: border-box !important;
+        }
+        .hero-form-card input, .hero-form-card select {
+          width: 100% !important;
+          max-width: 100% !important;
+          box-sizing: border-box !important;
+        }
+        .pricing-table-container {
+          width: 100% !important;
+          max-width: 100% !important;
+          overflow-x: auto !important;
+          -webkit-overflow-scrolling: touch !important;
+        }
+      `;
+
+      await send('Runtime.evaluate', {
+        expression: `(() => {
+          const style = document.createElement('style');
+          style.id = 'fix-test-style';
+          style.textContent = \`${testCss}\`;
+          document.head.appendChild(style);
+        })()`
+      });
+
+      await new Promise(r => setTimeout(r, 800));
+
+      // Re-evaluate overflow
+      const evalRes = await send('Runtime.evaluate', {
+        expression: `(() => {
+          const w = window.innerWidth;
+          const sw = document.documentElement.scrollWidth;
+          const bw = document.body.scrollWidth;
+          const cw = document.documentElement.clientWidth;
+
+          const overflowing = [];
+          for (const el of document.querySelectorAll('*')) {
+            const r = el.getBoundingClientRect();
+            if (r.right > w + 2) {
+              overflowing.push({
+                tag: el.tagName,
+                class: el.className,
+                right: Math.round(r.right),
+                width: Math.round(r.width)
+              });
+            }
+          }
+
+          return {
+            innerWidth: w,
+            clientWidth: cw,
+            scrollWidthDoc: sw,
+            scrollWidthBody: bw,
+            overflowingCount: overflowing.length,
+            overflowing: overflowing
+          };
+        })()`,
+        returnByValue: true
+      });
+
+      console.log('AFTER FIX EVAL RESULT:');
+      console.log(JSON.stringify(evalRes.result.value, null, 2));
+
+      // Capture screenshot after fix
+      const shot = await send('Page.captureScreenshot', { format: 'png' });
+      fs.writeFileSync('scratch/after_fix_screenshot.png', Buffer.from(shot.data, 'base64'));
+      console.log('Saved scratch/after_fix_screenshot.png');
+
+      ws.close();
+      edge.kill();
+    };
+  } catch (e) {
+    console.error('Error:', e);
+    edge.kill();
+  }
+}, 2000);

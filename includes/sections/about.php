@@ -26,7 +26,7 @@
       <div class="about-content">
         <div class="section-tag">About Shree Ashirwad Packers</div>
         <h2 class="section-title">
-          Jharkhand's Leading & Most Trusted <span class="gradient-text">Relocation Company</span> Since 2009
+          Top-Rated <span class="gradient-text">Packers and Movers Ranchi</span>: Trusted Relocation Since 2009
         </h2>
         
         <p class="about-lead">

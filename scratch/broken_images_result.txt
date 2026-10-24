@@ -1,0 +1,7 @@
+Total pages scanned: 819
+Total pages with broken images: 0
+Total distinct missing images: 0
+
+--- Missing image names & occurrence counts ---
+
+--- All affected pages ---

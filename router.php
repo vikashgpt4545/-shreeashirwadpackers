@@ -206,7 +206,7 @@ $routes_registry = [
     // 1. Homepage
     '/' => [
         'type' => 'homepage',
-        'title' => 'Packers and Movers in Ranchi, Jharkhand: +91 9835565233 | Shree Ashirwad Packers',
+        'title' => 'Packers and Movers Ranchi - 9835565233',
         'canonical' => PRODUCTION_CANONICAL_DOMAIN . '/'
     ],
 

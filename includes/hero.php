@@ -21,7 +21,7 @@ $csrf_token = generate_csrf_token();
         <!-- Main Conversion Heading -->
         <h1 class="hero-title">
           Safe, Fast & Reliable<br>
-          <span class="hero-gradient-text">Packers & Movers</span> in Ranchi
+          <span class="hero-gradient-text">Packers and Movers Ranchi</span>
         </h1>
 
         <!-- Subtitle with Natural Verbatim Keywords -->

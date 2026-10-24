@@ -1,0 +1,80 @@
+Total Keywords: 9024
+Corridors: 709
+Services: 1523
+Pricing/Calculator: 611
+Uncovered Cities: 1112
+General: 5069
+
+=== TOP UNBUILT CORRIDORS ===
+  gurgaon to bangalore: 16 queries
+  noida to greater noida: 16 queries
+  vizag to hyderabad: 13 queries
+  pune to gurgaon: 12 queries
+  gurgaon to delhi: 11 queries
+  noida to delhi: 10 queries
+  mumbai to gurgaon: 9 queries
+  noida to gurgaon: 9 queries
+  kerala to bangalore: 7 queries
+  chennai to bhubaneswar: 7 queries
+  kolkata to gurgaon: 7 queries
+  mumbai to nagpur: 7 queries
+  hyderabad to kurnool: 6 queries
+  indore to bhopal: 6 queries
+  noida to bangalore: 6 queries
+  guntur to bangalore: 6 queries
+  hyderabad to kakinada: 6 queries
+  vizag to bangalore: 5 queries
+  delhi to bhopal: 5 queries
+  tirunelveli to chennai: 5 queries
+  dehradun to delhi: 5 queries
+  kerala to chennai: 5 queries
+  delhi to faridabad: 5 queries
+  chennai to gurgaon: 5 queries
+  chandigarh to gurgaon: 5 queries
+  visakhapatnam to patna: 5 queries
+  indore to bangalore: 5 queries
+  rajahmundry to hyderabad: 5 queries
+  jaipur to bangalore: 5 queries
+  kerala to delhi: 5 queries
+  nagpur to bangalore: 5 queries
+  visakhapatnam to chennai: 5 queries
+  ahmedabad to hyderabad: 4 queries
+  ahmedabad to pune: 4 queries
+  ahmedabad to vadodara: 4 queries
+  bangalore to thanjavur: 4 queries
+  chennai to bengaluru: 4 queries
+  chennai to trichy: 4 queries
+  chennai to vijayawada: 4 queries
+  mumbai to coimbatore: 4 queries
+
+=== TOP UNCOVERED CITY HUBS ===
+  bangalore: 194 queries
+  hyderabad: 117 queries
+  delhi: 104 queries
+  chennai: 92 queries
+  pune: 62 queries
+  chandigarh: 46 queries
+  patna: 38 queries
+  jaipur: 33 queries
+  gurgaon: 29 queries
+  mumbai: 28 queries
+  vijayawada: 28 queries
+  ahmedabad: 27 queries
+  noida: 25 queries
+  faridabad: 23 queries
+  coimbatore: 23 queries
+  hubli: 21 queries
+  kolkata: 21 queries
+  bengaluru: 21 queries
+  vadodara: 18 queries
+  ghaziabad: 15 queries
+  bhopal: 15 queries
+  nagpur: 14 queries
+  gurugram: 13 queries
+  indore: 13 queries
+  lucknow: 13 queries
+  raipur: 12 queries
+  vizag: 10 queries
+  surat: 10 queries
+  kerala: 6 queries
+  goa: 6 queries
