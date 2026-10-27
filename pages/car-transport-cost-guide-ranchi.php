@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Driving your family car across 1,000 to 2,000 kilometers of national highways during an outstation relocation is physically exhausting, exposes the vehicle to wear-and-tear, stone chips, and road hazards, and accumulates substantial fuel, toll, and hotel expenses. Professional hydraulic car carrier transport eliminates these liabilities by carrying your vehicle safely elevated above road level.</p>
                         <p>Car shipping tariffs originating from Ranchi are determined by four core parameters: <strong>Distance and Route Density</strong> (high-density freight corridors like Ranchi to Delhi or Kolkata have lower rates than remote states), <strong>Vehicle Category</strong> (Hatchback vs Sedan vs Compact SUV vs Full-Size 7-Seater), <strong>Carrier Type</strong> (Open Multi-Car Trailer vs Covered Dedicated Container), and <strong>Door-to-Door vs Terminal-to-Terminal Service</strong>.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our vehicle carrier operations operate directly out of our automated logistics hub near Namkum, connecting Jharkhand to all 28 Indian states with GPS telematics tracking and all-risk insurance coverage.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our vehicle carrier operations operate directly out of our automated logistics hub near Namkum, connecting Jharkhand to all 28 Indian states with GPS telematics tracking and all-risk insurance coverage.</p>
                         <div class="ctcg-highlight">
                             <h4>Calculate Combined Household + Vehicle Move</h4>
                             <p>Bundling your personal car or two-wheeler with your household furniture consignment saves up to 25% on combined logistics freight. Calculate your composite estimate on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -442,7 +442,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Vehicle Transport Guides, Relocation Tariffs & Destinations</h3>
                 <p>Discover complete vehicle logistics solutions and route manuals across Jharkhand:</p>
                 <div class="ctcg-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi">How Much Packers Charge</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/moving-on-budget-save-packers-ranchi">Moving on a Budget</a>

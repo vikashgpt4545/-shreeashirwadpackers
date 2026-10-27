@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="slg-section-title">Professional Packing and Moving Services in Siliguri</h2>
                 <p class="slg-lead-p">Siliguri occupies a position of supreme geographical and economic significance in Eastern India. Situated at the base of the Eastern Himalayas in the plains of the Darjeeling and Jalpaiguri districts, Siliguri represents the vital "Chicken's Neck" transport artery that links mainland India with the eight northeastern states, Sikkim, Nepal, and Bhutan. As North Bengal's foremost commercial capital, education nexus, medical hub, and logistics gateway, Siliguri demands moving services characterized by heavy logistical capability, speed, and rock-solid reliability.</p>
                 
-                <p class="slg-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized transport experience to Siliguri. Whether you are transferring your family from a duplex in Matigara to a high-rise near Sevoke Road, moving an office near Bidhan Market, or dispatching household effects to southern or western India, our experienced moving crews deliver exceptional service. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> and major state hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door logistics across national highways.</p>
+                <p class="slg-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized transport experience to Siliguri. Whether you are transferring your family from a duplex in Matigara to a high-rise near Sevoke Road, moving an office near Bidhan Market, or dispatching household effects to southern or western India, our experienced moving crews deliver exceptional service. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and major state hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door logistics across national highways.</p>
 
                 <div class="slg-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Siliguri">
@@ -733,7 +733,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah" class="slg-cluster-link">Howrah City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="slg-cluster-link">Durgapur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="slg-cluster-link">Asansol Rail Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="slg-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="slg-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

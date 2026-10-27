@@ -1533,7 +1533,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
           Explore our specialized intercity moving routes across Jharkhand and comprehensive relocation services in Ranchi:
         </p>
         <div class="directory-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pakur" title="Packers and Movers in Pakur" class="dir-link dir-link-primary">Packers and Movers in Pakur</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-koderma-to-ranchi" title="Packers and Movers Koderma to Ranchi" class="dir-link">Koderma to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/lohardaga-to-ranchi-packers-and-movers" title="Lohardaga to Ranchi Movers" class="dir-link">Lohardaga to Ranchi Movers</a>

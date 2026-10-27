@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>When families in Ranchi receive moving quotations, they frequently assume the final price is an arbitrary number invented by the transporter. In reality, every moving quote is governed by three mathematical variables: <strong>Consignment Volume (Cubic Feet)</strong>, <strong>Material & Crew Labor Hours</strong>, and <strong>Logistics Fuel & Vehicle Sizing</strong>.</p>
                         <p>Most homeowners pay significantly more than necessary simply because they transport items they haven't touched in years, book on the most expensive days of the month, or fail to optimize how their furniture is packed. By understanding how these cost levers function, you can systematically reduce each line item before moving day arrives.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our customer-first philosophy focuses on helping families choose the most cost-effective service tier for their exact budget, providing total transparency without sneaky add-ons.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our customer-first philosophy focuses on helping families choose the most cost-effective service tier for their exact budget, providing total transparency without sneaky add-ons.</p>
                         <div class="mobs-highlight">
                             <h4>Benchmark Your Budget Live</h4>
                             <p>Calculate your estimated shifting cost in 30 seconds using our transparent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a> to see how reducing carton volume immediately lowers your final price.</p>
@@ -436,7 +436,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Cost Calculators, Packing Tutorials & Ranchi Localities</h3>
                 <p>Maximize your relocation savings with comprehensive price comparisons and practical guides:</p>
                 <div class="mobs-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi">How Much Movers Charge</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/transfer-allowance-reimbursement-guide">Transfer Allowance Guide</a>
@@ -445,9 +445,9 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-pack-fragile-items">How to Pack Fragile Items</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/loading-unloading-labour-guide">Loading Labour Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur">Packers and Movers Lalpur</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur-ranchi">Packers and Movers Lalpur</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
                 </div>
             </section>
         </div>

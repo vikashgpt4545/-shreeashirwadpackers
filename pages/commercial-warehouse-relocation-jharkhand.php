@@ -487,7 +487,7 @@ $canonical_url = "https://shreeashirwadpackers.com/commercial-warehouse-relocati
                 <p><strong>Phase 4 - Decommissioning & Handover:</strong> Dismantling of final origin racks, floor patching, and broom-clean site handover.</p>
                 <div class="cwr-highlight-box">
                     <h4>Pillar Authority Hub</h4>
-                    <p>Learn about our city-wide infrastructure on our central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar page.</p>
+                    <p>Learn about our city-wide infrastructure on our central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar page.</p>
                 </div>
             </div>
             <div>

@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="msh-image-caption">Professional loading crews securing packed household consignments inside our weatherproof container trucks in Manish Nagar.</p>
         </div>
 
-        <p>Operating in direct synergy with our regional master hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nagpur">Packers and Movers in Nagpur</a>, our interstate corridor at <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-nagpur-packers-and-movers">Ranchi to Nagpur Packers and Movers</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to Dharampeth or Wardha Road, heading via Samruddhi Mahamarg to Mumbai or Pune, or executing an interstate transfer across India.</p>
+        <p>Operating in direct synergy with our regional master hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nagpur">Packers and Movers in Nagpur</a>, our interstate corridor at <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-nagpur-packers-and-movers">Ranchi to Nagpur Packers and Movers</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to Dharampeth or Wardha Road, heading via Samruddhi Mahamarg to Mumbai or Pune, or executing an interstate transfer across India.</p>
 
         <p>Our operations team closely monitors road conditions along Manish Nagar ROB and the Outer Ring Road to schedule dispatches during calm traffic intervals, ensuring prompt and safe relocations throughout Manish Nagar, Besa, and Beltarodi.</p>
     </section>
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers Movers Thane</a>
             </div>
             <div class="msh-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

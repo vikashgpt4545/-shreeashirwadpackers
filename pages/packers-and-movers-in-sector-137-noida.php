@@ -728,7 +728,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <h3 class="s137-sub-heading">Rapid Corridors to Eastern India & Ranchi Headquarters</h3>
-        <p class="s137-intro-p">For corporate executives and families relocating from Noida Sector 137 to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #047857; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or major eastern destinations including Patna, Jamshedpur, Bokaro, and Kolkata, our vehicles access the Yamuna Expressway and Agra-Lucknow Expressway within minutes, entirely bypassing inner-city Delhi congestion.</p>
+        <p class="s137-intro-p">For corporate executives and families relocating from Noida Sector 137 to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #047857; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or major eastern destinations including Patna, Jamshedpur, Bokaro, and Kolkata, our vehicles access the Yamuna Expressway and Agra-Lucknow Expressway within minutes, entirely bypassing inner-city Delhi congestion.</p>
         <p class="s137-intro-p">Every inter-state transit container is outfitted with real-time GPS telematics, dual driver teams for non-stop transit, and waterproof container doors that protect your valuable household goods against road dust, moisture, and highway vibrations.</p>
 
         <div class="s137-image-container">
@@ -781,7 +781,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida-extension" class="s137-cluster-link">Noida Extension Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-greater-noida" class="s137-cluster-link">Greater Noida Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="s137-cluster-link">Delhi NCT Metro Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="s137-cluster-link">Ranchi Corporate HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="s137-cluster-link">Ranchi Corporate HQ</a>
         </div>
     </section>
 

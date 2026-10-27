@@ -371,7 +371,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-etawah'
             <p class="etw-image-caption">Meticulous truck loading and systematic inventory verification by Shree Ashirwad Packers and Movers in Etawah.</p>
         </div>
 
-        <p>Our dedicated moving technicians in Etawah are trained to manage every stage of your transfer with precision and accountability. From dismantling large modular furniture and padding delicate porcelain crockery to navigating multi-story residential stairwells and gated housing societies, we ensure your belongings remain completely secure. For corporate headquarters relocation and inter-state logistics support, visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">company HQ hub page</a>.</p>
+        <p>Our dedicated moving technicians in Etawah are trained to manage every stage of your transfer with precision and accountability. From dismantling large modular furniture and padding delicate porcelain crockery to navigating multi-story residential stairwells and gated housing societies, we ensure your belongings remain completely secure. For corporate headquarters relocation and inter-state logistics support, visit our <a href="<?php echo SITE_BASE_URL; ?>/">company HQ hub page</a>.</p>
     </section>
 
     <!-- Section 2: Comprehensive Moving Capabilities -->

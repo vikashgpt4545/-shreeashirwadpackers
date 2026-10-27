@@ -502,7 +502,7 @@
                         <li>Authorized reimbursement bills for SAIL DSP & ASP staff</li>
                         <li>Direct 6-lane Durgapur Expressway (NH 19) transit hub</li>
                         <li>High-rise apartment elevator moving expertise in City Centre</li>
-                        <li>Direct links to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#90e0ef; font-weight:700;">Company HQ Ranchi</a> & Kolkata</li>
+                        <li>Direct links to <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#90e0ef; font-weight:700;">Company HQ Ranchi</a> & Kolkata</li>
                         <li>Dedicated fleet of closed-body containerized moving trucks</li>
                     </ul>
                 </div>
@@ -836,7 +836,7 @@
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="dgp-cluster-link">Kolkata Regional Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="dgp-cluster-link">Kolkata to Ranchi Corridor</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="dgp-cluster-link">Ranchi to Kolkata Corridor</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dgp-cluster-link">Company HQ Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="dgp-cluster-link">Company HQ Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dgp-cluster-link">Live Tariff Calculator</a>
             <span class="dgp-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">City Centre Durgapur (Upcoming)</span>
             <span class="dgp-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Benachity Durgapur (Upcoming)</span>

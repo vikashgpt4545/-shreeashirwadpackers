@@ -509,7 +509,7 @@
     <div class="tsr-grid-2">
       <div>
         <p>Thrissur represents an extraordinary confluence of traditional Kerala culture, monumental temple festivals like the world-renowned Thrissur Pooram, and commercial muscle. As the headquarters for premier private banking giants such as South Indian Bank, Catholic Syrian Bank (CSB), and Dhanlaxmi Bank, alongside major gold jewellery manufacturers and Ayurvedic pharmaceutical corporations, moving in Thrissur requires a rare combination of security, delicacy, and punctuality.</p>
-        <p>Under our pan-India logistics network governed by company headquarters standards at our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a> corporate hub, Shree Ashirwad Packers and Movers delivers high-grade logistics execution across Thrissur district.</p>
+        <p>Under our pan-India logistics network governed by company headquarters standards at our <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a> corporate hub, Shree Ashirwad Packers and Movers delivers high-grade logistics execution across Thrissur district.</p>
         <p>Whether you are shifting an ancestral tharavadu filled with carved teakwood heirlooms, moving into an upscale high-rise apartment in Ayyanthole, or transferring sensitive banking archives, our background-screened professionals handle every detail with total integrity.</p>
       </div>
       <div>

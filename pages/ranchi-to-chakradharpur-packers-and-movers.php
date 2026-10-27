@@ -144,7 +144,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Packers and Movers Ranchi",
-                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-ranchi"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
@@ -1130,7 +1130,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             </div>
 
             <div class="cluster-hub-grid">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-ranchi" class="cluster-hub-link">
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-hub-link">
                     <span>Ranchi Head Office Hub</span>
                     <span>→</span>
                 </a>

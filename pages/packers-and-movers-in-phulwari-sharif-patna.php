@@ -609,7 +609,7 @@
                     Relocating medical practitioners and academic faculty requires high attention to detail. We ensure specialized protective packaging for extensive medical textbook libraries, high-value research workstations, diagnostic instruments, and sensitive household electronics. We schedule moving timeframes flexibly around intense hospital shifts and rotational rosters, ensuring zero disruption to healthcare professionals' clinical commitments.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally across Phulwari Sharif or coordinating an intercity transfer, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0d2850; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> network and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d2850; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally across Phulwari Sharif or coordinating an intercity transfer, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0d2850; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> network and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d2850; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>

@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Student & Faculty Moving Packages:</strong> Affordable, secure hostel baggage transfer, book box packing, and campus relocations for KLE Tech students and teaching staff.</li>
                 <li><strong>Fine Furniture & Modern Gated Community Care:</strong> Multi-layer protective wrapping for modular wardrobes, glass dining tables, and plush sofas in luxury apartment towers.</li>
                 <li><strong>Swift BRTS & Highway Feeder Logistics:</strong> Direct dispatch connecting Vidyanagar to NH 48, facilitating same-day moves across North Karnataka and Bangalore.</li>
-                <li><strong>Corporate Assurance & Pan-India Reach:</strong> Supported by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Packers and Movers in Hubli</a> and headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Corporate Assurance & Pan-India Reach:</strong> Supported by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Packers and Movers in Hubli</a> and headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

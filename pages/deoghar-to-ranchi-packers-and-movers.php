@@ -1107,7 +1107,7 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
         </h3>
         <div style="display:flex; flex-wrap:wrap; gap:10px;">
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-deoghar" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Packers and Movers in Deoghar</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Packers and Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Packers and Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/chaibasa-to-ranchi-packers-and-movers" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Chaibasa to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/daltonganj-to-ranchi-packers-and-movers" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Daltonganj to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Packers and Movers in Dhanbad</a>

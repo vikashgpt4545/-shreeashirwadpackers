@@ -533,7 +533,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <p class="ctk-body-p">Cuttack’s topography is uniquely framed by river dykes and stone revetments that have protected the settlement since the Somavamshi and Eastern Ganga dynasties. This peninsular geography means that road connectivity funnels through specific key arteries, such as the Kathajodi Ring Road, Netaji Subhash Chandra Bose Setu connecting to Trisulia, and the bustling National Highway 16. Our logistical dispatch coordinators track real-time traffic pulses to avoid bottleneck congestion during peak morning court hours and evening market rushes.</p>
 
-                <p class="ctk-body-p">As part of our regional Eastern India transportation network connecting seamlessly to our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #0f3460; font-weight: 600;">Bhubaneswar Authority Hub</a> and corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0f3460; font-weight: 600;">Ranchi</a>, we ensure punctuality, zero breakage, and transparent quotes without surprise surcharges.</p>
+                <p class="ctk-body-p">As part of our regional Eastern India transportation network connecting seamlessly to our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #0f3460; font-weight: 600;">Bhubaneswar Authority Hub</a> and corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f3460; font-weight: 600;">Ranchi</a>, we ensure punctuality, zero breakage, and transparent quotes without surprise surcharges.</p>
             </section>
 
             <!-- Section 2: Specialized Local Moving Capabilities -->
@@ -766,7 +766,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhubaneswar-packers-and-movers" class="ctk-cluster-link">Ranchi to Bhubaneswar Route</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="ctk-cluster-link">Kolkata Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur" class="ctk-cluster-link">Kharagpur Engineering Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ctk-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="ctk-cluster-link">Ranchi Corporate HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ctk-cluster-link">Live Rate Calculator</a>
                 </div>
             </div>

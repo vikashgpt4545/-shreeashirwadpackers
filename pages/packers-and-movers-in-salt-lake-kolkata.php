@@ -616,7 +616,7 @@
                     Executing moves in Salt Lake requires disciplined operational planning. The township's planned grid system allows convenient container placement along primary sector roads; however, residential block service lanes require synchronized loading so as not to impede neighborhood traffic. Our teams schedule moves during approved hours, ensuring that packing, loading, and departures occur smoothly and respectfully.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally across Salt Lake's sectors or shifting to neighboring hubs, our operations connect directly with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Kolkata</a>, our dedicated corridor at <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Kolkata to Ranchi Packers and Movers</a>, and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally across Salt Lake's sectors or shifting to neighboring hubs, our operations connect directly with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Kolkata</a>, our dedicated corridor at <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Kolkata to Ranchi Packers and Movers</a>, and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -953,7 +953,7 @@
             <div style="text-align: center;">
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="slk-cluster-link">Packers and Movers in Kolkata (Parent Hub)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="slk-cluster-link">Kolkata to Ranchi Route</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="slk-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="slk-cluster-link">Packers and Movers in Ranchi (HQ)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" class="slk-cluster-link">Packers and Movers in Patna</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" class="slk-cluster-link">Packers and Movers in Gaya</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" class="slk-cluster-link">Packers and Movers in Bhagalpur</a>

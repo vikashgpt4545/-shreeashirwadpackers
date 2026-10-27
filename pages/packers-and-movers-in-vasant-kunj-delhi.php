@@ -829,7 +829,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <strong>Noida City Hub</strong>
                 <span>Prime Tech & Corporate Metro Access</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="vsk-cluster-card">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="vsk-cluster-card">
                 <strong>Ranchi Headquarters</strong>
                 <span>Company Main Authority & Eastern Logistics Hub</span>
             </a>

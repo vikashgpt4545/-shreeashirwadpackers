@@ -647,7 +647,7 @@
 
     <h3>Direct Highway Links to Major Metropolitan Hubs</h3>
     <p>Auto Nagar provides instantaneous access to National Highway 16 (Chennai-Kolkata corridor) and National Highway 65 (Hyderabad corridor), making it Vijayawada's primary freight dispatch node.</p>
-    <p>Heading toward Central and Eastern India, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Heading toward Central and Eastern India, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>Whether relocating locally within Vijayawada or coordinating long-distance interstate movement to Hyderabad, Chennai, or Kolkata, our dedicated vehicle tracking gives you complete peace of mind throughout the journey.</p>
   </section>
 
@@ -675,7 +675,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting locally within Auto Nagar or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether you are shifting locally within Auto Nagar or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With thousands of successful domestic and corporate relocations executed across South, East, and Central India, our Auto Nagar Vijayawada branch brings proven enterprise-grade logistics directly to your doorstep with guaranteed delivery schedules.</p>
   </section>
 

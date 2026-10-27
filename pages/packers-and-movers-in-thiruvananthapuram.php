@@ -502,7 +502,7 @@
     <h3>Strategic Integration with Metropolitan Hubs & Statewide Corridors</h3>
     <p>Operating across prominent central enclaves including the aristocratic avenues of Kowdiar, administrative clusters around Pattom and Vellayambalam, academic belts near Government Medical College, and residential sectors in Sasthamangalam and Vazhuthacaud, our moving personnel ensure punctual and careful shifting operations. Our specialized packing teams are equipped to dismantle and crate heavy rosewood dining tables, brass traditional lamps, and delicate home temple shrines with traditional respect and engineering safety.</p>
     <p>As the southern anchor of Kerala's urban network alongside our commercial hub for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kochi" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Kochi</a>, our Thiruvananthapuram division coordinates tightly with the northern IT corridor of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kazhakoottam-thiruvananthapuram" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Kazhakoottam</a>, Kollam port district, Alappuzha, and Pathanamthitta.</p>
-    <p>For interstate relocations, our scheduled container fleet connects directly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Bangalore</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Chennai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-coimbatore" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Coimbatore</a>, and back to our central corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>For interstate relocations, our scheduled container fleet connects directly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Bangalore</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Chennai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-coimbatore" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Coimbatore</a>, and back to our central corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
   </section>
 
   <!-- Section 2: Comprehensive Shifting Services -->
@@ -653,7 +653,7 @@
 
     <h3>Seamless Statewide & Interstate Relocation Networks</h3>
     <p>From Thiruvananthapuram, our container vehicles connect quickly to the NH 66 corridor heading north toward Kollam, Alappuzha, Kochi, and Thrissur, or join the bypass heading south toward Nagercoil and Kanyakumari.</p>
-    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>With real-time GPS tracking enabled on all vehicles, you receive immediate milestone updates throughout your goods' journey.</p>
   </section>
 
@@ -681,7 +681,7 @@
       </div>
     </div>
 
-    <p>Whether relocating locally within Thiruvananthapuram or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether relocating locally within Thiruvananthapuram or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #6366f1; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With a 98.7% on-time delivery record and thousands of satisfied residential and corporate clients across South India, our Thiruvananthapuram team is ready to deliver an exceptional moving experience. From packing fine chinaware and delicate electronic appliances to moving heavy modular cots and fitness equipment, our specialized movers ensure a flawless moving journey.</p>
   </section>
 
@@ -728,7 +728,7 @@
         <a class="tvm-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore Metro Hub</a>
         <a class="tvm-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Chennai Metro Hub</a>
         <a class="tvm-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-coimbatore">Coimbatore Industrial Hub</a>
-        <a class="tvm-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Head Office Hub</a>
+        <a class="tvm-cluster-link" href="<?php echo SITE_BASE_URL; ?>/">Ranchi Head Office Hub</a>
       </div>
     </div>
   </section>

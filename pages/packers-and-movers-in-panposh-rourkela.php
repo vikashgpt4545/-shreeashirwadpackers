@@ -533,7 +533,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <p class="pnp-body-p">Panposh also holds a celebrated place in Indian sports heritage as the home of the Panposh Hockey Stadium and Sports Hostel, which has nurtured legendary international hockey players and Olympians. Our moving teams regularly handle relocations for sports coaches, athletes, administrative staff, and trading entrepreneurs moving residences between Panposh, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-civil-township-rourkela" style="color: #0f766e; font-weight: 600;">Civil Township</a>, and modern apartment belts in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chhend-rourkela" style="color: #0f766e; font-weight: 600;">Chhend Colony</a>.</p>
 
-                <p class="pnp-body-p">Whether you are shifting an apartment near Panposh Chowk, relocating a commercial shop near Vedvyas, or transporting family goods interstate toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #0f766e; font-weight: 600;">Bhubaneswar</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #0f766e; font-weight: 600;">Cuttack</a>, or our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0f766e; font-weight: 600;">Ranchi</a>, Shree Ashirwad Packers and Movers guarantees punctual arrival, certified multi-layer packing, and zero-breakage delivery.</p>
+                <p class="pnp-body-p">Whether you are shifting an apartment near Panposh Chowk, relocating a commercial shop near Vedvyas, or transporting family goods interstate toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #0f766e; font-weight: 600;">Bhubaneswar</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #0f766e; font-weight: 600;">Cuttack</a>, or our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f766e; font-weight: 600;">Ranchi</a>, Shree Ashirwad Packers and Movers guarantees punctual arrival, certified multi-layer packing, and zero-breakage delivery.</p>
             </section>
 
             <!-- Section 2: Local Capabilities & Highway Expertise -->
@@ -764,7 +764,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <div class="pnp-cluster-grid">
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" class="pnp-cluster-link">Rourkela Steel City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-civil-township-rourkela" class="pnp-cluster-link">Civil Township Executive Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="pnp-cluster-link">Ranchi Corporate HQ (165 km)</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="pnp-cluster-link">Ranchi Corporate HQ (165 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" class="pnp-cluster-link">Bhubaneswar Smart Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" class="pnp-cluster-link">Cuttack City Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pnp-cluster-link">Live Rate Calculator</a>

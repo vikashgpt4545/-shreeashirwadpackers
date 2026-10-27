@@ -700,7 +700,7 @@
 
     <div class="mct-faq-item">
       <div class="mct-faq-question">Can you assist with long-distance transfers for medical fellowships or new postings outside Kerala?</div>
-      <p>Yes. We frequently manage relocations for physicians joining AIIMS, PGIMER, CMC Vellore, or private hospital networks across Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, complete with door-to-door transit insurance and car transportation.</p>
+      <p>Yes. We frequently manage relocations for physicians joining AIIMS, PGIMER, CMC Vellore, or private hospital networks across Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, complete with door-to-door transit insurance and car transportation.</p>
     </div>
 
     <div class="mct-faq-item">

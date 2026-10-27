@@ -615,7 +615,7 @@
                     For modern gated apartment towers and multi-story duplexes near Rampur link road, our team collaborates with resident welfare associations (RWAs) in advance. We arrange dedicated service elevator bookings, pad elevator cabs with quilted protective blankets, and coordinate basement bay clearance to ensure seamless, quiet goods movement without interrupting neighbors.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally across AP Colony or transferring to other metropolitan hubs, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" style="color: #09203f; font-weight: 700; text-decoration: underline;">Packers and Movers in Gaya</a> network and our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #09203f; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally across AP Colony or transferring to other metropolitan hubs, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" style="color: #09203f; font-weight: 700; text-decoration: underline;">Packers and Movers in Gaya</a> network and our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #09203f; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>

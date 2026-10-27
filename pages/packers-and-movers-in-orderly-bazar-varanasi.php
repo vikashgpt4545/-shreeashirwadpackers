@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <p class="odb-image-caption">Shree Ashirwad crew carrying out careful white-glove packing and loading in Orderly Bazar Varanasi.</p>
         </div>
 
-        <p class="odb-intro-p">Whether you are a senior administrative officer moving official quarters, a judicial dignitary transitioning residences, or a family coordinating an inter-state transfer to Delhi NCR, Lucknow, Patna, or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our teams manage every step from beginning to end. We provide complete turnkey relocations including customized carpentry, protective packing, closed container transport, placement, and debris clearance.</p>
+        <p class="odb-intro-p">Whether you are a senior administrative officer moving official quarters, a judicial dignitary transitioning residences, or a family coordinating an inter-state transfer to Delhi NCR, Lucknow, Patna, or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our teams manage every step from beginning to end. We provide complete turnkey relocations including customized carpentry, protective packing, closed container transport, placement, and debris clearance.</p>
 
         <p class="odb-intro-p">Our commitment to transparency means you receive clear, all-inclusive quotations with zero surprise charges, official GST-compliant documentation for company and government reimbursements, and full transit risk protection for complete peace of mind throughout your relocation journey.</p>
     </section>
@@ -697,7 +697,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h2 class="odb-section-heading">Strategic Interstate Highway Connectivity from Orderly Bazar</h2>
         <p class="odb-intro-p">Orderly Bazar enjoys an exceptional location in Varanasi, situated moments from the Cantt railway nexus, the Ring Road connector, and National Highway 19 (NH-19 / Golden Quadrilateral). From this central node, our container vehicles connect quickly to major national and state highways, enabling swift transit to destinations across India.</p>
 
-        <p class="odb-intro-p">For relocations bound for Lucknow, the journey begins along the direct Purvanchal Expressway or NH-56, enabling rapid door-to-door transit within 4 to 6 hours. Westbound transfers to Delhi, Noida, and Kanpur connect via NH-19, delivering next-day delivery schedules. Consignments heading east toward Patna, Gaya, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> travel along the high-speed NH-19 corridor with minimal checkpoint delays.</p>
+        <p class="odb-intro-p">For relocations bound for Lucknow, the journey begins along the direct Purvanchal Expressway or NH-56, enabling rapid door-to-door transit within 4 to 6 hours. Westbound transfers to Delhi, Noida, and Kanpur connect via NH-19, delivering next-day delivery schedules. Consignments heading east toward Patna, Gaya, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> travel along the high-speed NH-19 corridor with minimal checkpoint delays.</p>
 
         <div class="odb-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Closed Body Container Fleet in Orderly Bazar Varanasi" width="580" height="380" loading="lazy">

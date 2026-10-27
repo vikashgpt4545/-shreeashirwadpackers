@@ -730,7 +730,7 @@ require_once ROOT_PATH . '/includes/config.php';
             </div>
             <div class="next-card">
                 <h3>Direct Long-Distance Corridors</h3>
-                <p>Direct routes connecting Noida Extension to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, plus Patna, Jamshedpur, and Dhanbad.</p>
+                <p>Direct routes connecting Noida Extension to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, plus Patna, Jamshedpur, and Dhanbad.</p>
             </div>
         </div>
 
@@ -783,7 +783,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-150-noida" class="next-cluster-link">Sector 150 Noida</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida" class="next-cluster-link">Noida Authority Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-greater-noida" class="next-cluster-link">Greater Noida Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="next-cluster-link">Company Headquarters (Ranchi)</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="next-cluster-link">Company Headquarters (Ranchi)</a>
         </div>
     </section>
 

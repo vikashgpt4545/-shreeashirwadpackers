@@ -67,7 +67,7 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
         "@type": "ListItem",
         "position": 2,
         "name": "Intercity Corridors",
-        "item": "https://shreeashirwadpackers.com/intercity-packers-and-movers-cost-calculator"
+        "item": "https://shreeashirwadpackers.com/packers-and-movers-cost-calculator"
       },
       {
         "@type": "ListItem",
@@ -544,7 +544,7 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
 <section class="hpt-section hpt-section-alt">
   <div class="hpt-heading-group">
     <h2>Hyderabad to Patna Shifting Charges</h2>
-    <p>Honest, transparent cost estimates for 1,480 KM transit via NH-44 & NH-30. For personalized volume calculations, check our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #f47920; font-weight: 700; text-decoration: underline;">Intercity Moving Cost Calculator</a>.</p>
+    <p>Honest, transparent cost estimates for 1,480 KM transit via NH-44 & NH-30. For personalized volume calculations, check our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #f47920; font-weight: 700; text-decoration: underline;">Intercity Moving Cost Calculator</a>.</p>
   </div>
   
   <div class="hpt-table-wrap">
@@ -806,10 +806,10 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
     <h3>Reciprocal Return Route & Connected Arterial Corridors</h3>
     <div class="hpt-link-grid">
       <a href="<?php echo SITE_BASE_URL; ?>/patna-to-hyderabad-packers-and-movers">Patna to Hyderabad Packers and Movers</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ: Packers and Movers Ranchi</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator">Intercity Shifting Cost Calculator</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ: Packers and Movers Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Intercity Shifting Cost Calculator</a>
       <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-charges-calculator">Bike Parcel Charges Calculator</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/car-shifting-charges-calculator">Car Transport Carrier Calculator</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/car-transportation-cost-calculator">Car Transport Carrier Calculator</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rates & Moving Charges</a>
     </div>
   </div>

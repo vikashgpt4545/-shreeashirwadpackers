@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -581,7 +581,7 @@ include_once __DIR__ . '/../includes/config.php';
       <h2>Distinguished Moving Services in Doranda, Ranchi</h2>
       <p>Doranda holds a celebrated place in Ranchi's civic and historical landscape. Located strategically south of the Subarnarekha River tributary and serving as a vital bridge between central Ranchi and the airport corridor of Hinoo, Doranda is the administrative heart of Jharkhand governance. The locality houses the state government secretariat at Nepal House, the Accountant General's Office and staff quarters at AG Colony, premier educational landmarks like Doranda College and St. Xavier's School Doranda, and significant judicial quarters adjacent to the High Court complex. It is a prestigious neighborhood inhabited by senior civil servants, judicial officers, High Court advocates, Mecon and SAIL engineers, and long-established trading families.</p>
 
-      <p>Relocating a home or office in Doranda demands high-level organizational competence and discretion. From the historic colonial bungalows of South Office Para and North Office Para to the modern multi-story residential towers of Mani Tola, Resaldar Nagar, and Doranda Bazar, moves in this zone require teams capable of handling heavy teakwood furnishings, delicate glass cabinets, extensive legal case file libraries, and valuable family heirlooms. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified expertise and specialized moving gear to ensure your relocation is conducted quietly, punctually, and with zero damage.</p>
+      <p>Relocating a home or office in Doranda demands high-level organizational competence and discretion. From the historic colonial bungalows of South Office Para and North Office Para to the modern multi-story residential towers of Mani Tola, Resaldar Nagar, and Doranda Bazar, moves in this zone require teams capable of handling heavy teakwood furnishings, delicate glass cabinets, extensive legal case file libraries, and valuable family heirlooms. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified expertise and specialized moving gear to ensure your relocation is conducted quietly, punctually, and with zero damage.</p>
 
       <div class="hl-drn-img-card">
         <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Reliable Moving Truck Serving Doranda Ranchi">

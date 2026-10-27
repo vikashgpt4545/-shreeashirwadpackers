@@ -521,7 +521,7 @@ $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-
                 <p>Our delivery fleet covers every residential sector across Patna:</p>
                 <p><strong>Central & South Patna:</strong> Kankarbagh, Rajendra Nagar, Boring Road, Exhibition Road, Bailey Road, Ashiana Nagar, Rukanpura.</p>
                 <p><strong>West & Cantt Localities:</strong> Danapur Cantt, Khagaul, Phulwari Sharif, Anisabad, Gola Road, and Saguna More.</p>
-                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koderma">Packers and Movers in Koderma</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar.</p>
+                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koderma">Packers and Movers in Koderma</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
             </div>
         </div>
 

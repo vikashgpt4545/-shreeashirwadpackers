@@ -690,7 +690,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h2 class="swnk-section-heading">Seamless Highway Transit via Mall Road & GT Road</h2>
         <p class="swnk-intro-p">Swaroop Nagar benefits from exceptional urban connectivity. Direct arterial links connect Parwati Bagla Road and Arya Nagar to Mall Road, Civil Lines, and the Grand Trunk Road (GT Road / NH-19). This allows our container fleet to access national highway networks rapidly without negotiating congested industrial streets or crowded market intersections.</p>
 
-        <p class="swnk-intro-p">For long-distance transfers to Eastern India—including Patna, Gaya, Dhanbad, Jamshedpur, Bokaro, and our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>—our dedicated long-haul container fleet provides regular departures, continuous GPS updates, and safe door-to-door delivery.</p>
+        <p class="swnk-intro-p">For long-distance transfers to Eastern India—including Patna, Gaya, Dhanbad, Jamshedpur, Bokaro, and our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>—our dedicated long-haul container fleet provides regular departures, continuous GPS updates, and safe door-to-door delivery.</p>
 
         <p class="swnk-intro-p">Furthermore, the nearby Ganga Barrage Road provides a smooth alternative bypass toward Unnao and Lucknow, enabling our linehaul trucks to avoid central Kanpur railway crossings and maintain reliable inter-state delivery timelines.</p>
 

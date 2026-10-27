@@ -752,8 +752,8 @@ require_once __DIR__ . '/../includes/config.php';
         
         <div class="ptbg-cluster-links">
             <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-patna-packers-and-movers">Bangalore to Patna Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/patna-to-mumbai-packers-and-movers">Patna to Mumbai Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-patna-packers-and-movers">Mumbai to Patna Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-patna-packers-and-movers">Patna to Mumbai Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-patna-packers-and-movers">Mumbai to Patna Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bangalore-packers-and-movers">Ranchi to Bangalore Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-ranchi-packers-and-movers">Bangalore to Ranchi Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-bangalore-packers-and-movers">Kolkata to Bangalore Movers</a>

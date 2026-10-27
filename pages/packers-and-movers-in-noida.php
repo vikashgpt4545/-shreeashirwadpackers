@@ -847,7 +847,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <strong>Gurgaon City Hub</strong>
                 <span>Cyber City & Corporate Headquarters Relocation</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="noi-cluster-card">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="noi-cluster-card">
                 <strong>Ranchi Headquarters</strong>
                 <span>Company Main Authority & Eastern Logistics Hub</span>
             </a>

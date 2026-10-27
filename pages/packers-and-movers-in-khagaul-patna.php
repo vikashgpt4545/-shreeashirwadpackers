@@ -612,7 +612,7 @@
                     Executing relocation operations in Khagaul requires distinct logistical dexterity. Heavy passenger traffic near the railway station circulating area, auto stands, and level crossings creates narrow transit bottlenecks during train peak hours. Our local moving supervisors plan truck dispatches during quiet morning slots, transferring packaged goods seamlessly into heavy-duty container trailers parked on wide arterial link roads.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving across Khagaul or transferring intercity, our operations connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0f2c59; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> network and our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0f2c59; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving across Khagaul or transferring intercity, our operations connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0f2c59; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> network and our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f2c59; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>

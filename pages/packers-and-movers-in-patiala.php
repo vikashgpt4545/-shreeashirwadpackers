@@ -221,7 +221,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we deliver customized, damage-free moving services designed to honor Patiala's refined character and diverse logistical needs. Our dedicated moving crews are trained in handling priceless family heirlooms, royal carved wood furniture, fragile glass chandeliers, delicate scientific laboratory equipment, and everyday household goods.</p>
                 <p>To check our transparent, upfront shifting tariffs before scheduling your move, visit our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>.</p>
                 <div class="ptl-highlight">
-                    <strong>Pillar Network Assurance:</strong> Operating nationwide with seamless coordination connected back to our core operational headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, we ensure punctuality, continuous GPS truck monitoring, and zero damage across all national highway corridors.
+                    <strong>Pillar Network Assurance:</strong> Operating nationwide with seamless coordination connected back to our core operational headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, we ensure punctuality, continuous GPS truck monitoring, and zero damage across all national highway corridors.
                 </div>
             </div>
             <div>

@@ -1387,7 +1387,7 @@ require_once __DIR__ . '/includes/seo.php';
         Explore our comprehensive network of dedicated relocation corridors connecting Ranchi to premier commercial and metropolitan centers across India:
       </p>
       <div class="d2r-cluster-links">
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="d2r-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="d2r-cluster-link">Ranchi Headquarters</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="d2r-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-ranchi-packers-and-movers" class="d2r-cluster-link">Bangalore to Ranchi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-packers-and-movers" class="d2r-cluster-link">Ranchi to Bhopal</a>

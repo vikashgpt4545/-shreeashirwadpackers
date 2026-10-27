@@ -151,7 +151,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Packers and Movers Ranchi",
-                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",

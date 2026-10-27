@@ -499,7 +499,7 @@
                         <li>Expert high-rise elevator moving & society coordination</li>
                         <li>Direct 6-lane Durgapur Expressway (NH 19) access</li>
                         <li>Backed by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" style="color:#00d4b2; font-weight:700;">Durgapur Movers Hub</a></li>
-                        <li>Direct links to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#00d4b2; font-weight:700;">Company HQ Ranchi</a></li>
+                        <li>Direct links to <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#00d4b2; font-weight:700;">Company HQ Ranchi</a></li>
                         <li>Anti-scratch quilted blankets & 5-ply box packaging</li>
                     </ul>
                 </div>
@@ -834,7 +834,7 @@
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="ccd-cluster-link">Kolkata Regional Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="ccd-cluster-link">Kolkata to Ranchi Corridor</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="ccd-cluster-link">Ranchi to Kolkata Corridor</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ccd-cluster-link">Company HQ Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="ccd-cluster-link">Company HQ Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ccd-cluster-link">Live Tariff Calculator</a>
             <span class="ccd-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Benachity Hub (Upcoming)</span>
             <span class="ccd-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Bidhannagar Hub (Upcoming)</span>

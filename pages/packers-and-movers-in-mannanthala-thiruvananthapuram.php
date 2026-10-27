@@ -705,7 +705,7 @@
 
     <div class="mnt-faq-item">
       <div class="mnt-faq-question">Can you shift goods from Mannanthala along the MC Road to Kottayam, Kochi, or interstate?</div>
-      <p>Yes. Mannanthala is situated directly on MC Road (State Highway 1), providing fastest direct transit to Venjaramoodu, Kottarakkara, Adoor, Chengannur, Thiruvalla, Kottayam, and onward to Kochi, Bangalore, Chennai, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+      <p>Yes. Mannanthala is situated directly on MC Road (State Highway 1), providing fastest direct transit to Venjaramoodu, Kottarakkara, Adoor, Chengannur, Thiruvalla, Kottayam, and onward to Kochi, Bangalore, Chennai, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
     </div>
 
     <div class="mnt-faq-item">

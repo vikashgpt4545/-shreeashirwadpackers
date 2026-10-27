@@ -398,7 +398,7 @@ $state_name = 'Punjab';
           <p>Mall Road represents the aristocratic, administrative, and financial heartbeat of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-amritsar" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Amritsar</a>. Developed during the colonial era as the grand arterial avenue connecting the Civil Lines, the Sessions Court, and the lush gardens of Company Bagh (Ram Bagh), Mall Road continues to be synonymous with prestige, elegance, and commercial power. It hosts the regional headquarters of major national banks, premier hotels, historic social clubs, and high-end retail establishments.</p>
           <p>The residential pockets bordering Mall Road, Court Road, and Taylor Road feature majestic colonial-era bungalows, sprawling kothis with extensive gardens, and modern boutique residential towers. These homes are inhabited by Amritsar's most established legal advocates, senior medical specialists, financial magnates, civil service officers, and multigenerational merchant families who cherish rare ancestral furniture, Persian carpets, and precious chinaware.</p>
           <p>Executing relocations along Mall Road demands meticulous coordination. Navigating the busy thoroughfares connecting toward Hall Gate and Crystal Chowk requires careful scheduling, particularly during peak commercial business hours. Our professional movers coordinate with local traffic guidelines and residential societies, deploying specialized equipment, rubber-tired hand trucks, and closed-body container trucks that protect goods from both weather and city dust.</p>
-          <p>Shree Ashirwad Packers and Movers brings over 22 years of verified moving excellence to Mall Road. Backed by our nationwide network and central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; font-weight: 700;">Shree Ashirwad Packers Ranchi</a>, we execute domestic home shifting, corporate relocations, and intercity container transport to Delhi NCR, Mumbai, Bangalore, Kolkata, and beyond with zero damage and supreme punctuality.</p>
+          <p>Shree Ashirwad Packers and Movers brings over 22 years of verified moving excellence to Mall Road. Backed by our nationwide network and central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 700;">Shree Ashirwad Packers Ranchi</a>, we execute domestic home shifting, corporate relocations, and intercity container transport to Delhi NCR, Mumbai, Bangalore, Kolkata, and beyond with zero damage and supreme punctuality.</p>
         </div>
         <div>
           <div class="mra-image-container">
@@ -648,7 +648,7 @@ $state_name = 'Punjab';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-batala" class="mra-cluster-link">Packers and Movers in Batala</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalandhar" class="mra-cluster-link">Packers and Movers in Jalandhar</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ludhiana" class="mra-cluster-link">Packers and Movers in Ludhiana</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mra-cluster-link">Ranchi Headquarters Hub</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="mra-cluster-link">Ranchi Headquarters Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mra-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

@@ -1556,14 +1556,14 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
         <div class="rtj-tag-cloud" style="margin-bottom: 40px;">
           <a href="<?php echo SITE_BASE_URL; ?>/jamshedpur-to-ranchi-packers-and-movers" class="rtj-tag-pill" style="color: #ff6a28; font-weight: 700;">Jamshedpur to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur" class="rtj-tag-pill" style="color: #ff6a28; font-weight: 700;">Packers and Movers in Jamshedpur</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="rtj-tag-pill">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="rtj-tag-pill">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-dhanbad-packers-and-movers" class="rtj-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Dhanbad Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-packers-and-movers" class="rtj-tag-pill">Ranchi to Delhi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bangalore-packers-and-movers" class="rtj-tag-pill">Ranchi to Bangalore Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-hyderabad-packers-and-movers" class="rtj-tag-pill">Ranchi to Hyderabad Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="rtj-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Kolkata Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="rtj-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Patna Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="rtj-tag-pill">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="rtj-tag-pill">Professional Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="rtj-tag-pill">Household Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="rtj-tag-pill">Local Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/office-shifting-services-in-ranchi" class="rtj-tag-pill">Office Shifting in Ranchi</a>

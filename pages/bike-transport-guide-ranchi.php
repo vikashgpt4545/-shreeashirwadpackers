@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Whether you are a student graduating from BIT Mesra or IIM Ranchi relocating to a metro city, an IT professional moving to Bangalore or Hyderabad, or a PSU officer transferring across the mining belt, your two-wheeler represents both significant financial value and daily convenience.</p>
                         <p>Unfortunately, many people in Ranchi attempt to send their bikes via traditional railway parcel booking at Ranchi Junction or Hatia Station. The result is often heartbreaking: rough platform handling, torn burlap sacks, dented fuel tanks, broken rearview mirrors, snapped clutch levers, and extortionate bribes demanded by station coolies just to retrieve your own bike.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our specialized Bike Express division provides door-to-door, containerized two-wheeler transport that treats your motorcycle with engineering precision.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our specialized Bike Express division provides door-to-door, containerized two-wheeler transport that treats your motorcycle with engineering precision.</p>
                         <div class="btgr-highlight">
                             <h4>Calculate Instant Combined Relocation</h4>
                             <p>Bundling your bike with your household shifting consignment saves up to 30% compared to independent courier booking. Calculate your composite price on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -479,7 +479,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Vehicle Transport Guides, Tariffs & Neighborhoods</h3>
                 <p>Discover complete two-wheeler and four-wheeler logistics resources across Ranchi:</p>
                 <div class="btgr-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/car-transport-cost-guide-ranchi">Car Transport Cost Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi">How Much Movers Charge</a>
@@ -488,7 +488,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use">Packing Materials Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum">Packers and Movers Namkum</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna">Packers and Movers Patna</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Packers and Movers Bangalore</a>
                 </div>

@@ -223,7 +223,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Perched at an elevation of 650 meters (2,130 feet) on the Chotanagpur plateau, Ranchi is known affectionately as the "City of Waterfalls" and historically celebrated for its salubrious, refreshing climate. Unlike congested coastal or river-plain metros, Ranchi offers a balanced urban rhythm where scenic forested hills and tranquil freshwater reservoirs exist alongside modern multi-story gated towers, boutique cafes, and premier educational institutes.</p>
                         <p>As Jharkhand's administrative and commercial powerhouse, the city attracts corporate executives, mining engineers, bank managers, defense personnel, and healthcare specialists. However, choosing the right neighborhood requires understanding Ranchi's unique micro-geography: central bustling commercial sectors vs. quiet residential housing colonies, elite PSU townships vs. rapidly expanding suburban educational belts.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our local moving crews have navigated every colony, lane, and gated society across Ranchi for over a decade, helping thousands of families transition smoothly to their new plateau homes.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our local moving crews have navigated every colony, lane, and gated society across Ranchi for over a decade, helping thousands of families transition smoothly to their new plateau homes.</p>
                         <div class="rnbh-highlight">
                             <h4>Calculate Local Ranchi Shifting Charges</h4>
                             <p>Moving between localities in Ranchi? Check transparent door-to-door shifting tariffs with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -478,18 +478,18 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Local Relocation Guides, Neighborhood Hubs & Services</h3>
                 <p>Plan your home shifting across Ranchi with authentic neighborhood guides and tariff benchmarks:</p>
                 <div class="rnbh-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">New House Shifting Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/best-time-to-move-house-ranchi">Best Time to Move House</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-choose-packers-and-movers">How to Choose Movers</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar">Packers Ashok Nagar</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi">Packers Ashok Nagar</a>
                 </div>
             </section>
         </div>

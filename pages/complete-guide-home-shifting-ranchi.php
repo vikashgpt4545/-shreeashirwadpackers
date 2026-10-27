@@ -240,7 +240,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>Moving through dense commercial bottlenecks such as Albert Ekka Chowk, Upper Bazar, and Main Road demands seasoned local knowledge of no-entry hours, traffic diversions, and narrow alley navigation. At the same time, shifting into modern high-rise gated communities along Ring Road requires compliance with strict building management association rules and specialized handling for fragile imported glass and modular interiors.</p>
                         <div class="cghs-highlight">
                             <h4>Why Experience Matters in Ranchi</h4>
-                            <p>Shree Ashirwad Packers and Movers has spent over a decade perfecting household shifting across Jharkhand. With our own company fleet of weatherproof enclosed container trucks and permanent trained packing crews, we provide seamless door-to-door relocation under our flagship <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Packers and Movers Ranchi Authority Hub</a>.</p>
+                            <p>Shree Ashirwad Packers and Movers has spent over a decade perfecting household shifting across Jharkhand. With our own company fleet of weatherproof enclosed container trucks and permanent trained packing crews, we provide seamless door-to-door relocation under our flagship <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Packers and Movers Ranchi Authority Hub</a>.</p>
                         </div>
                     </div>
                     <div class="cghs-img-box">
@@ -476,16 +476,16 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Relocation Guides & Neighborhood Hubs</h3>
                 <p>Plan your move across Jharkhand with our comprehensive neighborhood hubs and route manuals:</p>
                 <div class="cghs-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">New House Shifting Guide Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur">Packers and Movers Lalpur</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur-ranchi">Packers and Movers Lalpur</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers Dhanbad</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur">Packers and Movers Jamshedpur</a>
                 </div>

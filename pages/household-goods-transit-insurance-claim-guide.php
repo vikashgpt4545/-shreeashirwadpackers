@@ -758,7 +758,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Packers and Movers Charges Per KM</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service">Single Item Shifting Services</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing">Household Storage &amp; Warehousing</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Central Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Central Company Headquarters</a>
             </div>
         </div>
 

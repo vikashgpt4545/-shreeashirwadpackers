@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>When you pack the accumulated assets of a lifetime—hardwood furniture, OLED televisions, double-door refrigerators, kitchen appliances, and precious family heirlooms—and dispatch them across hundreds of kilometers of national highways, you are exposing your belongings to risks beyond any driver's control.</p>
                         <p>National highway transit through undulating terrains (such as the Patratu Valley ghats, the Barhi corridor, or the Chotanagpur plateau) carries exposure to sudden road subsidence, sudden braking by overloaded third-party trucks, violent monsoon downpours, and rare highway mishaps. Under Indian Carrier Act bylaws, a transporter's statutory liability without insurance is legally limited to a nominal per-kilogram rate that covers only a fraction of your real losses.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we partner with leading public sector marine underwriters (including National Insurance, New India Assurance, and Oriental Insurance) to issue authentic, certificate-backed transit insurance policies that guarantee total financial indemnification.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we partner with leading public sector marine underwriters (including National Insurance, New India Assurance, and Oriental Insurance) to issue authentic, certificate-backed transit insurance policies that guarantee total financial indemnification.</p>
                         <div class="ihgt-highlight">
                             <h4>Calculate Your Exact Insurance Premium</h4>
                             <p>Determine your declared value and compute exact 1.5% to 3% insurance costs using our transparent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -424,7 +424,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Pricing Guides, Moving Calculators & Route Hubs</h3>
                 <p>Plan your household relocation with complete legal protection and verified cost calculations:</p>
                 <div class="ihgt-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi">How Much Movers Charge</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/part-load-vs-full-truck">Part Load vs Full Truck</a>

@@ -740,7 +740,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <h3 class="s18-sub-heading">Long-Distance Corridors to Eastern India & Corporate HQ</h3>
-        <p class="s18-intro-p">For corporate executives and families relocating from Noida Sector 18 to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #312e81; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or major eastern commercial hubs such as Patna, Jamshedpur, Bokaro, and Kolkata, our container freighters access the Yamuna Expressway and the Eastern Peripheral Expressway (EPE) via the Noida-Greater Noida link road within 15 minutes. This ensures rapid transit across national highways without entering congested urban corridors.</p>
+        <p class="s18-intro-p">For corporate executives and families relocating from Noida Sector 18 to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #312e81; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or major eastern commercial hubs such as Patna, Jamshedpur, Bokaro, and Kolkata, our container freighters access the Yamuna Expressway and the Eastern Peripheral Expressway (EPE) via the Noida-Greater Noida link road within 15 minutes. This ensures rapid transit across national highways without entering congested urban corridors.</p>
         <p class="s18-intro-p">Every inter-state transit vehicle is equipped with satellite tracking, dual driver shifts for continuous transit, and waterproof container seals that safeguard household treasures and sensitive corporate assets against monsoon rains, highway dust, and transit vibrations.</p>
 
         <div class="s18-image-container">
@@ -793,7 +793,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida-extension" class="s18-cluster-link">Noida Extension Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="s18-cluster-link">Delhi NCT Metro Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-indirapuram-ghaziabad" class="s18-cluster-link">Indirapuram Ghaziabad</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="s18-cluster-link">Ranchi Corporate HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="s18-cluster-link">Ranchi Corporate HQ</a>
         </div>
     </section>
 

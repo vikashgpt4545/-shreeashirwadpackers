@@ -647,7 +647,7 @@
 
     <h3>Strategic Highway Arteries Connecting Coastal & Inland Cities</h3>
     <p>Nellore benefits from supreme road links. Situated directly on National Highway 16, express container carriers travel south to Chennai in under 3.5 hours, and west via National Highway 67 toward Badvel and Kadapa.</p>
-    <p>Heading north along NH 16 toward Guntur and Vijayawada, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Heading north along NH 16 toward Guntur and Vijayawada, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>Whether relocating locally within Nellore district or coordinating long-distance interstate movement to Chennai or Bangalore, our dedicated vehicle tracking gives you complete peace of mind throughout the journey.</p>
   </section>
 
@@ -675,7 +675,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting locally within Nellore or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether you are shifting locally within Nellore or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With thousands of successful domestic and corporate relocations executed across South, East, and Central India, our Nellore branch brings proven enterprise-grade logistics directly to your doorstep with guaranteed delivery schedules.</p>
   </section>
 

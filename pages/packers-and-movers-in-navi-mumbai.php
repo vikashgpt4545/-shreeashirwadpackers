@@ -497,7 +497,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="nvm-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Navi Mumbai.</p>
         </div>
 
-        <p>Working in close synergy with our primary authority hubs for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a>, and our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes, traveling down the expressway to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers and Movers in Pune</a>, or executing a national move.</p>
+        <p>Working in close synergy with our primary authority hubs for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a>, and our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes, traveling down the expressway to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers and Movers in Pune</a>, or executing a national move.</p>
 
         <p>Every move is managed under the direct supervision of an experienced relocation coordinator who oversees every phase from pre-move survey to final furniture placement, ensuring your precious home possessions arrive in flawless condition.</p>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Pune Authority Hub</a>
             </div>
             <div class="nvm-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Central HQ</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi Central HQ</a>
             </div>
         </div>
 

@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
             <div>
                 <p>Jaipur, fondly known as the Pink City, is not only the historic capital of Rajasthan but also one of North-Western India's fastest-growing metropolitan business, education, and tourist destinations. With rapid urbanization expanding from the heritage walled city toward vast planned townships along Ajmer Road, Tonk Road, Jagatpura, and Mansarovar, Jaipur demands modern, meticulous, and fully accountable relocation infrastructure. Whether families are shifting into premium gated villas in Vaishali Nagar or corporations are moving technology facilities into Sitapura or the Mahindra World City SEZ, our teams deliver seamless service.</p>
                 <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we bring over a decade of proven logistics expertise to Jaipur. We specialize in end-to-end relocation management, ensuring delicate marble handicrafts, heavy wooden royal furniture, modern home theater electronics, modular kitchen appliances, and four-wheeler vehicles are relocated without a scratch. Our trained shifting crews handle disassembly, multi-tier industrial wrapping, careful hydraulic loading, secure highway transport, and complete destination reassembly.</p>
-                <p>As the central authority hub for our Rajasthan network, our operations seamlessly connect with our pan-India corridors. Clients can review our transparent tariff estimates anytime by consulting our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>. All relocations are executed with direct operational support from our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p>As the central authority hub for our Rajasthan network, our operations seamlessly connect with our pan-India corridors. Clients can review our transparent tariff estimates anytime by consulting our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>. All relocations are executed with direct operational support from our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
                 <div class="jpr-highlight">
                     <strong>Direct Contact & Moving Assistance:</strong> Need an urgent survey or weekend shifting slot in Jaipur? Call our senior operations coordinators at <strong>+91-8409531615</strong> or <strong>+91-9835565233</strong> for immediate doorstep evaluation and custom quotations.
                 </div>
@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ajmer">Ajmer Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bikaner">Bikaner Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Tariff Calculator</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ</a>
         </div>
     </section>
 

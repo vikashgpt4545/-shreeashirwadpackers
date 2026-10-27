@@ -738,7 +738,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-porur-chennai";
         <p>This advantageous geographic hub enables our fleet to provide rapid inter-suburb transfers connecting Porur with major Chennai hubs including <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai" style="color: #1b4965; font-weight: 600; text-decoration: underline;">Chennai City Center</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-anna-nagar-chennai" style="color: #1b4965; font-weight: 600; text-decoration: underline;">Anna Nagar</a>, and the <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-omr-chennai" style="color: #1b4965; font-weight: 600; text-decoration: underline;">OMR IT Expressway</a>.</p>
 
         <div class="prr-highlight-box">
-            <p><strong>National Moving Network:</strong> Moving out of Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1b4965; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we offer direct pan-India container transit connecting Porur to every major city across Eastern, Northern, and Western India.</p>
+            <p><strong>National Moving Network:</strong> Moving out of Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1b4965; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we offer direct pan-India container transit connecting Porur to every major city across Eastern, Northern, and Western India.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Porur</h3>

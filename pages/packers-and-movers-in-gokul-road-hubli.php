@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Highway-Ready Logistics Terminal:</strong> Immediate access to NH 48 container corridors for swift dispatch to Bangalore, Pune, Mumbai, and Goa.</li>
                 <li><strong>Industrial Rigging & Heavy Crating:</strong> Hydraulic crane facilities and custom wooden crating for machine tools, motors, and commercial inventories.</li>
                 <li><strong>Complete Residential Care:</strong> Multi-layer protective wrapping for delicate furniture, kitchenware, and modern modular home appliances.</li>
-                <li><strong>Network Authority Backbone:</strong> Directly integrated with parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Packers and Movers in Hubli</a> and headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Network Authority Backbone:</strong> Directly integrated with parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Packers and Movers in Hubli</a> and headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

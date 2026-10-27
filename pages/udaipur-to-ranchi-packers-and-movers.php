@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Our Udaipur packing units operate across every upscale residential enclave, including Panchwati, Fatehpura, Madhuban, Sukhadia Circle, Hiran Magri (Sectors 1 through 14), Shobhagpura, New Bhupalpura, Saheli Nagar, Goverdhan Vilas, Bedla, Bhuwana, Ambamata, and Pratapnagar. We coordinate directly with residential welfare associations and high-rise apartment security to arrange elevator access and efficient curbside loading.
                 </p>
                 <p>
-                    At destination in Ranchi, our trained local workforce provides complete white-glove unloading and arrangement across Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township, MECON Colony, CMPDI complex, Harmu Housing Board, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and the Dhurwa core administrative district. Every carton is unsealed, inspected, placed in designated rooms, and unpacked with full furniture reassembly. Our interstate network also offers regular outbound moving on the reciprocal <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-udaipur-packers-and-movers" style="color: var(--udr-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Udaipur packers and movers</a> corridor, coordinated directly by our central hub for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--udr-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>.
+                    At destination in Ranchi, our trained local workforce provides complete white-glove unloading and arrangement across Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township, MECON Colony, CMPDI complex, Harmu Housing Board, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and the Dhurwa core administrative district. Every carton is unsealed, inspected, placed in designated rooms, and unpacked with full furniture reassembly. Our interstate network also offers regular outbound moving on the reciprocal <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-udaipur-packers-and-movers" style="color: var(--udr-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Udaipur packers and movers</a> corridor, coordinated directly by our central hub for <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--udr-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>.
                 </p>
             </div>
             <div class="udr-ran-img-box">
@@ -928,7 +928,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Udaipur (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="udr-ran-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="udr-ran-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

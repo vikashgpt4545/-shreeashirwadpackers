@@ -586,7 +586,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
                 <p>Our professional crew unloads each carton, checks off each item against your original inventory list, reassembles your beds and furniture, and removes all discarded packing paper.</p>
                 <div class="trk-highlight-box">
                     <h4>Pillar Authority Reference</h4>
-                    <p>Learn about our complete moving infrastructure by visiting our main <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar authority page.</p>
+                    <p>Learn about our complete moving infrastructure by visiting our main <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar authority page.</p>
                 </div>
             </div>
             <div>

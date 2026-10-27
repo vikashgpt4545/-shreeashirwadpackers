@@ -223,7 +223,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>In modern corporate human resource management, geographical talent mobility is a vital driver of enterprise execution. Across Jharkhand, major public sector undertakings (PSUs), central ministries, defense establishments, and private conglomerates depend continuously upon seamless employee relocations. Key institutional employers centered in Ranchi include Central Coalfields Limited (CCL Darbhanga House), Steel Authority of India Limited (SAIL R&D Centre for Iron & Steel at Ashok Nagar), MECON Limited (Doranda), Central Mine Planning & Design Institute (CMPDI Kanke Road), Coal Mines Provident Fund Organisation (CMPFO), the AG Office Jharkhand (Doranda), and the Namkum Army Military Cantonment, alongside corporate giants like Usha Martin, Jindal Steel & Power, and regional banking circles for SBI, PNB, Bank of India, and HDFC Bank.</p>
                         <p>Yet, for transferring executives and their families, moving between cities is fraught with domestic anxiety: securing quality residential rental leases in unfamiliar residential neighborhoods (such as Harmu Housing Colony, Morabadi, Bariatu, Ashok Nagar, or Kanke Road), navigating school admissions in top institutions (such as DPS Ranchi, JVM Shyamali, or St. Xavier's), transporting personal motor vehicles, and entrusting valuable domestic assets to transport operators. When an employee's furniture suffers scratches or moving bills trigger audit discrepancies, workplace engagement and onboarding productivity decline sharply.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our Enterprise Mobility Solutions Division partners with corporate HR directors, procurement heads, and administrative officers to provide turnkey, stress-free employee relocation experiences governed by robust Service Level Agreements (SLAs), transparent tariff rate cards, and audit-compliant accounting.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our Enterprise Mobility Solutions Division partners with corporate HR directors, procurement heads, and administrative officers to provide turnkey, stress-free employee relocation experiences governed by robust Service Level Agreements (SLAs), transparent tariff rate cards, and audit-compliant accounting.</p>
                         <div class="crhr-highlight">
                             <h4>Benchmark Corporate Relocation Tariff Structures</h4>
                             <p>Verify legitimate market rate cards for employee transfer budgeting using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -424,7 +424,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Corporate Relocation Guides, Neighborhoods & Services</h3>
                 <p>Empower your HR and facilities teams with verified logistics manuals and tariff benchmarks:</p>
                 <div class="crhr-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/transfer-allowance-reimbursement-guide">Govt Transfer Allowance Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/office-relocation-planning-ranchi">Office Relocation Planning</a>
@@ -433,8 +433,8 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-guide-ranchi">Bike Transport Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-choose-packers-and-movers">How to Choose Movers</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar">Packers Ashok Nagar</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi">Packers Ashok Nagar</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
                 </div>
             </section>

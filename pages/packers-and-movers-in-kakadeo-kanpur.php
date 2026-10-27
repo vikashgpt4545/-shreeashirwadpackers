@@ -690,7 +690,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h2 class="kkd-section-heading">Strategic Transport Connectivity via Double Puliya & GT Road</h2>
         <p class="kkd-intro-p">Kakadeo occupies a central position within Kanpur's urban road grid. With immediate access to the Grand Trunk Road (GT Road) and Vijay Nagar bypass via Double Puliya, our moving trucks can depart rapidly toward northern and western highway corridors toward Kannauj, Aligarh, and Delhi NCR without entering downtown Kanpur traffic bottlenecks.</p>
 
-        <p class="kkd-intro-p">For interstate relocations heading east toward Bihar, Jharkhand, and West Bengal—connecting to Patna, Gaya, Dhanbad, Jamshedpur, Bokaro, and our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>—our dedicated long-haul container trucks operate regular scheduled departures with real-time GPS tracking and dedicated support.</p>
+        <p class="kkd-intro-p">For interstate relocations heading east toward Bihar, Jharkhand, and West Bengal—connecting to Patna, Gaya, Dhanbad, Jamshedpur, Bokaro, and our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>—our dedicated long-haul container trucks operate regular scheduled departures with real-time GPS tracking and dedicated support.</p>
 
         <p class="kkd-intro-p">Furthermore, the nearby Panki bypass allows our heavy container carriers to connect south toward the Kanpur-Jhansi highway and east toward Prayagraj and Varanasi, ensuring dependable transit schedules across all interstate corridors.</p>
 

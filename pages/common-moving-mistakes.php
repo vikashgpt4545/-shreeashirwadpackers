@@ -222,7 +222,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <div class="cmma-grid-2">
                     <div>
                         <p>Moving house is recognized by psychologists as one of life's top five most stressful events, alongside divorce and job loss. When executed without structured operational foresight, a simple local relocation between Ranchi neighborhoods—such as from Harmu Housing Colony to Morabadi or Bariatu to Ashok Nagar—can quickly disintegrate into expensive chaos.</p>
-                        <p>Over the past decade of operating across Jharkhand, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a> has witnessed firsthand the painful repercussions of avoidable mistakes: shattered porcelain crockery packed in old newspapers, swollen particle-board furniture drenched on open pickup trucks, extortionate surprise bills delivered midway through unloading, and ruined LED television panels.</p>
+                        <p>Over the past decade of operating across Jharkhand, <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a> has witnessed firsthand the painful repercussions of avoidable mistakes: shattered porcelain crockery packed in old newspapers, swollen particle-board furniture drenched on open pickup trucks, extortionate surprise bills delivered midway through unloading, and ruined LED television panels.</p>
                         <p>By identifying these common pitfalls before packing your first carton, you can protect your hard-earned household assets, maintain full budget control, and turn moving day into an organized, celebratory transition.</p>
                         <div class="cmma-highlight">
                             <h4>Know Your True Moving Budget in Advance</h4>
@@ -433,7 +433,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Relocation Guides, Neighborhoods & Logistics Resources</h3>
                 <p>Equip yourself with authoritative checklists, packing manuals, and pricing guides:</p>
                 <div class="cmma-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-pack-fragile-items">How to Pack Fragile Items</a>
@@ -443,8 +443,8 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use">Packing Materials Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/best-time-to-move-house-ranchi">Best Time to Move House</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-unpack-after-moving">How to Unpack Guide</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                 </div>
             </section>
         </div>

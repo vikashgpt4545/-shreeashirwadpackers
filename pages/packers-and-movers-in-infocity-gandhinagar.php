@@ -1,6 +1,10 @@
 <?php
-// pages/packers-and-movers-in-infocity-gandhinagar.php
-// Handcrafted SEO Hub Page: Shree Ashirwad Packers and Movers in Infocity Gandhinagar, Gujarat
+/**
+ * Page: Packers and Movers in Infocity Gandhinagar
+ * Layout: Full-width modern responsive layout (AGENTS.md & AI_PAGE_CREATION_RULES.md compliant)
+ * Scoped Prefix: inf-
+ */
+require_once __DIR__ . '/../includes/config.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -396,7 +400,7 @@
 </head>
 <body>
 
-<?php include_once ROOT_DIR . '/includes/header.php'; ?>
+<?php require_once __DIR__ . '/../includes/header.php'; ?>
 
 <div class="ifc-wrap">
     <div class="ifc-hero">
@@ -422,7 +426,7 @@
                 <div class="ifc-image-caption">Disciplined corporate and residential goods handling at Infocity commercial towers and residential complexes.</div>
             </div>
 
-            <p>Whether you are a software engineer transitioning into a contemporary apartment in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kudasan-gandhinagar">Kudasan</a>, a fintech enterprise expanding toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gift-city-gandhinagar">GIFT City</a>, an IT professional moving to administrative residences in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gandhinagar">Gandhinagar</a> capital, commuting from <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ahmedabad">Ahmedabad</a>, or coordinating an inter-state corporate transfer to our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our dedicated tech-relocation team delivers seamless, punctual service.</p>
+            <p>Whether you are a software engineer transitioning into a contemporary apartment in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kudasan-gandhinagar">Kudasan</a>, a fintech enterprise expanding toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gift-city-gandhinagar">GIFT City</a>, an IT professional moving to administrative residences in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gandhinagar">Gandhinagar</a> capital, commuting from <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ahmedabad">Ahmedabad</a>, or coordinating an inter-state corporate transfer to our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our dedicated tech-relocation team delivers seamless, punctual service.</p>
         </div>
 
         <!-- Section 2: Comprehensive Moving Solutions -->
@@ -719,7 +723,7 @@
     </div>
 </div>
 
-<?php include_once ROOT_DIR . '/includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

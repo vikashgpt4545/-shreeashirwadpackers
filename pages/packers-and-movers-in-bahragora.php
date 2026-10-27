@@ -393,7 +393,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
             <div>
                 <h2 class="bhg-section-title">Strategic Relocation at the Tri-State Border Gateway</h2>
                 <p>Bahragora in East Singhbhum district represents one of Eastern India’s most important transit and highway junctions. Positioned at the intersection of National Highway 18 and National Highway 49, Bahragora directly links southern Jharkhand with Medinipur in West Bengal and Mayurbhanj in Odisha. Families, traders, bank officers, and teachers frequently relocate across this tri-state corridor.</p>
-                <p><strong>Shree Ashirwad Packers and Movers</strong> provides professional, end-to-end relocation services across Bahragora, Matihana, Kesharda, and surrounding rural and commercial areas. Whether moving household goods to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur">Jamshedpur</a> (85 km), Ghatshila, Kharagpur, or our state capital headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, we ensure total goods protection.</p>
+                <p><strong>Shree Ashirwad Packers and Movers</strong> provides professional, end-to-end relocation services across Bahragora, Matihana, Kesharda, and surrounding rural and commercial areas. Whether moving household goods to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur">Jamshedpur</a> (85 km), Ghatshila, Kharagpur, or our state capital headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we ensure total goods protection.</p>
                 <p>To calculate immediate moving expenses and compare highway tariffs, explore our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Relocation Cost Calculator</a>.</p>
             </div>
             <div>
@@ -581,7 +581,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
             <div class="bhg-cluster-grid">
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur">Packers and Movers in Jamshedpur</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chaibasa">Packers and Movers in Chaibasa</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/jamshedpur-to-kolkata-packers-and-movers">Jamshedpur to Kolkata Movers</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur">Packers and Movers in Kharagpur</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-baripada">Packers and Movers in Baripada</a>

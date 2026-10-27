@@ -654,7 +654,7 @@
 
     <h3>Strategic Highway Arteries Connecting Coastal & Inland Cities</h3>
     <p>Vijayawada benefits from unrivaled connectivity. Westward along National Highway 65, express container trucks reach Hyderabad in just 5 hours, linking directly to our hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hyderabad" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Hyderabad</a>.</p>
-    <p>Northeastward along National Highway 16, our container carriers connect seamlessly to coastal authority hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-visakhapatnam" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Visakhapatnam</a>, and onward toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Northeastward along National Highway 16, our container carriers connect seamlessly to coastal authority hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-visakhapatnam" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Visakhapatnam</a>, and onward toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>Whether relocating locally within Krishna and NTR districts or coordinating long-distance interstate movement to tech hubs in Bengaluru or Chennai, our dedicated vehicle tracking gives you complete peace of mind throughout the journey.</p>
   </section>
 
@@ -682,7 +682,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting locally within Vijayawada or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether you are shifting locally within Vijayawada or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With thousands of successful domestic and corporate relocations executed across South, East, and Central India, our Vijayawada branch brings proven enterprise-grade logistics directly to your doorstep with guaranteed delivery schedules.</p>
   </section>
 

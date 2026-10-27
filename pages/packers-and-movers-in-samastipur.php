@@ -610,7 +610,7 @@
                     Managing shifting operations across Samastipur requires nuanced route handling. In well-planned sectors like Railway Colony, Kashipur, and Mohanpur, broad avenues allow straightforward container placement. In dense commercial and old residential areas around Magardahi and Bahadurpur, our logistical coordinators deploy compact feeder vehicles to collect goods safely before transferring them into our covered container trucks stationed along the Tajpur Road bypass.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally within Samastipur or transferring across state borders, our operations link directly with our network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Darbhanga</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-begusarai" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Begusarai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally within Samastipur or transferring across state borders, our operations link directly with our network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Darbhanga</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-begusarai" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Begusarai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -964,7 +964,7 @@
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-begusarai" class="smp-cluster-link">Packers and Movers in Begusarai</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" class="smp-cluster-link">Packers and Movers in Patna</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-purnia" class="smp-cluster-link">Packers and Movers in Purnia</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="smp-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="smp-cluster-link">Packers and Movers in Ranchi (HQ)</a>
             </div>
         </div>
 

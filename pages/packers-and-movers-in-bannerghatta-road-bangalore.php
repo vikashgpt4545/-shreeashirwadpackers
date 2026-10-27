@@ -766,7 +766,7 @@ require_once ROOT_PATH . '/includes/header.php';
 
         <div class="bgr-faq-item">
             <h3>Is comprehensive transit insurance provided for long-distance relocations from Bannerghatta Road?</h3>
-            <p>Yes, we issue 100% all-risk transit insurance policies with itemized inventory valuation, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> for complete peace of mind.</p>
+            <p>Yes, we issue 100% all-risk transit insurance policies with itemized inventory valuation, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> for complete peace of mind.</p>
         </div>
 
         <div class="bgr-faq-item">

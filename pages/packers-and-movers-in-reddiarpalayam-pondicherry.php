@@ -719,9 +719,9 @@
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lawspet-pondicherry" class="rdp-cluster-link">Lawspet Pondicherry</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai" class="rdp-cluster-link">Chennai City Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuddalore" class="rdp-cluster-link">Cuddalore Hub</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-villupuram" class="rdp-cluster-link">Villupuram Hub</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-puducherry" class="rdp-cluster-link">Villupuram Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" class="rdp-cluster-link">Bangalore Hub</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="rdp-cluster-link">Ranchi Head Office</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="rdp-cluster-link">Ranchi Head Office</a>
       </div>
     </div>
   </section>

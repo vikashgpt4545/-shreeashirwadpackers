@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-erode";
         <p>Erode holds an exceptionally strategic location in Western Tamil Nadu. NH 544 provides an express expressway westward directly to Tiruppur, Coimbatore, and Palakkad, and eastward toward Salem and Chennai. State Highway 15 links north toward Gobichettipalayam, Sathyamangalam, and Mysore. State Highway 84 connects southeast through Kodumudi toward Karur and Trichy. This extensive highway network allows our container fleet to reach any Southern Indian trade center quickly and reliably.</p>
 
         <div class="erd-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #744210; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Erode directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #744210; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Erode directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Erode</h3>

@@ -393,7 +393,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jhumri-
             <div>
                 <h2 class="jht-section-title">Reliable Relocation Services in Jhumri Telaiya</h2>
                 <p>Jhumri Telaiya is the vibrant commercial nucleus and largest municipality of Koderma district. Located strategically along the Grand Trunk Road (NH-19) corridor and the Ranchi-Patna Highway, with the prominent Koderma Railway Junction close by, Jhumri Telaiya is a center of mica commerce, Damodar Valley Corporation (DVC) power installations, Sainik School education, and bustling residential communities.</p>
-                <p><strong>Shree Ashirwad Packers and Movers</strong> delivers complete turnkey relocation services in Jhumri Telaiya. Whether shifting locally within neighborhoods like Station Road, Mahila College Road, Chandwara, or Telaiya Dam Colony, or relocating across the state to our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our team guarantees flawless packing and punctual delivery.</p>
+                <p><strong>Shree Ashirwad Packers and Movers</strong> delivers complete turnkey relocation services in Jhumri Telaiya. Whether shifting locally within neighborhoods like Station Road, Mahila College Road, Chandwara, or Telaiya Dam Colony, or relocating across the state to our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our team guarantees flawless packing and punctual delivery.</p>
                 <p>For official district-level authority services, visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koderma">Packers and Movers in Koderma</a> page, or calculate route costs with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>.</p>
             </div>
             <div>
@@ -589,7 +589,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jhumri-
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-koderma-to-ranchi">Koderma to Ranchi Relocation</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hazaribagh">Packers and Movers in Hazaribagh</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-giridih">Packers and Movers in Giridih</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Relocation Cost Calculator</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact">Contact Customer Care</a>
             </div>

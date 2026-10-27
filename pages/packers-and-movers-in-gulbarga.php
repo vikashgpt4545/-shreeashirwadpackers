@@ -538,7 +538,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Heavy Cement Corridor & Agro-Machinery Logistics:</strong> Specialized crane loading and flatbeds for cement plants, Dal mill equipment, and industrial spares in Kapnoor KIADB.</li>
                 <li><strong>Heat & Dust Resilient Packaging:</strong> Multi-layer thermal wraps, thick moving blankets, and sealed container vehicles guarding against regional summer heat and dust.</li>
                 <li><strong>Fast Hyderabad & Bangalore Transit:</strong> Daily direct container shuttles reaching Hyderabad in 5 hours and Bangalore in 11 hours with live GPS tracking.</li>
-                <li><strong>Pan-India Network Reliability:</strong> Directly connected with our regional authority hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Pan-India Network Reliability:</strong> Directly connected with our regional authority hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

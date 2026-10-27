@@ -833,7 +833,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <strong>Faridabad City Hub</strong>
                 <span>Direct Highway Link via Mathura Road</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="lpn-cluster-card">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="lpn-cluster-card">
                 <strong>Ranchi Headquarters</strong>
                 <span>Company Main Authority & Eastern Logistics Hub</span>
             </a>

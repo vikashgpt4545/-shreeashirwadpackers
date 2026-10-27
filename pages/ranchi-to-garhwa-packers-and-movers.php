@@ -648,7 +648,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Shree Ashirwad Packers and Movers operates dedicated enclosed vehicles departing Ranchi via Ratu Road onto National Highway 39. The route proceeds through Kuru, Chandwa, and the scenic forest stretches of Latehar, bypassing Medininagar (Daltonganj) through the Rajhara-Lalmatia link to enter Garhwa town via Rehla. Because our trucks avoid congested local market detours, transit times average between 5 to 7 hours, enabling morning departures from Ranchi to be unloaded, unpacked, and organized in Garhwa on the very same afternoon.
                 </p>
                 <p>
-                    Our Ranchi pickup teams cover all residential colonies, including Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township, MECON Colony, CMPDI complex, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and Dhurwa. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--ran-gar-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/garhwa-to-ranchi-packers-and-movers" style="color: var(--ran-gar-primary); font-weight: 600; text-decoration: underline;">Garhwa to Ranchi packers and movers</a> corridor with equal dedication. We handle heavy furniture dismantling, elevator navigation, or stair carry with extreme care and dedicated equipment.
+                    Our Ranchi pickup teams cover all residential colonies, including Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township, MECON Colony, CMPDI complex, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and Dhurwa. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--ran-gar-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/garhwa-to-ranchi-packers-and-movers" style="color: var(--ran-gar-primary); font-weight: 600; text-decoration: underline;">Garhwa to Ranchi packers and movers</a> corridor with equal dedication. We handle heavy furniture dismantling, elevator navigation, or stair carry with extreme care and dedicated equipment.
                 </p>
                 <p>
                     At destination across Garhwa district, our delivery personnel ensure direct doorstep delivery in Garhwa town (Sahijana, Tandwa, Piprakala, Main Road, Collectorate Campus, Police Line), Nagar Untari (Shri Banshidhar Nagar), Bhawanathpur, Majhiaon, Ranka, and Chiniya. Every carton is placed in the designated bedroom, unpacked, and furniture assembled without leaving packing litter behind.
@@ -933,7 +933,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Garhwa to Ranchi (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ran-gar-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="ran-gar-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

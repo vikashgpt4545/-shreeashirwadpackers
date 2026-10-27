@@ -614,7 +614,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bikaner";
             <h2 class="bkn-section-heading">State-of-the-Art Transport Fleet & National Grid</h2>
             <p>Our transport infrastructure operates a versatile fleet of closed-body container trucks, ranging from nimble 14-foot carriers capable of navigating Bikaner's inner city alleys to 32-foot multi-axle freight containers for long-haul national transport.</p>
             <p>Every commercial vehicle is fitted with real-time GPS tracking devices, speed governors, and shock-absorbing suspension systems. Our 24/7 central logistics control room tracks shipment milestones continuously to ensure punctuality.</p>
-            <p>Anchored by our corporate operational headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, Shree Ashirwad Packers and Movers delivers nationwide logistical capabilities with reliable local service across every locality of Bikaner.</p>
+            <p>Anchored by our corporate operational headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, Shree Ashirwad Packers and Movers delivers nationwide logistical capabilities with reliable local service across every locality of Bikaner.</p>
         </div>
     </section>
 

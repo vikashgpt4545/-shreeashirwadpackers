@@ -478,7 +478,7 @@ require_once __DIR__ . '/../includes/config.php';
       <div class="mlg-highlight-box">
         <p><strong>Custom Estimate Notice:</strong> Final pricing depends on exact volume, floor elevation, elevator availability, packing material grade selected, and transit distance. For a detailed cost estimate customized for your upcoming transfer, visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">transparent shifting charges guide</a> or contact our Maligaon branch directly for a free on-site survey.</p>
       </div>
-      <p>For central administrative transfers or long-distance intercity relocations connecting through our corporate headquarters, please also explore our dedicated hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi</a>.</p>
+      <p>For central administrative transfers or long-distance intercity relocations connecting through our corporate headquarters, please also explore our dedicated hub at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi</a>.</p>
     </section>
 
     <!-- Section 3: Specialized Moving Services -->
@@ -629,7 +629,7 @@ require_once __DIR__ . '/../includes/config.php';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dispur-guwahati" class="mlg-cluster-link">Packers and Movers Dispur</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-beltola-guwahati" class="mlg-cluster-link">Packers and Movers Beltola</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mlg-cluster-link">Shifting Charges Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mlg-cluster-link">Packers and Movers Ranchi HQ</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="mlg-cluster-link">Packers and Movers Ranchi HQ</a>
       </div>
       <div class="mlg-cluster-desc">
         <p>Shree Ashirwad Packers and Movers Maligaon branch provides certified residential shifting, corporate office moving, railway officer transfer transit, automobile container carriage, and climate-safe warehousing with round-the-clock customer support across Assam.</p>

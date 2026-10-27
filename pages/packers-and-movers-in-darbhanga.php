@@ -594,7 +594,7 @@
                     Managing relocations across Darbhanga requires localized logistical versatility. While modern sectors like Donar Chowk and Laheriasarai feature accessible main roads, older central areas around Tower Chowk and Mirzapur have narrower approaches. Our team deploys agile shuttle vans to collect goods securely from doorsteps, consolidating cargo into long-haul closed containers positioned along the NH-27 bypass corridor.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally within Darbhanga or planning an interstate relocation, our operations integrate directly with our regional network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Bhagalpur</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally within Darbhanga or planning an interstate relocation, our operations integrate directly with our regional network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Bhagalpur</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -934,7 +934,7 @@
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" class="drb-cluster-link">Packers and Movers in Muzaffarpur</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" class="drb-cluster-link">Packers and Movers in Gaya</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" class="drb-cluster-link">Packers and Movers in Bhagalpur</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="drb-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="drb-cluster-link">Packers and Movers in Ranchi (HQ)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="drb-cluster-link">Live Rate Calculator</a>
             </div>
         </div>

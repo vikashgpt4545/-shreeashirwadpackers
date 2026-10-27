@@ -500,7 +500,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="whf-image-caption">Dedicated loading crews systematically stowing packed household cartons and furniture inside our closed container trucks in Whitefield.</p>
         </div>
 
-        <p>Operating in close coordination with our central parent authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Packers and Movers in Bangalore</a> and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our Whitefield branch provides seamless shifting whether you are moving across neighborhoods or undertaking an interstate transfer to Mumbai, Pune, Hyderabad, or Delhi NCR. We also maintain dedicated transit corridors connecting Whitefield with Marathahalli, Bellandur, and Electronic City.</p>
+        <p>Operating in close coordination with our central parent authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Packers and Movers in Bangalore</a> and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our Whitefield branch provides seamless shifting whether you are moving across neighborhoods or undertaking an interstate transfer to Mumbai, Pune, Hyderabad, or Delhi NCR. We also maintain dedicated transit corridors connecting Whitefield with Marathahalli, Bellandur, and Electronic City.</p>
 
         <p>Every assignment is assigned a personal moving supervisor who coordinates elevator permissions, inventories each carton, oversees vehicle loading, and tracks highway transit, giving you complete peace of mind throughout your relocation journey. Our punctuality, background-verified crew members, and rigorous attention to detail ensure your move is completely hassle-free, from packing the first kitchen cup to final furniture reassembly.</p>
     </section>
@@ -709,7 +709,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a>
             </div>
             <div class="whf-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

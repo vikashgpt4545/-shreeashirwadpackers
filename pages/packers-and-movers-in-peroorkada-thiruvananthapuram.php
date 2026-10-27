@@ -697,7 +697,7 @@
 
     <div class="prk-faq-item">
       <div class="prk-faq-question">Can you shift household goods from Peroorkada to Nedumangad, Kollam, or interstate?</div>
-      <p>Yes. We provide daily direct routes connecting Peroorkada along SH 2 to Nedumangad, Aryanad, and Kollam, along with interstate container services linking Thiruvananthapuram to Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+      <p>Yes. We provide daily direct routes connecting Peroorkada along SH 2 to Nedumangad, Aryanad, and Kollam, along with interstate container services linking Thiruvananthapuram to Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
     </div>
 
     <div class="prk-faq-item">

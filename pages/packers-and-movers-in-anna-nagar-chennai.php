@@ -542,7 +542,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-chennai";
                 <li><strong>Preserving Antique Teak &amp; Rosewood Furnishings:</strong> Many Anna Nagar homes house generational Chettinad carved furniture, heritage planters' chairs, and brass swami statues. We apply breathable cotton padding, corner foam guards, and customized wooden crating.</li>
                 <li><strong>Navigating Shanti Colony &amp; 2nd Avenue Commercial Traffic:</strong> Commercial avenues experience intense midday retail traffic. We schedule loading and unloading during controlled early-morning or evening windows with dedicated parking marshals.</li>
                 <li><strong>Gated Apartment Protocol &amp; Lift Padding:</strong> High-rise apartment complexes along Thirumangalam and Anna Nagar West enforce strict RWA regulations. We protect elevator interiors with quilted blankets and use neoprene floor runners to safeguard marble lobbies.</li>
-                <li><strong>Seamless Connectivity to Outer Ring Road &amp; NH-48:</strong> Direct connectivity via Koyambedu and Maduravoyal enables our linehaul container trucks to depart smoothly toward Bangalore, Hyderabad, or our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>.</li>
+                <li><strong>Seamless Connectivity to Outer Ring Road &amp; NH-48:</strong> Direct connectivity via Koyambedu and Maduravoyal enables our linehaul container trucks to depart smoothly toward Bangalore, Hyderabad, or our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -816,7 +816,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-chennai";
                 <a href="<?php echo SITE_BASE_URL; ?>/chennai-to-ranchi-packers-and-movers">Chennai to Ranchi Return</a>
             </div>
             <div class="anc-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company Headquarters</a>
             </div>
         </div>
     </section>

@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-cuddalore";
         <p>Cuddalore holds an exceptionally strategic location along the central Tamil Nadu coast. NH 32 provides high-speed coastal connectivity north to Puducherry and Chennai, and south to Chidambaram, Karaikal, and Nagapattinam. State Highway 9 links directly inland through Panruti to Neyveli, Virudhachalam, and Salem. This extensive road network allows our container fleet to reach any Southern Indian trade center quickly and reliably.</p>
 
         <div class="cdl-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0f4c81; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Cuddalore directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f4c81; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Cuddalore directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Cuddalore</h3>

@@ -572,7 +572,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Relocating back from Mysuru to Ranchi represents a major transition across nearly 2,000 kilometers of diverse terrain. Whether you have completed an assignment at Infosys Mysore Campus in Hebbal, served a research tenure at the Central Food Technological Research Institute (CFTRI) or Defense Food Research Laboratory (DFRL), taught at the University of Mysore, or are returning to Jharkhand to be closer to family and ancestral roots, having an organized logistics partner is vital.
         </p>
         <p class="mysr-text">
-            Shree Ashirwad Packers and Movers operates a dedicated reverse-logistics corridor between Karnataka and Jharkhand. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1E3A8A; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also manage high-frequency outbound relocations on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-mysore-packers-and-movers" style="color: #1E3A8A; font-weight: 600; text-decoration: underline;">Ranchi to Mysore packers and movers</a> corridor with equal dedication. Because our trucks routinely transport household cargo and industrial supplies from Ranchi, Jamshedpur, and Dhanbad down to Bengaluru and Mysuru, our returning container fleet offers unmatched reliability, competitive freight rates, and scheduled departures back toward Eastern India.
+            Shree Ashirwad Packers and Movers operates a dedicated reverse-logistics corridor between Karnataka and Jharkhand. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1E3A8A; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also manage high-frequency outbound relocations on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-mysore-packers-and-movers" style="color: #1E3A8A; font-weight: 600; text-decoration: underline;">Ranchi to Mysore packers and movers</a> corridor with equal dedication. Because our trucks routinely transport household cargo and industrial supplies from Ranchi, Jamshedpur, and Dhanbad down to Bengaluru and Mysuru, our returning container fleet offers unmatched reliability, competitive freight rates, and scheduled departures back toward Eastern India.
         </p>
 
         <!-- Image 1 -->
@@ -884,7 +884,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Mysore (Return)</span>
                 <span style="color: #E11D48;">→</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #1E3A8A; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #1E3A8A; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                 <span>Ranchi Headquarters Hub</span>
                 <span style="color: #E11D48;">→</span>
             </a>

@@ -575,7 +575,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Moving household goods or commercial cargo over 1,340 km between Ranchi, Jharkhand, and Panipat, Haryana, requires robust logistics planning. Renowned globally as the "City of Weavers" and "Textile City," Panipat is also home to South Asia's prominent petrochemical hub—the Indian Oil Corporation Limited (IOCL) Panipat Refinery &amp; Petrochemical Complex. The city experiences consistent inter-state corporate, industrial, and residential migration from Eastern India.
         </p>
         <p class="r2pn-text">
-            At Shree Ashirwad Packers and Movers, we deliver dependable end-to-end relocation management engineered specifically for this long-haul corridor. As the leading brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also operate regular return container trips along our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/panipat-to-ranchi-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Panipat to Ranchi packers and movers</a> corridor. By taking the Western Peripheral Expressway (KMP) from Palwal up to Kundli and merging straight onto the high-speed NH-44 (Grand Trunk Road), our trucks avoid all municipal Delhi no-entry restrictions, delivering your belongings safely into Panipat in record time.
+            At Shree Ashirwad Packers and Movers, we deliver dependable end-to-end relocation management engineered specifically for this long-haul corridor. As the leading brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also operate regular return container trips along our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/panipat-to-ranchi-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Panipat to Ranchi packers and movers</a> corridor. By taking the Western Peripheral Expressway (KMP) from Palwal up to Kundli and merging straight onto the high-speed NH-44 (Grand Trunk Road), our trucks avoid all municipal Delhi no-entry restrictions, delivering your belongings safely into Panipat in record time.
         </p>
 
         <!-- Image 1 -->
@@ -902,7 +902,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Panipat to Ranchi (Return)</span>
                 <span style="color: #E11D48;">→</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                 <span>Ranchi Headquarters Hub</span>
                 <span style="color: #E11D48;">→</span>
             </a>

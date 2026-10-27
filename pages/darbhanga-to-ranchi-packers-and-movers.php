@@ -651,7 +651,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Our Darbhanga field teams service all prominent neighborhoods and institutional quarters, including Laheriasarai, Tower Chowk, Donar, Mirzapur, Benta Chowk, Allalpatti, Kathalbari, Bela Industrial Area, Rahamganj, Mabbi, Rajkumarganj, and Panda Sarai. We frequently handle complete home relocations from faculty quarters inside the sprawling Kameshwar Nagar university campus, resident doctor residences around DMCH and Allalpatti, and senior advocate bungalows in Laheriasarai. We ensure careful handling through narrow residential lanes, coordinating parking and lift access with gated apartment societies.
                 </p>
                 <p>
-                    At destination in Ranchi, our trained crew delivers straight to your doorstep across Morabadi, Kanke Road, Bariatu, Ashok Nagar, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, the Dhurwa core capital complex, SAIL Township, MECON Colony, CMPDI complex, and BIT Mesra. Every single carton is placed in designated rooms, unpacked systematically, furniture reassembled securely, and all packing debris cleared for immediate living comfort. As a certified moving leader in Jharkhand, our team also provides dedicated reciprocal <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-darbhanga-packers-and-movers" style="color: var(--dbg-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Darbhanga packers and movers</a> services, anchored by our main headquarters for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--dbg-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>.
+                    At destination in Ranchi, our trained crew delivers straight to your doorstep across Morabadi, Kanke Road, Bariatu, Ashok Nagar, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, the Dhurwa core capital complex, SAIL Township, MECON Colony, CMPDI complex, and BIT Mesra. Every single carton is placed in designated rooms, unpacked systematically, furniture reassembled securely, and all packing debris cleared for immediate living comfort. As a certified moving leader in Jharkhand, our team also provides dedicated reciprocal <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-darbhanga-packers-and-movers" style="color: var(--dbg-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Darbhanga packers and movers</a> services, anchored by our main headquarters for <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--dbg-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>.
                 </p>
             </div>
             <div class="dbg-ran-img-box">
@@ -927,7 +927,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Darbhanga (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dbg-ran-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="dbg-ran-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

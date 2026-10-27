@@ -201,7 +201,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Packers and Movers in Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -1339,7 +1339,7 @@ require_once __DIR__ . '/includes/seo.php';
       </p>
       <div class="r2dp-cluster-links">
         <a href="<?php echo SITE_BASE_URL; ?>/durgapur-to-ranchi-packers-and-movers" class="r2dp-cluster-link">Durgapur to Ranchi (Return)</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2dp-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2dp-cluster-link">Ranchi Headquarters</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2dp-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-asansol-packers-and-movers" class="r2dp-cluster-link">Ranchi to Asansol</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-siliguri-packers-and-movers" class="r2dp-cluster-link">Ranchi to Siliguri</a>

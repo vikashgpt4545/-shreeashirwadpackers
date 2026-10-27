@@ -732,7 +732,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
 
-        <p>Planning an intercity move connecting the Mumbai Metropolitan Region with other state capitals? Check our dedicated corridors for <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-delhi-packers-and-movers" style="color: #065f46; font-weight: 700; text-decoration: underline;">Mumbai to Delhi packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-bangalore-packers-and-movers" style="color: #065f46; font-weight: 700; text-decoration: underline;">Mumbai to Bangalore packers and movers</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #065f46; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for detailed route calculations.</p>
+        <p>Planning an intercity move connecting the Mumbai Metropolitan Region with other state capitals? Check our dedicated corridors for <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-delhi-packers-and-movers" style="color: #065f46; font-weight: 700; text-decoration: underline;">Mumbai to Delhi packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-bangalore-packers-and-movers" style="color: #065f46; font-weight: 700; text-decoration: underline;">Mumbai to Bangalore packers and movers</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #065f46; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for detailed route calculations.</p>
 
         <!-- Section 6: FAQs -->
         <h2 class="kdmb-section-heading">Frequently Asked Questions: Packers and Movers in Kalyan Dombivli</h2>
@@ -773,7 +773,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service">Single Item &amp; Furniture Moving Service</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing">Secure Household Storage &amp; Warehousing</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Packers and Movers Charges Per KM Rates</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Central Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Central Company Headquarters</a>
             </div>
         </div>
 

@@ -538,7 +538,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Defense & Cantonment Transfer Expertise:</strong> 100% compliant documentation, IBA-format billing, and prioritized scheduling for military and paramilitary personnel.</li>
                 <li><strong>Heavy Foundry & Precision Machinery Handling:</strong> Hydraulic cranes, heavy-duty rigging tools, and custom wooden crating for Udyambag and Macche industrial units.</li>
                 <li><strong>Tri-State Golden Quadrilateral Fleet:</strong> Daily express container trucks connecting Belgaum to Maharashtra, Goa, Karnataka, and eastern trade hubs.</li>
-                <li><strong>Pan-India Network Reliability:</strong> Backed by parent authority centers in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Pan-India Network Reliability:</strong> Backed by parent authority centers in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

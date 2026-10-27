@@ -751,7 +751,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting across the street in Manikonda or coordinating an interstate move back to our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees consistent quality and on-time delivery.</p>
+    <p>Whether you are shifting across the street in Manikonda or coordinating an interstate move back to our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees consistent quality and on-time delivery.</p>
     <p>With thousands of successful domestic and corporate relocations executed across South and Central India, our Manikonda branch brings proven enterprise-grade logistics directly to your doorstep with guaranteed delivery schedules.</p>
   </section>
 

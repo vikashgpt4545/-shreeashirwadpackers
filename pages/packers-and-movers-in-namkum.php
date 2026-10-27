@@ -355,7 +355,7 @@ require_once "includes/config.php";
                 Comprehensive Relocation Solutions in Namkum, Ranchi
             </h2>
             <p style="color: #64748b; font-size: 1.05rem; line-height: 1.7; margin-top: 15px;">
-                We deliver end-to-end relocation services executed with certified packing materials, modern vehicles, and experienced personnel:
+                As Jharkhand's certified <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; font-weight: 700; text-decoration: underline;">movers and packers Ranchi</a> headquarters, we deliver end-to-end relocation services executed with certified packing materials, modern vehicles, and experienced personnel:
             </p>
         </div>
 

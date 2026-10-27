@@ -940,7 +940,7 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Breadcrumb Bar -->
         <nav class="r2gkp-breadcrumbs" aria-label="breadcrumb">
           <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &gt;
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> &gt;
+          <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> &gt;
           <span>Ranchi to Gorakhpur Packers and Movers</span>
         </nav>
 
@@ -1480,7 +1480,7 @@ require_once __DIR__ . '/includes/seo.php';
           Explore our complete interstate moving network connecting Ranchi to premier national destinations:
         </p>
         <div class="r2gkp-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-varanasi-packers-and-movers">Ranchi to Varanasi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-prayagraj-packers-and-movers">Ranchi to Prayagraj</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kanpur-packers-and-movers">Ranchi to Kanpur</a>

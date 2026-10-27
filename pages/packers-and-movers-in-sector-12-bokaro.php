@@ -394,7 +394,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
             <div>
                 <h2 class="s12-section-title">Reliable Home Relocation in Sector 12 Bokaro</h2>
                 <p>Sector 12 represents one of the most populated and extensive residential sectors in Bokaro Steel City. Comprising multiple designated sub-sectors including Sector 12-A, 12-B, 12-C, 12-D, 12-E, and 12-F, this sprawling neighborhood is home to thousands of SAIL Bokaro Steel Plant employee families, teachers, healthcare professionals, and retired personnel.</p>
-                <p><strong>Shree Ashirwad Packers and Movers</strong> has served Sector 12 residents for over 16 years. Our trained movers are intimately familiar with Sector 12’s broad avenues, multi-story quarter layouts, staircase dimensions, and entry checkpoints. Whether moving to a new quarter in Sector 4, shifting across the border to Chas, or transferring to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Dhanbad</a> or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, we ensure complete goods safety.</p>
+                <p><strong>Shree Ashirwad Packers and Movers</strong> has served Sector 12 residents for over 16 years. Our trained movers are intimately familiar with Sector 12’s broad avenues, multi-story quarter layouts, staircase dimensions, and entry checkpoints. Whether moving to a new quarter in Sector 4, shifting across the border to Chas, or transferring to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Dhanbad</a> or <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, we ensure complete goods safety.</p>
                 <p>Check out our parent city authority page at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Packers and Movers in Bokaro</a> or calculate moving estimates on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>.</p>
             </div>
             <div>
@@ -583,7 +583,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro">Movers in Sector 4 Bokaro</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas">Packers and Movers in Chas</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers in Dhanbad</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Relocation Cost Calculator</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact">Contact Customer Care</a>
             </div>

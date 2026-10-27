@@ -636,7 +636,7 @@ require_once __DIR__ . '/../includes/config.php';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dibrugarh" class="gsr-cluster-link">Packers and Movers Dibrugarh</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="gsr-cluster-link">Packers and Movers Kolkata</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="gsr-cluster-link">Packers and Movers Delhi</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="gsr-cluster-link">Headquarters Authority Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="gsr-cluster-link">Headquarters Authority Ranchi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gsr-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

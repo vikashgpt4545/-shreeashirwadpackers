@@ -497,7 +497,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="gbr-image-caption">Dedicated container truck loading and cargo securing for high-rise residential apartments along Ghodbunder Road.</p>
         </div>
 
-        <p>Operating under the umbrella of our main district authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a> and linking to our central corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our logistical backbone guarantees reliable interstate transit, real-time consignment tracking, and guaranteed delivery schedules.</p>
+        <p>Operating under the umbrella of our main district authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a> and linking to our central corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our logistical backbone guarantees reliable interstate transit, real-time consignment tracking, and guaranteed delivery schedules.</p>
 
         <p>From initial inventory cataloging to final furniture assembly in your new home, our seasoned move supervisors ensure that every delicate crockery set, heavy wooden wardrobe, and expensive home theater system is handled with absolute care.</p>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Mumbai Authority Hub</a>
             </div>
             <div class="gbr-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Central HQ</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi Central HQ</a>
             </div>
         </div>
 

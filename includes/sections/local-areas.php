@@ -50,23 +50,41 @@
         <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
         Key Ranchi Localities We Serve Daily with Doorstep Fleet:
       </h3>
+      <style>
+      .neighborhoods-tags a.area-pill {
+        text-decoration: none;
+        display: inline-block;
+        transition: all 0.2s ease;
+      }
+      .neighborhoods-tags a.area-pill:hover {
+        background: var(--accent);
+        color: #ffffff;
+        border-color: var(--accent);
+      }
+      .neighborhoods-tags a.area-pill:hover strong {
+        color: #ffffff;
+      }
+      </style>
       <div class="neighborhoods-tags">
-        <span class="area-pill"><strong>Harmu Housing Colony</strong> (Head Office)</span>
-        <span class="area-pill">Kanke Road</span>
-        <span class="area-pill">Lalpur & Circular Road</span>
-        <span class="area-pill">Doranda</span>
-        <span class="area-pill">Bariatu & Booty More</span>
-        <span class="area-pill">Morabadi</span>
-        <span class="area-pill">Ratu Road & Pandra</span>
-        <span class="area-pill">Argora & Ashok Nagar</span>
-        <span class="area-pill">Hinoo & Birsa Chowk</span>
-        <span class="area-pill">Namkum & Tata Road</span>
-        <span class="area-pill">Tupudana Industrial Area</span>
-        <span class="area-pill">Dhurwa (HEC Colony)</span>
-        <span class="area-pill">Hatia & Station Road</span>
-        <span class="area-pill">Kokar & Kantatoli</span>
-        <span class="area-pill">Kadru</span>
-        <span class="area-pill">Hehal & Itki Road</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi" class="area-pill" title="Packers and Movers in Harmu Ranchi"><strong>Harmu Housing Colony</strong> (Head Office)</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke" class="area-pill" title="Packers and Movers in Kanke Road Ranchi">Kanke Road</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur-ranchi" class="area-pill" title="Packers and Movers in Lalpur Ranchi">Lalpur & Circular Road</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi" class="area-pill" title="Packers and Movers in Doranda Ranchi">Doranda</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi" class="area-pill" title="Packers and Movers in Bariatu Ranchi">Bariatu</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-booty-more-ranchi" class="area-pill" title="Packers and Movers in Booty More Ranchi">Booty More</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi" class="area-pill" title="Packers and Movers in Morabadi Ranchi">Morabadi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ratu-road-ranchi" class="area-pill" title="Packers and Movers in Ratu Road Ranchi">Ratu Road</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi" class="area-pill" title="Packers and Movers in Ashok Nagar Ranchi">Ashok Nagar</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hinoo-ranchi" class="area-pill" title="Packers and Movers in Hinoo Ranchi">Hinoo & Birsa Chowk</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum" class="area-pill" title="Packers and Movers in Namkum Ranchi">Namkum</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tupudana-ranchi" class="area-pill" title="Packers and Movers in Tupudana Ranchi">Tupudana Industrial Area</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhurwa-ranchi" class="area-pill" title="Packers and Movers in Dhurwa Ranchi">Dhurwa (HEC Colony)</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hatia-ranchi" class="area-pill" title="Packers and Movers in Hatia Ranchi">Hatia & Station Road</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kokar-ranchi" class="area-pill" title="Packers and Movers in Kokar Ranchi">Kokar & Kantatoli</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cmpdi-colony-ranchi" class="area-pill" title="Packers and Movers in CMPDI Colony Ranchi">CMPDI Colony</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sail-township-ranchi" class="area-pill" title="Packers and Movers in SAIL Township Ranchi">SAIL Township</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-khelgaon-hotwar-ranchi" class="area-pill" title="Packers and Movers in Khelgaon Hotwar Ranchi">Khelgaon</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tatisilwai-ranchi" class="area-pill" title="Packers and Movers in Tatisilwai Ranchi">Tatisilwai</a>
       </div>
     </div>
 

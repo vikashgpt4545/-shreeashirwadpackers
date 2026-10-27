@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bidar";
                 <li><strong>Artisan Bidriware Protection:</strong> Specialized multi-layered non-abrasive wrapping, tissue padding, and rigid foam-lined boxes for delicate Bidriware metal crafts and heritage artifacts.</li>
                 <li><strong>Direct Tri-State Dispatches:</strong> Daily direct departures connecting Bidar to Hyderabad, Gulbarga, Bangalore, Pune, and northern military bases without transshipment delays.</li>
                 <li><strong>Industrial Rigging in Naubad:</strong> Heavy machinery moving, equipment anchoring, and safe industrial parts transit across Naubad and Humnabad industrial belts.</li>
-                <li><strong>Centralized National Command:</strong> End-to-end operational management and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Centralized National Command:</strong> End-to-end operational management and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -773,7 +773,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bidar";
         </div>
         <div class="bid-faq-item">
             <h3>Is transit insurance mandatory for interstate moves from Bidar?</h3>
-            <p>While optional, we strongly recommend our 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>While optional, we strongly recommend our 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
         <div class="bid-faq-item">
             <h3>Can you shift vehicles like cars and motorbikes from Bidar to other states?</h3>

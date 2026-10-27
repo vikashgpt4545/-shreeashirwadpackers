@@ -651,7 +651,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Our Durgapur pickup crews operate across every prominent residential neighborhood, including City Centre, Steel Township (B-Zone, A-Zone, Steel Colony), Benachity, Bhiringi, Fuljhor, Muchipara, Prantika, Sepco Township, Andal, Waria, and Durgapur Barrage area. We coordinate directly with cooperative housing societies and township security desks to secure gate passes, lift reservations, and orderly loading schedules.
                 </p>
                 <p>
-                    At destination in Ranchi, our experienced team provides comprehensive white-glove delivery across Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township (Ranchi R&amp;DCIS / MTI quarters), MECON Colony, CMPDI complex, Harmu Housing Board, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and the Dhurwa core capital zone. Every furniture piece is systematically placed, unpacked, reassembled, and cleaned of packing debris. Our moving crew also delivers daily outbound transfers for <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-durgapur-packers-and-movers" style="color: var(--dgp-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Durgapur packers and movers</a>, managed directly by our central headquarters for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--dgp-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>.
+                    At destination in Ranchi, our experienced team provides comprehensive white-glove delivery across Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township (Ranchi R&amp;DCIS / MTI quarters), MECON Colony, CMPDI complex, Harmu Housing Board, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and the Dhurwa core capital zone. Every furniture piece is systematically placed, unpacked, reassembled, and cleaned of packing debris. Our moving crew also delivers daily outbound transfers for <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-durgapur-packers-and-movers" style="color: var(--dgp-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Durgapur packers and movers</a>, managed directly by our central headquarters for <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--dgp-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>.
                 </p>
             </div>
             <div class="dgp-ran-img-box">
@@ -927,7 +927,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Durgapur (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dgp-ran-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="dgp-ran-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

@@ -497,7 +497,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="blp-image-caption">Dedicated loading technicians securing packed household consignments inside our container vehicles in CBD Belapur.</p>
         </div>
 
-        <p>Operating in direct synergy with our regional master hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-navi-mumbai">Packers and Movers in Navi Mumbai</a> and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to Nerul, Kharghar, or Panvel, heading into Mumbai via Atal Setu (MTHL), or executing an interstate transfer across India.</p>
+        <p>Operating in direct synergy with our regional master hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-navi-mumbai">Packers and Movers in Navi Mumbai</a> and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to Nerul, Kharghar, or Panvel, heading into Mumbai via Atal Setu (MTHL), or executing an interstate transfer across India.</p>
 
         <p>Our operations team closely monitors maritime weather patterns, humidity fluctuations along the creek, and municipal vehicular entry hours to schedule dispatches during calm traffic intervals, ensuring prompt and safe relocations throughout Sector 15 and greater Belapur. Every assignment is managed under the vigilant supervision of a dedicated relocation officer who coordinates every phase from pre-move survey to final furniture placement, ensuring your precious home possessions arrive in flawless condition.</p>
     </section>
@@ -706,7 +706,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kopar-khairane-navi-mumbai">Packers Movers Kopar Khairane</a>
             </div>
             <div class="blp-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

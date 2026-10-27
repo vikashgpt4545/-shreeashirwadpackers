@@ -491,7 +491,7 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
                 <p>We load botanical cargo last into the vehicle and unload it first at the destination, minimizing the duration your plants spend in transit without natural sunlight.</p>
                 <div class="pet-highlight-box">
                     <h4>Ranchi Pillar Authority Hub</h4>
-                    <p>Read full details regarding our complete household moving standards on the centralized <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> authority page.</p>
+                    <p>Read full details regarding our complete household moving standards on the centralized <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> authority page.</p>
                 </div>
             </div>
             <div>

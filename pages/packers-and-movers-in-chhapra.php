@@ -610,7 +610,7 @@
                     Managing shifting operations across Chhapra requires seasoned logistical coordination. In expanding residential areas like Dahiyawan, Prabhunath Nagar, and Salempur, roadways facilitate straightforward vehicle positioning. In dense older sectors like Sahebganj and Nai Bazar, our logistics coordinators deploy agile feeder vehicles to collect goods safely before consolidating them into our covered container trucks stationed along the bypass.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally within Chhapra or transferring across state borders, our operations link directly with our network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-arrah" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Arrah</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Darbhanga</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally within Chhapra or transferring across state borders, our operations link directly with our network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-arrah" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Arrah</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Darbhanga</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -964,7 +964,7 @@
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" class="chp-cluster-link">Packers and Movers in Muzaffarpur</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" class="chp-cluster-link">Packers and Movers in Darbhanga</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" class="chp-cluster-link">Packers and Movers in Gaya</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="chp-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="chp-cluster-link">Packers and Movers in Ranchi (HQ)</a>
             </div>
         </div>
 

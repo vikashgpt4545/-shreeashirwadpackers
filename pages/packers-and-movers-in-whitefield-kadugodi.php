@@ -733,7 +733,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
 
-        <p>Planning an intercity move connecting East Bangalore with Tamil Nadu or Telangana metros? Explore our dedicated corridors on <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-chennai-packers-and-movers" style="color: #0284c7; font-weight: 700; text-decoration: underline;">Bangalore to Chennai packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-hyderabad-packers-and-movers" style="color: #0284c7; font-weight: 700; text-decoration: underline;">Bangalore to Hyderabad express corridor</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #0284c7; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for precise route planning.</p>
+        <p>Planning an intercity move connecting East Bangalore with Tamil Nadu or Telangana metros? Explore our dedicated corridors on <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-chennai-packers-and-movers" style="color: #0284c7; font-weight: 700; text-decoration: underline;">Bangalore to Chennai packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-hyderabad-packers-and-movers" style="color: #0284c7; font-weight: 700; text-decoration: underline;">Bangalore to Hyderabad express corridor</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #0284c7; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for precise route planning.</p>
 
         <!-- Section 6: FAQs -->
         <h2 class="wfkd-section-heading">Frequently Asked Questions: Packers and Movers in Whitefield Kadugodi</h2>
@@ -774,7 +774,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service">Single Item &amp; Furniture Moving Service</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing">Secure Household Goods Warehousing</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Packers and Movers Charges Per KM Rates</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Central Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Central Company Headquarters</a>
             </div>
         </div>
 

@@ -562,7 +562,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="snm-intro-p">Our localized familiarity ensures that no time is wasted seeking addresses or negotiating residential gates. Our drivers are intimately familiar with local no-entry timings, morning school traffic schedules, and optimal parking spots across Shastri Nagar.</p>
 
-        <p class="snm-intro-p">For clients moving to other regional hubs in western Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
+        <p class="snm-intro-p">For clients moving to other regional hubs in western Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
     </section>
 
     <!-- Section 4: Transparent Tariff Structure -->
@@ -737,7 +737,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida" class="snm-link-card">Noida Expressway Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="snm-link-card">Delhi NCR Mega Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow" class="snm-link-card">Lucknow State Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="snm-link-card">Ranchi Head Office Hub</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="snm-link-card">Ranchi Head Office Hub</a>
         </div>
     </section>
 

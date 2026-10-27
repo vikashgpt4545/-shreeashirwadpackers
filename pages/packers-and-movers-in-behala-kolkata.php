@@ -800,7 +800,7 @@
         <div class="bhl-grid-2" style="margin-top: 36px;">
             <div>
                 <h3 style="font-size:1.35rem; color:#0f2b48; font-weight:700; margin-bottom:12px;">Interstate Connectivity & Eastern Regional Reach</h3>
-                <p>Relocating from Behala to other states is made effortless through our centralized logistics network. Shree Ashirwad Packers and Movers maintains direct corporate ties with our founding headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"><strong>Packers and Movers in Ranchi</strong></a>, operating direct route links across Jharkhand, Bihar, Odisha, and West Bengal.</p>
+                <p>Relocating from Behala to other states is made effortless through our centralized logistics network. Shree Ashirwad Packers and Movers maintains direct corporate ties with our founding headquarters at <a href="<?php echo SITE_BASE_URL; ?>/"><strong>Packers and Movers in Ranchi</strong></a>, operating direct route links across Jharkhand, Bihar, Odisha, and West Bengal.</p>
                 <p>All long-distance consignments are sealed with tamper-proof numbered locks, escorted by professional linehaul drivers, and insured through licensed national insurance carriers, ensuring comprehensive security from origin pickup in Behala to final destination delivery.</p>
             </div>
             <div>

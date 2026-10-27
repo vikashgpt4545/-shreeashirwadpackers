@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-karur";
         <p>Karur holds an exceptionally strategic location in Central Tamil Nadu. NH 44 provides an express expressway north toward Salem and Bangalore, and south toward Dindigul and Madurai. NH 81 links east directly to Tiruchirappalli (Trichy) and west toward Kangeyam, Tiruppur, and Coimbatore. State Highway 84 connects northwest through Kodumudi toward Erode. This extensive highway network allows our container fleet to reach any Southern Indian trade center quickly and reliably.</p>
 
         <div class="krr-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Karur directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Karur directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Karur</h3>

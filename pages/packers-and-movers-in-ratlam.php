@@ -415,7 +415,7 @@ $state_name = 'Madhya Pradesh';
       <div class="rtm-grid-2">
         <div>
           <p>Ratlam occupies a vital geographic and economic crossroads in western Madhya Pradesh, standing as the divisional headquarters of Western Railway along the critical Delhi-Mumbai main trunk line. Celebrated across India for its crispy Ratlami Sev (GI Tag), flourishing gold jewellery trade centered around Manek Chowk Sarafa, and rich agricultural grain markets, Ratlam is a bustling hub of commerce and connectivity. From the extensive railway colonies and administrative quarters around Station Road, to vibrant residential sectors like Shastri Nagar, Kasturba Nagar, Alkapuri, and Dilip Nagar, the city is defined by steady residential and professional movement.</p>
-          <p>Relocating in Ratlam requires experienced logistics expertise, particularly for frequent railway officer transfers with strict billing requirements, delicate jewellery showroom fixture moves, and multistory apartment shifts. At <strong>Shree Ashirwad Packers and Movers</strong>, backed by our national network anchored at our headquarters in Ranchi (<a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338ca; font-weight: 700;">packers and movers in Ranchi</a>), we deliver customized moving services executed with precision across Ratlam and nationwide.</p>
+          <p>Relocating in Ratlam requires experienced logistics expertise, particularly for frequent railway officer transfers with strict billing requirements, delicate jewellery showroom fixture moves, and multistory apartment shifts. At <strong>Shree Ashirwad Packers and Movers</strong>, backed by our national network anchored at our headquarters in Ranchi (<a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338ca; font-weight: 700;">packers and movers in Ranchi</a>), we deliver customized moving services executed with precision across Ratlam and nationwide.</p>
         </div>
         <div>
           <div class="rtm-image-container">
@@ -683,7 +683,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div class="rtm-card">
           <h4>Mandsaur Agro Trade Center</h4>
-          <p>Northern Malwa trade and slate manufacturing hub moving via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mandsaur" style="color: #4338ca; font-weight: 700;">packers and movers in Mandsaur</a>.</p>
+          <p>Northern Malwa trade and slate manufacturing hub moving via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ratlam" style="color: #4338ca; font-weight: 700;">packers and movers in Mandsaur</a>.</p>
         </div>
         <div class="rtm-card">
           <h4>Bhopal State Capital</h4>

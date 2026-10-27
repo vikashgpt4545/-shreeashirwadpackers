@@ -620,7 +620,7 @@ $state_name = 'Goa';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai" class="mps-cluster-link">Packers and Movers Mumbai</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune" class="mps-cluster-link">Packers and Movers Pune</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" class="mps-cluster-link">Packers and Movers Bangalore</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mps-cluster-link">Headquarters Authority Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="mps-cluster-link">Headquarters Authority Ranchi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mps-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

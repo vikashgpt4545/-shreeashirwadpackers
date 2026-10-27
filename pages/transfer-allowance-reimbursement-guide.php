@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Ranchi is the administrative capital of Jharkhand and houses the corporate headquarters and apex technical institutes of major Public Sector Undertakings (PSUs) and Central Government establishments. Key institutions include Central Coalfields Limited (CCL Darbhanga House), Central Mine Planning & Design Institute (CMPDI Kanke Road), Steel Authority of India Limited (SAIL RDCIS and CET), MECON Limited (Doranda), the Office of the Principal Accountant General (AG Office), and the sprawling Dipatoli Military Cantonment.</p>
                         <p>Every year, thousands of officers, engineers, defense personnel, and bankers undergo official outstation transfers between Ranchi and locations such as Dhanbad, Asansol, Kolkata, Bokaro, Bilaspur, New Delhi, and Nagpur. While government service rules entitle transferred personnel to full reimbursement of relocation expenses under Transfer Traveling Allowance (TTA) and Composite Transfer Grant (CTG), strict internal audit guidelines frequently delay or reject claims due to non-compliant documentation.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we operate a specialized Government & PSU Relocation Cell that ensures every single invoice, consignment note, and weighment slip satisfies internal audit scrutiny 100% on the very first submission.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we operate a specialized Government & PSU Relocation Cell that ensures every single invoice, consignment note, and weighment slip satisfies internal audit scrutiny 100% on the very first submission.</p>
                         <div class="targ-highlight">
                             <h4>Calculate Authorized Tariff Allowances</h4>
                             <p>Verify your composite moving costs against departmental spending caps using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -412,13 +412,13 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Government Relocation Guides, Pricing & Regional Hubs</h3>
                 <p>Plan your official transfer with complete documentation, transparent rate calculators, and route guides:</p>
                 <div class="targ-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi">How Much Packers Charge in Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/household-storage-guide-ranchi">Household Storage Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/loading-unloading-labour-guide">Loading Labour Guide</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda (MECON/AG)</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda (MECON/AG)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke (CMPDI)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum">Packers and Movers Namkum (Army Camp)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers Dhanbad (BCCL)</a>

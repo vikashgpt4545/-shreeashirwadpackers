@@ -732,7 +732,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
 
-        <p>Combining storage with an upcoming intercity relocation or vehicle shipment? Check out our <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service" style="color: #4f46e5; font-weight: 700; text-decoration: underline;">single item furniture shifting services</a>, <a href="<?php echo SITE_BASE_URL; ?>/interstate-bike-parcel-and-courier-service" style="color: #4f46e5; font-weight: 700; text-decoration: underline;">interstate bike parcel services</a>, and use our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #4f46e5; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for complete logistical coordination.</p>
+        <p>Combining storage with an upcoming intercity relocation or vehicle shipment? Check out our <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service" style="color: #4f46e5; font-weight: 700; text-decoration: underline;">single item furniture shifting services</a>, <a href="<?php echo SITE_BASE_URL; ?>/interstate-bike-parcel-and-courier-service" style="color: #4f46e5; font-weight: 700; text-decoration: underline;">interstate bike parcel services</a>, and use our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #4f46e5; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for complete logistical coordination.</p>
 
         <!-- Section 7: FAQs -->
         <h2 class="hgsw-section-heading">Frequently Asked Questions: Household Storage &amp; Warehousing</h2>
@@ -773,7 +773,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/data-center-server-and-office-relocation">Server Rack &amp; Corporate Office Shifting</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/">Official Commercial Warehousing Overview</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Packers and Movers Charges Per KM Rate Card</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Packers Headquarters &amp; Central Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Packers Headquarters &amp; Central Hub</a>
             </div>
         </div>
 

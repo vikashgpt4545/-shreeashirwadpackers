@@ -730,7 +730,7 @@ require_once ROOT_PATH . '/includes/config.php';
             </div>
             <div class="s150-card">
                 <h3>Direct Pan-India Highway Corridors</h3>
-                <p>Direct routes from Sector 150 to our Ranchi HQ at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, plus direct links to Patna, Jamshedpur, and Dhanbad.</p>
+                <p>Direct routes from Sector 150 to our Ranchi HQ at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, plus direct links to Patna, Jamshedpur, and Dhanbad.</p>
             </div>
         </div>
 
@@ -782,7 +782,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-18-noida" class="s150-cluster-link">Sector 18 Noida</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida" class="s150-cluster-link">Noida Authority Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-greater-noida" class="s150-cluster-link">Greater Noida Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="s150-cluster-link">Company Headquarters (Ranchi)</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="s150-cluster-link">Company Headquarters (Ranchi)</a>
         </div>
     </section>
 

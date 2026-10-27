@@ -539,7 +539,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="dlh-section-title">Premier Relocation Services Across the National Capital Territory</h2>
                 <p class="dlh-lead-p">The National Capital Territory (NCT) of Delhi functions as the political, administrative, and economic heart of India. Home to the Union Government ministries, foreign diplomatic missions in Chanakyapuri, the Supreme Court, premier healthcare institutions such as AIIMS, and world-class universities like Delhi University, JNU, and IIT Delhi, the capital region witnesses non-stop mobility. Families, civil servants, corporate executives, medical specialists, and entrepreneurs continuously relocate between the capital's distinct zones and nationwide economic centers.</p>
                 <p class="dlh-body-p">Relocating within Delhi demands deep operational mastery of complex municipal dynamics. From navigating the busy arterial corridors of the Ring Road and Outer Ring Road to coordinating moves within dense residential neighborhoods across <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dwarka-delhi">Dwarka</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rohini-delhi">Rohini</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-janakpuri-delhi">Janakpuri</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pitampura-delhi">Pitampura</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-laxmi-nagar-delhi">Laxmi Nagar</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-vasant-kunj-delhi">Vasant Kunj</a>, moving teams must manage strict traffic regulations, peak-hour truck restrictions, and gated society access guidelines.</p>
-                <p class="dlh-body-p">Shree Ashirwad Packers and Movers brings verified metropolitan infrastructure to Delhi. Operating clean, closed container fleets equipped with GPS tracking, we link Delhi seamlessly with sister NCR megacity hubs including <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida">Noida</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gurgaon">Gurgaon</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-faridabad">Faridabad</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ghaziabad">Ghaziabad</a>, alongside long-distance highway routes connecting to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, Patna, Kolkata, and Mumbai.</p>
+                <p class="dlh-body-p">Shree Ashirwad Packers and Movers brings verified metropolitan infrastructure to Delhi. Operating clean, closed container fleets equipped with GPS tracking, we link Delhi seamlessly with sister NCR megacity hubs including <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida">Noida</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gurgaon">Gurgaon</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-faridabad">Faridabad</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ghaziabad">Ghaziabad</a>, alongside long-distance highway routes connecting to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, Patna, Kolkata, and Mumbai.</p>
 
                 <div class="dlh-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Delhi" width="580" height="380" loading="lazy">
@@ -789,7 +789,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gurgaon" class="dlh-cluster-link">Movers in Gurgaon Cyber City</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-faridabad" class="dlh-cluster-link">Movers in Faridabad Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ghaziabad" class="dlh-cluster-link">Movers in Ghaziabad Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dlh-cluster-link">Ranchi Headquarters Hub</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="dlh-cluster-link">Ranchi Headquarters Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dlh-cluster-link">Live Tariff Calculator</a>
                 </div>
             </section>
@@ -828,7 +828,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 Regional Delhi Hub: Ring Road Logistics Complex, Near Dhaula Kuan, New Delhi - 110010.<br>
                 Helpline: +91 93344 60424<br>
                 Email: info@shreeashirwadpackers.com</p>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dlh-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="dlh-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>
         </aside>
     </div>

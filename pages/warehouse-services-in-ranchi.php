@@ -1354,8 +1354,8 @@ $meta_keywords = "warehouse services in ranchi, warehouse service in ranchi, sto
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="wsr-tag-pill" title="Household Shifting Services in Ranchi">Household Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="wsr-tag-pill" title="Local Shifting Services in Ranchi">Local Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/office-shifting-services-in-ranchi" class="wsr-tag-pill" title="Office Shifting Services in Ranchi">Office Shifting in Ranchi</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="wsr-tag-pill" title="Professional Packers and Movers in Ranchi">Professional Movers in Ranchi</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="wsr-tag-pill" title="Packers and Movers in Ranchi Jharkhand">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="wsr-tag-pill" title="Professional Packers and Movers in Ranchi">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="wsr-tag-pill" title="Packers and Movers in Ranchi Jharkhand">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-ranchi" class="wsr-tag-pill" title="Car Transport in Ranchi">Car Transport in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-ranchi" class="wsr-tag-pill" title="Bike Transport in Ranchi">Bike Transport in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="wsr-tag-pill" style="color: #ff6a28; font-weight: 700;" title="Ranchi to Patna Packers and Movers">Ranchi to Patna Movers</a>

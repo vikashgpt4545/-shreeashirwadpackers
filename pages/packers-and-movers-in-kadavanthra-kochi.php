@@ -501,7 +501,7 @@
 
     <h3>Strategic Integration with Metropolitan Kochi & Regional Networks</h3>
     <p>As a vital branch of our primary authority hub for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kochi" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Kochi</a>, our Kadavanthra branch ensures seamless coordination across all central and northern city nodes. We regularly serve corporate and residential clients moving toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-palarivattom-kochi" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Palarivattom</a>, stadium corridor enclaves via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kaloor-kochi" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Kaloor</a>, retail centers through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-edappally-kochi" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Edappally</a>, IT parks via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kakkanad-kochi" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Kakkanad</a>, and industrial gateways with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aluva-kochi" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Aluva</a>.</p>
-    <p>For executives and families relocating interstate to Bangalore, Chennai, Mumbai, or Delhi, our closed container fleet provides seamless connectivity back to our national operations center through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>For executives and families relocating interstate to Bangalore, Chennai, Mumbai, or Delhi, our closed container fleet provides seamless connectivity back to our national operations center through <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
   </section>
 
   <!-- Section 2: Comprehensive Shifting Services -->
@@ -652,7 +652,7 @@
 
     <h3>Seamless Statewide & Interstate Relocation Networks</h3>
     <p>From Kadavanthra, our trucks enjoy quick access via Vyttila onto the NH 66 bypass, enabling rapid transit south toward Alappuzha, Kollam, and Thiruvananthapuram, or heading north via Kalamassery toward Thrissur and the rest of India.</p>
-    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>With real-time GPS tracking enabled on all vehicles, you receive immediate milestone updates throughout your goods' journey.</p>
   </section>
 
@@ -680,7 +680,7 @@
       </div>
     </div>
 
-    <p>Whether relocating locally within Kadavanthra or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether relocating locally within Kadavanthra or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #3b82f6; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With an exceptional 98.8% on-time completion record and thousands of satisfied residential and corporate clients across South India, our Kadavanthra team is ready to deliver an effortless moving journey. From packing heirloom chinaware and delicate electronics to moving grand pianos, modular wardrobes, and fitness gear, our specialized movers ensure complete peace of mind.</p>
   </section>
 
@@ -727,7 +727,7 @@
         <a class="kdv-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kakkanad-kochi">Kakkanad Infopark Hub</a>
         <a class="kdv-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aluva-kochi">Aluva Locality Hub</a>
         <a class="kdv-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore Metro Hub</a>
-        <a class="kdv-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Head Office Hub</a>
+        <a class="kdv-cluster-link" href="<?php echo SITE_BASE_URL; ?>/">Ranchi Head Office Hub</a>
       </div>
     </div>
   </section>

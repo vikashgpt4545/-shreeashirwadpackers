@@ -829,7 +829,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <strong>Ghaziabad City Hub</strong>
                 <span>Delhi-Meerut Expressway High-Speed Link</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="myv-cluster-card">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="myv-cluster-card">
                 <strong>Ranchi Headquarters</strong>
                 <span>Company Main Authority & Eastern Logistics Hub</span>
             </a>

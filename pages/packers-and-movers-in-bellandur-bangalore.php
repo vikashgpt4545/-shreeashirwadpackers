@@ -425,7 +425,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-belland
       
       <p class="bdr-p">Each moving team operating in the Bellandur cluster comes equipped with industrial dollies, floor safety runner carpets, and custom elevator wraps. We maintain active communication with security officers at gates, ensuring entry clearance is pre-verified so that our container trucks move directly into assigned loading bays without causing traffic friction at community gates.</p>
 
-      <p class="bdr-p">Beyond local moves within Bangalore's metropolitan expanse, our logistics network provides dedicated long-haul moving corridors connecting Bellandur to key Indian industrial capitals. We regularly coordinate cross-country transfers to Jharkhand, Bihar, and West Bengal through our established <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a> infrastructure, providing real-time GPS tracking and transit insurance security on every highway corridor.</p>
+      <p class="bdr-p">Beyond local moves within Bangalore's metropolitan expanse, our logistics network provides dedicated long-haul moving corridors connecting Bellandur to key Indian industrial capitals. We regularly coordinate cross-country transfers to Jharkhand, Bihar, and West Bengal through our established <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a> infrastructure, providing real-time GPS tracking and transit insurance security on every highway corridor.</p>
     </section>
 
     <!-- Section 2: Tailored Services -->
@@ -626,7 +626,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-belland
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jayanagar-bangalore" class="bdr-cluster-badge">Jayanagar Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-indiranagar-bangalore" class="bdr-cluster-badge">Indiranagar Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bdr-cluster-badge">Live Rates Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bdr-cluster-badge">Company HQ Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="bdr-cluster-badge">Company HQ Ranchi</a>
       </div>
     </section>
   </main>

@@ -197,7 +197,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -1771,7 +1771,7 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="nag2r-container">
       <h3>Explore Connected Relocation Corridors</h3>
       <div class="nag2r-cluster-grid">
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="nag2r-cluster-link">
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="nag2r-cluster-link">
           Ranchi Relocation Hub
         </a>
         <a href="<?php echo SITE_BASE_URL; ?>/raipur-to-ranchi-packers-and-movers" class="nag2r-cluster-link">

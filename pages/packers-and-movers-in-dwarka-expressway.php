@@ -733,7 +733,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
 
-        <p>Planning an intercity move connecting Dwarka Expressway with Southern or Western metros? Explore our dedicated corridors on <a href="<?php echo SITE_BASE_URL; ?>/gurgaon-to-bangalore-packers-and-movers" style="color: #9333ea; font-weight: 700; text-decoration: underline;">Gurgaon to Bangalore packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/gurgaon-to-mumbai-packers-and-movers" style="color: #9333ea; font-weight: 700; text-decoration: underline;">Gurgaon to Mumbai relocation corridor</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #9333ea; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for precise route planning.</p>
+        <p>Planning an intercity move connecting Dwarka Expressway with Southern or Western metros? Explore our dedicated corridors on <a href="<?php echo SITE_BASE_URL; ?>/gurgaon-to-bangalore-packers-and-movers" style="color: #9333ea; font-weight: 700; text-decoration: underline;">Gurgaon to Bangalore packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/gurgaon-to-mumbai-packers-and-movers" style="color: #9333ea; font-weight: 700; text-decoration: underline;">Gurgaon to Mumbai relocation corridor</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #9333ea; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for precise route planning.</p>
 
         <!-- Section 6: FAQs -->
         <h2 class="dwex-section-heading">Frequently Asked Questions: Packers and Movers on Dwarka Expressway</h2>
@@ -774,7 +774,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service">Single Item &amp; Furniture Moving Service</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing">Secure Household Goods Warehousing</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Packers and Movers Charges Per KM Rates</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Central Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Central Company Headquarters</a>
             </div>
         </div>
 

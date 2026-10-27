@@ -664,7 +664,7 @@ $state_name = 'Chandigarh';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-43-chandigarh" class="mmc-cluster-link">Packers and Movers Sector 43 Chandigarh</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-panchkula" class="mmc-cluster-link">Packers and Movers in Panchkula</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mohali" class="mmc-cluster-link">Packers and Movers in Mohali</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mmc-cluster-link">Ranchi Headquarters Hub</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="mmc-cluster-link">Ranchi Headquarters Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mmc-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

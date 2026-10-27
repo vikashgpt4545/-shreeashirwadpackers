@@ -417,7 +417,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p>We believe in uncompromised material quality. Our packing experts deploy dense bubble wrap, virgin foam sheets, corrugated rolls, waterproof stretch wraps, and high-tensile tape to secure every item. This multi-layered barrier protects against moisture, highway vibrations, and sudden braking impacts.</p>
 
-        <p>Our nationwide logistical footprint is anchored by our main headquarters in Ranchi. Learn more about our central operations and logistics excellence on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi hub page</a>.</p>
+        <p>Our nationwide logistical footprint is anchored by our main headquarters in Ranchi. Learn more about our central operations and logistics excellence on our <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi hub page</a>.</p>
     </section>
 
     <!-- Section 3: Pricing Estimates Table -->

@@ -67,7 +67,7 @@ $primary_highway = 'NH-48 (Chennai-Bangalore Highway via Vellore, Krishnagiri & 
         "@type": "ListItem",
         "position": 2,
         "name": "Intercity Corridors",
-        "item": "https://shreeashirwadpackers.com/intercity-packers-and-movers-cost-calculator"
+        "item": "https://shreeashirwadpackers.com/packers-and-movers-cost-calculator"
       },
       {
         "@type": "ListItem",
@@ -628,7 +628,7 @@ $primary_highway = 'NH-48 (Chennai-Bangalore Highway via Vellore, Krishnagiri & 
 <section class="cnb-section">
   <div class="cnb-heading-group">
     <h2>Estimated Shifting Charges: Chennai to Bangalore (350 km)</h2>
-    <p>Clear, upfront pricing with zero hidden costs. Use our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #0d9488; font-weight: 600; text-decoration: underline;">intercity movers cost calculator</a> and live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0d9488; font-weight: 600; text-decoration: underline;">tariff rate formulas</a> for exact estimates.</p>
+    <p>Clear, upfront pricing with zero hidden costs. Use our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #0d9488; font-weight: 600; text-decoration: underline;">intercity movers cost calculator</a> and live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0d9488; font-weight: 600; text-decoration: underline;">tariff rate formulas</a> for exact estimates.</p>
   </div>
   <div class="cnb-table-container">
     <table class="cnb-table">
@@ -804,9 +804,9 @@ $primary_highway = 'NH-48 (Chennai-Bangalore Highway via Vellore, Krishnagiri & 
     <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-hyderabad-packers-and-movers" class="cnb-cluster-item">Bangalore to Hyderabad Route</a>
     <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-mumbai-packers-and-movers" class="cnb-cluster-item">Bangalore to Mumbai Expressway Line</a>
     <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-bangalore-packers-and-movers" class="cnb-cluster-item">Mumbai to Bangalore Movers</a>
-    <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" class="cnb-cluster-item">Intercity Moving Tariff Calculator</a>
+    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" class="cnb-cluster-item">Intercity Moving Tariff Calculator</a>
     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cnb-cluster-item">Live Relocation Tariff Calculator</a>
-    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cnb-cluster-item">Shree Ashirwad HQ Authority Hub</a>
+    <a href="<?php echo SITE_BASE_URL; ?>/" class="cnb-cluster-item">Shree Ashirwad HQ Authority Hub</a>
   </div>
 </section>
 

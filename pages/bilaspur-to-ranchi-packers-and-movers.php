@@ -654,7 +654,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Upon arrival in Ranchi, our experienced crews provide door-to-door delivery across all key residential and institutional sectors: Kanke Road, Morabadi, Bariatu, Ashok Nagar, SAIL Township, MECON Colony, CCL Jawahar Nagar Colony, CMPDI complex, Harmu Housing Board, Doranda, Hinoo, Kadru, Ratu Road, Namkum, and the Dhurwa HEC administrative belt. Every item is inspected against the signed inventory list, unpacked systematically, and placed precisely according to your interior design preferences.
                 </p>
                 <p>
-                    We provide end-to-end doorstep solutions including heavy furniture disassembly, customized multi-layer protective packing, hydraulics-assisted loading, GPS tracking, and complete reassembly at your destination residence in Ranchi. As a leading brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--bsp-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also operates daily reciprocal linehaul moves on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bilaspur-packers-and-movers" style="color: var(--bsp-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Bilaspur packers and movers</a> corridor, ensuring seamless bidirectional logistics across Chhattisgarh and Jharkhand.
+                    We provide end-to-end doorstep solutions including heavy furniture disassembly, customized multi-layer protective packing, hydraulics-assisted loading, GPS tracking, and complete reassembly at your destination residence in Ranchi. As a leading brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--bsp-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also operates daily reciprocal linehaul moves on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bilaspur-packers-and-movers" style="color: var(--bsp-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Bilaspur packers and movers</a> corridor, ensuring seamless bidirectional logistics across Chhattisgarh and Jharkhand.
                 </p>
             </div>
             <div class="bsp-ran-img-box">
@@ -930,7 +930,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Bilaspur (Return Corridor)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bsp-ran-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="bsp-ran-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

@@ -658,7 +658,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="color: #115e59; font-size: 1.3rem; margin-bottom: 10px;">Explore Our Complete Ranchi Relocation Network & Services</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Connect with our specialized moving services and high-capacity interstate transport corridors originating from Ranchi:</p>
     <div class="cluster-grid-luggage">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-luggage">Packers and Movers in Ranchi (Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-luggage">Packers and Movers in Ranchi (Hub)</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-luggage">Packers and Movers Charges in Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-luggage">Complete Ranchi House Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/student-and-bachelor-shifting-in-ranchi" class="cluster-link-luggage">Student & Bachelor Shifting Ranchi</a>

@@ -500,7 +500,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="kmg-image-caption">Dedicated loading crews systematically stowing packed household cartons and furniture inside our closed container trucks in Koramangala.</p>
         </div>
 
-        <p>Operating in direct coordination with our parent city authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Packers and Movers in Bangalore</a> and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our Koramangala branch provides seamless shifting whether you are moving locally within South Bangalore or executing an interstate relocation across India. We also maintain dedicated transit lines linking Koramangala with HSR Layout, Indiranagar, Whitefield, Mumbai, and Delhi NCR.</p>
+        <p>Operating in direct coordination with our parent city authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Packers and Movers in Bangalore</a> and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our Koramangala branch provides seamless shifting whether you are moving locally within South Bangalore or executing an interstate relocation across India. We also maintain dedicated transit lines linking Koramangala with HSR Layout, Indiranagar, Whitefield, Mumbai, and Delhi NCR.</p>
 
         <p>Every assignment is managed under the direct supervision of an experienced relocation coordinator who tracks every milestone from initial inventory survey to final unpacking, ensuring your valuable possessions arrive in perfect condition. Whether relocating a luxury bungalow in Block 4 or shifting an apartment in National Games Village, our teams deliver unmatched reliability, technical precision, and complete customer satisfaction.</p>
     </section>
@@ -709,7 +709,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a>
             </div>
             <div class="kmg-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

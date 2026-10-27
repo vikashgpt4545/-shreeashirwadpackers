@@ -533,7 +533,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <p class="cda-body-p">Whether you are shifting between Sectors—such as relocating from Sector 6 to an upscale duplex in Sector 11—or moving across the river to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack City Center</a> or the capital city of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a>, Shree Ashirwad Packers and Movers delivers an effortless, turn-key moving experience backed by over 16 years of logistical excellence.</p>
 
-                <p class="cda-body-p">As an authorized domestic moving partner affiliated with our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>, we ensure that every client in CDA receives standardized pricing, certified packing technicians, GPS-monitored vehicles, and transparent documentation without hidden labor or elevator surcharges.</p>
+                <p class="cda-body-p">As an authorized domestic moving partner affiliated with our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>, we ensure that every client in CDA receives standardized pricing, certified packing technicians, GPS-monitored vehicles, and transparent documentation without hidden labor or elevator surcharges.</p>
             </section>
 
             <!-- Section 2: Local Capabilities & Sector-Wise Expertise -->
@@ -765,7 +765,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" class="cda-cluster-link">Cuttack City Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" class="cda-cluster-link">Bhubaneswar Smart Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patia-bhubaneswar" class="cda-cluster-link">Patia IT Corridor Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cda-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="cda-cluster-link">Ranchi Corporate HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhubaneswar-packers-and-movers" class="cda-cluster-link">Ranchi to Bhubaneswar Corridor</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cda-cluster-link">Live Rate Calculator</a>
                 </div>

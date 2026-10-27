@@ -509,7 +509,7 @@
     <div class="pdy-grid-2">
       <div>
         <p>Puducherry presents an enchanting blend of European colonial elegance and vibrant South Indian coastal culture. Characterized by the grid-pattern French Quarter (White Town) facing the Bay of Bengal along Goubert Avenue, the traditional Tamil Quarter, elite central healthcare institutions like JIPMER, and expanding suburban towns across Oulgaret municipality, relocating here requires deep familiarity with local heritage preservation rules and coastal logistics.</p>
-        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to the Union Territory of Puducherry.</p>
+        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to the Union Territory of Puducherry.</p>
         <p>Whether you are shifting an antique French colonial villa on Dumas Street, transitioning into a modern high-rise in Lawspet or Saram, or relocating hospital staff from JIPMER campus, our uniformed moving crew guarantees total safety and precision.</p>
       </div>
       <div>
@@ -793,7 +793,7 @@
     <div class="pdy-cluster-grid">
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai" class="pdy-cluster-link">Chennai Metro Authority Hub</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuddalore" class="pdy-cluster-link">Cuddalore Coastal Hub</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-villupuram" class="pdy-cluster-link">Villupuram Junction Hub</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-puducherry" class="pdy-cluster-link">Villupuram Junction Hub</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" class="pdy-cluster-link">Bangalore Technology Hub</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kochi" class="pdy-cluster-link">Kochi Commercial Gateway</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thiruvananthapuram" class="pdy-cluster-link">Thiruvananthapuram Capital Hub</a>

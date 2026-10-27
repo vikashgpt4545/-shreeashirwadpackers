@@ -415,7 +415,7 @@ $state_name = 'Madhya Pradesh';
       <div class="sgr-grid-2">
         <div>
           <p>Sagar, historically revered as the heart and educational capital of the Bundelkhand region, is an influential administrative, academic, and defense hub in central Madhya Pradesh. Encircling the historic Lakha Banjara Lake, the city balances ancient heritage with modern urban expansion. From the prestigious Dr. Hari Singh Gour Central University campus and the bustling commercial markets of Katra and Tilak Ganj, to the prominent Mahar Regiment Centre (MRC) Cantonment, Civil Lines executive residences, and the rapidly mushrooming modern multistory apartments of Makronia, Sagar is a city in constant motion.</p>
-          <p>Relocating in Sagar presents varied requirements, ranging from disciplined defense transfers with stringent paperwork standards to delicate scholarly library shifts and multi-tier family apartment moves. At <strong>Shree Ashirwad Packers and Movers</strong>, backed by our nationwide logistics network originating from our headquarters in Ranchi (<a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338ca; font-weight: 700;">packers and movers in Ranchi</a>), we deliver world-class relocation services crafted to meet every unique local and intercity requirement across Sagar and the entire Bundelkhand belt.</p>
+          <p>Relocating in Sagar presents varied requirements, ranging from disciplined defense transfers with stringent paperwork standards to delicate scholarly library shifts and multi-tier family apartment moves. At <strong>Shree Ashirwad Packers and Movers</strong>, backed by our nationwide logistics network originating from our headquarters in Ranchi (<a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338ca; font-weight: 700;">packers and movers in Ranchi</a>), we deliver world-class relocation services crafted to meet every unique local and intercity requirement across Sagar and the entire Bundelkhand belt.</p>
         </div>
         <div>
           <div class="sgr-image-container">
@@ -679,7 +679,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div class="sgr-card">
           <h4>Damoh Regional Corridor</h4>
-          <p>Bundelkhand mineral trade and neighboring district hub moving at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-damoh" style="color: #4338ca; font-weight: 700;">packers and movers in Damoh</a>.</p>
+          <p>Bundelkhand mineral trade and neighboring district hub moving at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sagar" style="color: #4338ca; font-weight: 700;">packers and movers in Damoh</a>.</p>
         </div>
         <div class="sgr-card">
           <h4>Vidisha Transit Gateway</h4>

@@ -538,7 +538,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Coastal-Grade Waterproofing:</strong> Heavy 4-layer shrink wrap, waterproof tarpaulins, and silica gel packs guarding against humidity and monsoon rain.</li>
                 <li><strong>Western Ghats Route Expertise:</strong> Specially equipped air-suspension container trucks for safe crossing over Shiradi and Charmadi Ghat passes.</li>
                 <li><strong>Industrial & Port Logistics:</strong> Hydraulic cranes and heavy-duty rigging for Baikampady KIADB, NMPT port cargo, and MRPL contractor moves.</li>
-                <li><strong>Direct Pan-India Connectivity:</strong> Directly integrated with parent authority hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Direct Pan-India Connectivity:</strong> Directly integrated with parent authority hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

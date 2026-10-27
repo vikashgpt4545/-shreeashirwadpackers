@@ -241,7 +241,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>In contrast, structured professional moving crews undergo rigorous training in kinetic ergonomics, weight momentum management, and client etiquette. Each worker understands how to position hands, angle heavy items through tight doorframes, and communicate using standardized vocal cues to coordinate simultaneous lifts.</p>
                         <div class="lulg-highlight">
                             <h4>The Shree Ashirwad Crew Difference</h4>
-                            <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our loading specialists are full-time verified employees trained in kinetic lifting, equipped with protective safety gear, and supervised by experienced field moving managers.</p>
+                            <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our loading specialists are full-time verified employees trained in kinetic lifting, equipped with protective safety gear, and supervised by experienced field moving managers.</p>
                         </div>
                     </div>
                     <div class="lulg-img-box">
@@ -463,7 +463,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Relocation Guides & Neighborhood Hubs</h3>
                 <p>Plan your move across Ranchi with our specialized packing tutorials and local neighborhood guides:</p>
                 <div class="lulg-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-pack-kitchen-for-moving">How to Pack Kitchen</a>
@@ -472,8 +472,8 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use">Packing Materials Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-unpack-after-moving">How to Unpack After Moving</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers Dhanbad</a>
                 </div>
             </section>

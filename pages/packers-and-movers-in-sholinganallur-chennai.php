@@ -542,7 +542,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sholinganallur-chennai"
                 <li><strong>Gated High-Rise Society Compliance:</strong> Mega townships like Casagrand Royale and Prestige Courtyards enforce strict RWA moving protocols, mandatory security clearances, designated freight elevator hours, and vehicle height limits in basements. Our operations team obtains prior entry permits, lines service lifts with heavy padded blankets, and deploys floor runners across lobbies.</li>
                 <li><strong>Weekend Schedules for Tech Workforce:</strong> Over 85% of our moves are scheduled for IT professionals. We execute fast, stress-free Saturday and Sunday moves, managing packing on Friday or Saturday morning and completing complete furniture reassembly by Sunday afternoon so you face zero work disruption on Monday.</li>
                 <li><strong>Anti-Static Protection for Sensitive Electronics:</strong> Tech households feature expensive multi-monitor workstations, ergonomic standing desks, and audio setups. We use anti-static bubble wrap, multi-layer corrugated screen guards, and customized shock-absorbent foam cushioning.</li>
-                <li><strong>Rapid Long-Haul Highway Access via ECR Link Road:</strong> Immediate access to the East Coast Road and the Vandalur-Kelambakkam link allows our linehaul container trucks to bypass central Chennai traffic when heading toward Bangalore, Hyderabad, or our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>.</li>
+                <li><strong>Rapid Long-Haul Highway Access via ECR Link Road:</strong> Immediate access to the East Coast Road and the Vandalur-Kelambakkam link allows our linehaul container trucks to bypass central Chennai traffic when heading toward Bangalore, Hyderabad, or our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -816,7 +816,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sholinganallur-chennai"
                 <a href="<?php echo SITE_BASE_URL; ?>/chennai-to-ranchi-packers-and-movers">Chennai to Ranchi Return</a>
             </div>
             <div class="snl-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company Headquarters</a>
             </div>
         </div>
     </section>

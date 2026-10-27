@@ -550,7 +550,7 @@ include_once __DIR__ . '/../includes/config.php';
         <h2>Connecting Pink City to the City of Waterfalls via Grand Trunk Corridor</h2>
         <div style="font-size: 1.1rem; color: #4a5568; margin-top: 8px;">Direct long-haul transit designed for families, traders, defense personnel, and corporate executives relocating from Rajasthan to Jharkhand.</div>
       </div>
-      <p style="color: #4a5568; line-height: 1.7; font-size: 1rem; margin-bottom: 16px;">The relocation corridor linking Jaipur to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #ea580c; font-weight: 600; text-decoration: underline;">Ranchi</a> spans roughly 1,220 kilometers across northern and eastern India. From pickup points in Jaipur, our closed-body container fleet travels via NH-21 through Dausa, Bharatpur, and Agra, merging onto the high-speed National Highway 19 (formerly the historic Grand Trunk Road) through Kanpur, Prayagraj, Varanasi, Sasaram, and Aurangabad, entering Jharkhand at Chouparan and navigating south via Barhi, Hazaribagh, and Ormanjhi into Ranchi.</p>
+      <p style="color: #4a5568; line-height: 1.7; font-size: 1rem; margin-bottom: 16px;">The relocation corridor linking Jaipur to <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #ea580c; font-weight: 600; text-decoration: underline;">Ranchi</a> spans roughly 1,220 kilometers across northern and eastern India. From pickup points in Jaipur, our closed-body container fleet travels via NH-21 through Dausa, Bharatpur, and Agra, merging onto the high-speed National Highway 19 (formerly the historic Grand Trunk Road) through Kanpur, Prayagraj, Varanasi, Sasaram, and Aurangabad, entering Jharkhand at Chouparan and navigating south via Barhi, Hazaribagh, and Ormanjhi into Ranchi.</p>
       <p style="color: #4a5568; line-height: 1.7; font-size: 1rem; margin-bottom: 16px;">Jaipur and Ranchi share strong historical, commercial, and matrimonial bonds. Generations of merchant families from Rajasthan maintain ancestral residences and retail establishments in Ranchi's prime trade quarters including Upper Bazar, Cart Road, Main Road, Lalpur, and Daily Market. When families move high-value assets, antique teak furniture, hand-carved marble deities, and heavy commercial stocks, they depend on Shree Ashirwad Packers and Movers for custom crating and seamless door-to-door execution.</p>
       <ul style="color: #2d3748; line-height: 1.8; margin-left: 20px; font-weight: 600;">
         <li>Scheduled departures from Jaipur twice every week</li>
@@ -844,7 +844,7 @@ include_once __DIR__ . '/../includes/config.php';
   <h3>Connected Interstate Corridors & Regional Hubs</h3>
   <div class="jrn-cluster-grid">
     <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jaipur-packers-and-movers" class="jrn-cluster-item">Ranchi to Jaipur Return Corridor</a>
-    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="jrn-cluster-item">Packers and Movers in Ranchi (HQ)</a>
+    <a href="<?php echo SITE_BASE_URL; ?>/" class="jrn-cluster-item">Packers and Movers in Ranchi (HQ)</a>
     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jrn-cluster-item">Ranchi Relocation Tariff Calculator</a>
     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hazaribagh" class="jrn-cluster-item">Packers and Movers in Hazaribagh</a>
     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad" class="jrn-cluster-item">Packers and Movers in Dhanbad</a>

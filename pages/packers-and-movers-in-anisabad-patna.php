@@ -603,7 +603,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     In modern multi-story apartment complexes across Anisabad such as newly built towers near Police Colony and Haroon Nagar, our team coordinates with resident welfare associations (RWAs) and security management in advance. We secure elevator booking permissions, protect service elevator walls with quilted fabric padding, and manage stilt parking clearance so everyday resident vehicular traffic remains unobstructed during loading and unloading operations.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally across Anisabad or coordinating an interstate move, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0e2b5c; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> network and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0e2b5c; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally across Anisabad or coordinating an interstate move, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0e2b5c; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> network and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0e2b5c; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>

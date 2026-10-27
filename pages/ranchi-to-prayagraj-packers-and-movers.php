@@ -201,7 +201,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Packers and Movers in Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -1339,7 +1339,7 @@ require_once __DIR__ . '/includes/seo.php';
         Explore our comprehensive network of dedicated relocation corridors connecting Ranchi to premier commercial and industrial centers across India:
       </p>
       <div class="r2p-cluster-links">
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2p-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2p-cluster-link">Ranchi Headquarters</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2p-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-varanasi-packers-and-movers" class="r2p-cluster-link">Ranchi to Varanasi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kanpur-packers-and-movers" class="r2p-cluster-link">Ranchi to Kanpur</a>

@@ -621,7 +621,7 @@ require_once __DIR__ . '/../includes/config.php';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-shillong">Shillong Meghalaya</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-silchar">Silchar Assam</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-imphal">Imphal Manipur</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Corporate Headquarters (Ranchi)</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/">Corporate Headquarters (Ranchi)</a>
       </div>
     </div>
   </div>

@@ -701,7 +701,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="bmp-section-title">Highway Logistics & Intercity Corridor Connectivity</h2>
                 <p class="bmp-lead-p">Situated on National Highway 16 (Golden Quadrilateral), Berhampur serves as a crucial southern transport hub connecting Odisha with Andhra Pradesh, West Bengal, and Eastern Central India.</p>
 
-                <p class="bmp-body-p">Our regular container linehaul fleet operates round-the-clock runs connecting Berhampur to capital authority hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a> (~170 km), the judicial center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack</a>, the Western industrial belt of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">Rourkela</a>, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
+                <p class="bmp-body-p">Our regular container linehaul fleet operates round-the-clock runs connecting Berhampur to capital authority hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a> (~170 km), the judicial center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack</a>, the Western industrial belt of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">Rourkela</a>, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
 
                 <div class="bmp-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Berhampur">
@@ -756,7 +756,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" class="bmp-cluster-link">Rourkela Steel City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="bmp-cluster-link">Kolkata Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur" class="bmp-cluster-link">Kharagpur Engineering Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bmp-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="bmp-cluster-link">Ranchi Corporate HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bmp-cluster-link">Live Rate Calculator</a>
                 </div>
             </div>

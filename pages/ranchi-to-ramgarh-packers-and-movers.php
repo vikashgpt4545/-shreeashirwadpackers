@@ -1056,7 +1056,7 @@ require_once __DIR__ . '/includes/seo.php';
       <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="cluster-link-ramgarh">📦 Household Shifting in Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-ranchi" class="cluster-link-ramgarh">🚗 Car Carrier Transport in Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-ranchi" class="cluster-link-ramgarh">🏍️ Bike Transport in Ranchi</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/ramgarh-to-ranchi-packers-and-movers" class="cluster-link-ramgarh">🛣️ Ramgarh to Ranchi Return Route</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-ramgarh-packers-and-movers" class="cluster-link-ramgarh">🛣️ Ramgarh to Ranchi Return Route</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ramgarh" class="cluster-link-ramgarh">📍 Packers and Movers in Ramgarh</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-hazaribagh-packers-and-movers" class="cluster-link-ramgarh">🛣️ Ranchi to Hazaribagh Movers</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-daltonganj-packers-and-movers" class="cluster-link-ramgarh">🛣️ Ranchi to Daltonganj Movers</a>

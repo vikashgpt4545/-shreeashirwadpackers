@@ -539,7 +539,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="bdk-section-title">Premier Relocation Services on Odisha's Coastal Highway Corridor</h2>
                 <p class="bdk-lead-p">Bhadrak occupies an indispensable geographical position in Northern Coastal Odisha. Situated on the fertile plains of the Salandi River along National Highway 16 (part of the historic Golden Quadrilateral), Bhadrak acts as a pivotal trade and transit corridor linking the industrial clusters of Cuttack and Bhubaneswar to Balasore, West Bengal, and Jharkhand. With the rapid expansion of Dhamra Port—one of India's deepest modern seaports and major LNG terminal—and the presence of prominent industrial heavyweights like the FACOR (Vedanta) ferrochrome plant at Randia, Bhadrak continues to witness substantial residential and commercial expansion.</p>
                 <p class="bdk-body-p">The constant turnover of port engineers, maritime logistics professionals, manufacturing specialists, railway employees, and state administrative officials creates steady demand for certified, professional moving services. Relocating within Bhadrak requires careful synchronization with local transport flows, from the high-density trading lanes of Puruna Bazar and Motiganj to modern housing layouts across Charampa, Kuansh, and Bonth Chhak.</p>
-                <p class="bdk-body-p">Shree Ashirwad Packers and Movers delivers decades of operational excellence to Bhadrak. Through our extensive regional logistics network, we offer high-frequency express corridors connecting Bhadrak to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-balasore">Balasore</a> (70 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack">Cuttack</a> (105 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (135 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-baripada">Baripada</a> (125 km), alongside cross-state links to Kolkata and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p class="bdk-body-p">Shree Ashirwad Packers and Movers delivers decades of operational excellence to Bhadrak. Through our extensive regional logistics network, we offer high-frequency express corridors connecting Bhadrak to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-balasore">Balasore</a> (70 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack">Cuttack</a> (105 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (135 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-baripada">Baripada</a> (125 km), alongside cross-state links to Kolkata and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="bdk-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Bhadrak" width="580" height="380" loading="lazy">
@@ -789,7 +789,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" class="bdk-cluster-link">Bhubaneswar Authority Hub (135 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-paradip" class="bdk-cluster-link">Movers in Paradip (140 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="bdk-cluster-link">Movers in Kolkata (290 km)</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bdk-cluster-link">Ranchi Headquarters Hub</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="bdk-cluster-link">Ranchi Headquarters Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bdk-cluster-link">Live Tariff Calculator</a>
                 </div>
             </section>
@@ -828,7 +828,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 Regional Bhadrak Hub: NH-16 Bypass, Bonth Chhak, Bhadrak, Odisha - 756100.<br>
                 Helpline: +91 93344 60424<br>
                 Email: info@shreeashirwadpackers.com</p>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bdk-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="bdk-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>
         </aside>
     </div>

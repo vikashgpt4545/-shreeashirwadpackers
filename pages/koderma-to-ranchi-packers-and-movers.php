@@ -1341,7 +1341,7 @@ $meta_keywords = "koderma to ranchi packers and movers, packers and movers koder
             <p style="font-size: 0.9rem; color: #cbd5e1; margin-bottom: 12px;"><strong>Related Koderma &amp; Ranchi Moving Routes:</strong></p>
             <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; font-size: 0.88rem;">
               <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-koderma-to-ranchi" title="Packers and Movers Koderma to Ranchi" style="color: #ffaa7d; text-decoration: underline; font-weight: 700;">Packers and Movers Koderma to Ranchi (Specialized Division)</a> &bull;
-              <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" title="Packers and Movers in Ranchi Jharkhand" style="color: #ffffff; text-decoration: none;">Packers and Movers in Ranchi Jharkhand</a> &bull;
+              <a href="<?php echo SITE_BASE_URL; ?>/" title="Packers and Movers in Ranchi Jharkhand" style="color: #ffffff; text-decoration: none;">Packers and Movers in Ranchi Jharkhand</a> &bull;
               <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" title="Local Shifting Services in Ranchi" style="color: #ffffff; text-decoration: none;">Local Shifting Services in Ranchi</a> &bull;
               <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" title="Household Shifting Services in Ranchi" style="color: #ffffff; text-decoration: none;">Household Shifting Services in Ranchi</a>
             </div>

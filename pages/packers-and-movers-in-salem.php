@@ -731,7 +731,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-salem";
         <p>Salem is one of Southern India's primary road transportation hubs. NH 44 connects north directly to Dharmapuri, Hosur, and Bangalore, and south to Namakkal, Karur, Dindigul, and Madurai. NH 544 provides an express expressway westward through Sankari and Erode to Coimbatore and Kochi. NH 79 links eastward directly toward Ulundurpet and Chennai. This extraordinary highway connectivity ensures rapid transit times in every cardinal direction.</p>
 
         <div class="slm-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #370617; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Salem directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #370617; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Salem directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Salem</h3>

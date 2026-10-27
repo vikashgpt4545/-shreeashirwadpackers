@@ -1508,7 +1508,7 @@ require_once __DIR__ . '/includes/seo.php';
         Discover our dedicated interstate relocation corridors connecting Ranchi to major industrial, administrative, and economic centers across Madhya Pradesh, Chhattisgarh, and neighboring states:
       </p>
       <div class="r2jab-cluster-links">
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2jab-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2jab-cluster-link">Ranchi Headquarters</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2jab-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-packers-and-movers" class="r2jab-cluster-link">Ranchi to Bhopal</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bilaspur-packers-and-movers" class="r2jab-cluster-link">Ranchi to Bilaspur</a>

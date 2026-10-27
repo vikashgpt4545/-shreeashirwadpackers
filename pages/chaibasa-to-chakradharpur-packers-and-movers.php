@@ -1173,7 +1173,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     <span>Ranchi to Chakradharpur</span>
                     <span>→</span>
                 </a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-ranchi" class="cluster-hub-link">
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-hub-link">
                     <span>Ranchi Head Office Hub</span>
                     <span>→</span>
                 </a>

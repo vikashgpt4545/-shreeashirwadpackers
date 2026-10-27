@@ -590,7 +590,7 @@
                     Navigating relocations in Adampur requires delicate coordination. While main thoroughfares connecting toward Tilkamanjhi permit straightforward truck access, inner riverfront alleys require compact feeder shuttles to ferry goods securely to our heavy long-haul closed containers stationed on wider bypass roads.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Our Adampur branch coordinates directly with our parent authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Bhagalpur</a>, sister locality hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tilkamanjhi-bhagalpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Tilkamanjhi</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Our Adampur branch coordinates directly with our parent authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Bhagalpur</a>, sister locality hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tilkamanjhi-bhagalpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Tilkamanjhi</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -929,7 +929,7 @@
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" class="adp-cluster-link">Packers and Movers in Patna</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" class="adp-cluster-link">Packers and Movers in Gaya</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" class="adp-cluster-link">Packers and Movers in Muzaffarpur</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="adp-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="adp-cluster-link">Packers and Movers in Ranchi (HQ)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="adp-cluster-link">Live Rate Calculator</a>
             </div>
         </div>

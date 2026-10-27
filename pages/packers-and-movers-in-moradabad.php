@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="mdb-intro-p">At Shree Ashirwad Packers and Movers, our dedicated Moradabad operations team delivers bespoke moving solutions configured specifically for export entrepreneurs, corporate executives, university professors, and heritage families. From quiet residential enclaves along Kanth Road to busy commercial avenues on Delhi Road, our certified staff guarantees absolute safety.</p>
 
-        <p class="mdb-intro-p">Whether you are relocating locally within Moradabad, moving toward sister hubs like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bareilly">Bareilly</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rampur">Rampur</a>, or moving interstate to Delhi NCR or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our comprehensive logistics network provides unmatched peace of mind.</p>
+        <p class="mdb-intro-p">Whether you are relocating locally within Moradabad, moving toward sister hubs like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bareilly">Bareilly</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rampur">Rampur</a>, or moving interstate to Delhi NCR or <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our comprehensive logistics network provides unmatched peace of mind.</p>
     </section>
 
     <!-- Section 2: Core Relocation Services -->
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="mdb-intro-p">Our localized familiarity ensures that no time is wasted seeking addresses or negotiating residential gates. Our drivers are intimately familiar with local no-entry timings, morning school traffic schedules, and optimal parking spots across Moradabad.</p>
 
-        <p class="mdb-intro-p">For clients moving to other regional hubs in western Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
+        <p class="mdb-intro-p">For clients moving to other regional hubs in western Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
     </section>
 
     <!-- Section 4: Transparent Tariff Structure -->
@@ -731,7 +731,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aligarh" class="mdb-link-card">Aligarh Lock Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="mdb-link-card">Delhi NCR Mega Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow" class="mdb-link-card">Lucknow State Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mdb-link-card">Ranchi Head Office Hub</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="mdb-link-card">Ranchi Head Office Hub</a>
         </div>
     </section>
 

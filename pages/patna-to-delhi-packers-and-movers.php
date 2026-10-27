@@ -752,10 +752,10 @@ require_once __DIR__ . '/../includes/config.php';
         
         <div class="ptdl-cluster-links">
             <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-patna-packers-and-movers">Delhi to Patna Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/patna-to-mumbai-packers-and-movers">Patna to Mumbai Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-patna-packers-and-movers">Mumbai to Patna Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/patna-to-kolkata-packers-and-movers">Patna to Kolkata Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-patna-packers-and-movers">Kolkata to Patna Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-patna-packers-and-movers">Patna to Mumbai Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-patna-packers-and-movers">Mumbai to Patna Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-patna-packers-and-movers">Patna to Kolkata Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-patna-packers-and-movers">Kolkata to Patna Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/patna-to-ranchi-packers-and-movers">Patna to Ranchi Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers">Ranchi to Patna Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-lucknow-packers-and-movers">Delhi to Lucknow Movers</a>

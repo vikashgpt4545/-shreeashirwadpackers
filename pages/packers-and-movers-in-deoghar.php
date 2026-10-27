@@ -1056,7 +1056,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-deo
         </p>
         <div style="display:flex; flex-wrap:wrap; gap:10px;">
           <a href="<?php echo SITE_BASE_URL; ?>/deoghar-to-ranchi-packers-and-movers" style="background:#ffffff; border:1px solid #ff6a28; color:#ff6a28; padding:8px 14px; border-radius:6px; font-size:0.88rem; font-weight:600; text-decoration:none;">Deoghar to Ranchi Movers &rarr;</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="background:#ffffff; border:1px solid #cbd5e1; color:#334155; padding:8px 14px; border-radius:6px; font-size:0.88rem; text-decoration:none;">Packers and Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="background:#ffffff; border:1px solid #cbd5e1; color:#334155; padding:8px 14px; border-radius:6px; font-size:0.88rem; text-decoration:none;">Packers and Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-ranchi" style="background:#ffffff; border:1px solid #cbd5e1; color:#334155; padding:8px 14px; border-radius:6px; font-size:0.88rem; text-decoration:none;">Bike Transport in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-ranchi" style="background:#ffffff; border:1px solid #cbd5e1; color:#334155; padding:8px 14px; border-radius:6px; font-size:0.88rem; text-decoration:none;">Car Transport in Ranchi</a>
         </div>

@@ -836,7 +836,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Explore Ranchi Relocation Guides, Service Hubs & Highway Corridors</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Navigate our complete cluster of handcrafted relocation guides and regional corridors connecting Jharkhand's capital city:</p>
     <div class="cluster-grid">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="cluster-link-item">📍 Ranchi Main Hub & City HQ</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-item">📍 Ranchi Main Hub & City HQ</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-item">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="cluster-link-item">🏠 Household Shifting Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-ranchi" class="cluster-link-item">🏍️ Bike Transport in Ranchi</a>

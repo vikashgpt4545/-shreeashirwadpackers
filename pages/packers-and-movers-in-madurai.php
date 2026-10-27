@@ -731,7 +731,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madurai";
         <p>Madurai occupies a pivotal geographic position as the transportation junction of Southern Tamil Nadu. NH 44 connects northward to Dindigul, Karur, Salem, and Bangalore, and southward to Virudhunagar, Tirunelveli, and Kanyakumari. NH 45 leads northeastward directly to Tiruchirappalli and Chennai, while NH 85 connects westward toward Theni and Kochi, Kerala. The Madurai Ring Road links these arterials effortlessly, allowing container freight to bypass city traffic completely.</p>
 
         <div class="mdu-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #3c096c; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Madurai directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #3c096c; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Madurai directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Madurai</h3>

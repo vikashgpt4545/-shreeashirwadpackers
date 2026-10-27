@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <div class="hbr-highlight-box">
                     <div class="hbr-highlight-title">Direct Jessore Road Express Corridor Network</div>
-                    <p class="hbr-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> and primary North 24 Parganas hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-barasat-kolkata">Barasat</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah">Howrah</a>, our vehicles provide dependable point-to-point movement across NH-112 to Bangaon, Kalyani, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranaghat">Ranaghat</a> without cargo transshipment.</p>
+                    <p class="hbr-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> and primary North 24 Parganas hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-barasat-kolkata">Barasat</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah">Howrah</a>, our vehicles provide dependable point-to-point movement across NH-112 to Bangaon, Kalyani, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranaghat">Ranaghat</a> without cargo transshipment.</p>
                 </div>
 
                 <p class="hbr-body-p">The residential and commercial fabric of Habra features an intricate tapestry—from the bustling, high-density trade arteries around Joygachi More, Station Bazaar, and Chaitanyapur, to the serene residential enclaves of Banipur, Ashoknagar Kalyangarh, Prafullanagar, and Daharkunda. Navigating these bustling avenues requires experienced drivers who understand peak market congestion hours, railway level crossing windows, and narrow residential lane accesses, ensuring timely loading and delivery with zero damage.</p>
@@ -812,7 +812,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-barasat-kolkata" class="hbr-cluster-link">Barasat Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="hbr-cluster-link">Kolkata Metro Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranaghat" class="hbr-cluster-link">Ranaghat Commercial</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="hbr-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="hbr-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

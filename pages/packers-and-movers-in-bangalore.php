@@ -500,7 +500,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="bgl-image-caption">Experienced loading crews securing packed household consignments inside our weatherproof container trucks in Bangalore.</p>
         </div>
 
-        <p>Operating in direct synergy with our upcoming dedicated hyper-local hubs across Whitefield, Electronic City, HSR Layout, Koramangala, and Indiranagar, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Bengaluru or executing an interstate transfer across India. We also maintain seamless inter-metro transit lines connecting Bangalore with Mumbai, Pune, Hyderabad, and Delhi NCR.</p>
+        <p>Operating in direct synergy with our upcoming dedicated hyper-local hubs across Whitefield, Electronic City, HSR Layout, Koramangala, and Indiranagar, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Bengaluru or executing an interstate transfer across India. We also maintain seamless inter-metro transit lines connecting Bangalore with Mumbai, Pune, Hyderabad, and Delhi NCR.</p>
 
         <p>Every move is managed under the direct supervision of a dedicated relocation coordinator who tracks every milestone from initial inventory survey to final unpacking, ensuring your valuable possessions arrive in perfect condition. Whether relocating an apartment in Bellandur, shifting an IT facility in Electronic City, or transporting antique rosewood furniture to Sadashivanagar, our teams deliver unmatched reliability, technical precision, and complete customer satisfaction.</p>
     </section>
@@ -709,7 +709,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi">Packers Movers Delhi</a>
             </div>
             <div class="bgl-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

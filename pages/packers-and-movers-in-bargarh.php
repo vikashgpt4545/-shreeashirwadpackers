@@ -539,7 +539,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="brg-section-title">Reliable Relocation Services in the Rice Bowl of Odisha</h2>
                 <p class="brg-lead-p">Bargarh stands as one of the most prosperous agricultural and commercial districts in Western Odisha, celebrated globally as the Rice Bowl of the state and home to the world-renowned Dhanu Jatra open-air festival. With bustling commercial hubs lining the National Highway 53 corridor, flourishing textile manufacturing clusters in Barpali and Padampur, and major manufacturing establishments such as ACC Bargarh Cement Works at Bardol, the town witnesses steady mobility among families, banking professionals, healthcare specialists, and corporate executives.</p>
                 <p class="brg-body-p">Relocating a home or commercial enterprise in Bargarh requires nuanced geographic expertise. From navigating the busy market streets around Bhatli Chowk, Gandhi Chowk, and Main Road to managing apartment shifts in Canal Colony, Barahaguda, and Govindpur, our specialized moving crews arrive prepared with proper lifting equipment, heavy-duty trolleys, and closed-body vehicles that protect against road dust, monsoonal downpours, and transit vibrations.</p>
-                <p class="brg-body-p">Through our regional logistics command, Shree Ashirwad Packers and Movers links Bargarh directly to surrounding Western Odisha centers including <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur">Sambalpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jharsuguda">Jharsuguda</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela">Rourkela</a>, alongside long-distance inter-state routes connecting our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, Raipur, Bilaspur, and Kolkata.</p>
+                <p class="brg-body-p">Through our regional logistics command, Shree Ashirwad Packers and Movers links Bargarh directly to surrounding Western Odisha centers including <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur">Sambalpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jharsuguda">Jharsuguda</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela">Rourkela</a>, alongside long-distance inter-state routes connecting our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, Raipur, Bilaspur, and Kolkata.</p>
 
                 <div class="brg-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bargarh" width="580" height="380" loading="lazy">
@@ -784,7 +784,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul" class="brg-cluster-link">Movers in Angul (190 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" class="brg-cluster-link">Bhubaneswar Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" class="brg-cluster-link">Movers in Cuttack (310 km)</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="brg-cluster-link">Ranchi Headquarters Hub</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="brg-cluster-link">Ranchi Headquarters Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="brg-cluster-link">Live Tariff Calculator</a>
                 </div>
             </section>
@@ -823,7 +823,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 Regional Bargarh Hub: NH-53 Bypass, Bhatli Chowk, Bargarh, Odisha - 768028.<br>
                 Helpline: +91 93344 60424<br>
                 Email: info@shreeashirwadpackers.com</p>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="brg-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="brg-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>
         </aside>
     </div>

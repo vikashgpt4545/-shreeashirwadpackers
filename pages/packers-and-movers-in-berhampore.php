@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="bhp-section-title">Reliable Relocation Services in Berhampore (Baharampur)</h2>
                 <p class="bhp-lead-p">Berhampore, also known as Baharampur, functions as the vibrant administrative, judicial, and cultural headquarters of the historic Murshidabad district. Gracefully situated along the eastern banks of the sacred Bhagirathi River in central West Bengal, Berhampore holds deep historic renown stemming from its close ties to the royal nawabi legacy of Cossimbazar, traditional Murshidabad silk weaving, and renowned Khagra bell-metal brass handicrafts. As an active regional commercial hub housing district courts, government administrative offices, major healthcare institutions, and expanding residential complexes, Berhampore requires moving services that deliver meticulous care, professional punctuality, and robust transport infrastructure.</p>
                 
-                <p class="bhp-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized packing experience to Berhampore. Whether you are relocating your family between apartments near Panchanantala, moving an administrative officer residence from Gorabazar, or transitioning to another district across West Bengal or India, our trained moving crews execute every detail with precision. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door relocation across India.</p>
+                <p class="bhp-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized packing experience to Berhampore. Whether you are relocating your family between apartments near Panchanantala, moving an administrative officer residence from Gorabazar, or transitioning to another district across West Bengal or India, our trained moving crews execute every detail with precision. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door relocation across India.</p>
 
                 <div class="bhp-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Berhampore">
@@ -633,7 +633,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="bhp-highlight-desc">Because Berhampore experiences heavy monsoon rainfall along the Bhagirathi river basin, our container trucks are fitted with watertight rubber gaskets, ensuring complete dryness for all household goods.</div>
                 </div>
 
-                <p class="bhp-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
+                <p class="bhp-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
 
                 <p class="bhp-body-p">We also provide optional value-added services such as pre-move deep cleaning, wall mount television bracket de-installation, split air conditioner gas sealing and dismantling by certified HVAC technicians, and short-term secure household warehousing at fully covered, CCTV-monitored storage facilities.</p>
             </section>
@@ -738,7 +738,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri" class="bhp-cluster-link">Siliguri North Bengal Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="bhp-cluster-link">Durgapur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="bhp-cluster-link">Asansol Rail Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bhp-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="bhp-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

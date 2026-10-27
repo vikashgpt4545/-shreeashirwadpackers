@@ -12,9 +12,9 @@ function get_page_seo($page_identifier = 'home') {
     $seo_defaults = [
         'home' => [
             'title' => 'Packers and Movers Ranchi - 9835565233',
-            'description' => 'Shree Ashirwad Packers and Movers in Ranchi offer reliable, cost-effective, and hassle-free relocation services for homes, offices, and vehicles shifting across Jharkhand. Call 9835565233 / 8409531615.',
+            'description' => 'Shree Ashirwad Packers and Movers in Ranchi offer trusted household, office & vehicle shifting across Jharkhand. Top movers and packers ranchi & packers movers in ranchi with IBA approved bills. Call 9835565233 / 8409531615.',
             'canonical' => $canonical_base . '/',
-            'keywords' => 'Packers and Movers Ranchi, packers and movers in ranchi, best packers and movers in ranchi, top packers and movers in ranchi, movers and packers in ranchi, packers and movers in ranchi jharkhand, ranchi packers and movers contact number, iba approved packers and movers in ranchi, packers and movers charges in ranchi, packers and movers ranchi price list',
+            'keywords' => 'Packers and Movers Ranchi, packers and movers in ranchi, movers and packers ranchi, packers movers ranchi, packers movers in ranchi, best packers and movers in ranchi, top packers and movers in ranchi, movers and packers in ranchi, packers and movers in ranchi jharkhand, ranchi packers and movers contact number, iba approved packers and movers in ranchi, packers and movers charges in ranchi, packers and movers ranchi price list',
             'og_type' => 'website',
             'og_image' => $canonical_base . '/assets/images/logo.png',
         ],
@@ -178,7 +178,24 @@ function render_seo_tags($page_identifier = 'home') {
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "alternateName": "<?php echo BRAND_SHORT_NAME; ?>",
+      "alternateName": [
+        "<?php echo BRAND_SHORT_NAME; ?>",
+        "Shree Ashirwad Movers and Packers Ranchi",
+        "Ashirwad Packers Movers Ranchi",
+        "Ashirwad Packers and Movers Ranchi",
+        "Shree Ashirwad Packers and Movers in Ranchi"
+      ],
+      "serviceType": [
+        "Packers and Movers in Ranchi",
+        "Movers and Packers Ranchi",
+        "Packers Movers Ranchi",
+        "Packers Movers in Ranchi",
+        "Packers and Movers Ranchi",
+        "Household Shifting Services in Ranchi",
+        "Office Relocation in Ranchi",
+        "Car Transport in Ranchi",
+        "Bike Parcel Transport in Ranchi"
+      ],
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
       "logo": {
         "@type": "ImageObject",
@@ -346,6 +363,9 @@ function render_seo_tags($page_identifier = 'home') {
         }
       ],
       "knowsAbout": [
+        "Packers and Movers in Ranchi",
+        "Movers and Packers Ranchi Relocation Services",
+        "Packers Movers in Ranchi Household Shifting",
         "Household Goods Relocation",
         "Commercial Office Shifting",
         "Hydraulic Enclosed Car Carrier Transportation",

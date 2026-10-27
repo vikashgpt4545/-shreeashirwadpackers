@@ -685,7 +685,7 @@ include_once __DIR__ . '/../includes/header.php';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bellandur-bangalore" class="bsk-cluster-link">Bellandur</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-electronic-city-bangalore" class="bsk-cluster-link">Electronic City</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bsk-cluster-link">Live Rates Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bsk-cluster-link">Shree Ashirwad HQ Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="bsk-cluster-link">Shree Ashirwad HQ Ranchi</a>
       </div>
 
       <p class="bsk-p">Whether you need an intra-stage move within Banashankari, a relocation across South Bangalore to Jayanagar or JP Nagar, or a long-distance transfer across India, Shree Ashirwad Packers guarantees professional care from door to door.</p>

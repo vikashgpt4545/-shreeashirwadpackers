@@ -1429,7 +1429,7 @@ require_once __DIR__ . '/includes/seo.php';
       </p>
       <div class="r2b-cluster-links">
         <a href="<?php echo SITE_BASE_URL; ?>/bilaspur-to-ranchi-packers-and-movers" class="r2b-cluster-link">Bilaspur to Ranchi (Return)</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2b-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2b-cluster-link">Ranchi Headquarters</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2b-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-rourkela-packers-and-movers" class="r2b-cluster-link">Ranchi to Rourkela</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-cuttack-packers-and-movers" class="r2b-cluster-link">Ranchi to Cuttack</a>

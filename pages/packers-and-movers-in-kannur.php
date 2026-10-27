@@ -509,7 +509,7 @@
     <div class="knr-grid-2">
       <div>
         <p>Kannur combines a rich maritime history with modern commercial vibrancy. Dotted with Portuguese colonial monuments like St. Angelo Fort, premier national defense institutions including Asia's largest naval training academy at INA Ezhimala and DSC Centre, export-grade handloom cooperatives, and the newly operational Kannur International Airport (KIAL), relocating here requires experienced, disciplined moving teams.</p>
-        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Kannur district.</p>
+        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Kannur district.</p>
         <p>Whether you are moving an ancestral family tharavadu in Pallikkunnu, transitioning into an upscale beachside flat in Payyambalam, or executing an official military transfer from Ezhimala Naval Base, our uniformed moving crew guarantees total safety and precision.</p>
       </div>
       <div>

@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
             <div>
                 <p>Vaishali Nagar stands proudly as one of Jaipur's most affluent, vibrant, and architecturally distinguished residential neighborhoods. Known for its picturesque wide boulevards, landmark retail hubs around Amrapali Circle and National Handloom, and prestigious villa enclaves along Gandhi Path, Chitrakoot, and Queens Road, Vaishali Nagar attracts corporate leaders, doctors, legal luminaries, and affluent business families. Relocating within this premier locality demands elevated packing standards, immaculate crew etiquette, and complete technical precision.</p>
                 <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we deliver white-glove relocation solutions specially tailored to the high expectations of Vaishali Nagar homeowners. We understand that our clients possess high-value possessions including delicate crystal chandeliers, imported Italian dining tables, rare Rajasthani paintings, multi-tiered wine racks, and sensitive home theater setups. Our certified movers treat each item with the utmost reverence, deploying custom-built wooden crates, anti-scratch foam padding, and heavy-gauge shock-absorbent wrapping.</p>
-                <p>As an elite hyper-local branch of our statewide <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaipur">packers and movers in Jaipur</a> authority network, our Vaishali Nagar clients receive dedicated relocation coordinators, written guarantees, and instant transit insurance coverage. Check our live national relocation charges anytime on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>, supported by company logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p>As an elite hyper-local branch of our statewide <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaipur">packers and movers in Jaipur</a> authority network, our Vaishali Nagar clients receive dedicated relocation coordinators, written guarantees, and instant transit insurance coverage. Check our live national relocation charges anytime on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>, supported by company logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
                 <div class="vsn-highlight">
                     <strong>Exclusive Vaishali Nagar Shifting Desk:</strong> Planning a villa or duplex move in Vaishali Nagar? Call our specialized executive move coordinators directly at <strong>+91-8409531615</strong> or <strong>+91-9835565233</strong> for an in-home evaluation and customized shifting itinerary.
                 </div>
@@ -527,7 +527,7 @@ require_once BASE_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-udaipur">Udaipur Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kota">Kota Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Tariff Guide</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">National HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">National HQ</a>
         </div>
     </section>
 

@@ -639,7 +639,7 @@
 
     <h3>Strategic Highway Arteries Connecting Coastal & Inland Cities</h3>
     <p>Arundelpet enjoys quick outbound access toward National Highway 16 and Old Guntur road. Heading north along NH 16, express container carriers connect to Vijayawada and Visakhapatnam in record time.</p>
-    <p>Heading inland or south along NH 16, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Heading inland or south along NH 16, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>Whether relocating within Arundelpet or coordinating interstate movement to Hyderabad, Bangalore, or North India, our dedicated vehicle tracking gives you complete peace of mind throughout the journey.</p>
   </section>
 
@@ -667,7 +667,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting locally within Arundelpet or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether you are shifting locally within Arundelpet or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With thousands of successful domestic and corporate relocations executed across South, East, and Central India, our Arundelpet branch brings proven enterprise-grade logistics directly to your doorstep with guaranteed delivery schedules.</p>
   </section>
 

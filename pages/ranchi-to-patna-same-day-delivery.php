@@ -245,7 +245,7 @@ require_once BASE_PATH . '/includes/config.php';
             <div class="rpsd-grid-3">
                 <div class="rpsd-card">
                     <h4>06:30 AM – 09:30 AM | Precision Packing & Loading</h4>
-                    <p>Our 4-to-6 member crew arrives promptly at your Ranchi residence in neighborhoods such as <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi" style="color:#0b2238; font-weight:700;">Morabadi</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-housing-colony-ranchi" style="color:#0b2238; font-weight:700;">Harmu</a>, or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi" style="color:#0b2238; font-weight:700;">Bariatu</a>. Technicians dismantle furniture, apply 3-layer bubble packaging to electronics, crate kitchen crockery, and load cartons into a dedicated sealed container truck.</p>
+                    <p>Our 4-to-6 member crew arrives promptly at your Ranchi residence in neighborhoods such as <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi" style="color:#0b2238; font-weight:700;">Morabadi</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-housing-colony" style="color:#0b2238; font-weight:700;">Harmu</a>, or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi" style="color:#0b2238; font-weight:700;">Bariatu</a>. Technicians dismantle furniture, apply 3-layer bubble packaging to electronics, crate kitchen crockery, and load cartons into a dedicated sealed container truck.</p>
                 </div>
                 <div class="rpsd-card">
                     <h4>10:00 AM – 01:30 PM | Plateau Descent to Bihar Border</h4>

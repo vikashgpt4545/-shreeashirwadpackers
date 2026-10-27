@@ -244,7 +244,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>Our experienced relocation consultants have managed thousands of housewarmings across residential developments including Capitol Greens, Green View Heights, Vasundhara Elegance, and Sai Enclave. By coordinating truck transit schedules with your family priest's auspicious muhurat timings, we guarantee peaceful rituals without logistics friction.</p>
                         <div class="nhsg-highlight">
                             <h4>The Two-Phase Moving Strategy</h4>
-                            <p>We recommend a two-phase protocol: First, transfer your mandir and sacred essentials on the puja day. Next, let <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a> deliver, unload, and assemble all heavy furniture and kitchen cartons on the following morning.</p>
+                            <p>We recommend a two-phase protocol: First, transfer your mandir and sacred essentials on the puja day. Next, let <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a> deliver, unload, and assemble all heavy furniture and kitchen cartons on the following morning.</p>
                         </div>
                     </div>
                     <div class="nhsg-img-box">
@@ -462,15 +462,15 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Moving Guides & Neighborhood Hubs</h3>
                 <p>Discover localized relocation solutions across Ranchi’s prime residential sectors:</p>
                 <div class="nhsg-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur">Packers and Movers Lalpur</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur-ranchi">Packers and Movers Lalpur</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi">Packers and Movers Ashok Nagar</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers Dhanbad</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur">Packers and Movers Jamshedpur</a>

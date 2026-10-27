@@ -591,7 +591,7 @@
                     Managing shifting within Mithanpura requires skilled coordination. While main roads like Club Road allow seamless heavy truck movement, inner colony lanes in P&T Colony or near Harisabha Chowk can experience parking constraints. Our field teams deploy agile shuttle pick-up vans to safely collect goods from apartments and villas, transferring them smoothly to our heavy interstate closed containers stationed along bypass arteries.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Our Mithanpura operations integrate directly with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, sister hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-brahampura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Brahampura</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-zero-mile-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Zero Mile</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Our Mithanpura operations integrate directly with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, sister hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-brahampura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Brahampura</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-zero-mile-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Zero Mile</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -929,7 +929,7 @@
             <div>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" class="mpm-cluster-link">Packers and Movers in Patna</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" class="mpm-cluster-link">Packers and Movers in Gaya</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mpm-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="mpm-cluster-link">Packers and Movers in Ranchi (HQ)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mpm-cluster-link">Live Rate Calculator</a>
             </div>
         </div>

@@ -1640,7 +1640,7 @@ $meta_keywords = "local shifting services in ranchi, local packers and movers in
         </div>
 
         <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
-          <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="local-tag-pill" style="text-decoration:none; font-weight:700; color:#ff6a28;">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="local-tag-pill" style="text-decoration:none; font-weight:700; color:#ff6a28;">Professional Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" class="local-tag-pill" style="text-decoration:none;">Residential Shifting Services</a>
           <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting-services-in-ranchi" class="local-tag-pill" style="text-decoration:none; font-weight:700; color:#ff6a28;">Residential Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="local-tag-pill" style="text-decoration:none;">Household Shifting Ranchi</a>

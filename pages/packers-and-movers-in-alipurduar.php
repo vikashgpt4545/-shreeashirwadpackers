@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <div class="apd-highlight-box">
                     <div class="apd-highlight-title">Direct Sub-Himalayan Transit Corridor Advantage</div>
-                    <p class="apd-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> and North Bengal hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cooch-behar">Cooch Behar</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri">Jalpaiguri</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, our vehicles provide dependable point-to-point movement across NH-27 to Assam and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without cargo transshipment.</p>
+                    <p class="apd-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> and North Bengal hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cooch-behar">Cooch Behar</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri">Jalpaiguri</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, our vehicles provide dependable point-to-point movement across NH-27 to Assam and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without cargo transshipment.</p>
                 </div>
 
                 <p class="apd-body-p">The residential neighborhoods of Alipurduar encompass diverse urban settings—from the bustling commercial areas around Buxa Feeder Road, Shantipara, and Sobhaganj, to the organized railway quarters around Alipurduar Junction, and the expanding modern housing pockets in Newtown, College Para, and Falakata Road. Our trained handling squads possess deep local familiarity with municipal regulations, forest checkpoint clearances, and tea estate road networks, ensuring smooth and punctual moving operations.</p>
@@ -812,7 +812,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cooch-behar" class="apd-cluster-link">Cooch Behar Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri" class="apd-cluster-link">Jalpaiguri Divisional Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri" class="apd-cluster-link">Siliguri Gateway</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="apd-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="apd-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

@@ -731,7 +731,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruppur";
         <p>Tiruppur occupies an exceptional location within the Kongu industrial corridor. NH 544 provides an express expressway westward directly to Coimbatore and eastward toward Salem, Erode, and Chennai. The Palladam Road links southward toward Dharapuram and Dindigul, while the Kangeyam Road connects smoothly toward Karur and Central Tamil Nadu. This strategic network allows our moving container vehicles to connect across all major commercial destinations effortlessly.</p>
 
         <div class="tpr-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #062b33; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Tiruppur directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #062b33; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Tiruppur directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Tiruppur</h3>

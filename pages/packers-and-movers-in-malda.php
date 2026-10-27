@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="mld-section-title">Reliable Relocation Services in Malda (English Bazar)</h2>
                 <p class="mld-lead-p">Malda, historically known as English Bazar, serves as the pivotal geographical bridge connecting South Bengal with North Bengal and Northeast India. Positioned along the Mahananda River in the fertile agricultural plains of northern West Bengal, Malda is celebrated across the nation as the Silk and Mango Capital of Eastern India. As a bustling divisional administrative hub, bustling commercial trading center, and major railway junction on the Eastern Railway network, Malda features a dynamic blend of government quarters, business wholesale markets, and expanding residential neighborhoods. Moving home or business in Malda requires a dependable partner with authentic local expertise and robust highway logistics.</p>
                 
-                <p class="mld-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of dedicated moving experience to Malda. Whether you are relocating your family between apartments near Rathbari More, transferring from administrative quarters in Mokdumpur, or moving across the state to Siliguri or Kolkata, our trained moving crews deliver flawless service. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> and North Bengal megahubs through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Packers and Movers in Siliguri</a>, we provide unified door-to-door relocation across India.</p>
+                <p class="mld-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of dedicated moving experience to Malda. Whether you are relocating your family between apartments near Rathbari More, transferring from administrative quarters in Mokdumpur, or moving across the state to Siliguri or Kolkata, our trained moving crews deliver flawless service. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and North Bengal megahubs through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Packers and Movers in Siliguri</a>, we provide unified door-to-door relocation across India.</p>
 
                 <div class="mld-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Malda">
@@ -633,7 +633,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="mld-highlight-desc">Because Malda experiences severe monsoon deluges, our container trucks are fitted with watertight rubber gaskets, ensuring complete dryness for all household goods.</div>
                 </div>
 
-                <p class="mld-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
+                <p class="mld-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
 
                 <p class="mld-body-p">We also provide optional value-added services such as pre-move deep cleaning, wall mount television bracket de-installation, split air conditioner gas sealing and dismantling by certified HVAC technicians, and short-term secure household warehousing at fully covered, CCTV-monitored storage facilities.</p>
             </section>
@@ -738,7 +738,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="mld-cluster-link">Durgapur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="mld-cluster-link">Asansol Rail Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur" class="mld-cluster-link">Kharagpur Railway Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mld-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="mld-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

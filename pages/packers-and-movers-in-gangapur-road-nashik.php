@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="gpr-image-caption">Professional loading crews securing packed household consignments inside our weatherproof container trucks on Gangapur Road.</p>
         </div>
 
-        <p>Operating in direct synergy with our regional master hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nashik">Packers and Movers in Nashik</a>, our western network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to Indira Nagar, heading toward Mumbai or Pune, or executing an interstate transfer across India.</p>
+        <p>Operating in direct synergy with our regional master hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nashik">Packers and Movers in Nashik</a>, our western network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to Indira Nagar, heading toward Mumbai or Pune, or executing an interstate transfer across India.</p>
 
         <p>Our operations team closely monitors road conditions along Gangapur Road and College Road to schedule dispatches during calm traffic intervals, ensuring prompt and safe relocations throughout Anandwali, Serene Meadows, and surrounding West Nashik communities.</p>
     </section>
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nagpur">Packers Movers Nagpur</a>
             </div>
             <div class="gpr-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

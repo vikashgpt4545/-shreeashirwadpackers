@@ -566,7 +566,7 @@ require_once __DIR__ . '/includes/header.php';
     <nav class="simdega-breadcrumb" aria-label="Breadcrumb">
       <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
       <span>/</span>
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/">Packers & Movers Ranchi</a>
       <span>/</span>
       <span class="current">Ranchi to Simdega Shifting</span>
     </nav>
@@ -1181,7 +1181,7 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="simdega-cluster-grid">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="simdega-cluster-link">
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="simdega-cluster-link">
         <i class="fa fa-map-marker"></i> Ranchi Moving Hub (Main Page)
       </a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gumla-packers-and-movers" class="simdega-cluster-link">
@@ -1315,7 +1315,7 @@ require_once __DIR__ . '/includes/header.php';
       "@type": "ListItem",
       "position": 2,
       "name": "Packers and Movers in Ranchi",
-      "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+      "item": "https://www.shreeashirwadpackers.com/"
     },
     {
       "@type": "ListItem",

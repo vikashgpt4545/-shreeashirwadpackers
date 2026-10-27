@@ -257,7 +257,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div class="ldh-card">
                 <h4>Interstate Long-Haul Logistics</h4>
-                <p>Direct door-to-door express highway connectivity from Ludhiana to Delhi NCR, Haryana, Mumbai, Bengaluru, Hyderabad, Kolkata, Patna, and our primary Eastern headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p>Direct door-to-door express highway connectivity from Ludhiana to Delhi NCR, Haryana, Mumbai, Bengaluru, Hyderabad, Kolkata, Patna, and our primary Eastern headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
             </div>
         </div>
     </section>

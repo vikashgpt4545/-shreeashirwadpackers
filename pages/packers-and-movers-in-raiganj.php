@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <div class="rgj-highlight-box">
                     <div class="rgj-highlight-title">Direct North Bengal Transit Corridor Connectivity</div>
-                    <p class="rgj-highlight-desc">Operating through seamless route networks linked with our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> and divisional offices across North Bengal, our container trucks connect Raiganj directly with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-malda">Malda</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without cargo transshipment.</p>
+                    <p class="rgj-highlight-desc">Operating through seamless route networks linked with our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> and divisional offices across North Bengal, our container trucks connect Raiganj directly with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-malda">Malda</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without cargo transshipment.</p>
                 </div>
 
                 <p class="rgj-body-p">The residential neighborhoods of Raiganj encompass diverse urban settings—from the historic mercantile lanes of Bandar and Mohanbati, to the quiet leafy avenues of College Para, Ukilpara, Sudarsanpur, and Ashok Pally, alongside the sprawling planned official enclaves of Karnajora. Our relocation squads possess intimate knowledge of local traffic regulations, market day bottlenecks, and multi-story housing access without service elevators, ensuring seamless loading and unloading without delays.</p>
@@ -812,7 +812,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-malda" class="rgj-cluster-link">Malda City Authority</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri" class="rgj-cluster-link">Siliguri Transport Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampore" class="rgj-cluster-link">Berhampore Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="rgj-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="rgj-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

@@ -375,7 +375,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mumbai'
 
         <div class="mum-highlight-box">
             <h4>Direct Authority Connections</h4>
-            <p>Moving outside Maharashtra? Check our dedicated nationwide routes connecting Mumbai with our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, explore regional hubs in Bihar and Uttar Pradesh, or evaluate standard rates with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Packers and Movers Charges Calculator</a>.</p>
+            <p>Moving outside Maharashtra? Check our dedicated nationwide routes connecting Mumbai with our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, explore regional hubs in Bihar and Uttar Pradesh, or evaluate standard rates with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Packers and Movers Charges Calculator</a>.</p>
         </div>
     </section>
 

@@ -731,7 +731,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thillai-nagar-trichy";
         <p>Thillai Nagar commands prime central connectivity in Trichy. Thillai Nagar Main Road connects directly to Salai Road, West Boulevard Road, and the Cantonment area. Northward routes lead smoothly across the Cauvery bridge toward Srirangam, while southward links connect to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kk-nagar-trichy" style="color: #0a3641; font-weight: 600; text-decoration: underline;">KK Nagar Trichy</a>, Central Bus Stand, and the main <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tiruchirappalli" style="color: #0a3641; font-weight: 600; text-decoration: underline;">Tiruchirappalli City Hub</a>. East-west arterials link effortlessly to NH 45 (Chennai/Madurai) and NH 83 (Karur/Coimbatore).</p>
 
         <div class="tnt-highlight-box">
-            <p><strong>Pan-India Highway Network:</strong> Shifting outside Tamil Nadu? Supported by our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0a3641; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we provide nationwide container transport connecting Thillai Nagar to every major city across India.</p>
+            <p><strong>Pan-India Highway Network:</strong> Shifting outside Tamil Nadu? Supported by our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0a3641; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we provide nationwide container transport connecting Thillai Nagar to every major city across India.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Thillai Nagar</h3>

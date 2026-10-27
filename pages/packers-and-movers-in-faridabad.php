@@ -782,7 +782,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida">Packers Movers Noida</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi">Packers Movers Delhi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
         </div>
     </section>
 </main>

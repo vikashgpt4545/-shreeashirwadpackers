@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="bdh-section-title">Reliable Relocation Services in Bardhaman (Burdwan)</h2>
                 <p class="bdh-lead-p">Bardhaman, historically celebrated as Burdwan, serves as the administrative, cultural, and agricultural capital of the Purba Bardhaman district. Universally acclaimed as the "Rice Bowl of Bengal", Bardhaman seamlessly blends deep historical heritage—marked by the iconic Curzon Gate and 108 Shiva Temples—with bustling commercial markets, expansive agro-processing rice mills, and prestigious educational institutions including Burdwan University and Burdwan Medical College. This dynamic economic ecosystem demands packing and moving services characterized by punctuality, delicate handling, and proven highway capability.</p>
                 
-                <p class="bdh-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of professional moving expertise to Bardhaman. Whether you are relocating your family between apartments near Badamtala, transferring your faculty residence from the Golapbag university campus, or shifting corporate offices near Tinkonia bus stand, our certified packing specialists deliver seamless execution. Operating in harmony with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide door-to-door relocation across India.</p>
+                <p class="bdh-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of professional moving expertise to Bardhaman. Whether you are relocating your family between apartments near Badamtala, transferring your faculty residence from the Golapbag university campus, or shifting corporate offices near Tinkonia bus stand, our certified packing specialists deliver seamless execution. Operating in harmony with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide door-to-door relocation across India.</p>
 
                 <div class="bdh-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bardhaman">
@@ -633,7 +633,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="bdh-highlight-desc">To protect against humid monsoonal rains across the Bengal delta, all cartons and wooden furniture are wrapped in weather-proof stretch film with moisture-absorbent desiccant pouches.</div>
                 </div>
 
-                <p class="bdh-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our containerized vehicles travel directly without intermediate transshipment, ensuring unmatched security and timely arrival.</p>
+                <p class="bdh-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our containerized vehicles travel directly without intermediate transshipment, ensuring unmatched security and timely arrival.</p>
 
                 <p class="bdh-body-p">We also provide optional value-added services such as pre-move deep cleaning, wall mount television bracket de-installation, split air conditioner gas sealing and dismantling by certified HVAC technicians, and short-term secure household warehousing at fully covered, CCTV-monitored storage facilities.</p>
             </section>
@@ -736,7 +736,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="bdh-cluster-link">Kolkata Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah" class="bdh-cluster-link">Howrah City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri" class="bdh-cluster-link">Siliguri North Bengal Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bdh-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="bdh-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

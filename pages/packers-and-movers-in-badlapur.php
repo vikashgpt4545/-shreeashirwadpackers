@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="bdl-image-caption">Experienced loading crews securing packed household consignments inside our weatherproof container trucks in Badlapur.</p>
         </div>
 
-        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ulhasnagar">Packers and Movers in Ulhasnagar</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kalyan">Packers and Movers in Kalyan</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dombivli">Packers and Movers in Dombivli</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Badlapur, connecting across MMR, or executing an interstate transfer across India.</p>
+        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ulhasnagar">Packers and Movers in Ulhasnagar</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kalyan">Packers and Movers in Kalyan</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dombivli">Packers and Movers in Dombivli</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Badlapur, connecting across MMR, or executing an interstate transfer across India.</p>
 
         <p>Every assignment is managed under the direct supervision of a dedicated relocation officer who coordinates every phase from pre-move survey to final furniture placement, ensuring your precious home possessions arrive in flawless condition. Whether shifting an apartment in Katrap or moving a business in Badlapur MIDC, our teams guarantee absolute reliability.</p>
     </section>
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers Movers Pune</a>
             </div>
             <div class="bdl-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

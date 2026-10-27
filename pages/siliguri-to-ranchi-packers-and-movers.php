@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Our Siliguri field teams cover all residential colonies, cantonments, and commercial zones, including Sevoke Road, Matigara, Hakim Para, College Para, Pradhan Nagar, Shiv Mandir, Salugara, Punjabi Para, Dagapur, Sukna Military Station, Bengdubi Camp, Bagdogra, New Jalpaiguri (NJP) colony, and the premium Uttorayon Township. We coordinate gate clearances with defense military police (CMP) and housing society management to execute smooth loading operations.
                 </p>
                 <p>
-                    At destination in Ranchi, our trained crew delivers straight to your doorstep across Morabadi, Kanke Road, Bariatu, Ashok Nagar, Namkum Army Cantonment, Dipatoli Cantonment, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Tupudana, the Dhurwa core capital complex, SAIL Township, MECON Colony, CMPDI complex, and BIT Mesra. Every carton is inspected, placed in designated bedrooms, unpacked, assembled by skilled carpenters, and cleaned of packing debris. We also offer trusted, scheduled services on our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-siliguri-packers-and-movers" style="color: var(--slg-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Siliguri packers and movers</a> corridor, coordinated directly through our main corporate office for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--slg-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>.
+                    At destination in Ranchi, our trained crew delivers straight to your doorstep across Morabadi, Kanke Road, Bariatu, Ashok Nagar, Namkum Army Cantonment, Dipatoli Cantonment, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Tupudana, the Dhurwa core capital complex, SAIL Township, MECON Colony, CMPDI complex, and BIT Mesra. Every carton is inspected, placed in designated bedrooms, unpacked, assembled by skilled carpenters, and cleaned of packing debris. We also offer trusted, scheduled services on our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-siliguri-packers-and-movers" style="color: var(--slg-ran-primary); font-weight: 600; text-decoration: underline;">Ranchi to Siliguri packers and movers</a> corridor, coordinated directly through our main corporate office for <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--slg-ran-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>.
                 </p>
             </div>
             <div class="slg-ran-img-box">
@@ -928,7 +928,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Siliguri (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="slg-ran-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="slg-ran-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

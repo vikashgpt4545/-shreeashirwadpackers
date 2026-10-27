@@ -732,7 +732,7 @@ require_once ROOT_PATH . '/includes/config.php';
             </div>
             <div class="alp-card">
                 <h3>Direct Pan-India Highway Corridors</h3>
-                <p>Direct routes from Sector Alpha to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, plus direct links to Patna, Jamshedpur, and Dhanbad.</p>
+                <p>Direct routes from Sector Alpha to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, plus direct links to Patna, Jamshedpur, and Dhanbad.</p>
             </div>
         </div>
 
@@ -786,7 +786,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-150-noida" class="alp-cluster-link">Sector 150 Noida</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-137-noida" class="alp-cluster-link">Sector 137 Noida</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida" class="alp-cluster-link">Noida City Authority Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="alp-cluster-link">Company Headquarters (Ranchi)</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="alp-cluster-link">Company Headquarters (Ranchi)</a>
         </div>
     </section>
 

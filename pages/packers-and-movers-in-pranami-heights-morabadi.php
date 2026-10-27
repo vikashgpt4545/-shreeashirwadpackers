@@ -319,8 +319,8 @@ require_once BASE_PATH . '/includes/config.php';
         <h3>Connected Neighborhoods & Relocation Hubs</h3>
         <p style="margin: 0 0 16px; font-size: 0.94rem; color: #475569;">Explore sister residential neighborhoods in Ranchi, corporate transfer resources, and pricing calculators:</p>
         <div class="phm-cluster-links">
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi HQ</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke-road-ranchi">Kanke Road Authority Hub</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">Packers & Movers Ranchi HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Kanke Road Authority Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi">Ashok Nagar Moving Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sail-township-ranchi">SAIL Township Shifting</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-housing-colony">Harmu Housing Colony Hub</a>

@@ -593,7 +593,7 @@
                     Managing shifting operations across Purnia requires intimate familiarity with local traffic patterns. In commercial areas like Bhatta Bazar and Line Bazar, daytime traffic is intense. Our logistics planners coordinate early morning or evening dispatches, deploying compact pick-up shuttles to ferry household cargo smoothly to our long-haul closed containers parked along the bypass.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally within Purnia or embarking on an interstate transfer, our operations integrate directly with our state network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Darbhanga</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Bhagalpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally within Purnia or embarking on an interstate transfer, our operations integrate directly with our state network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Darbhanga</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Bhagalpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -931,7 +931,7 @@
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" class="prn-cluster-link">Packers and Movers in Bhagalpur</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" class="prn-cluster-link">Packers and Movers in Patna</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" class="prn-cluster-link">Packers and Movers in Muzaffarpur</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="prn-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="prn-cluster-link">Packers and Movers in Ranchi (HQ)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="prn-cluster-link">Live Rate Calculator</a>
             </div>
         </div>

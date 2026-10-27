@@ -1,6 +1,10 @@
 <?php
-// pages/packers-and-movers-in-kudasan-gandhinagar.php
-// Handcrafted SEO Hub Page: Shree Ashirwad Packers and Movers in Kudasan Gandhinagar, Gujarat
+/**
+ * Page: Packers and Movers in Kudasan Gandhinagar
+ * Layout: Full-width modern responsive layout (AGENTS.md & AI_PAGE_CREATION_RULES.md compliant)
+ * Scoped Prefix: kud-
+ */
+require_once __DIR__ . '/../includes/config.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -396,7 +400,7 @@
 </head>
 <body>
 
-<?php include_once ROOT_DIR . '/includes/header.php'; ?>
+<?php require_once __DIR__ . '/../includes/header.php'; ?>
 
 <div class="kds-wrap">
     <div class="kds-hero">
@@ -422,7 +426,7 @@
                 <div class="kds-image-caption">Disciplined apartment loading operations utilizing specialized elevator padding and protective floor runners in Kudasan.</div>
             </div>
 
-            <p>Whether you are shifting locally within Kudasan, moving across to the administrative sectors in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gandhinagar">Gandhinagar</a>, transitioning across the SG Highway into <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ahmedabad">Ahmedabad</a>, or coordinating an inter-state relocation to our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our dedicated team delivers dependable, zero-damage shifting tailored to your timetable.</p>
+            <p>Whether you are shifting locally within Kudasan, moving across to the administrative sectors in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gandhinagar">Gandhinagar</a>, transitioning across the SG Highway into <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ahmedabad">Ahmedabad</a>, or coordinating an inter-state relocation to our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our dedicated team delivers dependable, zero-damage shifting tailored to your timetable.</p>
         </div>
 
         <!-- Section 2: Comprehensive Moving Solutions -->
@@ -719,7 +723,7 @@
     </div>
 </div>
 
-<?php include_once ROOT_DIR . '/includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

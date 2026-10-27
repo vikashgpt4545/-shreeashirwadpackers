@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Dedicated Twin-City Shuttles:</strong> Rapid moves across the Hubli-Dharwad BRTS corridor with dedicated scheduling and same-day setups.</li>
                 <li><strong>Industrial & Commercial Expertise:</strong> Specialized crane loading and crating for industrial units in Tarihal, Belur, and Rayapur MIDC zones.</li>
                 <li><strong>Golden Quadrilateral Express Fleet:</strong> Direct daily container services on NH 48 linking Hubli to Bangalore, Pune, Mumbai, and Goa.</li>
-                <li><strong>Pan-India Network Reliability:</strong> Directly connected with our national authority hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Pan-India Network Reliability:</strong> Directly connected with our national authority hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

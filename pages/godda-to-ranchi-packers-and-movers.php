@@ -504,7 +504,7 @@ $meta_keywords = "godda to ranchi packers and movers, packers and movers godda t
               Mastering the 320 km Godda to Ranchi Route
             </h2>
             <p style="font-size:1.02rem; line-height:1.75; color:#334155; margin-bottom:16px;">
-              The journey from Godda to Ranchi extends approximately <strong>310 to 335 kilometers</strong>, creating one of the longest inter-district moves within Jharkhand. The standard freight itinerary travels along <strong>NH-133 through Poraiyahat and Hansdiha</strong>, connects past Deoghar and Madhupur toward Giridih, joins the Grand Trunk Road (NH-19) at Dumri, and smoothly cruises along the high-speed NH-20 Expressway through Bagodar, Charhi, Ramgarh, and Ormanjhi before entering <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#2563eb; font-weight:600; text-decoration:underline;">Ranchi</a>.
+              The journey from Godda to Ranchi extends approximately <strong>310 to 335 kilometers</strong>, creating one of the longest inter-district moves within Jharkhand. The standard freight itinerary travels along <strong>NH-133 through Poraiyahat and Hansdiha</strong>, connects past Deoghar and Madhupur toward Giridih, joins the Grand Trunk Road (NH-19) at Dumri, and smoothly cruises along the high-speed NH-20 Expressway through Bagodar, Charhi, Ramgarh, and Ormanjhi before entering <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#2563eb; font-weight:600; text-decoration:underline;">Ranchi</a>.
             </p>
             <p style="font-size:1.02rem; line-height:1.75; color:#475569; margin-bottom:16px;">
               Over this extensive transit, trucks face diverse road surfaces ranging from rural state highways to busy multi-lane expressways, alongside the winding mountain gradients of the Ramgarh-Chutupalu ghats. If goods are transported in conventional open wooden lorries with loose tarpaulins, items are vulnerable to severe moisture penetration, road grime, coal dust from heavy dumpers, and load shifts when climbing steep incline curves.
@@ -1087,7 +1087,7 @@ $meta_keywords = "godda to ranchi packers and movers, packers and movers godda t
             <span>Ranchi to Godda (Reciprocal)</span>
             <i class="fas fa-arrow-right" style="color:#ff6a28;"></i>
           </a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display:flex; justify-content:space-between; align-items:center; background:#ffffff; padding:15px 18px; border-radius:8px; border:1px solid #e2e8f0; text-decoration:none; color:#1e40af; font-weight:600; font-size:0.95rem;">
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="display:flex; justify-content:space-between; align-items:center; background:#ffffff; padding:15px 18px; border-radius:8px; border:1px solid #e2e8f0; text-decoration:none; color:#1e40af; font-weight:600; font-size:0.95rem;">
             <span>Ranchi Relocation Hub</span>
             <i class="fas fa-arrow-right" style="color:#ff6a28;"></i>
           </a>

@@ -601,7 +601,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     At Shree Ashirwad Packers and Movers, our field supervisors maintain direct liaison with apartment resident welfare associations (RWAs). We utilize customized 14-foot and 17-foot enclosed container trucks engineered to clear residential podium heights and underground basement parking ramps. Padded moving blankets are installed inside lift cabins to prevent scratches on stainless steel elevators, guaranteeing a completely seamless handover.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether shifting within Bailey Road or embarking on an interstate move, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0e2b5c; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> network and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0e2b5c; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a> for long-distance household transfers.
+                    Whether shifting within Bailey Road or embarking on an interstate move, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0e2b5c; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> network and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0e2b5c; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a> for long-distance household transfers.
                 </p>
             </div>
             <div>

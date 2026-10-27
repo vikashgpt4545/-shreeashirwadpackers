@@ -507,7 +507,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
                 <p>In the rare event of transit damage due to unforeseen highway incidents, our dedicated claims desk ensures swift settlement within 7 business days. Furthermore, our furniture carpenters dismantle and pack high-value double beds, LED TV consoles, and wardrobes using dedicated toolkit cases.</p>
                 <div class="ozb-highlight-box">
                     <h4>Direct Connection to Ranchi Central Authority</h4>
-                    <p>Learn more about our city-wide operations by visiting the main <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar authority page.</p>
+                    <p>Learn more about our city-wide operations by visiting the main <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar authority page.</p>
                 </div>
             </div>
             <div>

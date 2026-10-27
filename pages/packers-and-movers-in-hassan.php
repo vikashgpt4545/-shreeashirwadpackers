@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hassan";
                 <li><strong>Weatherproof Monsoon Packaging:</strong> Multi-layer waterproof shrink film, moisture absorbers, and sealed containerized vehicles to protect against Malnad humidity.</li>
                 <li><strong>Plantation & Agro Cargo Logistics:</strong> Safe handling and transport of coffee processing equipment, cardamom dryers, and estate machinery across Hassan and Sakleshpur.</li>
                 <li><strong>Direct Highway Shuttles:</strong> Daily dispatches along NH-75 connecting Hassan to Bangalore in under 4 hours and to Mangalore via Shiradi Ghat in under 5 hours.</li>
-                <li><strong>Central Operations Oversight:</strong> End-to-end logistics coordination and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Central Operations Oversight:</strong> End-to-end logistics coordination and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -773,7 +773,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hassan";
         </div>
         <div class="hsn-faq-item">
             <h3>Is transit insurance provided for interstate moves from Hassan?</h3>
-            <p>Yes, we provide 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we provide 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
         <div class="hsn-faq-item">
             <h3>Can you safely relocate heavy antique rosewood and teakwood furniture in Hassan?</h3>

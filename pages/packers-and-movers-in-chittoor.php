@@ -647,7 +647,7 @@
 
     <h3>Strategic Highway Arteries Connecting Coastal & Inland Cities</h3>
     <p>Chittoor is a premier highway node. National Highway 40 provides rapid links north toward Rayalaseema and south to Ranipet and Chennai, while National Highway 69 offers smooth multi-lane access directly to Kolar and Bangalore.</p>
-    <p>Heading toward Central and Eastern India, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Heading toward Central and Eastern India, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>Whether relocating locally within Chittoor district or coordinating long-distance interstate movement to Chennai, Bangalore, or Hyderabad, our dedicated vehicle tracking gives you complete peace of mind throughout the journey.</p>
   </section>
 
@@ -675,7 +675,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting locally within Chittoor or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether you are shifting locally within Chittoor or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With thousands of successful domestic and corporate relocations executed across South, East, and Central India, our Chittoor branch brings proven enterprise-grade logistics directly to your doorstep with guaranteed delivery schedules.</p>
   </section>
 

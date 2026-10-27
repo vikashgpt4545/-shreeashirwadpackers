@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="sbp-image-caption">All-weather container delivery vehicle operating highway routes between Sambalpur and Ranchi HQ</div>
                 </div>
 
-                <p class="sbp-body-p">Relocating between Sambalpur and Jharkhand? Our direct corridor connects Sambalpur to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> via Biju Expressway and NH-143 (approx. 270 km, completed within 8 to 10 hours door-to-door). Consignments receive continuous GPS tracking, dedicated move manager support, and automated WhatsApp transit checkpoints.</p>
+                <p class="sbp-body-p">Relocating between Sambalpur and Jharkhand? Our direct corridor connects Sambalpur to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> via Biju Expressway and NH-143 (approx. 270 km, completed within 8 to 10 hours door-to-door). Consignments receive continuous GPS tracking, dedicated move manager support, and automated WhatsApp transit checkpoints.</p>
 
                 <p class="sbp-body-p">We also provide direct freight and household moving links connecting Sambalpur to Raipur (Chhattisgarh), Bilaspur, Kharagpur, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" style="color: #1e3a8a; font-weight: 600;">Kolkata</a> via NH-53 with comprehensive all-risk transit insurance and timely delivery commitments.</p>
 
@@ -756,7 +756,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" class="sbp-cluster-link">Rourkela Steel City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur" class="sbp-cluster-link">Berhampur Silk City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="sbp-cluster-link">Kolkata Authority Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="sbp-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="sbp-cluster-link">Ranchi Corporate HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="sbp-cluster-link">Live Rate Calculator</a>
                 </div>
             </div>

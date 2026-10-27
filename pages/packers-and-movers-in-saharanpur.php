@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="shp-intro-p">At Shree Ashirwad Packers and Movers, our dedicated Saharanpur operations team delivers tailored moving solutions configured specifically for furniture exporters, defense personnel, agro-business families, and corporate executives. From quiet residential enclaves near Company Garden to bustling commercial belts on Bajoria Road, our certified staff guarantees absolute safety.</p>
 
-        <p class="shp-intro-p">Whether you are relocating locally within Saharanpur, moving toward sister hubs like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarnagar">Muzaffarnagar</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-meerut">Meerut</a>, or moving interstate to Delhi NCR or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our comprehensive logistics network provides unmatched peace of mind.</p>
+        <p class="shp-intro-p">Whether you are relocating locally within Saharanpur, moving toward sister hubs like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarnagar">Muzaffarnagar</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-meerut">Meerut</a>, or moving interstate to Delhi NCR or <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our comprehensive logistics network provides unmatched peace of mind.</p>
     </section>
 
     <!-- Section 2: Core Relocation Services -->
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="shp-intro-p">Our localized familiarity ensures that no time is wasted seeking addresses or negotiating residential gates. Our drivers are intimately familiar with local no-entry timings, morning school traffic schedules, and optimal parking spots across Saharanpur.</p>
 
-        <p class="shp-intro-p">For clients moving to other regional hubs in western Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
+        <p class="shp-intro-p">For clients moving to other regional hubs in western Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
     </section>
 
     <!-- Section 4: Transparent Tariff Structure -->
@@ -731,7 +731,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="shp-link-card">Delhi NCR Mega Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aligarh" class="shp-link-card">Aligarh Lock Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow" class="shp-link-card">Lucknow State Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="shp-link-card">Ranchi Head Office Hub</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="shp-link-card">Ranchi Head Office Hub</a>
         </div>
     </section>
 

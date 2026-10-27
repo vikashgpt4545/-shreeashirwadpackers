@@ -240,7 +240,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>When unorganized movers attempt kitchen packing, common disasters include chipped ceramic bowls, shattered wine glasses, dented non-stick cookware, and turmeric or mustard oil stains seeping into adjacent carton boxes. Moving over bumpy road patches on NH-33, Ranchi Ring Road, or uneven colony roads in Lalpur and Upper Bazar causes vibrations that easily shatter poorly cushioned crockery.</p>
                         <div class="hpkm-highlight">
                             <h4>The Golden Rule of Kitchen Packing</h4>
-                            <p>Never pack kitchen items loosely or mix heavy cast iron utensils with delicate ceramic dinner sets in the same carton. Professional packers at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a> use specialized cellular partitions, high-density bubble wrap, and strict weight distribution to guarantee 100% breakage-free relocation.</p>
+                            <p>Never pack kitchen items loosely or mix heavy cast iron utensils with delicate ceramic dinner sets in the same carton. Professional packers at <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a> use specialized cellular partitions, high-density bubble wrap, and strict weight distribution to guarantee 100% breakage-free relocation.</p>
                         </div>
                     </div>
                     <div class="hpkm-img-box">
@@ -463,16 +463,16 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Relocation Guides & Neighborhood Hubs</h3>
                 <p>Plan your move across Ranchi with our specialized packing tutorials and local neighborhood guides:</p>
                 <div class="hpkm-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">New House Shifting Guide Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-home-shifting-ranchi">Complete Guide Home Shifting</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers Dhanbad</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur">Packers and Movers Jamshedpur</a>
                 </div>

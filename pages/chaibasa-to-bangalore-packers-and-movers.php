@@ -521,7 +521,7 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
                 <p>We provide doorstep pickup across all West Singhbhum localities:</p>
                 <p><strong>Chaibasa Catchment:</strong> Sadar Bazaar, Gandhi Tola, Nimdih, Post Office Chowk, Tambo Chowk, and nearby mining residential townships in Noamundi, Gua, Kiriburu, and Chakradharpur.</p>
                 <p><strong>Bangalore Destination Hubs:</strong> Koramangala, Indiranagar, HSR Layout, Whitefield, Electronic City, Marathahalli, Bellandur, Sarjapur Road, Jayanagar, JP Nagar, Banashankari, and North Bangalore (Hebbal, Yelahanka).</p>
-                <p>For more about our local West Singhbhum operations, explore our authority page on <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chaibasa">Packers and Movers in Chaibasa</a> or our main <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar.</p>
+                <p>For more about our local West Singhbhum operations, explore our authority page on <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chaibasa">Packers and Movers in Chaibasa</a> or our main <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
             </div>
         </div>
 

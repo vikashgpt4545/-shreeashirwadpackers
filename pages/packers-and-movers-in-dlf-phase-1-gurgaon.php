@@ -732,7 +732,7 @@ require_once ROOT_PATH . '/includes/config.php';
             </div>
             <div class="dlf1-card">
                 <h3>Direct Pan-India Highway Corridors</h3>
-                <p>Direct routes from DLF Phase 1 to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, plus direct links to Patna, Jamshedpur, and Dhanbad.</p>
+                <p>Direct routes from DLF Phase 1 to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, plus direct links to Patna, Jamshedpur, and Dhanbad.</p>
             </div>
         </div>
 
@@ -787,7 +787,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-14-gurgaon" class="dlf1-cluster-link">Sector 14 Gurgaon</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-palam-vihar-gurgaon" class="dlf1-cluster-link">Palam Vihar Gurgaon</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gurgaon" class="dlf1-cluster-link">Gurgaon City Authority Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dlf1-cluster-link">Company Headquarters (Ranchi)</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="dlf1-cluster-link">Company Headquarters (Ranchi)</a>
         </div>
     </section>
 

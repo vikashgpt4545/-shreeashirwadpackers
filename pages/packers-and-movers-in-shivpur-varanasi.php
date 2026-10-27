@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <p class="svp-image-caption">Shree Ashirwad crew securely loading container vehicles in modern residential enclaves of Shivpur Varanasi.</p>
         </div>
 
-        <p class="svp-intro-p">Whether you are shifting into a newly purchased high-rise apartment in Tarna, relocating from an older home in Gilat Bazar, or coordinating an inter-state corporate transfer to Delhi NCR, Lucknow, Patna, or our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our teams manage every detail with complete professionalism. We provide end-to-end services covering customized furniture dismantling, protective wrapping, scientific loading, transport, and room staging.</p>
+        <p class="svp-intro-p">Whether you are shifting into a newly purchased high-rise apartment in Tarna, relocating from an older home in Gilat Bazar, or coordinating an inter-state corporate transfer to Delhi NCR, Lucknow, Patna, or our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our teams manage every detail with complete professionalism. We provide end-to-end services covering customized furniture dismantling, protective wrapping, scientific loading, transport, and room staging.</p>
 
         <p class="svp-intro-p">With hundreds of successful home shifting operations completed across Shivpur, Tarna, Gilat Bazar, and the expanding modern residential towers bordering the Babatpur Airport Highway and Varanasi Ring Road, our services feature completely upfront quotations, comprehensive transit insurance protection, and responsive customer support to ensure your relocation is seamless, punctual, and entirely stress-free.</p>
     </section>
@@ -697,7 +697,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h2 class="svp-section-heading">Interstate Logistics & Strategic Highway Connectivity</h2>
         <p class="svp-intro-p">Shivpur enjoys unmatched logistical advantages within Varanasi, situated directly along National Highway 56 (NH-56) and adjacent to the Varanasi Ring Road interchange. From this northern node, our long-haul container vehicles access both national expressways and eastern freight corridors without encountering inner city congestion.</p>
 
-        <p class="svp-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along NH-56 and the Purvanchal Expressway, ensuring rapid transit durations under 10 to 14 hours. Consignments bound for Bihar and Jharkhand—connecting to Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>—connect smoothly via the Ring Road directly onto National Highway 19 (NH-19).</p>
+        <p class="svp-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along NH-56 and the Purvanchal Expressway, ensuring rapid transit durations under 10 to 14 hours. Consignments bound for Bihar and Jharkhand—connecting to Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>—connect smoothly via the Ring Road directly onto National Highway 19 (NH-19).</p>
 
         <div class="svp-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Delivery Fleet in Shivpur Varanasi" width="580" height="380" loading="lazy">

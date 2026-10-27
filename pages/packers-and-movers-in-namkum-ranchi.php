@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -467,7 +467,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-nmk-section">
       <h2>Professional Moving Services in Eastern Ranchi's Defense and Industrial Hub</h2>
       <p>Namkum occupies a distinguished and vital position on the eastern perimeter of Ranchi. Positioned prominently along the arterial Tata Road (National Highway 33) connecting Ranchi with Jamshedpur, Kharagpur, and Kolkata, Namkum is synonymous with major strategic establishments. Foremost among them is the historic Namkum Military Station and Cantonment, housing key formations of the Indian Army, military hospitals, and central defense personnel colonies. The locality also hosts the prestigious Indian Council of Agricultural Research – National Institute of Secondary Agriculture (ICAR-IINRG, formerly Indian Institute of Natural Resins and Gums), sprawling manufacturing units in Namkum Industrial Area, bustling commercial junctions at Lowadih and Rampur, and growing residential colonies along Sidroll.</p>
-      <p>Relocating in Namkum requires specialized procedural expertise. Defense families and commissioned officers experience frequent transfers on strict duty orders, requiring punctual vehicle dispatch, authorized cantonment gate passes, and meticulous paperwork compliant with the Controller of Defence Accounts (CDA) guidelines. In addition, industrial facilities and research laboratories demand heavy machinery rigging, scientific apparatus protection, and secure container vehicles. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers takes immense pride in serving the brave men and women of our armed forces, agricultural researchers, and local businesses in Namkum with highest-grade packaging, disciplined execution, and zero damage guarantees.</p>
+      <p>Relocating in Namkum requires specialized procedural expertise. Defense families and commissioned officers experience frequent transfers on strict duty orders, requiring punctual vehicle dispatch, authorized cantonment gate passes, and meticulous paperwork compliant with the Controller of Defence Accounts (CDA) guidelines. In addition, industrial facilities and research laboratories demand heavy machinery rigging, scientific apparatus protection, and secure container vehicles. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers takes immense pride in serving the brave men and women of our armed forces, agricultural researchers, and local businesses in Namkum with highest-grade packaging, disciplined execution, and zero damage guarantees.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->

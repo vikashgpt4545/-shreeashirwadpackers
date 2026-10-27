@@ -521,7 +521,7 @@ $canonical_url = "https://shreeashirwadpackers.com/gumla-to-rourkela-packers-and
                 <p>Our delivery fleet covers every residential sector across Rourkela:</p>
                 <p><strong>Township Sectors:</strong> Sector 1, 2, 3, 4, 5, 6, 7, 8, 9, 14, 17, 19, 20, 21, and Ispat Nagar.</p>
                 <p><strong>Civil & Private Localities:</strong> Civil Township, Chhend Colony, Koel Nagar, Panposh, Basanti Colony, Uditnagar, and Daily Market.</p>
-                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gumla">Packers and Movers in Gumla</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar.</p>
+                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gumla">Packers and Movers in Gumla</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
             </div>
         </div>
 

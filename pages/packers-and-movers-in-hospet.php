@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hospet";
                 <li><strong>Steel & Mining Corporate Logistics:</strong> Specialized executive transfer packages for senior engineers, plant directors, and corporate staff in the Toranagallu-Hospet belt.</li>
                 <li><strong>Hampi Resort & Hospitality Relocation:</strong> Careful handling of delicate antique furniture, boutique hospitality decor, and commercial kitchen setups.</li>
                 <li><strong>Highway Express Corridors:</strong> Direct non-stop container transport along NH-50 and NH-67 connecting Hospet to Bangalore, Hubli, Davanagere, and Hyderabad.</li>
-                <li><strong>Central Operations Monitoring:</strong> Complete logistics oversight and real-time shipment updates coordinated from our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Central Operations Monitoring:</strong> Complete logistics oversight and real-time shipment updates coordinated from our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -773,7 +773,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hospet";
         </div>
         <div class="hsp-faq-item">
             <h3>Is transit insurance included for household relocations from Hospet?</h3>
-            <p>Yes, we provide 100% comprehensive all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we provide 100% comprehensive all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
         <div class="hsp-faq-item">
             <h3>Can you shift vehicles like cars and motorbikes from Hospet?</h3>

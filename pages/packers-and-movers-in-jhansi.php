@@ -413,7 +413,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p>Our packaging strategy guarantees complete preservation of your valuable heirlooms, glassware, and electronics. Our crew utilizes high-density bubble wraps, corrugated angle boards, thermocol sheets, stretch wrap, and waterproof outer covers to safeguard your belongings against vibration, dust, and sudden road shocks.</p>
 
-        <p>For corporate moves, including personnel transferring between BHEL facilities or financial institutions, we offer dedicated project coordinators who orchestrate timelines meticulously. Our headquarters in Ranchi coordinates high-capacity regional operations, which you can explore on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi hub page</a>.</p>
+        <p>For corporate moves, including personnel transferring between BHEL facilities or financial institutions, we offer dedicated project coordinators who orchestrate timelines meticulously. Our headquarters in Ranchi coordinates high-capacity regional operations, which you can explore on our <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi hub page</a>.</p>
     </section>
 
     <!-- Section 3: Pricing Estimates Table -->

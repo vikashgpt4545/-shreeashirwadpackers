@@ -371,7 +371,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mirzapu
             <p class="mzp-image-caption">Systematic truck loading and itemized inventory verification by Shree Ashirwad Packers and Movers in Mirzapur.</p>
         </div>
 
-        <p>Our experienced shifting crews in Mirzapur are trained to handle every aspect of your relocation with utmost diligence. From disassembling heavy teakwood wardrobes and padding delicate glass showcases to securing brassware antiques and managing multi-story staircase transits, we guarantee flawless cargo protection. For inter-state operations and corporate logistics planning, explore our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">company HQ hub page</a>.</p>
+        <p>Our experienced shifting crews in Mirzapur are trained to handle every aspect of your relocation with utmost diligence. From disassembling heavy teakwood wardrobes and padding delicate glass showcases to securing brassware antiques and managing multi-story staircase transits, we guarantee flawless cargo protection. For inter-state operations and corporate logistics planning, explore our <a href="<?php echo SITE_BASE_URL; ?>/">company HQ hub page</a>.</p>
     </section>
 
     <!-- Section 2: Comprehensive Moving Capabilities -->

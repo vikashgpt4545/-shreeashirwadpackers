@@ -223,7 +223,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Every year, thousands of skilled software engineers, banking professionals, healthcare specialists, central civil servants, and ambitious university graduates transition from Ranchi to India's major economic engines. Key corporate corridors include the technology hubs of Bengaluru (Electronic City, Whitefield, Bellandur) and Hyderabad (Hitec City, Gachibowli), corporate and governmental headquarters across Delhi NCR (including Noida, Greater Noida, and Gurugram Cyber City), the commercial financial nerve center of Mumbai (BKC, Lower Parel, Powai), and Eastern India's industrial and cultural capital, Kolkata.</p>
                         <p>While moving to a Tier-1 metropolis unlocks remarkable career growth, higher compensation packages, and global industry networking, it also demands substantial cultural, financial, and logistical recalibration. Life in Ranchi is blessed with pleasant sub-tropical plateau weather, clean air, manageable commute times (typically 15 to 25 minutes across town from Harmu to Morabadi or Kanke), reasonable rental costs, and tight-knit community networks. In contrast, metros confront relocating families with 50% to 110% higher living costs, massive apartment security deposit demands, strict high-rise society gate pass protocols, and complex interstate highway transit dynamics.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our Interstate Long-Distance Division specializes in seamless relocations connecting Ranchi to all major metropolitan hubs. We deploy dedicated sealed container trucks, specialized multi-tier enclosed car carriers, and end-to-end destination reassembly teams, ensuring that your transition to the big city is smooth and stress-free.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our Interstate Long-Distance Division specializes in seamless relocations connecting Ranchi to all major metropolitan hubs. We deploy dedicated sealed container trucks, specialized multi-tier enclosed car carriers, and end-to-end destination reassembly teams, ensuring that your transition to the big city is smooth and stress-free.</p>
                         <div class="rmcc-highlight">
                             <h4>Calculate Interstate Metro Shifting Rates</h4>
                             <p>Verify live container freight rates from Ranchi to any metro city using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Interstate Relocation Tariff Calculator</a>.</p>
@@ -480,7 +480,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Relocation Guides, Neighborhoods & Services</h3>
                 <p>Plan your long-distance interstate transition with authentic route manuals and pricing calculators:</p>
                 <div class="rmcc-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/car-transport-cost-guide-ranchi">Car Transport Cost Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-guide-ranchi">Bike Transport Guide</a>
@@ -489,8 +489,8 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/corporate-relocation-handbook-hr">Corporate Relocation Handbook</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-choose-packers-and-movers">How to Choose Movers</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
                 </div>
             </section>

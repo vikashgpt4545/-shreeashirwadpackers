@@ -614,7 +614,7 @@
                     Managing relocations across Gaya requires versatile logistical expertise. In established residential and administrative sectors like Civil Lines and AP Colony, broad tree-lined avenues and spacious bungalows allow straightforward container truck placement. In contrast, older historic localities near Vishnupad and Delha feature compact lanes. Our crew deploys agile shuttles to safely collect items from doorsteps, transferring them smoothly into heavy-duty long-distance trailers stationed along bypass corridors.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether planning a local shift within Gaya or an intercity transfer, our operations integrate directly with our state network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether planning a local shift within Gaya or an intercity transfer, our operations integrate directly with our state network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a> and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>

@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <p class="lnk-image-caption">Shree Ashirwad crew carrying out systematic loading operations in Lanka near the BHU campus.</p>
         </div>
 
-        <p class="lnk-intro-p">Whether you are transitioning between faculty residences inside BHU, shifting an independent home in Naria to an apartment in Durgakund, or coordinating an inter-state academic transfer to Delhi, Lucknow, Patna, or our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our teams handle every item with utmost care. We provide comprehensive packing, specialized furniture dismantling, scientific loading, transport, and gentle unloading.</p>
+        <p class="lnk-intro-p">Whether you are transitioning between faculty residences inside BHU, shifting an independent home in Naria to an apartment in Durgakund, or coordinating an inter-state academic transfer to Delhi, Lucknow, Patna, or our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our teams handle every item with utmost care. We provide comprehensive packing, specialized furniture dismantling, scientific loading, transport, and gentle unloading.</p>
 
         <p class="lnk-intro-p">With hundreds of successful relocations executed across Lanka and South Varanasi, we take pride in upfront pricing, zero hidden charges, full transit insurance coverage, and official GST-compliant documentation for university and corporate reimbursement claims.</p>
     </section>
@@ -697,7 +697,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h2 class="lnk-section-heading">Strategic Interstate Highway Connectivity from Lanka</h2>
         <p class="lnk-intro-p">Lanka's position in South Varanasi offers excellent regional transport advantages. Connected via Chitaipur and Sundarpur to the Varanasi Ring Road and National Highway 19 (NH-19 / Golden Quadrilateral), goods dispatched from Lanka bypass inner city bottlenecks around Cantt and Godowlia entirely, gaining direct access to inter-state express corridors.</p>
 
-        <p class="lnk-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along the multi-lane Purvanchal Expressway and NH-19, ensuring swift transit durations under 12 to 16 hours. Eastbound consignments bound for Bihar and Jharkhand—connecting to Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>—travel seamlessly along the pristine NH-19 highway corridor.</p>
+        <p class="lnk-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along the multi-lane Purvanchal Expressway and NH-19, ensuring swift transit durations under 12 to 16 hours. Eastbound consignments bound for Bihar and Jharkhand—connecting to Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>—travel seamlessly along the pristine NH-19 highway corridor.</p>
 
         <div class="lnk-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep Delivery Fleet and Closed Container Transit in Lanka Varanasi" width="580" height="380" loading="lazy">

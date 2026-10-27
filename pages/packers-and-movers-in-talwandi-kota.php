@@ -621,7 +621,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-talwandi-kota";
             <h2 class="tlw-section-heading">Punctual Transit Fleet with Real-Time Tracking</h2>
             <p>Our dedicated transport fleet includes weather-sealed containerized vehicles ranging from nimble Tata Aces capable of threading narrow residential lanes in Talwandi to 19-foot multi-axle freight containers for long-distance relocations across state borders.</p>
             <p>Every dispatch is continuously tracked via GPS satellite telemetry, allowing clients to monitor transit milestones in real time. Our seasoned drivers maintain conservative speed limits and adhere to designated highway corridors, ensuring that fragile family goods arrive safely and on schedule.</p>
-            <p>Backed by our national corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our operational network provides uninterrupted customer assistance, live consignment updates, and comprehensive transit insurance options.</p>
+            <p>Backed by our national corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our operational network provides uninterrupted customer assistance, live consignment updates, and comprehensive transit insurance options.</p>
         </div>
     </section>
 

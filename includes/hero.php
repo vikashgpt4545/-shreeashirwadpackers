@@ -26,7 +26,7 @@ $csrf_token = generate_csrf_token();
 
         <!-- Subtitle with Natural Verbatim Keywords -->
         <p class="hero-subtitle">
-          Recognized as the <strong>best packers and movers in ranchi</strong> and trusted <strong>movers and packers in ranchi</strong>, Shree Ashirwad provides premier <strong>household shifting services in ranchi</strong>, corporate relocation, and <strong>bike transport in ranchi</strong> across Jharkhand.
+          Looking for trusted <strong>movers and packers ranchi</strong>? As the top-rated <strong>packers and movers in ranchi</strong> and licensed <strong>packers movers ranchi</strong> team, Shree Ashirwad provides premier <strong>household shifting services in ranchi</strong>, corporate relocation, and vehicle transport with IBA-approved billing.
         </p>
 
         <!-- Social Proof & Trust Bar -->

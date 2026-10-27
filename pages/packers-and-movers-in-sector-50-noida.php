@@ -730,7 +730,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <h3 class="s50-sub-heading">Long-Distance Corridors to Eastern India & Corporate HQ</h3>
-        <p class="s50-intro-p">For corporate executives and families relocating from Noida Sector 50 to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0f766e; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or major eastern commercial hubs such as Patna, Jamshedpur, Bokaro, and Kolkata, our container freighters access the Yamuna Expressway via the Noida Expressway in under 15 minutes.</p>
+        <p class="s50-intro-p">For corporate executives and families relocating from Noida Sector 50 to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f766e; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or major eastern commercial hubs such as Patna, Jamshedpur, Bokaro, and Kolkata, our container freighters access the Yamuna Expressway via the Noida Expressway in under 15 minutes.</p>
         <p class="s50-intro-p">Every inter-state transit container is outfitted with real-time GPS telematics, dual driver shifts for continuous transit, and waterproof container seals that safeguard household treasures against monsoon rains, highway dust, and transit vibrations.</p>
 
         <div class="s50-image-container">
@@ -783,7 +783,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida-extension" class="s50-cluster-link">Noida Extension Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-greater-noida" class="s50-cluster-link">Greater Noida Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="s50-cluster-link">Delhi NCT Metro Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="s50-cluster-link">Ranchi Corporate HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="s50-cluster-link">Ranchi Corporate HQ</a>
         </div>
     </section>
 

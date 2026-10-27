@@ -762,7 +762,7 @@ require_once ROOT_PATH . '/includes/header.php';
 
         <div class="tsb-faq-item">
             <h3>Do you provide intercity moving from Thanisandra to other states?</h3>
-            <p>Yes, we operate dedicated GPS-monitored container trucks linking North Bangalore directly to Eastern and Northern India, including Jharkhand, Bihar, Uttar Pradesh, and Delhi NCR, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we operate dedicated GPS-monitored container trucks linking North Bangalore directly to Eastern and Northern India, including Jharkhand, Bihar, Uttar Pradesh, and Delhi NCR, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
 
         <div class="tsb-faq-item">

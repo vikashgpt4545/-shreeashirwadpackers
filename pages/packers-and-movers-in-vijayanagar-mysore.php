@@ -551,7 +551,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>All-Stage Coverage (1st to 4th Stages):</strong> Complete familiarity with every cross road, landmark circle, and layout boundary across Vijayanagar's vast residential footprint.</li>
                 <li><strong>Spacious Avenue Logistics:</strong> Easy maneuvering and loading of 17ft and 20ft container vehicles without blocking neighborhood traffic.</li>
                 <li><strong>Expressway Integration via Ring Road:</strong> Fast vehicle access onto the Mysore-Bangalore Expressway (NH-275), ensuring 2.5-hour transit times to Bengaluru.</li>
-                <li><strong>Direct Link to Parent Authority Network:</strong> Backed by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mysore">Packers and Movers in Mysore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Direct Link to Parent Authority Network:</strong> Backed by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mysore">Packers and Movers in Mysore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -772,7 +772,7 @@ require_once ROOT_PATH . '/includes/header.php';
 
         <div class="vjm-faq-item">
             <h3>Is comprehensive transit insurance provided for interstate moves from Vijayanagar?</h3>
-            <p>Yes, we issue 100% all-risk transit insurance policies with explicit itemized declarations, coordinated through our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> for complete peace of mind.</p>
+            <p>Yes, we issue 100% all-risk transit insurance policies with explicit itemized declarations, coordinated through our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> for complete peace of mind.</p>
         </div>
 
         <div class="vjm-faq-item">

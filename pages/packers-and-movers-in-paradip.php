@@ -539,7 +539,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="pdp-section-title">Industrial & Port Relocation Leadership in Paradip</h2>
                 <p class="pdp-lead-p">Paradip represents the maritime engine of Eastern India. Located at the confluence of the majestic Mahanadi River and the Bay of Bengal in Jagatsinghpur district, this dynamic coastal city hosts one of India's premier deepwater seaports—the Paradip Port Trust (PPT)—alongside the vast Indian Oil Corporation Limited (IOCL) 15-MMTPA mega refinery and petrochemical hub. Anchored further by large manufacturing giants such as IFFCO, Paradeep Phosphates Limited (PPL), and Essar Steel, Paradip maintains round-the-clock commercial vibrancy.</p>
                 <p class="pdp-body-p">The industrial nature of Paradip results in substantial workforce mobility. Marine superintendents, petroleum refinery chemical engineers, port logistics directors, customs clearing agents, and administrative personnel regularly transfer into executive townships such as the IOCL Refinery Township, IFFCO Campus, PPL Township, and Port Officers Colony. Ensuring seamless domestic relocations in this maritime environment demands experienced handling, moisture-resistant packaging, and strict compliance with port security gates and township entry permits.</p>
-                <p class="pdp-body-p">Shree Ashirwad Packers and Movers brings dedicated infrastructure and specialized coastal moving teams to Paradip. Operating seamlessly via the Cuttack-Paradip National Highway 53 corridor and the State Highway network, we connect Paradip directly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack">Cuttack</a> (85 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (115 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhadrak">Bhadrak</a> (140 km), and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p class="pdp-body-p">Shree Ashirwad Packers and Movers brings dedicated infrastructure and specialized coastal moving teams to Paradip. Operating seamlessly via the Cuttack-Paradip National Highway 53 corridor and the State Highway network, we connect Paradip directly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack">Cuttack</a> (85 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (115 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhadrak">Bhadrak</a> (140 km), and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="pdp-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Paradip" width="580" height="380" loading="lazy">
@@ -789,7 +789,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-balasore" class="pdp-cluster-link">Movers in Balasore (180 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-puri" class="pdp-cluster-link">Movers in Puri (145 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="pdp-cluster-link">Movers in Kolkata (370 km)</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="pdp-cluster-link">Ranchi Headquarters Hub</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="pdp-cluster-link">Ranchi Headquarters Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pdp-cluster-link">Live Tariff Calculator</a>
                 </div>
             </section>
@@ -828,7 +828,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 Regional Paradip Hub: Port Expressway, Madhuban Chowk, Paradip, Odisha - 754142.<br>
                 Helpline: +91 93344 60424<br>
                 Email: info@shreeashirwadpackers.com</p>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="pdp-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="pdp-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>
         </aside>
     </div>

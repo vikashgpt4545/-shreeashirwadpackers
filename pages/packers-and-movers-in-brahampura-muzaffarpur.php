@@ -590,7 +590,7 @@
                     Our operations in Brahampura utilize modern moving equipment tailored for diverse urban settings. For high-density colonies with narrow approach alleys, our fleet deploys nimble feeder trucks to load goods securely before consolidating cargo into long-haul closed containers at our staging depot near <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-zero-mile-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Zero Mile</a>.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Our Brahampura branch coordinates seamlessly with our parent authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, sister branch at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mithanpura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Mithanpura</a>, and our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Our Brahampura branch coordinates seamlessly with our parent authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, sister branch at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mithanpura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Mithanpura</a>, and our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -928,7 +928,7 @@
             <div>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" class="bpm-cluster-link">Packers and Movers in Patna</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" class="bpm-cluster-link">Packers and Movers in Gaya</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bpm-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="bpm-cluster-link">Packers and Movers in Ranchi (HQ)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bpm-cluster-link">Live Rate Calculator</a>
             </div>
         </div>

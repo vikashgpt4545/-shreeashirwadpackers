@@ -762,7 +762,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Ranchi Routes",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -1442,7 +1442,7 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our interstate network linking Punjab, Haryana, Chandigarh, Delhi NCR, and Jharkhand:
         </p>
         <div class="r2chd-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2chd-cluster-link">Ranchi Main Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2chd-cluster-link">Ranchi Main Hub</a>
           <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-ranchi-packers-and-movers" class="r2chd-cluster-link">Delhi to Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/meerut-to-ranchi-packers-and-movers" class="r2chd-cluster-link">Meerut to Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/dehradun-to-ranchi-packers-and-movers" class="r2chd-cluster-link">Dehradun to Ranchi</a>

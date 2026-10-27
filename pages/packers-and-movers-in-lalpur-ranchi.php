@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -581,7 +581,7 @@ include_once __DIR__ . '/../includes/config.php';
       <h2>Professional Shifting Services in Lalpur, Ranchi</h2>
       <p>Lalpur stands as central Ranchi's dynamic commercial, educational, and residential nerve center. Centered around Lalpur Chowk and extending along the vital Circular Road from Plaza Chowk to Dangratoli, Lalpur is celebrated for its bustling commercial markets, prominent coaching institutes preparing students for engineering and medical entrances, banking headquarters, medical diagnostics centers, and vibrant residential colonies. The neighborhood features iconic residential enclaves including Burdwan Compound, Tharpakhna, Peace Road, Harihar Singh Road, and modern multi-story apartment developments near the Nucleus Mall corridor.</p>
 
-      <p>Due to its high commercial density and bustling traffic flow, moving in Lalpur requires expert route planning, nimble vehicle maneuvering, and precision execution. Whether relocating a family apartment in Burdwan Compound, moving an executive residence along Peace Road, or executing an educational coaching center relocation with dozens of computer workstations and study desks, as the top-rated <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified local logistics competence. We operate compact feeder trucks capable of navigating narrower colony lanes, scheduled during low-traffic hours to guarantee fast, stress-free shifting.</p>
+      <p>Due to its high commercial density and bustling traffic flow, moving in Lalpur requires expert route planning, nimble vehicle maneuvering, and precision execution. Whether relocating a family apartment in Burdwan Compound, moving an executive residence along Peace Road, or executing an educational coaching center relocation with dozens of computer workstations and study desks, as the top-rated <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers Ranchi</a>, Shree Ashirwad Packers and Movers brings verified local logistics competence. We operate compact feeder trucks capable of navigating narrower colony lanes, scheduled during low-traffic hours to guarantee fast, stress-free shifting.</p>
 
       <div class="hl-llr-img-card">
         <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Moving Truck Serving Lalpur Ranchi">

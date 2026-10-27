@@ -1527,8 +1527,8 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
         <div class="rsr-tag-cloud" style="justify-content: center; margin-bottom: 25px;">
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="rsr-tag-pill" title="Household Shifting Services in Ranchi">Household Shifting Services in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="rsr-tag-pill" title="Local Shifting Services in Ranchi">Local Shifting Services in Ranchi</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="rsr-tag-pill" title="Packers and Movers in Ranchi Jharkhand">Packers and Movers in Ranchi Jharkhand</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="rsr-tag-pill" title="Professional Packers and Movers in Ranchi">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="rsr-tag-pill" title="Packers and Movers in Ranchi Jharkhand">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="rsr-tag-pill" title="Professional Packers and Movers in Ranchi">Professional Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/office-shifting-services-in-ranchi" class="rsr-tag-pill" title="Office Shifting Services in Ranchi">Office Shifting Services in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking-services-in-ranchi" class="rsr-tag-pill" title="Packing and Unpacking in Ranchi">Packing & Unpacking Services Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting" class="rsr-tag-pill" title="Residential Shifting General Portal">Residential Shifting Portal</a>

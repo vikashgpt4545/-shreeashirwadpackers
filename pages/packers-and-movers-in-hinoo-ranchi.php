@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -581,7 +581,7 @@ include_once __DIR__ . '/../includes/config.php';
       <h2>Professional Shifting Services in Hinoo, Ranchi</h2>
       <p>Hinoo represents the vibrant, highly strategic southern gateway of Ranchi, extending gracefully along Airport Road from the Hinoo Bridge to Birsa Chowk. Renowned for its direct proximity to Birsa Munda Airport (IXR) and Hatia Railway Junction, Hinoo is one of Ranchi's most desirable residential and commercial arteries. The neighborhood is characterized by upscale residential enclaves such as Shukla Colony, Indira Palace, Kilburn Colony, New AG Colony, Sri Krishna Nagar, and Shivpuri, alongside modern multi-story apartment complexes lining Old Khunti Road and the Airport approach corridor.</p>
 
-      <p>Due to its strategic location, Hinoo is home to a dynamic population of commercial airline pilots, aviation officials, senior corporate executives, defense and paramilitary officers, medical consultants, and established business families. Moving residence in Hinoo demands superior punctuality, flexible round-the-clock scheduling, and defensive packaging standards that match the fast-paced lifestyle of its residents. As Ranchi's most trusted <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers operates a dedicated logistics center within Hinoo, ensuring rapid on-site surveys, premium packaging materials, and swift zero-damage transportation.</p>
+      <p>Due to its strategic location, Hinoo is home to a dynamic population of commercial airline pilots, aviation officials, senior corporate executives, defense and paramilitary officers, medical consultants, and established business families. Moving residence in Hinoo demands superior punctuality, flexible round-the-clock scheduling, and defensive packaging standards that match the fast-paced lifestyle of its residents. As Ranchi's most trusted <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers Ranchi</a>, Shree Ashirwad Packers and Movers operates a dedicated logistics center within Hinoo, ensuring rapid on-site surveys, premium packaging materials, and swift zero-damage transportation.</p>
 
       <div class="hl-hno-img-card">
         <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Moving Truck Serving Hinoo Ranchi">

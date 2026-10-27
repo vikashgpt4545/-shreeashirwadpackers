@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/header.php';
 
         <p>Furthermore, our operational synergy with our parent central command at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers and Movers in Pune</a> enables rapid dispatch of supplementary packing crews, specialized equipment, and dedicated transport vehicles.</p>
 
-        <p>Whether you are executing a quick inter-neighborhood move to Kothrud or Baner, or preparing for a cross-country relocation back to our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our end-to-end relocation infrastructure ensures total peace of mind from preliminary survey to final arrangement.</p>
+        <p>Whether you are executing a quick inter-neighborhood move to Kothrud or Baner, or preparing for a cross-country relocation back to our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our end-to-end relocation infrastructure ensures total peace of mind from preliminary survey to final arrangement.</p>
     </section>
 
     <!-- Section 2: Comprehensive Relocation Services -->

@@ -425,7 +425,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jp-naga
 
       <p class="jpn-p">Our crew supervisors also maintain active coordination with Resident Welfare Associations (RWAs) across prominent JP Nagar societies including Brigade Millennium, Brigade Gardenia, and Elita Promenade. We submit mover identification details in advance, install protective padding in elevators, and adhere strictly to designated society shifting hours, guaranteeing zero friction with property management.</p>
       
-      <p class="jpn-p">Our comprehensive intercity network connects JP Nagar with major industrial and business capitals across India. Whether you are transferring to Mumbai, Pune, Delhi NCR, Hyderabad, or relocating to eastern industrial hubs via our dedicated <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a> network, we provide direct container shipping, live GPS tracking, and complete transit insurance security.</p>
+      <p class="jpn-p">Our comprehensive intercity network connects JP Nagar with major industrial and business capitals across India. Whether you are transferring to Mumbai, Pune, Delhi NCR, Hyderabad, or relocating to eastern industrial hubs via our dedicated <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a> network, we provide direct container shipping, live GPS tracking, and complete transit insurance security.</p>
     </section>
 
     <!-- Section 2: Comprehensive Shifting Services -->
@@ -626,7 +626,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jp-naga
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-whitefield-bangalore" class="jpn-cluster-badge">Whitefield Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-indiranagar-bangalore" class="jpn-cluster-badge">Indiranagar Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jpn-cluster-badge">Live Rates Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="jpn-cluster-badge">Company HQ Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="jpn-cluster-badge">Company HQ Ranchi</a>
       </div>
     </section>
   </main>

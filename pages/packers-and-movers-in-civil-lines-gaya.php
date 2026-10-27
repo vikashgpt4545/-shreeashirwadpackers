@@ -615,7 +615,7 @@
                     For modern gated apartment residences and newly constructed multi-story towers along Court Road and Gandhi Maidan, we coordinate with resident associations in advance. We secure service elevator bookings, pad lift walls with thick protective quilting, and reserve ground parking bays to ensure seamless loading without interrupting neighborhood convenience.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether shifting within Civil Lines or coordinating an intercity move, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" style="color: #092240; font-weight: 700; text-decoration: underline;">Packers and Movers in Gaya</a> hub and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #092240; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether shifting within Civil Lines or coordinating an intercity move, our services connect directly with our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" style="color: #092240; font-weight: 700; text-decoration: underline;">Packers and Movers in Gaya</a> hub and our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #092240; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>

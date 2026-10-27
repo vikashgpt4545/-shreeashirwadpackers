@@ -633,7 +633,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="svr-highlight-desc">Because Sevoke Road leads directly into the sub-Himalayan high-rainfall zone, all cartons and furniture items receive secondary polythene stretch wrapping to eliminate dampness risks during transit.</div>
                 </div>
 
-                <p class="svr-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our containerized vehicles travel directly without intermediate transshipment, ensuring unmatched security and timely arrival.</p>
+                <p class="svr-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our containerized vehicles travel directly without intermediate transshipment, ensuring unmatched security and timely arrival.</p>
 
                 <p class="svr-body-p">We also provide optional value-added services such as pre-move deep cleaning, wall mount television bracket de-installation, split air conditioner gas sealing and dismantling by certified HVAC technicians, and short-term secure household warehousing at fully covered, CCTV-monitored storage facilities.</p>
             </section>
@@ -738,7 +738,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah" class="svr-cluster-link">Howrah City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="svr-cluster-link">Durgapur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="svr-cluster-link">Asansol Rail Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="svr-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="svr-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

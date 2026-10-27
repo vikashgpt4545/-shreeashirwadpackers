@@ -754,8 +754,8 @@ require_once __DIR__ . '/../includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/chandigarh-to-bangalore-packers-and-movers">Chandigarh to Bangalore Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-delhi-packers-and-movers">Bangalore to Delhi Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-bangalore-packers-and-movers">Delhi to Bangalore Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/chandigarh-to-mumbai-packers-and-movers">Chandigarh to Mumbai Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-chandigarh-packers-and-movers">Mumbai to Chandigarh Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-chandigarh-packers-and-movers">Chandigarh to Mumbai Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-chandigarh-packers-and-movers">Mumbai to Chandigarh Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/chandigarh-to-delhi-packers-and-movers">Chandigarh to Delhi Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-chandigarh-packers-and-movers">Delhi to Chandigarh Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-pune-packers-and-movers">Bangalore to Pune Movers</a>

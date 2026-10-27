@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-udupi";
                 <li><strong>Heritage Furniture & Temple Artifact Care:</strong> Custom wooden crating, velvet padding, and bubble cushioning for intricate teakwood cots, rosewood almirahs, and brass pooja articles.</li>
                 <li><strong>NH-66 Coastal & Ghat Express:</strong> Regular daily container routes connecting Udupi to Mangalore, Kundapura, Goa, Mumbai, and Bangalore via Charmadi/Shiradi ghat routes.</li>
                 <li><strong>Temple Lane Shuttle Fleet:</strong> Compact pickup shuttles for easy navigation through ancient narrow streets around Car Street, Kalsanka, and Thenkapete.</li>
-                <li><strong>National Operations Support:</strong> Real-time GPS shipment tracking and centralized customer oversight managed from our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>National Operations Support:</strong> Real-time GPS shipment tracking and centralized customer oversight managed from our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -769,7 +769,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-udupi";
         </div>
         <div class="udp-faq-item">
             <h3>Do you provide transit insurance for household goods in Udupi?</h3>
-            <p>Yes, we provide 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we provide 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
         <div class="udp-faq-item">
             <h3>Can you handle commercial equipment moves around Malpe Harbour?</h3>

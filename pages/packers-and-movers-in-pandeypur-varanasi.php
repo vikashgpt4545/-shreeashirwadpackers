@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <p class="pnp-image-caption">Shree Ashirwad packing crew carefully loading boxed household goods into closed container vehicles in Pandeypur.</p>
         </div>
 
-        <p class="pnp-intro-p">Whether you are transferring your family residence from Hukulganj to a modern apartment near Paharia, moving a retail establishment along Azamgarh road, or coordinating an inter-state corporate relocation to Delhi NCR, Lucknow, Patna, or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our teams manage every step with absolute precision. We oversee full packing, master furniture dismantling, safe vehicle loading, highway transit, unloading, and furniture assembly.</p>
+        <p class="pnp-intro-p">Whether you are transferring your family residence from Hukulganj to a modern apartment near Paharia, moving a retail establishment along Azamgarh road, or coordinating an inter-state corporate relocation to Delhi NCR, Lucknow, Patna, or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our teams manage every step with absolute precision. We oversee full packing, master furniture dismantling, safe vehicle loading, highway transit, unloading, and furniture assembly.</p>
 
         <p class="pnp-intro-p">With hundreds of successful home shifting operations completed across Pandeypur and Eastern Varanasi, our services feature completely upfront quotations, comprehensive transit insurance protection, and responsive customer support to ensure your relocation is seamless and entirely stress-free.</p>
     </section>
@@ -697,7 +697,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h2 class="pnp-section-heading">Interstate Logistics & Strategic Highway Connectivity</h2>
         <p class="pnp-intro-p">Pandeypur's location in Eastern Varanasi provides immediate access to major regional transport corridors. Positioned along the Azamgarh and Ghazipur road axis and connecting directly via Paharia to the Varanasi Ring Road, vehicles departing from Pandeypur connect quickly to National Highway 19 (NH-19 / Golden Quadrilateral) without crossing central city bottlenecks.</p>
 
-        <p class="pnp-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along the Ring Road to the Purvanchal Expressway and NH-19, delivering cargo safely within 12 to 16 hours. Eastbound consignments heading to Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> travel smoothly along the multi-lane NH-19 highway network.</p>
+        <p class="pnp-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along the Ring Road to the Purvanchal Expressway and NH-19, delivering cargo safely within 12 to 16 hours. Eastbound consignments heading to Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> travel smoothly along the multi-lane NH-19 highway network.</p>
 
         <div class="pnp-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Pandeypur Varanasi" width="580" height="380" loading="lazy">

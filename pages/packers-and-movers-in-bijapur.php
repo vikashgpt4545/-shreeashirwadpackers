@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bijapur";
                 <li><strong>Horticulture & Vineyard Logistics:</strong> Safe transport for grape processing units, wine bottling parts, and agricultural machinery across the Vijayapura horticulture belt.</li>
                 <li><strong>Dust-Proof Multi-Barrier Packing:</strong> Thick 7-layer corrugated boxes, anti-static stretch film, and sealed containerized vehicles to shield goods from road grime.</li>
                 <li><strong>Direct Interstate Highway Routes:</strong> Daily express dispatches connecting Bijapur to Solapur, Pune, Mumbai, Hubli, Gulbarga, and Bangalore without transit delays.</li>
-                <li><strong>Central Operations Oversight:</strong> End-to-end logistics coordination and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Central Operations Oversight:</strong> End-to-end logistics coordination and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -773,7 +773,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bijapur";
         </div>
         <div class="bjp-faq-item">
             <h3>Is transit insurance included for interstate relocations from Bijapur?</h3>
-            <p>Yes, we provide 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we provide 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
         <div class="bjp-faq-item">
             <h3>Can you shift vehicles like cars and motorbikes from Bijapur?</h3>

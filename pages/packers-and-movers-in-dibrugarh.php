@@ -478,7 +478,7 @@ require_once __DIR__ . '/../includes/config.php';
       <div class="dbg-highlight-box">
         <p><strong>Custom Estimate Notice:</strong> Final pricing depends on exact volume, floor elevation, elevator availability, packing material grade selected, and transit distance. For a detailed cost estimate customized for your upcoming transfer, visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">transparent shifting charges guide</a> or contact our Dibrugarh branch directly for a free on-site survey.</p>
       </div>
-      <p>For administrative transfers or long-distance intercity relocations connecting through our corporate headquarters, please also explore our dedicated hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi</a>.</p>
+      <p>For administrative transfers or long-distance intercity relocations connecting through our corporate headquarters, please also explore our dedicated hub at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi</a>.</p>
     </section>
 
     <!-- Section 3: Specialized Moving Services -->
@@ -629,7 +629,7 @@ require_once __DIR__ . '/../includes/config.php';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dimapur" class="dbg-cluster-link">Packers and Movers Dimapur</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gs-road-guwahati" class="dbg-cluster-link">Packers and Movers GS Road</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dbg-cluster-link">Shifting Charges Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dbg-cluster-link">Packers and Movers Ranchi HQ</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="dbg-cluster-link">Packers and Movers Ranchi HQ</a>
       </div>
       <div class="dbg-cluster-desc">
         <p>Shree Ashirwad Packers and Movers Dibrugarh branch delivers certified healthcare personnel relocation, petrochemical corporate shifting, university faculty moves, tea estate residential moving, and climate-safe container transit across Upper Assam and nationwide destinations.</p>

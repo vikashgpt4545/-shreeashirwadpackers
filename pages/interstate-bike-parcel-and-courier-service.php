@@ -769,7 +769,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/data-center-server-and-office-relocation">Server Rack &amp; Corporate Office Shifting</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/">Official Vehicle Shifting Services</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-charges-calculator">Live Bike Transport Charges Calculator</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Packers Headquarters &amp; Central Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Packers Headquarters &amp; Central Hub</a>
             </div>
         </div>
 

@@ -628,7 +628,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="pdn-highlight-desc">When utilizing shuttle vehicles, items are wrapped in extra-thick shock-absorbing quilted blankets to prevent edge abrasions during transfer into main highway container trucks.</div>
                 </div>
 
-                <p class="pdn-body-p">For long-distance relocations heading toward our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our sealed container trucks travel with dedicated crews, ensuring your goods arrive on time with absolute integrity.</p>
+                <p class="pdn-body-p">For long-distance relocations heading toward our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our sealed container trucks travel with dedicated crews, ensuring your goods arrive on time with absolute integrity.</p>
 
                 <p class="pdn-body-p">We also provide specialized transit solutions for tea trade liaisons, hotel equipment suppliers, and government officers transferring between Siliguri and regional administrative capitals across North Bengal and Sikkim.</p>
             </section>
@@ -731,7 +731,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah" class="pdn-cluster-link">Howrah City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="pdn-cluster-link">Durgapur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="pdn-cluster-link">Asansol Rail Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="pdn-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="pdn-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

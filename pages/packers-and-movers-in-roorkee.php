@@ -673,7 +673,7 @@ $state_name = 'Uttarakhand';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rishikesh" class="rke-cluster-link">Packers and Movers in Rishikesh</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-haldwani" class="rke-cluster-link">Packers and Movers in Haldwani</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chandigarh" class="rke-cluster-link">Packers and Movers in Chandigarh</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="rke-cluster-link">Ranchi Headquarters Hub</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="rke-cluster-link">Ranchi Headquarters Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rke-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

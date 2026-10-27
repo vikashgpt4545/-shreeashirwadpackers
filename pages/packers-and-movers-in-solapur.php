@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="slp-image-caption">Experienced loading crews securing packed household consignments inside our weatherproof container trucks in Solapur.</p>
         </div>
 
-        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers and Movers in Pune</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolhapur">Packers and Movers in Kolhapur</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Solapur, connecting across Maharashtra, or executing an interstate transfer across India.</p>
+        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers and Movers in Pune</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolhapur">Packers and Movers in Kolhapur</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Solapur, connecting across Maharashtra, or executing an interstate transfer across India.</p>
 
         <p>Every assignment is managed under the direct supervision of a dedicated relocation officer who coordinates every phase from pre-move survey to final furniture placement, ensuring your precious home possessions arrive in flawless condition. Whether shifting a residence in Jule Solapur or moving power plant personnel from Hotgi Road, our teams guarantee absolute reliability.</p>
     </section>
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers Movers Thane</a>
             </div>
             <div class="slp-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

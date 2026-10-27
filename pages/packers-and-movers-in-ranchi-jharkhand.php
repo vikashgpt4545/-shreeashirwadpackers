@@ -1516,7 +1516,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
         </div>
 
         <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center;">
-          <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="jharkhand-tag-pill" style="text-decoration:none; font-weight:700; color:#ff6a28;">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="jharkhand-tag-pill" style="text-decoration:none; font-weight:700; color:#ff6a28;">Professional Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="jharkhand-tag-pill" style="text-decoration:none;">Household Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="jharkhand-tag-pill" style="text-decoration:none;">Local Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/office-shifting-services-in-ranchi" class="jharkhand-tag-pill" style="text-decoration:none;">Office Shifting in Ranchi</a>

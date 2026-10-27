@@ -499,7 +499,7 @@
                         <li>Compact feeder vehicles for narrow bazaar & residential alleys</li>
                         <li>Direct link to parent hub <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" style="color:#ffb703; font-weight:700;">Durgapur Movers Hub</a></li>
                         <li>Rapid access to Bhiringi junction & NH 19 expressway</li>
-                        <li>Direct routes to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ffb703; font-weight:700;">Company HQ Ranchi</a></li>
+                        <li>Direct routes to <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ffb703; font-weight:700;">Company HQ Ranchi</a></li>
                         <li>Full furniture dismantling, packing, and reassembly services</li>
                     </ul>
                 </div>
@@ -835,7 +835,7 @@
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="bct-cluster-link">Kolkata Regional Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="bct-cluster-link">Kolkata to Ranchi Corridor</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="bct-cluster-link">Ranchi to Kolkata Corridor</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bct-cluster-link">Company HQ Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="bct-cluster-link">Company HQ Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bct-cluster-link">Live Tariff Calculator</a>
             <span class="bct-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Bidhannagar Hub (Upcoming)</span>
         </div>

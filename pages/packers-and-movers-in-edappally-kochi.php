@@ -501,7 +501,7 @@
 
     <h3>Strategic Integration with Metropolitan Kochi & Neighboring Hubs</h3>
     <p>As an essential branch of our primary authority hub for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kochi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Kochi</a>, our Edappally operations maintain continuous connectivity with adjacent residential and IT sectors. We coordinate seamlessly with our IT specialists at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kakkanad-kochi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Kakkanad</a>, central sports and residential moves through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kaloor-kochi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Kaloor</a>, and northern transit links via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aluva-kochi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Aluva</a>.</p>
-    <p>Whether you reside near Changampuzha Nagar or manage a commercial showroom near the metro corridor, our specialized crews provide swift on-demand site surveys, verified packing materials, and seamless transport. For families and executives moving interstate to Eastern or Northern India, our dedicated closed container fleet provides seamless transit back to our national headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Whether you reside near Changampuzha Nagar or manage a commercial showroom near the metro corridor, our specialized crews provide swift on-demand site surveys, verified packing materials, and seamless transport. For families and executives moving interstate to Eastern or Northern India, our dedicated closed container fleet provides seamless transit back to our national headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
   </section>
 
   <!-- Section 2: Relocation Services -->
@@ -653,7 +653,7 @@
 
     <h3>Seamless Statewide & Interstate Relocation Networks</h3>
     <p>From our Edappally facility, our container vehicles connect quickly to the NH 66 corridor heading south toward Alappuzha, Kollam, and Thiruvananthapuram, or follow NH 544 toward Thrissur, Palakkad, and Coimbatore.</p>
-    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>With real-time GPS tracking enabled on all vehicles, you receive immediate milestone updates throughout your goods' journey.</p>
   </section>
 
@@ -681,7 +681,7 @@
       </div>
     </div>
 
-    <p>Whether relocating locally within Edappally or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether relocating locally within Edappally or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With a 98.7% on-time delivery record and thousands of satisfied residential and corporate clients across South India, our Edappally team is ready to deliver an exceptional moving experience. From packing fine porcelain and fragile artwork to moving heavy fitness equipment and grand pianos, our specialized packers utilize custom wooden crates and industrial impact absorbers to protect your most prized household treasures throughout the journey.</p>
   </section>
 
@@ -728,7 +728,7 @@
         <a class="edp-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-coimbatore">Coimbatore Authority Hub</a>
         <a class="edp-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore Metro Hub</a>
         <a class="edp-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Chennai Metro Hub</a>
-        <a class="edp-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Head Office Hub</a>
+        <a class="edp-cluster-link" href="<?php echo SITE_BASE_URL; ?>/">Ranchi Head Office Hub</a>
       </div>
     </div>
   </section>

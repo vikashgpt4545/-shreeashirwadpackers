@@ -562,7 +562,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="mpm-intro-p">Our localized familiarity ensures that our container trucks navigate highway service lanes, gated society checkpoints, and local connecting roads with maximum speed and zero friction.</p>
 
-        <p class="mpm-intro-p">For long-distance consignments heading to central Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our sealed container network provides continuous milestone tracking and guaranteed arrival dates.</p>
+        <p class="mpm-intro-p">For long-distance consignments heading to central Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our sealed container network provides continuous milestone tracking and guaranteed arrival dates.</p>
     </section>
 
     <!-- Section 4: Transparent Tariff Structure -->
@@ -737,7 +737,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ghaziabad" class="mpm-link-card">Ghaziabad Metro Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida" class="mpm-link-card">Noida Expressway Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="mpm-link-card">Delhi NCR Mega Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mpm-link-card">Ranchi Head Office Hub</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="mpm-link-card">Ranchi Head Office Hub</a>
         </div>
     </section>
 

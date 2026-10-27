@@ -728,7 +728,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <h3 class="s76-sub-heading">Long-Distance Corridors to Eastern India & Corporate HQ</h3>
-        <p class="s76-intro-p">For corporate executives and families relocating from Noida Sector 76 to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #3730a3; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or major eastern commercial hubs such as Patna, Jamshedpur, Bokaro, and Kolkata, our container freighters access the Noida-Greater Noida Expressway and Yamuna Expressway within 15 minutes via Sector 101 and Greater Noida link roads.</p>
+        <p class="s76-intro-p">For corporate executives and families relocating from Noida Sector 76 to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #3730a3; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or major eastern commercial hubs such as Patna, Jamshedpur, Bokaro, and Kolkata, our container freighters access the Noida-Greater Noida Expressway and Yamuna Expressway within 15 minutes via Sector 101 and Greater Noida link roads.</p>
         <p class="s76-intro-p">Every inter-state transit container is outfitted with real-time GPS telematics, dual driver shifts for continuous transit, and waterproof container seals that safeguard household treasures against monsoon rains, highway dust, and transit vibrations.</p>
 
         <div class="s76-image-container">
@@ -781,7 +781,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida-extension" class="s76-cluster-link">Noida Extension Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-greater-noida" class="s76-cluster-link">Greater Noida Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="s76-cluster-link">Delhi NCT Metro Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="s76-cluster-link">Ranchi Corporate HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="s76-cluster-link">Ranchi Corporate HQ</a>
         </div>
     </section>
 

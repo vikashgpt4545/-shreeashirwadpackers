@@ -1531,14 +1531,14 @@ $meta_keywords = "ranchi to kolkata packers and movers, packers and movers ranch
         </p>
 
         <div class="rtk-tag-cloud" style="margin-bottom: 40px;">
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="rtk-tag-pill">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="rtk-tag-pill">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jamshedpur-packers-and-movers" class="rtk-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Jamshedpur Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-dhanbad-packers-and-movers" class="rtk-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Dhanbad Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-packers-and-movers" class="rtk-tag-pill">Ranchi to Delhi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bangalore-packers-and-movers" class="rtk-tag-pill">Ranchi to Bangalore Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-hyderabad-packers-and-movers" class="rtk-tag-pill">Ranchi to Hyderabad Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="rtk-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Patna Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="rtk-tag-pill">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="rtk-tag-pill">Professional Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="rtk-tag-pill">Household Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="rtk-tag-pill">Local Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/office-shifting-services-in-ranchi" class="rtk-tag-pill">Office Shifting in Ranchi</a>

@@ -1,6 +1,10 @@
 <?php
-// pages/packers-and-movers-in-ankleshwar.php
-// Handcrafted SEO Hub Page: Shree Ashirwad Packers and Movers in Ankleshwar, Gujarat
+/**
+ * Page: Packers and Movers in Ankleshwar
+ * Layout: Full-width modern responsive layout (AGENTS.md & AI_PAGE_CREATION_RULES.md compliant)
+ * Scoped Prefix: ank-
+ */
+require_once __DIR__ . '/../includes/config.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -396,7 +400,7 @@
 </head>
 <body>
 
-<?php include_once ROOT_DIR . '/includes/header.php'; ?>
+<?php require_once __DIR__ . '/../includes/header.php'; ?>
 
 <div class="ank-wrap">
     <div class="ank-hero">
@@ -422,7 +426,7 @@
                 <div class="ank-image-caption">Dedicated sealed container vehicles guaranteeing safe transit across Ankleshwar, GIDC, and Bharuch twin corridor.</div>
             </div>
 
-            <p>Whether you are shifting an executive apartment near Jaldhara Chowkdi, moving a family bungalow along Valia Road, transitioning to ONGC Colony quarters, or coordinating an inter-state transfer connecting to corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-vadodara">Vadodara</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-surat">Surat</a>, or our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our professional logistics crew handles every detail with absolute accountability.</p>
+            <p>Whether you are shifting an executive apartment near Jaldhara Chowkdi, moving a family bungalow along Valia Road, transitioning to ONGC Colony quarters, or coordinating an inter-state transfer connecting to corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-vadodara">Vadodara</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-surat">Surat</a>, or our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our professional logistics crew handles every detail with absolute accountability.</p>
         </div>
 
         <!-- Section 2: Comprehensive Moving Solutions -->
@@ -722,7 +726,7 @@
     </div>
 </div>
 
-<?php include_once ROOT_DIR . '/includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

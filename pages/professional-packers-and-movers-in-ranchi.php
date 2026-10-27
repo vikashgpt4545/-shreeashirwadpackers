@@ -1615,7 +1615,7 @@ $meta_keywords = "professional packers and movers in ranchi, professional movers
           <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" class="tag-pill">Residential Shifting</a>
           <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting-services-in-ranchi" class="tag-pill" style="font-weight:700; color:#ff6a28;">Residential Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" class="tag-pill">Business & Corporate Shifting</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="tag-pill">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="tag-pill">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services/" class="tag-pill">Loading & Unloading Services</a>
           <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" class="tag-pill">Car & Bike Relocation</a>
           <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting-services-in-ranchi" class="tag-pill" style="font-weight:700; color:#ff6a28;">Vehicle Shifting Ranchi</a>

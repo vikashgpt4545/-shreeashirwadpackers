@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -467,7 +467,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-brt-section">
       <h2>Excellence in Relocation Services Across Bariatu Ranchi</h2>
       <p>Bariatu represents Ranchi's foremost medical, academic, and premier residential landscape. Situated along the expansive Bariatu Road corridor extending north from Karam Toli Chowk up to Booty Road and NH-33, the locality is anchored by the historic Rajendra Institute of Medical Sciences (RIMS) campus. Surrounding this vital healthcare epicenter are upscale residential enclaves such as Bariatu Housing Colony, Doctors' Enclave, Cheshire Home Road, Chiraundi Science City, and the scenic foothills of Tagore Hill. The area is home to leading surgeons, senior physicians, medical researchers, healthcare administrators, university professors, and discerning corporate executives.</p>
-      <p>Relocating residences and specialized clinics in Bariatu requires a superior level of professionalism, delicate handling techniques, and punctuality. Hospital staff and physicians maintain rigorous on-call schedules, leaving minimal leisure time to oversee packing and moving. Furthermore, high-value household assets—including intricate glassware, extensive academic libraries, imported orthopedic mattresses, modular Italian kitchens, and sensitive electronic or diagnostic instruments—require meticulous multi-layer protective packaging. As the most reliable <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers delivers white-glove, turn-key relocation services tailored to the refined standards of Bariatu residents, handling every step with clockwork precision.</p>
+      <p>Relocating residences and specialized clinics in Bariatu requires a superior level of professionalism, delicate handling techniques, and punctuality. Hospital staff and physicians maintain rigorous on-call schedules, leaving minimal leisure time to oversee packing and moving. Furthermore, high-value household assets—including intricate glassware, extensive academic libraries, imported orthopedic mattresses, modular Italian kitchens, and sensitive electronic or diagnostic instruments—require meticulous multi-layer protective packaging. As the most reliable <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers delivers white-glove, turn-key relocation services tailored to the refined standards of Bariatu residents, handling every step with clockwork precision.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->

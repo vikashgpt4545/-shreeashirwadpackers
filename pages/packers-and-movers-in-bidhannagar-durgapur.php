@@ -691,7 +691,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="bdn-image-caption">Dedicated door-to-door closed carrier truck operating in Bidhannagar, Durgapur.</div>
                 </div>
 
-                <p class="bdn-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> or eastward towards the state capital via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, our dedicated fleet ensures direct transit without mid-way transshipment or double-handling risks.</p>
+                <p class="bdn-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> or eastward towards the state capital via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, our dedicated fleet ensures direct transit without mid-way transshipment or double-handling risks.</p>
 
                 <p class="bdn-body-p">We also provide optional value-added services such as pre-move deep cleaning, wall mount television bracket de-installation, split air conditioner gas sealing and dismantling by certified HVAC technicians, and short-term secure household warehousing at fully covered, CCTV-monitored storage facilities.</p>
             </section>
@@ -731,7 +731,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-burnpur-asansol" class="bdn-cluster-link">Burnpur Asansol</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raniganj-asansol" class="bdn-cluster-link">Raniganj Asansol</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="bdn-cluster-link">Kolkata Authority Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bdn-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="bdn-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

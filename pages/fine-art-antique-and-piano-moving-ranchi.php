@@ -493,7 +493,7 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
                 <p>We carefully position antique furniture in your desired room, reassemble bed frames, level upright pianos on protective brass castor cups, and assist with secure hanging of framed artwork using laser levels and wall anchors.</p>
                 <div class="art-highlight-box">
                     <h4>Pillar Authority Reference</h4>
-                    <p>Discover our complete portfolio of moving solutions on our central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> authority page.</p>
+                    <p>Discover our complete portfolio of moving solutions on our central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> authority page.</p>
                 </div>
             </div>
             <div>

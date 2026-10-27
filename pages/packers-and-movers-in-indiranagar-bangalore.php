@@ -603,7 +603,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-indiran
 
       <p class="idn-p">As part of our integrated logistics footprint in Karnataka, we ensure effortless connectivity between Indiranagar and Bangalore's major commercial and residential hubs. Whether you are transitioning to an IT campus condominium in Whitefield, moving near the venture capital ecosystem of Koramangala, or shifting to a green villa layout in HSR Layout, our synchronized network delivers prompt, dependable service.</p>
 
-      <p class="idn-p">For clients transferring beyond Karnataka, our long-distance interstate fleet offers scheduled direct departures connecting Bangalore to Mumbai, Pune, Delhi NCR, Kolkata, and our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2b6cb0; font-weight: 700;">Packers and Movers in Ranchi</a>. We manage national highway toll logistics, state border documentation, and provide continuous vehicle tracking until your goods are securely positioned in your new home.</p>
+      <p class="idn-p">For clients transferring beyond Karnataka, our long-distance interstate fleet offers scheduled direct departures connecting Bangalore to Mumbai, Pune, Delhi NCR, Kolkata, and our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2b6cb0; font-weight: 700;">Packers and Movers in Ranchi</a>. We manage national highway toll logistics, state border documentation, and provide continuous vehicle tracking until your goods are securely positioned in your new home.</p>
 
       <div class="idn-cluster-links">
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" class="idn-cluster-badge">Bangalore Central Hub</a>
@@ -612,7 +612,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-indiran
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-whitefield-bangalore" class="idn-cluster-badge">Whitefield</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-electronic-city-bangalore" class="idn-cluster-badge">Electronic City</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="idn-cluster-badge">Price Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="idn-cluster-badge">Headquarters (Ranchi)</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="idn-cluster-badge">Headquarters (Ranchi)</a>
       </div>
     </section>
   </div>

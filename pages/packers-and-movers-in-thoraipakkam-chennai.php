@@ -539,7 +539,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thoraipakkam-chennai";
         <div class="tpk-highlight-box">
             <h3>Our Customized Operational Strategy in Thoraipakkam</h3>
             <ul>
-                <li><strong>200 Feet Radial Road Airport Highway Transit:</strong> The multi-lane Radial Road allows our linehaul container trucks to bypass downtown bottlenecks, smoothly exiting toward GST Road, Bangalore Highway, or our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>.</li>
+                <li><strong>200 Feet Radial Road Airport Highway Transit:</strong> The multi-lane Radial Road allows our linehaul container trucks to bypass downtown bottlenecks, smoothly exiting toward GST Road, Bangalore Highway, or our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>.</li>
                 <li><strong>Gated High-Rise Society Compliance:</strong> Mega residential developments in Thoraipakkam enforce strict RWA moving protocols, mandatory security clearances, designated freight elevator hours, and vehicle height limits in basements. Our operations supervisors obtain prior entry permits and install quilted lift pads.</li>
                 <li><strong>Buckingham Canal Moisture-Defense Protocols:</strong> Proximity to the Buckingham Canal waterway requires strict humidity barriers. We deploy multi-layer shrink wrap and silica gel moisture absorbers to shield wooden furnishings from damp air.</li>
                 <li><strong>Fast Weekend Shifts for Tech Workforce:</strong> Over 80% of our clients in Thoraipakkam work in OMR tech parks. We specialize in fast, zero-hassle Saturday and Sunday shifts, managing complete packing on Friday evening or Saturday morning and finishing setup by Sunday afternoon.</li>
@@ -816,7 +816,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thoraipakkam-chennai";
                 <a href="<?php echo SITE_BASE_URL; ?>/chennai-to-ranchi-packers-and-movers">Chennai to Ranchi Return</a>
             </div>
             <div class="tpk-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company Headquarters</a>
             </div>
         </div>
     </section>

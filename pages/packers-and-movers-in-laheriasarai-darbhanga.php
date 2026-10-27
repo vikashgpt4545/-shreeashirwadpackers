@@ -592,7 +592,7 @@
                     Executing relocations in Laheriasarai requires strict adherence to schedules and professional discipline. Our field teams coordinate smoothly with residential societies and official quarters to ensure timely packing, careful loading, and prompt transfer to covered containers stationed along major roads.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Our Laheriasarai operations integrate directly with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Darbhanga</a>, regional hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Our Laheriasarai operations integrate directly with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Darbhanga</a>, regional hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -932,7 +932,7 @@
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" class="lsd-cluster-link">Packers and Movers in Muzaffarpur</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" class="lsd-cluster-link">Packers and Movers in Gaya</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" class="lsd-cluster-link">Packers and Movers in Bhagalpur</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="lsd-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="lsd-cluster-link">Packers and Movers in Ranchi (HQ)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="lsd-cluster-link">Live Rate Calculator</a>
             </div>
         </div>

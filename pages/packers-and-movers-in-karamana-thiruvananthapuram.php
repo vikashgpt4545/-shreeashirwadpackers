@@ -705,7 +705,7 @@
 
     <div class="krm-faq-item">
       <div class="krm-faq-question">Can you shift household goods from Karamana along the southern corridor toward Nagercoil or interstate?</div>
-      <p>Yes. Situated on Old NH 66, our container trucks provide direct transit south toward Neyyattinkara, Balaramapuram, Parasala, and Nagercoil, as well as northern and interstate routes to Kochi, Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+      <p>Yes. Situated on Old NH 66, our container trucks provide direct transit south toward Neyyattinkara, Balaramapuram, Parasala, and Nagercoil, as well as northern and interstate routes to Kochi, Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
     </div>
 
     <div class="krm-faq-item">

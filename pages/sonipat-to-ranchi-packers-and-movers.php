@@ -575,7 +575,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Relocating back from Sonipat to Ranchi represents a major journey across 1,290 kilometers spanning Haryana, Uttar Pradesh, Bihar, and Jharkhand. Whether you are concluding an academic tenure at Ashoka University or O.P. Jindal Global University in Rajiv Gandhi Education City, completing an engineering contract at HSIIDC Rai or Kundli Food Park, or returning to your ancestral hometown in Jharkhand to be closer to family, having an organized logistics partner is vital.
         </p>
         <p class="sn2r-text">
-            Shree Ashirwad Packers and Movers operates a dedicated reverse-logistics corridor between Haryana NCR and Jharkhand. As the recognized leader of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we manage regular return trips alongside our outbound <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-sonipat-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Ranchi to Sonipat packers and movers</a> corridor with dedicated container linehauls. Because our trucks routinely transport household cargo and industrial supplies from Ranchi, Jamshedpur, and Dhanbad up to Kundli, Panipat, and Delhi, our returning container fleet offers unmatched reliability, competitive freight rates, and scheduled departures back toward Eastern India.
+            Shree Ashirwad Packers and Movers operates a dedicated reverse-logistics corridor between Haryana NCR and Jharkhand. As the recognized leader of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we manage regular return trips alongside our outbound <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-sonipat-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Ranchi to Sonipat packers and movers</a> corridor with dedicated container linehauls. Because our trucks routinely transport household cargo and industrial supplies from Ranchi, Jamshedpur, and Dhanbad up to Kundli, Panipat, and Delhi, our returning container fleet offers unmatched reliability, competitive freight rates, and scheduled departures back toward Eastern India.
         </p>
 
         <!-- Image 1 -->
@@ -914,7 +914,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Sonipat (Outbound)</span>
                 <span style="color: #E11D48;">→</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                 <span>Ranchi Headquarters Hub</span>
                 <span style="color: #E11D48;">→</span>
             </a>

@@ -67,7 +67,7 @@ $primary_highway = 'NH-44 (North-South Arterial Highway)';
         "@type": "ListItem",
         "position": 2,
         "name": "Intercity Corridors",
-        "item": "https://shreeashirwadpackers.com/intercity-packers-and-movers-cost-calculator"
+        "item": "https://shreeashirwadpackers.com/packers-and-movers-cost-calculator"
       },
       {
         "@type": "ListItem",
@@ -544,7 +544,7 @@ $primary_highway = 'NH-44 (North-South Arterial Highway)';
 <section class="bgh-section bgh-section-alt">
   <div class="bgh-heading-group">
     <h2>Bangalore to Hyderabad Shifting Charges</h2>
-    <p>Honest, transparent cost estimates for 570 KM transit via NH-44. For personalized volume calculations, check our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #f47920; font-weight: 700; text-decoration: underline;">Intercity Moving Cost Calculator</a>.</p>
+    <p>Honest, transparent cost estimates for 570 KM transit via NH-44. For personalized volume calculations, check our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #f47920; font-weight: 700; text-decoration: underline;">Intercity Moving Cost Calculator</a>.</p>
   </div>
   
   <div class="bgh-table-wrap">
@@ -811,10 +811,10 @@ $primary_highway = 'NH-44 (North-South Arterial Highway)';
     <h3>Reciprocal Return Route & Connected Arterial Corridors</h3>
     <div class="bgh-link-grid">
       <a href="<?php echo SITE_BASE_URL; ?>/hyderabad-to-bangalore-packers-and-movers">Hyderabad to Bangalore Packers and Movers</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ: Packers and Movers Ranchi</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator">Intercity Shifting Cost Calculator</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ: Packers and Movers Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Intercity Shifting Cost Calculator</a>
       <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-charges-calculator">Bike Parcel Charges Calculator</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/car-shifting-charges-calculator">Car Transport Carrier Calculator</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/car-transportation-cost-calculator">Car Transport Carrier Calculator</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rates & Moving Charges</a>
     </div>
   </div>

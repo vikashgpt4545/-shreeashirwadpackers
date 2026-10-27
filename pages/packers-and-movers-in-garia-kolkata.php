@@ -808,7 +808,7 @@
         <div class="gar-grid-2" style="margin-top: 36px;">
             <div>
                 <h3 style="font-size:1.35rem; color:#0f2b48; font-weight:700; margin-bottom:12px;">Interstate Network & Regional Authority</h3>
-                <p>Relocating across state lines from Garia is completely hassle-free with our established logistics network. Anchored by our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"><strong>Packers and Movers in Ranchi</strong></a>, we maintain daily dedicated routes connecting South Kolkata to key destinations throughout Eastern and Northern India.</p>
+                <p>Relocating across state lines from Garia is completely hassle-free with our established logistics network. Anchored by our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/"><strong>Packers and Movers in Ranchi</strong></a>, we maintain daily dedicated routes connecting South Kolkata to key destinations throughout Eastern and Northern India.</p>
                 <p>Every interstate consignment travels in dedicated sealed container vehicles under the custody of experienced linehaul drivers, complete with real-time transit telemetry and comprehensive transit insurance for absolute cargo protection.</p>
             </div>
             <div>

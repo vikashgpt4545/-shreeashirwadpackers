@@ -648,7 +648,7 @@ $state_name = 'Punjab';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalandhar" class="khn-cluster-link">Packers and Movers in Jalandhar</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bathinda" class="khn-cluster-link">Packers and Movers in Bathinda</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ambala" class="khn-cluster-link">Packers and Movers in Ambala</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="khn-cluster-link">Ranchi Headquarters Hub</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="khn-cluster-link">Ranchi Headquarters Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="khn-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

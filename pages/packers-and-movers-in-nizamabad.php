@@ -667,7 +667,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting locally within Nizamabad or orchestrating a long-haul interstate move back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled punctuality, reliability, and security.</p>
+    <p>Whether you are shifting locally within Nizamabad or orchestrating a long-haul interstate move back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled punctuality, reliability, and security.</p>
     <p>With thousands of successful residential and commercial relocations delivered across South, East, and Central India, our Nizamabad branch delivers proven, enterprise-grade moving services directly to your doorstep.</p>
   </section>
 

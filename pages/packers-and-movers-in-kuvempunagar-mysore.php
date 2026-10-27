@@ -551,7 +551,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Tree-Canopy Aware Vehicle Fleet:</strong> Deployment of compact 14ft and 17ft closed container trucks designed for easy maneuvering beneath Kuvempunagar's mature greenery.</li>
                 <li><strong>Healthcare & Academic Institutional Relocation:</strong> Specialized packaging for medical consultation rooms, diagnostic clinic equipment, and scholarly book collections.</li>
                 <li><strong>South Ring Road Transit Access:</strong> Quick connection onto Mysore's southern Ring Road arc, leading seamlessly toward Nanjangud, Ooty Highway, and the Bangalore Expressway.</li>
-                <li><strong>Parent Network Integration:</strong> Fully backed by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mysore">Packers and Movers in Mysore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Parent Network Integration:</strong> Fully backed by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mysore">Packers and Movers in Mysore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -772,7 +772,7 @@ require_once ROOT_PATH . '/includes/header.php';
 
         <div class="kvm-faq-item">
             <h3>Do you provide interstate moving from Kuvempunagar to Bangalore and other states?</h3>
-            <p>Yes, we operate dedicated GPS-monitored container trucks linking Kuvempunagar directly to Bangalore via the expressway, as well as long-haul transit to Jharkhand, Bihar, Bengal, Uttar Pradesh, and Delhi NCR, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we operate dedicated GPS-monitored container trucks linking Kuvempunagar directly to Bangalore via the expressway, as well as long-haul transit to Jharkhand, Bihar, Bengal, Uttar Pradesh, and Delhi NCR, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
 
         <div class="kvm-faq-item">

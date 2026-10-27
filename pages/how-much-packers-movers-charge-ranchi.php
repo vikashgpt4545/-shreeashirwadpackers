@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>One of the most frequent questions asked by homeowners and corporate executives moving within or out of Ranchi is: <em>"How much should a reliable moving company actually charge?"</em> The moving marketplace in Ranchi features estimates ranging from suspiciously cheap Rs 2,500 offers up to premium Rs 12,000 full-service packages for the same apartment.</p>
                         <p>A legitimate relocation quotation is composed of four foundational cost pillars: packing materials, physical loading labor, vehicle fuel and logistics freight, and specialized technician carpentry or electrical handling. When an unverified operator offers an impossibly low quotation, they are inevitably cutting corners on crew safety, using recycled fruit cartons, or preparing to hold your cargo hostage for extra fees upon arrival.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we believe complete pricing transparency eliminates stress. Below is our comprehensive local and domestic price matrix based on authentic operational data from thousands of moves completed across Jharkhand.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we believe complete pricing transparency eliminates stress. Below is our comprehensive local and domestic price matrix based on authentic operational data from thousands of moves completed across Jharkhand.</p>
                         <div class="hmpc-highlight">
                             <h4>Instant Live Tariff Calculation</h4>
                             <p>For an immediate itemized quotation configured for your specific apartment size, elevator availability, and destination locality, use our interactive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -425,7 +425,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Pricing Guides, Relocation Calculators & Neighborhoods</h3>
                 <p>Plan your move across Ranchi with verified cost breakdowns and specialized relocation advice:</p>
                 <div class="hmpc-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/household-storage-guide-ranchi">Household Storage Guide</a>
@@ -433,8 +433,8 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use">Packing Materials Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-unpack-after-moving">How to Unpack After Moving</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hinoo">Packers and Movers Hinoo</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna">Packers and Movers Patna</a>
                 </div>

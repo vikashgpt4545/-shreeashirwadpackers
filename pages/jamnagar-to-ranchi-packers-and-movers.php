@@ -964,7 +964,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Jamnagar Route</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="jmr-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="jmr-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

@@ -663,7 +663,7 @@ $state_name = 'Uttarakhand';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jakhan-dehradun" class="dhd-cluster-link">Packers and Movers Jakhan Dehradun</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sahastradhara-road-dehradun" class="dhd-cluster-link">Packers and Movers Sahastradhara Road Dehradun</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-haridwar" class="dhd-cluster-link">Packers and Movers in Haridwar</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dhd-cluster-link">Ranchi Headquarters Hub</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="dhd-cluster-link">Ranchi Headquarters Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dhd-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

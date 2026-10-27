@@ -665,7 +665,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting locally within Kazipet or planning an interstate relocation back to our corporate headquarters through our trusted <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a> network, Shree Ashirwad Packers and Movers delivers unmatched reliability, care, and punctuality.</p>
+    <p>Whether you are shifting locally within Kazipet or planning an interstate relocation back to our corporate headquarters through our trusted <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a> network, Shree Ashirwad Packers and Movers delivers unmatched reliability, care, and punctuality.</p>
     <p>With thousands of successful moves completed across South, East, and Central India, our Kazipet operations team ensures that your transition to your new home is joyful, secure, and stress-free.</p>
   </section>
 

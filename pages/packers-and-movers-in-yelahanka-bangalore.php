@@ -611,7 +611,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-yelahan
 
       <p class="ylh-p">Yelahanka serves as the northern anchor of Bangalore's residential landscape. Our daily local fleet runs frequent shifting routes connecting Yelahanka directly with Hebbal, Sahakar Nagar, Manyata Tech Park, Indiranagar, and Whitefield. Whether you are transitioning to an airport-corridor villa or relocating across the city, our localized infrastructure ensures on-time completion.</p>
 
-      <p class="ylh-p">For relocations outside Karnataka, our national highway network links Bangalore directly with Hyderabad, Mumbai, Pune, Delhi NCR, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2b6cb0; font-weight: 700;">Packers and Movers in Ranchi</a>. We ensure complete logistical transparency, offering real-time status updates and dedicated relocation managers from pickup to final delivery.</p>
+      <p class="ylh-p">For relocations outside Karnataka, our national highway network links Bangalore directly with Hyderabad, Mumbai, Pune, Delhi NCR, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2b6cb0; font-weight: 700;">Packers and Movers in Ranchi</a>. We ensure complete logistical transparency, offering real-time status updates and dedicated relocation managers from pickup to final delivery.</p>
 
       <div class="ylh-cluster-links">
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" class="ylh-cluster-badge">Bangalore Central Hub</a>
@@ -620,7 +620,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-yelahan
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-marathahalli-bangalore" class="ylh-cluster-badge">Marathahalli</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-whitefield-bangalore" class="ylh-cluster-badge">Whitefield</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ylh-cluster-badge">Charges Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ylh-cluster-badge">Company HQ (Ranchi)</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="ylh-cluster-badge">Company HQ (Ranchi)</a>
       </div>
     </section>
   </div>

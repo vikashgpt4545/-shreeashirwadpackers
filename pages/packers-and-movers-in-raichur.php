@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-raichur";
                 <li><strong>Rice Mill & Agro Machinery Transport:</strong> Safe crating and transportation of grain sorting machines, milling equipment, and industrial motors across the Doab region.</li>
                 <li><strong>Thermal-Resistant Packaging:</strong> High-density bubble sheets, heavy corrugated boxes, and heat-reflective vehicle tarpaulins designed for North Karnataka's climate.</li>
                 <li><strong>Mantralayam Pilgrimage Corridor:</strong> Regular transit shuttles connecting Raichur to the holy shrine of Mantralayam, Bellary, and Andhra Pradesh border towns.</li>
-                <li><strong>Central Operations Oversight:</strong> End-to-end logistics coordination and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Central Operations Oversight:</strong> End-to-end logistics coordination and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -773,7 +773,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-raichur";
         </div>
         <div class="rcr-faq-item">
             <h3>Is transit insurance included for interstate relocations from Raichur?</h3>
-            <p>Yes, we provide 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we provide 100% all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
         <div class="rcr-faq-item">
             <h3>Can you shift vehicles like cars and motorbikes from Raichur?</h3>

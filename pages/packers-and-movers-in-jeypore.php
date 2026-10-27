@@ -539,7 +539,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="jyp-section-title">Premier Relocation Services Across the Koraput Highlands</h2>
                 <p class="jyp-lead-p">Jeypore stands proud as the largest commercial city and historical crown of the undivided Koraput district in Southern Odisha. Nestled at an elevation of over 2,100 feet in the breathtaking Eastern Ghats, Jeypore was the ancient royal seat of the King of Jeypore and has evolved into the commercial nerve center for the four southern districts of Koraput, Rayagada, Nabarangpur, and Malkangiri. Surrounded by lush hills, rich cashew plantations, spice estates, and the renowned Koraput-Araku organic coffee belt, the city hums with agricultural and commercial vibrancy.</p>
                 <p class="jyp-body-p">Crucially, Jeypore serves as the vital residential and commercial gateway to two of India's most prestigious public sector defense and mineral complexes: the Hindustan Aeronautics Limited (HAL) aircraft engine division at Sunabeda (just 20 km away) and the National Aluminium Company Limited (NALCO) mega bauxite mining and alumina complex at Damanjodi (35 km away). In addition, the presence of the Central University of Odisha (CUO) at Koraput creates regular seasonal transfers of scientists, aeronautical engineers, university professors, military officers, and central banking executives.</p>
-                <p class="jyp-body-p">Shree Ashirwad Packers and Movers provides tested mountain logistics across Jeypore. Navigating the ghat hairpin bends of National Highway 26 and National Highway 43 requires specialized heavy-duty vehicles, seasoned mountain drivers, and disciplined cargo strapping. Through our regional network, we connect Jeypore directly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rayagada">Rayagada</a> (130 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur">Berhampur</a> (320 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (490 km), Visakhapatnam, Raipur, and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p class="jyp-body-p">Shree Ashirwad Packers and Movers provides tested mountain logistics across Jeypore. Navigating the ghat hairpin bends of National Highway 26 and National Highway 43 requires specialized heavy-duty vehicles, seasoned mountain drivers, and disciplined cargo strapping. Through our regional network, we connect Jeypore directly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rayagada">Rayagada</a> (130 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur">Berhampur</a> (320 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (490 km), Visakhapatnam, Raipur, and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="jyp-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods container loading in Jeypore" width="580" height="380" loading="lazy">
@@ -789,7 +789,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" class="jyp-cluster-link">Bhubaneswar Authority Hub (490 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" class="jyp-cluster-link">Movers in Cuttack (515 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" class="jyp-cluster-link">Movers in Rourkela (470 km)</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="jyp-cluster-link">Ranchi Headquarters Hub</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="jyp-cluster-link">Ranchi Headquarters Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jyp-cluster-link">Live Tariff Calculator</a>
                 </div>
             </section>
@@ -828,7 +828,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 Regional Jeypore Hub: NH-26 Bypass, Parabeda Chowk, Jeypore, Koraput, Odisha - 764001.<br>
                 Helpline: +91 93344 60424<br>
                 Email: info@shreeashirwadpackers.com</p>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="jyp-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="jyp-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>
         </aside>
     </div>

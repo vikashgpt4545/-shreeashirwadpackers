@@ -147,7 +147,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Ranchi Corridors",
-                    "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+                    "item": "https://www.shreeashirwadpackers.com/"
                 },
                 {
                     "@type": "ListItem",
@@ -215,7 +215,7 @@ require_once __DIR__ . '/../includes/seo.php';
             <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
                 <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
                 <li style="color: #94a3b8;">/</li>
-                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Ranchi Routes</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Ranchi Routes</a></li>
                 <li style="color: #94a3b8;">/</li>
                 <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Navi Mumbai</li>
             </ol>
@@ -283,7 +283,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span style="color: #e11d48; font-weight: 700; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Inter-State Gateway Logistics</span>
                 <h2 style="font-size: 30px; font-weight: 800; color: #0f172a; margin-top: 8px; margin-bottom: 18px;">Strategic 1,710 km Transit from Chota Nagpur to the Arabian Sea Port Basin</h2>
                 <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 16px;">
-                    Relocating personal household belongings or corporate infrastructure across the 1,710-kilometer highway artery from Ranchi (Jharkhand) to Navi Mumbai (Maharashtra) is a complex logistical operation. Navigating from the plateau of Harmu, Morabadi, Bariatu, Kanke, and Doranda down through Chhattisgarh and central Maharashtra demands robust transport equipment capable of withstanding varying ambient temperatures, diverse highway gradients, and multi-state toll checkpoints. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/navi-mumbai-to-ranchi-packers-and-movers" style="color: #1e3a8a; font-weight: 600; text-decoration: underline;">Navi Mumbai to Ranchi packers and movers</a> corridor with equal dedication.
+                    Relocating personal household belongings or corporate infrastructure across the 1,710-kilometer highway artery from Ranchi (Jharkhand) to Navi Mumbai (Maharashtra) is a complex logistical operation. Navigating from the plateau of Harmu, Morabadi, Bariatu, Kanke, and Doranda down through Chhattisgarh and central Maharashtra demands robust transport equipment capable of withstanding varying ambient temperatures, diverse highway gradients, and multi-state toll checkpoints. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/navi-mumbai-to-ranchi-packers-and-movers" style="color: #1e3a8a; font-weight: 600; text-decoration: underline;">Navi Mumbai to Ranchi packers and movers</a> corridor with equal dedication.
                 </p>
                 <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 16px;">
                     Shree Ashirwad Packers and Movers eliminates middle-agent risks by deploying dedicated weather-proof container trucks. Our drivers are seasoned inter-state heavy commercial transport professionals certified for long-haul national highway routes. Whether you are transitioning to a newly acquired apartment in Kharghar, taking up a tech post in Airoli Mindspace or Millennium Business Park Mahape, or joining executive logistics divisions near Jawaharlal Nehru Port Trust (JNPT) Uran, we ensure a seamless and safe journey.
@@ -663,7 +663,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Navi Mumbai to Ranchi (Return)</span>
                 <i class="fa fa-arrow-right" style="color: #e11d48;"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 16px 20px; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #1e3a8a; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 16px 20px; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #1e3a8a; font-weight: 600; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa fa-arrow-right" style="color: #e11d48;"></i>
             </a>

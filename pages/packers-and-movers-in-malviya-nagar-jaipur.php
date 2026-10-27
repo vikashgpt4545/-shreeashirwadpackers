@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
             <div>
                 <p>Malviya Nagar is a premier cosmopolitan hub blending established sector residential blocks with major modern commercial landmarks like World Trade Park (WTP) and Gaurav Tower (GT). Flanked by the sprawling lush greens of Jawahar Circle, the academic campus of Malviya National Institute of Technology (MNIT), and the specialized healthcare hub along Calgiri Marg, Malviya Nagar experiences steady corporate and residential movement. Moving within this vibrant locality requires a logistics partner capable of navigating bustling retail corridors and quiet residential avenues alike.</p>
                 <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we deliver customized shifting services suited to Malviya Nagar's unique mix of clients. From relocating corporate consulting and IT firms over the weekend with zero business disruption to packing luxury apartments near Jawahar Circle, our certified teams take full ownership. We handle heavy conference tables, modular kitchen cabinets, fine glassware, home libraries, and family automobiles with absolute care.</p>
-                <p>As a key hyper-local branch of our statewide <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaipur">packers and movers in Jaipur</a> authority network, our clients receive standardized corporate pricing, transparent inventory contracts, and real-time shipment visibility. We also provide customized packing solutions for luxury multi-story residences near Jawahar Circle and Apex Circle. View live pricing metrics anytime on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>, supported by company logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p>As a key hyper-local branch of our statewide <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaipur">packers and movers in Jaipur</a> authority network, our clients receive standardized corporate pricing, transparent inventory contracts, and real-time shipment visibility. We also provide customized packing solutions for luxury multi-story residences near Jawahar Circle and Apex Circle. View live pricing metrics anytime on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>, supported by company logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
                 <div class="mvn-highlight">
                     <strong>Malviya Nagar Direct Relocation Desk:</strong> Need a fast move near WTP or Calgiri Marg? Speak directly with our operations manager at <strong>+91-8409531615</strong> or <strong>+91-9835565233</strong> for an instant quote and scheduled slot reservation.
                 </div>
@@ -527,7 +527,7 @@ require_once BASE_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-udaipur">Udaipur Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kota">Kota Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Tariff Guide</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">National HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">National HQ</a>
         </div>
     </section>
 

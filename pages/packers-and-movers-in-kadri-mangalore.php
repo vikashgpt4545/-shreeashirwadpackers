@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Hillside & Penthouse Specialists:</strong> Agile medium container vans and hydraulic furniture lifts for hillside villas and high-rise penthouses.</li>
                 <li><strong>Temple Artifact & Antique Preservation:</strong> Reverent packaging with clean white paper, dense bubble cushion, and custom timber crating for brass idols and rosewood heirlooms.</li>
                 <li><strong>Coastal Weatherproof Standards:</strong> Multi-layer moisture shields and silica gel pouches protecting electronics and fabrics against coastal humidity.</li>
-                <li><strong>Direct Port & Regional Hub Integration:</strong> Supported by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mangalore">Packers and Movers in Mangalore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Direct Port & Regional Hub Integration:</strong> Supported by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mangalore">Packers and Movers in Mangalore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

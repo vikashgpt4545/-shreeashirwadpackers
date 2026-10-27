@@ -502,7 +502,7 @@
                         <li>Authorized reimbursement bills for Railway & ECL staff</li>
                         <li>Direct NH 19 GT Road transport hub with daily express runs</li>
                         <li>Airtight dust-proof packaging for coal-belt conditions</li>
-                        <li>Direct links to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#f59e0b; font-weight:700;">Company HQ Ranchi</a> & Kolkata</li>
+                        <li>Direct links to <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#f59e0b; font-weight:700;">Company HQ Ranchi</a> & Kolkata</li>
                         <li>Dedicated fleet of closed-body containerized moving trucks</li>
                     </ul>
                 </div>
@@ -835,7 +835,7 @@
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="asl-cluster-link">Kolkata Regional Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="asl-cluster-link">Kolkata to Ranchi Corridor</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="asl-cluster-link">Ranchi to Kolkata Corridor</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="asl-cluster-link">Company HQ Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="asl-cluster-link">Company HQ Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="asl-cluster-link">Live Tariff Calculator</a>
             <span class="asl-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Burnpur Hub (Upcoming)</span>
             <span class="asl-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Raniganj Hub (Upcoming)</span>

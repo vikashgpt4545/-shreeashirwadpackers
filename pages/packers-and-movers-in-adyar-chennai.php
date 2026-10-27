@@ -542,7 +542,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-adyar-chennai";
                 <li><strong>Marine Salt-Air &amp; Humidity Barrier Protocol:</strong> With the Bay of Bengal and the Adyar Estuary nearby, coastal air carries high salt mist and moisture. We deploy airtight shrink-wrap barriers and moisture-absorbing silica packets to shield fine woods and electronics.</li>
                 <li><strong>Academic &amp; Research Library Cataloging:</strong> For IIT Madras and research scientists, we provide systematic chronological indexing, heavy-duty book cartons, and anti-static packaging for computational equipment and laboratory samples.</li>
                 <li><strong>Carnatic Musical Instrument Preservation:</strong> Adyar is the cultural heart of classical music. We design custom foam-lined wooden crating for Saraswati Veenas, violins, tamburas, and mridangams to protect delicate resonance woods from temperature shifts.</li>
-                <li><strong>Strategic Corridor Access to OMR &amp; ECR:</strong> Direct connectivity across the Adyar Bridge onto Sardar Patel Road and the start of Old Mahabalipuram Road (OMR) enables smooth dispatch toward tech corridors or our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>.</li>
+                <li><strong>Strategic Corridor Access to OMR &amp; ECR:</strong> Direct connectivity across the Adyar Bridge onto Sardar Patel Road and the start of Old Mahabalipuram Road (OMR) enables smooth dispatch toward tech corridors or our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -816,7 +816,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-adyar-chennai";
                 <a href="<?php echo SITE_BASE_URL; ?>/chennai-to-ranchi-packers-and-movers">Chennai to Ranchi Return</a>
             </div>
             <div class="ady-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company Headquarters</a>
             </div>
         </div>
     </section>

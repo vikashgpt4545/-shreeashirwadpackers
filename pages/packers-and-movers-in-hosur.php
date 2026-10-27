@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hosur";
         <p>Hosur commands an indispensable geographical position along the primary north-south transport corridor. NH 44 links northwest directly into Bangalore (Electronic City, Silk Board, and Outer Ring Road) and south through Krishnagiri, Dharmapuri, Salem, and Madurai. State Highway 17 connects toward Denkanikottai and Thally. State Highway 84 links eastward toward Kelamangalam and Rayakottai. This superior highway network allows our container fleet to reach any Southern Indian trade center quickly and reliably.</p>
 
         <div class="hos-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #134e4a; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Hosur directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #134e4a; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Hosur directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Hosur</h3>

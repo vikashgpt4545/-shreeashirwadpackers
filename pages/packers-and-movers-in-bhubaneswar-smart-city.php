@@ -733,7 +733,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
 
-        <p>Planning an intercity move connecting Odisha with Southern or Eastern metros? Explore our dedicated routes on <a href="<?php echo SITE_BASE_URL; ?>/chennai-to-bhubaneswar-packers-and-movers" style="color: #0e7490; font-weight: 700; text-decoration: underline;">Chennai to Bhubaneswar packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/bhubaneswar-to-chennai-packers-and-movers" style="color: #0e7490; font-weight: 700; text-decoration: underline;">Bhubaneswar to Chennai return corridor</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #0e7490; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for detailed pricing.</p>
+        <p>Planning an intercity move connecting Odisha with Southern or Eastern metros? Explore our dedicated routes on <a href="<?php echo SITE_BASE_URL; ?>/chennai-to-bhubaneswar-packers-and-movers" style="color: #0e7490; font-weight: 700; text-decoration: underline;">Chennai to Bhubaneswar packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/bhubaneswar-to-chennai-packers-and-movers" style="color: #0e7490; font-weight: 700; text-decoration: underline;">Bhubaneswar to Chennai return corridor</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #0e7490; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for detailed pricing.</p>
 
         <!-- Section 6: FAQs -->
         <h2 class="bbsc-section-heading">Frequently Asked Questions: Packers and Movers in Bhubaneswar Smart City</h2>
@@ -774,7 +774,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service">Single Item &amp; Furniture Moving Service</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing">Secure Household Goods Warehousing</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Packers and Movers Charges Per KM Rates</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Central Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Central Company Headquarters</a>
             </div>
         </div>
 

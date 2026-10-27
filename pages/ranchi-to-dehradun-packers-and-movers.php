@@ -1508,7 +1508,7 @@ require_once __DIR__ . '/includes/seo.php';
         Discover our dedicated interstate relocation corridors connecting Ranchi to major institutional, educational, and defense centers across Uttarakhand, Uttar Pradesh, and neighboring states:
       </p>
       <div class="r2ddn-cluster-links">
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2ddn-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2ddn-cluster-link">Ranchi Headquarters</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2ddn-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gwalior-packers-and-movers" class="r2ddn-cluster-link">Ranchi to Gwalior</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jabalpur-packers-and-movers" class="r2ddn-cluster-link">Ranchi to Jabalpur</a>

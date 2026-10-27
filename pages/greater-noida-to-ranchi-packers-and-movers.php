@@ -575,7 +575,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Moving back from Greater Noida or Greater Noida West to Ranchi represents a crucial transition across nearly 1,200 kilometers of northern and eastern highway corridors. Whether you are concluding a corporate tenure in Knowledge Park or Techzone, completing an academic program at Gautam Buddha University, Galgotias, or Sharda, or returning to your hometown in Jharkhand to be closer to family and ancestral roots, partnering with an organized, trustworthy logistics team is essential.
         </p>
         <p class="gn2r-text">
-            Shree Ashirwad Packers and Movers operates a dedicated reverse-logistics corridor connecting Delhi NCR with Jharkhand. As the recognized leader of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we manage regular return trips alongside our outbound <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-greater-noida-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Ranchi to Greater Noida packers and movers</a> corridor with dedicated container linehauls. Because our fleet continuously moves household consignments and industrial equipment from Ranchi, Jamshedpur, Bokaro, and Dhanbad into Greater Noida, Noida, and Gurgaon, our returning container trucks offer unbeatable route efficiency, scheduled departures, and substantial cost savings back to Eastern India.
+            Shree Ashirwad Packers and Movers operates a dedicated reverse-logistics corridor connecting Delhi NCR with Jharkhand. As the recognized leader of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we manage regular return trips alongside our outbound <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-greater-noida-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Ranchi to Greater Noida packers and movers</a> corridor with dedicated container linehauls. Because our fleet continuously moves household consignments and industrial equipment from Ranchi, Jamshedpur, Bokaro, and Dhanbad into Greater Noida, Noida, and Gurgaon, our returning container trucks offer unbeatable route efficiency, scheduled departures, and substantial cost savings back to Eastern India.
         </p>
 
         <!-- Image 1 -->
@@ -914,7 +914,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Greater Noida (Outbound)</span>
                 <span style="color: #E11D48;">→</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                 <span>Ranchi Headquarters Hub</span>
                 <span style="color: #E11D48;">→</span>
             </a>

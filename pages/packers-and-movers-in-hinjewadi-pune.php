@@ -375,7 +375,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hinjewa
 
         <div class="hjw-highlight-box">
             <h4>Parent Authority & Inter-State Hub Links</h4>
-            <p>For comprehensive moving solutions across Pune, visit our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers and Movers in Pune</a>, view our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, or check standard moving tariffs using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Packers and Movers Charges Calculator</a>.</p>
+            <p>For comprehensive moving solutions across Pune, visit our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers and Movers in Pune</a>, view our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, or check standard moving tariffs using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Packers and Movers Charges Calculator</a>.</p>
         </div>
     </section>
 

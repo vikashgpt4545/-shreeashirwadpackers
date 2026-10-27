@@ -688,7 +688,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h2 class="kvn-section-heading">Direct Regional Connectivity via Hapur Road & NH-9</h2>
         <p class="kvn-intro-p">Kavi Nagar's central location in Ghaziabad provides exceptional transit advantages. Direct access to Hapur Road and the 14-lane Delhi-Meerut Expressway (NH-9) allows our container vehicles to connect rapidly to Delhi, Noida, Greater Noida, and Western Uttar Pradesh without encountering internal city congestion.</p>
 
-        <p class="kvn-intro-p">For long-distance household transfers heading toward Eastern India—including Patna, Gaya, Ranchi, Jamshedpur, Bokaro, and Kolkata—our dedicated linehaul container fleet provides regular direct departures. Coordinated with our central logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>, clients enjoy daily milestone updates and live GPS tracking throughout the transit journey.</p>
+        <p class="kvn-intro-p">For long-distance household transfers heading toward Eastern India—including Patna, Gaya, Ranchi, Jamshedpur, Bokaro, and Kolkata—our dedicated linehaul container fleet provides regular direct departures. Coordinated with our central logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>, clients enjoy daily milestone updates and live GPS tracking throughout the transit journey.</p>
 
         <div class="kvn-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kavi Nagar Ghaziabad" loading="lazy">

@@ -575,7 +575,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Relocating between Jharkhand's capital, Ranchi, and the rapidly expanding National Capital Region hub of Greater Noida represents one of the most dynamic migration routes in Northern and Eastern India. Greater Noida is home to world-class educational institutions like Gautam Buddha University, Galgotias, Bennett University, and Sharda University, as well as expansive software parks in Knowledge Park, electronics manufacturing corridors in Ecotech, and sprawling high-rise residential complexes in Greater Noida West (Noida Extension) and Pari Chowk.
         </p>
         <p class="r2gn-text">
-            At Shree Ashirwad Packers and Movers, we provide comprehensive, end-to-end relocation management engineered specifically for this 1,200 km interstate route. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also operate regular return container trips along our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/greater-noida-to-ranchi-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Greater Noida to Ranchi packers and movers</a> corridor. We eliminate the friction and vulnerability of long-distance shifting through systematic packing, dedicated sealed container trucks, experienced packing crews, and complete doorstep delivery with society gate permissions across all sectors of Greater Noida.
+            At Shree Ashirwad Packers and Movers, we provide comprehensive, end-to-end relocation management engineered specifically for this 1,200 km interstate route. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also operate regular return container trips along our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/greater-noida-to-ranchi-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Greater Noida to Ranchi packers and movers</a> corridor. We eliminate the friction and vulnerability of long-distance shifting through systematic packing, dedicated sealed container trucks, experienced packing crews, and complete doorstep delivery with society gate permissions across all sectors of Greater Noida.
         </p>
 
         <!-- Image 1 -->
@@ -914,7 +914,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Greater Noida to Ranchi (Return)</span>
                 <span style="color: #E11D48;">→</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                 <span>Ranchi Headquarters Hub</span>
                 <span style="color: #E11D48;">→</span>
             </a>

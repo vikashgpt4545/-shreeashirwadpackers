@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="hld-section-title">Professional Packing and Moving Services in Haldia</h2>
                 <p class="hld-lead-p">Haldia represents West Bengal's premier maritime trade gateway and heavy petrochemical industrial powerhouse. Located at the strategic confluence of the Hooghly and Haldi rivers in the Purba Medinipur district, Haldia functions as the state's principal deep-water port complex under the Syama Prasad Mookerjee Port Trust. Home to massive industrial operations including the Indian Oil Corporation (IOCL) Haldia Refinery, Haldia Petrochemicals Limited (HPL), Mitsubishi Chemical, Tata Chemicals, and Exide Industries, Haldia combines modern planned industrial townships with bustling commercial centers like Durgachak and City Centre. Relocating within or out of this dynamic industrial hub demands logistics partners of certified technical prowess, maritime packaging care, and absolute reliability.</p>
                 
-                <p class="hld-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized relocation experience to Haldia. Whether you are a corporate engineer transferring from an IOCL residential township to a metropolitan headquarters, moving your family into an executive apartment in Durgachak, or dispatching household effects across the nation, our trained moving crews deliver flawless service. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> and major state logistics hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we guarantee prompt, secure door-to-door transit.</p>
+                <p class="hld-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized relocation experience to Haldia. Whether you are a corporate engineer transferring from an IOCL residential township to a metropolitan headquarters, moving your family into an executive apartment in Durgachak, or dispatching household effects across the nation, our trained moving crews deliver flawless service. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and major state logistics hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we guarantee prompt, secure door-to-door transit.</p>
 
                 <div class="hld-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Haldia">
@@ -633,7 +633,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="hld-highlight-desc">Our closed container trucks are equipped with watertight rubber gaskets and heavy tarpaulin linings, ensuring 100% moisture protection during monsoon coastal downpours.</div>
                 </div>
 
-                <p class="hld-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
+                <p class="hld-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
 
                 <p class="hld-body-p">We also provide optional value-added services such as pre-move deep cleaning, wall mount television bracket de-installation, split air conditioner gas sealing and dismantling by certified HVAC technicians, and short-term secure household warehousing at fully covered, CCTV-monitored storage facilities.</p>
             </section>
@@ -738,7 +738,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="hld-cluster-link">Durgapur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="hld-cluster-link">Asansol Rail Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri" class="hld-cluster-link">Siliguri North Bengal Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="hld-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="hld-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

@@ -539,7 +539,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="brp-section-title">Professional Relocation Expertise Across Mayurbhanj</h2>
                 <p class="brp-lead-p">Baripada holds a celebrated position in Eastern India as the historic seat of the Mayurbhanj Bhanja dynasty, renowned worldwide for its majestic Jagannath Temple, the vibrant annual Ratha Yatra, the classical Chhau dance heritage, and its role as the primary southern gateway to the pristine Similipal Biosphere Reserve. Situated on the banks of the Budhabalanga river and strategically positioned near the tri-junction of Odisha, Jharkhand, and West Bengal, Baripada functions as an essential administrative, educational, and commercial center.</p>
                 <p class="brp-body-p">The presence of major institutions—including Maharaja Sriram Chandra Bhanja Deo University (North Orissa University) in Takatpur, Pandit Raghunath Murmu (PRM) Medical College & Hospital, and the Mayurbhanj District Collectorate—creates continuous demand for dependable relocation services. Faculty members, medical practitioners, government administrators, and banking professionals frequently rotate into and out of Baripada, requiring seamless residential moving with zero operational delays.</p>
-                <p class="brp-body-p">Geographically, our logistical teams navigate every corner of Baripada with seasoned familiarity. Whether handling heritage residences in Deulasahi and Station Road, commercial shops near Kachery Chowk, or modern apartment constructions in Bhanjpur and Madhuban, we deploy right-sized vehicles, hydraulic moving equipment, and specialized packing materials. Furthermore, through our regional network, we connect Baripada seamlessly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-balasore">Balasore</a> (55 km), Jamshedpur (115 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (250 km), and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p class="brp-body-p">Geographically, our logistical teams navigate every corner of Baripada with seasoned familiarity. Whether handling heritage residences in Deulasahi and Station Road, commercial shops near Kachery Chowk, or modern apartment constructions in Bhanjpur and Madhuban, we deploy right-sized vehicles, hydraulic moving equipment, and specialized packing materials. Furthermore, through our regional network, we connect Baripada seamlessly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-balasore">Balasore</a> (55 km), Jamshedpur (115 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (250 km), and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="brp-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting container loading in Baripada" width="580" height="380" loading="lazy">
@@ -789,7 +789,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" class="brp-cluster-link">Movers in Cuttack (225 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" class="brp-cluster-link">Movers in Rourkela (240 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="brp-cluster-link">Movers in Kolkata (230 km)</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="brp-cluster-link">Ranchi Headquarters Hub (260 km)</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="brp-cluster-link">Ranchi Headquarters Hub (260 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="brp-cluster-link">Live Tariff Calculator</a>
                 </div>
             </section>
@@ -828,7 +828,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 Regional Baripada Hub: NH-18 Bypass, Bhanjpur Chowk, Baripada, Mayurbhanj, Odisha - 757001.<br>
                 Helpline: +91 93344 60424<br>
                 Email: info@shreeashirwadpackers.com</p>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="brp-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="brp-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>
         </aside>
     </div>

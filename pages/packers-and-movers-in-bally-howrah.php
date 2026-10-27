@@ -835,7 +835,7 @@
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dum-dum-kolkata" class="bly-cluster-link">Dum Dum North Kolkata</a>
             <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="bly-cluster-link">Kolkata to Ranchi Route</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="bly-cluster-link">Ranchi to Kolkata Route</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bly-cluster-link">Company HQ Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="bly-cluster-link">Company HQ Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bly-cluster-link">Live Tariff Calculator</a>
         </div>
     </section>

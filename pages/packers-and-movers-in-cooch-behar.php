@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <div class="cbh-highlight-box">
                     <div class="cbh-highlight-title">Strategic Bengal-Assam Border Transit Network</div>
-                    <p class="cbh-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> and North Bengal centers in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri">Jalpaiguri</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, our vehicles provide dependable point-to-point movement across Bengal to Assam, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raiganj">Raiganj</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-malda">Malda</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without cargo transshipment.</p>
+                    <p class="cbh-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> and North Bengal centers in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri">Jalpaiguri</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, our vehicles provide dependable point-to-point movement across Bengal to Assam, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raiganj">Raiganj</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-malda">Malda</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without cargo transshipment.</p>
                 </div>
 
                 <p class="cbh-body-p">The residential neighborhoods of Cooch Behar exhibit an enchanting blend of classic colonial and royal era bungalows near Sagardighi, Keshab Road, and Silver Jubilee Road, bustling traditional trading lanes in Bhabaniganj Bazar and Gunjabari, as well as rapidly growing modern residential communities in Khagrabari, New Cooch Behar, and Dinhata Road. Our trained handling squads possess deep local familiarity with municipal regulations, heritage gate dimensions, and multi-story apartment access, ensuring smooth and punctual moving operations.</p>
@@ -812,7 +812,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri" class="cbh-cluster-link">Jalpaiguri Divisional Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri" class="cbh-cluster-link">Siliguri Gateway</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raiganj" class="cbh-cluster-link">Raiganj Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cbh-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="cbh-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

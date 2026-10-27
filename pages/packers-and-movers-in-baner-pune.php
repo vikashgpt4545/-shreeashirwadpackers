@@ -539,7 +539,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-baner-p
 
         <p>To compute exact freight charges for your move, check our online <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Packers and Movers Charges Calculator</a>. We provide clear, itemized contracts so you know exactly what is included prior to booking.</p>
 
-        <p>Our long-distance consignments are backed by national fleet logistics managed through our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, guaranteeing continuous customer support and direct tracking from departure to delivery.</p>
+        <p>Our long-distance consignments are backed by national fleet logistics managed through our headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, guaranteeing continuous customer support and direct tracking from departure to delivery.</p>
     </section>
 
     <!-- Section 4: Systematic Shifting Process -->

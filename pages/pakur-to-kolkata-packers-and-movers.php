@@ -521,7 +521,7 @@ $canonical_url = "https://shreeashirwadpackers.com/pakur-to-kolkata-packers-and-
                 <p>Our delivery fleet covers every residential and commercial sector in the Kolkata metropolitan area:</p>
                 <p><strong>East & North Kolkata:</strong> Salt Lake (Sector 1 to 5), New Town, Rajarhat, Dum Dum, Lake Town, Ultadanga, VIP Road, Barasat.</p>
                 <p><strong>South & Central Kolkata:</strong> Park Street, Ballygunge, Alipore, Tollygunge, Jadavpur, Garia, Behala, Howrah, and Shibpur.</p>
-                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pakur">Packers and Movers in Pakur</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar.</p>
+                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pakur">Packers and Movers in Pakur</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
             </div>
         </div>
 

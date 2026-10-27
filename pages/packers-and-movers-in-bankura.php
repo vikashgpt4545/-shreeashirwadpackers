@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="bnk-section-title">Reliable Relocation Services in Bankura</h2>
                 <p class="bnk-lead-p">Bankura serves as the historic administrative, cultural, and trading center of the Bankura district in south-western West Bengal. Renowned globally for its distinctive red soil (Rarh region) culture, iconic terracotta horses from Panchmura, and close proximity to the historic temple town of Bishnupur, Bankura blends heritage craftsmanship with expanding healthcare, education, and commerce. Anchored by the prestigious Bankura Sammilani Medical College and Hospital, Bankura University, and bustling wholesale commercial areas around Machantala and Nutanganj, Bankura demands moving services that embody gentle craftsmanship, absolute safety, and robust highway transit capability.</p>
                 
-                <p class="bnk-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized packing experience to Bankura. Whether you are relocating your family between apartments in Katjuridanga, moving an academic faculty residence from School Danga, or transferring to industrial cities in Paschim Bardhaman, our trained moving crews execute every step with precision. Coordinated closely with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door relocation across India.</p>
+                <p class="bnk-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized packing experience to Bankura. Whether you are relocating your family between apartments in Katjuridanga, moving an academic faculty residence from School Danga, or transferring to industrial cities in Paschim Bardhaman, our trained moving crews execute every step with precision. Coordinated closely with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door relocation across India.</p>
 
                 <div class="bnk-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bankura">
@@ -633,7 +633,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="bnk-highlight-desc">Because south-western Bengal experiences intense summer weather followed by heavy monsoons, our container trucks are fitted with watertight rubber gaskets, ensuring complete dryness for all household goods.</div>
                 </div>
 
-                <p class="bnk-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> or metropolitan centers via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah">Packers and Movers in Howrah</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
+                <p class="bnk-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> or metropolitan centers via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah">Packers and Movers in Howrah</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
 
                 <p class="bnk-body-p">We also provide optional value-added services such as pre-move deep cleaning, wall mount television bracket de-installation, split air conditioner gas sealing and dismantling by certified HVAC technicians, and short-term secure household warehousing at fully covered, CCTV-monitored storage facilities.</p>
             </section>
@@ -738,7 +738,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman" class="bnk-cluster-link">Bardhaman City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="bnk-cluster-link">Kolkata Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah" class="bnk-cluster-link">Howrah City Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bnk-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="bnk-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

@@ -502,7 +502,7 @@
     <h3>Strategic Maritime & Expressway Gateway of South India</h3>
     <p>Shree Ashirwad Packers and Movers brings over a decade of elite logistics expertise directly to Kochi's diverse residents and corporate entities. Perfectly positioned along National Highway 66 (the western coastal corridor) and National Highway 544 (connecting to Tamil Nadu and Karnataka), our dedicated container trucks deliver dependable shifting throughout Ernakulam district and neighboring hubs.</p>
     <p>We provide localized neighborhood expertise across our dedicated branches, including <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-edappally-kochi" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Edappally</a>, our high-tech services with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kakkanad-kochi" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Kakkanad</a>, central sports and residential moves through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kaloor-kochi" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Kaloor</a>, and northern industrial transport via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aluva-kochi" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Aluva</a>.</p>
-    <p>For interstate relocations, our nationwide network bridges Kerala directly to major metropolitan hubs including Bangalore, Chennai, Hyderabad, and back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>For interstate relocations, our nationwide network bridges Kerala directly to major metropolitan hubs including Bangalore, Chennai, Hyderabad, and back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
   </section>
 
   <!-- Section 2: Comprehensive Shifting Services -->
@@ -654,7 +654,7 @@
 
     <h3>Strategic Highway Arteries Connecting Coastal & Inland Cities</h3>
     <p>From Kochi, our closed container fleet connects smoothly via NH 544 toward Coimbatore, Salem, and Bangalore, or heads south along NH 66 toward Alappuzha, Kollam, and Thiruvananthapuram.</p>
-    <p>Heading toward Central and Eastern India, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Heading toward Central and Eastern India, our container carriers connect smoothly toward Eastern India corridors back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>Whether relocating locally within Kochi or coordinating long-distance interstate movement to Hyderabad, Chennai, or Kolkata, our dedicated vehicle tracking gives you complete peace of mind throughout the journey.</p>
   </section>
 
@@ -682,7 +682,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting locally within Kochi or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether you are shifting locally within Kochi or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With thousands of successful domestic and corporate relocations executed across South, East, and Central India, our Kochi branch brings proven enterprise-grade logistics directly to your doorstep with guaranteed delivery schedules.</p>
   </section>
 
@@ -729,7 +729,7 @@
         <a class="kch-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore Metro Hub</a>
         <a class="kch-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Chennai Metro Hub</a>
         <a class="kch-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-coimbatore">Coimbatore Authority Hub</a>
-        <a class="kch-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Head Office Hub</a>
+        <a class="kch-cluster-link" href="<?php echo SITE_BASE_URL; ?>/">Ranchi Head Office Hub</a>
       </div>
     </div>
   </section>

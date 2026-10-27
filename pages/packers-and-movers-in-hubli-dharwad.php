@@ -733,7 +733,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
 
-        <p>Looking for dedicated intercity transit routes connecting Hubli-Dharwad with Karnataka and Maharashtra hubs? Explore our routes on <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-hubli-packers-and-movers" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">Bangalore to Hubli packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/hubli-to-bangalore-packers-and-movers" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">Hubli to Bangalore return corridor</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for precise route planning.</p>
+        <p>Looking for dedicated intercity transit routes connecting Hubli-Dharwad with Karnataka and Maharashtra hubs? Explore our routes on <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-hubli-packers-and-movers" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">Bangalore to Hubli packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/hubli-to-bangalore-packers-and-movers" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">Hubli to Bangalore return corridor</a>, or utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for precise route planning.</p>
 
         <!-- Section 6: FAQs -->
         <h2 class="hbdh-section-heading">Frequently Asked Questions: Packers and Movers in Hubli Dharwad</h2>
@@ -774,7 +774,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-mangalore-packers-and-movers">Bangalore to Mangalore Coastal Corridor</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service">Single Item &amp; Furniture Moving Service</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing">Secure Household Goods Warehousing</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Central Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Central Company Headquarters</a>
             </div>
         </div>
 

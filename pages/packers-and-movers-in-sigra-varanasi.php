@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <p class="sgr-image-caption">Shree Ashirwad crew carrying out careful packing and loading operations in Sigra Varanasi.</p>
         </div>
 
-        <p class="sgr-intro-p">Whether you are shifting a family residence from an independent house near Dr. Sampurnanand Stadium to a high-rise flat in Mahmoorganj, moving a retail boutique near IP Mall, or coordinating an inter-state corporate transfer to Delhi NCR, Lucknow, Patna, or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our teams manage every step with precision. We handle complete packing, master carpentry dismantling, secure vehicle loading, transit, and careful room placement.</p>
+        <p class="sgr-intro-p">Whether you are shifting a family residence from an independent house near Dr. Sampurnanand Stadium to a high-rise flat in Mahmoorganj, moving a retail boutique near IP Mall, or coordinating an inter-state corporate transfer to Delhi NCR, Lucknow, Patna, or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our teams manage every step with precision. We handle complete packing, master carpentry dismantling, secure vehicle loading, transit, and careful room placement.</p>
 
         <p class="sgr-intro-p">With hundreds of successful home shifting operations completed across Sigra, Mahmoorganj, and the bustling residential avenues of Rathyatra, Vidyapeeth, and Shivaji Nagar, our services feature completely upfront quotations, comprehensive transit insurance protection, and responsive customer support to ensure your move is seamless, punctual, and entirely stress-free.</p>
     </section>
@@ -697,7 +697,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h2 class="sgr-section-heading">Interstate Logistics & Strategic Highway Connectivity</h2>
         <p class="sgr-intro-p">Sigra's central location in Varanasi provides excellent connectivity to the city's primary transportation grid. Situated minutes away from the Varanasi Cantt Railway Junction and connecting via Mahmoorganj directly to the Grand Trunk Road axis and National Highway 19 (NH-19), cargo dispatched from Sigra enjoys rapid access to major highway arteries.</p>
 
-        <p class="sgr-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along the Purvanchal Expressway and NH-19, delivering cargo safely within 12 to 16 hours. Eastbound consignments heading to Varanasi, Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> link smoothly via the pristine NH-19 multi-lane corridor.</p>
+        <p class="sgr-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along the Purvanchal Expressway and NH-19, delivering cargo safely within 12 to 16 hours. Eastbound consignments heading to Varanasi, Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> link smoothly via the pristine NH-19 multi-lane corridor.</p>
 
         <div class="sgr-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Container Vehicle Delivery Fleet in Sigra Varanasi" width="580" height="380" loading="lazy">

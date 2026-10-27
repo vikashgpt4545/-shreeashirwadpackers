@@ -734,7 +734,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gandhipuram-coimbatore"
         <p>Gandhipuram functions as the central geographic pivot of Coimbatore, directly connecting via Cross Cut Road, 100 Feet Road, and Dr. Nanjappa Road eastward to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-peelamedu-coimbatore" style="color: #2b2d42; font-weight: 600; text-decoration: underline;">Peelamedu Airport Corridor</a>, westward to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rs-puram-coimbatore" style="color: #2b2d42; font-weight: 600; text-decoration: underline;">RS Puram West</a>, and southward across <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-coimbatore" style="color: #2b2d42; font-weight: 600; text-decoration: underline;">Coimbatore City Center</a>.</p>
 
         <div class="gdp-highlight-box">
-            <p><strong>National Highway Reach:</strong> Moving across state borders? Supported by our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2b2d42; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, our container fleet provides direct door-to-door transport connecting Gandhipuram to destinations nationwide.</p>
+            <p><strong>National Highway Reach:</strong> Moving across state borders? Supported by our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2b2d42; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, our container fleet provides direct door-to-door transport connecting Gandhipuram to destinations nationwide.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Gandhipuram</h3>

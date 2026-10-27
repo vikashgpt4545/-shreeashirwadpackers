@@ -648,7 +648,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Shree Ashirwad Packers and Movers provides regular linehaul transport along this vital economic route. Departing our central Ranchi hub, our covered container trucks travel along the newly upgraded 4-lane National Highway 33 via Namkum, Rampur, Bundu, and Tamar, descending smoothly through the Ranchi plateau before linking onto National Highway 18 via the Chandil-Dimna bypass. Crossing the industrial fringe of Jamshedpur and reaching Galudih, our trucks arrive directly in Ghatshila within 4 to 5 hours of departure.
                 </p>
                 <p>
-                    In Ranchi, our trained packing crews arrive punctually at any residential or official colony across Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township, MECON Colony, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and Dhurwa. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--ran-gha-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ghatshila-to-ranchi-packers-and-movers" style="color: var(--ran-gha-primary); font-weight: 600; text-decoration: underline;">Ghatshila to Ranchi packers and movers</a> corridor with equal dedication. We bring specialized tools, heavy-duty furniture blankets, custom wooden crating equipment, and pneumatic lifting gear to manage any multi-story flat shifting smoothly.
+                    In Ranchi, our trained packing crews arrive punctually at any residential or official colony across Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township, MECON Colony, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and Dhurwa. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--ran-gha-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ghatshila-to-ranchi-packers-and-movers" style="color: var(--ran-gha-primary); font-weight: 600; text-decoration: underline;">Ghatshila to Ranchi packers and movers</a> corridor with equal dedication. We bring specialized tools, heavy-duty furniture blankets, custom wooden crating equipment, and pneumatic lifting gear to manage any multi-story flat shifting smoothly.
                 </p>
                 <p>
                     Upon arrival in Ghatshila, our team handles complete doorstep delivery, careful unloading, and furniture positioning across all municipal wards and surrounding residential hubs, including Moubhandar Township, Dahigora, Kasida, Rajstate, Copper Colony, JC High School Road, Ghatshila Station Road, Musabani mining quarters, and Jaduguda.
@@ -930,7 +930,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ghatshila to Ranchi (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ran-gha-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="ran-gha-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

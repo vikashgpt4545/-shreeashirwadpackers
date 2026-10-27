@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="cdg-image-caption">Professional loading crews securing packed household consignments inside our weatherproof container trucks in CIDCO Aurangabad.</p>
         </div>
 
-        <p>Operating in direct synergy with our regional master hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aurangabad">Packers and Movers in Aurangabad</a>, our western network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to Waluj, heading toward Pune or Nashik, or executing an interstate transfer across India.</p>
+        <p>Operating in direct synergy with our regional master hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aurangabad">Packers and Movers in Aurangabad</a>, our western network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to Waluj, heading toward Pune or Nashik, or executing an interstate transfer across India.</p>
 
         <p>Our operations team closely monitors road conditions along Jalna Road and Town Centre to schedule dispatches during calm traffic intervals, ensuring prompt and safe relocations throughout CIDCO, Cannaught Place, and surrounding New Aurangabad sectors. Whether shifting an apartment near MGM Medical College, relocating an executive residence in N-2, or transferring household belongings from N-5 Cannaught Place to another metro, our dedicated fleet ensures dependable punctuality and total cargo safety.</p>
     </section>
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-solapur">Packers Movers Solapur</a>
             </div>
             <div class="cdg-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

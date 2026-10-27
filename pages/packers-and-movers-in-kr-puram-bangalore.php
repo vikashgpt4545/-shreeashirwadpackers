@@ -762,7 +762,7 @@ require_once ROOT_PATH . '/includes/header.php';
 
         <div class="krp-faq-item">
             <h3>Is comprehensive transit insurance provided for interstate moves from KR Puram?</h3>
-            <p>Yes, we provide 100% all-risk transit insurance for all interstate moves from KR Puram, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, protecting your household goods with itemized inventory value declaration.</p>
+            <p>Yes, we provide 100% all-risk transit insurance for all interstate moves from KR Puram, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, protecting your household goods with itemized inventory value declaration.</p>
         </div>
 
         <div class="krp-faq-item">

@@ -695,7 +695,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Related Logistics Corridors, Services & Regional Hubs</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Explore connected highway routes, services, and city branch portals across Jharkhand:</p>
     <div class="cluster-subgrid">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="cluster-node">📍 Ranchi Main Hub & City HQ</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-node">📍 Ranchi Main Hub & City HQ</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hazaribagh" class="cluster-node">📍 Hazaribagh Branch Hub</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-node">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-node">📖 Ranchi Shifting Guide & Checklist</a>

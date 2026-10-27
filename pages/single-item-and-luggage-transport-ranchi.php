@@ -525,7 +525,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
                 <p><strong>Residential Hubs:</strong> Harmu Housing Colony, Ashok Nagar, Sail Township Dhurwa, CMPDI Colony, Morabadi, Bariatu, Kanke Road.</p>
                 <p><strong>Commercial & University Belts:</strong> Main Road, Upper Bazaar, Lalpur, Doranda, Hinoo, BIT Mesra Campus, RIMS Campus, Namkum, Tatisilwai.</p>
                 <p>Regardless of whether your building has elevator access or narrow stairs, our loaders handle vertical carrying safely using heavy-duty lifting harnesses.</p>
-                <p>Visit our central authority guide at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> to explore full-service shifting solutions.</p>
+                <p>Visit our central authority guide at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> to explore full-service shifting solutions.</p>
             </div>
         </div>
 

@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="alg-intro-p">At Shree Ashirwad Packers and Movers, our dedicated Aligarh operations center provides end-to-end relocation management tailored to the varied needs of university faculty, medical professionals, business families, and manufacturing entrepreneurs. From peaceful residential enclaves in Marris Road and Dodhpur to modern apartments along Ramghat Road, our trained staff delivers unmatched service.</p>
 
-        <p class="alg-intro-p">Whether you are relocating locally within Aligarh, moving toward neighboring industrial hubs like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-agra">Agra</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mathura">Mathura</a>, or transferring interstate to Delhi NCR or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our comprehensive moving network guarantees total safety and peace of mind.</p>
+        <p class="alg-intro-p">Whether you are relocating locally within Aligarh, moving toward neighboring industrial hubs like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-agra">Agra</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mathura">Mathura</a>, or transferring interstate to Delhi NCR or <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our comprehensive moving network guarantees total safety and peace of mind.</p>
     </section>
 
     <!-- Section 2: Core Relocation Services -->
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="alg-intro-p">Our localized familiarity ensures that no time is wasted seeking addresses or negotiating residential gates. Our drivers are intimately familiar with local no-entry timings, morning school traffic schedules, and optimal parking spots across Aligarh.</p>
 
-        <p class="alg-intro-p">For clients moving to other regional hubs in western Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
+        <p class="alg-intro-p">For clients moving to other regional hubs in western Uttar Pradesh or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
     </section>
 
     <!-- Section 4: Transparent Tariff Structure -->
@@ -731,7 +731,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida" class="alg-link-card">Noida Expressway Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="alg-link-card">Delhi NCR Mega Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow" class="alg-link-card">Lucknow State Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="alg-link-card">Ranchi Head Office Hub</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="alg-link-card">Ranchi Head Office Hub</a>
         </div>
     </section>
 

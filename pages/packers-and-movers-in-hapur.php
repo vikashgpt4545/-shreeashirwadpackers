@@ -417,7 +417,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p>Our packaging supplies meet strict quality benchmarks. We utilize dense air-bubble wraps, virgin foam sheets, corrugated rolls, heavy stretch film, and heavy-duty carton boxes. This multi-layered defense protects kitchen appliances, LCD televisions, glassware, and wooden furniture from road vibrations and weather elements.</p>
 
-        <p>From local apartment moves to cross-state relocations to Delhi, Uttarakhand, or Bihar, our operations are coordinated smoothly. Learn about our central logistics management on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi hub page</a>.</p>
+        <p>From local apartment moves to cross-state relocations to Delhi, Uttarakhand, or Bihar, our operations are coordinated smoothly. Learn about our central logistics management on our <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi hub page</a>.</p>
     </section>
 
     <!-- Section 3: Pricing Estimates Table -->

@@ -425,7 +425,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-electro
       
       <p class="ecb-p">Our crew leaders also coordinate directly with condominium management and security offices across Phase 1 and Phase 2, securing gate entry approvals, booking service elevators, and placing protective runners along high-traffic corridors to ensure complete compliance with local residential bylaws.</p>
 
-      <p class="ecb-p">Furthermore, our expansive long-distance transport network links Electronic City directly with northern and eastern business hubs. Through regular container lines connecting South Bangalore with our headquarters network via our dedicated <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a> infrastructure, we provide real-time GPS tracking and comprehensive all-risk transit insurance protection.</p>
+      <p class="ecb-p">Furthermore, our expansive long-distance transport network links Electronic City directly with northern and eastern business hubs. Through regular container lines connecting South Bangalore with our headquarters network via our dedicated <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a> infrastructure, we provide real-time GPS tracking and comprehensive all-risk transit insurance protection.</p>
     </section>
 
     <!-- Section 2: Comprehensive Relocation Solutions -->
@@ -632,7 +632,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-electro
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-marathahalli-bangalore" class="ecb-cluster-badge">Marathahalli Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hebbal-bangalore" class="ecb-cluster-badge">Hebbal Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ecb-cluster-badge">Live Rates Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ecb-cluster-badge">Company HQ Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="ecb-cluster-badge">Company HQ Ranchi</a>
       </div>
     </section>
   </main>

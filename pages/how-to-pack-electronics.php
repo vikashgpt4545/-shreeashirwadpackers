@@ -240,7 +240,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>Unlike wooden tables or clothing, electronics suffer from microscopic vulnerabilities: electrostatic discharge (ESD) that fries microchips, mechanical torque that snaps motherboard circuit traces, and microscopic road vibrations that crack wafer-thin OLED screen panels. Transporting these across speed bumps on Ranchi Ring Road, NH-33, or potholed colony roads demands rigorous technical packing standards.</p>
                         <div class="hpet-highlight">
                             <h4>The Shree Ashirwad Technical Standard</h4>
-                            <p>We do not treat electronics like common freight cargo. At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our teams utilize anti-static pink bubble film, custom wooden flight cases, and specialized appliance transit harnesses to ensure absolute hardware integrity.</p>
+                            <p>We do not treat electronics like common freight cargo. At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our teams utilize anti-static pink bubble film, custom wooden flight cases, and specialized appliance transit harnesses to ensure absolute hardware integrity.</p>
                         </div>
                     </div>
                     <div class="hpet-img-box">
@@ -483,17 +483,17 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Relocation Guides & Neighborhood Hubs</h3>
                 <p>Ensure seamless relocation across Ranchi with our specialized packing tutorials and local neighborhood hubs:</p>
                 <div class="hpet-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-pack-kitchen-for-moving">How to Pack Kitchen</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-home-shifting-ranchi">Complete Guide Home Shifting</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">New House Shifting Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers Dhanbad</a>
                 </div>
             </section>

@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
             <div>
                 <p>Jagatpura has emerged as Jaipur's premier modern residential and educational destination. Featuring expansive multi-story gated apartment complexes along Mahal Road, upscale villa developments in NRI Colony, and major medical landmarks like Bombay Hospital, Jagatpura attracts thousands of IT engineers, medical professionals, university faculty, and modern families every year. Located in close proximity to Sitapura Industrial Area, Rajasthan University health sciences, and Jaipur International Airport, Jagatpura demands contemporary, well-equipped relocation services.</p>
                 <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we specialize in modern high-rise logistics across Jagatpura. Moving into high-density towers requires strict adherence to Resident Welfare Association (RWA) guidelines, careful coordination of service elevator timings, and protection of public corridors. Our trained crews arrive with custom floor mats, rubber-wheeled flatbed trolleys, and heavy-duty furniture wraps to ensure your relocation is silent, swift, and respectful of community rules.</p>
-                <p>As a core hyper-local branch of our wider <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaipur">packers and movers in Jaipur</a> authority network, our Jagatpura clients enjoy transparent quotations, zero hidden charges, and comprehensive transit insurance. We also provide customized packing solutions for modern multi-story gated residences near NRI Colony, Central Spine, and Bombay Hospital. You can review our standard moving charges anytime on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>, supported by company logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p>As a core hyper-local branch of our wider <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaipur">packers and movers in Jaipur</a> authority network, our Jagatpura clients enjoy transparent quotations, zero hidden charges, and comprehensive transit insurance. We also provide customized packing solutions for modern multi-story gated residences near NRI Colony, Central Spine, and Bombay Hospital. You can review our standard moving charges anytime on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>, supported by company logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
                 <div class="jgt-highlight">
                     <strong>Jagatpura Customer Assistance:</strong> Moving along Mahal Road or near Bombay Hospital? Speak directly with our local operations coordinators at <strong>+91-8409531615</strong> or <strong>+91-9835565233</strong> for an instant on-site inspection and customized price quotation.
                 </div>
@@ -527,7 +527,7 @@ require_once BASE_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-udaipur">Udaipur Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kota">Kota Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Tariff Guide</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">National HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">National HQ</a>
         </div>
     </section>
 

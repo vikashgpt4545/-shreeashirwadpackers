@@ -538,7 +538,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>JSW Steel & Mining Corridor Expertise:</strong> Specialized corporate moving packages for Toranagallu Vidyanagar township and Bellary-Hospet industrial belts.</li>
                 <li><strong>Hermetic Dust-Proof Packaging:</strong> Multi-layer sealed shrink films and moving blankets protecting against iron ore dust and dry heat.</li>
                 <li><strong>Fast Bangalore & Hyderabad Transit:</strong> Direct container trucks reaching Bangalore in 6 hours and Hyderabad in 7 hours with 24/7 digital GPS tracking.</li>
-                <li><strong>Pan-India Network Reliability:</strong> Backed by parent authority centers in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Pan-India Network Reliability:</strong> Backed by parent authority centers in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

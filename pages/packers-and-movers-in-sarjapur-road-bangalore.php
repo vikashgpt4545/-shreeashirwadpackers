@@ -685,7 +685,7 @@ include_once __DIR__ . '/../includes/header.php';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-electronic-city-bangalore" class="sjr-cluster-link">Electronic City</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jp-nagar-bangalore" class="sjr-cluster-link">JP Nagar</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="sjr-cluster-link">Live Rates Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="sjr-cluster-link">Shree Ashirwad HQ Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="sjr-cluster-link">Shree Ashirwad HQ Ranchi</a>
       </div>
 
       <p class="sjr-p">Whether you need an express intra-locality move within Doddakannelli, a corridor transit to Bellandur or HSR Layout, or long-distance relocation to other Indian states, Shree Ashirwad Packers guarantees top-quality execution.</p>

@@ -521,7 +521,7 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
                 <p>We serve all major localities across both endpoints:</p>
                 <p><strong>Godda Pickup Points:</strong> Kargil Chowk, Pirpainti Road, Asanbani, Bhatdiha, Motia (Adani Power Plant township), and Mahagama.</p>
                 <p><strong>Bhagalpur Delivery Zones:</strong> Tilkamanjhi, Adampur, Zero Mile, Barari, Mirjanhat, Aliganj, Nathnagar, Khanjarpur, and University Road.</p>
-                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-godda">Packers and Movers in Godda</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar.</p>
+                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-godda">Packers and Movers in Godda</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
             </div>
         </div>
 

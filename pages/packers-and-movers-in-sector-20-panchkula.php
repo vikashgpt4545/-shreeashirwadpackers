@@ -589,7 +589,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="s20p-services-section">
         <h2>Why Sector 20 Residents Trust Shree Ashirwad Packers</h2>
         <p>Relocating across Panchkula and the Tricity demands operational finesse. Here is why homeowners, defense officers, and professionals across Sector 20 rely on us:</p>
-        <p><strong>1. Over 15 Years of National Logistics Experience:</strong> Backed by our nationwide moving network and foundational presence in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">trusted pan-India moving services</a>, we deliver institutional reliability to every booking.</p>
+        <p><strong>1. Over 15 Years of National Logistics Experience:</strong> Backed by our nationwide moving network and foundational presence in <a href="<?php echo SITE_BASE_URL; ?>/">trusted pan-India moving services</a>, we deliver institutional reliability to every booking.</p>
         <p><strong>2. 100% In-House Dedicated Moving Crews:</strong> We never hire unvetted roadside laborers. Every porter, packer, carpenter, and driver is an employee who has undergone stringent background checks and practical skills training.</p>
         <p><strong>3. Comprehensive All-Risk Transit Insurance:</strong> We provide full transit insurance coverage backed by leading national insurance providers. In the unlikely event of highway damage or unforeseen incidents, claims are resolved swiftly with complete financial transparency.</p>
         <p><strong>4. Dedicated Move Manager:</strong> From your initial inquiry to final sign-off, a single dedicated logistics coordinator manages your booking, schedules vehicle arrival, tracks highway transit, and updates you proactively at every milestone.</p>

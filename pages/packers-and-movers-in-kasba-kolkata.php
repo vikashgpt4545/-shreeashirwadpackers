@@ -808,7 +808,7 @@
         <div class="ksb-grid-2" style="margin-top: 36px;">
             <div>
                 <h3 style="font-size:1.35rem; color:#0f2b48; font-weight:700; margin-bottom:12px;">Interstate Network & Regional Authority</h3>
-                <p>Relocating across state borders from Kasba is straightforward and reliable with our established logistics network. Anchored by our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"><strong>Packers and Movers in Ranchi</strong></a>, we maintain regular dedicated linehaul services linking East Kolkata to major destinations across Eastern, Northern, and Central India.</p>
+                <p>Relocating across state borders from Kasba is straightforward and reliable with our established logistics network. Anchored by our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/"><strong>Packers and Movers in Ranchi</strong></a>, we maintain regular dedicated linehaul services linking East Kolkata to major destinations across Eastern, Northern, and Central India.</p>
                 <p>Every interstate consignment travels in dedicated sealed container vehicles under the supervision of verified linehaul drivers, complete with real-time transit telemetry and comprehensive transit insurance for complete cargo peace of mind.</p>
             </div>
             <div>

@@ -447,8 +447,8 @@ require_once BASE_PATH . '/includes/config.php';
             <p>Access our high-authority route manuals and essential moving guides connecting Ranchi to major financial and industrial metropolitan hubs:</p>
             <div class="rmrg-cluster-links">
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-andheri-mumbai">Movers in Andheri Mumbai</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane-mumbai">Movers in Thane Mumbai</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-andheri-west-mumbai">Movers in Andheri Mumbai</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Movers in Thane Mumbai</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-navi-mumbai">Movers in Navi Mumbai</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-shifting-guide">Ranchi to Delhi Shifting Guide</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-movers-guide">Ranchi to Kolkata Movers Guide</a>

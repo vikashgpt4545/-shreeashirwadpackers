@@ -490,7 +490,7 @@ include_once ROOT_PATH . '/includes/header.php';
         
         <h3 style="color: #1e293b; font-size: 1.25rem; font-weight: 700; text-align: center; margin: 24px 0 12px;">Decade-Long Heritage & Complete Transit Security</h3>
         
-        <p class="s14g-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, our Sector 14 branch has served local families, businessmen, and civil service officers for over a decade. We combine traditional white-glove packaging craftsmanship with modern container vehicles and hydraulic handling dollies. Furthermore, our inter-state network seamlessly connects Sector 14 households to Eastern India via our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, backed by comprehensive transit insurance and clear written quotes.</p>
+        <p class="s14g-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, our Sector 14 branch has served local families, businessmen, and civil service officers for over a decade. We combine traditional white-glove packaging craftsmanship with modern container vehicles and hydraulic handling dollies. Furthermore, our inter-state network seamlessly connects Sector 14 households to Eastern India via our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, backed by comprehensive transit insurance and clear written quotes.</p>
 
         <div class="s14g-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting in Sector 14 Gurgaon" width="580" height="360">

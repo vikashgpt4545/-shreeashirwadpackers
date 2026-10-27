@@ -700,7 +700,7 @@
 
     <div class="patm-faq-item">
       <div class="patm-faq-question">Can you handle relocations from Pattom to other Kerala districts or interstate?</div>
-      <p>Yes. In addition to intra-city moves across Thiruvananthapuram, we run daily scheduled routes connecting Pattom to Kollam, Kochi, Thrissur, Kozhikode, and Kannur, as well as regular interstate corridors to Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+      <p>Yes. In addition to intra-city moves across Thiruvananthapuram, we run daily scheduled routes connecting Pattom to Kollam, Kochi, Thrissur, Kozhikode, and Kannur, as well as regular interstate corridors to Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
     </div>
 
     <div class="patm-faq-item">

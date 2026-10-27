@@ -688,7 +688,7 @@ require_once BASE_PATH . '/includes/config.php';
             <p>Every field crew member undergoes background verification and police clearance. We sign formal Non-Disclosure Agreements (NDAs), establish serialized physical container seals, and allow your company security officers to travel in our escort vehicles. Detailed sign-off manifests accompany every asset from point of de-installation to destination handover.</p>
         </div>
 
-        <p>Need temporary secure storage for surplus office furniture or phased data center decommissionings? Explore our <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing" style="color: #1d4ed8; font-weight: 700; text-decoration: underline;">secure storage and warehousing facilities</a>, review our <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" style="color: #1d4ed8; font-weight: 700; text-decoration: underline;">business shifting services</a>, and use our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #1d4ed8; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> to budget your commercial move with precision.</p>
+        <p>Need temporary secure storage for surplus office furniture or phased data center decommissionings? Explore our <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing" style="color: #1d4ed8; font-weight: 700; text-decoration: underline;">secure storage and warehousing facilities</a>, review our <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" style="color: #1d4ed8; font-weight: 700; text-decoration: underline;">business shifting services</a>, and use our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #1d4ed8; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> to budget your commercial move with precision.</p>
 
         <!-- Section 7: FAQs -->
         <h2 class="dcso-section-heading">Frequently Asked Questions: Data Center &amp; Office Moving</h2>
@@ -729,7 +729,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/interstate-bike-parcel-and-courier-service">Interstate Vehicle &amp; Two-Wheeler Logistics</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/">Comprehensive Business Shifting Services</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Packers and Movers Charges Per KM Rate Card</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Packers Headquarters &amp; Central Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Packers Headquarters &amp; Central Hub</a>
             </div>
         </div>
 

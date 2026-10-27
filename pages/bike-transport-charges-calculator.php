@@ -431,10 +431,10 @@ require_once BASE_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/car-transportation-cost-calculator">Car Shipping Calculator</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Per KM Rate Breakdown</a>
             <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/">Vehicle Carrier Service</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">Packers & Movers Ranchi HQ</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Ranchi Local Tariff Card</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-relocation-guide">Ranchi to Patna Corridor</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-relocation-guide">Ranchi to Kolkata Corridor</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers">Ranchi to Patna Corridor</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers">Ranchi to Kolkata Corridor</a>
         </div>
     </div>
 

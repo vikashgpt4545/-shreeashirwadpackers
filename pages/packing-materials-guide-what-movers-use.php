@@ -240,7 +240,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>Low-cost rogue movers routinely deceive customers by quoting low rates while utilizing discarded second-hand boxes sourced from local liquor, cigarette, and grocery markets in Upper Bazar. These boxes suffer from compromised fiber integrity, residual grease odors, and will collapse when stacked under the weight of three or four boxes inside a truck container.</p>
                         <div class="pmgm-highlight">
                             <h4>The Shree Ashirwad Quality Guarantee</h4>
-                            <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, every carton, bubble roll, and roll of stretch film is 100% factory-virgin industrial grade, ensuring unyielding structural strength and zero odor contamination.</p>
+                            <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, every carton, bubble roll, and roll of stretch film is 100% factory-virgin industrial grade, ensuring unyielding structural strength and zero odor contamination.</p>
                         </div>
                     </div>
                     <div class="pmgm-img-box">
@@ -474,7 +474,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Relocation Guides & Neighborhood Hubs</h3>
                 <p>Discover localized moving solutions and expert packing tutorials across Ranchi:</p>
                 <div class="pmgm-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-pack-kitchen-for-moving">How to Pack Kitchen</a>
@@ -483,8 +483,8 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-home-shifting-ranchi">Complete Guide Home Shifting</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">New House Shifting Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers Dhanbad</a>
                 </div>
             </section>

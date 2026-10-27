@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     The 115-kilometer highway route follows the Ranchi-Tata NH-33 corridor past Namkum, Bundu, Tamar, and Chowka, before diverting along the Kandra-Saraikela highway directly into Saraikela town. While the highway distance is moderate, road surfaces vary through busy highway intersections and market bottlenecks. Shree Ashirwad Packers and Movers eliminates transit hazards by deploying dedicated, enclosed container vehicles driven by experienced logistics personnel who understand the local terrain.
                 </p>
                 <p>
-                    In Ranchi, our doorstep loading services encompass all major localities including Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Satellite Township, MECON Colony, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, and Tupudana. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--ran-sar-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/saraikela-to-ranchi-packers-and-movers" style="color: var(--ran-sar-primary); font-weight: 600; text-decoration: underline;">Saraikela to Ranchi packers and movers</a> corridor with equal dedication. In Saraikela-Kharsawan district, we deliver directly to Saraikela town, DC Office/Collectorate staff quarters, Court Colony, Kandra Industrial Area, Dugni, Sini Railway Colony, Kharsawan, and Titirbila.
+                    In Ranchi, our doorstep loading services encompass all major localities including Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Satellite Township, MECON Colony, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, and Tupudana. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--ran-sar-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/saraikela-to-ranchi-packers-and-movers" style="color: var(--ran-sar-primary); font-weight: 600; text-decoration: underline;">Saraikela to Ranchi packers and movers</a> corridor with equal dedication. In Saraikela-Kharsawan district, we deliver directly to Saraikela town, DC Office/Collectorate staff quarters, Court Colony, Kandra Industrial Area, Dugni, Sini Railway Colony, Kharsawan, and Titirbila.
                 </p>
                 <p>
                     Our trained crews handle every item with professional care. From heavy double-door refrigerators and teakwood beds to fragile glass displays and home temple murtis, everything is packed using high-grade multi-layer cushioning, loaded using hand trucks, and safely anchored inside our closed trucks.
@@ -995,7 +995,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Saraikela to Ranchi (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ran-sar-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="ran-sar-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

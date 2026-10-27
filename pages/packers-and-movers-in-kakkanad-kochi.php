@@ -501,7 +501,7 @@
 
     <h3>Strategic Integration with Metropolitan Kochi & Tech Corridors</h3>
     <p>Operating as a key pillar under our primary authority hub for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kochi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Kochi</a>, our Kakkanad facility provides continuous connectivity across Ernakulam's prime residential hubs. We maintain daily synchronization with our retail and residential specialists at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-edappally-kochi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Edappally</a>, central city moves via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kaloor-kochi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Kaloor</a>, and industrial cargo channels through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aluva-kochi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Aluva</a>.</p>
-    <p>For IT professionals transferring between national tech corridors such as Bangalore, Hyderabad, Pune, or Chennai, or moving back to Eastern India, our direct closed container trucks offer reliable transit back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>For IT professionals transferring between national tech corridors such as Bangalore, Hyderabad, Pune, or Chennai, or moving back to Eastern India, our direct closed container trucks offer reliable transit back to our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
   </section>
 
   <!-- Section 2: Comprehensive Services -->
@@ -652,7 +652,7 @@
 
     <h3>Direct Highway Links to Neighboring Districts & Interstate Capitals</h3>
     <p>From Kakkanad, the Seaport-Airport Road provides direct, bypass-free access north toward Aluva, Angamaly, and Cochin International Airport (Nedumbassery), connecting smoothly with NH 544 toward Thrissur and Coimbatore.</p>
-    <p>Heading south, the expressway connects smoothly with the Kochi Bypass (NH 66) toward Alappuzha, Kollam, and Thiruvananthapuram. For IT executives relocating to Eastern and Northern India, our dedicated lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Heading south, the expressway connects smoothly with the Kochi Bypass (NH 66) toward Alappuzha, Kollam, and Thiruvananthapuram. For IT executives relocating to Eastern and Northern India, our dedicated lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>With real-time GPS tracking enabled on all vehicles, you receive immediate milestone updates throughout your goods' journey.</p>
   </section>
 
@@ -680,7 +680,7 @@
       </div>
     </div>
 
-    <p>Whether relocating locally within Kakkanad or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether relocating locally within Kakkanad or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With over a decade of proven expertise and thousands of successful domestic and corporate relocations executed across South, East, and Central India, our Kakkanad branch brings enterprise-grade logistics directly to your doorstep with guaranteed delivery schedules.</p>
   </section>
 
@@ -727,7 +727,7 @@
         <a class="kkn-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore Metro Hub</a>
         <a class="kkn-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hyderabad">Hyderabad Metro Hub</a>
         <a class="kkn-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Chennai Metro Hub</a>
-        <a class="kkn-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Head Office Hub</a>
+        <a class="kkn-cluster-link" href="<?php echo SITE_BASE_URL; ?>/">Ranchi Head Office Hub</a>
       </div>
     </div>
   </section>

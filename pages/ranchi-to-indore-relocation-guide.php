@@ -223,7 +223,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>The relocation corridor connecting Ranchi to Indore links Jharkhand's mineral and administrative capital with Madhya Pradesh's financial powerhouse and India's consistently ranked cleanest city. Recognized as the only Indian city hosting both an Indian Institute of Technology (IIT Indore) and an Indian Institute of Management (IIM Indore), Indore attracts leading researchers, academicians, and business leaders from all corners of India.</p>
                         <p>In addition, Indore's thriving Super Corridor tech hub (housing major delivery campuses for TCS, Infosys, and Tech Mahindra) and the sprawling Pithampur Auto & Pharma Cluster (often called the Detroit of India) generate constant corporate and executive transfers from Ranchi's public sector and industrial enclaves. Traversing roughly 1,120 kilometers along national highway corridors, a dedicated closed container truck dispatched from Ranchi completes linehaul transit in 30 to 38 driving hours, ensuring reliable 48- to 72-hour door-to-door handovers with zero multiple transshipments.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our Central & Western Linehaul Wing deploys company-owned closed container vehicles, experienced in-house packaging teams, and end-to-end GPS monitoring to guarantee a damage-free relocation.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our Central & Western Linehaul Wing deploys company-owned closed container vehicles, experienced in-house packaging teams, and end-to-end GPS monitoring to guarantee a damage-free relocation.</p>
                         <div class="rind-highlight">
                             <h4>Calculate Transparent Ranchi to Indore Shifting Tariffs</h4>
                             <p>Verify customized pricing for your exact household volume via our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Interstate Relocation Tariff Calculator</a>.</p>
@@ -442,7 +442,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Interstate Relocation Guides, Neighborhoods & Services</h3>
                 <p>Plan your long-distance relocation with authentic corridor manuals, moving cost calculators, and local guides:</p>
                 <div class="rind-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-relocation-guide">Ranchi to Bhopal Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-nagpur-relocation-guide">Ranchi to Nagpur Guide</a>
@@ -451,9 +451,9 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-guide-ranchi">Bike Transport Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/insurance-household-goods-transit-guide">Transit Insurance Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/corporate-relocation-handbook-hr">Corporate HR Shifting</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
                 </div>
             </section>
         </div>

@@ -533,7 +533,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <p class="rkl-body-p">Whether you are an engineer moving residences to an executive bungalow in Civil Township, a senior SAIL manager transferring between steel township sectors, a faculty researcher relocating to the premier campus of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">NIT Rourkela</a>, or a manufacturing enterprise dispatching machinery to the Kalunga industrial cluster, Shree Ashirwad Packers and Movers delivers unmatched precision, punctuality, and zero-damage execution.</p>
 
-                <p class="rkl-body-p">Affiliated directly with our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> and our state authority hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a>, we provide standardized transparent quotes, complete transit risk insurance, and customized packing protocols tailored to Rourkela’s distinctive demographics.</p>
+                <p class="rkl-body-p">Affiliated directly with our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> and our state authority hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a>, we provide standardized transparent quotes, complete transit risk insurance, and customized packing protocols tailored to Rourkela’s distinctive demographics.</p>
             </section>
 
             <!-- Section 2: Specialized Local Capabilities -->
@@ -721,7 +721,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="rkl-image-caption">All-weather container delivery vehicles ensuring seamless door-to-door transit across Rourkela Steel City</div>
                 </div>
 
-                <p class="rkl-body-p">Operating along the golden National Highway 143, Biju Expressway, and State Highway corridors, we offer high-frequency scheduled runs connecting Rourkela to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar Smart Hub</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack City Hub</a>, Sambalpur, Jharsuguda, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
+                <p class="rkl-body-p">Operating along the golden National Highway 143, Biju Expressway, and State Highway corridors, we offer high-frequency scheduled runs connecting Rourkela to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar Smart Hub</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack City Hub</a>, Sambalpur, Jharsuguda, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
 
                 <p class="rkl-body-p">Our direct highway corridor between Rourkela and Ranchi operates on a 6-to-8 hour guaranteed schedule. Families moving between the Steel City and Jharkhand's capital enjoy seamless doorstep packing in the morning and evening unloading at their new destination.</p>
             </section>
@@ -762,7 +762,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h3 class="rkl-cluster-title">Connected Regional Corridors & Sister Authority Hubs</h3>
                 <p class="rkl-body-p">Discover our high-frequency relocation routes and sister hubs connecting Rourkela across Odisha, Jharkhand, West Bengal, and Eastern India:</p>
                 <div class="rkl-cluster-grid">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="rkl-cluster-link">Ranchi Corporate HQ (165 km)</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="rkl-cluster-link">Ranchi Corporate HQ (165 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" class="rkl-cluster-link">Bhubaneswar Smart Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" class="rkl-cluster-link">Cuttack City Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="rkl-cluster-link">Kolkata Authority Hub</a>

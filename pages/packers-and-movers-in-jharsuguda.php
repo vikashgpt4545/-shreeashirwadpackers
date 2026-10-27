@@ -701,14 +701,14 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="jsg-section-title">Highway Logistics & Intercity Corridor Connectivity</h2>
                 <p class="jsg-lead-p">Positioned along the 4-lane Biju Expressway (SH-10) and National Highway 49, Jharsuguda serves as Western Odisha's primary multi-modal transport hub connecting metal industries to major national freight corridors.</p>
 
-                <p class="jsg-body-p">Our regular container linehaul fleet operates round-the-clock runs connecting Jharsuguda to the steel metropolis of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">Rourkela</a> (~100 km), the industrial sister hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur" style="color: #1e3a8a; font-weight: 600;">Sambalpur</a> (~50 km), the power hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul" style="color: #1e3a8a; font-weight: 600;">Angul</a>, the capital hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a>, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
+                <p class="jsg-body-p">Our regular container linehaul fleet operates round-the-clock runs connecting Jharsuguda to the steel metropolis of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">Rourkela</a> (~100 km), the industrial sister hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur" style="color: #1e3a8a; font-weight: 600;">Sambalpur</a> (~50 km), the power hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul" style="color: #1e3a8a; font-weight: 600;">Angul</a>, the capital hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a>, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
 
                 <div class="jsg-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Jharsuguda">
                     <div class="jsg-image-caption">Weatherproof sealed container vehicle operating interstate highway routes across Western Odisha</div>
                 </div>
 
-                <p class="jsg-body-p">Relocating between Jharsuguda and Jharkhand? Our direct corridor connects Jharsuguda to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> via Sundargarh, Hatia checkpoints, and NH-143 (completed within 7 to 9 hours door-to-door). Real-time GPS tracking and dedicated move managers ensure that you receive live SMS and WhatsApp status updates as your consignment approaches destination checkpoints.</p>
+                <p class="jsg-body-p">Relocating between Jharsuguda and Jharkhand? Our direct corridor connects Jharsuguda to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> via Sundargarh, Hatia checkpoints, and NH-143 (completed within 7 to 9 hours door-to-door). Real-time GPS tracking and dedicated move managers ensure that you receive live SMS and WhatsApp status updates as your consignment approaches destination checkpoints.</p>
 
                 <p class="jsg-body-p">We also run high-frequency direct routes connecting Jharsuguda westward to Raigarh, Bilaspur, and Raipur (Chhattisgarh), and eastward to Kharagpur and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" style="color: #1e3a8a; font-weight: 600;">Kolkata</a> via NH-49 with guaranteed departure schedules and comprehensive transit risk insurance coverage.</p>
 
@@ -756,7 +756,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul" class="jsg-cluster-link">Angul Power Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" class="jsg-cluster-link">Bhubaneswar Capital Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" class="jsg-cluster-link">Cuttack Judicial Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="jsg-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="jsg-cluster-link">Ranchi Corporate HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jsg-cluster-link">Live Rate Calculator</a>
                 </div>
             </div>

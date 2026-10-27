@@ -833,7 +833,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <strong>Noida City Hub</strong>
                 <span>Direct Transit via Metro Blue Line</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="utn-cluster-card">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="utn-cluster-card">
                 <strong>Ranchi Headquarters</strong>
                 <span>Company Main Authority & Eastern Logistics Hub</span>
             </a>

@@ -223,7 +223,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Ranchi's commercial profile has undergone a dramatic transformation over the last decade. Beyond its historical identity as the administrative capital of Jharkhand and headquarters of major mining and public sector giants (such as Central Coalfields Limited, MECON, and CMPDI), the city has emerged as a thriving regional corporate hub. Commercial hubs across Main Road (including GEL Church Complex, Roshpa Tower, City Centre, and Sri Gopal Complex), Lalpur Circular Road (Hari Om Tower and Nucleus Mall office towers), the prestigious corporate enclaves of Ashok Nagar, and the Namkum STPI (Software Technology Parks of India) host regional banking headquarters, IT delivery centers, fintech startups, engineering consultants, and telecom regional offices.</p>
                         <p>When an enterprise or professional firm relocates in Ranchi, every hour of operational downtime directly translates into revenue loss, missed customer deliverables, billable hour leakage, and disrupted internal communications. An unplanned IT network outage or a damaged database server chassis can freeze organizational operations for days. Achieving a zero-downtime transition requires treating commercial relocation not as a simple trucking job, but as an advanced engineering, facilities migration, and chronological cutover project.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our dedicated Commercial Relocation Division has successfully relocated over 350 corporate offices, commercial branch banks, pathology lab facilities, and technology teams across Jharkhand. We execute precision project management models, customized asset tagging systems, and synchronized weekend execution protocols designed to keep your business operating without interruption.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our dedicated Commercial Relocation Division has successfully relocated over 350 corporate offices, commercial branch banks, pathology lab facilities, and technology teams across Jharkhand. We execute precision project management models, customized asset tagging systems, and synchronized weekend execution protocols designed to keep your business operating without interruption.</p>
                         <div class="orpr-highlight">
                             <h4>Calculate Commercial Corporate Shifting Estimates</h4>
                             <p>Plan your commercial facility budget with transparent corporate rates via our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -424,7 +424,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Corporate Relocation Guides, Neighborhoods & Services</h3>
                 <p>Access specialized corporate logistics manuals and commercial moving calculators:</p>
                 <div class="orpr-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/household-storage-guide-ranchi">Commercial Storage Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-pack-electronics">How to Pack Electronics</a>
@@ -432,9 +432,9 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/loading-unloading-labour-guide">Commercial Labour Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-choose-packers-and-movers">How to Choose Movers</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/transfer-allowance-reimbursement-guide">Corporate Transfer Guide</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-main-road-ranchi">Packers Main Road Ranchi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur">Packers and Movers Lalpur</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar">Packers Ashok Nagar</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers Main Road Ranchi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur-ranchi">Packers and Movers Lalpur</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi">Packers Ashok Nagar</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum">Packers and Movers Namkum</a>
                 </div>
             </section>

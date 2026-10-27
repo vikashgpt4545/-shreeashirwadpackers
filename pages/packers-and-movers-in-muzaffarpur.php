@@ -599,7 +599,7 @@
                     Executing smooth moves across Muzaffarpur requires intimate local knowledge of its unique urban layout. In upscale residential sectors such as <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mithanpura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Mithanpura</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-brahampura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Brahampura</a>, spacious multi-storey apartment complexes allow straightforward container truck placement and hydraulic lifts. In contrast, older commercial quarters feature tight lanes where our nimble mini-vans collect goods doorstep-to-doorstep, transferring them smoothly to interstate containers stationed at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-zero-mile-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Zero Mile</a>.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally within Muzaffarpur or coordinating an interstate relocation, our operations integrate directly with our regional network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Gaya</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally within Muzaffarpur or coordinating an interstate relocation, our operations integrate directly with our regional network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Gaya</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -939,7 +939,7 @@
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" class="mzf-cluster-link">Packers and Movers in Gaya</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darbhanga" class="mzf-cluster-link">Packers and Movers in Darbhanga</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" class="mzf-cluster-link">Packers and Movers in Bhagalpur</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mzf-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="mzf-cluster-link">Packers and Movers in Ranchi (HQ)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mzf-cluster-link">Live Rate Calculator</a>
             </div>
         </div>

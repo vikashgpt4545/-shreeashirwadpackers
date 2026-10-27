@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="kgp-section-title">Professional Packing and Moving Services in Kharagpur</h2>
                 <p class="kgp-lead-p">Kharagpur stands as one of Eastern India's most prominent technological, industrial, and railway transportation junctions in the Paschim Medinipur district of West Bengal. Globally renowned as the birthplace of India's premier technical institute—Indian Institute of Technology (IIT Kharagpur)—and home to one of the world's longest railway platforms and largest railway workshops under the South Eastern Railway (SER), Kharagpur represents an energetic confluence of academia, heavy engineering, and multi-state transport corridors. Moving within or out of Kharagpur demands moving partners with verified industrial credentials, academic care, and highway excellence.</p>
                 
-                <p class="kgp-body-p">At Shree Ashirwad Packers and Movers, we have served the Kharagpur community for over sixteen years. Whether you are an IIT faculty member relocating from campus quarters in Hijli to an executive bungalow in Prem Bazar, a railway officer on transfer to a new divisional headquarters, or a commercial enterprise expanding near Vidyasagar Industrial Park, our trained moving crews deliver exceptional precision. Coordinated closely with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door logistics across national highways.</p>
+                <p class="kgp-body-p">At Shree Ashirwad Packers and Movers, we have served the Kharagpur community for over sixteen years. Whether you are an IIT faculty member relocating from campus quarters in Hijli to an executive bungalow in Prem Bazar, a railway officer on transfer to a new divisional headquarters, or a commercial enterprise expanding near Vidyasagar Industrial Park, our trained moving crews deliver exceptional precision. Coordinated closely with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door logistics across national highways.</p>
 
                 <div class="kgp-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Kharagpur">
@@ -633,7 +633,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="kgp-highlight-desc">Because Kharagpur experiences strong sub-tropical monsoons, our closed container trucks are sealed with watertight rubber gaskets, ensuring zero water ingress during transit.</div>
                 </div>
 
-                <p class="kgp-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
+                <p class="kgp-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
 
                 <p class="kgp-body-p">We also provide optional value-added services such as pre-move deep cleaning, wall mount television bracket de-installation, split air conditioner gas sealing and dismantling by certified HVAC technicians, and short-term secure household warehousing at fully covered, CCTV-monitored storage facilities.</p>
             </section>
@@ -737,7 +737,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="kgp-cluster-link">Durgapur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="kgp-cluster-link">Asansol Rail Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri" class="kgp-cluster-link">Siliguri North Bengal Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="kgp-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="kgp-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

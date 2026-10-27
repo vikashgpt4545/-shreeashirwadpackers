@@ -731,7 +731,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruchirappalli";
         <p>Tiruchirappalli serves as the central transportation crossroads of Tamil Nadu. NH 45 (GST Road) provides direct high-speed access northeastward to Villupuram, Chengalpattu, and Chennai, and southwestward to Dindigul, Madurai, and Theni. NH 83 connects westward toward Karur and Coimbatore, and eastward toward Thanjavur and Nagapattinam. These wide arterial corridors allow our moving containers to dispatch without transit delays.</p>
 
         <div class="tcp-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d2840; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Trichy directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d2840; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Trichy directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Tiruchirappalli</h3>

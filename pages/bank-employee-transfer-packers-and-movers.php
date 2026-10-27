@@ -319,7 +319,7 @@ require_once BASE_PATH . '/includes/config.php';
         <h3>Connected Financial & Institutional Resources</h3>
         <p style="margin: 0 0 16px; font-size: 0.94rem; color: #475569;">Explore specialized corporate shifting resources, pricing tools, and regional relocation authority hubs:</p>
         <div class="bnk-cluster-links">
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">Packers & Movers Ranchi HQ</a>
             <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/psu-and-government-employee-relocation-ranchi">PSU & Govt Employee Moving</a>
             <a href="<?php echo SITE_BASE_URL; ?>/defence-and-army-cantt-relocation-ranchi">Defence & Cantt Shifting</a>

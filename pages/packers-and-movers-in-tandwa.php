@@ -394,7 +394,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-tandwa"
                 <h2 class="tdw-section-title">Professional Moving Services in Tandwa, Chatra</h2>
                 <p>Tandwa in Chatra district has rapidly transformed into one of Eastern India's most critical energy and industrial centers. Housing the landmark 1,980 MW supercritical <strong>NTPC North Karanpura Super Thermal Power Plant</strong> and the expansive <strong>CCL Amrapali and Magadh coal mining operations</strong>, the town witnesses continual transfers of corporate executives, power station engineers, heavy equipment technicians, and contractor families.</p>
                 <p><strong>Shree Ashirwad Packers and Movers</strong> delivers customized packing and relocation solutions in Tandwa. We understand the specific geographic logistics of Chatra’s mining corridors, hilly highway connections via Barkagaon and Keredari, and the stringent security gate protocols required inside NTPC residential compounds.</p>
-                <p>Whether you are shifting locally within Tandwa or transferring to major regional cities such as <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hazaribagh">Hazaribagh</a>, or to our parent district authority page at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chatra">Packers and Movers in Chatra</a>, our experienced fleet guarantees punctual and zero-damage execution.</p>
+                <p>Whether you are shifting locally within Tandwa or transferring to major regional cities such as <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hazaribagh">Hazaribagh</a>, or to our parent district authority page at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chatra">Packers and Movers in Chatra</a>, our experienced fleet guarantees punctual and zero-damage execution.</p>
             </div>
             <div>
                 <div class="tdw-image-box">
@@ -580,7 +580,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-tandwa"
             <div class="tdw-cluster-grid">
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chatra">Packers and Movers in Chatra</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hazaribagh">Packers and Movers in Hazaribagh</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koderma">Packers and Movers in Koderma</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-latehar">Packers and Movers in Latehar</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Packers and Movers in Bokaro</a>

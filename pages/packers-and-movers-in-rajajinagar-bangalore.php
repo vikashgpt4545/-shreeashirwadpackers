@@ -763,7 +763,7 @@ require_once ROOT_PATH . '/includes/header.php';
 
         <div class="rjn-faq-item">
             <h3>Do you provide interstate shifting from Rajajinagar Bangalore to North or East India?</h3>
-            <p>Yes, we provide direct long-distance container truck transport linking Bangalore to Jharkhand, Bihar, Bengal, Uttar Pradesh, and Delhi NCR, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> with 100% comprehensive transit insurance.</p>
+            <p>Yes, we provide direct long-distance container truck transport linking Bangalore to Jharkhand, Bihar, Bengal, Uttar Pradesh, and Delhi NCR, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> with 100% comprehensive transit insurance.</p>
         </div>
 
         <div class="rjn-faq-item">

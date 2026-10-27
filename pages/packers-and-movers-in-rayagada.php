@@ -539,7 +539,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="ryg-section-title">Professional Relocation Expertise Across Southern Odisha</h2>
                 <p class="ryg-lead-p">Rayagada occupies an extraordinary geographic and economic position in Southern Odisha. Situated amidst the scenic hill ranges of the Eastern Ghats along the sacred Nagavali River, Rayagada has developed into one of Eastern India's most prominent industrial capitals. Renowned globally for the sprawling JK Paper Mills complex at Jaykaypur—one of Asia's largest integrated paper and pulp production facilities—and the mega alumina refinery of Utkal Alumina International Limited (Aditya Birla Group) at Doraguda/Tikiri, the region boasts an exceptional concentration of manufacturing, chemical engineering, and mining operations.</p>
                 <p class="ryg-body-p">Additionally, Rayagada serves as a vital railway divisional junction on the East Coast Railway's Raipur-Vizianagaram mainline. This brings continuous rotational transfers among railway administrative officials, paper technology engineers, chemical scientists, and public sector bank managers. Navigating relocations in Rayagada requires exceptional expertise with mountain highway logistics, as trucks frequently traverse the ghat roads of National Highway 326 and State Highway 4 connecting to Berhampur, Koraput, and Andhra Pradesh.</p>
-                <p class="ryg-body-p">Shree Ashirwad Packers and Movers brings verified logistical infrastructure to Rayagada. Whether shifting homes inside modern townships like Jaykaypur, Raniguda Farm, and Sai Priya Nagar or coordinating long-distance highway transit, our specialized teams link Rayagada seamlessly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur">Berhampur</a> (200 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur">Sambalpur</a> (280 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (360 km), Visakhapatnam, Raipur, and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p class="ryg-body-p">Shree Ashirwad Packers and Movers brings verified logistical infrastructure to Rayagada. Whether shifting homes inside modern townships like Jaykaypur, Raniguda Farm, and Sai Priya Nagar or coordinating long-distance highway transit, our specialized teams link Rayagada seamlessly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur">Berhampur</a> (200 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur">Sambalpur</a> (280 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (360 km), Visakhapatnam, Raipur, and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="ryg-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods container loading in Rayagada" width="580" height="380" loading="lazy">
@@ -789,7 +789,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" class="ryg-cluster-link">Bhubaneswar Authority Hub (360 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" class="ryg-cluster-link">Movers in Cuttack (385 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" class="ryg-cluster-link">Movers in Rourkela (390 km)</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ryg-cluster-link">Ranchi Headquarters Hub</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="ryg-cluster-link">Ranchi Headquarters Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ryg-cluster-link">Live Tariff Calculator</a>
                 </div>
             </section>
@@ -828,7 +828,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 Regional Rayagada Hub: NH-326 Bypass, Raniguda Farm, Rayagada, Odisha - 765001.<br>
                 Helpline: +91 93344 60424<br>
                 Email: info@shreeashirwadpackers.com</p>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ryg-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="ryg-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>
         </aside>
     </div>

@@ -501,7 +501,7 @@
 
     <h3>Strategic Integration with Metropolitan Kochi & Adjacent Neighborhoods</h3>
     <p>Operating under our central authority hub for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kochi" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Kochi</a>, our Thrikkakara branch coordinates tightly with surrounding urban clusters. We collaborate seamlessly with IT employees moving toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kakkanad-kochi" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Kakkanad</a>, retail and family shifting via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-edappally-kochi" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Edappally</a>, junction relocations with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-palarivattom-kochi" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Palarivattom</a>, stadium corridor moves via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kaloor-kochi" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Kaloor</a>, and northern transit links with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aluva-kochi" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Aluva</a>.</p>
-    <p>Whether you are moving into faculty housing near CUSAT, an apartment near the Civil Station, or an independent house near Thrikkakara Temple, our experienced crews provide thorough on-site consultations, premium packaging materials, and swift transit. For families moving interstate across India, our closed container fleet provides seamless connectivity back to our national headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Whether you are moving into faculty housing near CUSAT, an apartment near the Civil Station, or an independent house near Thrikkakara Temple, our experienced crews provide thorough on-site consultations, premium packaging materials, and swift transit. For families moving interstate across India, our closed container fleet provides seamless connectivity back to our national headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
   </section>
 
   <!-- Section 2: Comprehensive Shifting Services -->
@@ -652,7 +652,7 @@
 
     <h3>Seamless Statewide & Interstate Relocation Networks</h3>
     <p>From Thrikkakara, our container vehicles connect quickly to the NH 544 corridor heading north toward Thrissur, Palakkad, and Coimbatore, or join Seaport-Airport Road south toward Maradu and NH 66.</p>
-    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>With real-time GPS tracking enabled on all vehicles, you receive immediate milestone updates throughout your goods' journey.</p>
   </section>
 
@@ -680,7 +680,7 @@
       </div>
     </div>
 
-    <p>Whether relocating locally within Thrikkakara or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether relocating locally within Thrikkakara or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #10b981; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With a 98.7% on-time delivery record and thousands of satisfied residential and corporate clients across South India, our Thrikkakara team is ready to deliver an exceptional moving experience. From packing delicate academic books and lab equipment to moving heavy sofas, dining tables, and electronic appliances, our specialized movers ensure a flawless moving journey.</p>
   </section>
 
@@ -727,7 +727,7 @@
         <a class="tkk-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kaloor-kochi">Kaloor Locality Hub</a>
         <a class="tkk-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aluva-kochi">Aluva Locality Hub</a>
         <a class="tkk-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kadavanthra-kochi">Kadavanthra Locality Hub</a>
-        <a class="tkk-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Head Office Hub</a>
+        <a class="tkk-cluster-link" href="<?php echo SITE_BASE_URL; ?>/">Ranchi Head Office Hub</a>
       </div>
     </div>
   </section>

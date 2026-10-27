@@ -590,7 +590,7 @@
                     Our operations at Zero Mile serve as the primary consolidation point for our Muzaffarpur network. Feeder mini-trucks bringing goods from tight inner-city lanes in Mithanpura, Motijheel, and Brahampura transfer items into our heavy-duty long-distance closed containers right here at Zero Mile, eliminating delays and ensuring prompt highway departures.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Our Zero Mile terminal coordinates directly with our city authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, sister locality hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mithanpura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Mithanpura</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-brahampura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Brahampura</a>, and corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Our Zero Mile terminal coordinates directly with our city authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Muzaffarpur</a>, sister locality hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mithanpura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Mithanpura</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-brahampura-muzaffarpur" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Brahampura</a>, and corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -928,7 +928,7 @@
             <div>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" class="zmm-cluster-link">Packers and Movers in Patna</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" class="zmm-cluster-link">Packers and Movers in Gaya</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="zmm-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="zmm-cluster-link">Packers and Movers in Ranchi (HQ)</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="zmm-cluster-link">Live Rate Calculator</a>
             </div>
         </div>

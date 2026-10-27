@@ -497,7 +497,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="npd-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Naupada Thane.</p>
         </div>
 
-        <p>Operating in close synergy with our primary authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a> and linking to our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across Thane, traveling into Mumbai, or executing an interstate transfer.</p>
+        <p>Operating in close synergy with our primary authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a> and linking to our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across Thane, traveling into Mumbai, or executing an interstate transfer.</p>
 
         <p>Every move is supervised by an experienced on-site coordinator who oversees every phase from pre-move survey to final furniture placement, ensuring your precious home possessions arrive in flawless condition.</p>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Pune Authority Hub</a>
             </div>
             <div class="npd-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Central HQ</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi Central HQ</a>
             </div>
         </div>
 

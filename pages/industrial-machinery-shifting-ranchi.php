@@ -492,7 +492,7 @@ $canonical_url = "https://shreeashirwadpackers.com/industrial-machinery-shifting
                 <p><strong>Regional Heavy Manufacturing Corridors:</strong> Adityapur Industrial Area (Asia’s largest MSME belt in Jamshedpur), Bokaro Industrial Area (BIADA), Dhanbad Mining Machinery Cluster, Ramgarh Steel Belt, and Patratu Thermal Power Zone.</p>
                 <div class="ims-highlight-box">
                     <h4>Pillar Authority Hub</h4>
-                    <p>Learn about our city-wide infrastructure on our central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar page.</p>
+                    <p>Learn about our city-wide infrastructure on our central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar page.</p>
                 </div>
             </div>
             <div>

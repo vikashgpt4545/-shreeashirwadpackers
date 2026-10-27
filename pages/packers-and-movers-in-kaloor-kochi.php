@@ -501,7 +501,7 @@
 
     <h3>Strategic Integration with Metropolitan Kochi & Surrounding Hubs</h3>
     <p>Operating as an integral branch of our primary authority hub for <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kochi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Kochi</a>, our Kaloor branch maintains direct logistical synergy with neighboring commercial and residential corridors. We coordinate seamlessly with retail and residential moves through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-edappally-kochi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Edappally</a>, tech migrations with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kakkanad-kochi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Kakkanad</a>, and northern transit links via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aluva-kochi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Aluva</a>.</p>
-    <p>Whether you reside along Kaloor-Kadavanthra Road or operate a commercial clinic near Lisie Junction, our crews provide dedicated site evaluations, premium packing supplies, and seamless transport. For families moving interstate to Eastern or Northern India, our dedicated closed container fleet provides seamless transit back to our national headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Whether you reside along Kaloor-Kadavanthra Road or operate a commercial clinic near Lisie Junction, our crews provide dedicated site evaluations, premium packing supplies, and seamless transport. For families moving interstate to Eastern or Northern India, our dedicated closed container fleet provides seamless transit back to our national headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
   </section>
 
   <!-- Section 2: Comprehensive Shifting Services -->
@@ -652,7 +652,7 @@
 
     <h3>Seamless Statewide & Interstate Relocation Networks</h3>
     <p>From Kaloor, our container vehicles connect quickly to the NH 66 corridor heading south toward Alappuzha, Kollam, and Thiruvananthapuram, or follow NH 544 toward Thrissur, Palakkad, and Coimbatore.</p>
-    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>For long-distance corporate and family relocations heading north and east, our direct lines connect directly back to our corporate hub via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>With real-time GPS tracking enabled on all vehicles, you receive immediate milestone updates throughout your goods' journey.</p>
   </section>
 
@@ -680,7 +680,7 @@
       </div>
     </div>
 
-    <p>Whether relocating locally within Kaloor or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether relocating locally within Kaloor or moving cross-country back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d9488; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics team guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With a 98.7% on-time delivery record and thousands of satisfied residential and corporate clients across South India, our Kaloor team is ready to deliver an exceptional moving experience. From packing fine chinaware and delicate electronic appliances to moving heavy modular cots and fitness equipment, our specialized movers ensure a flawless moving journey.</p>
   </section>
 
@@ -727,7 +727,7 @@
         <a class="klro-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore Metro Hub</a>
         <a class="klro-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Chennai Metro Hub</a>
         <a class="klro-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-coimbatore">Coimbatore Authority Hub</a>
-        <a class="klro-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Head Office Hub</a>
+        <a class="klro-cluster-link" href="<?php echo SITE_BASE_URL; ?>/">Ranchi Head Office Hub</a>
       </div>
     </div>
   </section>

@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <div class="cng-highlight-box">
                     <div class="cng-highlight-title">Direct Hooghly-Kolkata Express Corridor Network</div>
-                    <p class="cng-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> and primary terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah">Howrah</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bally-howrah">Bally</a>, our vehicles provide dependable point-to-point movement across GT Road and Delhi Highway to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman">Bardhaman</a> without cargo transshipment.</p>
+                    <p class="cng-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> and primary terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah">Howrah</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bally-howrah">Bally</a>, our vehicles provide dependable point-to-point movement across GT Road and Delhi Highway to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman">Bardhaman</a> without cargo transshipment.</p>
                 </div>
 
                 <p class="cng-body-p">The residential and commercial fabric of Chandannagar encompasses diverse urban settings—from the historic colonial avenues near Strand Road, Church Gate, and Barabazar, to the bustling residential neighborhoods of Urdi Bazar, Hatkhola, and Fatokgora, alongside the modern suburban corridors in Mankundu and Bidhannagar. Our trained handling squads possess deep local familiarity with municipal regulations, riverfront heritage road restrictions, and narrow alley turns, ensuring smooth and punctual moving operations.</p>
@@ -812,7 +812,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah" class="cng-cluster-link">Howrah Transit Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bally-howrah" class="cng-cluster-link">Bally River Corridor</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="cng-cluster-link">Kolkata Metro Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cng-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="cng-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

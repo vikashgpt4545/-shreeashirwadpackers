@@ -1065,7 +1065,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                         <span>Adityapur to Ghatshila</span>
                         <i class="fa-solid fa-arrow-right"></i>
                     </a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/ghatshila-to-jamshedpur-packers-and-movers" class="ght-adi-cluster-link">
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur" class="ght-adi-cluster-link">
                         <span>Ghatshila to Jamshedpur</span>
                         <i class="fa-solid fa-arrow-right"></i>
                     </a>

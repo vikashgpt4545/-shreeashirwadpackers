@@ -614,7 +614,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-vigyan-nagar-kota";
             <h2 class="vgy-section-heading">Modern Transport Fleet with Pan-India Connectivity</h2>
             <p>Our transportation wing maintains an extensive fleet of closed-body container trucks, ranging from compact light commercial vehicles ideal for Vigyan Nagar's lively street network to 24-foot heavy-duty container trucks built for intercity express highway haulage.</p>
             <p>Every commercial carrier is outfitted with real-time GPS telemetry, allowing our centralized dispatch hub to monitor vehicle speed, driving behavior, and route deviations 24 hours a day, providing continuous transit visibility to clients.</p>
-            <p>Anchored by our corporate operational headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, Shree Ashirwad Packers and Movers delivers nationwide logistical capabilities with localized attention to detail across every corner of Kota.</p>
+            <p>Anchored by our corporate operational headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, Shree Ashirwad Packers and Movers delivers nationwide logistical capabilities with localized attention to detail across every corner of Kota.</p>
         </div>
     </section>
 

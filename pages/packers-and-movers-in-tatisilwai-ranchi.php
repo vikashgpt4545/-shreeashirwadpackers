@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -467,7 +467,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-tts-section">
       <h2>Professional Moving Services in Eastern Ranchi's Industrial Powerhouse</h2>
       <p>Tatisilwai represents the vibrant manufacturing, heavy engineering, and industrial heart of Greater Ranchi. Situated eastward along the vital Purulia Road (State Highway 1) connecting Ranchi with Purulia and West Bengal, and intersecting seamlessly with the eastern junction of the 6-lane Ranchi Ring Road, Tatisilwai is globally renowned as the manufacturing home of Usha Martin Limited—one of the world's largest manufacturers of specialty wire ropes and steel cords. In addition to this flagship facility, Tatisilwai hosts large industrial complexes including Hindalco facilities, polymer manufacturing plants, high-tension wire manufacturing units, packaging factories, and extensive logistics warehouses. Surrounding this vibrant manufacturing ecosystem are expansive staff housing colonies, engineer quarters, executive bungalows, and growing residential pockets around Tatisilwai Railway Station.</p>
-      <p>Relocating in Tatisilwai requires dual operational competence: heavy industrial machinery handling for manufacturing units and white-glove residential moving for plant managers, corporate executives, and technical staff. Industrial moves demand multi-ton rigging equipment, crane lifters, and specialized low-bed trailers capable of handling delicate electronic panels, cable spools, and heavy machine tools. Concurrently, employee household moves require high-grade packaging materials, skilled furniture carpentry, and certified IBA-approved billing compliant with corporate reimbursement procedures. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served the industrial and residential community in Tatisilwai for over a decade with unmatched dependability and zero damage guarantees.</p>
+      <p>Relocating in Tatisilwai requires dual operational competence: heavy industrial machinery handling for manufacturing units and white-glove residential moving for plant managers, corporate executives, and technical staff. Industrial moves demand multi-ton rigging equipment, crane lifters, and specialized low-bed trailers capable of handling delicate electronic panels, cable spools, and heavy machine tools. Concurrently, employee household moves require high-grade packaging materials, skilled furniture carpentry, and certified IBA-approved billing compliant with corporate reimbursement procedures. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers Ranchi</a>, Shree Ashirwad Packers and Movers has served the industrial and residential community in Tatisilwai for over a decade with unmatched dependability and zero damage guarantees.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->
@@ -711,7 +711,7 @@ include_once __DIR__ . '/../includes/config.php';
       <p>In addition to serving Tatisilwai, we provide prompt, verified home relocation across all key residential and commercial sectors of Ranchi:</p>
       <div class="hl-tts-grid-2">
         <div class="hl-tts-card">
-          <h4><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum-ranchi" style="color: #1e3a5f; text-decoration: underline;">Packers and Movers in Namkum Ranchi</a></h4>
+          <h4><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum" style="color: #1e3a5f; text-decoration: underline;">Packers and Movers in Namkum Ranchi</a></h4>
           <p>Military station cantonment and research institute moving with CDA-compliant billing and secure container transit.</p>
         </div>
         <div class="hl-tts-card">

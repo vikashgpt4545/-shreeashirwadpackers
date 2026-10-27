@@ -690,7 +690,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
 
-        <p>Planning an interstate move from Goa to Mumbai or Pune? Explore our dedicated corridor services on <a href="<?php echo SITE_BASE_URL; ?>/goa-to-mumbai-packers-and-movers" style="color: #0f766e; font-weight: 700; text-decoration: underline;">Goa to Mumbai packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/goa-to-pune-packers-and-movers" style="color: #0f766e; font-weight: 700; text-decoration: underline;">Goa to Pune packers and movers</a>, and review our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #0f766e; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for complete route planning.</p>
+        <p>Planning an interstate move from Goa to Mumbai or Pune? Explore our dedicated corridor services on <a href="<?php echo SITE_BASE_URL; ?>/goa-to-mumbai-packers-and-movers" style="color: #0f766e; font-weight: 700; text-decoration: underline;">Goa to Mumbai packers and movers</a>, <a href="<?php echo SITE_BASE_URL; ?>/goa-to-pune-packers-and-movers" style="color: #0f766e; font-weight: 700; text-decoration: underline;">Goa to Pune packers and movers</a>, and review our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #0f766e; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for complete route planning.</p>
 
         <!-- Section 6: FAQs -->
         <h2 class="goah-section-heading">Frequently Asked Questions: Packers and Movers in Goa</h2>
@@ -731,7 +731,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service">Single Item Furniture Shifting Services</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing">Household Storage &amp; Warehousing Facility</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Packers and Movers Charges Per KM Rate Card</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Packers Central Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Packers Central Headquarters</a>
             </div>
         </div>
 

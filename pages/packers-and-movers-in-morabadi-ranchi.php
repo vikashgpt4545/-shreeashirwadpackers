@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -581,7 +581,7 @@ include_once __DIR__ . '/../includes/config.php';
       <h2>Trusted Local Relocation Specialists in Morabadi, Ranchi</h2>
       <p>Morabadi is widely recognized as one of the most culturally distinguished, green, and elite residential localities in Ranchi. Centered around the iconic Morabadi Ground and the historic Tagore Hill where Jyotirindranath Tagore once resided, this upscale neighborhood is home to senior university professors, distinguished government officials, defense veterans, healthcare leaders, and thriving business families. The locality features a graceful blend of spacious independent bungalows, elegant duplex villas, and contemporary multi-story apartment complexes located along Tagore Hill Road, Boreya Road, Hill View Road, and Karamtoli Chowk.</p>
 
-      <p>Moving home or setting up a new residence in Morabadi demands exceptional care, punctuality, and specialized material handling skills. The neighborhood's quiet tree-lined avenues, private gated residential lanes, and modern high-rise apartments require moving crews who understand how to maneuver safely through narrow driveways, protect polished marble flooring, safeguard residential elevator interiors, and execute quiet, respectful moving operations. Shree Ashirwad Packers and Movers brings over a decade of dedicated moving experience as the most reliable <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, ensuring that every piece of furniture, high-end appliance, and personal heirloom is packed and transported with flawless precision.</p>
+      <p>Moving home or setting up a new residence in Morabadi demands exceptional care, punctuality, and specialized material handling skills. The neighborhood's quiet tree-lined avenues, private gated residential lanes, and modern high-rise apartments require moving crews who understand how to maneuver safely through narrow driveways, protect polished marble flooring, safeguard residential elevator interiors, and execute quiet, respectful moving operations. Shree Ashirwad Packers and Movers brings over a decade of dedicated moving experience as the most reliable <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">movers and packers Ranchi</a>, ensuring that every piece of furniture, high-end appliance, and personal heirloom is packed and transported with flawless precision.</p>
 
       <div class="hl-mrb-img-card">
         <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Moving Truck Serving Morabadi Ranchi">

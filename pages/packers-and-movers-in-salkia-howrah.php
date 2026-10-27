@@ -835,7 +835,7 @@
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dum-dum-kolkata" class="ska-cluster-link">Dum Dum North Kolkata</a>
             <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="ska-cluster-link">Kolkata to Ranchi Route</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="ska-cluster-link">Ranchi to Kolkata Route</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ska-cluster-link">Company HQ Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="ska-cluster-link">Company HQ Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ska-cluster-link">Live Tariff Calculator</a>
             <span class="ska-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Bally Howrah Hub (Upcoming)</span>
         </div>

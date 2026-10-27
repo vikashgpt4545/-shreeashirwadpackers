@@ -611,7 +611,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-maratha
 
       <p class="mhl-p">Marathahalli is intrinsically connected to Bangalore's most prominent technology hubs. Our daily shuttle routes link Marathahalli directly with Whitefield, Bellandur, Sarjapur Road, Electronic City, and Indiranagar. Whether your relocation is prompted by a job change to an adjacent tech park or moving into a newly acquired home, our regional network provides rapid, punctual relocation services.</p>
 
-      <p class="mhl-p">For long-distance transfers beyond Karnataka, our interstate operations provide weekly scheduled container departures connecting Bangalore to Chennai, Hyderabad, Mumbai, Pune, Delhi NCR, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2b6cb0; font-weight: 700;">Packers and Movers in Ranchi</a>. Every interstate move is backed by comprehensive transit insurance and dedicated telephonic support.</p>
+      <p class="mhl-p">For long-distance transfers beyond Karnataka, our interstate operations provide weekly scheduled container departures connecting Bangalore to Chennai, Hyderabad, Mumbai, Pune, Delhi NCR, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2b6cb0; font-weight: 700;">Packers and Movers in Ranchi</a>. Every interstate move is backed by comprehensive transit insurance and dedicated telephonic support.</p>
 
       <div class="mhl-cluster-links">
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" class="mhl-cluster-badge">Bangalore Central Hub</a>
@@ -620,7 +620,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-maratha
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hsr-layout-bangalore" class="mhl-cluster-badge">HSR Layout</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koramangala-bangalore" class="mhl-cluster-badge">Koramangala</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mhl-cluster-badge">Charges Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mhl-cluster-badge">Company HQ (Ranchi)</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="mhl-cluster-badge">Company HQ (Ranchi)</a>
       </div>
     </section>
   </div>

@@ -61,6 +61,10 @@ AddDefaultCharset UTF-8
 # 301 Permanent Redirects for 9 Core Services to Canonical Trailing Slash
 RewriteRule ^(residential-shifting|business-shifting|vehicle-shifting|packing-and-unpacking|loading-and-unloading-services|warehouse-service|international-service|domestics-service|insurance-service)(/index)?(\.php)?$ /$1/ [R=301,L]
 
+# 301 Permanent Redirects for Legacy HTML Files
+RewriteRule ^index\.html$ / [R=301,L]
+RewriteRule ^contact-us\.html$ /contact [R=301,L]
+
 # 301 Permanent Redirects to Rescue Historical Backlinks from External Domains
 RewriteRule ^packers-and-movers-in-dhanbad-for-home-and-vehicles-move(\.php)?/?$ /packers-and-movers-in-dhanbad [R=301,L]
 RewriteRule ^hire-packers-and-movers-in-jamshedpur-jharkhand(\.php)?/?$ /packers-and-movers-in-jamshedpur [R=301,L]

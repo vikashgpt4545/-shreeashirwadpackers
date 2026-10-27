@@ -635,7 +635,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="mtg-highlight-desc">Moving out of Siliguri on corporate transfer? We issue GST-compliant tax invoices, consignment notes (LR copy), itemized packing lists, and transit insurance certificates required for official expense claims.</div>
                 </div>
 
-                <p class="mtg-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our containerized vehicles travel directly without intermediate transshipment, ensuring unmatched security and timely arrival.</p>
+                <p class="mtg-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our containerized vehicles travel directly without intermediate transshipment, ensuring unmatched security and timely arrival.</p>
 
                 <p class="mtg-body-p">Beyond Uttarayon, our moving crews frequently operate across growing suburban communities including Khaprail Road villas, Dagapur tea garden facing homes, and the Kawakhali housing layout. We also provide specialized handling for potted balcony plants, terrace nursery collections, and family pets, ensuring every element of your home transitions comfortably to your new address.</p>
             </section>
@@ -738,7 +738,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah" class="mtg-cluster-link">Howrah City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="mtg-cluster-link">Durgapur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="mtg-cluster-link">Asansol Rail Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mtg-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="mtg-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

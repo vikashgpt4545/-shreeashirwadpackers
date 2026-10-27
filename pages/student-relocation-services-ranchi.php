@@ -493,7 +493,7 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
                 <p><strong>Major Student PG Localities:</strong> Lalpur Chowk, Circular Road, Morabadi, Dangratoli, Harmu, Doranda, Kokar, and Bariatu.</p>
                 <div class="stu-highlight-box">
                     <h4>Looking for Long-Distance Corridor Tariffs?</h4>
-                    <p>Check out our comprehensive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Guide</a> and our centralized <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar page.</p>
+                    <p>Check out our comprehensive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Guide</a> and our centralized <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar page.</p>
                 </div>
             </div>
             <div>

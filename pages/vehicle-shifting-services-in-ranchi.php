@@ -1362,8 +1362,8 @@ $meta_keywords = "vehicle shifting services in ranchi, vehicle shifting in ranch
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="vsr-tag-pill" title="Household Shifting Services in Ranchi">Household Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="vsr-tag-pill" title="Local Shifting Services in Ranchi">Local Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/office-shifting-services-in-ranchi" class="vsr-tag-pill" title="Office Shifting Services in Ranchi">Office Shifting in Ranchi</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="vsr-tag-pill" title="Professional Packers and Movers in Ranchi">Professional Movers in Ranchi</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="vsr-tag-pill" title="Packers and Movers in Ranchi Jharkhand">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="vsr-tag-pill" title="Professional Packers and Movers in Ranchi">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="vsr-tag-pill" title="Packers and Movers in Ranchi Jharkhand">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service" class="vsr-tag-pill" title="Warehousing Solutions">Vehicle Storage & Warehousing</a>
           <a href="<?php echo SITE_BASE_URL; ?>/warehouse-services-in-ranchi" class="vsr-tag-pill" style="color: #ff6a28; font-weight: 700;" title="Warehouse Services in Ranchi">Warehouse Services in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="vsr-tag-pill" style="color: #ff6a28; font-weight: 700;" title="Ranchi to Patna Packers and Movers">Ranchi to Patna Vehicle Moving</a>

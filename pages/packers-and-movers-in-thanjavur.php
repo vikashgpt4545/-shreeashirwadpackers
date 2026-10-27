@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thanjavur";
         <p>Thanjavur functions as the pivotal transportation hub of the fertile Cauvery Delta region. NH 83 provides a high-speed 4-lane expressway westward directly to Tiruchirappalli (Trichy) and eastward to Tiruvarur and Nagapattinam. NH 36 connects northward through Kumbakonam toward Panruti, Vikravandi, and Chennai, and southward toward Pudukkottai and Manamadurai. State Highway 26 links smoothly toward Pattukkottai and the coastal towns. This comprehensive arterial network ensures that our moving trucks navigate safely to any destination in Tamil Nadu and across India.</p>
 
         <div class="tjv-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #7b341e; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Thanjavur directly to Jharkhand, Bihar, Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #7b341e; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Thanjavur directly to Jharkhand, Bihar, Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Thanjavur</h3>

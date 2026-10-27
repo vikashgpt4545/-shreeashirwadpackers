@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="gkp-intro-p">At Shree Ashirwad Packers and Movers, our dedicated Gorakhpur branch coordinates residential moves, government postings, medical faculty transfers, and industrial logistics with verified precision. From the commercial energy of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-golghar-gorakhpur">Golghar</a> to the upscale lakefront residential towers of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-taramandal-gorakhpur">Taramandal</a>, our certified staff delivers an effortless moving experience.</p>
 
-        <p class="gkp-intro-p">Whether you are shifting locally within Gorakhpur, commuting toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-varanasi">Varanasi</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ayodhya">Ayodhya</a>, or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a>, or relocating interstate to Bihar or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our comprehensive logistics network provides unmatched peace of mind.</p>
+        <p class="gkp-intro-p">Whether you are shifting locally within Gorakhpur, commuting toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-varanasi">Varanasi</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ayodhya">Ayodhya</a>, or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a>, or relocating interstate to Bihar or <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our comprehensive logistics network provides unmatched peace of mind.</p>
     </section>
 
     <!-- Section 2: Core Relocation Services -->
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="gkp-intro-p">Our localized familiarity ensures that no time is wasted seeking addresses or negotiating residential gates. Our drivers are intimately familiar with local no-entry timings, morning school traffic schedules, and optimal parking spots across Gorakhpur.</p>
 
-        <p class="gkp-intro-p">For clients moving to other regional hubs in Purvanchal or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
+        <p class="gkp-intro-p">For clients moving to other regional hubs in Purvanchal or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
     </section>
 
     <!-- Section 4: Transparent Tariff Structure -->
@@ -731,7 +731,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow" class="gkp-link-card">Lucknow State Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" class="gkp-link-card">Patna Bihar Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-deoria" class="gkp-link-card">Deoria Sugar Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="gkp-link-card">Ranchi Head Office Hub</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="gkp-link-card">Ranchi Head Office Hub</a>
         </div>
     </section>
 

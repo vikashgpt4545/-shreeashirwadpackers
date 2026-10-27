@@ -732,7 +732,7 @@ require_once ROOT_PATH . '/includes/config.php';
             </div>
             <div class="ggn-card">
                 <h3>Direct Pan-India Highway Corridors</h3>
-                <p>Direct routes from Gurgaon to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, plus direct links to Patna, Jamshedpur, and Dhanbad.</p>
+                <p>Direct routes from Gurgaon to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, plus direct links to Patna, Jamshedpur, and Dhanbad.</p>
             </div>
         </div>
 
@@ -789,7 +789,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-palam-vihar-gurgaon" class="ggn-cluster-link">Palam Vihar Gurgaon</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida" class="ggn-cluster-link">Noida Authority Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-greater-noida" class="ggn-cluster-link">Greater Noida Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ggn-cluster-link">Company Headquarters (Ranchi)</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="ggn-cluster-link">Company Headquarters (Ranchi)</a>
         </div>
     </section>
 

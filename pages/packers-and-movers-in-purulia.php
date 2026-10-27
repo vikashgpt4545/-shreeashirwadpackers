@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <div class="prl-highlight-box">
                     <div class="prl-highlight-title">Strategic Border Corridor Advantage</div>
-                    <p class="prl-highlight-desc">Operating from our central regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our dedicated border-express vehicles navigate the Purulia-Ranchi highway (NH32/NH43), Bokaro Steel corridor, and Asansol connections with zero intermediate transshipment delays.</p>
+                    <p class="prl-highlight-desc">Operating from our central regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our dedicated border-express vehicles navigate the Purulia-Ranchi highway (NH32/NH43), Bokaro Steel corridor, and Asansol connections with zero intermediate transshipment delays.</p>
                 </div>
 
                 <p class="prl-body-p">The urban fabric of Purulia encompasses diverse residential pockets ranging from historical neighborhoods near the scenic Sahebbandh lake and Munshi Bazar to modern residential layouts in Raghabpur, Nilkuthidanga, Dulmi-Nadiha, Bhatbandh, and Simulia. Navigating these locales requires specialized moving vans that comfortably maneuver narrow bazaar streets, older municipal quarters, and newly developed gated colonies without disrupting neighborhood traffic.</p>
@@ -811,7 +811,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bankura" class="prl-cluster-link">Bankura City Authority</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="prl-cluster-link">Asansol Industrial Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="prl-cluster-link">Durgapur Steel Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="prl-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="prl-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

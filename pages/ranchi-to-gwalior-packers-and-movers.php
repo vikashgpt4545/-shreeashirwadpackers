@@ -1509,7 +1509,7 @@ require_once __DIR__ . '/includes/seo.php';
         Discover our dedicated interstate relocation corridors connecting Ranchi to major industrial, defense, and cultural centers across Madhya Pradesh, Uttar Pradesh, and neighboring states:
       </p>
       <div class="r2gwl-cluster-links">
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2gwl-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2gwl-cluster-link">Ranchi Headquarters</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2gwl-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jabalpur-packers-and-movers" class="r2gwl-cluster-link">Ranchi to Jabalpur</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-packers-and-movers" class="r2gwl-cluster-link">Ranchi to Bhopal</a>

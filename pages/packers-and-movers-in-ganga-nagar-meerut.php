@@ -562,7 +562,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="gnm-intro-p">Every relocation is supervised on-site by a trained logistics coordinator who ensures that furniture is padded before it leaves the front door and loaded systematically according to weight distribution inside our container trucks.</p>
 
-        <p class="gnm-intro-p">For interstate consignments heading to Delhi NCR, central Uttar Pradesh, or our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our sealed container network provides continuous milestone tracking and guaranteed arrival dates.</p>
+        <p class="gnm-intro-p">For interstate consignments heading to Delhi NCR, central Uttar Pradesh, or our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our sealed container network provides continuous milestone tracking and guaranteed arrival dates.</p>
     </section>
 
     <!-- Section 4: Transparent Tariff Structure -->
@@ -737,7 +737,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida" class="gnm-link-card">Noida Expressway Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="gnm-link-card">Delhi NCR Mega Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow" class="gnm-link-card">Lucknow State Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="gnm-link-card">Ranchi Head Office Hub</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="gnm-link-card">Ranchi Head Office Hub</a>
         </div>
     </section>
 

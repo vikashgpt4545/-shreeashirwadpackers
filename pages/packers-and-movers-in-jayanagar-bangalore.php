@@ -425,7 +425,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jayanag
       
       <p class="jyn-p">Every moving team dispatched to Jayanagar undergoes strict background checks and specialized training in soft-spoken customer care, mindful packing around elderly residents, and respectful handling of sacred pooja articles. We coordinate with local resident welfare associations across 4th Block, 5th Block, and 7th Block to ensure zero disturbance to neighbors and full compliance with community noise regulations.</p>
 
-      <p class="jyn-p">Through our comprehensive regional logistics network, we also bridge South Bangalore with our corporate headquarters in Jharkhand, coordinating seamless intercity shifting between Bangalore and eastern industrial hubs through our specialized <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a> operations with real-time GPS tracking and transit insurance protection.</p>
+      <p class="jyn-p">Through our comprehensive regional logistics network, we also bridge South Bangalore with our corporate headquarters in Jharkhand, coordinating seamless intercity shifting between Bangalore and eastern industrial hubs through our specialized <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a> operations with real-time GPS tracking and transit insurance protection.</p>
     </section>
 
     <!-- Section 2: Comprehensive Relocation Solutions -->
@@ -622,7 +622,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jayanag
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-indiranagar-bangalore" class="jyn-cluster-badge">Indiranagar Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hebbal-bangalore" class="jyn-cluster-badge">Hebbal Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jyn-cluster-badge">Live Rates Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="jyn-cluster-badge">Company HQ Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="jyn-cluster-badge">Company HQ Ranchi</a>
       </div>
     </section>
   </main>

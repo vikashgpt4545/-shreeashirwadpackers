@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Ranchi is situated at an elevation of 650 meters on the Chotanagpur plateau, where the southwest monsoon delivers intense rainfall between late June and late September. Sudden afternoon cloudbursts can drop 50 to 80 millimeters of torrential rain in under two hours, transforming street roads into swift waterways.</p>
                         <p>In low-lying residential sectors of Ranchi—such as parts of Harmu Housing Colony near the rivulet, Dangratoli, Sirmtoli Chowk, Namkum low-lands, and Kathal More—waterlogging and saturated red clay mud present severe logistical challenges. Moving house during this season without specialized waterproof wrapping guarantees soaked sofa foam, warped modular particle-board furniture, water-damaged LED screens, and mildew-infested wardrobes.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our monsoon moving fleet operates with 100% weather-sealed closed container bodies, multi-tier plastic shrink encapsulation, and industrial desiccant moisture absorbents, delivering an unblemished zero-water-damage safety record.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our monsoon moving fleet operates with 100% weather-sealed closed container bodies, multi-tier plastic shrink encapsulation, and industrial desiccant moisture absorbents, delivering an unblemished zero-water-damage safety record.</p>
                         <div class="mmtr-highlight">
                             <h4>Calculate Guaranteed All-Weather Relocation Rates</h4>
                             <p>Verify your transparent moving quote with all-weather waterproof packaging included using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -442,7 +442,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Seasonal Relocation Guides, Neighborhoods & Resources</h3>
                 <p>Plan your move across Ranchi with verified weather protocols and local area guides:</p>
                 <div class="mmtr-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/household-storage-guide-ranchi">Household Storage Guide</a>
@@ -450,10 +450,10 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-pack-fragile-items">How to Pack Fragile Items</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use">Packing Materials Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/insurance-household-goods-transit-guide">Transit Insurance Guide</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
                 </div>
             </section>
         </div>

@@ -971,7 +971,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
       <p style="font-size: 14px; color: #cbd5e1; margin-bottom: 10px;"><strong>Key Intercity Corridors from Pakur:</strong></p>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; font-size: 14px;">
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-pakur-to-ranchi" title="Packers and Movers Pakur to Ranchi" style="color: #ffaa7d; text-decoration: underline; font-weight: 700;">Packers and Movers Pakur to Ranchi</a> &bull;
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" title="Packers and Movers in Ranchi Jharkhand" style="color: #ffffff; text-decoration: none;">Packers and Movers in Ranchi</a> &bull;
+        <a href="<?php echo SITE_BASE_URL; ?>/" title="Packers and Movers in Ranchi Jharkhand" style="color: #ffffff; text-decoration: none;">Packers and Movers in Ranchi</a> &bull;
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-koderma-to-ranchi" title="Packers and Movers Koderma to Ranchi" style="color: #ffffff; text-decoration: none;">Koderma to Ranchi Movers</a> &bull;
         <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" title="Residential Shifting" style="color: #ffffff; text-decoration: none;">Residential Shifting</a>
       </div>

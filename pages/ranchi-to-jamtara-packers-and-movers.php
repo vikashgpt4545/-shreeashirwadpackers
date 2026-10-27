@@ -650,7 +650,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Ranchi Packers and Movers",
-                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
@@ -721,7 +721,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
     <div class="container">
         <ol class="breadcrumb" style="margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.9rem;">
             <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f766e; text-decoration: none;">Home</a> <span style="color: #94a3b8;">/</span></li>
-            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0f766e; text-decoration: none;">Ranchi</a> <span style="color: #94a3b8;">/</span></li>
+            <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f766e; text-decoration: none;">Ranchi</a> <span style="color: #94a3b8;">/</span></li>
             <li style="color: #64748b;" aria-current="page">Ranchi to Jamtara</li>
         </ol>
     </div>

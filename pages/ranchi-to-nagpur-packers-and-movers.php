@@ -689,7 +689,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="color: #9a3412; font-size: 1.3rem; margin-bottom: 10px;">Explore Our Complete Ranchi Relocation Network & Services</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Connect with our specialized moving services and other popular interstate linehaul corridors originating from Ranchi:</p>
     <div class="cluster-grid-nagpur">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-nagpur">Packers and Movers in Ranchi (Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-nagpur">Packers and Movers in Ranchi (Hub)</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-nagpur">Packers and Movers Charges in Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-nagpur">Complete Ranchi House Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gurgaon-packers-and-movers" class="cluster-link-nagpur">Ranchi to Gurgaon Linehaul Corridor</a>

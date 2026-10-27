@@ -1532,7 +1532,7 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
           <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" class="corporate-tag-pill" style="text-decoration:none;">Business Shifting Services</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="corporate-tag-pill" style="text-decoration:none;">Local Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="corporate-tag-pill" style="text-decoration:none;">Household Shifting Ranchi</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="corporate-tag-pill" style="text-decoration:none; font-weight:700; color:#ff6a28;">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="corporate-tag-pill" style="text-decoration:none; font-weight:700; color:#ff6a28;">Professional Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" class="corporate-tag-pill" style="text-decoration:none;">Residential Shifting</a>
           <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting-services-in-ranchi" class="corporate-tag-pill" style="text-decoration:none; font-weight:700; color:#ff6a28;">Residential Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/" class="corporate-tag-pill" style="text-decoration:none;">Warehouse & Commercial Storage</a>

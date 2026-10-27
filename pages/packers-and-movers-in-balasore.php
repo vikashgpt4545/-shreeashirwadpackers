@@ -701,14 +701,14 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="bls-section-title">Highway Logistics & Intercity Corridor Connectivity</h2>
                 <p class="bls-lead-p">Positioned along National Highway 16, Balasore serves as the vital transport pivot connecting Eastern Odisha, West Bengal, and the Chota Nagpur industrial belt of Jharkhand.</p>
 
-                <p class="bls-body-p">Our regular container linehaul fleet operates round-the-clock runs connecting Balasore to the capital authority hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a> (~200 km), the judicial center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack</a>, the southern commercial hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur" style="color: #1e3a8a; font-weight: 600;">Berhampur</a>, the spiritual coastal center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-puri" style="color: #1e3a8a; font-weight: 600;">Puri</a>, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
+                <p class="bls-body-p">Our regular container linehaul fleet operates round-the-clock runs connecting Balasore to the capital authority hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a> (~200 km), the judicial center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack</a>, the southern commercial hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur" style="color: #1e3a8a; font-weight: 600;">Berhampur</a>, the spiritual coastal center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-puri" style="color: #1e3a8a; font-weight: 600;">Puri</a>, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
 
                 <div class="bls-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Balasore">
                     <div class="bls-image-caption">Weatherproof sealed container vehicle operating interstate highway routes across Northern Odisha</div>
                 </div>
 
-                <p class="bls-body-p">Relocating between Balasore and Jharkhand? Our direct corridor connects Balasore to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> via Baripada, Hatia checkpoints, and NH-20 (completed within 8 to 10 hours door-to-door). Real-time GPS tracking and dedicated move managers ensure that you receive live SMS and WhatsApp status updates as your consignment approaches destination checkpoints.</p>
+                <p class="bls-body-p">Relocating between Balasore and Jharkhand? Our direct corridor connects Balasore to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> via Baripada, Hatia checkpoints, and NH-20 (completed within 8 to 10 hours door-to-door). Real-time GPS tracking and dedicated move managers ensure that you receive live SMS and WhatsApp status updates as your consignment approaches destination checkpoints.</p>
 
                 <p class="bls-body-p">We also run high-frequency direct routes connecting Balasore northward to the railway junction of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur" style="color: #1e3a8a; font-weight: 600;">Kharagpur</a> (~115 km via NH-16) and the mega metropolis of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" style="color: #1e3a8a; font-weight: 600;">Kolkata</a> (~240 km) with guaranteed departure schedules and comprehensive transit risk insurance coverage.</p>
 
@@ -756,7 +756,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur" class="bls-cluster-link">Kharagpur Engineering Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="bls-cluster-link">Kolkata Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-puri" class="bls-cluster-link">Puri Pilgrimage Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bls-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="bls-cluster-link">Ranchi Corporate HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bls-cluster-link">Live Rate Calculator</a>
                 </div>
             </div>

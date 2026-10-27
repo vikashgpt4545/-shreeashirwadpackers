@@ -398,7 +398,7 @@ $state_name = 'Punjab';
           <p>Ranjit Avenue is widely recognized as the most prestigious, meticulously planned commercial and high-end residential address in the holy city of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-amritsar" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Amritsar</a>. Developed in systematic sectors labeled Blocks A, B, C, D, and E, Ranjit Avenue combines state-of-the-art commercial high-rises, the sprawling District Shopping Complex, international hotels, and financial headquarters with opulent independent kothis, multi-story designer villas, and gated residential enclaves.</p>
           <p>The locality is home to Amritsar's most prominent industrial families, leading medical consultants, senior judicial officers, IT entrepreneurs, and affluent NRIs. Given the high concentration of valuable imported furnishings, Italian marble flooring, antique artwork, delicate crystal lighting, and sensitive electronics in Ranjit Avenue residences, shifting here requires elite white-glove packing standards and seasoned handlers who respect high-value assets.</p>
           <p>Navigating wide boulevards such as Circuit House Road, Ajnala Road, and Airport Road offers relatively smooth vehicular access; however, coordinating moves into secure gated communities and high-rise commercial towers demands elevator reservation coordination, rubberized floor surface protection runners, and disciplined container positioning. Our experienced ground crews specialize in frictionless moves that minimize disturbance to neighbors and building administrators.</p>
-          <p>Shree Ashirwad Packers and Movers brings over 22 years of verified moving excellence to Ranjit Avenue. Backed by our nationwide network and central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; font-weight: 700;">Shree Ashirwad Packers Ranchi</a>, we execute domestic home shifting, corporate relocations, and intercity container transport to Delhi NCR, Mumbai, Bangalore, Kolkata, and beyond with zero damage and supreme punctuality.</p>
+          <p>Shree Ashirwad Packers and Movers brings over 22 years of verified moving excellence to Ranjit Avenue. Backed by our nationwide network and central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 700;">Shree Ashirwad Packers Ranchi</a>, we execute domestic home shifting, corporate relocations, and intercity container transport to Delhi NCR, Mumbai, Bangalore, Kolkata, and beyond with zero damage and supreme punctuality.</p>
         </div>
         <div>
           <div class="rja-image-container">
@@ -648,7 +648,7 @@ $state_name = 'Punjab';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-batala" class="rja-cluster-link">Packers and Movers in Batala</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalandhar" class="rja-cluster-link">Packers and Movers in Jalandhar</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ludhiana" class="rja-cluster-link">Packers and Movers in Ludhiana</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="rja-cluster-link">Ranchi Headquarters Hub</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="rja-cluster-link">Ranchi Headquarters Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rja-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

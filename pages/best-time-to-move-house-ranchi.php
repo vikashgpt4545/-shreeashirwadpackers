@@ -223,7 +223,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Relocating your household is rarely just about packing boxes and loading a truck—it is an intricate logistical exercise heavily governed by calendar dynamics, climatic conditions, and real estate turnover. In Ranchi, the capital city of Jharkhand situated at an elevation of 650 meters on the Chotanagpur plateau, shifting house in mid-July feels vastly different from shifting in cool November or warm May.</p>
                         <p>Beyond weather variables, market pricing fluctuates dramatically throughout the year. Moving demand in Ranchi experiences sharp peaks driven by Central Government and PSU transfers (such as CCL Darbhanga House, MECON, SAIL R&D, CMPDI Kanke Road, and AG Office Doranda), university academic admissions, and residential tenancy lease terminations. Understanding these cycles allows smart homeowners to secure premier crew availability while saving 15% to 25% on overall shifting expenses.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our professional logistics advisors work closely with families across Harmu, Morabadi, Bariatu, Kanke, and Ashok Nagar to plan moves around optimal cost windows, dry weather periods, and stress-free schedules.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our professional logistics advisors work closely with families across Harmu, Morabadi, Bariatu, Kanke, and Ashok Nagar to plan moves around optimal cost windows, dry weather periods, and stress-free schedules.</p>
                         <div class="btmh-highlight">
                             <h4>Plan Your Move with Live Dynamic Tariff Data</h4>
                             <p>Check transparent shifting rates for any date window using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Moving Tariff Calculator</a>.</p>
@@ -486,7 +486,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Relocation Guides, Neighborhoods & Logistics Resources</h3>
                 <p>Plan your move across Ranchi with authoritative timing, cost, and route manuals:</p>
                 <div class="btmh-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/monsoon-moving-tips-ranchi">Monsoon Moving Tips Ranchi</a>
@@ -494,10 +494,10 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi">Mover Charges Breakdown</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">New House Shifting Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/transfer-allowance-reimbursement-guide">Transfer Allowance Guide</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
                 </div>
             </section>
         </div>

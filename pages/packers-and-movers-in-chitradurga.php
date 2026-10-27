@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chitradurga";
                 <li><strong>Wind & Solar Energy Logistics:</strong> Safe handling and transport of wind turbine components, electrical control panels, and substation equipment across the district.</li>
                 <li><strong>High-Velocity Wind-Proof Packaging:</strong> Multi-layer airtight stretch wrapping and sealed heavy-duty container trucks to shield consignments from fine dust and gusts.</li>
                 <li><strong>Direct Highway Shuttles:</strong> Daily dispatches along NH-48 connecting Chitradurga to Bangalore in under 4.5 hours and to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-davanagere">Davanagere</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a> in under 2 hours.</li>
-                <li><strong>Central Operations Oversight:</strong> End-to-end logistics coordination and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Central Operations Oversight:</strong> End-to-end logistics coordination and 24/7 shipment tracking managed through our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -773,7 +773,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chitradurga";
         </div>
         <div class="ctd-faq-item">
             <h3>Is transit insurance included for household relocations from Chitradurga?</h3>
-            <p>Yes, we provide 100% comprehensive all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we provide 100% comprehensive all-risk transit insurance policies with explicit itemized valuation receipts, backed by our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
         <div class="ctd-faq-item">
             <h3>Can you shift vehicles like cars and motorbikes from Chitradurga?</h3>

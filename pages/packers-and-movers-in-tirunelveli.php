@@ -731,7 +731,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tirunelveli";
         <p>Tirunelveli occupies an extraordinary geographic position at the southern vertex of Tamil Nadu. NH 44 runs directly northward toward Madurai, Dindigul, and Bangalore, and southward toward Nagercoil and Kanyakumari. NH 138 connects directly to the international sea port of Tuticorin (Thoothukudi), facilitating rapid sea freight and export logistics. SH 40 connects westward through Tenkasi toward Kollam and Kerala.</p>
 
         <div class="tnv-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #081c15; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Tirunelveli directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #081c15; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Tirunelveli directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Tirunelveli</h3>

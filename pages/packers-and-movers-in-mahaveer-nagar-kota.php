@@ -614,7 +614,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mahaveer-nagar-kota";
             <h2 class="mhv-section-heading">Dedicated Fleet Logistics & Real-Time Tracking</h2>
             <p>Our fleet features specialized closed-container vehicles capable of navigating Mahaveer Nagar's busy streets and Rangbari Road commercial corridors without creating vehicular bottlenecks.</p>
             <p>For intercity routes connecting Kota to eastern and northern states, our heavy-duty container carriers operate with real-time GPS telemetry, giving customers 24/7 visibility over their consignment's exact highway location.</p>
-            <p>Backed by our national corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, Shree Ashirwad Packers and Movers combines nationwide operational power with friendly, responsive local customer care.</p>
+            <p>Backed by our national corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, Shree Ashirwad Packers and Movers combines nationwide operational power with friendly, responsive local customer care.</p>
         </div>
     </section>
 

@@ -366,7 +366,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p>Our dedicated moving crew is rigorously trained in inventory cataloging, heavy furniture handling, fragile packaging, and secure loading. Whether shifting a cozy one-bedroom flat near Station Road or managing a complete bungalow move in Civil Lines, our operations ensure punctuality, safety, and transparent pricing. You can also review comprehensive relocation rates across North India via our transparent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">charges guide</a>.</p>
 
-        <p>Beyond its military and energy manufacturing sectors, Shahjahanpur features thriving educational colleges, healthcare institutions, and expanding residential sectors in Lodhipur and along Jalalabad Road. Our moving specialists use heavy-duty cardboard boxes, high-density bubble wrap, corner guards, and weatherproof transport covers to guarantee zero damage. For broader corporate relocation and network operations, visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi hub page</a>.</p>
+        <p>Beyond its military and energy manufacturing sectors, Shahjahanpur features thriving educational colleges, healthcare institutions, and expanding residential sectors in Lodhipur and along Jalalabad Road. Our moving specialists use heavy-duty cardboard boxes, high-density bubble wrap, corner guards, and weatherproof transport covers to guarantee zero damage. For broader corporate relocation and network operations, visit our <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi hub page</a>.</p>
 
         <div class="sjp-highlight-box">
             <h4>Defense and Industrial Relocation Specialists</h4>

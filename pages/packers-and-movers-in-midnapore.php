@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="mdp-section-title">Reliable Relocation Services in Midnapore (Medinipur)</h2>
                 <p class="mdp-lead-p">Midnapore, traditionally referred to as Medinipur, stands as the historic administrative, educational, and cultural headquarters of the Paschim Medinipur district in southern West Bengal. Located along the serene northern banks of the Kangsabati (Kasai) River, Midnapore holds profound historic significance in Bengal's renaissance and freedom movement. Today, the city thrives as an esteemed academic and administrative nexus anchored by Vidyasagar University, Midnapore College (Autonomous), Midnapore Medical College and Hospital, district courts, and traditional trading quarters. Across the river lies its industrial twin city Kharagpur, forming an integrated urban hub that demands moving services of verified integrity, academic delicacy, and swift transit capability.</p>
                 
-                <p class="mdp-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized packing experience to Midnapore. Whether you are relocating your family between apartments in Keranitola, transferring university faculty quarters from Rangamati, or moving across the Kangsabati bridge to its sister hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur">Packers and Movers in Kharagpur</a>, our trained moving crews execute every step with precision. Coordinated closely with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door relocation across India.</p>
+                <p class="mdp-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized packing experience to Midnapore. Whether you are relocating your family between apartments in Keranitola, transferring university faculty quarters from Rangamati, or moving across the Kangsabati bridge to its sister hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur">Packers and Movers in Kharagpur</a>, our trained moving crews execute every step with precision. Coordinated closely with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door relocation across India.</p>
 
                 <div class="mdp-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Midnapore">
@@ -633,7 +633,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="mdp-highlight-desc">Because Paschim Medinipur experiences intense summer heat followed by severe monsoons, our container trucks are fitted with watertight rubber gaskets, ensuring complete dryness for all household goods.</div>
                 </div>
 
-                <p class="mdp-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
+                <p class="mdp-body-p">For long-distance corridors heading toward our company headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> or western industrial hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol">Packers and Movers in Asansol</a>, our dedicated fleet ensures direct transit without intermediate transshipment.</p>
 
                 <p class="mdp-body-p">We also provide optional value-added services such as pre-move deep cleaning, wall mount television bracket de-installation, split air conditioner gas sealing and dismantling by certified HVAC technicians, and short-term secure household warehousing at fully covered, CCTV-monitored storage facilities.</p>
             </section>
@@ -738,7 +738,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman" class="mdp-cluster-link">Bardhaman City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur" class="mdp-cluster-link">Durgapur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" class="mdp-cluster-link">Asansol Rail Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="mdp-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="mdp-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

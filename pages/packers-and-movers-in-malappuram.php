@@ -509,7 +509,7 @@
     <div class="mlp-grid-2">
       <div>
         <p>Malappuram holds a dynamic position in Kerala's socio-economic landscape. With one of the highest expatriate populations across the Middle East, the district is celebrated for grand private villas, premier educational complexes like Inkel Greens Educity, world-famous Ayurvedic healing institutes at Kottakkal Arya Vaidya Sala, and the healthcare super-specialty corridor of Perinthalmanna.</p>
-        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Malappuram district.</p>
+        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Malappuram district.</p>
         <p>Whether you are moving a multi-story family bungalow in Munduparamba, relocating an NRI family returning from Dubai or Saudi Arabia, or transferring sensitive medical and corporate office equipment, our uniformed moving crew guarantees total safety and precision.</p>
       </div>
       <div>

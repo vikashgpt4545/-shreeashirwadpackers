@@ -539,7 +539,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-wakad-p
 
         <p>You can check complete inter-state freight calculation tables anytime on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Packers and Movers Charges Calculator</a>. Our written quotes itemize packaging materials, transportation freight, labor charges, and applicable toll expenses, so you know exactly what you are paying for.</p>
 
-        <p>In addition, our central company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> provides nationwide fleet logistics, guaranteeing that long-distance consignments receive uninterrupted tracking and timely door-to-door transit.</p>
+        <p>In addition, our central company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> provides nationwide fleet logistics, guaranteeing that long-distance consignments receive uninterrupted tracking and timely door-to-door transit.</p>
     </section>
 
     <!-- Section 4: Systematic Shifting Process -->

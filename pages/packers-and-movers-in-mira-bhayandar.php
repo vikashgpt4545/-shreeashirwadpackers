@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="mbh-image-caption">Experienced loading crews securing packed household consignments inside our weatherproof container trucks in Mira Bhayandar.</p>
         </div>
 
-        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-borivali-mumbai">Packers and Movers in Borivali</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Mira Bhayandar, connecting across MMR, or executing an interstate transfer across India.</p>
+        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-borivali-mumbai">Packers and Movers in Borivali</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Mira Bhayandar, connecting across MMR, or executing an interstate transfer across India.</p>
 
         <p>Every assignment is managed under the direct supervision of a dedicated relocation officer who coordinates every phase from pre-move survey to final furniture placement, ensuring your precious home possessions arrive in flawless condition. Whether shifting an apartment in Shanti Park or moving an industrial facility in Bhayandar East, our teams guarantee absolute reliability.</p>
     </section>
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-navi-mumbai">Packers Movers Navi Mumbai</a>
             </div>
             <div class="mbh-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

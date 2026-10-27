@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ranipet";
         <p>Ranipet occupies a prime location along the primary Chennai-Bangalore expressway corridor. NH 48 provides 6-lane connectivity east toward Kanchipuram and Chennai, and west toward Vellore, Hosur, and Bangalore. NH 40 connects north directly through Sholinghur toward Chittoor and Andhra Pradesh. State Highway 61 links south toward Cheyyar and Vandavasi. This excellent road infrastructure allows our container fleet to reach any Southern Indian trade center quickly and reliably.</p>
 
         <div class="rpt-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #364fc7; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Ranipet directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #364fc7; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Ranipet directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Ranipet</h3>

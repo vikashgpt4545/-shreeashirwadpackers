@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <p class="clk-image-caption">Shree Ashirwad crew carrying out careful white-glove packing and loading in Civil Lines Kanpur.</p>
         </div>
 
-        <p class="clk-intro-p">Whether you are a senior judicial officer transitioning bungalows, a corporate executive moving into an upscale apartment overlooking Green Park, or a family coordinating an inter-state transfer to Delhi NCR, Lucknow, or our corporate hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our teams manage every detail from beginning to end. We provide complete turnkey relocations including customized dismantling, protective packing, closed container transport, placement, and debris removal.</p>
+        <p class="clk-intro-p">Whether you are a senior judicial officer transitioning bungalows, a corporate executive moving into an upscale apartment overlooking Green Park, or a family coordinating an inter-state transfer to Delhi NCR, Lucknow, or our corporate hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our teams manage every detail from beginning to end. We provide complete turnkey relocations including customized dismantling, protective packing, closed container transport, placement, and debris removal.</p>
 
         <p class="clk-intro-p">Our commitment to transparency means you receive clear, all-inclusive quotations with zero surprise charges, official GST-compliant documentation for company and government reimbursements, and full transit risk protection for complete peace of mind throughout your relocation journey.</p>
     </section>

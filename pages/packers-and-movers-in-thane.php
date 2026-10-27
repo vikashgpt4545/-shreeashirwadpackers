@@ -497,7 +497,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="thn-image-caption">Professional loading and securing of household goods into our dedicated container trucks serving Thane West.</p>
         </div>
 
-        <p>Through our synchronized logistics network anchored alongside <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a> and our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, we deliver uncompromised transit reliability whether moving across the creek to Mulund, traveling down the expressway to Pune, or shifting cross-country.</p>
+        <p>Through our synchronized logistics network anchored alongside <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a> and our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we deliver uncompromised transit reliability whether moving across the creek to Mulund, traveling down the expressway to Pune, or shifting cross-country.</p>
 
         <p>Every move is managed under the direct supervision of a dedicated relocation coordinator who provides transparent milestones, real-time vehicle dispatch updates, and guaranteed peace of mind from initial estimate to final furniture arrangement.</p>
     </section>
@@ -729,7 +729,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Pune Authority Hub</a>
             </div>
             <div class="thn-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Central HQ</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi Central HQ</a>
             </div>
         </div>
 

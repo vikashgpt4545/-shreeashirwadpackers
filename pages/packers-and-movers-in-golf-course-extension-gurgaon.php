@@ -490,7 +490,7 @@ include_once ROOT_PATH . '/includes/header.php';
         
         <h3 style="color: #0f766e; font-size: 1.25rem; font-weight: 700; text-align: center; margin: 24px 0 12px;">White-Glove Protection & Society Protocol Expertise</h3>
         
-        <p class="gce-intro-p">Our crew understands that condominium estates along Golf Course Extension enforce stringent facility management bylaws. We coordinate prior gate passes, provide surface-protecting floor wraps, deploy pneumatic dollies, and ensure complete discretion. In addition, our robust inter-state transport network provides direct, reliable transit to Eastern India via our headquarters network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, backed by comprehensive transit risk insurance and binding written agreements.</p>
+        <p class="gce-intro-p">Our crew understands that condominium estates along Golf Course Extension enforce stringent facility management bylaws. We coordinate prior gate passes, provide surface-protecting floor wraps, deploy pneumatic dollies, and ensure complete discretion. In addition, our robust inter-state transport network provides direct, reliable transit to Eastern India via our headquarters network at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, backed by comprehensive transit risk insurance and binding written agreements.</p>
 
         <div class="gce-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Luxury apartment shifting crew on Golf Course Extension Road Gurgaon" width="580" height="360">

@@ -478,7 +478,7 @@ require_once __DIR__ . '/../includes/config.php';
       <div class="pbg-highlight-box">
         <p><strong>Custom Quotation Notice:</strong> Actual costs vary depending on consignment volume, floor height, access narrowness, custom wooden crating requirements, and overall transit distance. For a comprehensive cost calculation, visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">transparent shifting charges calculator</a> or call our Pan Bazaar service office for a complimentary pre-move assessment.</p>
       </div>
-      <p>For corporate relocations or long-distance intercity moves connecting to our eastern regional headquarters, explore our dedicated authority portal at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi</a>.</p>
+      <p>For corporate relocations or long-distance intercity moves connecting to our eastern regional headquarters, explore our dedicated authority portal at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi</a>.</p>
     </section>
 
     <!-- Section 3: Specialized Moving Services -->
@@ -629,7 +629,7 @@ require_once __DIR__ . '/../includes/config.php';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dispur-guwahati" class="pbg-cluster-link">Packers and Movers Dispur</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-khanapara-guwahati" class="pbg-cluster-link">Packers and Movers Khanapara</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pbg-cluster-link">Shifting Charges Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="pbg-cluster-link">Packers and Movers Ranchi HQ</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="pbg-cluster-link">Packers and Movers Ranchi HQ</a>
       </div>
       <div class="pbg-cluster-desc">
         <p>Shree Ashirwad Packers and Movers Pan Bazaar branch delivers certified legal chamber moving, academic relocation, executive home shifting, automobile container carriage, and climate-safe transit storage across Guwahati and pan-India destinations.</p>

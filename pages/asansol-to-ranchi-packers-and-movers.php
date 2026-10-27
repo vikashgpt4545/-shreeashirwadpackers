@@ -762,7 +762,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Ranchi Routes",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -1442,7 +1442,7 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our eastern regional relocation network connecting Jharkhand and West Bengal:
         </p>
         <div class="r2asn-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2asn-cluster-link">Ranchi Main Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2asn-cluster-link">Ranchi Main Hub</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-asansol-packers-and-movers" class="r2asn-cluster-link">Ranchi to Asansol</a>
           <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-ranchi-packers-and-movers" class="r2asn-cluster-link">Dhanbad to Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-durgapur-packers-and-movers" class="r2asn-cluster-link">Ranchi to Durgapur</a>

@@ -421,10 +421,10 @@ require_once BASE_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Ranchi Local Tariff Card</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-charges-calculator">Bike Charges Calculator</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transportation-cost-calculator">Car Shipping Calculator</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">Packers & Movers Ranchi HQ</a>
             <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/">Residential Shifting</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-relocation-guide">Ranchi to Patna Guide</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-relocation-guide">Ranchi to Delhi Guide</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers">Ranchi to Patna Guide</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-shifting-guide">Ranchi to Delhi Guide</a>
         </div>
     </div>
 

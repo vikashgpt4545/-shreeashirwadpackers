@@ -1390,7 +1390,7 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="m2r-cluster-box">
       <h3 class="m2r-cluster-title">Explore Related Interstate & Regional Moving Corridors</h3>
       <div class="m2r-links-grid">
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="m2r-cluster-link">
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="m2r-cluster-link">
           📍 Ranchi Movers Headquarters
         </a>
         <a href="<?php echo SITE_BASE_URL; ?>/pune-to-ranchi-packers-and-movers" class="m2r-cluster-link">

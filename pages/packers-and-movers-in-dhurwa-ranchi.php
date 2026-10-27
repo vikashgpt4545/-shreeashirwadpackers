@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -467,7 +467,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-dhr-section">
       <h2>Professional Moving Services in Historic Dhurwa and the Core Capital</h2>
       <p>Dhurwa holds a momentous position in the industrial and administrative heritage of Ranchi and Jharkhand. Established originally as the planned industrial township for the Heavy Engineering Corporation (HEC)—often hailed as the "Mother of All Industries"—Dhurwa spans vast, tree-lined sectors, wide boulevards, public parks, and extensive residential colonies categorized into Sector 1, Sector 2, Sector 3, and senior officers' bungalows. Today, Dhurwa has transformed into Greater Ranchi's powerhouse administrative heartland with the establishment of the Jharkhand State Legislative Assembly (New Vidhan Sabha), the expansive Core Capital Complex, the High Court of Jharkhand, the iconic JSCA International Cricket Stadium, and the scenic Dhurwa Dam catchment area.</p>
-      <p>Relocating within or out of Dhurwa demands tailored logistical expertise. The area features a unique mix of legacy multi-story HEC quarters with wide staircases, prestigious official bungalows with extensive lawns, and newly developed modern residential societies bordering Kute and Ring Road. In addition, a vast percentage of residents are public sector employees, engineers, administrative bureaucrats, and judicial personnel who require strict adherence to transfer rules, punctual scheduling, and certified IBA-approved billing. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served the Dhurwa community for over a decade with exceptional dedication, guaranteeing scratch-free, organized, and completely hassle-free transitions.</p>
+      <p>Relocating within or out of Dhurwa demands tailored logistical expertise. The area features a unique mix of legacy multi-story HEC quarters with wide staircases, prestigious official bungalows with extensive lawns, and newly developed modern residential societies bordering Kute and Ring Road. In addition, a vast percentage of residents are public sector employees, engineers, administrative bureaucrats, and judicial personnel who require strict adherence to transfer rules, punctual scheduling, and certified IBA-approved billing. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served the Dhurwa community for over a decade with exceptional dedication, guaranteeing scratch-free, organized, and completely hassle-free transitions.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->

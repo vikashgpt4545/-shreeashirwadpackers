@@ -542,7 +542,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-velachery-chennai";
                 <li><strong>Monsoon Weather-Proofing &amp; Waterproof Shielding:</strong> Velachery experiences heavy surface runoff during the Northeast monsoon. We utilize multi-layer plastic stretch wrap, waterproof exterior tarpaulins, and raised truck staging to prevent any water damage to household cargo.</li>
                 <li><strong>High-Rise Gated Township Protocols:</strong> Gated communities along Velachery Bypass and Taramani Link Road mandate service elevator bookings, security gate passes, and strict timing windows that our operations team handles with complete compliance.</li>
                 <li><strong>Weekend Scheduling for Tech Employees:</strong> We coordinate rapid Saturday and Sunday moving schedules, packing your previous flat on Friday evening and completing setup at your new residence by Sunday evening for zero work disruption.</li>
-                <li><strong>Direct Linkages to OMR, GST Road &amp; National Corridors:</strong> Direct road linkages enable swift container truck dispatch toward Bangalore, Hyderabad, or our central company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>.</li>
+                <li><strong>Direct Linkages to OMR, GST Road &amp; National Corridors:</strong> Direct road linkages enable swift container truck dispatch toward Bangalore, Hyderabad, or our central company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -816,7 +816,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-velachery-chennai";
                 <a href="<?php echo SITE_BASE_URL; ?>/chennai-to-ranchi-packers-and-movers">Chennai to Ranchi Return</a>
             </div>
             <div class="vlc-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company Headquarters</a>
             </div>
         </div>
     </section>

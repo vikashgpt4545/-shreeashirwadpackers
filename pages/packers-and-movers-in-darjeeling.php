@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <div class="djg-highlight-box">
                     <div class="djg-highlight-title">Direct Mountain-to-Plains Staging Corridor</div>
-                    <p class="djg-highlight-desc">Operating through seamless hill-to-plains logistics networks connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> and primary North Bengal terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, our specialized 4x4 vehicles transfer goods smoothly along Hill Cart Road and Rohini Highway down to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri">Jalpaiguri</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cooch-behar">Cooch Behar</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without transshipment delays.</p>
+                    <p class="djg-highlight-desc">Operating through seamless hill-to-plains logistics networks connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> and primary North Bengal terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, our specialized 4x4 vehicles transfer goods smoothly along Hill Cart Road and Rohini Highway down to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri">Jalpaiguri</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cooch-behar">Cooch Behar</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without transshipment delays.</p>
                 </div>
 
                 <p class="djg-body-p">The residential landscape of Darjeeling encompasses diverse topographical sectors—from bustling high-altitude market centers along Laden La Road, Gandhi Road, and Chauk Bazaar, to serene residential belts in Jalapahar, Katapahar, Lebong, Singamari, and Ghoom. Because many hillside cottages are situated 50 to 200 stone steps away from motorable roadways, our dedicated mountain porter teams employ ergonomic shoulder straps, protective carrying blankets, and modular transit carts to safely bring goods to our staging trucks.</p>
@@ -812,7 +812,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri" class="djg-cluster-link">Siliguri Gateway</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri" class="djg-cluster-link">Jalpaiguri Divisional Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cooch-behar" class="djg-cluster-link">Cooch Behar Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="djg-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="djg-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

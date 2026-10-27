@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-nagercoil";
         <p>Nagercoil commands a pivotal geographical position at India's southern tip. NH 66 provides an expressway northwest directly to Thiruvananthapuram, Kollam, and Kochi. NH 44 connects northeast through Valliyur to Tirunelveli, Madurai, and Bangalore. Cape Road connects south directly to Kanyakumari, while State Highway 45 links westward toward Colachel port and Thingal Nagar. This superior arterial network guarantees rapid transit times in every cardinal direction.</p>
 
         <div class="ngl-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1b4965; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Nagercoil directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1b4965; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Nagercoil directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Nagercoil</h3>

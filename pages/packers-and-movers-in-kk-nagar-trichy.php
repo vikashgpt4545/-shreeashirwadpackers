@@ -731,7 +731,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-trichy";
         <p>KK Nagar commands premier arterial connectivity in southern Trichy. Airport Road links directly northward to TVS Tolgate, Cantonment, Central Bus Stand, and the main <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tiruchirappalli" style="color: #102a43; font-weight: 600; text-decoration: underline;">Tiruchirappalli City Hub</a>. Northwestward arterials lead smoothly toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thillai-nagar-trichy" style="color: #102a43; font-weight: 600; text-decoration: underline;">Thillai Nagar Trichy</a>. Southward routes join the Semi Ring Road and NH 336, facilitating rapid egress toward Pudukkottai, Madurai, and Chennai.</p>
 
         <div class="knt-highlight-box">
-            <p><strong>Pan-India Highway Network:</strong> Shifting outside Tamil Nadu? Supported by our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #102a43; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we provide nationwide container transport connecting KK Nagar to every major city across India.</p>
+            <p><strong>Pan-India Highway Network:</strong> Shifting outside Tamil Nadu? Supported by our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #102a43; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we provide nationwide container transport connecting KK Nagar to every major city across India.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across KK Nagar</h3>

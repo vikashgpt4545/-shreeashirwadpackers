@@ -497,7 +497,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="pnv-image-caption">Experienced loading crews securing packed household consignments inside our weatherproof container trucks in Panvel.</p>
         </div>
 
-        <p>As an integral component of our comprehensive regional network, this Panvel hub operates seamlessly with our master facility at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-navi-mumbai">Packers and Movers in Navi Mumbai</a> and maintains continuous linehaul synchronization with our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>. This connected multi-city infrastructure enables us to provide unmatched precision whether executing an intra-city shift across neighboring Kharghar, an express corridor move to Pune, or an interstate consignment across eastern and northern India.</p>
+        <p>As an integral component of our comprehensive regional network, this Panvel hub operates seamlessly with our master facility at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-navi-mumbai">Packers and Movers in Navi Mumbai</a> and maintains continuous linehaul synchronization with our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>. This connected multi-city infrastructure enables us to provide unmatched precision whether executing an intra-city shift across neighboring Kharghar, an express corridor move to Pune, or an interstate consignment across eastern and northern India.</p>
 
         <p>Every assignment is entrusted to a dedicated relocation manager who acts as your direct point of contact, ensuring comprehensive checklist execution, punctual crew arrival, and meticulous goods inspection upon delivery.</p>
     </section>
@@ -706,7 +706,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kopar-khairane-navi-mumbai">Packers Movers Kopar Khairane</a>
             </div>
             <div class="pnv-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

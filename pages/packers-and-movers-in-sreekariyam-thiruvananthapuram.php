@@ -705,7 +705,7 @@
 
     <div class="skm-faq-item">
       <div class="skm-faq-question">Can you shift household goods from Sreekariyam to other Kerala districts or interstate?</div>
-      <p>Yes. We operate scheduled container routes connecting Sreekariyam to Kollam, Kochi, Thrissur, Kozhikode, and Kannur, as well as regular interstate corridors to Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+      <p>Yes. We operate scheduled container routes connecting Sreekariyam to Kollam, Kochi, Thrissur, Kozhikode, and Kannur, as well as regular interstate corridors to Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
     </div>
 
     <div class="skm-faq-item">

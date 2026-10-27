@@ -690,7 +690,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h2 class="klp-section-heading">Express Highway Logistics via GT Road & Bithoor Axis</h2>
         <p class="klp-intro-p">Kalyanpur enjoys exceptional transport connectivity along the Grand Trunk Road (GT Road / NH-91/NH-19). This arterial highway provides swift north-west bound passage toward Kannauj, Aligarh, Bulandshahr, and Greater Noida, allowing our long-haul container trucks to reach Delhi NCR seamlessly without entering downtown Kanpur traffic bottlenecks.</p>
 
-        <p class="klp-intro-p">For interstate relocations heading east toward Bihar, Jharkhand, and West Bengal—connecting to Patna, Gaya, Dhanbad, Jamshedpur, Bokaro, and our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>—our dedicated long-haul container trucks operate regular scheduled departures with real-time GPS tracking and dedicated support.</p>
+        <p class="klp-intro-p">For interstate relocations heading east toward Bihar, Jharkhand, and West Bengal—connecting to Patna, Gaya, Dhanbad, Jamshedpur, Bokaro, and our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>—our dedicated long-haul container trucks operate regular scheduled departures with real-time GPS tracking and dedicated support.</p>
 
         <p class="klp-intro-p">Furthermore, the nearby Panki bypass and Kanpur Ring Road link allow heavy container carriers to connect south toward the Kanpur-Jhansi highway and east toward Prayagraj and Varanasi, ensuring dependable transit schedules across all interstate corridors.</p>
 

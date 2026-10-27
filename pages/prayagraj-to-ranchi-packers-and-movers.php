@@ -168,7 +168,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Ranchi Packers and Movers",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -1393,7 +1393,7 @@ require_once __DIR__ . '/includes/header.php';
       <div class="r2prj-cluster-box">
         <h3 class="r2prj-cluster-title">Explore Related Interstate &amp; Intra-State Moving Routes:</h3>
         <div class="r2prj-cluster-links">
-          <a href="/packers-and-movers-ranchi" class="r2prj-cluster-link">Ranchi Main Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2prj-cluster-link">Ranchi Main Hub</a>
           <a href="/ranchi-to-prayagraj-packers-and-movers" class="r2prj-cluster-link">Ranchi to Prayagraj (Outbound)</a>
           <a href="/varanasi-to-ranchi-packers-and-movers" class="r2prj-cluster-link">Varanasi to Ranchi</a>
           <a href="/kanpur-to-ranchi-packers-and-movers" class="r2prj-cluster-link">Kanpur to Ranchi</a>

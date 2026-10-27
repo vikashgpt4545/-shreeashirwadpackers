@@ -243,7 +243,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>Furthermore, thousands of Central Government, PSU, and corporate executives stationed across Central Coalfields Limited (CCL Darbhanga House), CMPDI Kanke Road, SAIL R&DC, MECON Colony Doranda, and Heavy Engineering Corporation (HEC Dhurwa) must coordinate administrative quarter clearances, inventory gate passes, and mandatory IBA-approved billing documentation.</p>
                         <div class="hscr-highlight">
                             <h4>Pro Relocation Rule for Ranchi Residents</h4>
-                            <p>Never leave packing to the final 48 hours. By breaking your household relocation into four structured weekly intervals, you ensure fragile crockery is safely boxed, electrical disconnects are executed safely, and your move is handled by verified professionals at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>.</p>
+                            <p>Never leave packing to the final 48 hours. By breaking your household relocation into four structured weekly intervals, you ensure fragile crockery is safely boxed, electrical disconnects are executed safely, and your move is handled by verified professionals at <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>.</p>
                         </div>
                     </div>
                     <div class="hscr-img-box">
@@ -447,18 +447,18 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Moving Guides & Neighborhood Hubs</h3>
                 <p>Ensure seamless relocation across Ranchi with our specialized neighborhood hubs and corridor guides:</p>
                 <div class="hscr-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur">Packers and Movers Lalpur</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ratu-road">Packers and Movers Ratu Road</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur-ranchi">Packers and Movers Lalpur</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ratu-road-ranchi">Packers and Movers Ratu Road</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers Dhanbad</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur">Packers and Movers Jamshedpur</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-ranchi-to-patna">Ranchi to Patna Movers</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers">Ranchi to Patna Movers</a>
                 </div>
             </section>
         </div>

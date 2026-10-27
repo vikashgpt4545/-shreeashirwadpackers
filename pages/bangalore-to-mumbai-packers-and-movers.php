@@ -67,7 +67,7 @@ $primary_highway = 'NH-48 (Southern-Western National Highway via Hubli, Belgaum 
         "@type": "ListItem",
         "position": 2,
         "name": "Intercity Corridors",
-        "item": "https://shreeashirwadpackers.com/intercity-packers-and-movers-cost-calculator"
+        "item": "https://shreeashirwadpackers.com/packers-and-movers-cost-calculator"
       },
       {
         "@type": "ListItem",
@@ -629,7 +629,7 @@ $primary_highway = 'NH-48 (Southern-Western National Highway via Hubli, Belgaum 
 <section class="bgm-section">
   <div class="bgm-heading-group">
     <h2>Estimated Shifting Charges: Bangalore to Mumbai (980 km)</h2>
-    <p>Clear, upfront pricing with zero hidden costs. Use our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #4f46e5; font-weight: 600; text-decoration: underline;">intercity movers cost calculator</a> and live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #4f46e5; font-weight: 600; text-decoration: underline;">tariff rate formulas</a> for exact estimates.</p>
+    <p>Clear, upfront pricing with zero hidden costs. Use our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #4f46e5; font-weight: 600; text-decoration: underline;">intercity movers cost calculator</a> and live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #4f46e5; font-weight: 600; text-decoration: underline;">tariff rate formulas</a> for exact estimates.</p>
   </div>
   <div class="bgm-table-container">
     <table class="bgm-table">
@@ -805,8 +805,8 @@ $primary_highway = 'NH-48 (Southern-Western National Highway via Hubli, Belgaum 
     <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-delhi-packers-and-movers" class="bgm-cluster-item">Bangalore to Delhi Container Route</a>
     <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-kolkata-packers-and-movers" class="bgm-cluster-item">Bangalore to Kolkata Route</a>
     <a href="<?php echo SITE_BASE_URL; ?>/pune-to-mumbai-packers-and-movers" class="bgm-cluster-item">Pune to Mumbai Expressway</a>
-    <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" class="bgm-cluster-item">Intercity Moving Tariff Calculator</a>
-    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bgm-cluster-item">Shree Ashirwad HQ Authority Hub</a>
+    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" class="bgm-cluster-item">Intercity Moving Tariff Calculator</a>
+    <a href="<?php echo SITE_BASE_URL; ?>/" class="bgm-cluster-item">Shree Ashirwad HQ Authority Hub</a>
   </div>
 </section>
 

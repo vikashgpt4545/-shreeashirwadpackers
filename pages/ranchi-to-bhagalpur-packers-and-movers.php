@@ -780,7 +780,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -1358,7 +1358,7 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our eastern India logistics network. Choose related routes or consult our complete moving guides for transparent rates and dedicated service.
         </p>
         <div class="r2bg-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2bg-cluster-link">Ranchi Relocation Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2bg-cluster-link">Ranchi Relocation Hub</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-deoghar-packers-and-movers" class="r2bg-cluster-link">Ranchi to Deoghar Route</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gaya-packers-and-movers" class="r2bg-cluster-link">Ranchi to Gaya Route</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-muzaffarpur-packers-and-movers" class="r2bg-cluster-link">Ranchi to Muzaffarpur Route</a>

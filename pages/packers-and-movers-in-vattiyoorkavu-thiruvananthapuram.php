@@ -713,7 +713,7 @@
 
     <div class="vtk-faq-item">
       <div class="vtk-faq-question">Can you shift household goods from Vattiyoorkavu to other Kerala cities or interstate?</div>
-      <p>Yes. We operate scheduled container routes connecting Vattiyoorkavu to Kochi, Thrissur, Kozhikode, and Kannur, as well as regular interstate corridors to Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+      <p>Yes. We operate scheduled container routes connecting Vattiyoorkavu to Kochi, Thrissur, Kozhikode, and Kannur, as well as regular interstate corridors to Bangalore, Chennai, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
     </div>
 
     <div class="vtk-faq-item">

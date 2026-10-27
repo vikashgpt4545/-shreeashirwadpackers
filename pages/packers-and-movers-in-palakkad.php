@@ -509,7 +509,7 @@
     <div class="pkd-grid-2">
       <div>
         <p>Palakkad occupies a preeminent position on Kerala's logistics map. Nestled at the foot of the Western Ghats, the natural 32-kilometer Palakkad Gap creates an effortless overland gateway into Tamil Nadu and northern commercial corridors via the NH 544 4-lane expressway. In addition to being the agrarian rice bowl of Kerala, Palakkad hosts the state's second-largest manufacturing powerhouse at Kanjikode, accommodating heavy engineering firms, BEML railway coach manufacturing, and the Kinfra Mega Food Park.</p>
-        <p>Operating under rigorous national standards guided by our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings over ten years of certified relocation excellence to Palakkad district.</p>
+        <p>Operating under rigorous national standards guided by our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings over ten years of certified relocation excellence to Palakkad district.</p>
         <p>Whether you are shifting an ancestral residence in Kalpathy, relocating into an upscale flat in Chandranagar or Robinson Road, or transferring industrial inventory across Kanjikode, our certified crews guarantee seamless transit.</p>
       </div>
       <div>

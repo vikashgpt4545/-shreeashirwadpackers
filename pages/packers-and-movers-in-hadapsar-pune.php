@@ -539,7 +539,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hadapsa
 
         <p>To calculate customized long-distance relocation rates, consult our online <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Packers and Movers Charges Calculator</a>. We provide clear, itemized contracts so you know exactly what is included prior to booking.</p>
 
-        <p>All interstate shipments are coordinated through our centralized logistics division at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, ensuring continuous tracking, regular driver check-ins, and secure arrival at your destination.</p>
+        <p>All interstate shipments are coordinated through our centralized logistics division at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, ensuring continuous tracking, regular driver check-ins, and secure arrival at your destination.</p>
     </section>
 
     <!-- Section 4: Systematic Shifting Process -->

@@ -319,7 +319,7 @@ require_once BASE_PATH . '/includes/config.php';
         <h3>Connected Neighborhoods & Institutional Hubs</h3>
         <p style="margin: 0 0 16px; font-size: 0.94rem; color: #475569;">Explore sister neighborhood hubs in Ranchi, corporate transfer resources, and pricing calculators:</p>
         <div class="stl-cluster-links">
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">movers and packers Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/psu-and-government-employee-relocation-ranchi">PSU & Govt Employee Moving</a>
             <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi">Ashok Nagar Moving Hub</a>

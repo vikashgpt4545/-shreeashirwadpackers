@@ -760,7 +760,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Ranchi Routes",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -1440,7 +1440,7 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our interstate network linking Western Uttar Pradesh, Grand Trunk Road, and Jharkhand:
         </p>
         <div class="r2agr-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2agr-cluster-link">Ranchi Main Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2agr-cluster-link">Ranchi Main Hub</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-agra-packers-and-movers" class="r2agr-cluster-link">Ranchi to Agra</a>
           <a href="<?php echo SITE_BASE_URL; ?>/kanpur-to-ranchi-packers-and-movers" class="r2agr-cluster-link">Kanpur to Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/prayagraj-to-ranchi-packers-and-movers" class="r2agr-cluster-link">Prayagraj to Ranchi</a>

@@ -575,7 +575,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Relocating household cargo across 1,740 km from Ranchi, Jharkhand, to the City of Temples, Jammu, represents one of India's most significant north-south arterial moving routes. Serving as the winter capital of Jammu &amp; Kashmir and the strategic gateway to the Himalayas, Jammu experiences steady personnel transfers from the armed forces (Army, Air Force, BSF, CRPF, ITBP), industrial management postings in Bari Brahmana and Gangyal, and university academic appointments at University of Jammu and SMVDU Katra.
         </p>
         <p class="r2jm-text">
-            At Shree Ashirwad Packers and Movers, we deliver dependable end-to-end relocation management engineered specifically for this long-haul corridor. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also operate regular return container trips along our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/jammu-to-ranchi-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Jammu to Ranchi packers and movers</a> corridor. By taking the Western Peripheral Expressway (KMP) from Palwal up to Kundli and merging onto the 6-lane NH-44 (Grand Trunk Road) past Ambala, Ludhiana, Jalandhar, and Pathankot, our sealed container trucks avoid all Delhi municipal no-entry restrictions, delivering your belongings safely into Jammu in record time.
+            At Shree Ashirwad Packers and Movers, we deliver dependable end-to-end relocation management engineered specifically for this long-haul corridor. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338CA; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also operate regular return container trips along our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/jammu-to-ranchi-packers-and-movers" style="color: #4338CA; font-weight: 600; text-decoration: underline;">Jammu to Ranchi packers and movers</a> corridor. By taking the Western Peripheral Expressway (KMP) from Palwal up to Kundli and merging onto the 6-lane NH-44 (Grand Trunk Road) past Ambala, Ludhiana, Jalandhar, and Pathankot, our sealed container trucks avoid all Delhi municipal no-entry restrictions, delivering your belongings safely into Jammu in record time.
         </p>
 
         <!-- Image 1 -->
@@ -902,7 +902,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Jammu to Ranchi (Return)</span>
                 <span style="color: #E11D48;">→</span>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                 <span>Ranchi Headquarters Hub</span>
                 <span style="color: #E11D48;">→</span>
             </a>

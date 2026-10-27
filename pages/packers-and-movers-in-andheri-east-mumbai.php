@@ -375,7 +375,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-andheri
 
         <div class="ade-highlight-box">
             <h4>Parent Authority & Inter-State Hub Links</h4>
-            <p>For citywide relocation strategies across Mumbai, explore our parent hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, check our corporate HQ at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, or estimate your relocation budget using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Packers and Movers Charges Calculator</a>.</p>
+            <p>For citywide relocation strategies across Mumbai, explore our parent hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, check our corporate HQ at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, or estimate your relocation budget using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Packers and Movers Charges Calculator</a>.</p>
         </div>
     </section>
 

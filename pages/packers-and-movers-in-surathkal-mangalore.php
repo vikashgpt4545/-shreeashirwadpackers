@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>NITK Student & Faculty Moving Packages:</strong> Affordable, secure hostel baggage courier, book box crating, and laboratory equipment transport across India.</li>
                 <li><strong>Heavy Industrial & Chemical Rigging:</strong> Specialized flatbeds, hydraulic tailgates, and custom wooden crating for Baikampady KIADB and MRPL machinery.</li>
                 <li><strong>Coastal Weatherproofing:</strong> 4-tier moisture-resistant shrink film and silica gel desiccants protecting against sea air corrosion.</li>
-                <li><strong>Direct Port & Regional Hub Integration:</strong> Supported by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mangalore">Packers and Movers in Mangalore</a> and headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Direct Port & Regional Hub Integration:</strong> Supported by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mangalore">Packers and Movers in Mangalore</a> and headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

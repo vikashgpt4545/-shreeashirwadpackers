@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <div class="pri-image-caption">Weatherproof sealed container vehicle operating highway corridors connecting Puri to Ranchi HQ</div>
                 </div>
 
-                <p class="pri-body-p">Relocating between Puri and Jharkhand? Our direct corridor connects Puri to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> via NH-316 and NH-20 (approx. 470 km, completed within 12 to 14 hours door-to-door). Consignments receive continuous GPS tracking, dedicated move manager support, and automated WhatsApp transit checkpoints.</p>
+                <p class="pri-body-p">Relocating between Puri and Jharkhand? Our direct corridor connects Puri to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a> via NH-316 and NH-20 (approx. 470 km, completed within 12 to 14 hours door-to-door). Consignments receive continuous GPS tracking, dedicated move manager support, and automated WhatsApp transit checkpoints.</p>
 
                 <p class="pri-body-p">We also run regular moving corridors connecting Puri to the West Bengal metropolis of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" style="color: #1e3a8a; font-weight: 600;">Kolkata</a> via NH-16 (approx. 495 km), featuring guaranteed departure schedules and comprehensive transit risk insurance coverage.</p>
 
@@ -756,7 +756,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur" class="pri-cluster-link">Berhampur Silk City Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur" class="pri-cluster-link">Sambalpur Industrial Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="pri-cluster-link">Kolkata Authority Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="pri-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="pri-cluster-link">Ranchi Corporate HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pri-cluster-link">Live Rate Calculator</a>
                 </div>
             </div>

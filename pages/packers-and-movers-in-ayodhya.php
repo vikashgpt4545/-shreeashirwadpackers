@@ -413,7 +413,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p>Our packaging materials are engineered to endure long highway travel. We utilize double-wall corrugated cartons, air-bubble cushioning, edge guards, silica gel packets, and waterproof stretch wraps. This multi-layered barrier protects your kitchenware, televisions, and electronics from road vibrations and seasonal moisture.</p>
 
-        <p>Whether you are relocating your family home or setting up a branch office near Devkali, our operations are overseen by seasoned supervisors. You can also view our primary corporate operations and state-level standards on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi hub page</a>.</p>
+        <p>Whether you are relocating your family home or setting up a branch office near Devkali, our operations are overseen by seasoned supervisors. You can also view our primary corporate operations and state-level standards on our <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi hub page</a>.</p>
     </section>
 
     <!-- Section 3: Pricing Estimates Table -->

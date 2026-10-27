@@ -13,6 +13,12 @@ if (session_status() === PHP_SESSION_NONE) {
 if (!defined('BASE_PATH')) {
     define('BASE_PATH', dirname(__DIR__));
 }
+if (!defined('ROOT_PATH')) {
+    define('ROOT_PATH', dirname(__DIR__));
+}
+if (!defined('ROOT_DIR')) {
+    define('ROOT_DIR', dirname(__DIR__));
+}
 
 // Environment Detection & Base URL Handling
 $is_https = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || 

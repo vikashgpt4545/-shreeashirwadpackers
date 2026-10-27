@@ -610,7 +610,7 @@
                     Executing household relocations in Dehri requires knowledgeable route coordination. While modern sectors like New Town and Dalmianagar offer spacious tree-lined layouts, market areas near Pali Road and Station Road can become congested with commercial traffic. Our dispatchers schedule moves during optimal hours, utilizing compact shuttle vehicles to collect goods safely before transferring them smoothly into our heavy covered container trucks.
                 </p>
                 <p style="font-size: 0.96rem; color: #475569; line-height: 1.7;">
-                    Whether moving locally within Dehri or transferring across state borders, our operations link directly with our network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sasaram" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Sasaram</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Gaya</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-arrah" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Arrah</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
+                    Whether moving locally within Dehri or transferring across state borders, our operations link directly with our network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sasaram" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Sasaram</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gaya" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Gaya</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Patna</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-arrah" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Arrah</a>, and company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; font-weight: 700; text-decoration: underline;">Packers and Movers in Ranchi</a>.
                 </p>
             </div>
             <div>
@@ -965,7 +965,7 @@
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-arrah" class="dhr-cluster-link">Packers and Movers in Arrah</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-begusarai" class="dhr-cluster-link">Packers and Movers in Begusarai</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarpur" class="dhr-cluster-link">Packers and Movers in Muzaffarpur</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dhr-cluster-link">Packers and Movers in Ranchi (HQ)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="dhr-cluster-link">Packers and Movers in Ranchi (HQ)</a>
             </div>
         </div>
 

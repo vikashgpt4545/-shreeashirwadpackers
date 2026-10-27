@@ -735,7 +735,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
 
-        <p>Looking to transport your two-wheeler or heavier furniture alongside your luggage? Check our <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service" style="color: #047857; font-weight: 700; text-decoration: underline;">single item furniture shifting services</a> and <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #047857; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for complete relocation coordination.</p>
+        <p>Looking to transport your two-wheeler or heavier furniture alongside your luggage? Check our <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service" style="color: #047857; font-weight: 700; text-decoration: underline;">single item furniture shifting services</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #047857; font-weight: 700; text-decoration: underline;">intercity moving cost calculator</a> for complete relocation coordination.</p>
 
         <!-- Section 7: FAQs -->
         <h2 class="ldbt-section-heading">Frequently Asked Questions: Luggage Delivery &amp; Baggage Transport</h2>
@@ -776,7 +776,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/data-center-server-and-office-relocation">Server Rack &amp; Corporate Office Shifting</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/pet-relocation-services-india">Domestic Pet Transport &amp; Relocation</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Packers and Movers Charges Per KM Rate Card</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Packers Headquarters &amp; Central Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Packers Headquarters &amp; Central Hub</a>
             </div>
         </div>
 

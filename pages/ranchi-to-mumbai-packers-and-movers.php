@@ -716,7 +716,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Related Interstate Highway Corridors & Relocation Services</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Explore connected interstate routes and specialized relocation solutions originating from Ranchi:</p>
     <div class="cluster-grid-mumbai">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="cluster-link-mumbai">📍 Ranchi Main Hub & City HQ</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-mumbai">📍 Ranchi Main Hub & City HQ</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-mumbai">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-mumbai">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-pune-packers-and-movers" class="cluster-link-mumbai">🛣️ Ranchi to Pune Movers</a>

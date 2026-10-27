@@ -538,7 +538,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Malnad Monsoon-Grade Waterproofing:</strong> Heavy 4-layer shrink wrap, sealed containers, and silica gel desiccant packs guarding against rain and dampness.</li>
                 <li><strong>Bhadravati Twin Industrial Expertise:</strong> Specialized corporate and factory transfer packages for VISL (SAIL) and MPM paper mill employees.</li>
                 <li><strong>Fast Bangalore Highway Shuttles:</strong> Direct container transport on NH 69 reaching Bangalore in 6 hours with 24/7 digital GPS tracking.</li>
-                <li><strong>Pan-India Network Reliability:</strong> Directly connected with our regional authority centers in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Pan-India Network Reliability:</strong> Directly connected with our regional authority centers in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

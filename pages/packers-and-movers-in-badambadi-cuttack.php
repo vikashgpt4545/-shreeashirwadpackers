@@ -531,7 +531,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <p class="bdm-highlight-desc">Because hundreds of intercity buses traverse Badambadi daily, our dispatch teams deploy specialized mini-shuttle vehicles (Tata Ace and Mahindra Bolero Maxi Trucks) during off-peak morning hours (5:00 AM to 8:30 AM) to ensure swift loading without traffic snags.</p>
                 </div>
 
-                <p class="bdm-body-p">Whether you are shifting an apartment near Palamandap, relocating a textile retail establishment near Arunodaya Market, or moving families across town to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cda-cuttack" style="color: #7c2d12; font-weight: 600;">CDA Sectors</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-link-road-cuttack" style="color: #7c2d12; font-weight: 600;">Link Road</a>, or interstate destinations connected via our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #7c2d12; font-weight: 600;">Ranchi</a>, Shree Ashirwad Packers and Movers brings unmatched punctuality, certified safety, and transparent pricing.</p>
+                <p class="bdm-body-p">Whether you are shifting an apartment near Palamandap, relocating a textile retail establishment near Arunodaya Market, or moving families across town to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cda-cuttack" style="color: #7c2d12; font-weight: 600;">CDA Sectors</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-link-road-cuttack" style="color: #7c2d12; font-weight: 600;">Link Road</a>, or interstate destinations connected via our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #7c2d12; font-weight: 600;">Ranchi</a>, Shree Ashirwad Packers and Movers brings unmatched punctuality, certified safety, and transparent pricing.</p>
 
                 <p class="bdm-body-p">Our local operations center in Badambadi is staffed with experienced moving crews equipped with heavy-duty furniture sliders, hydraulic dollies, multi-layer cushioning wraps, and GPS-tracked enclosed container trucks to ensure complete peace of mind throughout your transition.</p>
             </section>
@@ -766,7 +766,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cda-cuttack" class="bdm-cluster-link">CDA Sectors Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-link-road-cuttack" class="bdm-cluster-link">Link Road Highway Corridor</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" class="bdm-cluster-link">Bhubaneswar Smart Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bdm-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="bdm-cluster-link">Ranchi Corporate HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bdm-cluster-link">Live Rate Calculator</a>
                 </div>
             </div>

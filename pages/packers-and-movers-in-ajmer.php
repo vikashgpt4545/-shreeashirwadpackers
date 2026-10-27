@@ -614,7 +614,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ajmer";
             <h2 class="ajr-section-heading">Modern Transport Fleet with Real-Time GPS Tracking</h2>
             <p>Our fleet comprises specialized containerized vehicles ranging from maneuverable light commercial trucks perfect for Ajmer's urban residential streets to 32-foot multi-axle freight carriers for long-distance relocations across state borders.</p>
             <p>Each truck is equipped with real-time GPS telemetry, allowing our central monitoring station to supervise vehicle speeds, driving patterns, and travel corridors 24 hours a day, providing full peace of mind to our clients.</p>
-            <p>Backed by our national corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, Shree Ashirwad Packers and Movers combines nationwide logistical strength with attentive, localized customer service across every corner of Ajmer.</p>
+            <p>Backed by our national corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, Shree Ashirwad Packers and Movers combines nationwide logistical strength with attentive, localized customer service across every corner of Ajmer.</p>
         </div>
     </section>
 

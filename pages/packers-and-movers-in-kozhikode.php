@@ -668,7 +668,7 @@
 
     <h3>Seamless Statewide & Interstate Relocation Corridors</h3>
     <p>From our Kozhikode logistics hub, our scheduled vehicles operate regular routes toward Kannur, Kasaragod, and Mangalore along the northern corridor, and toward Malappuram, Palakkad, Thrissur, and Kochi along the central corridor. For interstate moves heading to Karnataka and Tamil Nadu, daily departures travel via the Thamarassery Ghat toward Mysore and Bangalore, or via Palakkad toward Coimbatore and Chennai.</p>
-    <p>For long-distance relocations to central, northern, and eastern India, our operations connect directly with our corporate authority base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, giving families and businesses seamless pan-India connectivity backed by single-point responsibility.</p>
+    <p>For long-distance relocations to central, northern, and eastern India, our operations connect directly with our corporate authority base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, giving families and businesses seamless pan-India connectivity backed by single-point responsibility.</p>
     <p>With round-the-clock GPS tracking, automated SMS updates, and an active customer support desk, you stay informed of your shipment status every kilometer of the journey.</p>
   </section>
 
@@ -696,7 +696,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting an apartment within Kozhikode, transferring corporate staff to Cyberpark, or relocating cross-country to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our dedicated logistics specialists ensure a seamless, enjoyable moving experience.</p>
+    <p>Whether you are shifting an apartment within Kozhikode, transferring corporate staff to Cyberpark, or relocating cross-country to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #059669; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our dedicated logistics specialists ensure a seamless, enjoyable moving experience.</p>
     <p>With an exceptional 99.2% zero-damage delivery record across thousands of completed relocations in South India, our Kozhikode team is equipped to handle complex challenges. From fine china and antique rosewood cots to complex IT server racks and motor vehicles, your valued possessions are managed with the utmost care, integrity, and precision.</p>
   </section>
 
@@ -743,7 +743,7 @@
         <a class="kzh-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kakkanad-kochi">Kakkanad Infopark Hub</a>
         <a class="kzh-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore Metro Hub</a>
         <a class="kzh-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-coimbatore">Coimbatore Industrial Hub</a>
-        <a class="kzh-cluster-link" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Head Office Hub</a>
+        <a class="kzh-cluster-link" href="<?php echo SITE_BASE_URL; ?>/">Ranchi Head Office Hub</a>
       </div>
     </div>
   </section>

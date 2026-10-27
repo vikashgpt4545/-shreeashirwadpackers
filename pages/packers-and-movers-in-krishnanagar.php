@@ -547,7 +547,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <div class="rng-highlight-box" style="display:none;"></div>
                 <div class="ksn-highlight-box">
                     <div class="ksn-highlight-title">Direct NH-12 Nadia Transit Corridor Network</div>
-                    <p class="ksn-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> and primary terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a>, our vehicles provide dependable point-to-point movement across NH-12 to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranaghat">Ranaghat</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampore">Berhampore</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman">Bardhaman</a> without transshipment delays.</p>
+                    <p class="ksn-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> and primary terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a>, our vehicles provide dependable point-to-point movement across NH-12 to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranaghat">Ranaghat</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampore">Berhampore</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman">Bardhaman</a> without transshipment delays.</p>
                 </div>
 
                 <p class="ksn-body-p">The residential neighborhoods of Krishnanagar encompass diverse urban settings—from the historic royal and administrative quarters around Rajbari, High Street, and Court Para, to the traditional artisan and trading lanes of Ghurni, Bowbazar, and Bhatpara, alongside the modern residential communities developing along Bethuadahari Road, Barigoli, and Chashma. Our trained handling squads possess deep local familiarity with municipal regulations, heritage street turnings, and multi-story apartment access, ensuring smooth and punctual moving operations.</p>
@@ -813,7 +813,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranaghat" class="ksn-cluster-link">Ranaghat Commercial</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="ksn-cluster-link">Kolkata Metro Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampore" class="ksn-cluster-link">Berhampore Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ksn-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="ksn-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

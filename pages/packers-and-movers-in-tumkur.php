@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tumkur";
                 <li><strong>Industrial Rigging Expertise:</strong> Specialized crane machinery and hydraulic tailgates for precision machine shifting in Vasantanarasapura and Antharasanahalli estates.</li>
                 <li><strong>Education & Faculty Relocation:</strong> Tailored cost-effective shifting packages for scholars, teaching faculty, and administrators around SIT Campus and Tumkur University.</li>
                 <li><strong>Multi-Layer Shockproof Packaging:</strong> Standardized 7-layer export-grade corrugated boxes, water-resistant stretch films, and air-bubble cushioning for all furniture and fragile goods.</li>
-                <li><strong>Central Operations Oversight:</strong> Reliable tracking and verified logistics management supervised by our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Central Operations Oversight:</strong> Reliable tracking and verified logistics management supervised by our national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -769,7 +769,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tumkur";
         </div>
         <div class="tmk-faq-item">
             <h3>Is goods transit insurance provided for interstate moves from Tumkur?</h3>
-            <p>Yes, we provide 100% comprehensive transit insurance coverage with itemized declaration receipts, supported through our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we provide 100% comprehensive transit insurance coverage with itemized declaration receipts, supported through our central customer care headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
         <div class="tmk-faq-item">
             <h3>How do you protect fragile items and expensive electronic appliances?</h3>

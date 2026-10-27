@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <p class="gvn-image-caption">Shree Ashirwad packing crew carefully loading boxed household goods into closed container vehicles in Govind Nagar.</p>
         </div>
 
-        <p class="gvn-intro-p">Whether you are transferring your home from Block 5 to an apartment near C-Block, shifting a commercial retail shop near Vidyarthi Market, or coordinating an inter-state corporate move to Delhi NCR, Lucknow, Patna, or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our teams manage every step with absolute precision. We oversee full packing, master furniture dismantling, safe loading, highway transit, unloading, and furniture assembly.</p>
+        <p class="gvn-intro-p">Whether you are transferring your home from Block 5 to an apartment near C-Block, shifting a commercial retail shop near Vidyarthi Market, or coordinating an inter-state corporate move to Delhi NCR, Lucknow, Patna, or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our teams manage every step with absolute precision. We oversee full packing, master furniture dismantling, safe loading, highway transit, unloading, and furniture assembly.</p>
 
         <p class="gvn-intro-p">With hundreds of successful home shifting operations completed across Govind Nagar—from the quiet avenues of Gujaini to the bustling residential lanes of Labour Colony and Rawatpur—our services feature completely upfront quotations, comprehensive transit insurance protection, and responsive customer support to ensure your relocation is seamless and entirely stress-free.</p>
     </section>

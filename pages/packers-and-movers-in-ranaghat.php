@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <div class="rng-highlight-box">
                     <div class="rng-highlight-title">Direct Nadia-Kolkata Express Corridor Network</div>
-                    <p class="rng-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> and primary terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah">Howrah</a>, our vehicles provide dependable point-to-point movement across NH-12 to Kalyani, Barasat, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampore">Berhampore</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman">Bardhaman</a> without transshipment delays.</p>
+                    <p class="rng-highlight-desc">Operating through seamless route links connecting our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> and primary terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah">Howrah</a>, our vehicles provide dependable point-to-point movement across NH-12 to Kalyani, Barasat, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampore">Berhampore</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman">Bardhaman</a> without transshipment delays.</p>
                 </div>
 
                 <p class="rng-body-p">The residential neighborhoods of Ranaghat encompass diverse urban settings—from the historic mercantile lanes around Biswaspara, Rathtala, and Station Road, to the quiet leafy avenues of Subhasnagar, College Para, Debnath Institute Road, and Court Para, alongside the expanding modern housing pockets in Nasra, Habibpur, and Anulia. Our trained handling squads possess deep local familiarity with municipal regulations, railway crossing timings, and narrow residential lanes, ensuring smooth and punctual moving operations.</p>
@@ -812,7 +812,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="rng-cluster-link">Kolkata Metro Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-howrah" class="rng-cluster-link">Howrah Transit Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman" class="rng-cluster-link">Bardhaman Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="rng-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="rng-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

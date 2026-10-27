@@ -497,7 +497,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="vsi-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Vashi Navi Mumbai.</p>
         </div>
 
-        <p>Working in close harmony with our primary authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-navi-mumbai">Packers and Movers in Navi Mumbai</a> and linking to our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across the creek to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chembur-mumbai">Packers and Movers in Chembur</a>, heading down to Pune, or executing an interstate transfer.</p>
+        <p>Working in close harmony with our primary authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-navi-mumbai">Packers and Movers in Navi Mumbai</a> and linking to our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across the creek to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chembur-mumbai">Packers and Movers in Chembur</a>, heading down to Pune, or executing an interstate transfer.</p>
 
         <p>Every assignment is managed under the direct supervision of an experienced relocation supervisor who coordinates every phase from pre-move survey to final furniture placement, ensuring your precious home possessions arrive in flawless condition.</p>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Thane Authority Hub</a>
             </div>
             <div class="vsi-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Central HQ</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi Central HQ</a>
             </div>
         </div>
 

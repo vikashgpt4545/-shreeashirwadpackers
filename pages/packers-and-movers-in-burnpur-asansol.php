@@ -500,7 +500,7 @@
                         <li>Authorized reimbursement documentation for SAIL & ECL employees</li>
                         <li>Direct connectivity to parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-asansol" style="color:#ffba08; font-weight:700;">Asansol Movers Hub</a></li>
                         <li>Airtight dust-barrier wrapping for industrial steel plant zones</li>
-                        <li>Direct express routes to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ffba08; font-weight:700;">Company HQ Ranchi</a></li>
+                        <li>Direct express routes to <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ffba08; font-weight:700;">Company HQ Ranchi</a></li>
                         <li>Full furniture dismantling, packing, and reassembly services</li>
                     </ul>
                 </div>
@@ -834,7 +834,7 @@
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="bnp-cluster-link">Kolkata Regional Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="bnp-cluster-link">Kolkata to Ranchi Corridor</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="bnp-cluster-link">Ranchi to Kolkata Corridor</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bnp-cluster-link">Company HQ Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="bnp-cluster-link">Company HQ Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bnp-cluster-link">Live Tariff Calculator</a>
             <span class="bnp-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Raniganj Hub (Upcoming)</span>
             <span class="bnp-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Durgapur Steel Hub (Upcoming)</span>

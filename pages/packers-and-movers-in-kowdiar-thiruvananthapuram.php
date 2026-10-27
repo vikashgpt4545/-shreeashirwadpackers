@@ -675,7 +675,7 @@
 
     <div class="kwd-faq-item">
       <div class="kwd-faq-question">Do you offer intercity moves from Kowdiar to Bangalore, Chennai, or Ranchi?</div>
-      <p>Yes. In addition to intra-city moves across Thiruvananthapuram, we run dedicated weekly container corridors linking Kowdiar to Bangalore, Chennai, Hyderabad, Mumbai, and Eastern hubs including Kolkata and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+      <p>Yes. In addition to intra-city moves across Thiruvananthapuram, we run dedicated weekly container corridors linking Kowdiar to Bangalore, Chennai, Hyderabad, Mumbai, and Eastern hubs including Kolkata and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
     </div>
 
     <div class="kwd-faq-item">

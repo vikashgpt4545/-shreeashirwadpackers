@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -467,7 +467,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-hta-section">
       <h2>Professional Moving Services in Southern Ranchi's Key Transport Hub</h2>
       <p>Hatia represents one of Ranchi's most dynamic transportation, industrial, and academic epicenters. Located in the southern sector of the capital along the vital corridor connecting Birsa Chowk, Airport Road, and Tupudana Industrial Estate, Hatia is anchored by the bustling Hatia Railway Station (HTE)—the primary passenger terminal and division headquarters under the South Eastern Railway network. Beyond its pivotal railway prominence, Hatia encompasses major technical institutions such as the premier National Institute of Advanced Manufacturing Technology (NIFFT, formerly National Institute of Foundry and Forge Technology), vital industrial ancillary factories, sprawling railway employee housing colonies, and rapidly expanding residential centers along Singh More, Chandni Chowk, and Latma Road.</p>
-      <p>Relocating in Hatia demands specialized operational agility. The neighborhood experiences dense daily commuter flows around the railway station and commercial markets at Singh More, while railway staff quarters and educational housing often involve distinct transfer deadlines and strict departmental documentation requirements. As the most trusted <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has perfected local and inter-city shifting in Hatia through more than a decade of ground operations. We offer punctual doorstep packing, certified IBA-approved billing for seamless official reimbursement, specialized furniture dismantling, and enclosed container transit to ensure that every relocation is executed with complete safety and zero stress.</p>
+      <p>Relocating in Hatia demands specialized operational agility. The neighborhood experiences dense daily commuter flows around the railway station and commercial markets at Singh More, while railway staff quarters and educational housing often involve distinct transfer deadlines and strict departmental documentation requirements. As the most trusted <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers in Ranchi</a>, Shree Ashirwad Packers and Movers has perfected local and inter-city shifting in Hatia through more than a decade of ground operations. We offer punctual doorstep packing, certified IBA-approved billing for seamless official reimbursement, specialized furniture dismantling, and enclosed container transit to ensure that every relocation is executed with complete safety and zero stress.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->

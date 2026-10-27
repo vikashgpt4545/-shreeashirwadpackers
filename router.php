@@ -132,10 +132,58 @@ $redirect_map = [
     'packers-movers-from-ranchi-to-chennai' => '/ranchi-to-chennai-packers-and-movers',
     'packers-movers-from-ranchi-to-lucknow' => '/ranchi-to-lucknow-packers-and-movers',
     'packers-movers-from-ranchi-to-jamshedpur' => '/ranchi-to-jamshedpur-packers-and-movers',
-    'packers-movers-from-ranchi-to-dhanbad' => '/ranchi-to-dhanbad-packers-and-movers'
+    'packers-movers-from-ranchi-to-dhanbad' => '/ranchi-to-dhanbad-packers-and-movers',
+
+    // GSC 404 Rescue & Normalization Redirects
+    'index' => '/',
+    'index.html' => '/',
+    'contact-us.html' => '/contact',
+    'car-shifting-charges-calculator' => '/car-transportation-cost-calculator',
+    'intercity-packers-and-movers-cost-calculator' => '/packers-and-movers-cost-calculator',
+    'intercity-relocation-services' => '/residential-shifting/',
+    'intercity-packers-and-movers' => '/packers-and-movers-cost-calculator',
+    'ranchi-to-delhi-relocation-guide' => '/ranchi-to-delhi-shifting-guide',
+    'ranchi-to-bangalore-relocation-guide' => '/ranchi-to-bangalore-packers-and-movers',
+    'ranchi-to-patna-relocation-guide' => '/ranchi-to-patna-packers-and-movers',
+    'ranchi-to-kolkata-relocation-guide' => '/ranchi-to-kolkata-packers-and-movers',
+    'packers-and-movers-ranchi-to-patna' => '/ranchi-to-patna-packers-and-movers',
+    'packers-and-movers-ranchi' => '/',
+    'packers-and-movers-in-harmu' => '/packers-and-movers-in-harmu-ranchi',
+    'packers-and-movers-in-morabadi' => '/packers-and-movers-in-morabadi-ranchi',
+    'packers-and-movers-in-bariatu' => '/packers-and-movers-in-bariatu-ranchi',
+    'packers-and-movers-in-doranda' => '/packers-and-movers-in-doranda-ranchi',
+    'packers-and-movers-in-lalpur' => '/packers-and-movers-in-lalpur-ranchi',
+    'packers-and-movers-in-ashok-nagar' => '/packers-and-movers-in-ashok-nagar-ranchi',
+    'packers-and-movers-in-ratu-road' => '/packers-and-movers-in-ratu-road-ranchi',
+    'packers-and-movers-in-kanke-road-ranchi' => '/packers-and-movers-in-kanke',
+    'packers-and-movers-in-main-road-ranchi' => '/',
+    'packers-and-movers-in-harmu-housing-colony-ranchi' => '/packers-and-movers-in-harmu-housing-colony',
+    'packers-and-movers-in-thane-mumbai' => '/packers-and-movers-in-thane',
+    'packers-and-movers-in-andheri-mumbai' => '/packers-and-movers-in-andheri-west-mumbai',
+    'packers-and-movers-in-villupuram' => '/packers-and-movers-in-puducherry',
+    'packers-and-movers-in-mandsaur' => '/packers-and-movers-in-ratlam',
+    'packers-and-movers-in-damoh' => '/packers-and-movers-in-sagar',
+    'chandigarh-to-mumbai-packers-and-movers' => '/bangalore-to-chandigarh-packers-and-movers',
+    'chandigarh-to-pune-packers-and-movers' => '/bangalore-to-chandigarh-packers-and-movers',
+    'mumbai-to-chandigarh-packers-and-movers' => '/bangalore-to-chandigarh-packers-and-movers',
+    'patna-to-mumbai-packers-and-movers' => '/delhi-to-patna-packers-and-movers',
+    'mumbai-to-patna-packers-and-movers' => '/delhi-to-patna-packers-and-movers',
+    'patna-to-kolkata-packers-and-movers' => '/delhi-to-patna-packers-and-movers',
+    'kolkata-to-patna-packers-and-movers' => '/delhi-to-patna-packers-and-movers',
+    'jamshedpur-to-delhi-packers-and-movers' => '/delhi-to-jamshedpur-packers-and-movers',
+    'ghatshila-to-jamshedpur-packers-and-movers' => '/packers-and-movers-in-jamshedpur',
+    'bhubaneswar-to-jamshedpur-packers-and-movers' => '/jamshedpur-to-bhubaneswar-packers-and-movers',
+    'ramgarh-to-ranchi-packers-and-movers' => '/ranchi-to-ramgarh-packers-and-movers',
+    'chennai-to-salem-packers-and-movers' => '/chennai-to-tirunelveli-packers-and-movers',
+    'salem-to-chennai-packers-and-movers' => '/tirunelveli-to-chennai-packers-and-movers',
+    'hyderabad-to-nagpur-packers-and-movers' => '/nagpur-to-pune-packers-and-movers',
+    'nagpur-to-hyderabad-packers-and-movers' => '/nagpur-to-pune-packers-and-movers',
+    'packers-and-movers-in-hinoo' => '/',
+    'packers-and-movers-in-tupudana' => '/',
+    'routes' => '/'
 ];
 
-$raw_slug = preg_replace('/\.php$/i', '', trim($path, '/'));
+$raw_slug = preg_replace('/\.(php|html)$/i', '', trim($path, '/'));
 if (isset($redirect_map[$raw_slug])) {
     header('HTTP/1.1 301 Moved Permanently');
     header('Location: ' . SITE_BASE_URL . $redirect_map[$raw_slug]);
@@ -147,11 +195,11 @@ if (preg_match('#^packers-and-movers-in-ratu-ranchi.*#i', $raw_slug)) {
     exit;
 }
 
-// 301 Canonical URL Normalization: Remove .php extension
-if (preg_match('#\.php$#i', $path)) {
-    $clean_url = preg_replace('#\.php$#i', '', $path);
+// 301 Canonical URL Normalization: Remove .php and .html extensions
+if (preg_match('#\.(php|html)$#i', $path)) {
+    $clean_url = preg_replace('#\.(php|html)$#i', '', $path);
     header('HTTP/1.1 301 Moved Permanently');
-    header('Location: ' . SITE_BASE_URL . $clean_url);
+    header('Location: ' . SITE_BASE_URL . ($clean_url ? $clean_url : '/'));
     exit;
 }
 

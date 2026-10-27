@@ -488,7 +488,7 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
                 <p><strong>Saturday 6:00 PM:</strong> Power-on testing, network link verification, and system diagnostic handoff for customer software validation.</p>
                 <div class="dcr-highlight-box">
                     <h4>Pillar Authority Reference</h4>
-                    <p>Read about our full institutional moving credentials on our centralized <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar authority page.</p>
+                    <p>Read about our full institutional moving credentials on our centralized <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar authority page.</p>
                 </div>
             </div>
             <div>

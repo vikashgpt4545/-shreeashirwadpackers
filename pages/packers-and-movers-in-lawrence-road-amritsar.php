@@ -398,7 +398,7 @@ $state_name = 'Punjab';
           <p>Lawrence Road holds an iconic place in the vibrant lifestyle, retail commerce, and upscale living of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-amritsar" style="color: #2563eb; font-weight: 700; text-decoration: underline;">Amritsar</a>. Originating from Novelty Chowk and stretching toward the Civil Lines and Majitha Road, Lawrence Road is widely celebrated for its world-class shopping boutiques, premium sweetmakers, gourmet dining establishments, and exclusive residential pockets such as Joshi Colony, Dayanand Nagar, and White Avenue.</p>
           <p>The neighborhood is predominantly populated by leading business magnates, medical directors, senior academics from Guru Nanak Dev University, legal consultants, and affluent families residing in expansive independent kothis and modern multi-level luxury flats. Because residences here feature high-value teakwood furniture, imported kitchen cabinetry, valuable art, and delicate chinaware, shifting in Lawrence Road requires exceptional professionalism, precision, and respectful care.</p>
           <p>Given the heavy daytime pedestrian and vehicular traffic along Lawrence Road's retail spine, executing seamless relocations demands disciplined timing and logistical expertise. Our specialized moving crew schedules packing and loading during early morning or evening hours, deploying low-noise rubber-wheeled trolleys and compact shuttle transport to navigate access lanes without disrupting local retail traffic.</p>
-          <p>Shree Ashirwad Packers and Movers brings over 22 years of verified moving excellence to Lawrence Road. Backed by our nationwide network and central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; font-weight: 700;">Shree Ashirwad Packers Ranchi</a>, we execute domestic home shifting, corporate relocations, and intercity container transport to Delhi NCR, Mumbai, Bangalore, Kolkata, and beyond with zero damage and supreme punctuality.</p>
+          <p>Shree Ashirwad Packers and Movers brings over 22 years of verified moving excellence to Lawrence Road. Backed by our nationwide network and central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 700;">Shree Ashirwad Packers Ranchi</a>, we execute domestic home shifting, corporate relocations, and intercity container transport to Delhi NCR, Mumbai, Bangalore, Kolkata, and beyond with zero damage and supreme punctuality.</p>
         </div>
         <div>
           <div class="lra-image-container">
@@ -648,7 +648,7 @@ $state_name = 'Punjab';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-batala" class="lra-cluster-link">Packers and Movers in Batala</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalandhar" class="lra-cluster-link">Packers and Movers in Jalandhar</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ludhiana" class="lra-cluster-link">Packers and Movers in Ludhiana</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="lra-cluster-link">Ranchi Headquarters Hub</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="lra-cluster-link">Ranchi Headquarters Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="lra-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

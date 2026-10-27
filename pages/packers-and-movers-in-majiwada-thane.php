@@ -497,7 +497,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="mjw-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Majiwada Thane.</p>
         </div>
 
-        <p>Working in harmonious coordination with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a> and linking to our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether you are shifting within Majiwada, traveling into Mumbai, or executing an interstate transfer.</p>
+        <p>Working in harmonious coordination with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-thane">Packers and Movers in Thane</a> and linking to our eastern headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether you are shifting within Majiwada, traveling into Mumbai, or executing an interstate transfer.</p>
 
         <p>Every assignment is assigned a dedicated moving supervisor who oversees the entire journey from on-site survey to final unwrapping, ensuring your precious home possessions arrive at your new flat in immaculate condition.</p>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Pune Authority Hub</a>
             </div>
             <div class="mjw-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi Central HQ</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi Central HQ</a>
             </div>
         </div>
 

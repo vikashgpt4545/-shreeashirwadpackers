@@ -611,7 +611,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-btm-lay
 
       <p class="btl-p">BTM Layout serves as a natural conduit between South Bangalore and the eastern IT corridors. Our daily local fleet runs frequent shifting routes connecting BTM Layout directly with Koramangala, HSR Layout, Electronic City, Jayanagar, and JP Nagar. Whether you are upgrading to a larger home or moving closer to your office campus, our localized infrastructure ensures on-time completion.</p>
 
-      <p class="btl-p">For relocations outside Karnataka, our national highway network links Bangalore directly with Chennai, Mumbai, Pune, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2b6cb0; font-weight: 700;">Packers and Movers in Ranchi</a>. We ensure complete logistical transparency, offering real-time status updates and dedicated relocation managers from pickup to final delivery.</p>
+      <p class="btl-p">For relocations outside Karnataka, our national highway network links Bangalore directly with Chennai, Mumbai, Pune, Hyderabad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2b6cb0; font-weight: 700;">Packers and Movers in Ranchi</a>. We ensure complete logistical transparency, offering real-time status updates and dedicated relocation managers from pickup to final delivery.</p>
 
       <div class="btl-cluster-links">
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" class="btl-cluster-badge">Bangalore Central Hub</a>
@@ -620,7 +620,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-btm-lay
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-electronic-city-bangalore" class="btl-cluster-badge">Electronic City</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-indiranagar-bangalore" class="btl-cluster-badge">Indiranagar</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="btl-cluster-badge">Charges Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="btl-cluster-badge">Company HQ (Ranchi)</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="btl-cluster-badge">Company HQ (Ranchi)</a>
       </div>
     </section>
   </div>

@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="csn-image-caption">Experienced loading crews securing packed household consignments inside our weatherproof container trucks in Aurangabad.</p>
         </div>
 
-        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers and Movers in Pune</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nashik">Packers and Movers in Nashik</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nagpur">Packers and Movers in Nagpur</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to CIDCO or Waluj, connecting across Maharashtra, or executing an interstate transfer across India.</p>
+        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mumbai">Packers and Movers in Mumbai</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune">Packers and Movers in Pune</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nashik">Packers and Movers in Nashik</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nagpur">Packers and Movers in Nagpur</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving across nodes to CIDCO or Waluj, connecting across Maharashtra, or executing an interstate transfer across India.</p>
 
         <p>Every assignment is managed under the direct supervision of a dedicated relocation officer who coordinates every phase from pre-move survey to final furniture placement, ensuring your precious home possessions arrive in flawless condition.</p>
     </section>
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-solapur">Packers Movers Solapur</a>
             </div>
             <div class="csn-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

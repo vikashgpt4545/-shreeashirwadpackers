@@ -509,7 +509,7 @@
     <div class="klm-grid-2">
       <div>
         <p>Kollam boasts centuries of maritime commercial heritage, celebrated for its historic trading connections with China, Arabia, and Europe. Today, Kollam stands as a thriving district capital driven by global cashew processing, mineral titanium industries (KMML Chavara), seafood processing companies, and expanding residential communities stretching from Chinnakada Clock Tower to Ashramam and Kavanad.</p>
-        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Kollam district.</p>
+        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Kollam district.</p>
         <p>Whether you are shifting a coastal family bungalow in Tangasseri, transitioning into a modern apartment in Kadappakada, or relocating corporate machinery across the industrial estates of Kilikollur, our uniformed moving crew guarantees total safety and precision.</p>
       </div>
       <div>

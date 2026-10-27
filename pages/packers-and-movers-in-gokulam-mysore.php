@@ -549,7 +549,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Mindful & Quiet Relocation Protocols:</strong> Non-disruptive packing and loading tailored for peaceful residential zones and spiritual retreats.</li>
                 <li><strong>International Relocation & Baggage Care:</strong> Multi-layer protective packing, custom inventory lists, and door-to-door forwarding for global yoga scholars and expats.</li>
                 <li><strong>Antique Rosewood & Art Preservation:</strong> Customized foam padding, wooden crating, and glassine paper shielding for fragile Tanjore artworks and rosewood furniture.</li>
-                <li><strong>Direct Link to Mysore & Bangalore Authority Hubs:</strong> Backed by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mysore">Packers and Movers in Mysore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Direct Link to Mysore & Bangalore Authority Hubs:</strong> Backed by parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mysore">Packers and Movers in Mysore</a> and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 
@@ -778,7 +778,7 @@ require_once ROOT_PATH . '/includes/header.php';
 
         <div class="gkm-faq-item">
             <h3>Is transit insurance provided for long-distance relocations from Gokulam?</h3>
-            <p>Yes, we issue 100% all-risk transit insurance policies with explicit itemized declarations, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> for complete peace of mind.</p>
+            <p>Yes, we issue 100% all-risk transit insurance policies with explicit itemized declarations, coordinated through our company central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> for complete peace of mind.</p>
         </div>
 
         <div class="gkm-faq-item">

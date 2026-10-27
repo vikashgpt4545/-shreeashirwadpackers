@@ -223,7 +223,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Over the past decade, Ranchi has experienced remarkable urbanization. With the expansion of premier residential corridors across Kanke Road, Morabadi, Bariatu, Argora, and Namkum, thousands of families, central government officials, and corporate professionals relocate every month.</p>
                         <p>However, this rapid growth has fueled an influx of unregulated digital middlemen. A search for 'packers and movers in Ranchi' reveals dozens of visually polished landing pages that are actually run by lead aggregators operating out of distant cities. These entities possess zero trucks, zero packing materials, and no permanent employees in Jharkhand. They auction your relocation job to the lowest-bidding street laborer or open pickup driver, creating catastrophic risks of damaged goods, sudden price extortion, and transit theft.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we believe informed customers make the best decisions. Our established physical headquarters in Harmu Housing Colony operates with transparent company-owned assets, background-verified personnel, and fully certified operational protocols.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we believe informed customers make the best decisions. Our established physical headquarters in Harmu Housing Colony operates with transparent company-owned assets, background-verified personnel, and fully certified operational protocols.</p>
                         <div class="hcpm-highlight">
                             <h4>Calculate Transparent Government-Grade Moving Tariffs</h4>
                             <p>Verify legitimate market rates with itemized breakdowns using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -425,7 +425,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Relocation Guides, Neighborhoods & Logistics Resources</h3>
                 <p>Arm yourself with authentic moving guides, pricing calculators, and area profiles:</p>
                 <div class="hcpm-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/common-moving-mistakes">Common Moving Mistakes</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist</a>
@@ -434,8 +434,8 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/best-time-to-move-house-ranchi">Best Time to Move House</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use">Packing Materials Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/transfer-allowance-reimbursement-guide">Govt Transfer Allowance Guide</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
                 </div>
             </section>

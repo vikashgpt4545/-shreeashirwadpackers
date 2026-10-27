@@ -1536,7 +1536,7 @@ $meta_keywords = "packers and movers palamu to ranchi, palamu to ranchi packers 
           Explore our dedicated corridor relocation solutions across Jharkhand and central services in the capital city of Ranchi:
         </p>
         <div class="directory-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-palamu" title="Packers and Movers in Palamu" class="dir-link dir-link-primary">Packers and Movers in Palamu</a>
           <a href="<?php echo SITE_BASE_URL; ?>/daltonganj-to-ranchi-packers-and-movers" title="Daltonganj to Ranchi Packers and Movers" class="dir-link">Daltonganj to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-pakur-to-ranchi" title="Packers and Movers Pakur to Ranchi" class="dir-link">Pakur to Ranchi Movers</a>

@@ -509,7 +509,7 @@
     <div class="ktm-grid-2">
       <div>
         <p>Kottayam holds a unique place in Indian history as the first town to achieve 100% literacy, earning the revered title Akshara Nagari. As the national headquarters for the Rubber Board of India, home to iconic publishing corporations like Malayala Manorama and DC Books, and surrounded by sprawling spice and rubber plantations, relocating in Kottayam demands experienced logistics handling suited to both modern high-rises and plantation terrains.</p>
-        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Kottayam district.</p>
+        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Kottayam district.</p>
         <p>Whether you are shifting a multi-generation family estate in Kanjikuzhi, moving into a contemporary apartment in Nagampadam, or transferring corporate archives and rubber machinery, our uniformed moving crew guarantees total safety and precision.</p>
       </div>
       <div>

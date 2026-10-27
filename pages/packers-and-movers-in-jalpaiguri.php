@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
                 <div class="jpg-highlight-box">
                     <div class="jpg-highlight-title">Direct Sub-Himalayan Transit Corridor Advantage</div>
-                    <p class="jpg-highlight-desc">Operating through interconnected logistics networks linked directly to our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a> and primary North Bengal terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, our vehicles provide seamless door-to-door transit to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raiganj">Raiganj</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-malda">Malda</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without transshipment delays.</p>
+                    <p class="jpg-highlight-desc">Operating through interconnected logistics networks linked directly to our regional headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> and primary North Bengal terminals in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Siliguri</a>, our vehicles provide seamless door-to-door transit to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raiganj">Raiganj</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-malda">Malda</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Kolkata</a> without transshipment delays.</p>
                 </div>
 
                 <p class="jpg-body-p">The residential landscape of Jalpaiguri features an elegant mix of colonial-era heritage residences in Race Course Para and Hakimpara, bustling commercial corridors around Dinbazar, DBC Road, and Kadamtala, as well as modern residential developments across Panda Para, Deshbandhu Para, and Paharpur. Our experienced drivers and handlers are thoroughly accustomed to local bridge weight guidelines along the Teesta and Karala rivers, narrow residential lanes, and heritage property access ways, ensuring completely scratch-free moving operations.</p>
@@ -812,7 +812,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri" class="jpg-cluster-link">Siliguri Gateway</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raiganj" class="jpg-cluster-link">Raiganj Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-malda" class="jpg-cluster-link">Malda Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="jpg-cluster-link">Ranchi Headquarters</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="jpg-cluster-link">Ranchi Headquarters</a>
         </div>
     </section>
 </main>

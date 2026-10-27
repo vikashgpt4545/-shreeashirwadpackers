@@ -656,7 +656,7 @@ require_once __DIR__ . '/includes/header.php';
     <nav class="sk2r-breadcrumb" aria-label="Breadcrumb">
       <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
       <span>/</span>
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
       <span>/</span>
       <span class="current">Saraikela to Ranchi Packers and Movers</span>
     </nav>
@@ -1315,7 +1315,7 @@ require_once __DIR__ . '/includes/header.php';
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-saraikela-packers-and-movers" class="sk2r-cluster-btn">
         <i class="fas fa-arrow-left"></i> Ranchi to Saraikela (Return)
       </a>
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="sk2r-cluster-btn">
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="sk2r-cluster-btn">
         <i class="fas fa-home"></i> Ranchi Relocation Hub
       </a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="sk2r-cluster-btn">
@@ -1458,7 +1458,7 @@ require_once __DIR__ . '/includes/header.php';
       "@type": "ListItem",
       "position": 2,
       "name": "Packers and Movers in Ranchi",
-      "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+      "item": "https://www.shreeashirwadpackers.com/"
     },
     {
       "@type": "ListItem",

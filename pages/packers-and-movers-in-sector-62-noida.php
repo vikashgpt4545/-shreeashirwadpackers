@@ -738,7 +738,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s62-intro-p">Beyond residential moving, Sector 62 is the epicenter of software development, financial technology, and back-office operations in Gautam Buddha Nagar. Moving a corporate workspace across Candor TechSpace, Logix Cyber Park, or Stellar IT Park requires clockwork precision. Our IT infrastructure moving crew specializes in the safe handling of mission-critical hardware, server racks, network switches, and delicate lab equipment.</p>
         <p class="s62-intro-p">We employ anti-static bubble wrap (ESD safe) for electronic circuit boards, padded computer crates with individual monitor compartments, and systematic color-coded labeling for each employee workstation. To ensure business continuity, our commercial moves are scheduled for execution over Friday night through Sunday evening, allowing your IT enterprise to be 100% operational when staff arrives on Monday morning.</p>
 
-        <p class="s62-intro-p">For long-distance relocations connecting from Noida to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d9488; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or eastern corridors including Patna and Jamshedpur, our vehicles access the Eastern Peripheral Expressway (EPE) via NH-9 in under 20 minutes, avoiding inner Delhi transit congestion entirely.</p>
+        <p class="s62-intro-p">For long-distance relocations connecting from Noida to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d9488; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or eastern corridors including Patna and Jamshedpur, our vehicles access the Eastern Peripheral Expressway (EPE) via NH-9 in under 20 minutes, avoiding inner Delhi transit congestion entirely.</p>
 
         <div class="s62-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Container truck delivering household goods in Sector 62 Noida" width="580" height="360">
@@ -790,7 +790,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida-extension" class="s62-cluster-link">Noida Extension Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-indirapuram-ghaziabad" class="s62-cluster-link">Indirapuram Ghaziabad</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="s62-cluster-link">Delhi NCT Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="s62-cluster-link">Ranchi Corporate HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="s62-cluster-link">Ranchi Corporate HQ</a>
         </div>
     </section>
 

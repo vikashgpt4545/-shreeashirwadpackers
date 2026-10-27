@@ -67,7 +67,7 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
         "@type": "ListItem",
         "position": 2,
         "name": "Intercity Corridors",
-        "item": "https://shreeashirwadpackers.com/intercity-packers-and-movers-cost-calculator"
+        "item": "https://shreeashirwadpackers.com/packers-and-movers-cost-calculator"
       },
       {
         "@type": "ListItem",
@@ -627,7 +627,7 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
 <section class="pnm-section">
   <div class="pnm-heading-group">
     <h2>Estimated Shifting Charges: Pune to Mumbai (150 km)</h2>
-    <p>Clear, upfront pricing with zero hidden costs. Use our <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" style="color: #2563eb; font-weight: 600; text-decoration: underline;">intercity movers cost calculator</a> and live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #2563eb; font-weight: 600; text-decoration: underline;">tariff rate formulas</a> for exact estimates.</p>
+    <p>Clear, upfront pricing with zero hidden costs. Use our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #2563eb; font-weight: 600; text-decoration: underline;">intercity movers cost calculator</a> and live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #2563eb; font-weight: 600; text-decoration: underline;">tariff rate formulas</a> for exact estimates.</p>
   </div>
   <div class="pnm-table-container">
     <table class="pnm-table">
@@ -804,8 +804,8 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
     <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-bangalore-packers-and-movers" class="pnm-cluster-item">Mumbai to Bangalore Movers</a>
     <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-pune-packers-and-movers" class="pnm-cluster-item">Kolkata to Pune Interstate Line</a>
     <a href="<?php echo SITE_BASE_URL; ?>/pune-to-kolkata-packers-and-movers" class="pnm-cluster-item">Pune to Kolkata Long-Haul Route</a>
-    <a href="<?php echo SITE_BASE_URL; ?>/intercity-packers-and-movers-cost-calculator" class="pnm-cluster-item">Intercity Moving Tariff Calculator</a>
-    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="pnm-cluster-item">Shree Ashirwad HQ Authority Hub</a>
+    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" class="pnm-cluster-item">Intercity Moving Tariff Calculator</a>
+    <a href="<?php echo SITE_BASE_URL; ?>/" class="pnm-cluster-item">Shree Ashirwad HQ Authority Hub</a>
   </div>
 </section>
 

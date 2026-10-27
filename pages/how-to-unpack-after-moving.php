@@ -244,7 +244,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>Whether settling into an executive colony like SAIL City, a central Ranchi flat near Lalpur, or a sprawling residence in Doranda, establishing immediate room order allows working parents to resume office duties and children to attend school without interruption or misplaced belongings.</p>
                         <div class="huam-highlight">
                             <h4>The Shree Ashirwad White-Glove Solution</h4>
-                            <p>Prefer not to lift a finger after a tiring journey? Our professional unpacking crew at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a> provides end-to-end decartoning, wardrobe hanging, crockery wiping, and complete debris disposal.</p>
+                            <p>Prefer not to lift a finger after a tiring journey? Our professional unpacking crew at <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a> provides end-to-end decartoning, wardrobe hanging, crockery wiping, and complete debris disposal.</p>
                         </div>
                     </div>
                     <div class="huam-img-box">
@@ -468,7 +468,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Relocation Guides & Neighborhood Hubs</h3>
                 <p>Plan your move across Ranchi with our specialized packing tutorials and local neighborhood guides:</p>
                 <div class="huam-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">New House Shifting Guide</a>
@@ -477,8 +477,8 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-pack-electronics">How to Pack Electronics</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use">Packing Materials Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers Dhanbad</a>
                 </div>
             </section>

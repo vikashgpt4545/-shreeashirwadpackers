@@ -567,7 +567,7 @@
         </div>
       </div>
 
-      <p>Every assignment is executed under the direct supervision of an experienced shift coordinator who monitors packaging integrity, inventory indexing, and on-schedule vehicular transit. Our direct connection to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Packers and Movers Ranchi</a> provides cross-state logistical strength and unbroken tracking for all intercity relocations across India.</p>
+      <p>Every assignment is executed under the direct supervision of an experienced shift coordinator who monitors packaging integrity, inventory indexing, and on-schedule vehicular transit. Our direct connection to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Packers and Movers Ranchi</a> provides cross-state logistical strength and unbroken tracking for all intercity relocations across India.</p>
 
       <div class="mvr-image-container">
         <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture protective wrapping in Mavoor Road Kozhikode" width="580" height="380" loading="lazy">

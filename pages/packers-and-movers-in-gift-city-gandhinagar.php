@@ -1,6 +1,10 @@
 <?php
-// pages/packers-and-movers-in-gift-city-gandhinagar.php
-// Handcrafted SEO Hub Page: Shree Ashirwad Packers and Movers in GIFT City Gandhinagar, Gujarat
+/**
+ * Page: Packers and Movers in GIFT City Gandhinagar
+ * Layout: Full-width modern responsive layout (AGENTS.md & AI_PAGE_CREATION_RULES.md compliant)
+ * Scoped Prefix: gft-
+ */
+require_once __DIR__ . '/../includes/config.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -396,7 +400,7 @@
 </head>
 <body>
 
-<?php include_once ROOT_DIR . '/includes/header.php'; ?>
+<?php require_once __DIR__ . '/../includes/header.php'; ?>
 
 <div class="gft-wrap">
     <div class="gft-hero">
@@ -719,7 +723,7 @@
     </div>
 </div>
 
-<?php include_once ROOT_DIR . '/includes/footer.php'; ?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

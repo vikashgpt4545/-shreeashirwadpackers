@@ -575,7 +575,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chennai";
             </div>
             <div class="chn-card">
                 <h3>Interstate Linehaul Moving</h3>
-                <p>Direct closed-container transport connecting Chennai with Bangalore, Hyderabad, Mumbai, Delhi NCR, Kolkata, and our central headquarters network via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>.</p>
+                <p>Direct closed-container transport connecting Chennai with Bangalore, Hyderabad, Mumbai, Delhi NCR, Kolkata, and our central headquarters network via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>.</p>
             </div>
         </div>
 

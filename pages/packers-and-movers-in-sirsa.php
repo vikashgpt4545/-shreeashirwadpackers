@@ -589,7 +589,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="srs-services-section">
         <h2>Why Sirsa Families and Enterprises Choose Shree Ashirwad</h2>
         <p>Relocating across Haryana, Punjab, or nationwide requires logistics precision and dependable partners. Here is why Shree Ashirwad is the preferred choice in Sirsa:</p>
-        <p><strong>1. Over 15 Years of National Logistics Experience:</strong> Backed by our extensive intercity transport network and strong institutional roots in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">trusted pan-India moving services</a>, we deliver unmatched professional consistency on every route.</p>
+        <p><strong>1. Over 15 Years of National Logistics Experience:</strong> Backed by our extensive intercity transport network and strong institutional roots in <a href="<?php echo SITE_BASE_URL; ?>/">trusted pan-India moving services</a>, we deliver unmatched professional consistency on every route.</p>
         <p><strong>2. 100% In-House Professional Crew:</strong> We never rely on temporary unvetted day-laborers. Every loader, packer, and carpenter is a permanent company employee trained in furniture assembly, appliance wrapping, and customer courtesy.</p>
         <p><strong>3. Comprehensive All-Risk Transit Insurance:</strong> Our policies offer total financial security against transit risks, unforeseen accidents, or adverse weather during long-distance highway travel.</p>
         <p><strong>4. Transparent Upfront Quotations:</strong> What we quote after evaluating your inventory is what you pay. No sudden fuel levies, hidden staircase fees, or surprise unloading charges.</p>

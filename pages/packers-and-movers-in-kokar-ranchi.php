@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -467,7 +467,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-kkr-section">
       <h2>Professional Moving Services in Kokar's Industrial &amp; Residential Hub</h2>
       <p>Kokar stands as one of Ranchi's most bustling commercial, light industrial, and vibrant residential hubs. Located just northeast of the central Lalpur commercial district across the historic Distillery Bridge, Kokar is bisected by the active Circular Road corridor extending towards Kantatoli and Booty Road. Foremost among its landmarks is the sprawling Kokar Industrial Estate—a vital nerve center of automobile engineering workshops, steel fabrication plants, printing presses, commercial godowns, and manufacturing units. Bordering this productive industrial cluster are established, high-density residential colonies including Sadhu Maidan, Khorha Toli, Ayodhya Puri, and Shanti Nagar, home to traders, industrial supervisors, teachers, and business families.</p>
-      <p>Relocating in Kokar demands specialized logistical capability to address two distinctly different environments: heavy commercial moving in the Industrial Estate and careful residential shifting through dense colony lanes. Commercial clients require heavy pallet lifters, precision machinery unbolting, and heavy-duty container trucks capable of handling steel inventory and tools safely. Simultaneously, residential moves in areas like Khorha Toli feature multi-story family homes and narrow interconnecting streets that require compact feeder mini-trucks and delicate furniture handling. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served Kokar for over a decade with flawless precision, combining industrial muscle with white-glove household care.</p>
+      <p>Relocating in Kokar demands specialized logistical capability to address two distinctly different environments: heavy commercial moving in the Industrial Estate and careful residential shifting through dense colony lanes. Commercial clients require heavy pallet lifters, precision machinery unbolting, and heavy-duty container trucks capable of handling steel inventory and tools safely. Simultaneously, residential moves in areas like Khorha Toli feature multi-story family homes and narrow interconnecting streets that require compact feeder mini-trucks and delicate furniture handling. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers Ranchi</a>, Shree Ashirwad Packers and Movers has served Kokar for over a decade with flawless precision, combining industrial muscle with white-glove household care.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->
@@ -723,7 +723,7 @@ include_once __DIR__ . '/../includes/config.php';
           <p>Northern gateway connecting NH-33, Ring Road, and BIT Mesra with highway container logistics.</p>
         </div>
         <div class="hl-kkr-card">
-          <h4><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum-ranchi" style="color: #1e3a5f; text-decoration: underline;">Packers and Movers in Namkum Ranchi</a></h4>
+          <h4><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum" style="color: #1e3a5f; text-decoration: underline;">Packers and Movers in Namkum Ranchi</a></h4>
           <p>Military station cantonment and research institute moving with CDA-compliant billing and secure container transit.</p>
         </div>
       </div>

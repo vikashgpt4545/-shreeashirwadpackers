@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -467,7 +467,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-btm-section">
       <h2>Professional Moving Services at Ranchi's Strategic Northern Gateway</h2>
       <p>Booty More serves as the quintessential northern gateway, premier transit junction, and critical highway logistics interchange of Ranchi. Situated at the dynamic intersection where National Highway 33 (connecting Ranchi with Ramgarh, Hazaribagh, and Patna) intersects directly with the 6-lane Ranchi Ring Road and the arterial Bariatu Road, Booty More is an indispensable transport nexus. In addition to being the prime access portal to the globally renowned Birla Institute of Technology (BIT Mesra) university township, the locality encompasses prestigious residential settlements in Booty Basti, Vikas Vidyalaya approach, commercial godown complexes, automobile service hubs, and modern apartment towers extending north towards Ormanjhi.</p>
-      <p>Relocating around Booty More requires exceptional coordination and high operational agility. The junction experiences heavy regional and interstate vehicular movement, making route timing and specialized vehicle parking essential. Concurrently, academic moves involving university professors and graduating scholars at BIT Mesra demand gentle handling of extensive research libraries, laboratory computers, and fragile household goods. Furthermore, its immediate connectivity to NH-33 and the Ring Road makes Booty More the prime consolidation center for long-distance interstate moves toward Patna, Gaya, Dhanbad, and Kolkata. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served the Booty More community for over a decade with stellar dedication, ensuring prompt, scratch-free, and completely effortless relocations.</p>
+      <p>Relocating around Booty More requires exceptional coordination and high operational agility. The junction experiences heavy regional and interstate vehicular movement, making route timing and specialized vehicle parking essential. Concurrently, academic moves involving university professors and graduating scholars at BIT Mesra demand gentle handling of extensive research libraries, laboratory computers, and fragile household goods. Furthermore, its immediate connectivity to NH-33 and the Ring Road makes Booty More the prime consolidation center for long-distance interstate moves toward Patna, Gaya, Dhanbad, and Kolkata. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">movers and packers Ranchi</a>, Shree Ashirwad Packers and Movers has served the Booty More community for over a decade with stellar dedication, ensuring prompt, scratch-free, and completely effortless relocations.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->

@@ -521,7 +521,7 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
                 <p><strong>North & East Ranchi:</strong> Bariatu Road, Booty More, Kokar Industrial Area, Kantatoli, Tatisilwai, Namkum, Pandra.</p>
                 <div class="tmp-highlight-box">
                     <h4>Need Full Moving Assistance?</h4>
-                    <p>Visit our central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar page to see complete turnkey household packing solutions.</p>
+                    <p>Visit our central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar page to see complete turnkey household packing solutions.</p>
                 </div>
             </div>
         </div>

@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Unlike inert household furniture, living plants are sensitive biological organisms adapted to specific light angles, humidity thresholds, and micro-climates. Moving them involves abrupt temperature fluctuations, sudden darkness, physical vibration, and wind drag.</p>
                         <p>Homeowners in Ranchi—particularly those with lush balcony gardens in Morabadi, Bariatu, or Kanke Road, or prized collections of Bonsai, Monsteras, and Adeniums—frequently find their plants dropping yellow leaves, snapping delicate branches, or succumbing to root rot following an unscientific move.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our specialized botanical moving protocols balance plant physiology with transport physics, ensuring your cherished green collection arrives vibrant and ready to thrive in your new residence.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our specialized botanical moving protocols balance plant physiology with transport physics, ensuring your cherished green collection arrives vibrant and ready to thrive in your new residence.</p>
                         <div class="plrg-highlight">
                             <h4>Calculate Transparent Plant Moving Rates</h4>
                             <p>Plan your total moving investment with zero guesswork. Calculate local Ranchi and inter-city rates using our interactive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -418,7 +418,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Family Relocation Resources, Local Hubs & Packing Guides</h3>
                 <p>Discover expert moving resources, packing techniques, and local branch locations across Ranchi:</p>
                 <div class="plrg-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/pet-relocation-guide">Pet Relocation Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/moving-with-kids-family-guide">Moving with Kids Guide</a>
@@ -426,10 +426,10 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">New House Shifting Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-unpack-after-moving">How to Unpack After Moving</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use">Packing Materials Guide</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
                 </div>
             </section>
         </div>

@@ -1551,13 +1551,13 @@ $meta_keywords = "packing and unpacking services in ranchi, packing services in 
         </div>
 
         <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
-          <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="tag-pill">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="tag-pill">Professional Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="tag-pill">Household Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="tag-pill">Local Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/office-shifting-services-in-ranchi" class="tag-pill">Office Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" class="tag-pill">Residential Shifting</a>
           <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" class="tag-pill">Business & Corporate Shifting</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="tag-pill">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/" class="tag-pill">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services/" class="tag-pill">Loading & Unloading Services</a>
           <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" class="tag-pill">Car & Bike Relocation</a>
           <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/" class="tag-pill">Warehousing & Storage</a>

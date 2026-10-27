@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>Moving house is an intensely sensory upheaval for domestic animals. Dogs and cats rely on familiar territorial scents and routines; when their home is packed into boxes, they experience acute panic, loss of appetite, and behavioral distress.</p>
                         <p>Under Section 11 of the Prevention of Cruelty to Animals Act and ethical moving standards, <strong>pets must NEVER be placed inside cargo container trucks</strong> alongside furniture. Enclosed goods trucks lack climate control, reach lethal ambient temperatures exceeding 50°C during highway travel, and produce suffocating diesel fumes and crushing risks from shifting boxes.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our specialized pet coordination desk guides pet parents through humane, veterinary-approved travel channels—including dedicated AC pet cabs, Indian Railways 1st AC coupe bookings, and certified airline pet cargo from Birsa Munda Airport.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our specialized pet coordination desk guides pet parents through humane, veterinary-approved travel channels—including dedicated AC pet cabs, Indian Railways 1st AC coupe bookings, and certified airline pet cargo from Birsa Munda Airport.</p>
                         <div class="prgr-highlight">
                             <h4>Coordinate Your Pet & Household Logistics Together</h4>
                             <p>Synchronize your pet's travel schedule with our household container delivery using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -410,7 +410,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Family Relocation Guides, Neighborhoods & Services</h3>
                 <p>Discover complete family and household logistics resources across Ranchi:</p>
                 <div class="prgr-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/moving-with-kids-family-guide">Moving with Kids Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
@@ -419,8 +419,8 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/moving-on-budget-save-packers-ranchi">Moving on a Budget</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-unpack-after-moving">How to Unpack After Moving</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke (Vet College)</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna">Packers and Movers Patna</a>
                 </div>
             </section>

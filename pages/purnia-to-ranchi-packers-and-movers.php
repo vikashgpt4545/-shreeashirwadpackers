@@ -524,7 +524,7 @@ include_once __DIR__ . '/../includes/config.php';
       Moving your family, executive residence, or medical clinic assets from Purnia in North-Eastern Bihar to Ranchi, the vibrant state capital of Jharkhand, involves traversing an overland distance of roughly 440 kilometers. As an esteemed medical, educational, and agricultural trade hub renowned for the extensive healthcare network of Line Bazar, Eastern India's largest grain market at Gulabbagh, Purnea University, and the Indian Air Force base at Chunapur, Purnia generates continuous relocations heading toward Ranchi’s administrative, educational, and corporate headquarters.
     </p>
     <p class="pn2r-text">
-      Whether you are an academic professor or medical specialist transferring to institutions like BIT Mesra, IIM Ranchi, or RIMS; a defense officer posted to the Namkum military cantonment; a commercial grain merchant expanding distribution into Jharkhand; or a family returning home to neighborhoods like Ashok Nagar, Morabadi, Harmu, or Kanke Road—Shree Ashirwad Packers and Movers delivers proven expertise, personalized care, and prompt door-to-door execution. As the leading brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0369a1; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we operate regular return trips alongside our outbound <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-purnia-packers-and-movers" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Ranchi to Purnia packers and movers</a> corridor with dedicated container linehauls.
+      Whether you are an academic professor or medical specialist transferring to institutions like BIT Mesra, IIM Ranchi, or RIMS; a defense officer posted to the Namkum military cantonment; a commercial grain merchant expanding distribution into Jharkhand; or a family returning home to neighborhoods like Ashok Nagar, Morabadi, Harmu, or Kanke Road—Shree Ashirwad Packers and Movers delivers proven expertise, personalized care, and prompt door-to-door execution. As the leading brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we operate regular return trips alongside our outbound <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-purnia-packers-and-movers" style="color: #0369a1; font-weight: 600; text-decoration: underline;">Ranchi to Purnia packers and movers</a> corridor with dedicated container linehauls.
     </p>
 
     <!-- IMAGE CARD 1 -->
@@ -815,7 +815,7 @@ include_once __DIR__ . '/../includes/config.php';
         <span>Ranchi to Purnia (Outbound)</span>
         <span style="color: #0284c7;">→</span>
       </a>
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
         <span>Ranchi Headquarters Hub</span>
         <span style="color: #0284c7;">→</span>
       </a>

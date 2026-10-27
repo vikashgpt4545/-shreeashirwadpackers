@@ -738,7 +738,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-guindy-chennai";
         <p>This central arterial placement grants our relocation trucks rapid access to every major residential and commercial destination. We coordinate direct transit links between Guindy and key Chennai hubs such as <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai" style="color: #0d3b66; font-weight: 600; text-decoration: underline;">Chennai City Authority</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-omr-chennai" style="color: #0d3b66; font-weight: 600; text-decoration: underline;">OMR IT Expressway</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-porur-chennai" style="color: #0d3b66; font-weight: 600; text-decoration: underline;">Porur IT Corridor</a>.</p>
 
         <div class="gdy-highlight-box">
-            <p><strong>National Route Connectivity:</strong> For long-distance intercity relocations connecting Chennai to Eastern and Northern India, our fleet coordinates through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d3b66; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, offering seamless door-to-door pan-India delivery.</p>
+            <p><strong>National Route Connectivity:</strong> For long-distance intercity relocations connecting Chennai to Eastern and Northern India, our fleet coordinates through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d3b66; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, offering seamless door-to-door pan-India delivery.</p>
         </div>
 
         <h3>Local Enclaves We Cover Across Guindy</h3>

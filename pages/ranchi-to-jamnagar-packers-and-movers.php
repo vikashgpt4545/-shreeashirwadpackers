@@ -960,7 +960,7 @@ require_once __DIR__ . '/../includes/seo.php';
         </div>
 
         <div class="rjm-cluster-grid">
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="rjm-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="rjm-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

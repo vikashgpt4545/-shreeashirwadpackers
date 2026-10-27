@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dindigul";
         <p>Dindigul functions as an essential transportation hub connecting central and southern Tamil Nadu. NH 44 connects north directly to Karur, Salem, and Bangalore, and south to Madurai and Kanyakumari. NH 83 provides high-speed transit northwest through Palani and Pollachi to Coimbatore, and northeast to Tiruchirappalli. State Highway 36 links directly into the Palani Hills up to Kodaikanal. This exceptional highway connectivity ensures rapid transit times in every cardinal direction.</p>
 
         <div class="dgl-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2c5282; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Dindigul directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2c5282; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Dindigul directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Dindigul</h3>

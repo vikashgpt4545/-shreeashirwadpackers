@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>For adults, moving house in Ranchi is typically driven by positive life milestones: purchasing a new flat in Morabadi or Kanke Road, receiving a promotion at MECON or CCL, or upgrading to a spacious independent house in Ashok Nagar. For young children and teenagers, however, a move represents the sudden loss of their familiar bedrooms, school friend circles, neighborhood play parks, and established routines.</p>
                         <p>Child psychologists emphasize that moving ranks among the most stressful events in a child's early life. Toddlers often exhibit clinginess and sleep regressions, while school-age children may express anxiety or defiance about changing schools. A successful family relocation must address these psychological needs with the same care applied to packing delicate chinaware.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our family-first relocation protocols are tailored to keep family members safe, comfortable, and emotionally grounded throughout the entire transition.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our family-first relocation protocols are tailored to keep family members safe, comfortable, and emotionally grounded throughout the entire transition.</p>
                         <div class="mwkf-highlight">
                             <h4>Plan Your Family Budget with Total Transparency</h4>
                             <p>Avoid unexpected financial stress that impacts family harmony. Calculate exact, fixed-price shifting rates using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -394,18 +394,18 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Family Moving Resources, Local Guides & Neighborhoods</h3>
                 <p>Plan your family transition with verified local area guides and child-friendly resources:</p>
                 <div class="mwkf-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">New House Shifting Guide</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-unpack-after-moving">How to Unpack After Moving</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi">How Much Movers Charge</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/moving-on-budget-save-packers-ranchi">Moving on a Budget</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda">Packers and Movers Doranda</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu">Packers and Movers Bariatu</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu">Packers and Movers Harmu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi">Packers and Movers Bariatu</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi">Packers and Movers Harmu</a>
                 </div>
             </section>
         </div>

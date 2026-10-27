@@ -656,7 +656,7 @@ require_once __DIR__ . '/includes/header.php';
     <nav class="g2r-breadcrumb" aria-label="Breadcrumb">
       <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
       <span>/</span>
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
       <span>/</span>
       <span class="current">Garhwa to Ranchi Packers and Movers</span>
     </nav>
@@ -1312,7 +1312,7 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="g2r-cluster-links">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="g2r-cluster-btn">
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="g2r-cluster-btn">
         <i class="fas fa-home"></i> Ranchi Relocation Hub
       </a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="g2r-cluster-btn">
@@ -1455,7 +1455,7 @@ require_once __DIR__ . '/includes/header.php';
       "@type": "ListItem",
       "position": 2,
       "name": "Packers and Movers in Ranchi",
-      "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+      "item": "https://www.shreeashirwadpackers.com/"
     },
     {
       "@type": "ListItem",

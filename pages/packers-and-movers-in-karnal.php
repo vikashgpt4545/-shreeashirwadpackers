@@ -699,7 +699,7 @@
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rohtak" class="knl-cluster-link">Rohtak City Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-panchkula" class="knl-cluster-link">Panchkula Hub</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi" class="knl-cluster-link">Delhi NCR Hub</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="knl-cluster-link">Ranchi Head Office</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="knl-cluster-link">Ranchi Head Office</a>
       </div>
     </div>
   </section>

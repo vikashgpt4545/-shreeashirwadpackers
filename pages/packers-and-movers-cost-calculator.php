@@ -499,14 +499,14 @@ require_once BASE_PATH . '/includes/config.php';
         <h3>Connected Relocation & Pricing Hubs</h3>
         <p style="margin: 0 0 16px; font-size: 0.94rem; color: #475569;">Explore specialized pricing breakdowns, per-kilometer rates, vehicle calculators, and regional headquarters hubs:</p>
         <div class="pmc-cluster-links">
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers in Ranchi HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">Packers & Movers in Ranchi HQ</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Ranchi Local Tariff Card</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-charges-calculator">Bike Charges Calculator</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transportation-cost-calculator">Car Shipping Calculator</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Breakdown</a>
             <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/">Residential Shifting Service</a>
             <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/">Vehicle Carrier Services</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-relocation-guide">Ranchi to Patna Corridor</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers">Ranchi to Patna Corridor</a>
         </div>
     </div>
 

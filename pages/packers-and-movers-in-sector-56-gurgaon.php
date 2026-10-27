@@ -490,7 +490,7 @@ include_once ROOT_PATH . '/includes/header.php';
         
         <h3 style="color: #1e1b4b; font-size: 1.25rem; font-weight: 700; text-align: center; margin: 24px 0 12px;">Strategic Faridabad Road Gateway & Inter-State Transit</h3>
         
-        <p class="s56g-intro-p">Situated at the gateway of the Gurgaon-Faridabad Highway, Sector 56 offers unparalleled connectivity to NIT Faridabad and Greater Faridabad, while the Golf Course Road underpasses allow swift transit to South Delhi and NH-48. Moreover, our inter-state linehaul network connects Sector 56 families directly to Eastern India via our company headquarters network at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, backed by comprehensive transit insurance and transparent pricing.</p>
+        <p class="s56g-intro-p">Situated at the gateway of the Gurgaon-Faridabad Highway, Sector 56 offers unparalleled connectivity to NIT Faridabad and Greater Faridabad, while the Golf Course Road underpasses allow swift transit to South Delhi and NH-48. Moreover, our inter-state linehaul network connects Sector 56 families directly to Eastern India via our company headquarters network at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, backed by comprehensive transit insurance and transparent pricing.</p>
 
         <div class="s56g-image-container">
             <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting in Sector 56 Gurgaon" width="580" height="360">

@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kumbakonam";
         <p>Kumbakonam holds an exceptionally strategic location in Central Tamil Nadu's Cauvery Delta. NH 36 provides direct connectivity south to Thanjavur and north toward Panruti, Vikravandi, and Chennai. State Highway 64 links east toward Mayiladuthurai, Sirkazhi, and the coastal port regions. State Highway 66 connects toward Kollidam and Chidambaram. This extensive road network allows our container fleet to reach any Southern Indian trade center quickly and reliably.</p>
 
         <div class="kbk-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #744210; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Kumbakonam directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Relocating beyond Tamil Nadu? Through our company headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #744210; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Kumbakonam directly to Jharkhand, Bihar, West Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Kumbakonam</h3>

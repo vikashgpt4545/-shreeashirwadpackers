@@ -77,7 +77,7 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
@@ -467,7 +467,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-tpd-section">
       <h2>Professional Moving &amp; Industrial Logistics in Southern Ranchi</h2>
       <p>Tupudana serves as Ranchi's foremost heavy commercial, fabrication, and industrial growth center. Situated on the southern periphery of the capital along the vital Ranchi–Khunti highway corridor and intersecting directly with the 6-lane Ranchi Ring Road, Tupudana is celebrated for its dense cluster of stone crushing plants, marble processing yards, granite cutting units, structural steel fabrication shops, and plastic molding enterprises. Alongside its bustling industrial parks, Tupudana encompasses rapidly expanding residential settlements in Hulhundu, Balalong, and along the scenic approaches toward Hatia Dam, where factory owners, engineers, supervisory staff, and local families reside.</p>
-      <p>Relocation in Tupudana demands a unique blend of heavy industrial capability and delicate domestic packing finesse. Transferring industrial manufacturing units requires specialized rigging gear, hydraulic jack systems, gantry lifters, and heavy-duty trailers capable of handling multi-ton machinery, raw materials, and precision electrical panels without structural shock. Concurrently, family home shifting in surrounding residential colonies demands multi-layer bubble wrap protection, expert furniture carpentry, and punctual enclosed container transit. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers provides comprehensive industrial and residential moving solutions backed by over a decade of field experience and zero damage guarantees.</p>
+      <p>Relocation in Tupudana demands a unique blend of heavy industrial capability and delicate domestic packing finesse. Transferring industrial manufacturing units requires specialized rigging gear, hydraulic jack systems, gantry lifters, and heavy-duty trailers capable of handling multi-ton machinery, raw materials, and precision electrical panels without structural shock. Concurrently, family home shifting in surrounding residential colonies demands multi-layer bubble wrap protection, expert furniture carpentry, and punctual enclosed container transit. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">movers and packers Ranchi</a>, Shree Ashirwad Packers and Movers provides comprehensive industrial and residential moving solutions backed by over a decade of field experience and zero damage guarantees.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->
@@ -719,7 +719,7 @@ include_once __DIR__ . '/../includes/config.php';
           <p>HEC township and JSCA international stadium zone relocation with specialized heavy goods logistics.</p>
         </div>
         <div class="hl-tpd-card">
-          <h4><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum-ranchi" style="color: #1e3a5f; text-decoration: underline;">Packers and Movers in Namkum Ranchi</a></h4>
+          <h4><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum" style="color: #1e3a5f; text-decoration: underline;">Packers and Movers in Namkum Ranchi</a></h4>
           <p>Military station cantonment and research institute moving with CDA-compliant billing and secure container transit.</p>
         </div>
         <div class="hl-tpd-card">

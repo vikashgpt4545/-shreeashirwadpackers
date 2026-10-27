@@ -117,7 +117,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Packers and Movers Ranchi",
-                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
@@ -1009,7 +1009,7 @@ require_once __DIR__ . '/../includes/seo.php';
         </div>
 
         <div class="rkl-cluster-grid">
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="rkl-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="rkl-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>

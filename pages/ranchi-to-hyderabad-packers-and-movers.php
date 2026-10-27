@@ -1574,14 +1574,14 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
           </p>
 
           <div class="rth-tag-cloud" style="margin-bottom: 40px;">
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="rth-tag-pill">Packers and Movers in Ranchi Jharkhand</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="rth-tag-pill">Packers and Movers in Ranchi Jharkhand</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bangalore-packers-and-movers" class="rth-tag-pill">Ranchi to Bangalore Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-packers-and-movers" class="rth-tag-pill">Ranchi to Delhi Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-dhanbad-packers-and-movers" class="rth-tag-pill">Ranchi to Dhanbad Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jamshedpur-packers-and-movers" class="rth-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Jamshedpur Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="rth-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Kolkata Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="rth-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Patna Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/professional-packers-and-movers-in-ranchi" class="rth-tag-pill">Professional Movers in Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="rth-tag-pill">Professional Movers in Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="rth-tag-pill">Household Shifting Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="rth-tag-pill">Local Shifting in Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/office-shifting-services-in-ranchi" class="rth-tag-pill">Office Shifting in Ranchi</a>

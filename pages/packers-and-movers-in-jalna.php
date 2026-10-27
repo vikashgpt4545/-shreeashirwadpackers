@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="jln-image-caption">Experienced loading crews securing packed household consignments inside our weatherproof container trucks in Jalna.</p>
         </div>
 
-        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aurangabad">Packers and Movers in Aurangabad</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-parbhani">Packers and Movers in Parbhani</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nanded">Packers and Movers in Nanded</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Jalna, connecting across Maharashtra, or executing an interstate transfer across India.</p>
+        <p>Operating in direct synergy with our regional master hubs at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aurangabad">Packers and Movers in Aurangabad</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-parbhani">Packers and Movers in Parbhani</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nanded">Packers and Movers in Nanded</a>, and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our relocation infrastructure ensures frictionless transit whether moving locally within Jalna, connecting across Maharashtra, or executing an interstate transfer across India.</p>
 
         <p>Every assignment is managed under the direct supervision of a dedicated relocation officer who coordinates every phase from pre-move survey to final furniture placement, ensuring your precious home possessions arrive in flawless condition. Whether shifting an apartment in New Jalna or moving an industrialist's residence along Devalgaon Raja Road, our teams guarantee absolute reliability.</p>
     </section>
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalgaon">Packers Movers Jalgaon</a>
             </div>
             <div class="jln-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

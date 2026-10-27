@@ -538,7 +538,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Central Highway Express Shuttles:</strong> Rapid moves along NH 48 reaching Bangalore in 5 hours and Hubli in under 2 hours.</li>
                 <li><strong>Medical & Educational Campus Experience:</strong> Dedicated packing for professors, resident doctors, and research scholars at JJM Medical College and BIET.</li>
                 <li><strong>Harihar Industrial Belt Rigging:</strong> Heavy machinery handling, textile loom crating, and industrial spare parts logistics.</li>
-                <li><strong>Pan-India Network Reliability:</strong> Directly connected with our regional authority hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</li>
+                <li><strong>Pan-India Network Reliability:</strong> Directly connected with our regional authority hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hubli">Hubli</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Bangalore</a>, and central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</li>
             </ul>
         </div>
 

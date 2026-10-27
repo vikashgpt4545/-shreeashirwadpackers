@@ -415,7 +415,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p>Our packaging strategy relies on high-grade materials including 5-ply corrugated cardboard, virgin bubble wrap, stretch film, edge corner protectors, and heavy-duty adhesive sealing tapes. This ensures your glassware, flat-screen televisions, washing machines, and electronics stay completely insulated from vibrations and humidity.</p>
 
-        <p>We handle assignments of all scales with the utmost professionalism. Our central network coordination is anchored through our headquarters in Ranchi, which you can explore on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi hub page</a>.</p>
+        <p>We handle assignments of all scales with the utmost professionalism. Our central network coordination is anchored through our headquarters in Ranchi, which you can explore on our <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi hub page</a>.</p>
     </section>
 
     <!-- Section 3: Pricing Estimates Table -->

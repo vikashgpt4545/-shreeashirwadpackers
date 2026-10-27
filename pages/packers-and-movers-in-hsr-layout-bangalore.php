@@ -500,7 +500,7 @@ require_once ROOT_PATH . '/includes/header.php';
             <p class="hsr-image-caption">Dedicated loading crews systematically stowing packed household cartons and furniture inside our closed container trucks in HSR Layout.</p>
         </div>
 
-        <p>Operating in direct coordination with our parent city authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Packers and Movers in Bangalore</a> and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>, our HSR Layout branch provides seamless shifting whether you are moving locally within South-East Bangalore or executing an interstate relocation across India. We also maintain dedicated transit lines linking HSR Layout with Whitefield, Koramangala, Electronic City, and Mumbai.</p>
+        <p>Operating in direct coordination with our parent city authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Packers and Movers in Bangalore</a> and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our HSR Layout branch provides seamless shifting whether you are moving locally within South-East Bangalore or executing an interstate relocation across India. We also maintain dedicated transit lines linking HSR Layout with Whitefield, Koramangala, Electronic City, and Mumbai.</p>
 
         <p>Every assignment is managed under the direct supervision of an experienced relocation coordinator who tracks every milestone from initial inventory survey to final unpacking, ensuring your valuable possessions arrive in perfect condition. Whether relocating a 3 BHK apartment in Sector 2 or shifting an entire technology startup along 27th Main Road, our teams deliver unmatched reliability, technical precision, and complete customer satisfaction.</p>
     </section>
@@ -709,7 +709,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a>
             </div>
             <div class="hsr-cluster-card">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Company HQ Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/">Company HQ Ranchi</a>
             </div>
         </div>
     </section>

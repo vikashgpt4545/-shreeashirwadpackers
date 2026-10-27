@@ -425,7 +425,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-hebbal-
       
       <p class="hbl-p">Our Hebbal moving supervisors also maintain active coordination with society management offices, ensuring that all security documentation and worker badges are cleared in advance, avoiding any last-minute delays at condominium gates and guaranteeing smooth entry to basement loading bays.</p>
 
-      <p class="hbl-p">Furthermore, through our expansive intercity logistics corridors, we connect Hebbal directly with key commercial and industrial hubs across Eastern India. Our regular container routes bridge North Bangalore with our corporate headquarters in Jharkhand through our dedicated <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a> infrastructure, backed by continuous GPS monitoring and all-risk transit insurance protection.</p>
+      <p class="hbl-p">Furthermore, through our expansive intercity logistics corridors, we connect Hebbal directly with key commercial and industrial hubs across Eastern India. Our regular container routes bridge North Bangalore with our corporate headquarters in Jharkhand through our dedicated <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a> infrastructure, backed by continuous GPS monitoring and all-risk transit insurance protection.</p>
     </section>
 
     <!-- Section 2: Comprehensive Relocation Solutions -->
@@ -630,7 +630,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-hebbal-
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jp-nagar-bangalore" class="hbl-cluster-badge">JP Nagar Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-electronic-city-bangalore" class="hbl-cluster-badge">Electronic City Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hbl-cluster-badge">Live Rates Calculator</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="hbl-cluster-badge">Company HQ Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="hbl-cluster-badge">Company HQ Ranchi</a>
       </div>
     </section>
   </main>

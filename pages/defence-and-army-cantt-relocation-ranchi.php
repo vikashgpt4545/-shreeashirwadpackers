@@ -342,7 +342,7 @@ require_once BASE_PATH . '/includes/config.php';
         <h3>Connected Government & Military Relocation Hubs</h3>
         <p style="margin: 0 0 16px; font-size: 0.94rem; color: #475569;">Explore specialized institutional shifting resources, pricing tools, and regional authority pages:</p>
         <div class="def-cluster-links">
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">Packers & Movers Ranchi HQ</a>
             <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/psu-and-government-employee-relocation-ranchi">PSU & Govt Employee Relocation</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bank-employee-transfer-packers-and-movers">Bank Employee Transfer Silo</a>

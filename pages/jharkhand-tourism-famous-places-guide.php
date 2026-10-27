@@ -273,7 +273,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <div>
                     <p>If you ask any long-time Ranchi resident where they take visiting family and weekend guests, the unanimous answer is <strong>Patratu Valley</strong>. Located approximately 35 kilometers north of Ranchi city via Kanke Road and the Pithoria Ghat road, the drive to Patratu rivals the serpentine scenic mountain roads of Himachal or the Western Ghats.</p>
                     <p>The state-of-the-art four-lane expressway snakes down the forested plateau ridge in a series of sweeping hairpin loops, offering jaw-dropping panoramic views of the lush green valley and the expansive Patratu Dam reservoir below. The Jharkhand Tourism Development Corporation (JTDC) has established illuminated viewpoints, safety barriers, and spacious roadside cafes along the descent.</p>
-                    <p>At the base of the valley lies the sprawling Patratu Lake Resort, featuring motorized speedboat rides, family paddle-boating, jet skiing, landscaped walking promenades, and island gazebos. It represents the quintessential Sunday drive for families settling into residential areas like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi" style="color:#0f2b46; font-weight:700;">Morabadi</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi" style="color:#0f2b46; font-weight:700;">Bariatu</a>, or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke-road-ranchi" style="color:#0f2b46; font-weight:700;">Kanke Road</a>.</p>
+                    <p>At the base of the valley lies the sprawling Patratu Lake Resort, featuring motorized speedboat rides, family paddle-boating, jet skiing, landscaped walking promenades, and island gazebos. It represents the quintessential Sunday drive for families settling into residential areas like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi" style="color:#0f2b46; font-weight:700;">Morabadi</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bariatu-ranchi" style="color:#0f2b46; font-weight:700;">Bariatu</a>, or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke" style="color:#0f2b46; font-weight:700;">Kanke Road</a>.</p>
                 </div>
             </div>
         </section>
@@ -417,7 +417,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/moving-with-kids-family-guide">Moving with Kids & Family</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/pet-relocation-guide">Pet Relocation Handbook</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Movers in Morabadi</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke-road-ranchi">Movers in Kanke Road</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Movers in Kanke Road</a>
             </div>
         </section>
     </main>

@@ -348,7 +348,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Intake Audits, All-Risk Transit Insurance & Seamless Re-Delivery</h2>
                 <div class="hsgr-grid-2">
                     <div>
-                        <p>When you book storage with <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our operations crew manages the entire end-to-end custody chain:</p>
+                        <p>When you book storage with <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, our operations crew manages the entire end-to-end custody chain:</p>
                         <ul>
                             <li><strong>Doorstep Pickup:</strong> Our packing crew arrives at your residence, wraps and packs your belongings using long-term materials, and loads them directly into sealed container trucks.</li>
                             <li><strong>Joint Condition Inspection:</strong> Before loading, our supervisor conducts a line-by-line inventory audit with you, noting pre-existing furniture blemishes or glass conditions on a countersigned storage intake document.</li>
@@ -442,7 +442,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Relocation Guides & Neighborhood Hubs</h3>
                 <p>Discover expert moving resources, packing techniques, and local branch locations across Ranchi:</p>
                 <div class="hsgr-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/loading-unloading-labour-guide">Loading Labour Guide</a>
@@ -453,7 +453,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum">Packers and Movers Namkum</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tupudana">Packers and Movers Tupudana</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi">Packers and Movers Morabadi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi">Packers and Movers Morabadi</a>
                 </div>
             </section>
         </div>

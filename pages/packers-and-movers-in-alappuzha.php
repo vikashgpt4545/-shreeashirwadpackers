@@ -509,7 +509,7 @@
     <div class="alp-grid-2">
       <div>
         <p>Alappuzha presents a distinctive geographical landscape where inland canals, Vembanad Lake backwaters, and the Arabian Sea coast merge into a vibrant urban fabric. Known worldwide for the Nehru Trophy Boat Race at Punnamada Lake, export-oriented coir weaving factories, and backwater tourism, moving across Alappuzha requires specialized navigation skills around canal bridges, narrow coastal roads, and waterfront access points.</p>
-        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Alappuzha district.</p>
+        <p>Operating under corporate service benchmarks aligned with our headquarters authority at <a href="<?php echo SITE_BASE_URL; ?>/">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified logistics mastery to Alappuzha district.</p>
         <p>Whether you are shifting an ancestral tharavadu along the canals, transitioning into a modern apartment in Kalarcode, or shipping export consignments from the Kalavoor industrial corridor, our uniformed moving crew guarantees total safety and precision.</p>
       </div>
       <div>

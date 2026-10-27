@@ -551,7 +551,7 @@ require_once ROOT_PATH . '/includes/header.php';
                 <li><strong>Bangalore-Mysore Expressway Express Shifting:</strong> Same-day door-to-door relocation between Bangalore and Mysore utilizing our dedicated fleet of GPS-enabled covered container trucks.</li>
                 <li><strong>Antique Rosewood & Inlay Furniture Preservation:</strong> Multi-layer bubble wrapping, foam edge protectors, and custom wooden crating for Mysore's famous rosewood inlay furniture and brass collectibles.</li>
                 <li><strong>Hebbal IT Corridor & Corporate Transfers:</strong> Complete commercial moving, server rack packaging, ergonomic workstation disassembly, and secure document transfers.</li>
-                <li><strong>Pan-India Long-Haul Integration:</strong> Directly integrated with parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Packers and Movers in Bangalore</a> and national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, ensuring safe container transit across India.</li>
+                <li><strong>Pan-India Long-Haul Integration:</strong> Directly integrated with parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore">Packers and Movers in Bangalore</a> and national headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, ensuring safe container transit across India.</li>
             </ul>
         </div>
 

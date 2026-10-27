@@ -539,7 +539,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="dkl-section-title">Strategic Relocation Leadership in Odisha's Industrial Heartland</h2>
                 <p class="dkl-lead-p">Dhenkanal occupies a central, highly strategic position in Odisha's economic and industrial geography. Situated along the prominent National Highway 55 corridor connecting Cuttack to Sambalpur and Angul, Dhenkanal bridges the coastal plains with the mineral-rich interior. The district has emerged as a powerhouse of heavy industry, hosting the massive integrated steel works of Tata Steel BSL (formerly Bhushan Steel) at Meramandali, the GMR Kamalanga Energy mega thermal plant, Navabharat Ferro Alloys, MGM Minerals, and multiple rolling mills.</p>
                 <p class="dkl-body-p">The presence of these colossal manufacturing plants generates steady, round-the-year mobility among metallurgical engineers, power plant technicians, executive directors, administrative officers, and central banking managers. Families frequently transition between urban residential sectors in Dhenkanal town—such as Mahisapat, Kunjakanta, and Baji Rout Nagar—and industrial executive townships at Meramandali, Kamalanga, and Motanga. Moving safely in this vibrant industrial corridor requires deep logistical coordination, industrial safety compliance, and robust protective packaging.</p>
-                <p class="dkl-body-p">Shree Ashirwad Packers and Movers operates a dedicated regional operations network across Dhenkanal. Utilizing the modernized NH-55 highway and connected arterial routes, we link Dhenkanal seamlessly to neighboring industrial hub <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul">Angul</a> (60 km), the judicial capital <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack">Cuttack</a> (55 km), the smart capital <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (85 km), and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p class="dkl-body-p">Shree Ashirwad Packers and Movers operates a dedicated regional operations network across Dhenkanal. Utilizing the modernized NH-55 highway and connected arterial routes, we link Dhenkanal seamlessly to neighboring industrial hub <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul">Angul</a> (60 km), the judicial capital <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack">Cuttack</a> (55 km), the smart capital <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (85 km), and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="dkl-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods container loading in Dhenkanal" width="580" height="380" loading="lazy">
@@ -789,7 +789,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur" class="dkl-cluster-link">Movers in Sambalpur (210 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" class="dkl-cluster-link">Movers in Rourkela (230 km)</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhadrak" class="dkl-cluster-link">Movers in Bhadrak (150 km)</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dkl-cluster-link">Ranchi Headquarters Hub</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="dkl-cluster-link">Ranchi Headquarters Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dkl-cluster-link">Live Tariff Calculator</a>
                 </div>
             </section>
@@ -828,7 +828,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 Regional Dhenkanal Hub: NH-55 Bypass, Mahisapat Chowk, Dhenkanal, Odisha - 759001.<br>
                 Helpline: +91 93344 60424<br>
                 Email: info@shreeashirwadpackers.com</p>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dkl-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/" class="dkl-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>
         </aside>
     </div>

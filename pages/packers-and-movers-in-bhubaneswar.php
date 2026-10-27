@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <h2 class="bbs-section-title">Professional Packing & Moving Solutions in Bhubaneswar</h2>
                 <p class="bbs-lead-p">Bhubaneswar, the vibrant capital of Odisha and an ancient temple city, has rapidly emerged as Eastern India's primary information technology, education, and healthcare powerhouse. Characterized by wide planned boulevards, world-class software hubs in Infocity and DLF Cybercity, prestigious universities like KIIT, SOA, Utkal University, and IIT Bhubaneswar, and modern residential high-rises stretching from Patia to Khandagiri, the city demands packing and moving services that operate with flawless precision, certified safety, and modern infrastructure.</p>
                 
-                <p class="bbs-body-p">At Shree Ashirwad Packers and Movers, we deliver exceptional relocation services engineered specifically for Bhubaneswar's fast-paced urban lifestyle. Whether moving your apartment across Chandrasekharpur, relocating administrative office equipment near Sachivalaya Marg, or executing an interstate transfer to Jharkhand or West Bengal, our experienced team ensures total peace of mind. Collaborating seamlessly with our regional logistics network through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we guarantee swift, safe, and transparent relocations.</p>
+                <p class="bbs-body-p">At Shree Ashirwad Packers and Movers, we deliver exceptional relocation services engineered specifically for Bhubaneswar's fast-paced urban lifestyle. Whether moving your apartment across Chandrasekharpur, relocating administrative office equipment near Sachivalaya Marg, or executing an interstate transfer to Jharkhand or West Bengal, our experienced team ensures total peace of mind. Collaborating seamlessly with our regional logistics network through <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we guarantee swift, safe, and transparent relocations.</p>
 
                 <div class="bbs-image-container">
                     <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bhubaneswar">
@@ -752,7 +752,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <a href="<?php echo SITE_BASE_URL; ?>/bhubaneswar-to-adityapur-packers-and-movers" class="bbs-cluster-link">Bhubaneswar to Adityapur Route</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata" class="bbs-cluster-link">Kolkata Authority Hub</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur" class="bbs-cluster-link">Kharagpur Engineering Hub</a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bbs-cluster-link">Ranchi Corporate HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/" class="bbs-cluster-link">Ranchi Corporate HQ</a>
                 </div>
             </div>
         </div>

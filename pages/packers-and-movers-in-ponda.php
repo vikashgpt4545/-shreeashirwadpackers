@@ -640,7 +640,7 @@ require_once __DIR__ . '/../includes/config.php';
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" class="pnd-cluster-link">Packers and Movers Bangalore</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-belgaum" class="pnd-cluster-link">Packers and Movers Belgaum</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pune" class="pnd-cluster-link">Packers and Movers Pune</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="pnd-cluster-link">Headquarters Authority Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/" class="pnd-cluster-link">Headquarters Authority Ranchi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pnd-cluster-link">Live Moving Tariff Calculator</a>
       </div>
     </section>

@@ -566,7 +566,7 @@ require_once __DIR__ . '/includes/header.php';
     <nav class="c2r-breadcrumb" aria-label="Breadcrumb">
       <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
       <span>/</span>
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/">Packers & Movers Ranchi</a>
       <span>/</span>
       <span class="current">Chatra to Ranchi Shifting</span>
     </nav>
@@ -1181,7 +1181,7 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="c2r-cluster-grid">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="c2r-cluster-link">
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="c2r-cluster-link">
         <i class="fa fa-map-marker"></i> Ranchi Moving Hub (Main Page)
       </a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-chatra-packers-and-movers" class="c2r-cluster-link">
@@ -1315,7 +1315,7 @@ require_once __DIR__ . '/includes/header.php';
       "@type": "ListItem",
       "position": 2,
       "name": "Packers and Movers in Ranchi",
-      "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+      "item": "https://www.shreeashirwadpackers.com/"
     },
     {
       "@type": "ListItem",

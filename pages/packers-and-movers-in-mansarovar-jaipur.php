@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
             <div>
                 <p>Mansarovar holds the distinct reputation of being one of Asia's largest planned residential colonies. Covering 12 expansive sectors, vibrant commercial boulevards like Madhyam Marg, Varun Path, and Kiran Path, and connected directly via the Jaipur Metro, Mansarovar is home to over 300,000 residents ranging from multi-generational families to university students and corporate professionals. With its wide grid-patterned streets and flourishing retail markets, relocating within or outside Mansarovar requires local geographical mastery and organized moving crews.</p>
                 <p>At <strong>Shree Ashirwad Packers and Movers</strong>, our localized Mansarovar operations team provides bespoke moving services for independent bungalows, duplex houses, and high-rise apartment towers along the B2 Bypass. Whether you are moving between Sector 3 and Sector 9, shifting along Shipra Path, or moving interstate to Delhi, Mumbai, or Bangalore, our crews handle every household possession with white-glove precision. From dismantling king-size double beds and modular wardrobes to protecting delicate chinaware, your home transition is handled seamlessly.</p>
-                <p>As a key hyper-local branch of our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaipur">packers and movers in Jaipur</a> authority network, our clients enjoy standardized corporate pricing, verified inventories, and full transit insurance coverage. Check our live national moving rates anytime on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>, backed by company oversight from our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+                <p>As a key hyper-local branch of our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaipur">packers and movers in Jaipur</a> authority network, our clients enjoy standardized corporate pricing, verified inventories, and full transit insurance coverage. Check our live national moving rates anytime on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges guide</a>, backed by company oversight from our headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
                 <div class="msr-highlight">
                     <strong>Mansarovar Shifting Helpline:</strong> Scheduling your move in Mansarovar? Connect with our localized operations team at <strong>+91-8409531615</strong> or <strong>+91-9835565233</strong> for an instant in-person survey and transparent pricing.
                 </div>
@@ -507,7 +507,7 @@ require_once BASE_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-udaipur">Udaipur Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kota">Kota Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Tariff Guide</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">National HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/">National HQ</a>
         </div>
     </section>
 

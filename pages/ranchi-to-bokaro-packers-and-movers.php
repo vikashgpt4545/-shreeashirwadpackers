@@ -728,7 +728,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Related Relocation Routes, Services & City Hubs</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Explore connected logistics corridors and specialized moving solutions across Jharkhand:</p>
     <div class="links-grid">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="link-item">📍 Ranchi Main Hub & City HQ</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="link-item">📍 Ranchi Main Hub & City HQ</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="link-item">📍 Bokaro City Branch Hub</a>
       <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" class="link-item">🛣️ Bokaro to Ranchi Route</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="link-item">💰 Ranchi Relocation Tariff Chart</a>

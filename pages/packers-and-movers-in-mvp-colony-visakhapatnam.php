@@ -639,7 +639,7 @@
 
     <h3>Strategic Highway Arteries Connecting Coastal & Inland Cities</h3>
     <p>MVP Colony enjoys quick access to both Beach Road and the National Highway corridor. Heading north along Beach Road or via NH 16, container vehicles reach Rushikonda and Madhurawada in under 15 minutes.</p>
-    <p>Heading south along the coastal corridor, our express container carriers connect directly to central railway junctions and southwards toward Vijayawada, Chennai, and Bengaluru, as well as our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
+    <p>Heading south along the coastal corridor, our express container carriers connect directly to central railway junctions and southwards toward Vijayawada, Chennai, and Bengaluru, as well as our corporate base via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>.</p>
     <p>Whether relocating within MVP Colony or coordinating interstate movement to Hyderabad, Bangalore, or North India, our dedicated vehicle tracking gives you complete peace of mind throughout the journey.</p>
   </section>
 
@@ -667,7 +667,7 @@
       </div>
     </div>
 
-    <p>Whether you are shifting locally within MVP Colony or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
+    <p>Whether you are shifting locally within MVP Colony or planning a long-distance interstate relocation back to our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Ranchi</a>, our nationwide logistics network guarantees unparalleled reliability, care, and punctuality.</p>
     <p>With thousands of successful domestic and corporate relocations executed across South, East, and Central India, our MVP Colony branch brings proven enterprise-grade logistics directly to your doorstep with guaranteed delivery schedules.</p>
   </section>
 

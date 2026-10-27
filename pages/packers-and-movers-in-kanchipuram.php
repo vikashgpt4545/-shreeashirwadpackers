@@ -736,7 +736,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kanchipuram";
         <p>Kanchipuram occupies a premier geographic location along northern Tamil Nadu's industrial spine. NH 48 provides a direct 6-lane expressway northeast to Chennai and southwest through Vellore, Ranipet, and Hosur to Bangalore. State Highway 58 connects directly to Chengalpattu, linking smoothly toward the IT corridor of OMR and the East Coast Road. This superior highway network ensures rapid transit times in every cardinal direction.</p>
 
         <div class="kpm-highlight-box">
-            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #702459; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Kanchipuram directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
+            <p><strong>Pan-India Moving Network:</strong> Moving beyond Tamil Nadu? Through our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #702459; font-weight: 600; text-decoration: underline;">Shree Ashirwad Ranchi HQ</a>, we run consolidated daily container routes connecting Kanchipuram directly to Bihar, Jharkhand, Bengal, Odisha, and Delhi NCR.</p>
         </div>
 
         <h3>Micro-Markets We Serve Across Kanchipuram</h3>

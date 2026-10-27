@@ -547,7 +547,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-manipal-udupi";
                 <li><strong>Safe Bike & Scooty Transportation:</strong> Custom-fitted two-wheeler crating with protective foam padding to transfer bikes safely back to home states.</li>
                 <li><strong>KMC Doctor & Faculty Priority Service:</strong> Punctual weekend and evening packing schedules designed around rigorous hospital shifts and academic lecture hours.</li>
                 <li><strong>Moisture & Rainproof Packaging:</strong> Multi-layer waterproof shrink wrap and heavy tarpaulin covers safeguarding items against intense monsoon downpours on the plateau.</li>
-                <li><strong>Nationwide Central Coordination:</strong> Direct coordination with our national operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, providing real-time tracking from pickup to doorstep delivery.</li>
+                <li><strong>Nationwide Central Coordination:</strong> Direct coordination with our national operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, providing real-time tracking from pickup to doorstep delivery.</li>
             </ul>
         </div>
 
@@ -775,7 +775,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-manipal-udupi";
         </div>
         <div class="mnp-faq-item">
             <h3>Is transit insurance available for lab equipment and delicate medical books?</h3>
-            <p>Yes, we provide 100% all-risk transit insurance policies with itemized valuation receipts, backed by our central customer operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>.</p>
+            <p>Yes, we provide 100% all-risk transit insurance policies with itemized valuation receipts, backed by our central customer operations headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
         </div>
         <div class="mnp-faq-item">
             <h3>How quickly can you arrange a move in Manipal during semester end?</h3>

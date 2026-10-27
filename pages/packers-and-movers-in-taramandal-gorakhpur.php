@@ -562,7 +562,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <p class="tmg-intro-p">Our localized familiarity ensures that no time is wasted seeking addresses or negotiating residential gates. Our drivers are intimately familiar with local no-entry timings, morning school traffic schedules, and optimal parking spots across Taramandal.</p>
 
-        <p class="tmg-intro-p">For clients moving to other regional hubs in Purvanchal or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
+        <p class="tmg-intro-p">For clients moving to other regional hubs in Purvanchal or our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, our synchronized intercity network guarantees punctual updates and verified tracking throughout the journey.</p>
     </section>
 
     <!-- Section 4: Transparent Tariff Structure -->
@@ -737,7 +737,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow" class="tmg-link-card">Lucknow State Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" class="tmg-link-card">Patna Bihar Hub</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-deoria" class="tmg-link-card">Deoria Sugar Hub</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="tmg-link-card">Ranchi Head Office Hub</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="tmg-link-card">Ranchi Head Office Hub</a>
         </div>
     </section>
 

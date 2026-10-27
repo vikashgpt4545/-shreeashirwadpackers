@@ -643,7 +643,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Related Relocation Guides, Rate Charts & Highway Corridors</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Explore connected relocation resources and long-distance transport routes from Ranchi:</p>
     <div class="cluster-grid-psu">
-      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi-jharkhand" class="cluster-link-psu">📍 Ranchi Main Hub & City HQ</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-psu">📍 Ranchi Main Hub & City HQ</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-psu">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-psu">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/how-to-avoid-fraud-packers-and-movers-in-ranchi" class="cluster-link-psu">🛡️ Avoid Moving Fraud in Ranchi</a>

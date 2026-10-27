@@ -849,7 +849,7 @@
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ballygunge-kolkata" class="shb-cluster-link">Ballygunge South Kolkata</a>
             <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="shb-cluster-link">Kolkata to Ranchi Route</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="shb-cluster-link">Ranchi to Kolkata Route</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="shb-cluster-link">Company HQ Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/" class="shb-cluster-link">Company HQ Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="shb-cluster-link">Live Tariff Calculator</a>
             <span class="shb-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Liluah Howrah Hub (Upcoming)</span>
             <span class="shb-cluster-link" style="background:#f1f5f9; color:#64748b; border-color:#cbd5e1; cursor:default;">Salkia Howrah Hub (Upcoming)</span>

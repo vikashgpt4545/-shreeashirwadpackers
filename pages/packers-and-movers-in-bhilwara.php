@@ -614,7 +614,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bhilwara";
             <h2 class="bhl-section-heading">Modern Transport Fleet with Pan-India Connectivity</h2>
             <p>Our logistics network utilizes closed containerized vehicles ranging from nimble light trucks for urban residential colonies in Bhilwara to 32-foot heavy-duty containers for intercity express operations across India.</p>
             <p>Every commercial vehicle is outfitted with real-time GPS telemetry, enabling our central logistics desk to monitor driver performance, route adherence, and vehicle velocity around the clock.</p>
-            <p>Anchored by our corporate operational headquarters in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Ranchi</a>, Shree Ashirwad Packers and Movers delivers nationwide logistical capabilities with reliable local service across every locality of Bhilwara.</p>
+            <p>Anchored by our corporate operational headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, Shree Ashirwad Packers and Movers delivers nationwide logistical capabilities with reliable local service across every locality of Bhilwara.</p>
         </div>
     </section>
 

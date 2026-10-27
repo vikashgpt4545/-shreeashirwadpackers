@@ -224,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <div>
                         <p>When planning a long-distance relocation from Ranchi to distant cities like Bengaluru, Mumbai, Delhi, or Pune, freight transport represents the largest single expense on your moving estimate. Many clients are unsure whether they need an entire dedicated vehicle or if they can share a container truck with other shippers.</p>
                         <p>In logistics terminology, moving an entire household with exclusive access to a container truck is termed <strong>Full Truck Load (FTL)</strong>. Conversely, consolidating smaller household shipments, bachelor luggage, or partial apartment furniture into a shared commercial vehicle is termed <strong>Part Truck Load (PTL)</strong> or <strong>Less-than-Truckload (LTL) Groupage</strong>.</p>
-                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we operate both dedicated express FTL container fleets and scheduled weekly LTL consolidation runs across all major national transport corridors, giving you the power to choose between maximum speed or maximum budget efficiency.</p>
+                        <p>At <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#ff6a28; font-weight:700;">Shree Ashirwad Packers and Movers Ranchi</a>, we operate both dedicated express FTL container fleets and scheduled weekly LTL consolidation runs across all major national transport corridors, giving you the power to choose between maximum speed or maximum budget efficiency.</p>
                         <div class="pvft-highlight">
                             <h4>Compare Live FTL & PTL Pricing</h4>
                             <p>Test how your shipment dimensions impact total moving tariffs using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color:#ff6a28; font-weight:700;">Live Ranchi Relocation Tariff Calculator</a>.</p>
@@ -433,7 +433,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Logistics Guides, Rate Calculators & Destination Corridors</h3>
                 <p>Plan your long-distance relocation with expert freight resources and cost calculators:</p>
                 <div class="pvft-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi">How Much Movers Charge</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/moving-on-budget-save-packers-ranchi">Moving on a Budget</a>

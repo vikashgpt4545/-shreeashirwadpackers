@@ -521,7 +521,7 @@ $canonical_url = "https://shreeashirwadpackers.com/daltonganj-to-patna-packers-a
                 <p>Our Patna delivery network covers all residential and institutional sectors:</p>
                 <p><strong>Patna Central & East:</strong> Kankarbagh, Rajendra Nagar, Boring Road, Exhibition Road, Fraser Road, Gandhi Maidan, Patna City.</p>
                 <p><strong>Patna West & South:</strong> Bailey Road, Ashiana Nagar, Rukanpura, Danapur Cantt, Khagaul, Phulwari Sharif, Anisabad, Gola Road, Saguna More.</p>
-                <p>Learn more about our local Palamu division operations on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-daltonganj">Packers and Movers in Daltonganj</a> authority page or central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar.</p>
+                <p>Learn more about our local Palamu division operations on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-daltonganj">Packers and Movers in Daltonganj</a> authority page or central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
             </div>
         </div>
 
