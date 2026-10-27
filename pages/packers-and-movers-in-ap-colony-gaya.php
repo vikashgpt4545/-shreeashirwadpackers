@@ -620,7 +620,7 @@
             </div>
             <div>
                 <div class="apg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers team loading apartment goods in AP Colony Gaya" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers team loading apartment goods in AP Colony Gaya" loading="lazy">
                     <p class="apg-image-caption">Careful handling and loading of premium furniture in AP Colony, Gaya.</p>
                 </div>
                 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
@@ -694,7 +694,7 @@
         <div class="apg-grid-2">
             <div>
                 <div class="apg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes deployed in AP Colony Gaya" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes deployed in AP Colony Gaya" loading="lazy">
                     <p class="apg-image-caption">5-ply corrugated cartons, bubble wrap cushioning, and moisture-proof stretch wrap for AP Colony homes.</p>
                 </div>
             </div>
@@ -819,11 +819,11 @@
             </div>
             <div>
                 <div class="apg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling furniture for shifting in AP Colony Gaya" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling furniture for shifting in AP Colony Gaya" loading="lazy">
                     <p class="apg-image-caption">Professional dismantling and hardware labeling of modular beds and wardrobes by skilled technicians.</p>
                 </div>
                 <div class="apg-image-box" style="margin-top: 24px;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated delivery truck navigating roads in AP Colony Gaya" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated delivery truck navigating roads in AP Colony Gaya" loading="lazy">
                     <p class="apg-image-caption">Modern enclosed container trucks ensuring weather-safe door-to-door transit across Gaya.</p>
                 </div>
             </div>

@@ -479,7 +479,7 @@ require_once "includes/config.php";
 
                 <!-- First Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Ichak Hazaribagh">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Ichak Hazaribagh">
                 </div>
 
                 <!-- Detailed Services Offered -->
@@ -528,7 +528,7 @@ require_once "includes/config.php";
 
                 <!-- Second Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap and carton packaging for household shifting in Ichak">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap and carton packaging for household shifting in Ichak">
                 </div>
 
                 <!-- Packing Standards & Quality -->
@@ -549,7 +549,7 @@ require_once "includes/config.php";
 
                 <!-- Third Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Safe car and bike transport carrier services in Ichak Hazaribagh">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Safe car and bike transport carrier services in Ichak Hazaribagh">
                 </div>
 
                 <!-- Pricing Guide Table -->
@@ -612,7 +612,7 @@ require_once "includes/config.php";
 
                 <!-- Fourth Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehousing and safe household goods storage facility for Ichak clients">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehousing and safe household goods storage facility for Ichak clients">
                 </div>
 
                 <!-- Service Comparison Table -->

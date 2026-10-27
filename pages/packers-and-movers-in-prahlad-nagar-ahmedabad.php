@@ -33,7 +33,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Prahlad Nagar Ahmedabad",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-prahlad-nagar-ahmedabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -411,7 +411,7 @@ $state_name = 'Gujarat';
           <p>Shree Ashirwad Packers and Movers brings over 16 years of certified industry leadership to Prahlad Nagar. Whether you are relocating an IT firm with 50 server workstations or moving your family into a luxury penthouse near Prahlad Nagar Garden, our highly trained professionals ensure white-glove packing, precision modular furniture disassembly, and secure transit. Our turnkey moving solutions cover full packing, safe transportation in covered vehicles, room-by-room placement, modular furniture assembly, and prompt removal of all empty cartons so you can settle in immediately without moving stress. We connect Prahlad Nagar seamlessly across Gujarat and national destinations via our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ahmedabad" style="color: #0369a1; font-weight: 700; text-decoration: underline;">packers and movers in Ahmedabad</a> authority network and national hubs.</p>
         </div>
         <div class="pln-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Executive Apartment Moving in Prahlad Nagar Ahmedabad" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Executive Apartment Moving in Prahlad Nagar Ahmedabad" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -453,7 +453,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="pln-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate Office Shifting in Prahlad Nagar Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate Office Shifting in Prahlad Nagar Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -578,7 +578,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="pln-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Truck in Prahlad Nagar Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Truck in Prahlad Nagar Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -614,7 +614,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="pln-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Prahlad Nagar Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Prahlad Nagar Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -645,7 +645,7 @@ $state_name = 'Gujarat';
     <div class="pln-cta-bar">
       <h3>Plan Your Executive Relocation in Prahlad Nagar Today!</h3>
       <p>Connect with our Prahlad Nagar moving specialists for a free on-site survey and guaranteed transparent quotation.</p>
-      <a href="tel:+919334484001" class="pln-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="pln-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="pln-section">

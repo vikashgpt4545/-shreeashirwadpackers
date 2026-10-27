@@ -77,7 +77,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -231,7 +231,7 @@ require_once __DIR__ . '/includes/seo.php';
         "name": "Where is Shree Ashirwad Packers headquarters located in Ranchi?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Our corporate headquarters and primary fleet facility is located at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834001. You can reach our moving coordinators 24/7 at +91 8409531615 or +91 9835565233."
+          "text": "Our corporate headquarters and primary fleet facility is located at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002. You can reach our moving coordinators 24/7 at +91 8409531615 or +91 9835565233."
         }
       }
     ]
@@ -334,7 +334,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Hero Image: Proportionate & Centered -->
           <figure style="margin: 30px auto; max-width: 550px; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" 
                  alt="Professional packing crew preparing household goods for shifting in Ranchi" 
                  style="max-width: 550px; width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;"
                  loading="lazy">
@@ -513,7 +513,7 @@ require_once __DIR__ . '/includes/seo.php';
               <strong>Impossibly Low Quotations Over the Phone:</strong> If three licensed movers quote ₹8,000–₹10,000 for a 2 BHK shift and an unverified vendor quotes ₹3,500 without surveying your goods, expect them to demand extortionate "unloading," "staircase," or "handling" surcharges before offloading your goods.
             </li>
             <li style="margin-bottom: 10px;">
-              <strong>Absence of a Real Physical Office in Ranchi:</strong> Trustworthy moving companies operate physical offices, fleet garages, and warehouses. Always verify their physical location. Shree Ashirwad maintains its registered corporate headquarters at <em>Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834001</em>.
+              <strong>Absence of a Real Physical Office in Ranchi:</strong> Trustworthy moving companies operate physical offices, fleet garages, and warehouses. Always verify their physical location. Shree Ashirwad maintains its registered corporate headquarters at <em>Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</em>.
             </li>
             <li style="margin-bottom: 10px;">
               <strong>Lack of Active GSTIN &amp; Stamped Documentation:</strong> Unlicensed operators cannot issue legal GST tax invoices (HSN/SAC 9965 / 9967) or genuine IBA consignment notes, leaving you with zero legal recourse in the event of cargo loss or transit damage.
@@ -597,7 +597,7 @@ require_once __DIR__ . '/includes/seo.php';
 
             <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; background: #ffffff;">
               <h3 style="font-size: 1.1rem; color: #0f223d; font-weight: 700; margin-bottom: 8px;">Where is Shree Ashirwad Packers headquarters located in Ranchi?</h3>
-              <p style="font-size: 0.95rem; line-height: 1.7; color: #475569; margin: 0;">Our corporate headquarters and primary fleet facility is located at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834001. You can reach our moving coordinators 24/7 at +91 8409531615 or +91 9835565233.</p>
+              <p style="font-size: 0.95rem; line-height: 1.7; color: #475569; margin: 0;">Our corporate headquarters and primary fleet facility is located at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002. You can reach our moving coordinators 24/7 at +91 8409531615 or +91 9835565233.</p>
             </div>
           </div>
         </section>

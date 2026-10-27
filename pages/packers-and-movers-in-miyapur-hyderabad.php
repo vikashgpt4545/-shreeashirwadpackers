@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Miyapur",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-miyapur-hyderabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -550,7 +550,7 @@
     <p>Modern housing complexes in Miyapur frequently feature multi-storey basements and dedicated freight elevators. Our packing crews arrive equipped with specialized furniture dollies, non-marking rubber wheels, and floor protective sheeting to prevent scuffs or marks across lobby flooring during the entire loading operation.</p>
 
     <div class="myp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Loading Apartment Goods in Miyapur Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Loading Apartment Goods in Miyapur Hyderabad" loading="lazy">
       <p class="myp-image-caption">Careful loading operations in modern high-rise gated complexes across Miyapur Hyderabad.</p>
     </div>
   </section>
@@ -583,7 +583,7 @@
     <p>Furthermore, our team provides complete dismantling and reassembly support for complex modular furniture, king-size hydraulic beds, and wall-mounted entertainment consoles, relieving homeowners of tedious handyman coordination on moving day.</p>
 
     <div class="myp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office IT Equipment Packing in Miyapur Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office IT Equipment Packing in Miyapur Hyderabad" loading="lazy">
       <p class="myp-image-caption">High-grade anti-static bubble wrap and corrugated protection for commercial IT and office equipment.</p>
     </div>
   </section>
@@ -645,7 +645,7 @@
     <p>Our billing structure contains zero hidden fuel surcharges or ambiguous stair-carry fees. Everything is clearly committed in a binding digital quotation before any packing commences.</p>
 
     <div class="myp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Miyapur" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Miyapur" loading="lazy">
       <p class="myp-image-caption">Reinforced protective wrapping for mahogany wardrobes and designer sofas before transit.</p>
     </div>
   </section>
@@ -721,7 +721,7 @@
     <p>We maintain comprehensive route planning documentation for Miyapur's upcoming flyover zones and metro terminal spurs, ensuring transport vehicles steer clear of peak bottleneck choke-points, reducing transit friction and avoiding unnecessary detours across the western quadrant.</p>
 
     <div class="myp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck in Miyapur Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck in Miyapur Hyderabad" loading="lazy">
       <p class="myp-image-caption">All-weather sealed container trucks ensuring zero moisture exposure during interstate transit.</p>
     </div>
   </section>
@@ -806,7 +806,7 @@
   <section class="myp-cta-banner">
     <h3>Plan Your Stress-Free Move in Miyapur Today!</h3>
     <p>Get a guaranteed fixed-rate quote with complete transparency, verified packing materials, and punctual door-to-door delivery across Hyderabad and nationwide.</p>
-    <a class="myp-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Free Survey</a>
+    <a class="myp-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Free Survey</a>
   </section>
 
 </main>

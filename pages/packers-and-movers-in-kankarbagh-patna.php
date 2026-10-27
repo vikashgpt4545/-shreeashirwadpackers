@@ -601,7 +601,7 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="kbp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods at Kankarbagh residential apartment Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods at Kankarbagh residential apartment Patna" loading="lazy">
                     <p class="kbp-image-caption">Careful handling of furniture and heavy goods at modern multi-story apartments in Kankarbagh, Patna.</p>
                 </div>
             </div>
@@ -669,7 +669,7 @@ require_once __DIR__ . '/../includes/seo.php';
         <div class="kbp-grid-2">
             <div>
                 <div class="kbp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High quality multi layer packaging materials deployed by Shree Ashirwad Packers in Kankarbagh" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High quality multi layer packaging materials deployed by Shree Ashirwad Packers in Kankarbagh" loading="lazy">
                     <p class="kbp-image-caption">Heavy-duty corrugated boxes, bubble wrap cushioning, and moisture-proof stretch wrap for Kankarbagh homes.</p>
                 </div>
             </div>
@@ -794,11 +794,11 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="kbp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled packers dismantling double bed furniture for safe apartment shifting in Kankarbagh Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled packers dismantling double bed furniture for safe apartment shifting in Kankarbagh Patna" loading="lazy">
                     <p class="kbp-image-caption">Professional dismantling and hardware labeling of modular beds and wardrobes by skilled technicians.</p>
                 </div>
                 <div class="kbp-image-box" style="margin-top: 24px;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door to door delivery truck navigating residential roads in Kankarbagh Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door to door delivery truck navigating residential roads in Kankarbagh Patna" loading="lazy">
                     <p class="kbp-image-caption">Modern enclosed container trucks ensuring weather-safe door-to-door transit across Patna colonies.</p>
                 </div>
             </div>

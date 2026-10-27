@@ -792,7 +792,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-patna-packers-
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
                 <div class="j2pat-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Jamtara to Patna transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Jamtara to Patna transit" loading="lazy">
                     <div class="j2pat-img-caption">
                         <i class="fa fa-truck" style="color: var(--j2pat-accent); margin-right: 8px;"></i>
                         Waterproof container trucks operating daily along the Jamtara &rarr; Deoghar &rarr; Jamui &rarr; Patna corridor.
@@ -1047,7 +1047,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-patna-packers-
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="j2pat-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="High grade multi layer household goods packing by Shree Ashirwad crew" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="High grade multi layer household goods packing by Shree Ashirwad crew" loading="lazy">
                     <div class="j2pat-img-caption">
                         <strong>5-Layer Cushioning:</strong> Bubble wraps and high-density foam blankets protect wooden finishes and glass panels.
                     </div>
@@ -1055,7 +1055,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-patna-packers-
             </div>
             <div class="col-md-4">
                 <div class="j2pat-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed hydraulic transport carrier" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed hydraulic transport carrier" loading="lazy">
                     <div class="j2pat-img-caption">
                         <strong>Secured Vehicle Carriers:</strong> Hydraulic ramps and tire lashings ensure scratch-free automobile transport.
                     </div>
@@ -1063,7 +1063,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-patna-packers-
             </div>
             <div class="col-md-4">
                 <div class="j2pat-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Patna" loading="lazy">
                     <div class="j2pat-img-caption">
                         <strong>Room-Wise Unpacking:</strong> Reassembly of beds, furniture placement, and debris clean-up at your Patna residence.
                     </div>

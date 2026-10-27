@@ -727,7 +727,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-deoghar-packer
                 </div>
             </div>
             <div class="dhn2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Dhanbad to Deoghar Shifting" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Dhanbad to Deoghar Shifting" width="600" height="400" loading="lazy">
                 <div class="dhn2d-img-caption">Sealed container trucks providing dust-proof, rain-safe, and rapid 3.5 hr highway transit between Dhanbad and Deoghar.</div>
             </div>
         </div>
@@ -844,7 +844,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-deoghar-packer
     <section class="dhn2d-section" style="background: #ffffff;">
         <div class="dhn2d-grid-2">
             <div class="dhn2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Protective packing for fragile household and electronic items" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Protective packing for fragile household and electronic items" width="600" height="400" loading="lazy">
                 <div class="dhn2d-img-caption">5-layer protective packaging shielding household goods from coal dust, humidity, and transit vibrations.</div>
             </div>
             <div>
@@ -915,7 +915,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-deoghar-packer
                 </div>
             </div>
             <div class="dhn2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Hydraulic Car Carrier Dhanbad to Deoghar" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Hydraulic Car Carrier Dhanbad to Deoghar" width="600" height="400" loading="lazy">
                 <div class="dhn2d-img-caption">Hydraulic car loading ramp ensuring safe ground clearance and zero chassis scrapings for personal vehicles.</div>
             </div>
         </div>
@@ -979,7 +979,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-deoghar-packer
                 </div>
             </div>
             <div class="dhn2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Deoghar" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Deoghar" width="600" height="400" loading="lazy">
                 <div class="dhn2d-img-caption">Professional doorstep unpacking, room placement, bed assembly, and packing waste clearance in Deoghar.</div>
             </div>
         </div>

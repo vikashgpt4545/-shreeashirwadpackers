@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Premier interstate moving solutions from Hyderabad to Kakinada covering Bhanugudi Junction, Suryaraopeta, Ramanayyapeta, and Sarpavaram with sealed container transit.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹12,500 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy purpose-built, closed container vehicles engineered for highway stability and coastal moisture protection. Whether you are relocating for career advancement in Kakinada's oil and gas, deepwater shipping, or fertilizer sectors, shifting family residences, or moving corporate teams, our certified crews guarantee seamless intercity transit without intermediate transshipment or handling damage.</p>
 
         <div class="hdkk-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Hyderabad to Kakinada" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Hyderabad to Kakinada" width="580" height="386">
         </div>
 
         <div class="hdkk-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>From Vijayawada, the route connects onto the six-lane National Highway 16 through Hanuman Junction, Eluru, Tadepalligudem, and Tanuku, crossing the majestic Godavari river bridges near Rajahmundry. Exiting at Jaggampeta or Samalkot onto the Asian Development Bank (ADB) Road, the trucks enter Kakinada smoothly. Our operations center tracks FASTag toll plazas (including Pantangi, Korlapahad, Chillakallu, and Unguturu) continuously, ensuring uninterrupted travel and punctual arrivals.</p>
 
         <div class="hdkk-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
         </div>
 
         <div class="hdkk-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Each delicate item is wrapped in air-cushioned bubble film, reinforced with corrugated corner guards, wrapped in moisture-resistant stretch film, and boxed into heavy 5-ply cartons. For fragile LED televisions, crystal chandeliers, marble temple units, and antique brassware, we build custom-measured wooden crates that absorb road shocks.</p>
 
         <div class="hdkk-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Kakinada" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Kakinada" width="580" height="386">
         </div>
 
         <div class="hdkk-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Before loading, our technical supervisors conduct a detailed 24-point pre-transit vehicle inspection. Exterior scratches, fuel levels, odometer readings, and accessory conditions are documented on an official inspection slip shared digitally with the vehicle owner.</p>
 
         <div class="hdkk-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
         </div>
 
         <div class="hdkk-grid-2">

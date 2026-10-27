@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Siliguri Relocation Guide | North East Gateway Movers | Call 9708579999</title>
-    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Siliguri via NH-31 and NH-27. 540 km Chicken's Neck route, costs, and packaging by Shree Ashirwad Packers. Call 9708579999.">
+    <title>Ranchi to Siliguri Relocation Guide | North East Gateway Movers | Call 9835565233</title>
+    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Siliguri via NH-31 and NH-27. 540 km Chicken's Neck route, costs, and packaging by Shree Ashirwad Packers. Call 9835565233.">
     <meta name="keywords" content="ranchi to siliguri packers and movers, moving from ranchi to siliguri, household goods shifting ranchi siliguri, chickens neck movers ranchi siliguri, cost of packers ranchi siliguri, shree ashirwad packers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-siliguri-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers North East Gateway Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-siliguri-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>From Dalkhola, our container vehicles join the modern four-lane <strong>National Highway 27 (NH-27 / East-West Corridor)</strong> through Kishanganj and Islampur, entering Siliguri's commercial artery at Bagdogra and Medical More in just 16 to 22 hours of road transit.</p>
                 </div>
                 <div class="rsrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Ranchi to Siliguri" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Ranchi to Siliguri" loading="lazy">
                 </div>
             </div>
 
@@ -279,7 +279,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Weatherproofing for the Sub-Himalayan Monsoon Belt</h2>
             <div class="rsrg-grid-2">
                 <div class="rsrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container loading for weather protection on Siliguri sub-Himalayan routes" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container loading for weather protection on Siliguri sub-Himalayan routes" loading="lazy">
                 </div>
                 <div>
                     <p>Siliguri and the surrounding Terai-Dooars foothills receive in excess of 3,000 millimeters of rainfall annually, with heavy torrential downpours occurring from May through October. The transition from the dry Chota Nagpur Plateau into high-humidity Himalayan foothill terrain requires specialized moisture defense:</p>
@@ -302,7 +302,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>We deploy high-density corrugated packing materials and waterproof stretch cling films to safeguard goods traveling through the humid sub-Himalayan climate zone.</p>
                 </div>
                 <div class="rsrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade corrugated sheets and waterproof packing materials for Siliguri move" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade corrugated sheets and waterproof packing materials for Siliguri move" loading="lazy">
                 </div>
             </div>
 
@@ -413,7 +413,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </ul>
                 </div>
                 <div class="rsrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Residential moving unpacking and furniture setup delivered safely to Siliguri residence" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Residential moving unpacking and furniture setup delivered safely to Siliguri residence" loading="lazy">
                 </div>
             </div>
 

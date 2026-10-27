@@ -268,7 +268,7 @@ $state_name = 'Punjab';
     "name": "Shree Ashirwad Packers and Movers Model Town Patiala",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9835155555",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 46,000",
     "address": {
       "@type": "PostalAddress",
@@ -400,7 +400,7 @@ $state_name = 'Punjab';
           <p>We provide comprehensive turn-key moving solutions that relieve homeowners, business owners, doctors, and civil administrators of the physical burdens of relocation. Our certified packing crews treat each item—from delicate crystal chandeliers and porcelain dinner sets to heavy modular wardrobes and electronic entertainment systems—with meticulous care and engineering precision.</p>
         </div>
         <div class="mtpt-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Model Town Patiala" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Model Town Patiala" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -442,7 +442,7 @@ $state_name = 'Punjab';
       </div>
 
       <div class="mtpt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Model Town Patiala" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Model Town Patiala" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -535,7 +535,7 @@ $state_name = 'Punjab';
       </table>
 
       <div class="mtpt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Model Town Patiala" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Model Town Patiala" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -571,7 +571,7 @@ $state_name = 'Punjab';
       </div>
 
       <div class="mtpt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Model Town Patiala" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Model Town Patiala" width="580" height="380" loading="lazy">
       </div>
     </section>
 

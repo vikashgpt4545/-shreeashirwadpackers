@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Morabadi Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-morabadi-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -538,8 +538,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Packers and Movers in Morabadi Ranchi</h1>
         <p>Premium local home shifting, villa relocation, university faculty moves, and corporate office shifting in Morabadi, Ranchi. Expert multi-layer packaging, modern enclosed pickup trucks, and trained packing professionals serving Tagore Hill Road, Morabadi Ground, VIP Colony, Karamtoli, and Boreya Road with zero hassle.</p>
         <div class="hl-mrb-cta-btns">
-          <a href="tel:+919431170366" class="hl-mrb-btn-primary">Call Now: +91 94311 70366</a>
-          <a href="https://api.whatsapp.com/send?phone=919431170366&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Morabadi%20Ranchi." class="hl-mrb-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:+919835565233" class="hl-mrb-btn-primary">Call Now: +91 98355 65233</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Morabadi%20Ranchi." class="hl-mrb-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="hl-mrb-quote-card">
@@ -584,7 +584,7 @@ include_once __DIR__ . '/../includes/config.php';
       <p>Moving home or setting up a new residence in Morabadi demands exceptional care, punctuality, and specialized material handling skills. The neighborhood's quiet tree-lined avenues, private gated residential lanes, and modern high-rise apartments require moving crews who understand how to maneuver safely through narrow driveways, protect polished marble flooring, safeguard residential elevator interiors, and execute quiet, respectful moving operations. Shree Ashirwad Packers and Movers brings over a decade of dedicated moving experience as the most reliable <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">movers and packers Ranchi</a>, ensuring that every piece of furniture, high-end appliance, and personal heirloom is packed and transported with flawless precision.</p>
 
       <div class="hl-mrb-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Moving Truck Serving Morabadi Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Moving Truck Serving Morabadi Ranchi">
         <div class="hl-mrb-img-caption">Dedicated enclosed fleet providing fast and secure household shifting across Morabadi and Ranchi city.</div>
       </div>
 
@@ -699,7 +699,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="hl-mrb-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Packaging for Morabadi Ranchi Home Shifting">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Packaging for Morabadi Ranchi Home Shifting">
         <div class="hl-mrb-img-caption">Multi-tier protective wrapping of fine furniture to prevent scratches and moisture penetration.</div>
       </div>
     </article>
@@ -738,7 +738,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="hl-mrb-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Safe Transport in Morabadi Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Safe Transport in Morabadi Ranchi">
         <div class="hl-mrb-img-caption">Custom shock-resistant packing and crating for motorcycles and scooters in Morabadi.</div>
       </div>
     </article>
@@ -778,7 +778,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="hl-mrb-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading Crew Handling Relocations in Morabadi Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading Crew Handling Relocations in Morabadi Ranchi">
         <div class="hl-mrb-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services in Morabadi.</div>
       </div>
     </article>

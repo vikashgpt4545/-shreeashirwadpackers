@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Kidwai Nagar Kanpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="kdw-hero-title">Packers and Movers in Kidwai Nagar Kanpur</h1>
         <p class="kdw-hero-subtitle">Premier Household Shifting, Retail Relocation, and Dedicated Safe Transit Across South Kanpur's Largest Residential and Commercial Township</p>
         <div class="kdw-cta-group">
-            <a href="tel:+919334404050" class="kdw-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kdw-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kdw-btn-secondary">Check Shifting Rates</a>
         </div>
     </section>
@@ -507,7 +507,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kdw-intro-p">At Shree Ashirwad Packers and Movers, we bring over 15 years of tested logistics experience directly to your doorstep in Kidwai Nagar. Moving homes within this dynamic neighborhood involves particular challenges: two-to-three-story residential builder floors with narrow stairwells, energetic market intersections near Deep Cinema and Saket Nagar, and tight neighborhood alleys where large interstate trailers cannot readily maneuver. We overcome these constraints using specialized vehicle fleets, including nimble 14-foot closed container trucks, motorized stair-climbing gear, and seasoned local crews trained in high-density urban shifting.</p>
 
         <div class="kdw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Kidwai Nagar Kanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Kidwai Nagar Kanpur" width="580" height="380" loading="lazy">
             <p class="kdw-image-caption">Shree Ashirwad crew securely loading boxed household goods into closed container vehicles in Kidwai Nagar Kanpur.</p>
         </div>
 
@@ -582,7 +582,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kdw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging and Fragile Item Packing in Kidwai Nagar Kanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging and Fragile Item Packing in Kidwai Nagar Kanpur" width="580" height="380" loading="lazy">
             <p class="kdw-image-caption">High-density bubble wrapping and edge-reinforced corrugated box packaging for fragile household goods in Kidwai Nagar.</p>
         </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kdw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly by Expert Carpenters in Kidwai Nagar Kanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly by Expert Carpenters in Kidwai Nagar Kanpur" width="580" height="380" loading="lazy">
             <p class="kdw-image-caption">Trained carpenters systematically dismantling and wrapping wooden bed components before transit in Kidwai Nagar.</p>
         </div>
     </section>
@@ -700,7 +700,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kdw-intro-p">For interstate relocations heading toward Delhi, Noida, and Gurgaon, our containerized vehicles travel directly along the Agra-Lucknow Expressway and Yamuna Expressway, ensuring swift transit durations under 10 to 14 hours. Eastbound consignments bound for Varanasi, Patna, Gaya, Dhanbad, and Ranchi link seamlessly via the pristine multi-lane NH-19 corridor, bypassing congested inner Kanpur city center intersections.</p>
 
         <div class="kdw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep Delivery Fleet and Closed Container Transit in Kidwai Nagar Kanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep Delivery Fleet and Closed Container Transit in Kidwai Nagar Kanpur" width="580" height="380" loading="lazy">
             <p class="kdw-image-caption">All-weather container vehicles providing direct interstate transit connections from Kidwai Nagar to pan-India destinations.</p>
         </div>
 
@@ -765,7 +765,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Reliable Move in Kidwai Nagar</h3>
         <p>Connect with our Kidwai Nagar relocation managers today for an accurate on-site survey, competitive estimate, and safe, stress-free shifting.</p>
         <div class="kdw-cta-group">
-            <a href="tel:+919334404050" class="kdw-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kdw-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kdw-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

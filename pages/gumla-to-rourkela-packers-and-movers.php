@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Gumla to Rourkela Relocation Corridor
 $page_title = "Gumla to Rourkela Packers and Movers | Safe Interstate Household & Bike Shifting";
-$page_description = "Trusted packers and movers from Gumla to Rourkela (Odisha). Safe household goods shifting, mining & SAIL corporate transfers, bike transport via NH-143 & transit insurance. Call +91 9334812833.";
+$page_description = "Trusted packers and movers from Gumla to Rourkela (Odisha). Safe household goods shifting, mining & SAIL corporate transfers, bike transport via NH-143 & transit insurance. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/gumla-to-rourkela-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/gumla-to-rourkela-packers-and
         "name": "Shree Ashirwad Packers and Movers - Gumla to Rourkela Service",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹6,500 - ₹28,000",
         "address": {
             "@type": "PostalAddress",
@@ -364,7 +364,7 @@ $canonical_url = "https://shreeashirwadpackers.com/gumla-to-rourkela-packers-and
     <section class="grk-hero-banner">
         <h1 class="grk-hero-title">Gumla to Rourkela Packers and Movers</h1>
         <p class="grk-hero-subtitle">Safe, Express Relocation Connecting South Jharkhand with Steel City Rourkela (Odisha). Same-Day 4-Hour Transit via NH-143, 4-Layer Packaging & Complete Room Setup.</p>
-        <a href="tel:+919334812833" class="grk-cta-btn">Book Free Route Survey: +91 9334812833</a>
+        <a href="tel:+919835565233" class="grk-cta-btn">Book Free Route Survey: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -380,7 +380,7 @@ $canonical_url = "https://shreeashirwadpackers.com/gumla-to-rourkela-packers-and
             </div>
             <div>
                 <div class="grk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons for Gumla to Rourkela shifting" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons for Gumla to Rourkela shifting" width="580" height="387">
                     <div class="grk-caption">Carefully labelled multi-layer corrugated cartons ready for transit</div>
                 </div>
             </div>
@@ -473,7 +473,7 @@ $canonical_url = "https://shreeashirwadpackers.com/gumla-to-rourkela-packers-and
         <div class="grk-grid-2">
             <div>
                 <div class="grk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and wooden furniture packing for Gumla to Rourkela shifting" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and wooden furniture packing for Gumla to Rourkela shifting" width="580" height="387">
                     <div class="grk-caption">Multi-layer fabric blankets and film wrapping protect furniture against abrasion</div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ $canonical_url = "https://shreeashirwadpackers.com/gumla-to-rourkela-packers-and
             </div>
             <div>
                 <div class="grk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Gumla to Rourkela transport" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Gumla to Rourkela transport" width="580" height="387">
                     <div class="grk-caption">Sealed container trucks providing 100% dustproof and waterproof transit</div>
                 </div>
             </div>
@@ -512,7 +512,7 @@ $canonical_url = "https://shreeashirwadpackers.com/gumla-to-rourkela-packers-and
         <div class="grk-grid-2">
             <div>
                 <div class="grk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew unloading in Rourkela" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew unloading in Rourkela" width="580" height="387">
                     <div class="grk-caption">Skilled unloading staff positioning heavy furniture in bedrooms and living rooms</div>
                 </div>
             </div>

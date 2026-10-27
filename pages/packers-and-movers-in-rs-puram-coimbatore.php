@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-rs-puram-coimbatore";
         "name": "Shree Ashirwad Packers and Movers RS Puram Coimbatore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹62,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-rs-puram-coimbatore";
         <p>Relocating in this refined urban district demands an elite standard of moving craftsmanship. The stately residences of RS Puram frequently house heirloom furniture crafted from solid Burma teak and rosewood, Tanjore gold-leaf art, imported crystal chandeliers, and expansive culinary cookware collections. Generic packing methods fall far short of these standards. Shree Ashirwad Packers and Movers delivers white-glove residential moving solutions featuring breathable padded blankets, custom timber picture crating, and vitrified floor protection designed specifically for RS Puram's luxury homes.</p>
 
         <div class="rsp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons and packing in RS Puram Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons and packing in RS Puram Coimbatore" width="580" height="387" loading="lazy">
             <div class="rsp-image-caption">Standardized heavy-duty carton packing and barcode labeling for luxury residences in RS Puram.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-rs-puram-coimbatore";
         </div>
 
         <div class="rsp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Fine wooden furniture protective wrapping in RS Puram Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Fine wooden furniture protective wrapping in RS Puram Coimbatore" width="580" height="387" loading="lazy">
             <div class="rsp-image-caption">Precision furniture wrapping with air bubble film and edge protectors in RS Puram.</div>
         </div>
 
@@ -597,7 +597,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-rs-puram-coimbatore";
         <p>Inside the home, our crew treats every possession with the highest care. Wardrobes are packed in vertical wardrobe boxes where designer suits and silk sarees remain hung on their hangers, completely eliminating folding wrinkles and dust exposure during the move.</p>
 
         <div class="rsp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and crystal packing in RS Puram Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and crystal packing in RS Puram Coimbatore" width="580" height="387" loading="lazy">
             <div class="rsp-image-caption">Individual bubble wrap cushioning and reinforced corrugated boxing for fragile tableware in RS Puram.</div>
         </div>
 
@@ -723,7 +723,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-rs-puram-coimbatore";
         </ol>
 
         <div class="rsp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck transport in RS Puram Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck transport in RS Puram Coimbatore" width="580" height="387" loading="lazy">
             <div class="rsp-image-caption">Enclosed weatherproof container carriers ensuring dust-free and rain-protected transit.</div>
         </div>
     </section>
@@ -780,7 +780,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-rs-puram-coimbatore";
     <div class="rsp-cta-box">
         <h3>Plan Your RS Puram Move with Trusted Specialists</h3>
         <p>Get a guaranteed fixed-price quote with zero surprise charges. Fully insured, certified packing specialists ready to move your household or villa today.</p>
-        <a href="tel:+919334404050" class="rsp-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="rsp-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

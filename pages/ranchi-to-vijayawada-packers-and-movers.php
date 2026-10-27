@@ -69,7 +69,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Harmu Road, Near Overbridge",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -577,7 +577,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 1 -->
         <div class="rvij-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Vijayawada Intercity Shifting Truck Loading - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Vijayawada Intercity Shifting Truck Loading - Shree Ashirwad Packers" loading="lazy">
             <div class="rvij-img-caption">Direct company-owned container truck loading household goods for 1,090 km highway transit from Ranchi to Vijayawada.</div>
         </div>
 
@@ -698,7 +698,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 2 -->
         <div class="rvij-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Delicate Box Packing - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Delicate Box Packing - Shree Ashirwad Packers" loading="lazy">
             <div class="rvij-img-caption">Individual bubble wrapping and compartmentalized cellular boxing for fragile chinaware and delicate kitchen items.</div>
         </div>
 
@@ -754,7 +754,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 3 -->
         <div class="rvij-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets - Shree Ashirwad Packers" loading="lazy">
             <div class="rvij-img-caption">High-grade packaging materials, bubble rolls, and corrugated sheets ready for residential move execution.</div>
         </div>
     </section>
@@ -785,7 +785,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 4 -->
         <div class="rvij-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Jharkhand - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Jharkhand - Shree Ashirwad Packers" loading="lazy">
             <div class="rvij-img-caption">Hydraulic loading and four-point wheel anchoring of private vehicles for long-distance intercity transit.</div>
         </div>
     </section>

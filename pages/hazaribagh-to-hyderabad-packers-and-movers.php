@@ -662,7 +662,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-hyderabad-p
                 <p>Because your container is loaded in Hazaribagh, locked in your presence, and driven straight to your destination, your goods are never exposed to intermediate hub transshipment, offloading, or accidental mixing with third-party freight.</p>
             </div>
             <div class="h2hyd-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated interstate container moving truck traveling between Hazaribagh and Hyderabad" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated interstate container moving truck traveling between Hazaribagh and Hyderabad" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -734,7 +734,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-hyderabad-p
     <div class="h2hyd-container">
         <div class="h2hyd-grid-2col">
             <div class="h2hyd-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Hyderabad long-distance move" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Hyderabad long-distance move" loading="lazy" width="600" height="400">
             </div>
             <div class="h2hyd-content-box">
                 <span class="h2hyd-tag">Interstate Durability</span>
@@ -765,7 +765,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-hyderabad-p
                 <p>For sedans, hatchbacks, and SUVs, our car carrier services include photographic pre-loading inspections, four-wheel locking chocks, and comprehensive transit insurance cover. We offer doorstep pickup in Hazaribagh and direct delivery to your Hyderabad apartment complex or gated villa.</p>
             </div>
             <div class="h2hyd-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for interstate transit from Hazaribagh to Hyderabad" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for interstate transit from Hazaribagh to Hyderabad" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-hyderabad-p
     <div class="h2hyd-container">
         <div class="h2hyd-grid-2col">
             <div class="h2hyd-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Hyderabad residence" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Hyderabad residence" loading="lazy" width="600" height="400">
             </div>
             <div class="h2hyd-content-box">
                 <span class="h2hyd-tag">Full-Service Guarantee</span>

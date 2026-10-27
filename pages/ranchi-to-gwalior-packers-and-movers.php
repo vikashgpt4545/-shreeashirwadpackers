@@ -1000,7 +1000,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2gwl-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Gwalior Packers and Movers - Weatherproof Container Linehaul Fleet">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Gwalior Packers and Movers - Weatherproof Container Linehaul Fleet">
         <div class="r2gwl-image-caption">
           <span class="r2gwl-image-badge">Express Linehaul</span>
           <p class="r2gwl-image-text">Heavy-duty sealed container transit fleet navigating the 920-km NH-19/NH-719 Ranchi-Kanpur-Etawah-Gwalior corridor.</p>
@@ -1170,7 +1170,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2gwl-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer Defensive Household Packing for Ranchi to Gwalior Relocation">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer Defensive Household Packing for Ranchi to Gwalior Relocation">
         <div class="r2gwl-image-caption">
           <span class="r2gwl-image-badge">Multi-Layer Protection</span>
           <p class="r2gwl-image-text">Padded living room furniture, heavy appliances, and modular units prepared for 920-km interstate transit.</p>
@@ -1231,7 +1231,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2gwl-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated Enclosed Hydraulic Car Carrier Trailer Transport from Ranchi to Gwalior">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated Enclosed Hydraulic Car Carrier Trailer Transport from Ranchi to Gwalior">
         <div class="r2gwl-image-caption">
           <span class="r2gwl-image-badge">Automotive Protection</span>
           <p class="r2gwl-image-text">Hydraulic enclosed car carrier trailer and multi-layer cushioned vehicle loading from Ranchi to Gwalior.</p>
@@ -1294,7 +1294,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="r2gwl-grid-2col" style="margin-top: 40px;">
       <div class="r2gwl-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking and Room Setup Service in Gwalior Residence">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking and Room Setup Service in Gwalior Residence">
         <div class="r2gwl-image-caption">
           <span class="r2gwl-image-badge">Complete Handover</span>
           <p class="r2gwl-image-text">Professional unpacking, furniture assembly, and room placement service upon arrival at Gwalior residence.</p>

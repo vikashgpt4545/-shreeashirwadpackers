@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-nagercoil";
         "name": "Shree Ashirwad Packers and Movers Nagercoil",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-nagercoil";
         <p>Relocating in Nagercoil requires high-level geographic competence and specialized packing capabilities. The coastal tropical climate brings intense monsoons and high humidity that necessitate waterproof and anti-saline wrapping for electronics, kitchen appliances, and antique furniture. Concurrently, navigating bustling commercial corridors like KP Road (Kottar-Parvathipuram Road), Cape Road, Vadasery market lanes, and Ramavarmapuram demands nimble vehicles and courteous, skilled moving personnel. Shree Ashirwad Packers and Movers brings over 13 years of localized mastery, executing completely protected relocations for families, defense officers, plantation executives, and commercial traders.</p>
 
         <div class="ngl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Nagercoil Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Nagercoil Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="ngl-image-caption">Professional household loading and apartment shifting operations in Nagercoil.</div>
         </div>
 
@@ -583,7 +583,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-nagercoil";
         </div>
 
         <div class="ngl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial equipment and corporate office packing in Nagercoil Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial equipment and corporate office packing in Nagercoil Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="ngl-image-caption">Commercial office equipment and institutional apparatus relocation by Shree Ashirwad in Nagercoil.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-nagercoil";
         <p>Our expert moving crews utilize a four-layer defensive packing system. Polished teak and rosewood furniture are first padded with breathable soft cotton quilts, wrapped in high-density air bubble wrap, reinforced with thick corrugated corner edge boards, and enveloped in tear-resistant stretch wrap. This protects against scratches, humidity fluctuations, and highway transit vibrations.</p>
 
         <div class="ngl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Nagercoil Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Nagercoil Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="ngl-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Nagercoil.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-nagercoil";
         </ol>
 
         <div class="ngl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Nagercoil Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Nagercoil Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="ngl-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Nagercoil corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-nagercoil";
     <div class="ngl-cta-box">
         <h3>Move Safely in Nagercoil with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero surprise costs. Licensed, fully insured moving specialists ready to assist your household or enterprise today.</p>
-        <a href="tel:+919334404050" class="ngl-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="ngl-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

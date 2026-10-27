@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-powai-m
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-powai-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-powai-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -367,7 +367,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-powai-m
         <p>Strategically situated along the Jogeshwari-Vikhroli Link Road (JVLR), Powai offers seamless east-west transit connecting the Western Express Highway (WEH) at Andheri East with the Eastern Express Highway (EEH) and LBS Marg at Kanjurmarg and Vikhroli. However, moving in Powai demands an elite standard of operational precision. Prestigious gated complexes enforce strict society shifting protocols, mandatory service elevator padding, entry security clearance, and strict weekend timing restrictions. Shree Ashirwad Packers and Movers provides a bespoke, white-glove moving service designed to handle luxury apartments, delicate art collections, high-end electronics, and academic households with absolute distinction.</p>
 
         <div class="pow-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Powai by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Powai by Shree Ashirwad Packers and Movers">
             <p class="pow-image-caption">Professional loading by trained movers ensuring goods are secured against transit movement in Powai.</p>
         </div>
 
@@ -404,7 +404,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-powai-m
         </div>
 
         <div class="pow-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Powai">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Powai">
             <p class="pow-image-caption">Multi-layered waterproof bubble wrap and corrugated padding shielding sensitive household goods.</p>
         </div>
 
@@ -512,7 +512,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-powai-m
         </div>
 
         <div class="pow-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Powai">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Powai">
             <p class="pow-image-caption">Skilled carpentry dismantling and component packaging for large wooden bedroom furniture.</p>
         </div>
 
@@ -546,7 +546,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-powai-m
         </div>
 
         <div class="pow-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Powai">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Powai">
             <p class="pow-image-caption">Reliable covered container vehicles delivering door-to-door relocation across Powai neighborhoods.</p>
         </div>
 
@@ -615,7 +615,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-powai-m
 
         <div class="pow-faq-item">
             <h3>How do I get an exact written quotation for my move in Powai?</h3>
-            <p>You can contact our customer support team directly at +91 93344 04050 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
+            <p>You can contact our customer support team directly at +91 9835565233 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
         </div>
     </section>
 

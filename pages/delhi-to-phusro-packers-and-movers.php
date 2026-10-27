@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Delhi to Phusro",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹22,000 - ₹82,000",
         "address": {
             "@type": "PostalAddress",
@@ -632,7 +632,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <p class="hero-lead">Professional long-haul household shifting, Central Government & CCL corporate transfers, car parcel, and bike transport from Delhi NCR to Phusro and Bermo.</p>
             <div class="hero-cta-group">
                 <a href="#quick-quote" class="btn-primary-hero"><i class="fa-solid fa-calculator"></i> Get Free Instant Quote</a>
-                <a href="tel:+919334800840" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91-9334800840</a>
+                <a href="tel:+919835565233" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91 9835565233</a>
             </div>
         </div>
         <div class="hero-form-card" id="quick-quote">
@@ -687,7 +687,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 1 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Loading household cargo in Delhi for transit to Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Loading household cargo in Delhi for transit to Phusro" loading="lazy">
                     <div class="photo-caption">Figure 1: High-capacity container vehicle loading packed household inventory in Delhi for long-haul interstate transit to Phusro.</div>
                 </div>
 
@@ -717,7 +717,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 2 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Appliance protective wrap for Delhi to Phusro shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Appliance protective wrap for Delhi to Phusro shifting" loading="lazy">
                     <div class="photo-caption">Figure 2: Multi-layer cushioning and protective wrap applied to home appliances and furniture to prevent in-transit abrasions.</div>
                 </div>
 
@@ -788,7 +788,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 3 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler bike parcel from Delhi to Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler bike parcel from Delhi to Phusro" loading="lazy">
                     <div class="photo-caption">Figure 3: Dedicated two-wheeler parcel carrier service with multi-layer bubble wrap, wheel-chock restraints, and transit insurance.</div>
                 </div>
 
@@ -814,7 +814,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 4 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks on Delhi to Phusro route" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks on Delhi to Phusro route" loading="lazy">
                     <div class="photo-caption">Figure 4: GPS-tracked, sealed container vehicles ensuring safe transit across Delhi, UP, and Jharkhand expressways.</div>
                 </div>
 
@@ -882,7 +882,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
 
                 <h2>Schedule Your Delhi to Phusro Move Today</h2>
-                <p>Relocating between Delhi NCR and Phusro is smooth and worry-free with Shree Ashirwad Packers and Movers. Our coordinators assist you from pre-move survey to final delivery. Contact our team today at <strong>+91-9334800840</strong> or fill out our online quote form above to secure your move date.</p>
+                <p>Relocating between Delhi NCR and Phusro is smooth and worry-free with Shree Ashirwad Packers and Movers. Our coordinators assist you from pre-move survey to final delivery. Contact our team today at <strong>+91 9835565233</strong> or fill out our online quote form above to secure your move date.</p>
 
                 <h2>Connected Phusro Relocation Corridors</h2>
                 <p>We provide regular containerized moving services connecting Phusro to major national and regional hubs:</p>

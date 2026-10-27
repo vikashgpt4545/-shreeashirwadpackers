@@ -653,7 +653,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-dhanbad-packer
             </div>
             <div>
                 <div class="d2dhn-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck navigating Deoghar to Dhanbad highway corridor" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck navigating Deoghar to Dhanbad highway corridor" loading="lazy">
                     <div class="d2dhn-image-caption">GPS-monitored sealed container vehicles on the Deoghar-Jamtara-Dhanbad highway corridor.</div>
                 </div>
             </div>
@@ -755,7 +755,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-dhanbad-packer
         <div class="d2dhn-grid-2">
             <div>
                 <div class="d2dhn-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packaging for Deoghar to Dhanbad shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packaging for Deoghar to Dhanbad shifting" loading="lazy">
                     <div class="d2dhn-image-caption">High-density EPE foam, virgin bubble wrap, and 7-ply corrugated cartons protecting delicate items.</div>
                 </div>
             </div>
@@ -805,7 +805,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-dhanbad-packer
             </div>
             <div>
                 <div class="d2dhn-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading in Deoghar for delivery to Dhanbad" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading in Deoghar for delivery to Dhanbad" loading="lazy">
                     <div class="d2dhn-image-caption">Specialized hydraulic car trailers protecting personal vehicles during transit to Dhanbad.</div>
                 </div>
             </div>
@@ -878,7 +878,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-dhanbad-packer
             </div>
             <div>
                 <div class="d2dhn-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly services in Dhanbad" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly services in Dhanbad" loading="lazy">
                     <div class="d2dhn-image-caption">Professional doorstep unpacking, furniture reassembly, and debris clearance in Dhanbad residences.</div>
                 </div>
             </div>

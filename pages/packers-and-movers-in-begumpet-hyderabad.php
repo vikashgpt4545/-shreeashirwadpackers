@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-begumpet-hyderabad";
         "name": "Shree Ashirwad Packers and Movers Begumpet",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -513,7 +513,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-begumpet-hyderabad";
         <h1>Packers and Movers in Begumpet Hyderabad</h1>
         <p>Premium ISO 9001:2015 certified household shifting, corporate office relocation, vehicle transit & safe storage across Sardar Patel Road, Prakash Nagar & Begumpet Airport corridor.</p>
         <div class="bgpt-btn-wrap">
-            <a href="tel:+919334404050" class="bgpt-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="bgpt-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bgpt-btn-secondary">Check Rate Calculator</a>
         </div>
     </header>
@@ -535,7 +535,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-begumpet-hyderabad";
         </div>
 
         <div class="bgpt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Begumpet Hyderabad loading apartment items" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Begumpet Hyderabad loading apartment items" width="580" height="380" loading="lazy">
             <div class="bgpt-image-caption">Figure 1: Residential household loading and protective padding executed in Begumpet, Hyderabad.</div>
         </div>
 
@@ -585,7 +585,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-begumpet-hyderabad";
         </div>
 
         <div class="bgpt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and IT workstation packing in Begumpet Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and IT workstation packing in Begumpet Hyderabad" width="580" height="380" loading="lazy">
             <div class="bgpt-image-caption">Figure 2: Corporate workstation packing and IT hardware labeling executed in Begumpet.</div>
         </div>
     </section>
@@ -646,7 +646,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-begumpet-hyderabad";
         </table>
 
         <div class="bgpt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture padding and wrapping in Begumpet Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture padding and wrapping in Begumpet Hyderabad" width="580" height="380" loading="lazy">
             <div class="bgpt-image-caption">Figure 3: Multi-layer foam padding and corner cushioning applied to fine wooden furniture.</div>
         </div>
     </section>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-begumpet-hyderabad";
         </div>
 
         <div class="bgpt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Begumpet Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Begumpet Hyderabad" width="580" height="380" loading="lazy">
             <div class="bgpt-image-caption">Figure 4: GPS-tracked, sealed container trucks ensuring safe inter-state transit from Begumpet.</div>
         </div>
     </section>
@@ -778,7 +778,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-begumpet-hyderabad";
         <h3>Book Your Begumpet Relocation with Verified Experts</h3>
         <p>Contact Shree Ashirwad Packers and Movers today for a free on-site survey and transparent, guaranteed moving quote with zero hidden surprises.</p>
         <div class="bgpt-btn-wrap">
-            <a href="tel:+919334404050" class="bgpt-btn-primary">Call Desk: +91 9334404050</a>
+            <a href="tel:+919835565233" class="bgpt-btn-primary">Call Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bgpt-btn-secondary">Check Rate Calculator</a>
         </div>
     </section>

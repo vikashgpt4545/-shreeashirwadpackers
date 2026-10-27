@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Vasundhara Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -472,7 +472,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="vsd-hero-title">Packers and Movers in Vasundhara Ghaziabad</h1>
         <p class="vsd-hero-subtitle">Specialized builder floor relocations, society apartment moving across Sectors 1 to 19, furniture carpentry, and inter-state logistics across the Trans-Hindon corridor.</p>
         <div class="vsd-cta-group">
-            <a href="tel:+919334404050" class="vsd-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vsd-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vsd-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="vsd-intro-p">Divided systematically into Sectors 1 through 19, Vasundhara strikes a balance between low-rise private builder floors, gated housing societies like Olive County in Sector 5 and SG Oasis in Sector 4, and established UPAVP group housing developments. Traversed by wide arterial avenues like Madan Mohan Malviya Marg and nestled between Indirapuram, Vaishali, and Mohan Nagar, Vasundhara is a preferred home for professionals working across Delhi, Noida, and the Sahibabad industrial zone.</p>
 
         <div class="vsd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Vasundhara Ghaziabad container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Vasundhara Ghaziabad container truck" width="580" height="386" loading="lazy">
             <p class="vsd-image-caption">Systematic loading and protective padding of residential goods in Vasundhara Ghaziabad.</p>
         </div>
 
@@ -525,7 +525,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="vsd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Vasundhara Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Vasundhara Ghaziabad" width="580" height="386" loading="lazy">
             <p class="vsd-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="vsd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Vasundhara Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Vasundhara Ghaziabad" width="580" height="386" loading="lazy">
             <p class="vsd-image-caption">Precision furniture disassembly and wrapped timber protection for Vasundhara homes.</p>
         </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="vsd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Vasundhara Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Vasundhara Ghaziabad" width="580" height="386" loading="lazy">
             <p class="vsd-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

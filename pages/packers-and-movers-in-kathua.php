@@ -337,7 +337,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-kathua';
         <p>Shree Ashirwad Packers and Movers brings over a decade of verified moving experience to Kathua. Whether you are shifting your family within Kathua district, moving across the border to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pathankot">Pathankot</a>, heading north along NH-44 towards <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jammu">Jammu</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-udhampur">Udhampur</a>, or relocating across the country via our network headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we provide complete end-to-end relocation management.</p>
 
         <div class="kth-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing services by Packers and Movers in Kathua">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing services by Packers and Movers in Kathua">
             <div class="kth-caption">Comprehensive multi-layer packaging for household furniture, kitchenware, and luxury appliances in Kathua</div>
         </div>
 
@@ -359,7 +359,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-kathua';
         </ul>
 
         <div class="kth-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office and IT infrastructure moving in Kathua">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office and IT infrastructure moving in Kathua">
             <div class="kth-caption">Secure anti-static packaging for corporate servers, CAD workstations, and administrative file archives in Kathua</div>
         </div>
     </section>
@@ -402,7 +402,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-kathua';
         </ul>
 
         <div class="kth-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container truck logistics in Kathua">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container truck logistics in Kathua">
             <div class="kth-caption">Heavy-duty weather-sealed container vehicles operating along the NH-44 interstate corridor</div>
         </div>
     </section>
@@ -530,7 +530,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-kathua';
         </div>
 
         <div class="kth-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room setup in Kathua">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room setup in Kathua">
             <div class="kth-caption">Careful unloading, unpacking, furniture assembly, and room setup at destination home in Kathua</div>
         </div>
     </section>
@@ -625,7 +625,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-kathua';
     "name": "Shree Ashirwad Packers and Movers Kathua",
     "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9334812297",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹40,000",
     "address": {
         "@type": "PostalAddress",

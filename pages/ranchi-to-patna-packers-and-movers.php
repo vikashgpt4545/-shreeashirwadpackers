@@ -172,7 +172,7 @@ $meta_keywords = "ranchi to patna packers and movers, packers and movers ranchi 
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -1153,21 +1153,21 @@ $meta_keywords = "ranchi to patna packers and movers, packers and movers ranchi 
         <!-- Visual Image Showcase -->
         <div class="rtp-image-showcase">
           <div class="rtp-image-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Patna Packers and Movers Door-to-Door Delivery Truck" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Patna Packers and Movers Door-to-Door Delivery Truck" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
             <div class="rtp-image-info">
               <div class="rtp-image-title">Weather-Sealed Closed Container Fleet</div>
               <p class="rtp-image-desc">All-weather steel closed containers ensuring complete protection and zero dust penetration across the 330 km NH-20 transit to Patna.</p>
             </div>
           </div>
           <div class="rtp-image-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Packing for Patna Shifting" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Packing for Patna Shifting" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
             <div class="rtp-image-info">
               <div class="rtp-image-title">Multi-Layer Crockery & Glassware Packing</div>
               <p class="rtp-image-desc">Cellular partition boxes, bubble wrap, and tissue cushioning ensuring delicate kitchenware survives the Koderma-Rajauli descent.</p>
             </div>
           </div>
           <div class="rtp-image-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Motorcycle Parcel Ranchi to Patna" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Motorcycle Parcel Ranchi to Patna" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
             <div class="rtp-image-info">
               <div class="rtp-image-title">Insured Two-Wheeler Container Transport</div>
               <p class="rtp-image-desc">Motorcycles and scooters anchored with specialized steel wheel-lock chocks and bubble-wrapped handle controls for safe delivery to Patna.</p>

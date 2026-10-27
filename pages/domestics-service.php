@@ -134,14 +134,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Domestic Intercity Container Truck Loading in Jharkhand - Shree Ashirwad Packers" title="Domestic Moving Services in Ranchi - All India Container Relocation" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Domestic Intercity Container Truck Loading in Jharkhand - Shree Ashirwad Packers" title="Domestic Moving Services in Ranchi - All India Container Relocation" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">28 States</span>
                 <span class="badge-txt">Covered Direct</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Ranchi - Shree Ashirwad Packers" title="Closed Container Shifting Fleet in Ranchi" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Ranchi - Shree Ashirwad Packers" title="Closed Container Shifting Fleet in Ranchi" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -275,7 +275,7 @@ require_once __DIR__ . '/includes/seo.php';
         <div class="room-packing-grid">
           
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Full Truck Load FTL Domestic Moving - Shree Ashirwad Packers" title="Dedicated Full Truck Load Container Shifting" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Full Truck Load FTL Domestic Moving - Shree Ashirwad Packers" title="Dedicated Full Truck Load Container Shifting" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Dedicated Full Truck Load (FTL)</h3>
               <p class="room-pack-text">
@@ -290,7 +290,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Economical Shared Part Load LTL Domestic Moving - Shree Ashirwad Packers" title="Shared Part-Load Consolidated Shifting" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Economical Shared Part Load LTL Domestic Moving - Shree Ashirwad Packers" title="Shared Part-Load Consolidated Shifting" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Economical Shared Part-Load (LTL)</h3>
               <p class="room-pack-text">
@@ -305,7 +305,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Combined Household Goods and Vehicle Transport in Ranchi - Shree Ashirwad Packers" title="Combined Household and Car Carrier Transport" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Combined Household Goods and Vehicle Transport in Ranchi - Shree Ashirwad Packers" title="Combined Household and Car Carrier Transport" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Household & Car Combo Transport</h3>
               <p class="room-pack-text">
@@ -320,7 +320,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Destination Unpacking and Furniture Setup Service - Shree Ashirwad Packers" title="Destination Unpacking and Reassembly Service" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Destination Unpacking and Furniture Setup Service - Shree Ashirwad Packers" title="Destination Unpacking and Reassembly Service" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Destination Unpacking & Setup</h3>
               <p class="room-pack-text">
@@ -500,16 +500,16 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Infrastructure & Fleet Visual Showcase -->
         <div class="infra-images-grid" style="margin-top: 36px;">
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad Verified Domestic Moving Truck in Jharkhand" title="Verified Interstate Closed Container Fleet" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad Verified Domestic Moving Truck in Jharkhand" title="Verified Interstate Closed Container Fleet" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Fleet Door to Door Delivery Truck - Shree Ashirwad Packers" title="Dedicated Closed Container Delivery Truck" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Fleet Door to Door Delivery Truck - Shree Ashirwad Packers" title="Dedicated Closed Container Delivery Truck" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Wooden Furniture Protective Wrapping in Bokaro - Shree Ashirwad Packers" title="5-Layer Highway Grade Furniture Packing" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Wooden Furniture Protective Wrapping in Bokaro - Shree Ashirwad Packers" title="5-Layer Highway Grade Furniture Packing" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Handling Facility in Ranchi - Shree Ashirwad Packers" title="Secure Goods Warehousing and Transit Hub" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Handling Facility in Ranchi - Shree Ashirwad Packers" title="Secure Goods Warehousing and Transit Hub" width="400" height="260" loading="lazy">
           </div>
         </div>
 

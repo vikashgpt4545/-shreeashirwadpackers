@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Jorhat",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jorhat",
     "priceRange": "₹4,000 - ₹62,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="jht-container">
       <h1>Packers and Movers in Jorhat Assam</h1>
       <p>Pinnacle cultural capital relocation services, Tocklai Tea Research scientist moving, Assam Agricultural University faculty shifting, and safe container transit in Jorhat.</p>
-      <a href="tel:+919334484001" class="jht-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="jht-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Jorhat is revered as the cultural capital of Assam, the historical administrative throne of the Ahom Kingdom during its twilight centuries, and the global epicentre of tea science and agricultural innovation. Located gracefully along the south bank of the Brahmaputra River and bisected by the Bhogdoi River, Jorhat is home to internationally renowned scientific institutions including the Tocklai Tea Research Institute (established in 1911 as the world's oldest and largest tea research station), Assam Agricultural University (AAU Jorhat), CSIR-North East Institute of Science and Technology (CSIR-NEIST), Jorhat Medical College and Hospital (JMCH), and Rowriah Airport. As the primary mainland gateway to the world's largest river island of Majuli via Nimati Ghat, Jorhat blends profound academic prestige, commercial vigor along Gar-Ali and AT Road, and sprawling historical tea estates. Relocating in Jorhat demands specialized expertise in scientific laboratory crating, tea bungalow antique preservation, and heavy monsoon humidity protection.</p>
 
       <div class="jht-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Jorhat Assam" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Jorhat Assam" width="580" height="360" loading="lazy">
       </div>
 
       <div class="jht-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Jorhat operational unit delivers tailored relocation services designed to address the diverse needs of tea scientists, agricultural professors, healthcare practitioners, and tea planters:</p>
 
       <div class="jht-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Jorhat" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Jorhat" width="580" height="360" loading="lazy">
       </div>
 
       <div class="jht-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Jorhat follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="jht-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Jorhat" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Jorhat" width="580" height="360" loading="lazy">
       </div>
 
       <div class="jht-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Jorhat:</p>
 
       <div class="jht-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Jorhat" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Jorhat" width="580" height="360" loading="lazy">
       </div>
 
       <div class="jht-grid-cards">

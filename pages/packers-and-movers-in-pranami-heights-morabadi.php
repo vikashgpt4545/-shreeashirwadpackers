@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -203,7 +203,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we are the trusted relocation specialists for discerning residents in Pranami Heights and Morabadi. Luxury apartment moves require sophisticated handling: shielding common elevator cabins with padded protective blankets, maneuvering oversized sectional sofas through high-rise corridors, using silent rubberized trolleys, and scheduling moves around society quiet hours. Calculate your moving estimate with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="phm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Pranami Heights Morabadi Ranchi - High-Rise Loading" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Pranami Heights Morabadi Ranchi - High-Rise Loading" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -252,7 +252,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="phm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling - Morabadi Flat Shifting" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling - Morabadi Flat Shifting" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -281,7 +281,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="phm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa Furniture Protective Packing - Pranami Heights" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa Furniture Protective Packing - Pranami Heights" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -310,7 +310,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="phm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Pranami Heights Apartment Handover" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Pranami Heights Apartment Handover" width="580" height="387" loading="lazy">
         </div>
     </section>
 

@@ -36,7 +36,7 @@ $primary_highway = 'NH-16 (East Coast National Expressway Corridor via Bhubanesw
     "name": "Shree Ashirwad Packers and Movers - Kolkata to Bangalore Relocation",
     "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/kolkata-to-bangalore-packers-and-movers",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹19,500 - ₹72,000",
     "address": {
       "@type": "PostalAddress",
@@ -512,7 +512,7 @@ $primary_highway = 'NH-16 (East Coast National Expressway Corridor via Bhubanesw
 
 <!-- Quick Action Contact Bar -->
 <div class="kbg-quick-bar">
-  Direct Highway Shifting Helpline: <strong>+91 9334484001 / +91 8409531615</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/919334484001?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Kolkata%20to%20Bangalore%20relocation">Chat on WhatsApp</a>
+  Direct Highway Shifting Helpline: <strong>+91 9835565233 / +91 8409531615</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Kolkata%20to%20Bangalore%20relocation">Chat on WhatsApp</a>
 </div>
 
 <!-- Section 1: Route Overview & Highway Logistics -->
@@ -534,7 +534,7 @@ $primary_highway = 'NH-16 (East Coast National Expressway Corridor via Bhubanesw
     </div>
     <div>
       <div class="kbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck for Kolkata to Bangalore relocation" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck for Kolkata to Bangalore relocation" loading="lazy">
       </div>
     </div>
   </div>
@@ -623,7 +623,7 @@ $primary_highway = 'NH-16 (East Coast National Expressway Corridor via Bhubanesw
   </div>
 
   <div class="kbg-image-container" style="margin-top: 36px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional packing crew preparing furniture and electronics for highway relocation" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional packing crew preparing furniture and electronics for highway relocation" loading="lazy">
   </div>
 </section>
 
@@ -668,7 +668,7 @@ $primary_highway = 'NH-16 (East Coast National Expressway Corridor via Bhubanesw
   <div class="kbg-grid-2">
     <div>
       <div class="kbg-image-container" style="margin: 0 auto;">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Multi-layer shockproof packing for kitchenware, electronics and glassware" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Multi-layer shockproof packing for kitchenware, electronics and glassware" loading="lazy">
       </div>
     </div>
     <div>
@@ -758,7 +758,7 @@ $primary_highway = 'NH-16 (East Coast National Expressway Corridor via Bhubanesw
   </div>
 
   <div class="kbg-image-container" style="margin-top: 36px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door unloading team delivering household goods in Bangalore" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door unloading team delivering household goods in Bangalore" loading="lazy">
   </div>
 </section>
 
@@ -823,7 +823,7 @@ $primary_highway = 'NH-16 (East Coast National Expressway Corridor via Bhubanesw
   <div class="kbg-cta-panel">
     <h3>Ready for a Hassle-Free Move from Kolkata to Bangalore?</h3>
     <p>Get a guaranteed written quote with zero hidden charges. Our logistics coordinator will schedule a free virtual or in-person survey today.</p>
-    <a href="tel:+919334484001" class="kbg-btn-primary">Call Now: +91 9334484001</a>
+    <a href="tel:+919835565233" class="kbg-btn-primary">Call Now: +91 9835565233</a>
   </div>
 </section>
 

@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kandiva
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-kandivali-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kandivali-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -367,7 +367,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kandiva
         <p>Relocating in Kandivali requires managing high-density society guidelines, coordinating elevator use in towering residential complexes, and navigating busy suburban traffic corridors. Shree Ashirwad Packers and Movers brings verified relocation expertise to Kandivali. Whether you are shifting apartments within Mahavir Nagar, upgrading to a luxury high-rise in Thakur Village, or coordinating an inter-state move toward Gujarat, Delhi NCR, or Jharkhand, our certified moving crews, protective packaging materials, and fleet of covered container vehicles guarantee safe, on-time delivery.</p>
 
         <div class="knd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Kandivali by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Kandivali by Shree Ashirwad Packers and Movers">
             <p class="knd-image-caption">Professional loading by trained movers ensuring goods are secured against transit movement in Kandivali.</p>
         </div>
 
@@ -404,7 +404,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kandiva
         </div>
 
         <div class="knd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Kandivali">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Kandivali">
             <p class="knd-image-caption">Multi-layered waterproof bubble wrap and corrugated padding shielding sensitive household goods.</p>
         </div>
 
@@ -512,7 +512,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kandiva
         </div>
 
         <div class="knd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Kandivali">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Kandivali">
             <p class="knd-image-caption">Skilled carpentry dismantling and component packaging for large wooden bedroom furniture.</p>
         </div>
 
@@ -546,7 +546,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kandiva
         </div>
 
         <div class="knd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kandivali">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kandivali">
             <p class="knd-image-caption">Reliable covered container vehicles delivering door-to-door relocation across Kandivali neighborhoods.</p>
         </div>
 
@@ -615,7 +615,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kandiva
 
         <div class="knd-faq-item">
             <h3>How do I get an exact written quotation for my move in Kandivali?</h3>
-            <p>You can contact our customer support team directly at +91 93344 04050 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
+            <p>You can contact our customer support team directly at +91 9835565233 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
         </div>
     </section>
 

@@ -631,7 +631,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-hazaribagh-pac
                 <p>Our dedicated moving network guarantees morning loading in Dhanbad neighborhoods like Saraidhela, Bank More, Hirapur, or Koyla Nagar, with arrival, careful unloading, and customized room setup in your Hazaribagh home on the very same afternoon. We deploy closed weatherproof container vehicles that protect your valued furnishings and electronic appliances from coal-belt dust, highway turbulence, and unpredictable weather.</p>
             </div>
             <div class="d2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container moving truck for Dhanbad to Hazaribagh packers and movers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container moving truck for Dhanbad to Hazaribagh packers and movers" loading="lazy">
                 <div class="d2hzb-img-caption">All-weather sealed container trucks operating along the Dhanbad-Hazaribagh GT Road corridor</div>
             </div>
         </div>
@@ -676,7 +676,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-hazaribagh-pac
     <section class="d2hzb-section">
         <div class="d2hzb-grid-2">
             <div class="d2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packing materials used by Shree Ashirwad Packers and Movers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packing materials used by Shree Ashirwad Packers and Movers" loading="lazy">
                 <div class="d2hzb-img-caption">Multi-layer defense system: EPE foam, bubble wrap, corner guards, and rigid 7-ply cartons</div>
             </div>
             <div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-hazaribagh-pac
                 </ul>
             </div>
             <div class="d2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Dhanbad to Hazaribagh vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Dhanbad to Hazaribagh vehicle relocation" loading="lazy">
                 <div class="h2dhn-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Dhanbad and Hazaribagh</div>
             </div>
         </div>
@@ -832,7 +832,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-hazaribagh-pac
     <section class="d2hzb-section">
         <div class="d2hzb-grid-2">
             <div class="d2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
                 <div class="d2hzb-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Hazaribagh residences</div>
             </div>
             <div>

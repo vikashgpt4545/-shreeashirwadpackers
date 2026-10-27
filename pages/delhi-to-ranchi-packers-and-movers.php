@@ -951,7 +951,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="d2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Delhi to Ranchi Packers and Movers Weatherproof Container Truck Fleet" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Delhi to Ranchi Packers and Movers Weatherproof Container Truck Fleet" width="600" height="400" loading="lazy">
         <div class="d2r-image-caption">
           <span class="d2r-image-tag">Direct Linehaul Express</span>
           <p class="d2r-image-text">Heavy-duty sealed container trucks engineered for smooth transit across the 1,220-km NH-19 Grand Trunk expressway corridor from Delhi to Ranchi.</p>
@@ -1101,7 +1101,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="d2r-grid-2col reverse">
       <div class="d2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Delhi to Ranchi Multi-Layer Protective Furniture Wrapping" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Delhi to Ranchi Multi-Layer Protective Furniture Wrapping" width="600" height="400" loading="lazy">
         <div class="d2r-image-caption">
           <span class="d2r-image-tag">Engineering-Grade Protection</span>
           <p class="d2r-image-text">Multi-layer corrugated wrapping and edge armor applied to wooden wardrobes and study furniture before long-haul container loading.</p>
@@ -1160,7 +1160,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="d2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Delhi to Ranchi Padded Electronic Appliance Protective Covers" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Delhi to Ranchi Padded Electronic Appliance Protective Covers" width="600" height="400" loading="lazy">
         <div class="d2r-image-caption">
           <span class="d2r-image-tag">Appliance Safety Standards</span>
           <p class="d2r-image-text">Custom thermal-padded jackets and heavy-gauge corrugated shells safeguarding home appliances and electronics during long-distance transit.</p>
@@ -1297,7 +1297,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="d2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Delhi to Ranchi Two-Wheeler Motorcycle Protective Packing" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Delhi to Ranchi Two-Wheeler Motorcycle Protective Packing" width="600" height="400" loading="lazy">
         <div class="d2r-image-caption">
           <span class="d2r-image-tag">Vehicle Safety Standards</span>
           <p class="d2r-image-text">Padded foam wraps and heavy floor ratchet lashings protecting motorbikes and scooters throughout the 1,220-km transit to Ranchi.</p>

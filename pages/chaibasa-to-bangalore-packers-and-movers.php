@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Chaibasa to Bangalore Relocation Corridor
 $page_title = "Chaibasa to Bangalore Packers and Movers | Safe Interstate Household & Vehicle Shifting";
-$page_description = "Reliable packers and movers from Chaibasa to Bangalore. 100% safe household goods shifting, car & bike transport, multi-layer packing, GPS tracking & transit insurance. Call +91 9334812833 for free survey.";
+$page_description = "Reliable packers and movers from Chaibasa to Bangalore. 100% safe household goods shifting, car & bike transport, multi-layer packing, GPS tracking & transit insurance. Call +91 9835565233for free survey.";
 $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
         "name": "Shree Ashirwad Packers and Movers - Chaibasa to Bangalore Service",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹16,500 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -364,7 +364,7 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
     <section class="cbg-hero-banner">
         <h1 class="cbg-hero-title">Chaibasa to Bangalore Packers and Movers</h1>
         <p class="cbg-hero-subtitle">Specialized Long-Distance Relocation Connecting West Singhbhum with India's Silicon Valley. Sealed Weatherproof Containers, 4-Layer Packaging, GPS Tracking & Doorstep Delivery.</p>
-        <a href="tel:+919334812833" class="cbg-cta-btn">Get Free Route Estimate: +91 9334812833</a>
+        <a href="tel:+919835565233" class="cbg-cta-btn">Get Free Route Estimate: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -380,7 +380,7 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
             </div>
             <div>
                 <div class="cbg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Chaibasa to Bangalore relocation" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Chaibasa to Bangalore relocation" width="580" height="387">
                     <div class="cbg-caption">Sealed containerized trucks engineered for 1,650 km interstate highway transit</div>
                 </div>
             </div>
@@ -473,7 +473,7 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
         <div class="cbg-grid-2">
             <div>
                 <div class="cbg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Chaibasa to Bangalore shifting" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Chaibasa to Bangalore shifting" width="580" height="387">
                     <div class="cbg-caption">Systematic loading and cargo weight distribution for safe highway stability</div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
             </div>
             <div>
                 <div class="cbg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car carrier loading for Chaibasa to Bangalore transport" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car carrier loading for Chaibasa to Bangalore transport" width="580" height="387">
                     <div class="cbg-caption">Hydraulic ramp car carrier ensuring safe ground clearance during loading</div>
                 </div>
             </div>
@@ -512,7 +512,7 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
         <div class="cbg-grid-2">
             <div>
                 <div class="cbg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Chaibasa to Bangalore moves" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Chaibasa to Bangalore moves" width="580" height="387">
                     <div class="cbg-caption">Doorstep unloading and setup service across all Bangalore residential areas</div>
                 </div>
             </div>

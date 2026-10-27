@@ -383,8 +383,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-cha
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:400px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:14px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
                   alt="Door to door household goods delivery truck in Chaibasa Jharkhand" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -527,8 +526,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-cha
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:380px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" 
                   alt="Double bed and wooden furniture dismantling in Chaibasa" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -625,8 +623,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-cha
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:380px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" 
                   alt="Waterproof closed container truck loading in Chaibasa West Singhbhum" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -934,8 +931,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-cha
           <div style="display:flex; flex-direction:column; align-items:center;">
             <figure style="margin:0; max-width:380px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" 
                   alt="Two wheeler and motorcycle packing and carrier service in Chaibasa" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"

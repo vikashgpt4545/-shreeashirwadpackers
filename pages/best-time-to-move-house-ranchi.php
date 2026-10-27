@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Time to Move House in Ranchi | Seasonal & Cost Guide | Call 9708579999</title>
-    <meta name="description" content="Discover the best time of year, month, and week to move house in Ranchi. Save up to 25% on shifting costs with seasonal timing, weather insights, and PSU transfer planning. Call 9708579999.">
+    <title>Best Time to Move House in Ranchi | Seasonal & Cost Guide | Call 9835565233</title>
+    <meta name="description" content="Discover the best time of year, month, and week to move house in Ranchi. Save up to 25% on shifting costs with seasonal timing, weather insights, and PSU transfer planning. Call 9835565233.">
     <meta name="keywords" content="best time to move house ranchi, cheap moving dates ranchi, packers and movers seasonal rates ranchi, shifting house griha pravesh ranchi, mid month moving discounts ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/best-time-to-move-house-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Relocation Advisory",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/best-time-to-move-house-ranchi",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Best Time to Move House in Ranchi: Seasonal & Cost Guide</h1>
                 <p>Timing your relocation strategically can save you thousands of rupees, spare you stressful weather disruptions, and secure the finest moving crews in Jharkhand. Explore month-by-month weather dynamics, calendar rate cycles, and smart booking strategies tailored for Ranchi residents.</p>
                 <div class="btmh-cta-group">
-                    <a href="tel:+919708579999" class="btmh-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20planning%20a%20home%20move%20in%20Ranchi%20and%20need%20advice%20on%20the%20best%20timing%20and%20rates" class="btmh-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Timing Quote</a>
+                    <a href="tel:+919835565233" class="btmh-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20planning%20a%20home%20move%20in%20Ranchi%20and%20need%20advice%20on%20the%20best%20timing%20and%20rates" class="btmh-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Timing Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="btmh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Planned residential relocation cartons and furniture setup in Ranchi Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Planned residential relocation cartons and furniture setup in Ranchi Jharkhand" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -368,7 +368,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>The Mid-Month Moving Secret: How to Save Up to 25%</h2>
                 <div class="btmh-grid-2">
                     <div class="btmh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container moving truck fleet of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container moving truck fleet of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>The single most powerful financial lever available to individuals moving home in Ranchi is avoiding the end-of-the-month crunch. In Indian residential tenancy practices, rental agreements universally begin or expire on the 1st or last day of a calendar month. Consequently, more than 70% of moving inquiries are crammed into two tight windows: the 28th to the 3rd, and the 14th to the 16th (for mid-month salary releases).</p>
@@ -412,7 +412,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="btmh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade corrugated packaging materials and boxes ready for house shifting in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade corrugated packaging materials and boxes ready for house shifting in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -426,7 +426,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>Whether relocating within Ranchi (such as Harmu to Morabadi or Bariatu to Kanke Road) or moving interstate across national highways, structured timeline milestones eliminate last-minute scrambles and protect delicate household goods.</p>
                     </div>
                     <div class="btmh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers handling strategic relocation loading in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers handling strategic relocation loading in Ranchi" loading="lazy">
                     </div>
                 </div>
 

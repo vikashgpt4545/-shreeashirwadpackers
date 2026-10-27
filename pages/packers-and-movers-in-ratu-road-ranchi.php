@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ratu Road Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ratu-road-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -432,7 +432,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Ratu Road Ranchi</h1>
         <p>Premium household shifting, commercial godown relocation, and vehicle transport services across Ratu Road, Sukhdeo Nagar, Pandra Market Yard, Pahari Mandir, ITI Bus Stand, and Devi Mandap Road. Fast, punctual, and damage-free moving delivered by experienced local crews.</p>
-        <a href="tel:+919334404052" class="hl-rtr-cta-btn">&#128222; Call Now: +91 93344 04052</a>
+        <a href="tel:+919835565233" class="hl-rtr-cta-btn">&#128222; Call Now: +91 9835565233</a>
       </div>
       <div class="hl-rtr-hero-card">
         <h3>Fast Moving Quote</h3>
@@ -440,7 +440,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Ratu Road &amp; ITI Bus Stand, Ranchi
         </div>
         <div class="hl-rtr-contact-item">
-          <span>Phone Support:</span> +91 93344 04052
+          <span>Phone Support:</span> +91 9835565233
         </div>
         <div class="hl-rtr-contact-item">
           <span>Operating Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -457,7 +457,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Constrained Card Image 1 -->
   <div class="hl-rtr-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Ratu Road and Pandra Ranchi">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Ratu Road and Pandra Ranchi">
     <div class="hl-rtr-img-caption">Dedicated closed-body container fleet maneuvering smoothly along Ratu Road commercial and residential corridors.</div>
   </div>
 
@@ -504,7 +504,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 2 -->
     <div class="hl-rtr-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-Layer Furniture Wrapping for Safe Moving in Ratu Road Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-Layer Furniture Wrapping for Safe Moving in Ratu Road Ranchi">
       <div class="hl-rtr-img-caption">Multi-layer bubble wrap, edge guards, and stretch film protection for premium wooden furniture and electronics.</div>
     </div>
 
@@ -586,7 +586,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 3 -->
     <div class="hl-rtr-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing and Transit in Ratu Road Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing and Transit in Ratu Road Ranchi">
       <div class="hl-rtr-img-caption">Custom foam wrapping and heavy-duty strapping ensuring scratch-free two-wheeler relocation.</div>
     </div>
 
@@ -625,7 +625,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 4 -->
     <div class="hl-rtr-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Dedicated Professional Moving Crew in Ratu Road Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Dedicated Professional Moving Crew in Ratu Road Ranchi">
       <div class="hl-rtr-img-caption">Experienced loading crews equipped with modern lifting gear for safe, punctual relocations.</div>
     </div>
 

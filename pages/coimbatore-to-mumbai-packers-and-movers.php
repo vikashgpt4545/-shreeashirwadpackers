@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Professional interstate relocation services from Coimbatore to Mumbai covering RS Puram, Peelamedu, Gandhipuram, and Saravanampatti with dedicated sealed container trucks.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹16,500 - ₹68,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy closed weatherproof container vehicles designed specifically for extended highway transit across Tamil Nadu, Karnataka, and Maharashtra. Whether you are transitioning for an executive role in Mumbai's commercial districts, shifting family homes to Thane or Navi Mumbai, or relocating specialized workshop equipment, our verified crew ensures on-schedule arrival and zero transit loss.</p>
 
         <div class="mbcb-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Coimbatore to Mumbai" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Coimbatore to Mumbai" width="580" height="386">
         </div>
 
         <div class="cbmb-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>From Tumkur, the vehicles join the well-engineered National Highway 48 corridor through Chitradurga, Davanagere, Haveri, Hubli, Dharwad, and Belgaum, crossing into Maharashtra near Kagal. Continuing past Kolhapur, Karad, and Satara, our fleet navigates the Pune bypass before accelerating along the six-lane Mumbai-Pune Expressway into Navi Mumbai and Greater Mumbai. Our operations desk tracks electronic FASTag toll clearances and driver resting intervals to maintain consistent transit safety.</p>
 
         <div class="cbmb-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Coimbatore to Mumbai relocation" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Coimbatore to Mumbai relocation" width="580" height="386">
         </div>
 
         <div class="cbmb-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every fragile dish, glassware set, and kitchen appliance is wrapped in double-layer air-bubble film and nestled within honeycomb corrugated boxes. High-value flat-screen televisions, glass-top dining sets, and pooja mandirs are encased in custom wooden crates for uncompromising shock absorption.</p>
 
         <div class="mbcb-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Mumbai" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Mumbai" width="580" height="386">
         </div>
 
         <div class="cbmb-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every vehicle undergoes a comprehensive 24-point pre-dispatch inspection. We document fuel levels, existing surface scratches, and odometer readings on a signed consignment receipt prior to loading, giving you complete clarity.</p>
 
         <div class="mbcb-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
         </div>
 
         <div class="cbmb-grid-2">

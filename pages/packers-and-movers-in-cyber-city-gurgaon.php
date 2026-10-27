@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Cyber City",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -476,7 +476,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <h1 class="ccg-hero-title">Packers and Movers in Cyber City Gurgaon</h1>
         <p class="ccg-hero-subtitle">Corporate Office Relocation, High-Tech Server Shifting & Executive Home Moving across DLF Cyber Hub, Shankar Chowk, DLF Phase 2 & 3.</p>
         <div class="ccg-cta-group">
-            <a href="tel:+919334404050" class="ccg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="ccg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ccg-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -495,7 +495,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="ccg-intro-p">Whether you are expanding your enterprise across commercial towers in Cyber City, relocating key executives locally across Gurgaon, or coordinating multi-city corporate transfers linking to Eastern India via our <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> network, Shree Ashirwad delivers dependable corporate logistics backed by 100% transit insurance and seamless GST invoicing.</p>
 
         <div class="ccg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Corporate office shifting crew in Cyber City Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Corporate office shifting crew in Cyber City Gurgaon" width="580" height="360">
             <div class="ccg-image-caption">Professional moving personnel staging padded office electronics and modular furniture in Cyber City Gurgaon</div>
         </div>
     </section>
@@ -553,7 +553,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="ccg-intro-p">Modern tech enterprises in Cyber City rely heavily on uninterrupted data accessibility. When handling enterprise IT infrastructure, our engineers implement certified electrostatic discharge (ESD) packaging protocols. We utilize conductive bubble sheeting, grounded handling gloves, and shock-cushioned transit containers specifically calibrated for rack-mounted blade servers, firewall appliances, and precision fiber switches. Every server is labeled with port mapping diagrams to ensure rapid recommissioning once delivered.</p>
 
         <div class="ccg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Anti-static bubble wrap and packing supplies in Cyber City" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Anti-static bubble wrap and packing supplies in Cyber City" width="580" height="360">
             <div class="ccg-image-caption">High-grade anti-static bubble wrapping, heavy-duty edge protectors, and corrugated archive cartons prepared for Cyber City moves</div>
         </div>
     </section>
@@ -661,7 +661,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="ccg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Office desk and modular workstation dismantling in Cyber City" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Office desk and modular workstation dismantling in Cyber City" width="580" height="360">
             <div class="ccg-image-caption">Expert carpenters disassembling executive desks and modular office partitions for scratch-free relocation</div>
         </div>
     </section>
@@ -699,7 +699,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="ccg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in Cyber City Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in Cyber City Gurgaon" width="580" height="360">
             <div class="ccg-image-caption">All-weather sealed container trucks ensuring clean, punctual, and secure transit across Gurgaon and national highways</div>
         </div>
     </section>

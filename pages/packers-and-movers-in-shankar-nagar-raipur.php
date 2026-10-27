@@ -20,7 +20,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Shankar Nagar Raipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-shankar-nagar-raipur",
-        "telephone": "+919334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -417,7 +417,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Operating as an elite hyper-local branch of our central <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raipur">Raipur Moving Hub</a> and synchronized directly with our corporate <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, we specialize in high-end household shifting, luxury antique handling, modular kitchen disassembly, and luxury vehicle transport. Relocating luxury residences in Shankar Nagar requires trained moving personnel who treat valuable heirlooms, imported chandeliers, crystal dinnerware, and Italian marble surfaces with extreme care. We deploy premium five-ply corrugated boxes, high-density bubble rolls, edge protectors, and custom wooden casing. Check transparent local moving tariffs via our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live moving cost calculator</a>.</p>
 
         <div class="snr-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Shankar Nagar Raipur by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Shankar Nagar Raipur by Shree Ashirwad Packers and Movers">
             <div class="snr-img-caption">White-glove multi-layer protective packaging for luxury homes in Shankar Nagar Raipur</div>
         </div>
 
@@ -476,7 +476,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="snr-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Shankar Nagar Raipur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Shankar Nagar Raipur">
             <div class="snr-img-caption">High-density bubble rolls, corrugated cartons, and eco-friendly stretch film used in Shankar Nagar Raipur</div>
         </div>
     </section>
@@ -592,7 +592,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="snr-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Shankar Nagar Raipur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Shankar Nagar Raipur">
             <div class="snr-img-caption">Sealed container trucks providing 100% weather and dust protection across Raipur</div>
         </div>
     </section>
@@ -639,7 +639,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="snr-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Shankar Nagar Raipur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Shankar Nagar Raipur">
             <div class="snr-img-caption">Hydraulic car carriers ensuring safe loading and scratch-free vehicle transport</div>
         </div>
     </section>
@@ -678,7 +678,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="snr-cta-box">
         <h3>Book Your Stress-Free Move in Shankar Nagar Today!</h3>
         <p>Connect with our Shankar Nagar relocation specialist for an accurate moving estimate and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="snr-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="snr-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

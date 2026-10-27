@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Prayagraj",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -488,7 +488,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="pyg-hero-title">Packers and Movers in Prayagraj</h1>
         <p class="pyg-hero-subtitle">Comprehensive Household Shifting, High Court Judicial Relocation, Academic Moving, and Safe Vehicle Transport Across Uttar Pradesh's Legal Capital</p>
         <div class="pyg-cta-group">
-            <a href="tel:+919334404050" class="pyg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="pyg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pyg-btn-secondary">Check Shifting Rates</a>
         </div>
     </section>
@@ -501,7 +501,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="pyg-intro-p">At Shree Ashirwad Packers and Movers, we bring over 15 years of tested logistics experience directly to your doorstep in Prayagraj. Shifting homes within this prestigious city involves distinctive requirements: managing judicial officer and advocate transfers requiring discreet handling of extensive law book libraries, moving academic staff around Katra and Colonelganj, protecting antique teakwood furniture in Civil Lines and George Town bungalows, and navigating bridge crossings over the Yamuna and Ganga to Naini and Jhunsi. Our experienced moving crews utilize 5-ply export-quality cartons, virgin air-bubble wrapping, and specialized closed container vehicles designed for smooth urban and highway transport.</p>
 
         <div class="pyg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Prayagraj" width="580" height="380" loading="lazy">
             <p class="pyg-image-caption">Shree Ashirwad crew carrying out careful packing and vehicle loading operations in Prayagraj.</p>
         </div>
 
@@ -576,7 +576,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pyg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Prayagraj" width="580" height="380" loading="lazy">
             <p class="pyg-image-caption">High-density bubble wrapping and reinforced corrugated carton packaging for delicate items in Prayagraj.</p>
         </div>
 
@@ -681,7 +681,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pyg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling by Expert Carpenters in Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling by Expert Carpenters in Prayagraj" width="580" height="380" loading="lazy">
             <p class="pyg-image-caption">Trained carpenters systematically dismantling and wrapping wooden bed components before transit in Prayagraj.</p>
         </div>
     </section>
@@ -694,7 +694,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="pyg-intro-p">For interstate relocations heading toward Delhi and Lucknow, our containerized vehicles travel directly along the high-speed NH-19 and upcoming Ganga Expressway corridors, ensuring swift transit durations under 10 to 14 hours. Consignments bound for Jharkhand—connecting to Hazaribagh, Bokaro, Ramgarh, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>—travel seamlessly along NH-19 and NH-22 with direct door-to-door transit completed in under 24 hours.</p>
 
         <div class="pyg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep Delivery Fleet and Closed Container Transit in Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep Delivery Fleet and Closed Container Transit in Prayagraj" width="580" height="380" loading="lazy">
             <p class="pyg-image-caption">All-weather container vehicles providing direct interstate transit connections from Prayagraj across India.</p>
         </div>
 
@@ -759,7 +759,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Reliable Move in Prayagraj</h3>
         <p>Connect with our Prayagraj relocation specialists today for an accurate on-site survey, competitive estimate, and safe, stress-free shifting.</p>
         <div class="pyg-cta-group">
-            <a href="tel:+919334404050" class="pyg-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="pyg-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pyg-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

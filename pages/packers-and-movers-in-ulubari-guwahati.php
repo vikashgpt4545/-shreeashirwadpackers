@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ulubari Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ulubari-guwahati",
     "priceRange": "₹4,000 - ₹60,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="ubg-container">
       <h1>Packers and Movers in Ulubari Guwahati</h1>
       <p>Premier police administration relocation, B. Borooah College faculty moves, Nehru Stadium apartment shifting, and safe pan-India container transit in Ulubari.</p>
-      <a href="tel:+919334484001" class="ubg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="ubg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Ulubari occupies a vibrant, strategic crossroad in central Guwahati, acting as the primary transitional corridor connecting the historic riverfront district with the thriving modern commercial spine of GS Road. Anchored by major administrative and recreational landmarks including the Assam Police Headquarters, the prestigious B. Borooah College, the historic Nehru Stadium and RG Baruah Sports Complex, and the vital multi-lane Ulubari Flyover, this bustling locality hosts a dense mix of law enforcement headquarters, corporate offices, healthcare facilities, and well-established residential enclaves along BK Kakati Road, South Sarania, and Kachari Basti. Moving in Ulubari demands professional logistics precision to navigate busy flyover underpasses, dense traffic flows toward Paltan Bazaar railway station, and tight apartment access lanes.</p>
 
       <div class="ubg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Ulubari Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Ulubari Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ubg-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Ulubari operational branch provides customized relocation solutions tailored to the needs of police personnel, college faculty, sports organizations, and residential families:</p>
 
       <div class="ubg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Ulubari" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Ulubari" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ubg-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Ulubari follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="ubg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Ulubari" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Ulubari" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ubg-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Ulubari:</p>
 
       <div class="ubg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Ulubari" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Ulubari" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ubg-grid-cards">

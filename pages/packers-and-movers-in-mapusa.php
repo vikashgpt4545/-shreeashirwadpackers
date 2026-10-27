@@ -32,7 +32,7 @@ $state_name = 'Goa';
     "name": "Shree Ashirwad Packers and Movers Mapusa",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-mapusa",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -354,7 +354,7 @@ $state_name = 'Goa';
     <div class="mps-container">
       <h1>Packers and Movers in Mapusa Goa</h1>
       <p>Premier household relocation, Bardez taluka residential moving, Karaswada industrial logistics, and coastal villa shifting across Mapusa and North Goa.</p>
-      <a href="tel:+919334484001" class="mps-hero-btn">Call +91 9334484001 for Free Moving Quote</a>
+      <a href="tel:+919835565233" class="mps-hero-btn">Call +91 9835565233 for Free Moving Quote</a>
     </div>
   </section>
 
@@ -365,7 +365,7 @@ $state_name = 'Goa';
       <p>Mapusa serves as the bustling commercial nerve centre of the Bardez taluka and the primary northern gateway of Goa. Famous across the state for its historic Friday Municipal Market, vibrant trading guilds, and strategic position connecting Panaji to the premier northern coastal beaches of Calangute, Anjuna, Baga, and Vagator, Mapusa combines deep-rooted local residential communities with rapid urban expansion. Navigating household and commercial shifting in Mapusa requires local expertise in timing moves around municipal market crowds, managing tight residential lanes in traditional areas like Feira Alta and Ansabhat, and servicing high-rise gated enclaves across Duler and Khorlim.</p>
 
       <div class="mps-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers crew loading apartment household items Mapusa" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers crew loading apartment household items Mapusa" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mps-grid-2">
@@ -471,7 +471,7 @@ $state_name = 'Goa';
       <p>Our dedicated moving crew delivers end-to-end relocation expertise designed to handle every facet of household, corporate, and vehicle transport:</p>
 
       <div class="mps-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging services in Mapusa" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging services in Mapusa" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mps-grid-cards">
@@ -508,7 +508,7 @@ $state_name = 'Goa';
       <p>Relocation stress disappears when backed by our disciplined, military-precision moving methodology:</p>
 
       <div class="mps-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck moving goods Mapusa" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck moving goods Mapusa" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mps-grid-cards">
@@ -541,7 +541,7 @@ $state_name = 'Goa';
       <p>Our localized pickup teams operate across every primary residential quarter, commercial sector, and surrounding coastal suburb of Mapusa:</p>
 
       <div class="mps-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials and household crates Mapusa" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials and household crates Mapusa" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mps-grid-cards">

@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pet Relocation Guide Ranchi | Moving Dogs, Cats & Pets Safely | Call 9708579999</title>
-    <meta name="description" content="Complete guide to pet relocation from Ranchi. Veterinary health certificates, IATA approved travel crates, Indian Railways First AC pet rules, air cargo from Birsa Munda Airport, and anxiety care. Call 9708579999.">
+    <title>Pet Relocation Guide Ranchi | Moving Dogs, Cats & Pets Safely | Call 9835565233</title>
+    <meta name="description" content="Complete guide to pet relocation from Ranchi. Veterinary health certificates, IATA approved travel crates, Indian Railways First AC pet rules, air cargo from Birsa Munda Airport, and anxiety care. Call 9835565233.">
     <meta name="keywords" content="pet relocation guide ranchi, dog shifting service ranchi, cat relocation ranchi, pet transport charges from ranchi, iata pet crate ranchi, shree ashirwad pet movers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/pet-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Pet Logistics Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/pet-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Pet Relocation Guide: Moving Dogs, Cats & Pets from Ranchi Safely</h1>
                 <p>Your pets are beloved family members, not freight cargo. Relocating dogs, cats, or birds across India requires specialized veterinary compliance, IATA travel crates, and compassionate care. Master the exact protocols to keep your furry companions safe, comfortable, and stress-free.</p>
                 <div class="prgr-cta-group">
-                    <a href="tel:+919708579999" class="prgr-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20guidance%20for%20pet%20relocation%20from%20Ranchi" class="prgr-btn-wa" target="_blank" rel="noopener">WhatsApp Pet Logistics Desk</a>
+                    <a href="tel:+919835565233" class="prgr-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20guidance%20for%20pet%20relocation%20from%20Ranchi" class="prgr-btn-wa" target="_blank" rel="noopener">WhatsApp Pet Logistics Desk</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="prgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Dedicated pet essentials packing and relocation cartons in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Dedicated pet essentials packing and relocation cartons in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -282,7 +282,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Indian Railways First AC (1A) Pet Travel Protocols from Ranchi</h2>
                 <div class="prgr-grid-2">
                     <div class="prgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Coordinated pet transport vehicle fleet in Ranchi Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Coordinated pet transport vehicle fleet in Ranchi Jharkhand" loading="lazy">
                     </div>
                     <div>
                         <p>Under Indian Railways Commercial Manual Rule 208, a passenger is legally permitted to travel with a dog inside their compartment under specific strict conditions:</p>
@@ -312,7 +312,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="prgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective crate boundary and travel preparation for pets in Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective crate boundary and travel preparation for pets in Jharkhand" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -354,7 +354,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Arrival & Acclimatization: Setting Up the "Sanctuary Room"</h2>
                 <div class="prgr-grid-2">
                     <div class="prgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated quiet room setup for pet arrival and acclimatization in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated quiet room setup for pet arrival and acclimatization in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Arriving at an unfamiliar house filled with unfamiliar smells can cause even well-trained dogs and cats to bolt through open doors or exhibit stress urination:</p>

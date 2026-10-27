@@ -698,7 +698,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-ramgarh-packers-
             </div>
             <div>
                 <div class="dum2ram-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dumka to Ramgarh Packers and Movers container truck" title="Closed container truck on Dumka to Ramgarh relocation route">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dumka to Ramgarh Packers and Movers container truck" title="Closed container truck on Dumka to Ramgarh relocation route">
                     <div class="dum2ram-img-caption">
                         <strong>Figure 1:</strong> Dedicated sealed container truck on the 245 km Dumka to Ramgarh intercity highway corridor.
                     </div>
@@ -755,13 +755,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-ramgarh-packers-
     <div class="container">
         <div class="dum2ram-grid-2">
             <div class="dum2ram-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging Dumka to Ramgarh" title="Professional packaging for Dumka to Ramgarh move">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging Dumka to Ramgarh" title="Professional packaging for Dumka to Ramgarh move">
                 <div class="dum2ram-img-caption">
                     <strong>Figure 2:</strong> Systematic 5-layer protective packing for furniture and electronics before loading into the container.
                 </div>
             </div>
             <div class="dum2ram-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transportation carrier loading Dumka to Ramgarh" title="Vehicle carrier transit Dumka to Ramgarh">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transportation carrier loading Dumka to Ramgarh" title="Vehicle carrier transit Dumka to Ramgarh">
                 <div class="dum2ram-img-caption">
                     <strong>Figure 3:</strong> Professional loading of motor vehicles and cars using hydraulic ramps and heavy-duty wheel chocks.
                 </div>
@@ -876,7 +876,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-ramgarh-packers-
             </div>
             <div>
                 <div class="dum2ram-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Ramgarh" title="Careful unloading and arrangement in Ramgarh">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Ramgarh" title="Careful unloading and arrangement in Ramgarh">
                     <div class="dum2ram-img-caption">
                         <strong>Figure 4:</strong> Dedicated moving staff executing careful unloading, unpacking, and room-wise placement at the destination.
                     </div>

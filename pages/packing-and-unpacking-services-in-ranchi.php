@@ -173,7 +173,7 @@ $meta_keywords = "packing and unpacking services in ranchi, packing services in 
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -888,7 +888,7 @@ $meta_keywords = "packing and unpacking services in ranchi, packing services in 
 
           <div>
             <div class="pack-img-frame">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" 
                    alt="Industrial Grade Packing Materials Corrugated Sheets Ranchi Shree Ashirwad Packers" 
                    loading="lazy" 
                    width="540" 
@@ -1024,7 +1024,7 @@ $meta_keywords = "packing and unpacking services in ranchi, packing services in 
         <div class="pack-two-col-reverse">
           <div>
             <div class="pack-img-frame">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" 
                    alt="Fragile Glassware and Crockery Box Packing in Ranchi Shree Ashirwad Packers" 
                    loading="lazy" 
                    width="540" 
@@ -1352,7 +1352,7 @@ $meta_keywords = "packing and unpacking services in ranchi, packing services in 
 
           <div>
             <div class="pack-img-frame">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" 
                    alt="White Glove Unpacking and Furniture Setup Service in Ranchi Shree Ashirwad Packers" 
                    loading="lazy" 
                    width="540" 

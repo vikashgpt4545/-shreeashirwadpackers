@@ -568,7 +568,7 @@
             </div>
             <div>
                 <div class="bhl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Behala Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Behala Kolkata" width="580" height="380">
                     <div class="bhl-image-caption">Professional loading of household consignments using secure ramp systems in Behala Kolkata.</div>
                 </div>
             </div>
@@ -694,7 +694,7 @@
             </div>
             <div>
                 <div class="bhl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for fragile goods in Behala Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for fragile goods in Behala Kolkata" width="580" height="380">
                     <div class="bhl-image-caption">High-density shock-absorbing bubble wraps and corrugated carton packaging in Behala.</div>
                 </div>
             </div>
@@ -753,7 +753,7 @@
             </div>
             <div>
                 <div class="bhl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and double bed packing in Behala Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and double bed packing in Behala Kolkata" width="580" height="380">
                     <div class="bhl-image-caption">Experienced furniture carpenters dismantling modular wardrobes and double beds in Behala.</div>
                 </div>
             </div>
@@ -805,7 +805,7 @@
             </div>
             <div>
                 <div class="bhl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Closed container delivery truck for door to door moving in Behala Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Closed container delivery truck for door to door moving in Behala Kolkata" width="580" height="380">
                     <div class="bhl-image-caption">Weather-sealed container truck providing reliable door-to-door shifting across Behala and Pan-India.</div>
                 </div>
             </div>

@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-panposh-rourkela#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-panposh-rourkela",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -522,7 +522,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="pnp-body-p">Lined with bustling automotive workshops, heavy transport booking agencies, building hardware emporiums, retail showrooms, and thriving residential colonies like Raghunathpali, Old Panposh, and Vedvyas Enclave, Panposh experiences non-stop commercial motion. Relocating households, commercial retail stores, or warehouse depots in this high-frequency artery requires specialized operational agility, expert packing technicians, heavy furniture dollies, and punctual highway dispatch schedules that avoid peak truck transit hours.</p>
 
                 <div class="pnp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading Panposh Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading Panposh Rourkela">
                     <div class="pnp-image-caption">Dedicated crew executing household cargo loading near Panposh Chowk Rourkela</div>
                 </div>
 
@@ -561,7 +561,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="pnp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Cartons and Materials Panposh Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Cartons and Materials Panposh Rourkela">
                     <div class="pnp-image-caption">Reinforced corrugated cartons, virgin air bubble wrap, and protective foam buffers used in Panposh</div>
                 </div>
 
@@ -682,7 +682,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="pnp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly Panposh Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly Panposh Rourkela">
                     <div class="pnp-image-caption">Skilled carpenters carefully dismantling and wrapping master bedroom furniture near Panposh Rourkela</div>
                 </div>
 
@@ -717,7 +717,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="pnp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Panposh Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Panposh Rourkela">
                     <div class="pnp-image-caption">All-weather container delivery vehicles ensuring seamless door-to-door transit across Panposh Rourkela</div>
                 </div>
 
@@ -780,7 +780,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> NH-143 Crossing, Near Panposh Chowk, Rourkela</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="pnp-cta-button">Request Free Moving Quote</a>

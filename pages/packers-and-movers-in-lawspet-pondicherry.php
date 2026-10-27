@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Lawspet",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-lawspet-pondicherry",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹54,000",
     "address": {
       "@type": "PostalAddress",
@@ -459,7 +459,7 @@
       </div>
       <div>
         <div class="lsp-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading in Lawspet Pondicherry" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading in Lawspet Pondicherry" width="580" height="386" loading="lazy">
           <p class="lsp-image-caption">Disciplined elevator loading and protective padding in Lawspet multi-storey residential complexes.</p>
         </div>
       </div>
@@ -555,7 +555,7 @@
       </div>
     </div>
     <div class="lsp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Lawspet Pondicherry" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Lawspet Pondicherry" width="580" height="386" loading="lazy">
       <p class="lsp-image-caption">Systematic truck stacking and cargo securing by Shree Ashirwad's trained moving crew.</p>
     </div>
   </section>
@@ -591,7 +591,7 @@
       </div>
     </div>
     <div class="lsp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Defensive bubble wrap packing in Lawspet Pondicherry" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Defensive bubble wrap packing in Lawspet Pondicherry" width="580" height="386" loading="lazy">
       <p class="lsp-image-caption">High-grade shock-absorbing bubble wrap and sturdy cartons for Lawspet household moves.</p>
     </div>
   </section>
@@ -627,7 +627,7 @@
       </div>
     </div>
     <div class="lsp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Lawspet Pondicherry" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Lawspet Pondicherry" width="580" height="386" loading="lazy">
       <p class="lsp-image-caption">Dedicated door-to-door container fleet serving Lawspet and all surrounding Pondicherry neighborhoods.</p>
     </div>
   </section>

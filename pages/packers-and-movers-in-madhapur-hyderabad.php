@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madhapur-hyderabad";
         "name": "Shree Ashirwad Packers and Movers Madhapur",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -513,7 +513,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madhapur-hyderabad";
         <h1>Packers and Movers in Madhapur Hyderabad</h1>
         <p>Premium ISO 9001:2015 certified relocation services, apartment moving, corporate office shifting & vehicle transport across Madhapur, Ayyappa Society & Durgam Cheruvu.</p>
         <div class="mdh-btn-wrap">
-            <a href="tel:+919334404050" class="mdh-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="mdh-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mdh-btn-secondary">Check Rate Calculator</a>
         </div>
     </header>
@@ -535,7 +535,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madhapur-hyderabad";
         </div>
 
         <div class="mdh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Madhapur Hyderabad loading apartment items" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Madhapur Hyderabad loading apartment items" width="580" height="380" loading="lazy">
             <div class="mdh-image-caption">Figure 1: High-rise apartment goods handling and protective padding executed in Madhapur, Hyderabad.</div>
         </div>
 
@@ -585,7 +585,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madhapur-hyderabad";
         </div>
 
         <div class="mdh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office workstation and IT equipment packing in Madhapur Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office workstation and IT equipment packing in Madhapur Hyderabad" width="580" height="380" loading="lazy">
             <div class="mdh-image-caption">Figure 2: Systematic IT equipment labeling and workstation protective wrapping in Madhapur.</div>
         </div>
     </section>
@@ -646,7 +646,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madhapur-hyderabad";
         </table>
 
         <div class="mdh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture packing and corner padding in Madhapur Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture packing and corner padding in Madhapur Hyderabad" width="580" height="380" loading="lazy">
             <div class="mdh-image-caption">Figure 3: High-density protective foam padding and stretch wrap applied to fine wooden furniture.</div>
         </div>
     </section>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madhapur-hyderabad";
         </div>
 
         <div class="mdh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Madhapur Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Madhapur Hyderabad" width="580" height="380" loading="lazy">
             <div class="mdh-image-caption">Figure 4: GPS-tracked, sealed container trucks ensuring safe inter-state transit from Madhapur.</div>
         </div>
     </section>
@@ -778,7 +778,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madhapur-hyderabad";
         <h3>Book Your Madhapur Relocation with Verified Experts</h3>
         <p>Contact Shree Ashirwad Packers and Movers today for a free on-site survey and transparent, guaranteed moving quote with zero hidden surprises.</p>
         <div class="mdh-btn-wrap">
-            <a href="tel:+919334404050" class="mdh-btn-primary">Call Desk: +91 9334404050</a>
+            <a href="tel:+919835565233" class="mdh-btn-primary">Call Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mdh-btn-secondary">Check Rate Calculator</a>
         </div>
     </section>

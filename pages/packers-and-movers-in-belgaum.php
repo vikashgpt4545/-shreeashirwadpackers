@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-belgaum";
         "name": "Shree Ashirwad Packers and Movers Belgaum",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -515,7 +515,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Belgaum (Belagavi)</h1>
         <p>Premium household shifting, defense cantonment relocation, foundry machinery transport, and automobile carriers across Tilakwadi, Camp Area, Udyambag, Bhagya Nagar, and Macche.</p>
         <div class="bgm-btn-wrap">
-            <a href="tel:+919334404050" class="bgm-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="bgm-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bgm-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -543,7 +543,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bgm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Belgaum" title="Household relocation in Belgaum">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Belgaum" title="Household relocation in Belgaum">
             <p class="bgm-image-caption">Comprehensive household packing and organized labeling for residential homes in Belgaum (Belagavi).</p>
         </div>
     </section>
@@ -579,7 +579,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Valuable home electronics—including double-door frost-free refrigerators, curved smart televisions, and front-load washing machines—are secured with internal drum transit locks, thick quilted moving blankets, and heavy-gauge shrink wrap, ensuring 100% operational safety upon arrival.</p>
 
         <div class="bgm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Belgaum" title="Furniture packing in Belgaum">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Belgaum" title="Furniture packing in Belgaum">
             <p class="bgm-image-caption">Multi-tier bubble wrapping and edge guards applied to premium furniture in Belgaum.</p>
         </div>
     </section>
@@ -620,7 +620,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Belgaum's central position on NH 48 makes it a key transit terminal for automobile and two-wheeler carriers. We operate specialized multi-tier car carriers equipped with wheel chocks and safety locking harnesses. Your sedan, SUV, or motorcycle is inspected, inventoried, and delivered scratch-free to Bangalore, Pune, Mumbai, Delhi, or eastern destinations like Ranchi.</p>
 
         <div class="bgm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Belgaum" title="Delicate packing in Belgaum">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Belgaum" title="Delicate packing in Belgaum">
             <p class="bgm-image-caption">Custom bubble wrapping and heavy-duty box crating for fragile glassware and delicate kitchenware.</p>
         </div>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bgm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Belgaum" title="Safe transit truck in Belgaum">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Belgaum" title="Safe transit truck in Belgaum">
             <p class="bgm-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

@@ -537,7 +537,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p><strong>1. Full-Service Relocation (Composite Supply &mdash; 18% GST):</strong> When a moving company undertakes the entire shifting process &mdash; providing packing materials (bubble wrap, corrugated boxes, stretch film), skilled labor for loading/unloading, furniture dismantling/reassembly, and road transit &mdash; it is legally treated as a "Composite Supply" under Section 2(30) of the CGST Act. The principal supply is cargo handling and packaging under <strong>SAC Code 9987</strong>, and the entire invoice value is subject to <strong>18% GST</strong> (9% CGST + 9% SGST for intra-state moves, or 18% IGST for interstate moves).</p>
 
         <div class="pmgst-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for GST compliant intercity relocation across India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for GST compliant intercity relocation across India" width="580" height="386" loading="lazy">
         </div>
 
         <p><strong>2. Pure Transportation Service (GTA Freight Only &mdash; 5% GST):</strong> If a customer handles all packing, loading, and unloading personally and merely hires a closed container truck to move their goods from Point A to Point B, the service is classified strictly as a Goods Transport Agency (GTA) service under <strong>SAC Code 9965</strong>. In this specific scenario, a <strong>5% GST rate</strong> applies without Input Tax Credit (ITC). For specified commercial entities, this 5% tax is remitted under the Reverse Charge Mechanism (RCM).</p>
@@ -603,7 +603,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmgst-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck with official GST compliant billing and documentation" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck with official GST compliant billing and documentation" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: Input Tax Credit (ITC) Rules for Businesses -->
@@ -657,7 +657,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmgst-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging with certified GST invoicing" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging with certified GST invoicing" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Mandatory Components of a Valid GST Moving Invoice -->
@@ -695,7 +695,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>To calculate your estimated moving tariff with accurate GST breakdowns, explore our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0d9488; font-weight: 700; text-decoration: underline;">live packers and movers charges calculator</a>, check our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km" style="color: #0d9488; font-weight: 700; text-decoration: underline;">per km rate card</a>, and inspect our complete guide on <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-bill-format" style="color: #0d9488; font-weight: 700; text-decoration: underline;">IBA approved packers and movers bill formats</a>.</p>
 
         <div class="pmgst-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding with authentic GST billing" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding with authentic GST billing" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Common GST Fraud & How to Spot Fake Moving Bills -->

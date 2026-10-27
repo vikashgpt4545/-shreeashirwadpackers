@@ -714,7 +714,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="slr-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Solapur to Ranchi Complete Household Packing and Wrapping" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Solapur to Ranchi Complete Household Packing and Wrapping" loading="lazy">
             </div>
         </div>
     </div>
@@ -838,7 +838,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="slr-container">
         <div class="slr-two-col">
             <div class="slr-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Systematic Loading of Household Goods for Solapur to Ranchi Linehaul" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Systematic Loading of Household Goods for Solapur to Ranchi Linehaul" loading="lazy">
             </div>
             <div>
                 <span class="slr-tag">Damage-Free Assurance</span>
@@ -923,7 +923,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </div>
             </div>
             <div class="slr-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi Doorstep Unloading and Delivery Service by Shree Ashirwad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi Doorstep Unloading and Delivery Service by Shree Ashirwad" loading="lazy">
             </div>
         </div>
     </div>
@@ -934,7 +934,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="slr-container">
         <div class="slr-two-col">
             <div class="slr-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Solapur to Ranchi Enclosed Car Transport and Bike Carrier" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Solapur to Ranchi Enclosed Car Transport and Bike Carrier" loading="lazy">
             </div>
             <div>
                 <span class="slr-tag">Vehicle Moving Excellence</span>

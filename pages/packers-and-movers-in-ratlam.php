@@ -32,7 +32,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Ratlam",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-ratlam",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -419,7 +419,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="rtm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Ratlam Household Loading" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Ratlam Household Loading" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -457,7 +457,7 @@ $state_name = 'Madhya Pradesh';
       <p>For railway personnel stationed around the Western Railway Divisional Headquarters, transfers often demand swift dispatches to other railway zones across Gujarat, Maharashtra, Rajasthan, and Delhi NCR. Our logistics coordination desk handles all required documentation, providing clear valuation receipts and container bilty documents that guarantee seamless transfer reimbursement.</p>
 
       <div class="rtm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Ratlam MP" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Ratlam MP" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -541,7 +541,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="rtm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Ratlam MP" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Ratlam MP" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -629,7 +629,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="rtm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Ratlam MP" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Ratlam MP" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -695,7 +695,7 @@ $state_name = 'Madhya Pradesh';
     <div class="rtm-cta-bar">
       <h3>Ready for a Smooth Move in Ratlam?</h3>
       <p>Connect with our expert Ratlam relocation team today for a free pre-move survey, transparent quotation, and complete moving support.</p>
-      <a href="tel:+919334484001" class="rtm-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="rtm-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

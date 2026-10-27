@@ -513,7 +513,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
                 <div>
                     <div class="bbsr-ckp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Bhubaneswar to Chakradharpur relocation" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Bhubaneswar to Chakradharpur relocation" loading="lazy">
                         <div class="bbsr-ckp-img-caption">All-weather closed container truck operating the 365 km Bhubaneswar-Keonjhar-Chakradharpur corridor</div>
                     </div>
                 </div>
@@ -551,7 +551,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <div class="bbsr-ckp-grid-2">
                 <div>
                     <div class="bbsr-ckp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover and packaging Bhubaneswar to Chakradharpur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover and packaging Bhubaneswar to Chakradharpur" loading="lazy">
                         <div class="bbsr-ckp-img-caption">Multi-layer protective wraps shielding refrigerators and home electronics for highway transit</div>
                     </div>
                 </div>
@@ -582,7 +582,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
                 <div>
                     <div class="bbsr-ckp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler bike carrier transport Bhubaneswar to Chakradharpur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler bike carrier transport Bhubaneswar to Chakradharpur" loading="lazy">
                         <div class="bbsr-ckp-img-caption">Secure two-wheeler container loading with anti-scratch padding and heavy-duty tie-downs</div>
                     </div>
                 </div>
@@ -677,7 +677,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
                 <div>
                     <div class="bbsr-ckp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for interstate relocation from Bhubaneswar" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for interstate relocation from Bhubaneswar" loading="lazy">
                         <div class="bbsr-ckp-img-caption">Systematic vehicle loading with heavy furniture positioned low and fragile boxes secured on top</div>
                     </div>
                 </div>

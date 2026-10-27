@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Patamata",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-patamata-vijayawada",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>The neighborhood encompasses established residential sectors such as Patamata Lanka, NTR Circle, High School Road, and Kanuru road junctions, flanked by major medical institutions including Ramesh Hospitals, Time Hospital, and Siddhartha Medical College. Modern gated high-rise apartment complexes, upscale independent family houses, and corporate commercial centers house doctors, pharmaceutical executives, university professors, and thriving business families who value punctual, transparent, and damage-free relocation services.</p>
 
     <div class="ptmt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Patamata Vijayawada" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Patamata Vijayawada" loading="lazy">
       <p class="ptmt-image-caption">Disciplined residential quarter shifting and systematic loading operations in Patamata.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="ptmt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Patamata" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Patamata" loading="lazy">
       <p class="ptmt-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Patamata.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="ptmt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Patamata" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Patamata" loading="lazy">
       <p class="ptmt-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -633,7 +633,7 @@
     <p>Our experienced drivers schedule loading windows in congested commercial areas during early morning hours (6:30 AM to 8:30 AM) to circumvent morning office traffic near NTR Circle and Bandar Road. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="ptmt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Patamata" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Patamata" loading="lazy">
       <p class="ptmt-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -723,7 +723,7 @@
   <section class="ptmt-cta-banner">
     <h3>Plan Your Stress-Free Move in Patamata Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="ptmt-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="ptmt-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

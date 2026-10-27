@@ -83,7 +83,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -720,7 +720,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 1 -->
     <div class="img-showcase-koderma">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Koderma Packers and Movers Container Fleet" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Koderma Packers and Movers Container Fleet" width="580" height="290" loading="lazy">
       <div class="caption">Figure 1: Sealed container linehaul truck departing Ranchi for express transit to Koderma and Jhumri Telaiya via NH-20.</div>
     </div>
   </section>
@@ -838,7 +838,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 2 -->
     <div class="img-showcase-koderma">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Ranchi for Koderma Shifting" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Ranchi for Koderma Shifting" width="580" height="290" loading="lazy">
       <div class="caption">Figure 2: Complete multi-layer furniture wrapping and protective strapping before loading for Koderma.</div>
     </div>
   </section>
@@ -884,7 +884,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 3 -->
     <div class="img-showcase-koderma">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate Kitchen Crockery and Glassware Bubble Packing" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate Kitchen Crockery and Glassware Bubble Packing" width="580" height="290" loading="lazy">
       <div class="caption">Figure 3: Multi-layer bubble wrapping and cell dividers applied to delicate glassware and chinaware before transit.</div>
     </div>
   </section>
@@ -968,7 +968,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 4 -->
     <div class="img-showcase-koderma">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Company Moving Truck for Koderma Route" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Company Moving Truck for Koderma Route" width="580" height="290" loading="lazy">
       <div class="caption">Figure 4: GPS-tracked verified company moving container truck serving the Ranchi to Koderma / Jhumri Telaiya route.</div>
     </div>
   </section>

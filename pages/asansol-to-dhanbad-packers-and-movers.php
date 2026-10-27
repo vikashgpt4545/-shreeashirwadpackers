@@ -634,7 +634,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-dhanbad-packer
                 </ul>
             </div>
             <div class="asl2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Shree Ashirwad closed container truck transporting goods from Asansol to Dhanbad along NH-19">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Shree Ashirwad closed container truck transporting goods from Asansol to Dhanbad along NH-19">
             </div>
         </div>
     </div>
@@ -712,7 +712,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-dhanbad-packer
     <div class="container">
         <div class="asl2dhn-grid-2">
             <div class="asl2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer household packing in Asansol for safe transit to Dhanbad">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer household packing in Asansol for safe transit to Dhanbad">
             </div>
             <div>
                 <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.1rem; font-weight: 800; color: var(--asl2dhn-dark); margin-bottom: 20px;">
@@ -814,7 +814,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-dhanbad-packer
                 </ul>
             </div>
             <div class="asl2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle loading onto hydraulic car carrier for Asansol to Dhanbad car and bike relocation">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle loading onto hydraulic car carrier for Asansol to Dhanbad car and bike relocation">
             </div>
         </div>
     </div>
@@ -825,7 +825,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-dhanbad-packer
     <div class="container">
         <div class="asl2dhn-grid-2">
             <div class="asl2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly at client residence in Dhanbad Jharkhand">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly at client residence in Dhanbad Jharkhand">
             </div>
             <div>
                 <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.1rem; font-weight: 800; color: var(--asl2dhn-dark); margin-bottom: 20px;">

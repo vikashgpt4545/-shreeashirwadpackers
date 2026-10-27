@@ -33,7 +33,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Alkapuri Vadodara",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-alkapuri-vadodara",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,800 - ₹56,000",
     "address": {
       "@type": "PostalAddress",
@@ -393,7 +393,7 @@ $state_name = 'Gujarat';
       <p>The urban flow of Alkapuri combines tranquil residential avenues with high-velocity commercial activity along RC Dutt Road. Managing large containerized moving trucks in busy commercial sectors requires precise scheduling. Our dispatch operations schedule heavy transport during low-density municipal traffic hours, deploying specialized agile shuttles and hydraulic lift trolleys where direct container access is restricted by residential tree canopies or narrow lane gates.</p>
 
       <div class="akp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment and Office Loading in Alkapuri Vadodara" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment and Office Loading in Alkapuri Vadodara" width="580" height="380" loading="lazy">
       </div>
 
       <div class="akp-highlight-box">
@@ -438,7 +438,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="akp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Alkapuri Vadodara" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Alkapuri Vadodara" width="580" height="380" loading="lazy">
       </div>
 
       <h3>Customized Packing Standards for High-Value Assets</h3>
@@ -539,7 +539,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="akp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Alkapuri Vadodara" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Alkapuri Vadodara" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -575,7 +575,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="akp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup in Alkapuri Vadodara" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup in Alkapuri Vadodara" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -614,7 +614,7 @@ $state_name = 'Gujarat';
     <div class="akp-cta-bar">
       <h3>Plan Your Professional Relocation in Alkapuri</h3>
       <p>Connect with our Alkapuri relocation coordinators today for an instant free home survey and transparent quote.</p>
-      <a href="tel:+919334484001" class="akp-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="akp-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="akp-section">

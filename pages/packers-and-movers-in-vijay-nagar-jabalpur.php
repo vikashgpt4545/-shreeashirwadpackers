@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Vijay Nagar Jabalpur",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-vijay-nagar-jabalpur",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -431,7 +431,7 @@ $state_name = 'Madhya Pradesh';
           <p>Our moving managers conduct prior on-site assessments across all gated complexes along MR-4 Road, ensuring moving permissions are obtained smoothly in advance and society elevators are properly padded to protect common infrastructure.</p>
         </div>
         <div class="vnj-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Vijay Nagar Jabalpur" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Vijay Nagar Jabalpur" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -473,7 +473,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="vnj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Defensive Household Packing Vijay Nagar Jabalpur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Defensive Household Packing Vijay Nagar Jabalpur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -588,7 +588,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="vnj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Vijay Nagar Jabalpur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Vijay Nagar Jabalpur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -620,7 +620,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="vnj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Vijay Nagar Jabalpur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Vijay Nagar Jabalpur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -686,7 +686,7 @@ $state_name = 'Madhya Pradesh';
     <div class="vnj-cta-bar">
       <h3>Ready for a Modern Apartment Move in Vijay Nagar Jabalpur?</h3>
       <p>Connect with our expert relocation specialists today for an instant survey, guaranteed quote, and seamless moving experience.</p>
-      <a href="tel:+919334484001" class="vnj-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="vnj-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

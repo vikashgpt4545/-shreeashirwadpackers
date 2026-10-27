@@ -340,7 +340,7 @@ require_once __DIR__ . '/includes/seo.php';
 
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading using hydraulic ramp in Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading using hydraulic ramp in Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:18px;">
               <h3 style="font-size:1.15rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Hydraulic Ramp Loading</h3>
               <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Low-angle specialized ramp entry preventing bumper scrapes, side skirt damage, or chassis underbody scratches on sedans and hatchbacks.</p>
@@ -348,7 +348,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered vehicle transport container truck in Jharkhand" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered vehicle transport container truck in Jharkhand" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:18px;">
               <h3 style="font-size:1.15rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Covered Container Transporters</h3>
               <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Weatherproof, sealed steel containers shielding your automobile against highway dust, flying gravel, rainstorms, and accidental scratches.</p>
@@ -356,7 +356,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Doorstep vehicle delivery truck operated by Shree Ashirwad Packers Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Doorstep vehicle delivery truck operated by Shree Ashirwad Packers Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:18px;">
               <h3 style="font-size:1.15rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Door-to-Door Delivery Fleet</h3>
               <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Complete door pick-up in Dumka and final hand-to-hand delivery at your new residence anywhere across India with verified digital sign-off.</p>

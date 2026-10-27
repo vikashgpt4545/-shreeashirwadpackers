@@ -20,7 +20,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Baramulla",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-baramulla",
-        "telephone": "+919334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -462,7 +462,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="bml-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Baramulla by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Baramulla by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -516,7 +516,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="bml-grid-2">
             <div>
                 <div class="bml-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Baramulla moving" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Baramulla moving" loading="lazy">
                 </div>
             </div>
             <div>
@@ -596,7 +596,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="bml-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household cargo onto container vehicle in Baramulla" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household cargo onto container vehicle in Baramulla" loading="lazy">
                 </div>
             </div>
         </div>
@@ -645,7 +645,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="bml-grid-2">
             <div>
                 <div class="bml-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods handling in Baramulla" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods handling in Baramulla" loading="lazy">
                 </div>
             </div>
             <div>
@@ -712,7 +712,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="bml-cta">
         <h2>Planning a Move in or Out of Baramulla?</h2>
         <p>Contact our North Kashmir relocation experts today for a free on-site survey and transparent, guaranteed price quotation.</p>
-        <a href="tel:+919334812328" class="bml-cta-btn">Call +91-9334812328 for Free Survey</a>
+        <a href="tel:+919835565233" class="bml-cta-btn">Call +91 9835565233 for Free Survey</a>
     </section>
 
 </main>

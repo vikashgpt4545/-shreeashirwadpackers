@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Indira Nagar Lucknow",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="inl-hero-title">Packers and Movers in Indira Nagar Lucknow</h1>
         <p class="inl-hero-subtitle">Trusted residential home shifting across Blocks A to Z, builder floor relocations, Bhootnath Market commercial moving, and express inter-state highway logistics.</p>
         <div class="inl-cta-group">
-            <a href="tel:+919334404050" class="inl-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="inl-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="inl-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="inl-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have handled home relocations across Indira Nagar for more than a decade. Whether you are shifting your family residence from a classic independent bungalow in Block C, moving into a modern multi-storey builder floor near Munshipulia, or relocating a commercial setup around Bhootnath Market, our experienced moving squads deliver punctual, damage-free execution.</p>
 
         <div class="inl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Indira Nagar Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Indira Nagar Lucknow" loading="lazy">
             <p class="inl-image-caption">Dedicated residential loading and bungalow shifting operations across Indira Nagar Blocks</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="inl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Indira Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Indira Nagar" loading="lazy">
             <p class="inl-image-caption">High-density shock-absorbent bubble wrapping protects delicate electronics and kitchenware</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="inl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Indira Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Indira Nagar" loading="lazy">
             <p class="inl-image-caption">Certified carpentry technicians carefully dismantle modular double beds and sliding wardrobes</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="inl-intro-p">In addition, the direct arterial connection to the Polytechnic Chauraha and Munshipulia intersection ensures swift vehicle routing toward Kursi Road, Sitapur Road (NH-24), and the Ring Road bypass. This comprehensive road link allows our inter-state container fleet to depart without delay, ensuring punctual delivery schedules for relocations across India.</p>
 
         <div class="inl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Indira Nagar Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Indira Nagar Lucknow" loading="lazy">
             <p class="inl-image-caption">Weatherproof enclosed container trucks guarantee secure, timely door-to-door deliveries</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Indira Nagar Move Today</h3>
         <p>Contact our experienced moving specialists for a transparent estimate, free home survey, and seamless shifting experience in Indira Nagar.</p>
         <div class="inl-cta-group">
-            <a href="tel:+919334404050" class="inl-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="inl-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="inl-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

@@ -395,7 +395,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bargarh#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bargarh",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -542,7 +542,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="brg-body-p">Through our regional logistics command, Shree Ashirwad Packers and Movers links Bargarh directly to surrounding Western Odisha centers including <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur">Sambalpur</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jharsuguda">Jharsuguda</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela">Rourkela</a>, alongside long-distance inter-state routes connecting our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, Raipur, Bilaspur, and Kolkata.</p>
 
                 <div class="brg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bargarh" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bargarh" width="580" height="380" loading="lazy">
                     <div class="brg-image-caption">Systematic loading and cargo bracing inside closed-body container fleet in Bargarh.</div>
                 </div>
 
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="brg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap packaging of cartons for Bargarh relocation" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap packaging of cartons for Bargarh relocation" width="580" height="380" loading="lazy">
                     <div class="brg-image-caption">Standardized multi-layer packaging utilizing corrugated cartons, foam sheets, and bubble wrap.</div>
                 </div>
 
@@ -668,7 +668,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="brg-lead-p">We execute moves through disciplined operating protocols developed over a decade of logistical experience across Eastern India, ensuring seamless coordination from initial inventory check to final placement.</p>
 
                 <div class="brg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Bargarh home" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Bargarh home" width="580" height="380" loading="lazy">
                     <div class="brg-image-caption">Professional dismantling of king-size beds, modular wardrobes, and office fixtures.</div>
                 </div>
 
@@ -729,7 +729,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </ul>
 
                 <div class="brg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Bargarh" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Bargarh" width="580" height="380" loading="lazy">
                     <div class="brg-image-caption">Dedicated door-to-door delivery vehicles serving Bargarh urban and suburban neighborhoods.</div>
                 </div>
 
@@ -801,7 +801,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <li>All-India Transit Coverage</li>
                     <li>24/7 Dedicated Move Coordinator</li>
                 </ul>
-                <a href="tel:+919334460424" class="brg-cta-button">📞 Call: +91 93344 60424</a>
+                <a href="tel:+919835565233" class="brg-cta-button">📞 Call: +91 9835565233</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="brg-cta-button" style="margin-top: 10px; background: linear-gradient(135deg, #c2410c 0%, #ea580c 100%);">📊 Calculate Charges Online</a>
             </div>
 
@@ -821,7 +821,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="brg-body-p"><strong>Shree Ashirwad Packers and Movers</strong><br>
                 Corporate HQ: Ashok Nagar, Near Birsa Munda Airport Road, Ranchi, Jharkhand.<br>
                 Regional Bargarh Hub: NH-53 Bypass, Bhatli Chowk, Bargarh, Odisha - 768028.<br>
-                Helpline: +91 93344 60424<br>
+                Helpline: +91 9835565233<br>
                 Email: info@shreeashirwadpackers.com</p>
                 <a href="<?php echo SITE_BASE_URL; ?>/" class="brg-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>

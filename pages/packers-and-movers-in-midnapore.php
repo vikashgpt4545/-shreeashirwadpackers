@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-midnapore#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-midnapore",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="mdp-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized packing experience to Midnapore. Whether you are relocating your family between apartments in Keranitola, transferring university faculty quarters from Rangamati, or moving across the Kangsabati bridge to its sister hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kharagpur">Packers and Movers in Kharagpur</a>, our trained moving crews execute every step with precision. Coordinated closely with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door relocation across India.</p>
 
                 <div class="mdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Midnapore">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Midnapore">
                     <div class="mdp-image-caption">Systematic loading of household goods and cartons in Midnapore (Medinipur).</div>
                 </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="mdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Midnapore">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Midnapore">
                     <div class="mdp-image-caption">Multi-layered protective packing materials used for fragile household items in Midnapore.</div>
                 </div>
 
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="mdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Midnapore">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Midnapore">
                     <div class="mdp-image-caption">Skilled carpenters dismantling and protective wrapping modular bed sets in Midnapore.</div>
                 </div>
 
@@ -694,7 +694,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="mdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Midnapore">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Midnapore">
                     <div class="mdp-image-caption">Dedicated door-to-door closed carrier truck operating in Midnapore.</div>
                 </div>
 
@@ -751,7 +751,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Near Keranitola More, Collectorate Road, Midnapore</li>
                     <li><strong>Service Hours:</strong> 6:30 AM - 9:30 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="mdp-cta-button">Request Free Moving Quote</a>

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Tinsukia",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tinsukia",
     "priceRange": "₹4,000 - ₹65,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="tsk-container">
       <h1>Packers and Movers in Tinsukia Assam</h1>
       <p>Pinnacle Upper Assam commercial shifting, New Tinsukia railway division staff moves, Digboi refinery corporate relocation, and Doomdooma tea garden transit.</p>
-      <a href="tel:+919334484001" class="tsk-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="tsk-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Tinsukia reigns supreme as the commercial capital, trading engine, and primary wholesale distribution hub of Upper Assam and the easternmost territories of India. Strategically situated at the geographical crossroads where Assam meets the forested foothills of Eastern Arunachal Pradesh, Tinsukia serves as the easternmost railway operational division of the Northeast Frontier Railway (NFR) centered at New Tinsukia Junction. Encircled by iconic economic strongholds including Digboi (Asia's oldest operating oil refinery), Margherita (historic coal mining belt), Doomdooma (the tea capital of Upper Assam), and Makum (celebrated timber and plywood trade center), Tinsukia pulsates with heavy industrial, mercantile, and railway logistics. Relocating in Tinsukia demands specialized expertise in industrial heavy freight, wholesale commercial logistics, monsoon forest dampness control, and seamless interstate transit across the Dhola-Sadiya Bridge corridor into Arunachal Pradesh.</p>
 
       <div class="tsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Tinsukia Assam" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Tinsukia Assam" width="580" height="360" loading="lazy">
       </div>
 
       <div class="tsk-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Tinsukia operational unit delivers tailored relocation services designed to address the diverse needs of railway staff, refinery engineers, wholesale merchants, and plantation executives:</p>
 
       <div class="tsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Tinsukia" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Tinsukia" width="580" height="360" loading="lazy">
       </div>
 
       <div class="tsk-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Tinsukia follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="tsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Tinsukia" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Tinsukia" width="580" height="360" loading="lazy">
       </div>
 
       <div class="tsk-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Tinsukia:</p>
 
       <div class="tsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Tinsukia" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Tinsukia" width="580" height="360" loading="lazy">
       </div>
 
       <div class="tsk-grid-cards">

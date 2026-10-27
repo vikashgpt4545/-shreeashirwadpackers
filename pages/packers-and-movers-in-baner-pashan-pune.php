@@ -544,7 +544,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Throughout Pashan, our operations extend through Pashan-Sus Road, Sutarwadi, Abhimanshree Society, the residential enclaves around Pashan Lake, and the staff quarters of NCL, ARDE, and DRDO. We also maintain seamless daily transit connecting Baner and Pashan with Aundh, Kothrud, Shivaji Nagar, and direct highway lines into the Hinjewadi tech zones.</p>
 
         <div class="bnps-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Baner Pashan Pune" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Baner Pashan Pune" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our transport coordinators strategically plan vehicle dispatches to circumvent traffic snarls at Baner Phata, Radha Chowk, and the Chandani Chowk junction. By utilizing the Katraj-Dehu Road bypass (NH-48) and securing advance society permissions, we ensure swift, punctual moves with zero roadside delays.</p>
@@ -600,7 +600,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bnps-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Baner Pashan Pune to Bangalore, Mumbai and pan-India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Baner Pashan Pune to Bangalore, Mumbai and pan-India" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -636,7 +636,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bnps-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Baner Pashan Pune" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Baner Pashan Pune" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -707,7 +707,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bnps-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Baner Pashan Pune" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Baner Pashan Pune" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad in Baner-Pashan -->

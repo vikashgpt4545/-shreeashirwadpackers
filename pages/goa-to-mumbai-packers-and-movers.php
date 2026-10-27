@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Professional interstate relocation services from Goa to Mumbai covering Panaji, Margao, Porvorim, and Mapusa with dedicated sealed container trucks.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹13,500 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy purpose-built, weather-sealed container vehicles designed to navigate mountain gradients and protect cargo from road moisture and highway vibrations. Whether you are returning to Mumbai corporate headquarters, relocating family residences to Bandra, Powai, Andheri, Borivali, or Thane, or moving fine handcrafted furnishings, our verified teams ensure punctual arrival, white-glove handling, and zero handling loss.</p>
 
         <div class="gamb-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Goa to Mumbai" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Goa to Mumbai" width="580" height="386">
         </div>
 
         <div class="gamb-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Alternatively, the inland ghat route ascends through Amboli Ghat or Tillari to Nipani, joining National Highway 48 past Kolhapur, Karad, Satara, and Pune before descending via the Mumbai-Pune Expressway into Navi Mumbai. Our control room monitors electronic FASTag toll lanes, mountain road advisories, and weather radar to select the optimal highway route for your consignment.</p>
 
         <div class="gamb-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Goa to Mumbai relocation" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Goa to Mumbai relocation" width="580" height="386">
         </div>
 
         <div class="gamb-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every fragile dish, glassware set, and kitchen appliance is wrapped in double-layer air-bubble film and nestled within honeycomb corrugated boxes. High-value flat-screen televisions, glass-top dining sets, and pooja mandirs are encased in custom wooden crates for uncompromising shock absorption.</p>
 
         <div class="gamb-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Mumbai" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Mumbai" width="580" height="386">
         </div>
 
         <div class="gamb-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every vehicle undergoes a comprehensive 24-point pre-dispatch inspection. We document fuel levels, existing surface scratches, and odometer readings on a signed consignment receipt prior to loading, giving you complete clarity.</p>
 
         <div class="gamb-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
         </div>
 
         <div class="gamb-grid-2">

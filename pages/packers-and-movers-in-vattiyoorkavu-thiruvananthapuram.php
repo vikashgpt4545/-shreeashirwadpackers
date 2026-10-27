@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Vattiyoorkavu Thiruvananthapuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-vattiyoorkavu-thiruvananthapuram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹45,000",
     "address": {
       "@type": "PostalAddress",
@@ -450,7 +450,7 @@
       </div>
       <div>
         <div class="vtk-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Vattiyoorkavu Thiruvananthapuram" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Vattiyoorkavu Thiruvananthapuram" width="580" height="380" loading="lazy">
         </div>
       </div>
     </div>
@@ -487,7 +487,7 @@
     </div>
 
     <div class="vtk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Professional furniture wrapping and foam padding for villas in Vattiyoorkavu Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Professional furniture wrapping and foam padding for villas in Vattiyoorkavu Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
 
     <p>Our packaging supplies include virgin 5-ply cartons, shock-absorbing bubble wrap, edge protectors, and heavy stretch film to protect dining tables, wooden cots, and delicate glassware from vibration and moisture.</p>
@@ -579,7 +579,7 @@
     </table>
 
     <div class="vtk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packaging electronic equipment and household goods in Vattiyoorkavu Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packaging electronic equipment and household goods in Vattiyoorkavu Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
 
     <p>All quotes cover premium corrugated boxes, shock-absorbing bubble cushioning, stretch film, professional loading, transportation in weatherproof container trucks, unloading, and furniture reassembly at your new address.</p>
@@ -683,7 +683,7 @@
     </ol>
 
     <div class="vtk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Vattiyoorkavu Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Vattiyoorkavu Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
   </section>
 

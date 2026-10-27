@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-baner-p
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-baner-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-baner-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -156,7 +156,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-baner-p
                 "name": "How can I book a pre-move home survey in Baner Pune?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "You can reach our dedicated Pune support team at +91 93344 04050 or submit our online inquiry form to schedule a free physical or video survey and obtain a transparent written estimate."
+                    "text": "You can reach our dedicated Pune support team at +91 9835565233 or submit our online inquiry form to schedule a free physical or video survey and obtain a transparent written estimate."
                 }
             }
         ]
@@ -396,7 +396,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-baner-p
         <h1>Packers and Movers in Baner Pune</h1>
         <p>Premium household shifting, corporate executive relocations, and white-glove packing services across Pan Card Club Road, Baner Road, Balewadi High Street, and Western Pune's luxury residential enclaves.</p>
         <div class="bnr-btn-wrap">
-            <a href="tel:+919334404050" class="bnr-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="bnr-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bnr-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -417,7 +417,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-baner-p
         <p>Our comprehensive moving process takes the anxiety out of relocation. We understand that luxury residences contain valuable teakwood furniture, modern modular kitchens, oversized LED screens, imported art pieces, and delicate chinaware that require specialized handling, custom crating, and premium packaging materials.</p>
 
         <div class="bnr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Baner Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Baner Pune">
             <p class="bnr-image-caption">Professional moving crews packing and loading luxury household goods into containerized transport vehicles in Baner.</p>
         </div>
 
@@ -459,7 +459,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-baner-p
         </div>
 
         <div class="bnr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium packaging supplies in Baner">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium packaging supplies in Baner">
             <p class="bnr-image-caption">Multi-tier bubble wrapping and reinforced five-ply cartons shielding delicate glassware and artwork.</p>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-baner-p
         </div>
 
         <div class="bnr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Baner">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Baner">
             <p class="bnr-image-caption">Skilled carpenters dismantling and protective packing large modular furniture for executive home shifting.</p>
         </div>
 
@@ -609,7 +609,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-baner-p
         </div>
 
         <div class="bnr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Baner">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Baner">
             <p class="bnr-image-caption">Dedicated closed container trucks ensuring secure, door-to-door relocation across Baner and Pune.</p>
         </div>
 
@@ -678,7 +678,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-baner-p
 
         <div class="bnr-faq-item">
             <h3>How can I book a pre-move home survey in Baner Pune?</h3>
-            <p>You can reach our dedicated Pune support team at +91 93344 04050 or submit our online inquiry form to schedule a free physical or video survey and obtain a transparent written estimate.</p>
+            <p>You can reach our dedicated Pune support team at +91 9835565233 or submit our online inquiry form to schedule a free physical or video survey and obtain a transparent written estimate.</p>
         </div>
     </section>
 

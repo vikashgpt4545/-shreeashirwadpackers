@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Madhurawada",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-madhurawada-visakhapatnam",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>The neighborhood is anchored by the Rushikonda IT SEZ, Millennium Towers, Hill No. 1, 2, and 3 tech campuses hosting top-tier software enterprises, GITAM Deemed University, and the sprawling new permanent campus of IIM Visakhapatnam in Gambheeram. Sprawling gated townships and modern residential enclaves such as Mithilapuri VUDA Colony, PM Palem (Pothinamallayya Palem), Marikavalasa, Kommadi, and Shilparamam Jathara host thousands of tech engineers, university faculty, and senior business managers.</p>
 
     <div class="mdw-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Madhurawada Visakhapatnam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Madhurawada Visakhapatnam" loading="lazy">
       <p class="mdw-image-caption">Disciplined residential quarter shifting and systematic loading operations in Madhurawada.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="mdw-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Madhurawada" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Madhurawada" loading="lazy">
       <p class="mdw-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Madhurawada.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="mdw-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Madhurawada" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Madhurawada" loading="lazy">
       <p class="mdw-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -633,7 +633,7 @@
     <p>Our experienced drivers schedule loading windows in congested commercial areas during early morning hours (6:30 AM to 8:30 AM) to circumvent school and office traffic along NH 16. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="mdw-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Madhurawada" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Madhurawada" loading="lazy">
       <p class="mdw-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -723,7 +723,7 @@
   <section class="mdw-cta-banner">
     <h3>Plan Your Stress-Free Move in Madhurawada Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="mdw-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="mdw-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

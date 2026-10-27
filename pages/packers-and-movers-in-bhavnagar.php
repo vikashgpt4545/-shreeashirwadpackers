@@ -32,7 +32,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Bhavnagar",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bhavnagar",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -392,7 +392,7 @@ $state_name = 'Gujarat';
       <p>The urban flow of Bhavnagar centers around key thoroughfares including Waghawadi Road, Crescent Circle, and the Ghogha bypass connecting directly toward Alang and the Ro-Pax ferry terminal. Our operations dispatch teams schedule moving truck transits during optimal low-density traffic windows, coordinating with municipal guidelines to ensure smooth access through both historic central neighborhoods and expanding suburban residential clusters.</p>
 
       <div class="bvg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment and Maritime Loading in Bhavnagar Gujarat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment and Maritime Loading in Bhavnagar Gujarat" width="580" height="380" loading="lazy">
       </div>
 
       <div class="bvg-highlight-box">
@@ -437,7 +437,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="bvg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping Services in Bhavnagar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping Services in Bhavnagar" width="580" height="380" loading="lazy">
       </div>
 
       <h3>Advanced Multi-Layer Packing Standards</h3>
@@ -538,7 +538,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="bvg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Bhavnagar Gujarat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Bhavnagar Gujarat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -574,7 +574,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="bvg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Bhavnagar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Bhavnagar" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -613,7 +613,7 @@ $state_name = 'Gujarat';
     <div class="bvg-cta-bar">
       <h3>Plan Your Smooth Relocation in Bhavnagar Today</h3>
       <p>Contact our Bhavnagar moving coordinators for an instant free home survey and transparent, competitive quotation.</p>
-      <a href="tel:+919334484001" class="bvg-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="bvg-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="bvg-section">

@@ -268,7 +268,7 @@ $state_name = 'Himachal Pradesh';
         "logo": "https://shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "description": "Licensed and insured packers and movers in Sanjauli Shimla offering specialized mountain staircase porter handling, multi-story hillside flat shifting near IGMC, 4-tier packaging, and nationwide transit.",
-        "telephone": "+91-9334800375",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
@@ -440,7 +440,7 @@ $state_name = 'Himachal Pradesh';
           <p>With more than 16 years of certified industry leadership across Himachal Pradesh, Shree Ashirwad Packers and Movers delivers an organized, disciplined moving experience for Sanjauli families. We coordinate vehicle loading timings along Sanjauli bypass road to prevent traffic congestion, utilize hermetically sealed 4-layer packaging to guard against mountain dampness, and provide GPS-monitored container transit to any destination across India.</p>
         </div>
         <div class="sjs-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Sanjauli Shimla" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Sanjauli Shimla" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -482,7 +482,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="sjs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Sanjauli Shimla" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Sanjauli Shimla" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -575,7 +575,7 @@ $state_name = 'Himachal Pradesh';
       </table>
 
       <div class="sjs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Sanjauli Shimla" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Sanjauli Shimla" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -611,7 +611,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="sjs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Sanjauli Shimla" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Sanjauli Shimla" width="580" height="380" loading="lazy">
       </div>
     </section>
 

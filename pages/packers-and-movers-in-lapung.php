@@ -280,7 +280,7 @@ require_once "includes/config.php";
             <div class="col-lg-6">
                 <!-- Whitelisted Image 1 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 15px 30px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Lapung Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Lapung Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-truck-moving" style="color: #0284c7;"></i> Shree Ashirwad Packers door-to-door container fleet serving Lapung and Ranchi district
@@ -366,7 +366,7 @@ require_once "includes/config.php";
             <div class="col-lg-6">
                 <!-- Whitelisted Image 2 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 15px 30px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing for Household Cartons in Lapung" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing for Household Cartons in Lapung" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-box-open" style="color: #0284c7;"></i> Multi-layer bubble wrap and sturdy carton packaging for Lapung household relocations
@@ -397,7 +397,7 @@ require_once "includes/config.php";
             <div class="col-lg-6">
                 <!-- Whitelisted Image 3 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 15px 30px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Transport Loading in Lapung Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Transport Loading in Lapung Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-car" style="color: #0284c7;"></i> Hydraulic enclosed carrier loading for cars and two-wheelers in Lapung
@@ -428,7 +428,7 @@ require_once "includes/config.php";
             <div class="col-lg-6">
                 <!-- Whitelisted Image 4 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 15px 30px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Warehouse Ranchi near Lapung" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Warehouse Ranchi near Lapung" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-warehouse" style="color: #0284c7;"></i> Secure 24/7 CCTV-monitored warehouse storage serving Lapung residents

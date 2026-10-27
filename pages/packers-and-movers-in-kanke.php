@@ -479,7 +479,7 @@ require_once "includes/config.php";
 
                 <!-- First Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Kanke Ranchi">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Kanke Ranchi">
                 </div>
 
                 <!-- Detailed Services Offered -->
@@ -528,7 +528,7 @@ require_once "includes/config.php";
 
                 <!-- Second Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and corrugated carton packing in Kanke Ranchi">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and corrugated carton packing in Kanke Ranchi">
                 </div>
 
                 <!-- Multi-Layer Packaging Quality -->
@@ -549,7 +549,7 @@ require_once "includes/config.php";
 
                 <!-- Third Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car and bike transport carrier in Kanke Ranchi">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car and bike transport carrier in Kanke Ranchi">
                 </div>
 
                 <!-- Pricing Guide Table -->
@@ -612,7 +612,7 @@ require_once "includes/config.php";
 
                 <!-- Fourth Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehousing and secure storage facility for Kanke customers">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehousing and secure storage facility for Kanke customers">
                 </div>
 
                 <!-- Service Comparison Table -->

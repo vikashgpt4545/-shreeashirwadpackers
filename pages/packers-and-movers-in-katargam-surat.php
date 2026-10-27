@@ -33,7 +33,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Katargam Surat",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-katargam-surat",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -393,7 +393,7 @@ $state_name = 'Gujarat';
       <p>The urban fabric of Katargam features narrow commercial lanes intertwined with multistory cooperative housing societies. Many residential buildings do not have modern freight elevators, making vertical stair-carry logistics a daily necessity. Our moving crews are trained in ergonomic team lifting, utilizing padded shoulder carrying straps and stair-climbing hand trucks to maneuver bulky solid teak beds, heavy steel wardrobes, and refrigerators without scraping walls or damaging door jambs.</p>
 
       <div class="ktg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment and Workshop Loading in Katargam Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment and Workshop Loading in Katargam Surat" width="580" height="380" loading="lazy">
       </div>
 
       <div class="ktg-highlight-box">
@@ -438,7 +438,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="ktg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping Services in Katargam Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping Services in Katargam Surat" width="580" height="380" loading="lazy">
       </div>
 
       <h3>Rigorous Five-Layer Protective Packaging Standards</h3>
@@ -539,7 +539,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="ktg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Katargam Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Katargam Surat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -575,7 +575,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="ktg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Katargam Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Katargam Surat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -614,7 +614,7 @@ $state_name = 'Gujarat';
     <div class="ktg-cta-bar">
       <h3>Plan Your Professional Relocation in Katargam</h3>
       <p>Connect with our Katargam relocation coordinators today for an instant free home survey and transparent quote.</p>
-      <a href="tel:+919334484001" class="ktg-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="ktg-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="ktg-section">

@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Warangal",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-warangal",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -551,7 +551,7 @@
     <p>Our dedicated Warangal branch operates 365 days a year, providing custom weekend shifts and evening loading solutions tailored to faculty, government officers, commercial business owners, and families requiring zero disruption to their schedules.</p>
 
     <div class="wgl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Warangal Telangana" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Warangal Telangana" loading="lazy">
       <p class="wgl-image-caption">Careful loading operations and apartment logistics across residential communities in Warangal Telangana.</p>
     </div>
   </section>
@@ -584,7 +584,7 @@
     <p>Additionally, our on-site technicians handle full dismantling and reassembly for modular beds, complex wardrobe systems, and office modular cubicles, relieving clients of tedious handyman coordination on moving day.</p>
 
     <div class="wgl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Office IT Packing in Warangal" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Office IT Packing in Warangal" loading="lazy">
       <p class="wgl-image-caption">Secure anti-static wrapping and heavy-duty carton packing for commercial IT systems in Warangal.</p>
     </div>
   </section>
@@ -646,7 +646,7 @@
     <p>Our billing structure contains zero hidden fuel surcharges or ambiguous stair-carry fees. Everything is clearly committed in a binding digital quotation before any packing commences.</p>
 
     <div class="wgl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Warangal" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Warangal" loading="lazy">
       <p class="wgl-image-caption">Reinforced protective wrapping for mahogany wardrobes and designer sofas before transit.</p>
     </div>
   </section>
@@ -722,7 +722,7 @@
     <p>Whether relocating a family residence near Bhadrakali Temple or managing a commercial freight move along the Hyderabad-Warangal highway, our operations team ensures that all logistics tasks are executed smoothly without unnecessary delays.</p>
 
     <div class="wgl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Warangal" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Warangal" loading="lazy">
       <p class="wgl-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
   </section>
@@ -807,7 +807,7 @@
   <section class="wgl-cta-banner">
     <h3>Book Your Reliable Move in Warangal Today!</h3>
     <p>Contact our friendly relocation experts for a free pre-move survey, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Telangana and India.</p>
-    <a class="wgl-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="wgl-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

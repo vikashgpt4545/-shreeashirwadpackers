@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tumkur";
         "name": "Shree Ashirwad Packers and Movers Tumkur",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -519,7 +519,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tumkur";
         <h1>Packers and Movers in Tumkur (Tumakuru)</h1>
         <p>Premier Relocation Partner for Karnataka's Smart City, Vasantanarasapura Industrial Hub & NH-48 Bangalore Highway Corridor</p>
         <div class="tmk-btn-wrap">
-            <a href="tel:+919334404050" class="tmk-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="tmk-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="tmk-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tumkur";
         </div>
 
         <div class="tmk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Tumkur Karnataka" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Tumkur Karnataka" width="580" height="380" loading="lazy">
             <p class="tmk-image-caption">Certified packaging team packing household goods with export-grade materials in Tumkur.</p>
         </div>
     </section>
@@ -587,7 +587,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tumkur";
         </div>
 
         <div class="tmk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Tumkur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Tumkur" width="580" height="380" loading="lazy">
             <p class="tmk-image-caption">Multi-layer protective bubble wrap and edge guards applied to wooden furniture in Tumkur.</p>
         </div>
     </section>
@@ -651,11 +651,11 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tumkur";
 
         <div class="tmk-highlight-box">
             <h3>Need an Exact Estimate for Your Move?</h3>
-            <p>Our online calculation system calculates real-time tariffs based on consignment cubic volume, floor levels, packing specifications, and distance. Check your instant quote via our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or connect with our customer team at +91 9334404050.</p>
+            <p>Our online calculation system calculates real-time tariffs based on consignment cubic volume, floor levels, packing specifications, and distance. Check your instant quote via our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or connect with our customer team at +91 9835565233.</p>
         </div>
 
         <div class="tmk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Packing in Tumkur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Packing in Tumkur" width="580" height="380" loading="lazy">
             <p class="tmk-image-caption">Individual item wrapping with bubble sheets and honeycomb cartons for delicate kitchenware.</p>
         </div>
     </section>
@@ -696,7 +696,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tumkur";
         </div>
 
         <div class="tmk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Moving Truck in Tumkur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Moving Truck in Tumkur" width="580" height="380" loading="lazy">
             <p class="tmk-image-caption">Weatherproof sealed container vehicle ready for highway transit along the NH-48 corridor.</p>
         </div>
     </section>

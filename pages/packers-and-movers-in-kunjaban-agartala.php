@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Kunjaban Agartala",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kunjaban-agartala",
     "priceRange": "₹4,000 - ₹62,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="kja-container">
       <h1>Packers and Movers in Kunjaban Agartala</h1>
       <p>Pinnacle VIP protocol moving, Raj Bhavan executive relocation, New Capital Complex civil secretariat shifting, and High Court judicial transfers in Kunjaban.</p>
-      <a href="tel:+919334484001" class="kja-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="kja-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Kunjaban stands as the supreme administrative sanctuary, diplomatic enclave, and executive residential pinnacle of Agartala. Nestled gracefully across scenic elevated hillocks in the northern quarter of the capital along the prominent VIP Road corridor, Kunjaban is home to institutions of paramount state importance including the Raj Bhavan (Governor's official residence), the sprawling New Capital Complex housing the State Secretariat and Legislative Assembly, the High Court of Tripura, the Heritage Park, official ministerial bungalows, and the prestigious ILS Hospitals. Characterized by verdant tree-lined boulevards, high-security residential gates, and serene residential societies, Kunjaban demands highest-tier moving capabilities that incorporate background-verified personnel, strict security clearance adherence, and white-glove packaging craftsmanship.</p>
 
       <div class="kja-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Kunjaban Agartala" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Kunjaban Agartala" width="580" height="360" loading="lazy">
       </div>
 
       <div class="kja-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Kunjaban operational unit delivers tailored relocation services designed to address the diverse needs of civil administrators, judicial members, medical doctors, and executive families:</p>
 
       <div class="kja-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Kunjaban" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Kunjaban" width="580" height="360" loading="lazy">
       </div>
 
       <div class="kja-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Kunjaban follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="kja-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Kunjaban" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Kunjaban" width="580" height="360" loading="lazy">
       </div>
 
       <div class="kja-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Kunjaban:</p>
 
       <div class="kja-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Kunjaban" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Kunjaban" width="580" height="360" loading="lazy">
       </div>
 
       <div class="kja-grid-cards">

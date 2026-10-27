@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Guwahati Relocation Guide | North East Movers | Call 9708579999</title>
-    <meta name="description" content="Dependable household shifting from Ranchi to Guwahati. 32-hour linehaul via NH-27, IIT Guwahati faculty moves, oil executive transfers, vehicle carriers & full insurance. Call 9708579999.">
+    <title>Ranchi to Guwahati Relocation Guide | North East Movers | Call 9835565233</title>
+    <meta name="description" content="Dependable household shifting from Ranchi to Guwahati. 32-hour linehaul via NH-27, IIT Guwahati faculty moves, oil executive transfers, vehicle carriers & full insurance. Call 9835565233.">
     <meta name="keywords" content="ranchi to guwahati relocation guide, packers and movers ranchi to guwahati, household shifting ranchi to assam, iit guwahati faculty transfer packers, iocl noonmati relocation ranchi, ranchi guwahati container truck">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-guwahati-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Ranchi to Guwahati Express Logistics",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-guwahati-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Guwahati Relocation Guide: North East Express Linehaul</h1>
                 <p>Relocating from Jharkhand to Assam and the North Eastern gateway? Navigate the 980 km Siliguri corridor and NH-27 highway with dedicated closed container trucks. Discover specialized moving solutions for IIT Guwahati, oil refinery executives, tea company managers, and central government employees.</p>
                 <div class="rgwh-cta-group">
-                    <a href="tel:+919708579999" class="rgwh-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Guwahati" class="rgwh-btn-wa" target="_blank" rel="noopener">WhatsApp Guwahati Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rgwh-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Guwahati" class="rgwh-btn-wa" target="_blank" rel="noopener">WhatsApp Guwahati Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rgwh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck operating from Ranchi to Guwahati" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck operating from Ranchi to Guwahati" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -286,7 +286,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Navigating Guwahati: IIT Campus, Dispur Capital Complex, NF Railway & Defense Quarters</h2>
                 <div class="rgwh-grid-2">
                     <div class="rgwh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons organized for delivery in Guwahati" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons organized for delivery in Guwahati" loading="lazy">
                     </div>
                     <div>
                         <p>Guwahati is split between the northern bank of the Brahmaputra and the expanding southern metropolitan expanse, flanked by steep forested hills. Delivering household consignments requires locality-specific logistical foresight:</p>
@@ -317,7 +317,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rgwh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping delicate furniture and home items for transit" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping delicate furniture and home items for transit" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -389,7 +389,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>White-Glove Unpacking & Furniture Assembly in Guwahati</h2>
                 <div class="rgwh-grid-2">
                     <div class="rgwh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated crew unpacking and positioning furniture in customer Guwahati residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated crew unpacking and positioning furniture in customer Guwahati residence" loading="lazy">
                     </div>
                     <div>
                         <p>Settling into the scenic city of Guwahati is made hassle-free with our professional destination unpacking and carpenter services:</p>

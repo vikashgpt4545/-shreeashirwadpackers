@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Manikonda",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-manikonda-hyderabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,800 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -551,7 +551,7 @@
     <p>Our dedicated Manikonda team operates all seven days of the week, accommodating flexible weekend and evening packing schedules that align perfectly with the busy calendars of IT working professionals and business owners.</p>
 
     <div class="mnk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Apartment Moving in Manikonda Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Apartment Moving in Manikonda Hyderabad" loading="lazy">
       <p class="mnk-image-caption">Professional apartment loading and elevator management in high-rise complexes across Manikonda Hyderabad.</p>
     </div>
   </section>
@@ -584,7 +584,7 @@
     <p>Our experienced technicians also take charge of disassembling and reassembling king-size storage beds, multi-door wardrobes, and wall-mounted electronics, freeing customers from the hassle of coordinating outside carpenters or handymen.</p>
 
     <div class="mnk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="IT Equipment Packing in Manikonda" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="IT Equipment Packing in Manikonda" loading="lazy">
       <p class="mnk-image-caption">Anti-static bubble wrap and custom-sized corrugated boxes for home office computers and electronic equipment.</p>
     </div>
   </section>
@@ -646,7 +646,7 @@
     <p>All price estimates provided by Shree Ashirwad Packers and Movers are fully comprehensive and legally committed in writing before work begins, giving you total peace of mind on moving day.</p>
 
     <div class="mnk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Manikonda" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Manikonda" loading="lazy">
       <p class="mnk-image-caption">Heavy-duty edge guards and multi-layer stretch film protection for designer furniture.</p>
     </div>
   </section>
@@ -722,7 +722,7 @@
     <p>Whether you reside on the 25th floor of a high-rise tower or in an independent row house, our dedicated loading crews possess the tools, physical stamina, and technical know-how to complete your move without a hitch.</p>
 
     <div class="mnk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck in Manikonda Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck in Manikonda Hyderabad" loading="lazy">
       <p class="mnk-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
   </section>
@@ -807,7 +807,7 @@
   <section class="mnk-cta-banner">
     <h3>Book Your Stress-Free Move in Manikonda Today!</h3>
     <p>Contact our dedicated relocation specialists for a free on-site survey, accurate upfront quote, and punctual door-to-door delivery across Hyderabad and India.</p>
-    <a class="mnk-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Free Survey</a>
+    <a class="mnk-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Free Survey</a>
   </section>
 
 </main>

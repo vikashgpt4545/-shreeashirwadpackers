@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Kavi Nagar Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="kvn-hero-title">Packers and Movers in Kavi Nagar Ghaziabad</h1>
         <p class="kvn-hero-subtitle">Trusted residential kothi shifting, builder floor relocations, specialized industrial transport, and express highway moving across Blocks A to M and Kavi Nagar Industrial Area.</p>
         <div class="kvn-cta-group">
-            <a href="tel:+919334404050" class="kvn-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kvn-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kvn-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kvn-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we bring unmatched local knowledge to every relocation in Kavi Nagar. Whether you are shifting your family residence from a grand multi-generational kothi in Block B, moving into a contemporary builder floor in Block D or G, or relocating industrial machinery from Kavi Nagar Industrial Area, our experienced moving squads deliver damage-free, punctual solutions.</p>
 
         <div class="kvn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Kavi Nagar Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Kavi Nagar Ghaziabad" loading="lazy">
             <p class="kvn-image-caption">Dedicated residential loading and bungalow shifting operations across Kavi Nagar Blocks</p>
         </div>
 
@@ -548,7 +548,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kvn-intro-p">Our moving squads utilize padded banister guards and high-friction floor runners across terrazzo and marble floors to safeguard architectural finishes. All modular furniture is thoroughly disassembled before handling, with screws, dowels, and shelf brackets labeled and secured in indexed hardware pouches.</p>
 
         <div class="kvn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Kavi Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Kavi Nagar" loading="lazy">
             <p class="kvn-image-caption">High-density shock-absorbent bubble wrapping protects delicate electronics and kitchenware</p>
         </div>
 
@@ -678,7 +678,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kvn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Kavi Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Kavi Nagar" loading="lazy">
             <p class="kvn-image-caption">Certified carpentry technicians carefully dismantle modular double beds and sliding wardrobes</p>
         </div>
     </section>
@@ -691,7 +691,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kvn-intro-p">For long-distance household transfers heading toward Eastern India—including Patna, Gaya, Ranchi, Jamshedpur, Bokaro, and Kolkata—our dedicated linehaul container fleet provides regular direct departures. Coordinated with our central logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>, clients enjoy daily milestone updates and live GPS tracking throughout the transit journey.</p>
 
         <div class="kvn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kavi Nagar Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kavi Nagar Ghaziabad" loading="lazy">
             <p class="kvn-image-caption">Weatherproof enclosed container trucks guarantee secure, timely door-to-door deliveries</p>
         </div>
     </section>
@@ -754,7 +754,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Kavi Nagar Move Today</h3>
         <p>Contact our experienced moving specialists for a transparent estimate, free home survey, and seamless shifting experience in Kavi Nagar.</p>
         <div class="kvn-cta-group">
-            <a href="tel:+919334404050" class="kvn-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kvn-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kvn-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Corporate Relocation Handbook for HR Managers | Ranchi Guide | Call 9708579999</title>
-    <meta name="description" content="Complete HR handbook for managing corporate employee transfers and executive relocation in Ranchi. Policy design, SLA frameworks, vendor empanelment, and GST compliance. Call 9708579999.">
+    <title>Corporate Relocation Handbook for HR Managers | Ranchi Guide | Call 9835565233</title>
+    <meta name="description" content="Complete HR handbook for managing corporate employee transfers and executive relocation in Ranchi. Policy design, SLA frameworks, vendor empanelment, and GST compliance. Call 9835565233.">
     <meta name="keywords" content="corporate relocation handbook hr, employee transfer policy jharkhand, hr relocation guide ranchi, executive moving services ranchi, empanelled packers movers corporate">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/corporate-relocation-handbook-hr">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Corporate Relocation & Mobility Advisory",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/corporate-relocation-handbook-hr",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Corporate Relocation Handbook for HR & Administration Managers</h1>
                 <p>Empower your organization with a streamlined employee mobility framework. Eliminate transfer friction, structure equitable relocation allowances, enforce vendor service level agreements, and ensure 100% audit-compliant GST documentation across Ranchi and Jharkhand.</p>
                 <div class="crhr-cta-group">
-                    <a href="tel:+919708579999" class="crhr-btn-call">Corporate Desk: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20our%20HR%20department%20wants%20to%20empanel%20your%20corporate%20relocation%20services%20in%20Ranchi" class="crhr-btn-wa" target="_blank" rel="noopener">WhatsApp HR Empanelment Desk</a>
+                    <a href="tel:+919835565233" class="crhr-btn-call">Corporate Desk: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20our%20HR%20department%20wants%20to%20empanel%20your%20corporate%20relocation%20services%20in%20Ranchi" class="crhr-btn-wa" target="_blank" rel="noopener">WhatsApp HR Empanelment Desk</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="crhr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized corporate employee relocation cartons by Shree Ashirwad Packers Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized corporate employee relocation cartons by Shree Ashirwad Packers Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -273,7 +273,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Logistics Vendor Empanelment & SLA Governance Framework</h2>
                 <div class="crhr-grid-2">
                     <div class="crhr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed corporate moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed corporate moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>HR procurement teams should never allow employees to randomly hire unverified local transporters off classified websites. Corporate empanelment guarantees quality control, negotiated cost stability, and direct corporate billing. Non-negotiable vendor requirements include:</p>
@@ -303,7 +303,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="crhr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade packing materials deployed for corporate executive relocation in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade packing materials deployed for corporate executive relocation in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -361,7 +361,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>GST Compliance, SAC Codes & Flawless Audit Clearance</h2>
                 <div class="crhr-grid-2">
                     <div class="crhr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers ensuring audit compliant documentation in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers ensuring audit compliant documentation in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Corporate finance and internal audit teams reject ambiguous bills that lack statutory compliance. Shree Ashirwad guarantees 100% audit-ready documentation for every employee relocation:</p>

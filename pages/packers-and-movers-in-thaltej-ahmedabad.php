@@ -33,7 +33,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Thaltej Ahmedabad",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-thaltej-ahmedabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,800 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -393,7 +393,7 @@ $state_name = 'Gujarat';
       <p>Our dedicated operations supervisors conduct in-depth architectural and inventory assessments prior to move day. We identify fragile architectural fixtures, calculate clearance widths for sweeping staircases or private elevators, and formulate a customized crating strategy for each sensitive item. By working in close coordination with estate security personnel and gated community management offices, we ensure uninterrupted loading bay access and seamless execution with zero disturbance to neighbors.</p>
 
       <div class="tlt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Luxury Residence Loading in Thaltej Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Luxury Residence Loading in Thaltej Ahmedabad" width="580" height="380" loading="lazy">
       </div>
 
       <div class="tlt-highlight-box">
@@ -438,7 +438,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="tlt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive Household Packing in Thaltej Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive Household Packing in Thaltej Ahmedabad" width="580" height="380" loading="lazy">
       </div>
 
       <h3>Engineered Packaging Architecture for High-Value Possessions</h3>
@@ -533,7 +533,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="tlt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Transit in Thaltej Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Transit in Thaltej Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -569,7 +569,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="tlt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup in Thaltej Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup in Thaltej Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -608,7 +608,7 @@ $state_name = 'Gujarat';
     <div class="tlt-cta-bar">
       <h3>Experience White-Glove Moving Excellence in Thaltej</h3>
       <p>Schedule a confidential on-site survey with our senior relocation director for a comprehensive written proposal.</p>
-      <a href="tel:+919334484001" class="tlt-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="tlt-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="tlt-section">

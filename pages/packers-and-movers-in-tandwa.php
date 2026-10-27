@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Tandwa (NTPC North Karanpura & CCL Coal Mining Hub)
 $page_title = "Packers and Movers in Tandwa | NTPC & CCL Shifting Services";
-$page_description = "Top packers and movers in Tandwa, Chatra. Safe home shifting, NTPC North Karanpura & CCL mining staff transfers, vehicle transport, IBA approved bills. Call +91 9334812833.";
+$page_description = "Top packers and movers in Tandwa, Chatra. Safe home shifting, NTPC North Karanpura & CCL mining staff transfers, vehicle transport, IBA approved bills. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-tandwa";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-tandwa"
         "name": "Shree Ashirwad Packers and Movers - Tandwa Branch",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -382,7 +382,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-tandwa"
     <section class="tdw-hero-banner">
         <h1 class="tdw-hero-title">Packers and Movers in Tandwa</h1>
         <p class="tdw-hero-subtitle">Specialized Relocation for NTPC North Karanpura Power Project, CCL Amrapali & Magadh Mining Personnel. Safe Home Shifting, Heavy Machinery Transport & IBA Approved Claims.</p>
-        <a href="tel:+919334812833" class="tdw-cta-btn">Book Move in Tandwa: +91 9334812833</a>
+        <a href="tel:+919835565233" class="tdw-cta-btn">Book Move in Tandwa: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -398,7 +398,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-tandwa"
             </div>
             <div>
                 <div class="tdw-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Tandwa for corporate transfer" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Tandwa for corporate transfer" width="580" height="387">
                     <div class="tdw-caption">Multi-layer protective packing for furniture and electronics in Tandwa</div>
                 </div>
             </div>
@@ -484,7 +484,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-tandwa"
         <div class="tdw-grid-2">
             <div>
                 <div class="tdw-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Tandwa" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Tandwa" width="580" height="387">
                     <div class="tdw-caption">Multi-layer bubble and corrugated wrap for motorcycle transit from Tandwa</div>
                 </div>
             </div>
@@ -498,7 +498,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-tandwa"
 
         <!-- Section 4B: Highway Fleet Visual -->
         <div class="tdw-image-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Tandwa relocation" width="580" height="387">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Tandwa relocation" width="580" height="387">
             <div class="tdw-caption">All-weather containerized truck providing dust-free transit from Tandwa mining zones</div>
         </div>
 
@@ -543,7 +543,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-tandwa"
             </div>
             <div>
                 <div class="tdw-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective covers for home appliances in Tandwa" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective covers for home appliances in Tandwa" width="580" height="387">
                     <div class="tdw-caption">Quilted protective covers safeguarding appliances against scratches and dust</div>
                 </div>
             </div>

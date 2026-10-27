@@ -567,7 +567,7 @@
             </div>
             <div>
                 <div class="ksb-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Kasba Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Kasba Kolkata" width="580" height="380">
                     <div class="ksb-image-caption">Systematic truck loading using heavy-duty ramps by Shree Ashirwad Packers and Movers in Kasba Kolkata.</div>
                 </div>
             </div>
@@ -697,7 +697,7 @@
             </div>
             <div>
                 <div class="ksb-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging for household fragile goods in Kasba Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging for household fragile goods in Kasba Kolkata" width="580" height="380">
                     <div class="ksb-image-caption">Multi-layer bubble wrap protection and heavy-duty corrugated cartons for Kasba homes.</div>
                 </div>
             </div>
@@ -761,7 +761,7 @@
             </div>
             <div>
                 <div class="ksb-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing by skilled carpenters in Kasba Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing by skilled carpenters in Kasba Kolkata" width="580" height="380">
                     <div class="ksb-image-caption">Carpentry technicians safely dismantling wooden double beds and wardrobes in Kasba.</div>
                 </div>
             </div>
@@ -813,7 +813,7 @@
             </div>
             <div>
                 <div class="ksb-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed body delivery truck providing door to door shifting in Kasba Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed body delivery truck providing door to door shifting in Kasba Kolkata" width="580" height="380">
                     <div class="ksb-image-caption">Weather-sealed container truck delivering door-to-door relocation consignments in Kasba.</div>
                 </div>
             </div>

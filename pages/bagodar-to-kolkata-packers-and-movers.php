@@ -493,7 +493,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     <p>Our fleet consists of dedicated, weatherproof container vehicles built to absorb long-distance road vibration. With trained loaders, skilled carpenters, and experienced drivers who know inter-state border check-posts and Kolkata municipal entry restrictions, your entire move is completed without friction or delays.</p>
                 </div>
                 <div class="bag2kol-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading goods for Kolkata transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading goods for Kolkata transit" loading="lazy">
                 </div>
             </div>
         </div>
@@ -550,7 +550,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="bag2kol-container">
             <div class="bag2kol-two-col">
                 <div class="bag2kol-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover and foam padding" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover and foam padding" loading="lazy">
                 </div>
                 <div>
                     <h2 class="bag2kol-section-title" style="text-align: left;">Engineered 5-Layer Packaging for Fragile &amp; Heavy Cargo</h2>
@@ -647,7 +647,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     <p>Our transport crews maintain dedicated transit logs and GPS communication throughout the journey from Bagodar to Kolkata, ensuring zero jolts to your automobile or crated household cargo.</p>
                 </div>
                 <div class="bag2kol-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
                 </div>
             </div>
         </div>
@@ -658,7 +658,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="bag2kol-container">
             <div class="bag2kol-two-col">
                 <div class="bag2kol-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
                 </div>
                 <div>
                     <h2 class="bag2kol-section-title" style="text-align: left;">Corporate, IT &amp; PSU Transfer Support</h2>

@@ -508,7 +508,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers
                     <p>We provide full-spectrum packing and moving services, handling everything from bulky modular furniture disassembling to precision kitchenware cushioning, piano shifting, electronic home theater installations, and certified vehicle transport in specialized hydraulic carriers.</p>
                 </div>
                 <div class="kod2bok-img-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Koderma to Bokaro relocation" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Koderma to Bokaro relocation" loading="lazy">
                 </div>
             </div>
 
@@ -587,7 +587,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers
             <!-- Section 3: Industrial & Employee Transfer Services -->
             <div class="kod2bok-two-col">
                 <div class="kod2bok-img-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household packing for Koderma to Bokaro movers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household packing for Koderma to Bokaro movers" loading="lazy">
                 </div>
                 <div class="kod2bok-col-content">
                     <span class="kod2bok-section-tag">Institutional &amp; PSU Transfers</span>
@@ -648,7 +648,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers
                     <p>Vehicles are secured inside customized vehicle carriers featuring hydraulic ramps and heavy-duty lashing straps. Upon arrival in Bokaro, your car or bike is delivered directly to your doorstep in pristine condition.</p>
                 </div>
                 <div class="kod2bok-img-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service between Koderma and Bokaro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service between Koderma and Bokaro" loading="lazy">
                 </div>
             </div>
 
@@ -700,7 +700,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers
             <!-- Section 7: Unpacking and Setup Service -->
             <div class="kod2bok-two-col">
                 <div class="kod2bok-img-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service by Shree Ashirwad Packers in Bokaro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service by Shree Ashirwad Packers in Bokaro" loading="lazy">
                 </div>
                 <div class="kod2bok-col-content">
                     <span class="kod2bok-section-tag">Turnkey Destination Support</span>

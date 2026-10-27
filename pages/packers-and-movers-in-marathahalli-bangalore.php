@@ -36,7 +36,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-maratha
     "name": "Shree Ashirwad Packers and Movers Marathahalli Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+919334404052",
+    "telephone": "+91 9835565233",
     "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
@@ -403,7 +403,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-maratha
     <div class="mhl-hero-content">
       <h1 class="mhl-hero-title">Packers and Movers in Marathahalli Bangalore</h1>
       <p class="mhl-hero-subtitle">Fast, verified, and damage-free apartment relocations, IT professional moves, and long-distance transport along Bangalore's critical Outer Ring Road tech corridor.</p>
-      <a href="tel:+919334404052" class="mhl-hero-cta">Call for Free Moving Estimate: +91 93344 04052</a>
+      <a href="tel:+919835565233" class="mhl-hero-cta">Call for Free Moving Estimate: +91 9835565233</a>
     </div>
   </header>
 
@@ -418,7 +418,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-maratha
       <p class="mhl-p">Moving in Marathahalli entails navigating high-rise gated communities, bustling rental apartment buildings, and congested arterial junctions. Shree Ashirwad Packers and Movers brings decades of on-ground logistical proficiency to ensure seamless relocations. We understand the specific residential association (RWA) guidelines in high-rise towers, elevator scheduling constraints, and local traffic conditions, ensuring that your transition is swift, peaceful, and completely stress-free.</p>
 
       <div class="mhl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in Marathahalli Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in Marathahalli Bangalore" loading="lazy" width="580" height="387">
         <p class="mhl-image-caption">Systematic loading of boxed electronics and household goods into secure container vehicles in Marathahalli.</p>
       </div>
 
@@ -459,7 +459,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-maratha
       </div>
 
       <div class="mhl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Secure multi-layer packing for electronics in Marathahalli" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Secure multi-layer packing for electronics in Marathahalli" loading="lazy" width="580" height="387">
         <p class="mhl-image-caption">High-density bubble wrapping and strapping of computers and delicate kitchenware prior to Marathahalli transit.</p>
       </div>
 
@@ -531,7 +531,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-maratha
       </div>
 
       <div class="mhl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Marathahalli Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Marathahalli Bangalore" loading="lazy" width="580" height="387">
         <p class="mhl-image-caption">Professional carpenters dismantling king-size beds, modular wardrobes, and study units in Marathahalli apartments.</p>
       </div>
 
@@ -569,7 +569,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-maratha
       <p class="mhl-p">For apartment societies nestled deeper inside Munnekolala Lake Road or behind Yashomati Hospital where interior lanes narrow down, we utilize 10-foot agile pickup shuttle vehicles. These agile vehicles make quick transfer trips between building porticos and our primary container trucks parked on wider feeder avenues, ensuring that local residential traffic is never blocked while your goods remain protected.</p>
 
       <div class="mhl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck in Marathahalli Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck in Marathahalli Bangalore" loading="lazy" width="580" height="387">
         <p class="mhl-image-caption">Weatherproof, lockable containerized transport vehicles delivering household consignments across Marathahalli.</p>
       </div>
 

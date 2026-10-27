@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranaghat#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranaghat",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -540,7 +540,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="rng-body-p">Whether you are an Eastern Railway locomotive officer or station engineer transferring from the railway residential colony, a judicial officer posted at the Ranaghat Sub-Divisional Court, an educator at Ranaghat College, or a commercial merchant expanding wholesale operations along Subhasnagar and Station Road, Shree Ashirwad Packers and Movers delivers prompt, certified, and stress-free moving solutions tailored to the town's unique layout.</p>
 
                 <div class="rng-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Ranaghat transport vehicle" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Ranaghat transport vehicle" width="580" height="380" loading="lazy">
                     <div class="rng-image-caption">Systematic loading and cargo lashing inside covered container transport in Ranaghat.</div>
                 </div>
 
@@ -592,7 +592,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="rng-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Ranaghat" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Ranaghat" width="580" height="380" loading="lazy">
                     <div class="rng-image-caption">High-density air bubble wrap and 5-ply corrugated carton encasement protecting home goods in Ranaghat.</div>
                 </div>
 
@@ -656,7 +656,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="rng-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Ranaghat home" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Ranaghat home" width="580" height="380" loading="lazy">
                     <div class="rng-image-caption">Professional furniture disassembling and edge protection for modular double beds and wooden wardrobes in Ranaghat.</div>
                 </div>
 
@@ -707,7 +707,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="rng-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Ranaghat" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Ranaghat" width="580" height="380" loading="lazy">
                     <div class="rng-image-caption">Punctual arrival and courteous doorstep delivery service by Shree Ashirwad Packers and Movers in Ranaghat.</div>
                 </div>
 
@@ -762,9 +762,9 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="rng-body-p">Speak directly with our local Ranaghat operations supervisor for an instant price quote and scheduled on-site inspection.</p>
                 <div class="rng-highlight-box">
                     <div class="rng-highlight-title">Direct Helpline</div>
-                    <p class="rng-highlight-desc"><strong>+91 93344 60424</strong><br>Available 7 AM - 9:30 PM Daily</p>
+                    <p class="rng-highlight-desc"><strong>+91 9835565233</strong><br>Available 7 AM - 9:30 PM Daily</p>
                 </div>
-                <a href="tel:+919334460424" class="rng-cta-button">Call Now for Free Quote</a>
+                <a href="tel:+919835565233" class="rng-cta-button">Call Now for Free Quote</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rng-cta-button" style="background: #1e3a8a; margin-top: 10px;">Calculate Tariff Online</a>
             </div>
 

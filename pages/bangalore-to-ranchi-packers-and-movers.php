@@ -951,7 +951,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="b2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Ranchi Packers and Movers Weatherproof Container Truck Fleet" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Ranchi Packers and Movers Weatherproof Container Truck Fleet" width="600" height="400" loading="lazy">
         <div class="b2r-image-caption">
           <span class="b2r-image-tag">Direct Linehaul Fleet</span>
           <p class="b2r-image-text">Heavy-duty sealed container trucks engineered for smooth transit across the 1,780-km NH-16 / NH-20 national highway corridor from Bangalore to Ranchi.</p>
@@ -1101,7 +1101,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="b2r-grid-2col reverse">
       <div class="b2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Bangalore to Ranchi Multi-Layer Protective Furniture Wrapping" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Bangalore to Ranchi Multi-Layer Protective Furniture Wrapping" width="600" height="400" loading="lazy">
         <div class="b2r-image-caption">
           <span class="b2r-image-tag">Engineering-Grade Protection</span>
           <p class="b2r-image-text">Multi-tier corrugated wrapping and edge armor applied to wooden wardrobes and study furniture before long-haul container loading.</p>
@@ -1166,7 +1166,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="b2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Bangalore to Ranchi Padded Electronic Appliance Protective Covers" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Bangalore to Ranchi Padded Electronic Appliance Protective Covers" width="600" height="400" loading="lazy">
         <div class="b2r-image-caption">
           <span class="b2r-image-tag">Electronic Appliance Armor</span>
           <p class="b2r-image-text">Custom thermal-padded jackets and heavy-gauge corrugated shells safeguarding home appliances and electronics during long-distance transit.</p>
@@ -1286,7 +1286,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="b2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Bangalore to Ranchi Dedicated Door-to-Door Delivery Vehicle" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Bangalore to Ranchi Dedicated Door-to-Door Delivery Vehicle" width="600" height="400" loading="lazy">
         <div class="b2r-image-caption">
           <span class="b2r-image-tag">Direct Doorstep Placement</span>
           <p class="b2r-image-text">Dedicated container arriving at Ranchi residential complexes with certified local crews ready for immediate unloading and furniture setup.</p>

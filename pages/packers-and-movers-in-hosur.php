@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hosur";
         "name": "Shree Ashirwad Packers and Movers Hosur",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hosur";
         <p>Relocation in Hosur features extraordinary dynamism. Positioned just 35 kilometers from Bangalore's Electronic City tech corridor, Hosur experiences immense interstate commuting and household transfers across the Attibele toll checkpoint. Servicing executive gated communities along Bagalur Road, Rayakottai Road, Mathigiri, and Sipcot Housing Colony demands high-level professionalism, immaculate multi-layer packing materials, and seamless commercial documentation. Concurrently, handling industrial plant machinery, toolroom apparatus, and executive corporate archives requires heavy-duty closed container vehicles with hydraulic tailgates. Shree Ashirwad Packers and Movers brings more than 14 years of regional mastery, executing completely safeguarded relocations for both residential families and enterprise corporations.</p>
 
         <div class="hos-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Hosur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Hosur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="hos-image-caption">Professional household loading and apartment shifting operations in Hosur.</div>
         </div>
 
@@ -583,7 +583,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hosur";
         </div>
 
         <div class="hos-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Hosur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Hosur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="hos-image-caption">Corporate office equipment and commercial apparatus relocation by Shree Ashirwad in Hosur.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hosur";
         <p>Our moving teams employ a comprehensive four-tier defense system. Polished teak and rosewood articles are first wrapped in breathable cotton blankets, encased in heavy-gauge air bubble film, reinforced with corrugated edge corner protectors, and sealed with waterproof stretch film. This robust shield safeguards delicate surfaces against abrasion, humidity changes, and highway vibrations.</p>
 
         <div class="hos-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Hosur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Hosur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="hos-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Hosur.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hosur";
         </ol>
 
         <div class="hos-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Hosur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Hosur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="hos-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Hosur corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hosur";
     <div class="hos-cta-box">
         <h3>Move Safely in Hosur with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero hidden fees. Licensed, fully insured relocation professionals ready to assist your household or enterprise today.</p>
-        <a href="tel:+919334404050" class="hos-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="hos-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

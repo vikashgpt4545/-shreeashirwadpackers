@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Peroorkada Thiruvananthapuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-peroorkada-thiruvananthapuram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -434,7 +434,7 @@
       </div>
       <div>
         <div class="prk-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading into container truck in Peroorkada Thiruvananthapuram" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading into container truck in Peroorkada Thiruvananthapuram" width="580" height="380" loading="lazy">
         </div>
       </div>
     </div>
@@ -471,7 +471,7 @@
     </div>
 
     <div class="prk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Padded bubble wrap and stretch film for wooden sofas and almirahs in Peroorkada" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Padded bubble wrap and stretch film for wooden sofas and almirahs in Peroorkada" width="580" height="380" loading="lazy">
     </div>
 
     <p>Our team uses export-quality 5-ply cartons, bubble wrap, thermocol sheets, and heavy-duty tape, ensuring that delicate glass items, crockery, and fragile curios arrive in pristine condition.</p>
@@ -563,7 +563,7 @@
     </table>
 
     <div class="prk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packaging office records and electronics in Peroorkada Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packaging office records and electronics in Peroorkada Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
 
     <p>Every estimate covers virgin corrugated cartons, multi-layer bubble wrap, stretch film, heavy-duty tape, loading, transport in closed-body container trucks, unloading, and furniture reassembly at your new destination.</p>
@@ -667,7 +667,7 @@
     </ol>
 
     <div class="prk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Peroorkada Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Peroorkada Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
   </section>
 

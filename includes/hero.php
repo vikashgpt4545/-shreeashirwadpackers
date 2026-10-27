@@ -39,7 +39,7 @@ $csrf_token = generate_csrf_token();
             <svg viewBox="0 0 24 24" width="14" height="14" fill="#f59e0b"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
           </div>
           <span class="rating-score">4.9/5</span>
-          <span class="rating-label">Google Rating (664+ Reviews)</span>
+          <span class="rating-label">Google Rating (700+ Reviews)</span>
           <span class="rating-divider">•</span>
           <span class="rating-experience">15+ Years Trust</span>
         </div>

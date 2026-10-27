@@ -953,14 +953,14 @@ require_once __DIR__ . '/includes/seo.php';
     <!-- Verified Image Grid 1 -->
     <div class="r2dp-image-grid">
       <div class="r2dp-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Uniformed Professional Loading Crew Handling Household Relocation in Ranchi" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Uniformed Professional Loading Crew Handling Household Relocation in Ranchi" loading="lazy">
         <div class="r2dp-image-caption">
           <span class="r2dp-image-tag">Expert Handling</span>
           <p class="r2dp-image-text">Skilled moving technicians safely packing and handling living room furniture and appliances at Ranchi residence.</p>
         </div>
       </div>
       <div class="r2dp-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate Kitchen Glassware and Crockery Protective Bubble Packaging" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate Kitchen Glassware and Crockery Protective Bubble Packaging" loading="lazy">
         <div class="r2dp-image-caption">
           <span class="r2dp-image-tag">Fragile Crockery Shield</span>
           <p class="r2dp-image-text">Multi-layer bubble wrap and custom cell dividers for kitchen crockery and delicate glassware moving to Durgapur.</p>
@@ -1093,14 +1093,14 @@ require_once __DIR__ . '/includes/seo.php';
     <!-- Verified Image Grid 2 -->
     <div class="r2dp-image-grid">
       <div class="r2dp-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Color-Coded Corrugated Moving Cartons Prepared for Interstate Relocation to Durgapur" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Color-Coded Corrugated Moving Cartons Prepared for Interstate Relocation to Durgapur" loading="lazy">
         <div class="r2dp-image-caption">
           <span class="r2dp-image-tag">Organized Unboxing</span>
           <p class="r2dp-image-text">7-ply heavy corrugated cartons color-coded room-by-room for effortless placement in Durgapur quarters.</p>
         </div>
       </div>
       <div class="r2dp-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Sealed Linehaul Container Truck Navigating Highway to Durgapur" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Sealed Linehaul Container Truck Navigating Highway to Durgapur" loading="lazy">
         <div class="r2dp-image-caption">
           <span class="r2dp-image-tag">GPS-Tracked Fleet</span>
           <p class="r2dp-image-text">GPS-monitored sealed container truck ensuring zero-transshipment express linehaul along National Highway 19.</p>

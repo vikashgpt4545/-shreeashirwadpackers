@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Tirupati",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-tirupati",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>The city's vibrant residential fabric spans well-planned sectors such as Korlagunta, Bairagi Patteda, MR Palli, Annamaiah Circle, and Bhavani Nagar, connecting seamlessly toward the industrial developments along Renigunta Road and Karakambadi Road. Temple trust executives, IIT and university professors, electronics design engineers, and healthcare professionals depend on certified moving services capable of delivering white-glove household packing and industrial logistics with equal dedication.</p>
 
     <div class="tpt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Tirupati Andhra Pradesh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Tirupati Andhra Pradesh" loading="lazy">
       <p class="tpt-image-caption">Disciplined residential quarter shifting and systematic loading operations in Tirupati.</p>
     </div>
 
@@ -602,7 +602,7 @@
     </div>
 
     <div class="tpt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Tirupati" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Tirupati" loading="lazy">
       <p class="tpt-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Tirupati.</p>
     </div>
 
@@ -634,7 +634,7 @@
     </div>
 
     <div class="tpt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Tirupati" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Tirupati" loading="lazy">
       <p class="tpt-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -648,7 +648,7 @@
     <p>Our local dispatchers coordinate moves during early morning hours (6:00 AM to 8:30 AM) to avoid pilgrim bus congestion around the central bus station and Alipiri bypass. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="tpt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Tirupati" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Tirupati" loading="lazy">
       <p class="tpt-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -738,7 +738,7 @@
   <section class="tpt-cta-banner">
     <h3>Plan Your Stress-Free Move in Tirupati Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="tpt-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="tpt-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

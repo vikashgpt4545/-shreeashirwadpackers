@@ -36,7 +36,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-electro
     "name": "Shree Ashirwad Packers and Movers Electronic City Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+919334404052",
+    "telephone": "+91 9835565233",
     "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
@@ -402,7 +402,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-electro
     <div class="ecb-hero-content">
       <h1 class="ecb-hero-title">Packers and Movers in Electronic City Bangalore</h1>
       <p class="ecb-hero-subtitle">Specialized Relocation for IT Professionals &amp; Families Across E-City Phase 1, Phase 2, Hosur Road, Concorde &amp; Ajmera Infinity</p>
-      <a href="tel:+919334404052" class="ecb-hero-cta">Get Free Instant Quote: +91 9334404052</a>
+      <a href="tel:+919835565233" class="ecb-hero-cta">Get Free Instant Quote: +91 9835565233</a>
     </div>
   </header>
 
@@ -417,7 +417,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-electro
       <p class="ecb-p">The logistical dynamics of Electronic City are defined by strict corporate and society gate protocols, sprawling campus layouts, and high-speed arterial transit via the 9.98-kilometer Electronic City Elevated Expressway connecting Silk Board Junction to Phase 1. At Shree Ashirwad Packers and Movers, our dedicated Electronic City operations branch delivers smooth, secure, and punctual household and corporate shifting services tailored to this dynamic tech landscape.</p>
 
       <div class="ecb-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in Electronic City Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in Electronic City Bangalore" width="580" height="387" loading="lazy">
         <div class="ecb-image-caption">Systematic truck loading and dedicated container transit engineered for Electronic City townships.</div>
       </div>
 
@@ -453,7 +453,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-electro
       </div>
 
       <div class="ecb-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrapping for Electronic City apartment relocation" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrapping for Electronic City apartment relocation" width="580" height="387" loading="lazy">
         <div class="ecb-image-caption">High-density bubble wrapping and heavy-duty corrugated cartons protecting delicate household items.</div>
       </div>
 
@@ -477,7 +477,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-electro
       <p class="ecb-p">For larger interstate container trucks traveling toward southern industrial zones or eastward, our route coordinators utilize the NICE Ring Road interchange at Electronic City Phase 1, seamlessly bypassing inner-city traffic and connecting directly with Tumkur Road and Mysore Road.</p>
 
       <div class="ecb-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture assembly and packing in Electronic City Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture assembly and packing in Electronic City Bangalore" width="580" height="387" loading="lazy">
         <div class="ecb-image-caption">Expert carpenter disassembly of modular wardrobes, bed frames, and study tables for safe transit.</div>
       </div>
 
@@ -547,7 +547,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-electro
       <p class="ecb-p">Pricing depends on overall cargo cubic volume, packing materials selected, elevator availability, and travel distance. For an exact customized quote tailored to your inventory, check our online <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges calculator</a>.</p>
 
       <div class="ecb-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Electronic City Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Electronic City Bangalore" width="580" height="387" loading="lazy">
         <div class="ecb-image-caption">Dedicated sealed container vehicles guaranteeing secure door-to-door transit across Electronic City.</div>
       </div>
 

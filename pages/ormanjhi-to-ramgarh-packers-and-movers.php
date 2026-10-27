@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "name": "Shree Ashirwad Packers and Movers Ormanjhi to Ramgarh",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹29,000",
         "address": {
             "@type": "PostalAddress",
@@ -111,7 +111,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-9334800840",
+            "telephone": "+91 9835565233",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
@@ -254,7 +254,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     <div class="feat-item"><i class="fa fa-check-circle"></i> IBA Approved Bills for Army, CCL & Corporate Reimbursement</div>
                 </div>
                 <div class="hero-cta">
-                    <a href="tel:+919334800840" class="btn btn-primary"><i class="fa fa-phone-alt"></i> Call +91-9334800840</a>
+                    <a href="tel:+919835565233" class="btn btn-primary"><i class="fa fa-phone-alt"></i> Call +91 9835565233</a>
                     <a href="#quote-form" class="btn btn-outline">Instant Price Calculation</a>
                 </div>
             </div>
@@ -325,7 +325,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
             </div>
             <div class="col-lg-6">
                 <div class="route-visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck transporting cargo through Chutupalu Ghati from Ormanjhi to Ramgarh" class="img-fluid rounded shadow" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck transporting cargo through Chutupalu Ghati from Ormanjhi to Ramgarh" class="img-fluid rounded shadow" loading="lazy">
                     <div class="visual-caption">
                         <h4>Ghati Route Fleet Ormanjhi to Ramgarh</h4>
                         <p>Specialized closed-body container fleet with heavy ratchet lashing designed for safe hill descent across Chutupalu Ghati into Ramgarh.</p>
@@ -418,7 +418,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         <div class="row align-items-center">
             <div class="col-lg-6 order-lg-2">
                 <div class="packing-visual-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Appliance protective wrap for Ormanjhi to Ramgarh shifting" class="img-fluid rounded shadow" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Appliance protective wrap for Ormanjhi to Ramgarh shifting" class="img-fluid rounded shadow" loading="lazy">
                 </div>
             </div>
             <div class="col-lg-6 order-lg-1">
@@ -476,7 +476,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
             <div class="col-lg-6">
                 <div class="vehicle-card">
                     <div class="vehicle-card-img">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle courier and bike parcel Ormanjhi to Ramgarh" class="img-fluid rounded" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle courier and bike parcel Ormanjhi to Ramgarh" class="img-fluid rounded" loading="lazy">
                     </div>
                     <div class="vehicle-card-body">
                         <h3>Bike & Motorcycle Transport</h3>
@@ -493,7 +493,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
             <div class="col-lg-6">
                 <div class="vehicle-card">
                     <div class="vehicle-card-img">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Enclosed car carrier truck for safe transit from Ormanjhi to Ramgarh" class="img-fluid rounded" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Enclosed car carrier truck for safe transit from Ormanjhi to Ramgarh" class="img-fluid rounded" loading="lazy">
                     </div>
                     <div class="vehicle-card-body">
                         <h3>Car Carrier & SUV Relocation</h3>
@@ -570,7 +570,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     </ul>
                     <div class="contact-box-cta">
                         <p>Need quotation sets for HR or defence pre-approval?</p>
-                        <a href="tel:+919334800840" class="btn btn-secondary btn-block"><i class="fa fa-phone"></i> Call +91-9334800840</a>
+                        <a href="tel:+919835565233" class="btn btn-secondary btn-block"><i class="fa fa-phone"></i> Call +91 9835565233</a>
                     </div>
                 </div>
             </div>
@@ -836,7 +836,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         <h2>Ready for a Safe, Smooth Move from Ormanjhi to Ramgarh?</h2>
         <p>Book with Jharkhand's most trusted moving company. Enjoy same-day delivery, 5-layer protective packing, and complete damage-free assurance across Chutupalu Ghati.</p>
         <div class="cta-buttons">
-            <a href="tel:+919334800840" class="btn btn-primary btn-lg"><i class="fa fa-phone-alt"></i> Call Now: +91-9334800840</a>
+            <a href="tel:+919835565233" class="btn btn-primary btn-lg"><i class="fa fa-phone-alt"></i> Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline btn-lg"><i class="fa fa-calendar-alt"></i> Schedule Free Pre-Move Survey</a>
         </div>
     </div>

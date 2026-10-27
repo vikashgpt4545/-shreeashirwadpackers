@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mirzapu
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-mirzapur#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-mirzapur",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -367,7 +367,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mirzapu
         <p>Positioned conveniently along National Highway 35 (NH-35) and connected closely to the golden quadrangle corridor of NH-19 between Varanasi and Prayagraj, Mirzapur enjoys superior road transit infrastructure. Whether you are shifting your home across central residential neighborhoods like Civil Lines, Dankinganj, and Bharuhana, transitioning to serene temple colonies in Vindhyachal, or coordinating long-distance domestic relocations to Jharkhand, Bihar, Delhi NCR, or Maharashtra, Shree Ashirwad Packers and Movers provides seasoned logistics personnel, premium packaging materials, and dependable containerized vehicles.</p>
 
         <div class="mzp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Mirzapur by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Mirzapur by Shree Ashirwad Packers and Movers">
             <p class="mzp-image-caption">Systematic truck loading and itemized inventory verification by Shree Ashirwad Packers and Movers in Mirzapur.</p>
         </div>
 
@@ -401,7 +401,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mirzapu
         <p>Our dedicated moving supervisors oversee every shipment from start to finish. Before a single container is loaded, our team creates an itemized inventory log documenting the condition and box numbering of every item, ensuring complete peace of mind when offloading at your new destination.</p>
 
         <div class="mzp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging materials deployed in Mirzapur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging materials deployed in Mirzapur">
             <p class="mzp-image-caption">High-density bubble wrap, multi-ply cartons, and protective corner guards deployed in Mirzapur.</p>
         </div>
 
@@ -507,7 +507,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mirzapu
         <p>Our moving teams feature experienced carpenter craftsmen who skillfully dismantle king-size beds, modular cabinets, and wall-mounted electronics using precision power tools, preventing any damage to wood joints or property walls.</p>
 
         <div class="mzp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping in Mirzapur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping in Mirzapur">
             <p class="mzp-image-caption">Trained technicians disassembling complex furniture units and securing edges with protective foam.</p>
         </div>
 
@@ -549,7 +549,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mirzapu
         <p>Our local Mirzapur moving crews possess thorough geographic familiarity with town bypasses, toll checkpoints, and riverfront access roads. Whether navigating dense heritage quarters near the Ganga ghats or operating along expansive highway sectors, our drivers deliver punctual, reliable service.</p>
 
         <div class="mzp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mirzapur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mirzapur">
             <p class="mzp-image-caption">Reliable covered container vehicles delivering door-to-door relocation across Mirzapur.</p>
         </div>
 
@@ -613,7 +613,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mirzapu
 
         <div class="mzp-faq-item">
             <h3>How do I receive a written estimate for my move in Mirzapur?</h3>
-            <p>Call our direct customer support at +91 93344 04050 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
+            <p>Call our direct customer support at +91 9835565233 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
         </div>
 
         <div class="mzp-faq-item">

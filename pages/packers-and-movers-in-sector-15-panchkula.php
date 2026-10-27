@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Sector 15 Panchkula",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-sector-15-panchkula",
-        "telephone": "+91 9334424440",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹46,000",
         "address": {
             "@type": "PostalAddress",
@@ -402,7 +402,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>Positioned conveniently close to the Chandigarh border, MDC Panchkula, and Sector 14, Sector 15 offers wide avenue access that enables our large, closed container trucks to park and load smoothly without disrupting quiet residential cul-de-sacs.</p>
         </article>
         <div class="s15p-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packing luxury villa goods in Sector 15 Panchkula" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packing luxury villa goods in Sector 15 Panchkula" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -440,7 +440,7 @@ require_once __DIR__ . '/../includes/config.php';
     <!-- Section 3: Visual Break and Packaging Standard -->
     <section class="s15p-intro-grid">
         <div class="s15p-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Careful packaging of fine electronic equipment in Sector 15 Panchkula" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Careful packaging of fine electronic equipment in Sector 15 Panchkula" width="580" height="386" loading="lazy">
         </div>
         <article class="s15p-intro-text">
             <h2>Five-Layer Protective Packaging Architecture</h2>
@@ -581,7 +581,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>This uncompromising attention to detail has made Shree Ashirwad the trusted relocation partner for Sector 15's most discerning homeowners.</p>
         </article>
         <div class="s15p-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed container truck for safe moving in Sector 15 Panchkula" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed container truck for safe moving in Sector 15 Panchkula" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -644,7 +644,7 @@ require_once __DIR__ . '/../includes/config.php';
 </main>
 
 <div class="s15p-img-box" style="margin: 40px auto; max-width: 580px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Sector 15 Panchkula" width="580" height="386" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Sector 15 Panchkula" width="580" height="386" loading="lazy">
 </div>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>

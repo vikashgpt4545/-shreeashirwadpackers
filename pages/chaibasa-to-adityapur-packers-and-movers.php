@@ -743,7 +743,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="chb-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing for Chaibasa to Adityapur Relocation" title="Complete Household Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing for Chaibasa to Adityapur Relocation" title="Complete Household Packing">
                 </div>
             </div>
         </div>
@@ -872,7 +872,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKAGING PROTOCOL -->
             <div class="chb-adi-two-col">
                 <div class="chb-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing for Adityapur Transit" title="Fragile Glassware Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing for Adityapur Transit" title="Fragile Glassware Packing">
                 </div>
                 <div class="chb-adi-two-col-text">
                     <h2>5-Tier Engineered Defensive Packaging Architecture</h2>
@@ -940,14 +940,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="chb-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Chaibasa to Adityapur Relocation" title="Protective Sofa and Furniture Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Chaibasa to Adityapur Relocation" title="Protective Sofa and Furniture Packing">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & BIKE TRANSPORT -->
             <div class="chb-adi-two-col" style="margin-top: 45px;">
                 <div class="chb-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing for Adityapur Move" title="Scooter and Motorcycle Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing for Adityapur Move" title="Scooter and Motorcycle Packing">
                 </div>
                 <div class="chb-adi-two-col-text">
                     <h2>Hyper-Local Coverage Across Chaibasa &amp; Adityapur</h2>

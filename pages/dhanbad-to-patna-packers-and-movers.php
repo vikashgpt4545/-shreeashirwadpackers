@@ -344,7 +344,7 @@ $meta_keywords = "dhanbad to patna packers and movers, packers and movers dhanba
         
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading Dhanbad to Patna" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading Dhanbad to Patna" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">NH-22 Intercity Linehaul Truck</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Direct closed container trucks dispatched via Grand Trunk Road (NH-19) and NH-22 with zero mid-way transshipment.</p>
@@ -352,7 +352,7 @@ $meta_keywords = "dhanbad to patna packers and movers, packers and movers dhanba
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing for interstate moving" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing for interstate moving" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Glassware & Delicate Cushioning</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Multi-tier bubble wrapping and cell partition cartons protecting crockery against ghati curve inertia.</p>
@@ -360,7 +360,7 @@ $meta_keywords = "dhanbad to patna packers and movers, packers and movers dhanba
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Patna" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Patna" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Patna Doorstep Delivery</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Direct residential delivery across Kankarbagh, Boring Road, Bailey Road, Danapur, and Patliputra Colony.</p>

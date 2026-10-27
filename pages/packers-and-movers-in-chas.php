@@ -2,7 +2,7 @@
 /**
  * Packers and Movers in Chas - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9308888746
+ * Contact: +91 8409531615 / +91 9835565233
  * Office: Serving Chas Municipal Corporation, Bokaro Steel City & Dhanbad, Jharkhand
  */
 
@@ -201,7 +201,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chas";
           "name": "How can I book a free home survey in Chas, Bokaro?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Simply call our 24x7 helpline at +91 8409531615 or message us via WhatsApp at +91 9308888746. Our Chas field supervisor will arrange a free doorstep physical assessment or instant video survey with transparent, fixed-price pricing."
+            "text": "Simply call our 24x7 helpline at +91 8409531615 or message us via WhatsApp at +91 9835565233. Our Chas field supervisor will arrange a free doorstep physical assessment or instant video survey with transparent, fixed-price pricing."
           }
         }
       ]
@@ -241,7 +241,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chas";
             </div>
             <div class="hero-media" style="flex: 1 1 420px; max-width: 480px;">
                 <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; border-radius: 16px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.4); border: 3px solid rgba(255,255,255,0.15);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packers and Movers in Chas Bokaro - Apartment packing by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packers and Movers in Chas Bokaro - Apartment packing by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     <div class="media-overlay-badge" style="position: absolute; bottom: 20px; left: 20px; right: 20px; background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(8px); padding: 14px 18px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.2);">
                         <p style="margin: 0; font-size: 13px; color: #f1f5f9; font-weight: 500;">
                             <i class="fa-solid fa-boxes-packing" style="color: #60a5fa; margin-right: 6px;"></i> Multi-layer bubble wrap & heavy corrugated cartons for Chas apartment families.
@@ -290,7 +290,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chas";
                     <!-- Verified Image Embed 1 -->
                     <div class="content-media-embed" style="margin: 30px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packaging materials and bubble wrap used in Chas by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packaging materials and bubble wrap used in Chas by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 18px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 13.5px; font-weight: 600;"><i class="fa-solid fa-box-open" style="color: #60a5fa; margin-right: 8px;"></i> Premium multi-layer carton packing protecting home goods across Chas.</p>
                             </div>
@@ -358,7 +358,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chas";
                     <!-- Verified Image Embed 2 -->
                     <div class="content-media-embed" style="margin: 35px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Packers and movers delivery truck operating in Chas Bokaro by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Packers and movers delivery truck operating in Chas Bokaro by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 20px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 14px; font-weight: 600;"><i class="fa-solid fa-truck-fast" style="color: #60a5fa; margin-right: 8px;"></i> Modern enclosed container trucks ensuring dust-free relocations across Chas and Bokaro.</p>
                             </div>
@@ -547,7 +547,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chas";
                     <!-- Verified Image Embed 3 -->
                     <div class="content-media-embed" style="margin: 35px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service in Chas by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service in Chas by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 20px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 14px; font-weight: 600;"><i class="fa-solid fa-car-side" style="color: #60a5fa; margin-right: 8px;"></i> Hydraulic closed-body car carriers providing scratch-free automobile shifting.</p>
                             </div>
@@ -642,7 +642,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chas";
                     <!-- Verified Image Embed 4 -->
                     <div class="content-media-embed" style="margin: 35px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and household goods storage warehouse serving Chas by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and household goods storage warehouse serving Chas by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 20px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 14px; font-weight: 600;"><i class="fa-solid fa-warehouse" style="color: #60a5fa; margin-right: 8px;"></i> Modern, 24/7 guarded warehouse facility protecting goods for short and long-term storage.</p>
                             </div>
@@ -795,7 +795,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chas";
                                 <i class="fa-solid fa-circle-question" style="color: #2563eb; margin-right: 8px;"></i> How can I book a free home survey in Chas, Bokaro?
                             </h3>
                             <p style="font-size: 15px; line-height: 1.75; color: #334155; margin: 0;">
-                                Simply call our 24x7 helpline at +91 8409531615 or message us via WhatsApp at +91 9308888746. Our Chas field supervisor will arrange a free doorstep physical assessment or instant video survey with transparent, fixed-price pricing.
+                                Simply call our 24x7 helpline at +91 8409531615 or message us via WhatsApp at +91 9835565233. Our Chas field supervisor will arrange a free doorstep physical assessment or instant video survey with transparent, fixed-price pricing.
                             </p>
                         </div>
                     </div>
@@ -819,8 +819,8 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chas";
                             <a href="tel:8409531615" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
                                 <i class="fa-solid fa-phone"></i> +91 8409531615
                             </a>
-                            <a href="tel:9308888746" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #1e3a8a; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
-                                <i class="fa-solid fa-phone"></i> +91 9308888746
+                            <a href="tel:+919835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #1e3a8a; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
+                                <i class="fa-solid fa-phone"></i> +91 9835565233
                             </a>
                             <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chas" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
                                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp

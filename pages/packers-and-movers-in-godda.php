@@ -361,7 +361,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-god
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Godda Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Godda Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Door-to-Door Service</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Godda Reliable Shifting Operations</p>
@@ -506,7 +506,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-god
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center; order: 2;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5 Layer Protective Packaging Household Goods Godda" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5 Layer Protective Packaging Household Goods Godda" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Zero Damage Guarantee</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">5-Layer Shock Absorbing Packaging</p>
@@ -796,7 +796,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-god
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Godda" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Godda" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Furniture Protection</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Solid Wood Wrapping & Cushioning</p>
@@ -816,7 +816,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-god
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center; order: 2;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="LED TV and Electronics Crating Services Godda" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="LED TV and Electronics Crating Services Godda" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Custom Wooden Crates</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Electronics & Fragile Appliance Protection</p>

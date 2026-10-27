@@ -544,7 +544,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Directly along the Delhi-Haryana border, our services cover prestigious landmark communities including Sector 108 (Sobha City), Sector 109 (ATS Tourmaline, Chintels Serenity), Sector 111 (Puri Diplomatic Greens), Sector 112 (Tata Primanti link), and Sector 113 (Smart World One DXP, M3M Capital). Towards southern expressway nodes, we serve Sector 37D (Signature Global Millennia, BPTP Spacio), Sector 88A, Sector 99, and Sector 99A with seamless daily links to Old Gurgaon and Delhi Dwarka sub-city.</p>
 
         <div class="dwex-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing luxury condominium moving along Dwarka Expressway Gurgaon" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing luxury condominium moving along Dwarka Expressway Gurgaon" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our fleet coordinators leverage the multi-lane elevated corridor to bypass traffic snarls at Kapashera and Shankar Chowk. By utilizing dedicated service roads and securing advance gate permissions with estate facility managers, we ensure rapid, seamless vehicle access right to your residential tower's basement service lift.</p>
@@ -600,7 +600,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="dwex-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Dwarka Expressway to Bangalore, Mumbai and pan-India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Dwarka Expressway to Bangalore, Mumbai and pan-India" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -636,7 +636,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="dwex-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving on Dwarka Expressway" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving on Dwarka Expressway" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -707,7 +707,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="dwex-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation on Dwarka Expressway" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation on Dwarka Expressway" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad on Dwarka Expressway -->

@@ -39,7 +39,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-rajajin
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-rajajinagar-bangalore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-rajajinagar-bangalore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -526,7 +526,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Rajajinagar Bangalore</h1>
         <p>Premium household shifting, corporate IT relocation, and apartment moving experts across Dr. Rajkumar Road, West of Chord Road, Blocks 1 to 6, Orion Mall, and Brigade Gateway.</p>
         <div class="rjn-btn-wrap">
-            <a href="tel:+919334404050" class="rjn-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="rjn-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rjn-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -554,7 +554,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="rjn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment shifting in Rajajinagar Bangalore" title="Multistory apartment loading in Rajajinagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment shifting in Rajajinagar Bangalore" title="Multistory apartment loading in Rajajinagar">
             <p class="rjn-image-caption">High-rise apartment moving crew loading goods with elevator protections in Rajajinagar Bangalore.</p>
         </div>
     </section>
@@ -584,7 +584,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Our dedicated moving vehicles range from compact 14-foot closed containers capable of navigating cozy residential lanes to large 20-foot and 24-foot multi-axle trucks designed for large household inventories and interstate relocations. Every truck interior is fitted with shock-absorbent wooden flooring, internal rubber tie-down rails, and high-tensile ratchet lashing belts to keep your belongings immobile throughout transit.</p>
 
         <div class="rjn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Rajajinagar Bangalore" title="Skilled furniture dismantling in Rajajinagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Rajajinagar Bangalore" title="Skilled furniture dismantling in Rajajinagar">
             <p class="rjn-image-caption">Trained carpenters dismantling and blanket-wrapping double beds and master wardrobes in Rajajinagar.</p>
         </div>
     </section>
@@ -678,7 +678,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Planning an intercity or interstate move from Rajajinagar? Check our interactive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rates Calculator</a> for instant customized cost projections based on inventory size and distance.</p>
 
         <div class="rjn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing in Rajajinagar Bangalore" title="Secure fragile packing in Rajajinagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing in Rajajinagar Bangalore" title="Secure fragile packing in Rajajinagar">
             <p class="rjn-image-caption">Systematic foam cushioning and cell division for delicate glass, crockery, and fragile decorative items.</p>
         </div>
     </section>
@@ -731,7 +731,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="rjn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Rajajinagar Bangalore" title="Doorstep delivery truck in Rajajinagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Rajajinagar Bangalore" title="Doorstep delivery truck in Rajajinagar">
             <p class="rjn-image-caption">Dedicated door-to-door delivery container truck arriving for smooth unloading in Rajajinagar Bangalore.</p>
         </div>
     </section>

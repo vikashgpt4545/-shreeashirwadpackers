@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Phusro to Hazaribagh",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹7,000 - ₹30,000",
         "address": {
             "@type": "PostalAddress",
@@ -602,8 +602,8 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             </div>
 
             <div class="phu2hzb-cta-group">
-                <a href="tel:+919334800840" class="phu2hzb-btn-primary"><i class="fa-solid fa-phone"></i> Call 9334800840</a>
-                <a href="https://wa.me/919334800840?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Phusro%20to%20Hazaribagh%20shifting" class="phu2hzb-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
+                <a href="tel:+919835565233" class="phu2hzb-btn-primary"><i class="fa-solid fa-phone"></i> Call 9835565233</a>
+                <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Phusro%20to%20Hazaribagh%20shifting" class="phu2hzb-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
             </div>
         </div>
     </header>
@@ -619,7 +619,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     <p>Our fleet consists of modern, weatherproof container vehicles engineered to absorb state highway vibrations and railway crossing bumps. With trained loaders, skilled carpenters, and experienced highway drivers who understand local hilly terrain and narrow market lanes, your entire relocation is completed smoothly on the very same day.</p>
                 </div>
                 <div class="phu2hzb-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Phusro to Hazaribagh intercity shifting truck loading goods" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Phusro to Hazaribagh intercity shifting truck loading goods" loading="lazy">
                 </div>
             </div>
         </div>
@@ -676,7 +676,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="phu2hzb-container">
             <div class="phu2hzb-two-col">
                 <div class="phu2hzb-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover and foam padding in Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover and foam padding in Phusro" loading="lazy">
                 </div>
                 <div>
                     <h2 class="phu2hzb-section-title" style="text-align: left;">Engineered 5-Layer Packaging for Fragile &amp; Heavy Cargo</h2>
@@ -773,7 +773,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     <p>Our transport crews maintain dedicated transit logs and GPS communication throughout the journey from Phusro to Hazaribagh, ensuring zero jolts to your automobile or crated household cargo.</p>
                 </div>
                 <div class="phu2hzb-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service from Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service from Phusro" loading="lazy">
                 </div>
             </div>
         </div>
@@ -784,7 +784,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="phu2hzb-container">
             <div class="phu2hzb-two-col">
                 <div class="phu2hzb-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit to Hazaribagh" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit to Hazaribagh" loading="lazy">
                 </div>
                 <div>
                     <h2 class="phu2hzb-section-title" style="text-align: left;">CCL, BSF &amp; Government Transfer Support</h2>
@@ -859,7 +859,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             <div class="phu2hzb-cta">
                 <h3>Ready for a Hassle-Free Phusro to Hazaribagh Move?</h3>
                 <p>Contact Jharkhand's most trusted intercity relocation company today. Get an honest price quote, guaranteed transit timings, and complete peace of mind.</p>
-                <a href="tel:+919334800840" class="phu2hzb-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 9334800840 / 8409531615</a>
+                <a href="tel:+919835565233" class="phu2hzb-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 9835565233 / 8409531615</a>
             </div>
         </div>
     </section>

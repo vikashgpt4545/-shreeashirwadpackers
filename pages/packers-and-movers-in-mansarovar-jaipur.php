@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Mansarovar Jaipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mansarovar-jaipur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,800 - 58,000",
         "address": {
             "@type": "PostalAddress",
@@ -237,7 +237,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="msr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Mansarovar Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Mansarovar Jaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -262,7 +262,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="msr-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading and Packing Crew in Mansarovar Jaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading and Packing Crew in Mansarovar Jaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -407,7 +407,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="msr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Delicate Packing in Mansarovar Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Delicate Packing in Mansarovar Jaipur" width="580" height="380" loading="lazy">
                 </div>
                 <div class="msr-highlight" style="margin-top: 24px;">
                     <strong>Local Moving Tip for Mansarovar:</strong> For apartment relocations near B2 Bypass and Shipra Path, reserving the service elevator with your building society management 24 hours prior ensures swift, uninterrupted loading.
@@ -435,7 +435,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="msr-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading onto Closed Truck in Mansarovar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading onto Closed Truck in Mansarovar" width="580" height="380" loading="lazy">
         </div>
     </section>
 

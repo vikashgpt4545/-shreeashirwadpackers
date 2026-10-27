@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kazhakoottam Thiruvananthapuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kazhakoottam-thiruvananthapuram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>Alongside its bustling technology campuses, Kazhakoottam features premier residential infrastructure characterized by towering multistory apartment towers, modern gated villa townships, Sainik School Kazhakoottam, the University of Kerala Karyavattom campus, and the Greenfield International Stadium. Executing relocations in Kazhakoottam requires tailored logistics: coordinating high-rise elevator bookings, managing low-clearance basement parking structures, ensuring moisture-safe packing against tropical rains, and arranging flexible weekend schedules so IT professionals move without disrupting work commitments.</p>
 
     <div class="kzk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Kazhakoottam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Kazhakoottam" loading="lazy">
       <p class="kzk-image-caption">Disciplined apartment goods handling and elevator transit along NH 66 Bypass in Kazhakoottam.</p>
     </div>
 
@@ -601,7 +601,7 @@
     </div>
 
     <div class="kzk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Kazhakoottam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Kazhakoottam" loading="lazy">
       <p class="kzk-image-caption">Organized packing and secure cartoning for IT servers and workstation electronics in Kazhakoottam.</p>
     </div>
 
@@ -633,7 +633,7 @@
     </div>
 
     <div class="kzk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Kazhakoottam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Kazhakoottam" loading="lazy">
       <p class="kzk-image-caption">Protective multi-layer corrugated padding shielding polished wooden furniture during transit.</p>
     </div>
 
@@ -647,7 +647,7 @@
     <p>However, during morning and evening shift hours when thousands of IT professionals commute to Technopark Phases 1, 2, and 3, traffic density surges near Technopark main gates, Al Saj junction, and Karyavattom junction. Our operations team plans vehicle transit outside these peak commuter windows, ensuring smooth loading and prompt highway departure.</p>
 
     <div class="kzk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Kazhakoottam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Kazhakoottam" loading="lazy">
       <p class="kzk-image-caption">Weatherproof closed container trucks ensuring complete cargo security during monsoon transit.</p>
     </div>
 
@@ -737,7 +737,7 @@
   <section class="kzk-cta-banner">
     <h3>Book Your Seamless Move in Kazhakoottam Today!</h3>
     <p>Contact our dedicated Kazhakoottam IT corridor moving team for a free on-site survey, customized moving estimate, and guaranteed on-time door-to-door delivery across Kerala and India.</p>
-    <a class="kzk-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="kzk-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

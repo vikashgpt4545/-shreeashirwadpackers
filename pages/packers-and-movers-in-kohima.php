@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Kohima",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kohima",
     "priceRange": "₹4,500 - ₹75,000",
     "address": {
@@ -356,7 +356,7 @@ require_once __DIR__ . '/../includes/config.php';
   <div class="khm-hero">
     <h1>Packers and Movers in Kohima Nagaland</h1>
     <p>Premium Hill Station Relocation Services in the State Capital. Expert Household Shifting, Secretariat Transfers, Defense Moving, and Safe Mountain Transport.</p>
-    <a href="tel:+919334484001" class="khm-hero-btn">Get Instant Moving Quote: +91 93344 84001</a>
+    <a href="tel:+919835565233" class="khm-hero-btn">Get Instant Moving Quote: +91 9835565233</a>
   </div>
 
   <div class="khm-container">
@@ -371,7 +371,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
         <div>
           <div class="dmp-image-container khm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Goods Loading in Kohima Nagaland" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Goods Loading in Kohima Nagaland" loading="lazy">
           </div>
         </div>
       </div>
@@ -441,7 +441,7 @@ require_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="khm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Furniture Wrapping in Kohima Nagaland" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Furniture Wrapping in Kohima Nagaland" loading="lazy">
       </div>
     </div>
 
@@ -535,7 +535,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
         <div>
           <div class="khm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving Truck Transit in Kohima Nagaland" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving Truck Transit in Kohima Nagaland" loading="lazy">
           </div>
         </div>
       </div>
@@ -570,7 +570,7 @@ require_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="khm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Kohima Nagaland" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Kohima Nagaland" loading="lazy">
       </div>
     </div>
 

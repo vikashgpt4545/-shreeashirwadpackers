@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Pune to Hyderabad specializing in household goods shifting, IT corporate relocations, enclosed car carriers, motorcycle transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>The 560-kilometer highway journey follows National Highway 65 via Solapur and Humnabad before entering Telangana at Zahirabad. High-speed highway conditions demand engineered weight balancing, weather-sealed container bodies, and internal cargo lashing to guarantee damage-free transit.</p>
 
     <div class="pnhy-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Pune to Hyderabad interstate moving container truck" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Pune to Hyderabad interstate moving container truck" width="580" height="380" loading="lazy">
       <div class="pnhy-img-caption">Dedicated sealed container trucks operating on the Pune to Hyderabad NH65 highway corridor.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="pnhy-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Pune to Hyderabad moves" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Pune to Hyderabad moves" width="580" height="380" loading="lazy">
       <div class="pnhy-img-caption">Multi-layer protective packaging engineered for long-haul stability across the 560 km Pune-Hyderabad corridor.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="pnhy-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Pune to Hyderabad relocation" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Pune to Hyderabad relocation" width="580" height="380" loading="lazy">
       <div class="pnhy-img-caption">Specialized hydraulic car carriers ensuring damage-free transit from Pune to Hyderabad.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="pnhy-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Hyderabad" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Hyderabad" width="580" height="380" loading="lazy">
       <div class="pnhy-img-caption">Complete destination unpacking, furniture reassembly, and debris clearance service in Hyderabad.</div>
     </div>
   </section>

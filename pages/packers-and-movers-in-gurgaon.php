@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ggn-intro-p">Relocating in Gurgaon demands an exceptionally sophisticated standard of logistics execution. High-net-worth residences in signature addresses—such as DLF The Aralias, The Magnolias, The Camellias, Ambience Caitriona, Central Park Resorts, M3M Golfestate, and Ireo Grand Arch—feature imported Italian marble furnishings, grand crystal chandeliers, priceless contemporary art, high-end electronics, wine chillers, and bespoke modular cabinetry that cannot be entrusted to ordinary movers. Furthermore, premier gated condominiums enforce stringent condominium management regulations: specific service elevator time slots (strictly between 10:00 AM and 5:00 PM), mandatory lift wall padding, zero-noise packing mandates, and underground basement height restrictions. Shree Ashirwad Packers and Movers has spent over a decade perfecting high-end residential and corporate logistics across Gurgaon, ensuring white-glove precision and total peace of mind.</p>
 
         <div class="ggn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Gurgaon" width="580" height="360">
             <div class="ggn-image-caption">Dedicated white-glove loading operations and cargo bracing inside covered container fleet in Gurgaon</div>
         </div>
 
@@ -575,7 +575,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ggn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Gurgaon homes" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Gurgaon homes" width="580" height="360">
             <div class="ggn-image-caption">Multi-layer bubble wrap, foam corner protectors, and reinforced 5-ply cartons safeguard fragile luxury goods</div>
         </div>
 
@@ -642,7 +642,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ggn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Gurgaon" width="580" height="360">
             <div class="ggn-image-caption">Skilled carpenters disassembling hydraulic double beds and wardrobes for scratch-free elevator transport</div>
         </div>
 
@@ -699,7 +699,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ggn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Gurgaon" width="580" height="360">
             <div class="ggn-image-caption">Weatherproof covered container fleet providing prompt, scratch-free delivery across Gurgaon</div>
         </div>
     </section>

@@ -954,14 +954,14 @@ require_once __DIR__ . '/includes/seo.php';
     <!-- Verified Image Grid 1 -->
     <div class="r2p-image-grid">
       <div class="r2p-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed High-Cube Linehaul Container Truck for Interstate Relocation to Prayagraj" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed High-Cube Linehaul Container Truck for Interstate Relocation to Prayagraj" loading="lazy">
         <div class="r2p-image-caption">
           <span class="r2p-image-tag">Direct Linehaul Trucking</span>
           <p class="r2p-image-text">Heavy-duty weatherproof container truck navigating the 500-km NH-19 expressway to Prayagraj with zero transshipment.</p>
         </div>
       </div>
       <div class="r2p-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-Layer Protective Wrapping for Wooden Furniture Shifting to Prayagraj" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-Layer Protective Wrapping for Wooden Furniture Shifting to Prayagraj" loading="lazy">
         <div class="r2p-image-caption">
           <span class="r2p-image-tag">Solid Wood Armor</span>
           <p class="r2p-image-text">High-density EPE foam and bubble wrap shielding solid teak beds, dining tables, and executive desks against highway vibrations.</p>
@@ -1094,14 +1094,14 @@ require_once __DIR__ . '/includes/seo.php';
     <!-- Verified Image Grid 2 -->
     <div class="r2p-image-grid">
       <div class="r2p-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Sacred Temple Artifact Protective Packing in Ranchi" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Sacred Temple Artifact Protective Packing in Ranchi" loading="lazy">
         <div class="r2p-image-caption">
           <span class="r2p-image-tag">Sacred Item Armor</span>
           <p class="r2p-image-text">Customized wooden crating and bubble wrap cushioning for marble mandirs, brass murtis, and delicate glassware.</p>
         </div>
       </div>
       <div class="r2p-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Motorcycle and Scooter Packaging for Safe Transit to Prayagraj" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Motorcycle and Scooter Packaging for Safe Transit to Prayagraj" loading="lazy">
         <div class="r2p-image-caption">
           <span class="r2p-image-tag">Two-Wheeler Courier</span>
           <p class="r2p-image-text">4-layer protective padding and nylon tie-down floor lashings for scratch-free bike courier to Prayagraj.</p>

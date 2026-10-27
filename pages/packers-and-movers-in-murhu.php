@@ -314,7 +314,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-mur
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px;">
                 <div style="max-width: 420px; margin: 0 auto; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #ffffff; transition: transform 0.3s ease;">
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Murhu Khunti" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Murhu Khunti" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div style="padding: 18px; text-align: center;">
                         <h4 style="font-size: 17px; font-weight: 700; color: #1e293b; margin-bottom: 6px;">Door-to-Door Delivery Truck</h4>
@@ -324,7 +324,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-mur
 
                 <div style="max-width: 420px; margin: 0 auto; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #ffffff; transition: transform 0.3s ease;">
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Bubble Wrap Packing in Murhu" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Bubble Wrap Packing in Murhu" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div style="padding: 18px; text-align: center;">
                         <h4 style="font-size: 17px; font-weight: 700; color: #1e293b; margin-bottom: 6px;">5-Layer Shockproof Packing</h4>
@@ -334,7 +334,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-mur
 
                 <div style="max-width: 420px; margin: 0 auto; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #ffffff; transition: transform 0.3s ease;">
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Bike and Two Wheeler Carrier in Murhu" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Bike and Two Wheeler Carrier in Murhu" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div style="padding: 18px; text-align: center;">
                         <h4 style="font-size: 17px; font-weight: 700; color: #1e293b; margin-bottom: 6px;">Dedicated Motorcycle Transport</h4>
@@ -344,7 +344,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-mur
 
                 <div style="max-width: 420px; margin: 0 auto; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #ffffff; transition: transform 0.3s ease;">
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Long Distance Truck Murhu" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Long Distance Truck Murhu" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div style="padding: 18px; text-align: center;">
                         <h4 style="font-size: 17px; font-weight: 700; color: #1e293b; margin-bottom: 6px;">Interstate Moving Carriers</h4>

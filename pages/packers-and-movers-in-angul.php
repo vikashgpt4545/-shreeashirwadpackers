@@ -366,7 +366,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -528,7 +528,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="agl-body-p">Whether you are relocating family households in upscale neighborhoods like Amalapada, shifting executive residences inside the manicured avenues of Nalconagar, moving plant engineers near Hulurisingha, or transporting commercial freight along the NH-55 corridor, Shree Ashirwad Packers and Movers delivers prompt, zero-damage execution.</p>
 
                 <div class="agl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Angul Odisha">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Angul Odisha">
                     <div class="agl-image-caption">Dedicated logistics crew organizing furniture and boxed belongings in Angul</div>
                 </div>
 
@@ -572,7 +572,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="agl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Angul">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Angul">
                     <div class="agl-image-caption">Multi-layer bubble wrap, edge protectors, and moisture barriers safeguarding sensitive household assets</div>
                 </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="agl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Angul">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Angul">
                     <div class="agl-image-caption">Systematic dismantling and padded wrapping of wooden furniture by trained carpentry technicians</div>
                 </div>
 
@@ -704,7 +704,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="agl-body-p">Our regular container linehaul fleet operates round-the-clock runs connecting Angul to the capital authority hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a> (~130 km), the judicial center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack</a> (~115 km), the western industrial center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur" style="color: #1e3a8a; font-weight: 600;">Sambalpur</a> (~150 km), the steel city of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">Rourkela</a>, the southern trade hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur" style="color: #1e3a8a; font-weight: 600;">Berhampur</a>, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
 
                 <div class="agl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Angul">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Angul">
                     <div class="agl-image-caption">Weatherproof sealed container vehicle operating interstate highway routes across Central Odisha</div>
                 </div>
 
@@ -770,7 +770,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> NH-55 Bypass, Near Nalconagar Gate, Angul</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="agl-cta-button">Request Free Moving Quote</a>

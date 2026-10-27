@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Similarly, hand-carved stone deities and marble mandirs have high density and natural geological fracture veins. When transported flat on truck beds, highway undulations induce harmonic vibrations that snap slender pillars and relief carvings. Our master carpenters construct custom-engineered pine wood skeleton frames with internal high-density EVA foam cushions that float delicate assets above direct road impact shocks.</p>
 
         <div class="faps-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Multi-layer precision protective bubble wrapping for fine glassware and crystal heirlooms" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Multi-layer precision protective bubble wrapping for fine glassware and crystal heirlooms" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 2: Artifact Categories Handled -->
@@ -555,7 +555,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="faps-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Micro-cell bubble wrap and tissue interleaving for delicate antique porcelain and chinaware" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Micro-cell bubble wrap and tissue interleaving for delicate antique porcelain and chinaware" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Stage Moving Protocol -->
@@ -591,7 +591,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="faps-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Heavy gauge wooden skeleton crating for fragile marble statues, mirrors, and televisions" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Heavy gauge wooden skeleton crating for fragile marble statues, mirrors, and televisions" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -700,7 +700,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="faps-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Air-ride suspension container trucks for safe intercity fragile antique and piano transport" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Air-ride suspension container trucks for safe intercity fragile antique and piano transport" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 6: Preservation Guidelines -->

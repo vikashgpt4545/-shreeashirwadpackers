@@ -174,7 +174,7 @@ $meta_keywords = "professional packers and movers in ranchi, professional movers
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -919,7 +919,7 @@ $meta_keywords = "professional packers and movers in ranchi, professional movers
 
           <div>
             <div class="pro-img-frame">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" 
                    alt="Professional Loading Crew and Movers in Ranchi Shree Ashirwad" 
                    loading="lazy" 
                    width="540" 
@@ -1126,7 +1126,7 @@ $meta_keywords = "professional packers and movers in ranchi, professional movers
         <div class="pro-two-col-reverse">
           <div>
             <div class="pro-img-frame">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" 
                    alt="Verified Container Truck Shree Ashirwad Packers in Ranchi Jharkhand" 
                    loading="lazy" 
                    width="540" 

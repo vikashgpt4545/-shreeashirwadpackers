@@ -20,7 +20,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Dhamtari",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhamtari",
-        "telephone": "+919334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -417,7 +417,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Under the operational leadership of our regional center at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Dhamtari branch delivers comprehensive residential, corporate, and agro-commercial shifting services. Whether you are moving a family residence from Gokulpur or Dani Tola to Raipur, relocating irrigation engineers near Gangrel Dam, or shipping agricultural merchandise to interstate trade centers, we protect your cargo using five-ply corrugated cartons, shock-absorbing bubble wrap, moisture-proof plastic stretch film, and heavy-duty tie-down strapping. You can check transparent relocation estimates at any time via our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live moving cost calculator</a>.</p>
 
         <div class="dmt-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Dhamtari by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Dhamtari by Shree Ashirwad Packers and Movers">
             <div class="dmt-img-caption">Multi-layer protective bubble wrap and corrugated packing for home shifting in Dhamtari</div>
         </div>
 
@@ -476,7 +476,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="dmt-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Dhamtari">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Dhamtari">
             <div class="dmt-img-caption">High-density bubble rolls, corrugated cartons, and eco-friendly stretch film used in Dhamtari</div>
         </div>
     </section>
@@ -592,7 +592,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="dmt-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Dhamtari">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Dhamtari">
             <div class="dmt-img-caption">Sealed container trucks providing 100% weather and dust protection across Central Chhattisgarh</div>
         </div>
     </section>
@@ -639,7 +639,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="dmt-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Dhamtari">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Dhamtari">
             <div class="dmt-img-caption">Hydraulic car carriers ensuring safe loading and scratch-free vehicle transport</div>
         </div>
     </section>
@@ -678,7 +678,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="dmt-cta-box">
         <h3>Book Your Stress-Free Move in Dhamtari Today!</h3>
         <p>Connect with our Dhamtari relocation manager for an accurate moving estimate and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="dmt-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="dmt-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

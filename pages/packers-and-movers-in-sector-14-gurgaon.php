@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Sector 14 Gurgaon",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -476,7 +476,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <h1 class="s14g-hero-title">Packers and Movers in Sector 14 Gurgaon</h1>
         <p class="s14g-hero-subtitle">Specialized Household Moving, Independent Kothi & Builder Floor Shifting across Old Delhi Road, Sector 14 Main Market, Civil Lines & MG Road.</p>
         <div class="s14g-cta-group">
-            <a href="tel:+919334404050" class="s14g-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="s14g-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="s14g-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -493,7 +493,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="s14g-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, our Sector 14 branch has served local families, businessmen, and civil service officers for over a decade. We combine traditional white-glove packaging craftsmanship with modern container vehicles and hydraulic handling dollies. Furthermore, our inter-state network seamlessly connects Sector 14 households to Eastern India via our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, backed by comprehensive transit insurance and clear written quotes.</p>
 
         <div class="s14g-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting in Sector 14 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting in Sector 14 Gurgaon" width="580" height="360">
             <div class="s14g-image-caption">Experienced moving team loading padded furniture and household cartons for an independent house move in Sector 14 Gurgaon</div>
         </div>
     </section>
@@ -549,7 +549,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="s14g-intro-p">In addition to residential moving, our commercial logistics crew manages office shifting, boutique retail store relocations, and coaching institute equipment moving around Sector 14 Main Market. We schedule retail moves during off-hours to avoid footfall disruption, ensuring complete display reassembly before business reopening.</p>
 
         <div class="s14g-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials for household moving in Sector 14 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials for household moving in Sector 14 Gurgaon" width="580" height="360">
             <div class="s14g-image-caption">High-density bubble rolls, heavy-duty carton boxes, and corrugated corner guards ready for packing in Sector 14</div>
         </div>
     </section>
@@ -657,7 +657,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="s14g-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry and furniture dismantling in Sector 14 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry and furniture dismantling in Sector 14 Gurgaon" width="580" height="360">
             <div class="s14g-image-caption">Skilled carpenters carefully disassembling solid wooden double beds and wardrobes for scratch-free transit</div>
         </div>
     </section>
@@ -695,7 +695,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="s14g-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in Sector 14 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in Sector 14 Gurgaon" width="580" height="360">
             <div class="s14g-image-caption">Weatherproof container trucks ensuring clean, secure, and on-time door-to-door shifting in Sector 14 Gurgaon</div>
         </div>
     </section>

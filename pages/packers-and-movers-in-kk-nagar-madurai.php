@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-madurai";
         "name": "Shree Ashirwad Packers and Movers KK Nagar Madurai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-madurai";
         <p>The residential fabric of KK Nagar is home to senior advocates, judicial magistrates, prominent surgeons, university professors, and successful business executives. Living in contemporary gated apartment complexes or grand independent duplex villas, residents in KK Nagar demand punctual, courteous, and impeccably organized relocation services. Shree Ashirwad Packers and Movers has established a stellar reputation across KK Nagar by providing white-glove household shifting designed for discerning clients.</p>
 
         <div class="kkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and shifting in KK Nagar Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and shifting in KK Nagar Madurai" width="580" height="387" loading="lazy">
             <div class="kkm-image-caption">Apartment freight handling and professional loading operations in KK Nagar Madurai.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-madurai";
         </div>
 
         <div class="kkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in KK Nagar Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in KK Nagar Madurai" width="580" height="387" loading="lazy">
             <div class="kkm-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in KK Nagar.</div>
         </div>
 
@@ -596,7 +596,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-madurai";
         <p>Our commercial moving division provides planned transitions tailored to corporate schedules. We manage commercial moves over weekend windows or evening hours, ensuring that consultation rooms, diagnostic equipment, workstations, and executive desks are shifted and operational without interfering with patient appointments or client engagements.</p>
 
         <div class="kkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office workstation and clinical equipment packing in KK Nagar Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office workstation and clinical equipment packing in KK Nagar Madurai" width="580" height="387" loading="lazy">
             <div class="kkm-image-caption">Clinical diagnostic apparatus and commercial office relocation handled securely in KK Nagar.</div>
         </div>
 
@@ -720,7 +720,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-madurai";
         </ol>
 
         <div class="kkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in KK Nagar Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in KK Nagar Madurai" width="580" height="387" loading="lazy">
             <div class="kkm-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Madurai corridors.</div>
         </div>
     </section>
@@ -777,7 +777,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-madurai";
     <div class="kkm-cta-box">
         <h3>Book Your KK Nagar Move with Proven Specialists</h3>
         <p>Get a fixed-price written quotation backed by our zero-damage guarantee. Fully licensed, insured, and experienced professionals ready to assist your relocation.</p>
-        <a href="tel:+919334404050" class="kkm-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="kkm-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

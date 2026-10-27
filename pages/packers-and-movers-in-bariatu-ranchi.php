@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Bariatu Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bariatu-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -433,7 +433,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Bariatu Ranchi</h1>
         <p>Premium residential shifting, medical faculty relocations, clinical equipment logistics, and vehicle transportation across Bariatu, RIMS Campus, Bariatu Housing Colony, Cheshire Home Road, Tagore Hill, and Chiraundi Science City. Trust Ranchi's highest-rated local movers for effortless relocation.</p>
-        <a href="tel:+919334404052" class="hl-brt-cta-btn">&#128222; Call Now: +91 93344 04052</a>
+        <a href="tel:+919835565233" class="hl-brt-cta-btn">&#128222; Call Now: +91 9835565233</a>
       </div>
       <div class="hl-brt-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +441,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Bariatu Road near RIMS, Ranchi
         </div>
         <div class="hl-brt-contact-item">
-          <span>Direct Helpline:</span> +91 93344 04052
+          <span>Direct Helpline:</span> +91 9835565233
         </div>
         <div class="hl-brt-contact-item">
           <span>Work Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -458,7 +458,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Constrained Card Image 1 -->
   <div class="hl-brt-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Bariatu and RIMS Ranchi">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Bariatu and RIMS Ranchi">
     <div class="hl-brt-img-caption">Dedicated closed-body moving fleet serving residential colonies and medical enclaves across Bariatu, Ranchi.</div>
   </div>
 
@@ -505,7 +505,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 2 -->
     <div class="hl-brt-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Specialized Furniture Packaging for Doctor Residences in Bariatu Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Specialized Furniture Packaging for Doctor Residences in Bariatu Ranchi">
       <div class="hl-brt-img-caption">Multi-layer protective bubble wrap, foam edge protectors, and stretch film applied to premium furniture.</div>
     </div>
 
@@ -587,7 +587,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 3 -->
     <div class="hl-brt-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Secure Two-Wheeler and Motorbike Transportation in Bariatu Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Secure Two-Wheeler and Motorbike Transportation in Bariatu Ranchi">
       <div class="hl-brt-img-caption">Specialized shock-resistant packaging and secure tie-downs ensuring 100% scratch-free bike shipping.</div>
     </div>
 
@@ -651,7 +651,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 4 -->
     <div class="hl-brt-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Bariatu Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Bariatu Ranchi">
       <div class="hl-brt-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services in Bariatu.</div>
     </div>
 

@@ -134,14 +134,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic Car Carrier Loading and Vehicle Shifting in Ranchi - Shree Ashirwad Packers" title="Vehicle Shifting Services in Ranchi - Professional Car Carrier Loading" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic Car Carrier Loading and Vehicle Shifting in Ranchi - Shree Ashirwad Packers" title="Vehicle Shifting Services in Ranchi - Professional Car Carrier Loading" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">100%</span>
                 <span class="badge-txt">Enclosed Carriers</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle and Scooter Carrier in Jharkhand - Shree Ashirwad Packers" title="Two-Wheeler Motorcycle Carrier Transit" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle and Scooter Carrier in Jharkhand - Shree Ashirwad Packers" title="Two-Wheeler Motorcycle Carrier Transit" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -276,14 +276,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle Bike Protective Packing and Crate Wrapping in Ranchi - Shree Ashirwad Packers" title="Specialized Bike Packing and Two-Wheeler Parcel Service" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle Bike Protective Packing and Crate Wrapping in Ranchi - Shree Ashirwad Packers" title="Specialized Bike Packing and Two-Wheeler Parcel Service" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">Crated</span>
                 <span class="badge-txt">Zero Scratch Protection</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and EV Two Wheeler Safe Transit Packing in Jharkhand - Shree Ashirwad Packers" title="Scooter and EV Two-Wheeler Protective Wrap" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and EV Two Wheeler Safe Transit Packing in Jharkhand - Shree Ashirwad Packers" title="Scooter and EV Two-Wheeler Protective Wrap" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -492,16 +492,16 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Vehicle Fleet & Transit Visual Showcase -->
         <div class="infra-images-grid" style="margin-top: 36px;">
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Enclosed Container Truck in Ranchi - Shree Ashirwad Packers" title="Safe Transit Enclosed Vehicle Carrier Truck in Ranchi" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Enclosed Container Truck in Ranchi - Shree Ashirwad Packers" title="Safe Transit Enclosed Vehicle Carrier Truck in Ranchi" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Moving Truck Jharkhand - Shree Ashirwad Packers" title="Door-to-Door Vehicle Delivery Truck in Jharkhand" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Moving Truck Jharkhand - Shree Ashirwad Packers" title="Door-to-Door Vehicle Delivery Truck in Jharkhand" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof Container Vehicle Loading in Jharkhand - Shree Ashirwad Packers" title="Waterproof Container Automobile Loading" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof Container Vehicle Loading in Jharkhand - Shree Ashirwad Packers" title="Waterproof Container Automobile Loading" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew - Shree Ashirwad Packers Ranchi" title="Professional Vehicle Loading Crew in Ranchi" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew - Shree Ashirwad Packers Ranchi" title="Professional Vehicle Loading Crew in Ranchi" width="400" height="260" loading="lazy">
           </div>
         </div>
 

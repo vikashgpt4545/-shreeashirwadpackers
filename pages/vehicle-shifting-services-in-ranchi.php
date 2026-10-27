@@ -160,7 +160,7 @@ $meta_keywords = "vehicle shifting services in ranchi, vehicle shifting in ranch
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -798,7 +798,7 @@ $meta_keywords = "vehicle shifting services in ranchi, vehicle shifting in ranch
             </p>
           </div>
           <div class="vsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading in Jharkhand - Shree Ashirwad Packers" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading in Jharkhand - Shree Ashirwad Packers" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
       </div>
@@ -878,7 +878,7 @@ $meta_keywords = "vehicle shifting services in ranchi, vehicle shifting in ranch
 
         <div class="vsr-split-row">
           <div class="vsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-Wheeler Motorcycle Carrier Transit in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-Wheeler Motorcycle Carrier Transit in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
           <div>
             <h3 style="font-size: 1.4rem; color: #0f223d; font-weight: 700; margin-bottom: 12px;">1. Closed Hydraulic Multi-Car Carriers</h3>
@@ -906,13 +906,13 @@ $meta_keywords = "vehicle shifting services in ranchi, vehicle shifting in ranch
             </ul>
           </div>
           <div class="vsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
 
         <div class="vsr-split-row" style="margin-top: 50px;">
           <div class="vsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Bike Packing by Shree Ashirwad Packers in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Bike Packing by Shree Ashirwad Packers in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
           <div>
             <h3 style="font-size: 1.4rem; color: #0f223d; font-weight: 700; margin-bottom: 12px;">3. Combined Household + Vehicle Move in One Container</h3>
@@ -1123,7 +1123,7 @@ $meta_keywords = "vehicle shifting services in ranchi, vehicle shifting in ranch
             </ul>
           </div>
           <div class="vsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
       </div>
@@ -1134,7 +1134,7 @@ $meta_keywords = "vehicle shifting services in ranchi, vehicle shifting in ranch
       <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 20px;">
         <div class="rsr-split-row">
           <div class="vsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="IBA Approved Door-to-Door Delivery Truck in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="IBA Approved Door-to-Door Delivery Truck in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
           <div>
             <span style="color: #ff6a28; font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">100% Claim Reimbursement</span>

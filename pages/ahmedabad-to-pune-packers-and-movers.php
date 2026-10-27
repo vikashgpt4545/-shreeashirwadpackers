@@ -28,7 +28,7 @@ require_once __DIR__ . '/../includes/config.php';
         "description": "Licensed interstate household packing, corporate IT relocation, and vehicle transportation between Ahmedabad, Gujarat and Pune, Maharashtra.",
         "url": "<?php echo SITE_BASE_URL; ?>/ahmedabad-to-pune-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
@@ -336,7 +336,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our dedicated transport fleet operates on tight express schedules, traversing Vadodara, Surat, Vapi, and the Mumbai bypass before smoothly scaling the Western Ghats into Pune. With dedicated container trucks and experienced highway drivers, your household goods and commercial assets arrive safely within an expedited 24 to 48 hours without risky transshipment or intermediate offloading.</p>
 
         <div class="ahpn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ahmedabad to Pune Container Truck Transit" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ahmedabad to Pune Container Truck Transit" width="580" height="387" loading="lazy">
             <div class="ahpn-img-caption">Sealed container trucks providing direct, rapid highway transit between Ahmedabad and Pune.</div>
         </div>
 
@@ -359,7 +359,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>From fragile porcelain dinner sets, glassware, and smart 4K TVs to heavy solid wood furniture and double-door refrigerators, our skilled packing team systematically insulates each item before securing it inside our containerized vehicles.</p>
 
         <div class="ahpn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Standards for Ahmedabad to Pune Move" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Standards for Ahmedabad to Pune Move" width="580" height="387" loading="lazy">
             <div class="ahpn-img-caption">Multi-layer bubble wrapping, heavy corrugated cartons, and foam corners ensure complete transit safety.</div>
         </div>
 
@@ -450,7 +450,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Before loading in Ahmedabad, our automotive inspector conducts an in-depth digital inspection covering odometer readings, fuel status, and exterior condition. Your vehicle is safely driven onto hydraulic ramps, secured using industrial nylon wheel-locks, and transported under active marine insurance coverage.</p>
 
         <div class="ahpn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Ahmedabad to Pune" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Ahmedabad to Pune" width="580" height="387" loading="lazy">
             <div class="ahpn-img-caption">Dedicated enclosed vehicle trailers providing door-to-door scratchless automobile and bike transport.</div>
         </div>
 
@@ -493,7 +493,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="ahpn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Pune" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Pune" width="580" height="387" loading="lazy">
             <div class="ahpn-img-caption">Professional destination unboxing, room-specific placement, furniture assembly, and packaging waste disposal.</div>
         </div>
     </section>

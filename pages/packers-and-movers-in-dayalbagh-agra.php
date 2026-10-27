@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Dayalbagh Agra",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="dbg-hero-title">Packers and Movers in Dayalbagh Agra</h1>
         <p class="dbg-hero-subtitle">Peaceful Residential Relocation, DEI Campus Faculty Shifting, Community Colony Moving &amp; Vehicle Transport Across Northern Agra</p>
         <div class="dbg-cta-group">
-            <a href="tel:+919334404050" class="dbg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="dbg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dbg-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -508,7 +508,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="dbg-intro-p">Relocating within or out of Dayalbagh demands a deep appreciation for the neighborhood’s serene, community-oriented culture. Unlike conventional bustling commercial zones, Dayalbagh’s residential sectors—such as Prem Nagar, Vidyut Nagar, Soami Nagar, Swadeshi Basti, and adjacent modern apartment developments—require disciplined, quiet, and courteous moving practices. Moving crews must operate with utmost respect for community timings, residential privacy, and clean environments.</p>
 
         <div class="dbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Organized Household Loading in Dayalbagh Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Organized Household Loading in Dayalbagh Agra" width="580" height="380" loading="lazy">
             <p class="dbg-image-caption">Our professional loading crew executing quiet, systematic household loading in the peaceful colonies of Dayalbagh.</p>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="dbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Eco-Friendly Protective Packaging in Dayalbagh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Eco-Friendly Protective Packaging in Dayalbagh" width="580" height="380" loading="lazy">
             <p class="dbg-image-caption">High-grade 5-ply cartons and air-bubble cushioning safeguarding fragile household items in Dayalbagh.</p>
         </div>
     </section>
@@ -688,7 +688,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="dbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Dayalbagh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Dayalbagh" width="580" height="380" loading="lazy">
             <p class="dbg-image-caption">Professional carpentry crew carefully dismantling wooden furniture and bed frames in Dayalbagh Agra.</p>
         </div>
     </section>
@@ -701,7 +701,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="dbg-intro-p">Via the Pohia Ghat and Yamuna riverfront bypass roads, container vehicles easily connect to the Yamuna Expressway interchange, enabling rapid 2.5-hour transit to Greater Noida, Noida, and Delhi NCR. Relocations toward central Uttar Pradesh join the Agra-Lucknow Expressway, delivering same-day transit to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a> and seamless highway connectivity toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>, Prayagraj, Varanasi, and our central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
         <div class="dbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed Door-to-Door Delivery Fleet in Dayalbagh Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed Door-to-Door Delivery Fleet in Dayalbagh Agra" width="580" height="380" loading="lazy">
             <p class="dbg-image-caption">Our weather-resistant closed container truck fleet ensuring clean, protected door-to-door deliveries from Dayalbagh.</p>
         </div>
 
@@ -768,7 +768,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Schedule Your Smooth Move in Dayalbagh Agra</h3>
         <p>Contact our Dayalbagh relocation team today for a tailored quote, expert packing assistance, and reliable doorstep moving experience.</p>
         <div class="dbg-cta-group">
-            <a href="tel:+919334404050" class="dbg-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="dbg-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dbg-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

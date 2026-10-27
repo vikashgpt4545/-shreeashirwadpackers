@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Sector 21 Faridabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -472,7 +472,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="s21f-hero-title">Packers and Movers in Sector 21 Faridabad</h1>
         <p class="s21f-hero-subtitle">Reliable apartment shifting, kothi relocations, furniture carpentry, and inter-state logistics across Sector 21A, 21B, 21C, 21D and Badkhal Lake corridors.</p>
         <div class="s21f-cta-group">
-            <a href="tel:+919334404050" class="s21f-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="s21f-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="s21f-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s21f-intro-p">Comprising four distinct residential quadrants—Sector 21A, 21B, 21C, and 21D—this micro-region offers an appealing balance of peaceful greenery and prime urban connectivity. While Sectors 21A and 21B feature grand independent bungalows, private villas, and low-density builder floors, Sectors 21C and 21D are prominent for their multi-storey cooperative group housing societies (CGHS), high-rise apartments, and vibrant local markets near the Asian Institute of Medical Sciences (AIMS Hospital) and Badkhal Mor Metro Station.</p>
 
         <div class="s21f-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Sector 21 Faridabad container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Sector 21 Faridabad container truck" width="580" height="386" loading="lazy">
             <p class="s21f-image-caption">Systematic loading and protective padding of residential goods in Sector 21 Faridabad.</p>
         </div>
 
@@ -525,7 +525,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s21f-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Sector 21 Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Sector 21 Faridabad" width="580" height="386" loading="lazy">
             <p class="s21f-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s21f-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Sector 21 Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Sector 21 Faridabad" width="580" height="386" loading="lazy">
             <p class="s21f-image-caption">Precision furniture disassembly and wrapped timber protection for Sector 21 homes.</p>
         </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s21f-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Sector 21 Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Sector 21 Faridabad" width="580" height="386" loading="lazy">
             <p class="s21f-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

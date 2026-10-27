@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Christian Basti Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-christian-basti-guwahati",
     "priceRange": "₹4,200 - ₹65,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="cbg-container">
       <h1>Packers and Movers in Christian Basti Guwahati</h1>
       <p>Premier corporate office relocation, super-specialty healthcare equipment moving, executive apartment shifting, and pan-India container transit in Christian Basti.</p>
-      <a href="tel:+919334484001" class="cbg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="cbg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Christian Basti occupies an illustrious position as the premier financial, corporate, and healthcare epicenter of Guwahati, positioned strategically along the bustling GS Road corridor between Bhangagarh and Walford. Home to landmark corporate towers including Shine Tower, Dona Planet, and IDBI Regional Building, regional headquarters of multinational banking institutions, super-specialty hospitals like Narayana and Apollo Clinic, and upscale high-rise residential towers, Christian Basti represents modern urban Guwahati at its most dynamic. Relocating a business office, medical clinic, or executive home in Christian Basti demands strict adherence to building protocols, elevator scheduling, zero-downtime execution, and specialized anti-vibration crating.</p>
 
       <div class="cbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading corporate apartment goods Christian Basti" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading corporate apartment goods Christian Basti" width="580" height="360" loading="lazy">
       </div>
 
       <div class="cbg-grid-2">
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From modern high-rise apartments to corporate IT infrastructure moves, our services cover every relocation requirement:</p>
 
       <div class="cbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Christian Basti" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Christian Basti" width="580" height="360" loading="lazy">
       </div>
 
       <div class="cbg-grid-cards">
@@ -526,7 +526,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers adheres to a disciplined operational workflow designed to guarantee complete safety and timeliness:</p>
 
       <div class="cbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Christian Basti" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Christian Basti" width="580" height="360" loading="lazy">
       </div>
 
       <div class="cbg-grid-cards">
@@ -559,7 +559,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all major commercial and residential nodes in Christian Basti:</p>
 
       <div class="cbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Christian Basti" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Christian Basti" width="580" height="360" loading="lazy">
       </div>
 
       <div class="cbg-grid-cards">

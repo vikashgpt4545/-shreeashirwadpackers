@@ -479,7 +479,7 @@ require_once "includes/config.php";
 
                 <!-- First Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad Packers door to door delivery truck in Jagannathpur West Singhbhum">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad Packers door to door delivery truck in Jagannathpur West Singhbhum">
                 </div>
 
                 <!-- Comprehensive Services Offered -->
@@ -528,7 +528,7 @@ require_once "includes/config.php";
 
                 <!-- Second Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer bubble wrap and sturdy carton packing for home relocation in Jagannathpur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer bubble wrap and sturdy carton packing for home relocation in Jagannathpur">
                 </div>
 
                 <!-- Advanced Packaging Standards -->
@@ -549,7 +549,7 @@ require_once "includes/config.php";
 
                 <!-- Third Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed carrier truck for safe relocation from Jagannathpur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed carrier truck for safe relocation from Jagannathpur">
                 </div>
 
                 <!-- Pricing Chart Table -->
@@ -612,7 +612,7 @@ require_once "includes/config.php";
 
                 <!-- Fourth Whitelisted Image (3:4 Ratio) -->
                 <div class="img-container-3-4">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Clean and secure warehouse storage facility for household and business inventory">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Clean and secure warehouse storage facility for household and business inventory">
                 </div>
 
                 <!-- Shree Ashirwad vs Unverified Movers Table -->

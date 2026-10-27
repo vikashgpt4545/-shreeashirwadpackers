@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Ranchi to Phusro",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹7,000 - ₹35,000",
         "address": {
             "@type": "PostalAddress",
@@ -632,7 +632,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <p class="hero-lead">Professional, damage-free household relocation, office moving, vehicle transport, and CCL employee quarter transfers from Ranchi to Phusro, Bermo, and DVC coalfield belt.</p>
             <div class="hero-cta-group">
                 <a href="#quick-quote" class="btn-primary-hero"><i class="fa-solid fa-calculator"></i> Get Free Instant Quote</a>
-                <a href="tel:+919334800840" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91-9334800840</a>
+                <a href="tel:+919835565233" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91 9835565233</a>
             </div>
         </div>
         <div class="hero-form-card" id="quick-quote">
@@ -687,7 +687,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 1 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Ranchi to Phusro relocation" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Ranchi to Phusro relocation" loading="lazy">
                     <div class="photo-caption">Figure 1: Heavy-duty closed container vehicle loading household goods in Ranchi for safe highway transit to Phusro and Bermo.</div>
                 </div>
 
@@ -717,7 +717,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 2 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective 5-layer packing for home appliances in Ranchi" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective 5-layer packing for home appliances in Ranchi" loading="lazy">
                     <div class="photo-caption">Figure 2: 5-layer protective packing applied to heavy home appliances and fragile furniture before dispatch to Phusro.</div>
                 </div>
 
@@ -788,7 +788,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 3 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Secure two wheeler bike parcel from Ranchi to Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Secure two wheeler bike parcel from Ranchi to Phusro" loading="lazy">
                     <div class="photo-caption">Figure 3: Dedicated two-wheeler parcel carrier service with multi-layer bubble wrap, wheel-chock restraints, and transit insurance.</div>
                 </div>
 
@@ -817,7 +817,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 4 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Ranchi to Phusro relocations" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Ranchi to Phusro relocations" loading="lazy">
                     <div class="photo-caption">Figure 4: GPS-tracked, waterproof closed container trucks deployed exclusively on the Ranchi - Ramgarh - Phusro corridor.</div>
                 </div>
 
@@ -885,7 +885,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
 
                 <h2>Book Your Stress-Free Ranchi to Phusro Relocation Today</h2>
-                <p>Relocating between Ranchi and Phusro does not have to be stressful or overwhelming. Partner with Jharkhand's most trusted name in domestic and corporate moving. Contact our relocation consultants right now at <strong>+91-9334800840</strong> or submit our quick quotation form above to reserve your moving slot and receive a complimentary pre-move survey.</p>
+                <p>Relocating between Ranchi and Phusro does not have to be stressful or overwhelming. Partner with Jharkhand's most trusted name in domestic and corporate moving. Contact our relocation consultants right now at <strong>+91 9835565233</strong> or submit our quick quotation form above to reserve your moving slot and receive a complimentary pre-move survey.</p>
 
                 <h2>Connected Phusro Relocation Corridors</h2>
                 <p>We provide regular containerized moving services connecting Phusro to major national and regional hubs:</p>

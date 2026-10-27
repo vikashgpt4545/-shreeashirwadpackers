@@ -293,7 +293,7 @@ require_once __DIR__ . '/includes/seo.php';
 
       <!-- Hero Visual Section -->
       <figure style="margin: 0 auto 35px; max-width: 550px; text-align: center;">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Bokaro to Kolkata relocation" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Bokaro to Kolkata relocation" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
         <figcaption style="font-size: 0.88rem; color: #64748b; margin-top: 8px; text-align: center;">
           Weatherproof high-capacity container truck prepared for linehaul transit between Bokaro Steel City and Kolkata.
         </figcaption>
@@ -415,11 +415,11 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Supporting Visual Section -->
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; margin: 35px 0;">
           <div>
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Moisture proof packing for Bokaro to Kolkata moving" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Moisture proof packing for Bokaro to Kolkata moving" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
             <p style="font-size: 0.9rem; color: #64748b; margin-top: 8px; text-align: center;">Multi-layer bubble wrap and waterproof stretch film applied to cartons destined for Kolkata.</p>
           </div>
           <div>
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multi-storey apartment goods delivery in Kolkata" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multi-storey apartment goods delivery in Kolkata" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
             <p style="font-size: 0.9rem; color: #64748b; margin-top: 8px; text-align: center;">Trained crews equipped for high-rise apartment elevator and staircase deliveries across Kolkata.</p>
           </div>
         </div>

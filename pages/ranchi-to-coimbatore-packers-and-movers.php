@@ -754,7 +754,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Shree Ashirwad Packers and Movers maintains an unyielding <strong>zero-transshipment commitment</strong>. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--rcb-cyan); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also manage high-frequency reciprocal return relocations on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/coimbatore-to-ranchi-packers-and-movers" style="color: var(--rcb-cyan); font-weight: 600; text-decoration: underline;">Coimbatore to Ranchi packers and movers</a> corridor with equal dedication. Your shipment is sealed inside an exclusive, locked metal container in Ranchi and unsealed only at your final address in Coimbatore, eliminating the risk of intermediate mishandling.</p>
             </div>
             <div class="rcb-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Coimbatore Packers and Movers container truck transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Coimbatore Packers and Movers container truck transit" loading="lazy">
             </div>
         </div>
     </section>
@@ -847,7 +847,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rcb-section rcb-section-light">
         <div class="rcb-grid-2">
             <div class="rcb-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing for Ranchi to Coimbatore moving" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing for Ranchi to Coimbatore moving" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rcb-cyan); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Robust Packaging Engineering</span>
@@ -957,7 +957,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Whether delivering to RS Puram, Saravanampatti, or Peelamedu, we provide convenient doorstep drop-off, ensuring your car or bike arrives clean, scratch-free, and ready to drive.</p>
             </div>
             <div class="rcb-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Coimbatore" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Coimbatore" loading="lazy">
             </div>
         </div>
     </section>
@@ -1006,7 +1006,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rcb-section rcb-section-light">
         <div class="rcb-grid-2">
             <div class="rcb-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Coimbatore Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Coimbatore Shree Ashirwad Packers" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rcb-cyan); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Why Trust Shree Ashirwad</span>

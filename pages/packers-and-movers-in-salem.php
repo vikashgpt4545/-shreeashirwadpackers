@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-salem";
         "name": "Shree Ashirwad Packers and Movers Salem",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-salem";
         <p>Relocating in Salem demands an agile, versatile logistics partner. Servicing prestigious residential communities in Fairlands, Alagapuram, and Brindavan Road requires pristine, padded moving trucks and respectful crew conduct. On the other hand, managing heavy industrial cargo, executive transfers for SAIL Steel Plant township in Mohan Nagar, and sago commodity transport requires heavy enclosed container trucks with hydraulic tailgates. Shree Ashirwad Packers and Movers delivers tailored shifting solutions designed to meet the rigorous demands of Salem residents and corporations alike.</p>
 
         <div class="slm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Salem Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Salem Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="slm-image-caption">Professional household loading and apartment shifting operations in Salem.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-salem";
         </div>
 
         <div class="slm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Salem Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Salem Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="slm-image-caption">Corporate office equipment and precision apparatus relocation by Shree Ashirwad in Salem.</div>
         </div>
 
@@ -594,7 +594,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-salem";
         <p>Our expert moving crews utilize a four-layer defensive packing system. Polished teak and rosewood furniture are first padded with breathable soft cotton quilts, wrapped in high-density air bubble wrap, reinforced with thick corrugated corner edge boards, and enveloped in tear-resistant stretch wrap. This protects against scratches, humidity fluctuations, and highway transit vibrations.</p>
 
         <div class="slm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Salem Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Salem Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="slm-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Salem.</div>
         </div>
 
@@ -720,7 +720,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-salem";
         </ol>
 
         <div class="slm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Salem Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Salem Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="slm-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Salem corridors.</div>
         </div>
     </section>
@@ -777,7 +777,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-salem";
     <div class="slm-cta-box">
         <h3>Move Safely in Salem with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero surprise costs. Licensed, fully insured moving specialists ready to assist your household or office relocation today.</p>
-        <a href="tel:+919334404050" class="slm-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="slm-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

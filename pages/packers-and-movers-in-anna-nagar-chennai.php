@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-chennai";
         "name": "Shree Ashirwad Packers and Movers Anna Nagar Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -516,7 +516,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-chennai";
         <h1>Packers and Movers in Anna Nagar Chennai | Trusted Shifting Services</h1>
         <p>Premium home shifting, luxury villa relocation, antique furniture crating, and vehicle transport across Shanti Colony, 2nd Avenue, Roundtana, and Anna Nagar West.</p>
         <div class="anc-btn-wrap">
-            <a href="tel:+919334404050" class="anc-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="anc-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="anc-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -529,7 +529,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-chennai";
         <p class="anc-intro-p">Relocating within this distinguished neighborhood demands impeccable professionalism, white-glove packaging standards, and respectful handling of luxury household goods. At <strong>Shree Ashirwad Packers and Movers</strong>, our dedicated Anna Nagar operational division delivers personalized moving solutions. Operating in close coordination with our central parent hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Packers and Movers in Chennai</a>, we ensure your family heirlooms, imported furniture, delicate glassware, and modular interiors are packed, transported, and placed with supreme care.</p>
 
         <div class="anc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Anna Nagar Chennai Household Packing" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Anna Nagar Chennai Household Packing" width="580" height="380" loading="lazy">
             <p class="anc-image-caption">Flawless multi-layer packing and wardrobe carton setup for residences in Anna Nagar Chennai</p>
         </div>
 
@@ -584,7 +584,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-chennai";
         </div>
 
         <div class="anc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Antique Teakwood Furniture Wrapping in Anna Nagar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Antique Teakwood Furniture Wrapping in Anna Nagar" width="580" height="380" loading="lazy">
             <p class="anc-image-caption">Dedicated high-density edge protection and multi-layer bubble wrap for luxury furniture in Anna Nagar</p>
         </div>
     </section>
@@ -649,7 +649,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-chennai";
 
         <div class="anc-highlight-box">
             <h3>Get Your Guaranteed Moving Quote Today</h3>
-            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Anna Nagar moving desk directly at <strong>+91 9334404050</strong> for a complimentary pre-move assessment.</p>
+            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Anna Nagar moving desk directly at <strong>+91 9835565233</strong> for a complimentary pre-move assessment.</p>
         </div>
     </section>
 
@@ -704,7 +704,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-chennai";
         </div>
 
         <div class="anc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Anna Nagar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Anna Nagar" width="580" height="380" loading="lazy">
             <p class="anc-image-caption">Individual bubble wrapping and compartmentalized cartons for crystal and fine chinaware in Anna Nagar</p>
         </div>
     </section>
@@ -742,7 +742,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-chennai";
         </div>
 
         <div class="anc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Anna Nagar Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Anna Nagar Chennai" width="580" height="380" loading="lazy">
             <p class="anc-image-caption">Modern enclosed container trucks ensuring weatherproof and secure transit across Chennai and interstate</p>
         </div>
     </section>

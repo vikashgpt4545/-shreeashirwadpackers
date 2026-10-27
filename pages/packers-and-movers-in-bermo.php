@@ -271,7 +271,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
 
         <!-- Verified Image Callout 1 -->
         <div style="max-width: 420px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Packing Services Bermo Phusro Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Packing Services Bermo Phusro Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           Heavy-duty multi-layer bubble wrap and corrugated cardboard cushioning protecting furniture and appliances in Bermo.
@@ -366,7 +366,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
 
         <!-- Verified Image Callout 2 -->
         <div style="max-width: 420px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Sealed Container Truck for Household Shifting in Bermo" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Sealed Container Truck for Household Shifting in Bermo" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           All-weather sealed container trucks protecting household goods from coal dust and highway turbulence in Bermo.
@@ -484,7 +484,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
 
         <!-- Verified Image Callout 3 -->
         <div style="max-width: 480px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Carrier Transport Bermo Phusro" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Carrier Transport Bermo Phusro" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           Hydraulic car carriers and dedicated motorcycle transport containers serving Bermo, Phusro, and Bokaro district.
@@ -573,7 +573,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
 
         <!-- Verified Image Callout 4 -->
         <div style="max-width: 480px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Secure Warehousing Bermo" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Secure Warehousing Bermo" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           CCTV-monitored, moisture-proof, secure warehouse facilities serving Bermo, Phusro, and Bokaro district.

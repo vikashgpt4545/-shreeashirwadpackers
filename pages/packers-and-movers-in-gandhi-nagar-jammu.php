@@ -337,7 +337,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-gandhi-nagar-jammu';
         <p>Shree Ashirwad Packers and Movers provides bespoke white-glove relocation solutions across Gandhi Nagar and neighboring posh areas including Shastri Nagar, Nai Basti, and Rampura. As part of our parent regional network anchored by <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jammu">Packers and Movers in Jammu</a> and our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we combine master craftsmen, export-grade packaging supplies, and modern enclosed container vehicles to execute seamless relocations across Jammu and pan-India destinations.</p>
 
         <div class="gnj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Luxury household packing in Gandhi Nagar Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Luxury household packing in Gandhi Nagar Jammu">
             <div class="gnj-caption">Five-tier defensive packaging for Italian marble tables, teakwood sofas, and fragile collectibles in Gandhi Nagar</div>
         </div>
 
@@ -358,7 +358,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-gandhi-nagar-jammu';
         </ul>
 
         <div class="gnj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial showroom and electronics packing in Gandhi Nagar Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial showroom and electronics packing in Gandhi Nagar Jammu">
             <div class="gnj-caption">Anti-static, shock-resistant packing for luxury electronics, smart home consoles, and showroom display merchandise</div>
         </div>
     </section>
@@ -456,7 +456,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-gandhi-nagar-jammu';
         </ul>
 
         <div class="gnj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Containerized moving truck in Gandhi Nagar Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Containerized moving truck in Gandhi Nagar Jammu">
             <div class="gnj-caption">All-weather sealed container vehicles offering complete transit protection on national highways</div>
         </div>
     </section>
@@ -552,7 +552,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-gandhi-nagar-jammu';
         </div>
 
         <div class="gnj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup in Gandhi Nagar Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup in Gandhi Nagar Jammu">
             <div class="gnj-caption">Precision room-by-room unpacking, wardrobe arrangement, and debris cleanup in Gandhi Nagar</div>
         </div>
     </section>
@@ -623,7 +623,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-gandhi-nagar-jammu';
     "name": "Shree Ashirwad Packers and Movers Gandhi Nagar Jammu",
     "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9334812297",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹45,000",
     "address": {
         "@type": "PostalAddress",

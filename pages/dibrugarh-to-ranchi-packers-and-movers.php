@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Dibrugarh to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/dibrugarh-to-ranchi-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 28,000 - 85,000",
     "address": {
       "@type": "PostalAddress",
@@ -544,8 +544,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Dibrugarh to Ranchi Packers and Movers</h1>
         <p>Expert interstate relocation services for petroleum engineers from Oil India Limited (OIL Duliajan) and BCPL (Lepetkata), medical specialists from AMCH, university faculty, and families moving from Dibrugarh (Assam) to Ranchi (Jharkhand). Superior moisture-proof packing, dedicated all-weather container trucks, and door-to-door transit insurance coverage via NH-715 and NH-27.</p>
         <div class="dbr2r-cta-btns">
-          <a href="tel:+919431170366" class="dbr2r-btn-primary">Call Now: +91 94311 70366</a>
-          <a href="https://api.whatsapp.com/send?phone=919431170366&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Dibrugarh%20to%20Ranchi." class="dbr2r-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:+919835565233" class="dbr2r-btn-primary">Call Now: +91 98355 65233</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Dibrugarh%20to%20Ranchi." class="dbr2r-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="dbr2r-quote-card">
@@ -590,7 +590,7 @@ include_once __DIR__ . '/../includes/config.php';
       <p>Upper Assam's tropical climate features heavy rainfall and prolonged monsoon seasons that can severely damage goods transported in ordinary open-body trucks. Furthermore, the 1,480 km highway transit across multiple state lines and river basins exposes household items to sustained road vibration. As the premier <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #92400e; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers eliminates these risks, while also operating regular outbound linehauls for <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-dibrugarh-packers-and-movers" style="color: #92400e; font-weight: 600; text-decoration: underline;">packers and movers from Ranchi to Dibrugarh</a>. We deploy hermetically sealed, metal container trucks equipped with pneumatic shock absorbers, providing doorstep packing across all residential colonies of Dibrugarh, from Graham Bazar, Boiragimoth, and Chowkidinghee to Amolapatty, Mancotta Road, and the BCPL and OIL staff colonies.</p>
 
       <div class="dbr2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Container Truck for Dibrugarh to Ranchi Transit">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Container Truck for Dibrugarh to Ranchi Transit">
         <div class="dbr2r-img-caption">Sealed container trucks providing superior moisture and weather protection across Northeast transit routes.</div>
       </div>
 
@@ -713,7 +713,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="dbr2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping for Dibrugarh to Ranchi Move">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping for Dibrugarh to Ranchi Move">
         <div class="dbr2r-img-caption">Multi-tier protective wrapping of fine furniture to prevent scratches and moisture penetration.</div>
       </div>
     </article>
@@ -752,7 +752,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="dbr2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Transport from Dibrugarh to Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Transport from Dibrugarh to Ranchi">
         <div class="dbr2r-img-caption">Custom shock-resistant packing and crating for motorcycles and scooters bound for Ranchi.</div>
       </div>
     </article>
@@ -792,7 +792,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="dbr2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Goods in Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Goods in Ranchi">
         <div class="dbr2r-img-caption">Expert material handlers providing zero-damage loading and unloading across interstate routes.</div>
       </div>
     </article>

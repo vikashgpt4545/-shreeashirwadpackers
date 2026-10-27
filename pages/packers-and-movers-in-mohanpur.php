@@ -276,7 +276,7 @@ require_once "includes/config.php";
             <div class="col-lg-6">
                 <!-- Whitelisted Image 1 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Mohanpur Deoghar" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Mohanpur Deoghar" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-truck-moving" style="color: #0284c7;"></i> Shree Ashirwad Packers closed container fleet serving Mohanpur and Deoghar district
@@ -362,7 +362,7 @@ require_once "includes/config.php";
             <div class="col-lg-6">
                 <!-- Whitelisted Image 2 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packaging for Household Cartons in Mohanpur" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packaging for Household Cartons in Mohanpur" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-box-open" style="color: #0284c7;"></i> Multi-layer bubble wrap and sturdy carton packaging for Mohanpur household relocations
@@ -393,7 +393,7 @@ require_once "includes/config.php";
             <div class="col-lg-6">
                 <!-- Whitelisted Image 3 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Carrier Loading in Mohanpur Deoghar" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Carrier Loading in Mohanpur Deoghar" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-car" style="color: #0284c7;"></i> Enclosed hydraulic carrier transport for cars and two-wheelers from Mohanpur
@@ -424,7 +424,7 @@ require_once "includes/config.php";
             <div class="col-lg-6">
                 <!-- Whitelisted Image 4 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Warehouse Ranchi for Mohanpur" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Warehouse Ranchi for Mohanpur" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-warehouse" style="color: #0284c7;"></i> Clean, CCTV-monitored warehouse storage serving Mohanpur and Deoghar clients

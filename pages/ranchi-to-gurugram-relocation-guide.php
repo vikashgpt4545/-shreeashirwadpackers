@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Gurugram Relocation Guide | Cyber City Movers | Call 9708579999</title>
-    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Gurugram (Gurgaon). DLF high-rise protocols, KMP Expressway route, costs, and packaging by Shree Ashirwad Packers. Call 9708579999.">
+    <title>Ranchi to Gurugram Relocation Guide | Cyber City Movers | Call 9835565233</title>
+    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Gurugram (Gurgaon). DLF high-rise protocols, KMP Expressway route, costs, and packaging by Shree Ashirwad Packers. Call 9835565233.">
     <meta name="keywords" content="ranchi to gurugram packers and movers, moving from ranchi to gurgaon, household shifting ranchi cyber city, kmp expressway movers ranchi gurgaon, cost of packers ranchi gurugram, shree ashirwad packers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gurugram-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Cyber Corridor Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-gurugram-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>To avoid severe Delhi city congestion and the capital's strict commercial vehicle daylight "No-Entry" bans, our interstate container trucks branch off onto the <strong>Kundli-Manesar-Palwal Expressway (KMP / Western Peripheral Expressway)</strong>. This 6-lane bypass sweeps through Palwal and Sohna directly into Southern Gurugram and Golf Course Extension Road, completing transit in 36 to 44 hours with zero checkpoint delays.</p>
                 </div>
                 <div class="rggm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck operating on KMP Expressway to Gurugram" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck operating on KMP Expressway to Gurugram" loading="lazy">
                 </div>
             </div>
 
@@ -279,7 +279,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Luxury Condominium Handover Protocols on Golf Course Road</h2>
             <div class="rggm-grid-2">
                 <div class="rggm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Corporate office equipment and executive furniture handling in Gurugram" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Corporate office equipment and executive furniture handling in Gurugram" loading="lazy">
                 </div>
                 <div>
                     <p>Gurugram's skyline is defined by super-luxury gated residential complexes including DLF The Aralias, The Magnolias, The Camellias, Ambience Island, Central Park Resorts, and IREO Grand Arch. Moving into these premier enclaves requires strict adherence to institutional facility management protocols:</p>
@@ -307,7 +307,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>From high-density edge protectors to humidity-sealed polyethylene outer skins, every carton is engineered to withstand interstate vibrations and sudden emergency braking maneuvers.</p>
                 </div>
                 <div class="rggm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Heavy corrugated sheets and multi-tier packaging materials for Gurugram relocation" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Heavy corrugated sheets and multi-tier packaging materials for Gurugram relocation" loading="lazy">
                 </div>
             </div>
 
@@ -412,7 +412,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </ul>
                 </div>
                 <div class="rggm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="White glove residential unpacking and furniture setup delivered safely in Gurugram condominium" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="White glove residential unpacking and furniture setup delivered safely in Gurugram condominium" loading="lazy">
                 </div>
             </div>
 

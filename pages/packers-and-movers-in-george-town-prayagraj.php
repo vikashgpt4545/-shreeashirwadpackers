@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers George Town Prayagraj",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="gtp-hero-title">Packers and Movers in George Town Prayagraj</h1>
         <p class="gtp-hero-subtitle">White-Glove Household Relocation, Heritage Kothi Shifting, Custom Antique Furniture Care &amp; Direct Vehicle Transport Across Prayagraj</p>
         <div class="gtp-cta-group">
-            <a href="tel:+919334404050" class="gtp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gtp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gtp-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -508,7 +508,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gtp-intro-p">Relocating a home in George Town presents distinct challenges that ordinary moving crews cannot manage. Families here often possess generational heirlooms, expansive personal book libraries, delicate crystalware, handcrafted brass sculptures, and heavy teakwood or rosewood furniture pieces that require expert carpentry and meticulous wrapping. Shree Ashirwad Packers and Movers provides a bespoke, white-glove moving experience tailored precisely to the discerning needs of George Town residents.</p>
 
         <div class="gtp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Professional Household Loading in George Town Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Professional Household Loading in George Town Prayagraj" width="580" height="380" loading="lazy">
             <p class="gtp-image-caption">Our experienced crew executing systematic, white-glove household loading with premium protective blankets in George Town.</p>
         </div>
 
@@ -586,7 +586,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gtp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-Layer Packing Protection in George Town" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-Layer Packing Protection in George Town" width="580" height="380" loading="lazy">
             <p class="gtp-image-caption">High-density bubble wrapping, corrugated corner protectors, and heavy-duty carton sealing for fragile household assets.</p>
         </div>
     </section>
@@ -686,7 +686,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gtp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in George Town" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in George Town" width="580" height="380" loading="lazy">
             <p class="gtp-image-caption">Professional carpentry team carefully dismantling large wooden bed frames and packing delicate hardware in George Town.</p>
         </div>
     </section>
@@ -699,7 +699,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gtp-intro-p">Our container fleet accesses NH-19 (the Grand Trunk Corridor) via the modern bypass routes, ensuring smooth inter-state journeys toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>, Agra, Noida, and Delhi to the west, as well as Varanasi, Patna, and our primary company operations in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> to the east. Relocations toward Lucknow follow the direct Prayagraj-Lucknow Highway, completing door-to-door transit within a few hours.</p>
 
         <div class="gtp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed Door-to-Door Delivery Fleet in George Town Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed Door-to-Door Delivery Fleet in George Town Prayagraj" width="580" height="380" loading="lazy">
             <p class="gtp-image-caption">Our weather-sealed, GPS-monitored container trucks ensure reliable, protected door-to-door transit from George Town.</p>
         </div>
 
@@ -764,7 +764,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Elite Move in George Town Prayagraj</h3>
         <p>Contact our George Town relocation specialists today for a detailed on-site survey, customized quotation, and personalized moving experience.</p>
         <div class="gtp-cta-group">
-            <a href="tel:+919334404050" class="gtp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gtp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gtp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

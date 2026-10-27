@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kp-intro-p">The relocation requirements within Knowledge Park are uniquely tailored around the academic calendar. At the end of semesters, during monsoon admissions, and following annual campus placement cycles, thousands of students relocate between private hostels, paying-guest accommodations, shared rental flats, and their home states. Simultaneously, university professors, deans, and administrative professionals move into campus staff quarters or nearby residential communities across Pari Chowk and Alpha sectors. Standard movers often lack the flexible packaging options, budget-friendly mini-move rates, and campus gate clearance protocols needed for academic moves. Shree Ashirwad Packers and Movers has designed specialized relocation packages specifically optimized for students, faculty members, and educational institutions in Knowledge Park.</p>
 
         <div class="kp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Student and household goods loading in container truck in Knowledge Park Greater Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Student and household goods loading in container truck in Knowledge Park Greater Noida" width="580" height="360">
             <div class="kp-image-caption">Systematic loading of student belongings, study desks, and household inventory in Knowledge Park</div>
         </div>
 
@@ -575,7 +575,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Knowledge Park students" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Knowledge Park students" width="580" height="360">
             <div class="kp-image-caption">Reinforced 5-ply cartons, bubble wrap, and waterproof tape protect textbooks, laptops, and personal items</div>
         </div>
 
@@ -642,7 +642,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Knowledge Park" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Knowledge Park" width="580" height="360">
             <div class="kp-image-caption">Professional carpenters disassembling study desks and beds for safe transit across Greater Noida</div>
         </div>
 
@@ -699,7 +699,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Knowledge Park" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Knowledge Park" width="580" height="360">
             <div class="kp-image-caption">Weatherproof covered container fleet providing prompt, damage-free delivery across Greater Noida</div>
         </div>
     </section>

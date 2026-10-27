@@ -634,7 +634,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-dumka-packers-
                 <p>Whether you are a government official relocating to the Santhal Pargana Divisional Commissionerate, a university professor joining Sido Kanhu Murmu University (SKMU), an administrative judicial officer, a police official transferring to DIG headquarters, or a family settling in Dudhani or Rasikpur, our dedicated same-day service eliminates moving stress with dependable timing and white-glove handling.</p>
             </div>
             <div class="j2dum-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Jamtara to Dumka household shifting" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Jamtara to Dumka household shifting" loading="lazy">
                 <div class="j2dum-img-caption">Dedicated all-weather sealed container trucks operating daily on the Jamtara-Dumka highway route</div>
             </div>
         </div>
@@ -679,7 +679,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-dumka-packers-
     <section class="j2dum-section">
         <div class="j2dum-grid-2">
             <div class="j2dum-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Jamtara to Dumka transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Jamtara to Dumka transit" loading="lazy">
                 <div class="j2dum-img-caption">Multi-layer protective bubble wrap, corrugated sheets, and foam edge guards for furniture and fragile items</div>
             </div>
             <div>
@@ -779,7 +779,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-dumka-packers-
                 </ul>
             </div>
             <div class="j2dum-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Jamtara to Dumka vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Jamtara to Dumka vehicle relocation" loading="lazy">
                 <div class="j2dum-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Jamtara and Dumka</div>
             </div>
         </div>
@@ -835,7 +835,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-dumka-packers-
     <section class="j2dum-section">
         <div class="j2dum-grid-2">
             <div class="j2dum-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Dumka residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Dumka residence" loading="lazy">
                 <div class="j2dum-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Dumka residences</div>
             </div>
             <div>

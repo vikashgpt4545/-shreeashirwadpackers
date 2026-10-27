@@ -32,7 +32,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Burhanpur",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-burhanpur",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -419,7 +419,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="brh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Burhanpur Household Loading" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Burhanpur Household Loading" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -457,7 +457,7 @@ $state_name = 'Madhya Pradesh';
       <p>For modern apartment complexes in Lalbagh and surrounding suburbs, our crews install padded quilted covers on elevator walls and roll out heavy runner mats along hallways to prevent wall scuffs and floor abrasions during cargo loading. Every delicate domestic asset is handled with structured precision.</p>
 
       <div class="brh-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Burhanpur MP" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Burhanpur MP" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -541,7 +541,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="brh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Burhanpur MP" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Burhanpur MP" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -629,7 +629,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="brh-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Burhanpur MP" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Burhanpur MP" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -695,7 +695,7 @@ $state_name = 'Madhya Pradesh';
     <div class="brh-cta-bar">
       <h3>Ready for a Smooth Move in Burhanpur?</h3>
       <p>Connect with our expert Burhanpur relocation team today for a free pre-move survey, transparent quotation, and complete moving support.</p>
-      <a href="tel:+919334484001" class="brh-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="brh-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

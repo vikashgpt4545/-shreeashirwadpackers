@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kazipet",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kazipet-warangal",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,400 - ₹45,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>Beyond railway establishments, Kazipet has grown into a bustling residential and commercial zone featuring peaceful communities in Somidi, Madikonda, Bapuji Nagar, Prashanth Nagar, and near the historic Kazipet Darga. The growth of technological institutions and ancillary industrial workshops around Madikonda has attracted engineers, technical specialists, and families requiring dependable moving solutions. Whether you are a railway officer transferring across railway divisions or a local family transitioning to an independent duplex near Madikonda, Shree Ashirwad Packers and Movers brings over a decade of verified relocation expertise to ensure your goods are relocated without scratch or delay.</p>
 
     <div class="kzp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Organized Packing of Electronics and Household Goods in Kazipet Warangal" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Organized Packing of Electronics and Household Goods in Kazipet Warangal" loading="lazy">
       <p class="kzp-image-caption">Careful wrapping, boxing, and labeling of sensitive electronics and appliances for safe residential transport in Kazipet.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="kzp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Safe Residential Goods Loading in Kazipet Warangal" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Safe Residential Goods Loading in Kazipet Warangal" loading="lazy">
       <p class="kzp-image-caption">Systematic loading using hydraulic equipment and ramp safety protocols at multi-story residential communities.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="kzp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Wooden Furniture Wrapping in Kazipet" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Wooden Furniture Wrapping in Kazipet" loading="lazy">
       <p class="kzp-image-caption">High-density foam and corrugated wrapping safeguarding polished wooden dining tables and wardrobes during relocation.</p>
     </div>
 
@@ -634,7 +634,7 @@
     <p>Additionally, for residents shifting from multistory apartments or duplex houses lacking broad service elevators, our crews come equipped with industrial-grade nylon hoisting ropes, heavy furniture dollies, and floor-protective neoprene mats to move bulky sofa sets, double-door refrigerators, and steel almirahs safely down staircases without grazing banisters or chipping stair edges.</p>
 
     <div class="kzp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Kazipet Warangal" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Kazipet Warangal" loading="lazy">
       <p class="kzp-image-caption">Sealed container trucks ensuring maximum security, weather shielding, and dust-free transit across highway routes.</p>
     </div>
 
@@ -721,7 +721,7 @@
   <section class="kzp-cta-banner">
     <h3>Plan Your Stress-Free Move in Kazipet Today!</h3>
     <p>Contact our dedicated relocation specialists for a free pre-move consultation, accurate fixed-price estimate, and guaranteed on-time door-to-door moving across Telangana and India.</p>
-    <a class="kzp-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="kzp-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

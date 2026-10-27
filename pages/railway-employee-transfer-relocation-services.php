@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -203,7 +203,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we maintain a specialized railway relocation wing in Ranchi. We eliminate the immense physical hassle of relying on railway brake-van parcel booking by providing complete door-to-door road container transport, multi-layer bubble packing, certified weighment documentation, and 100% claim-approved bills. Calculate your moving budget in advance using our interactive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="rly-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Railway Employee Transfer Relocation - Loading Crew" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Railway Employee Transfer Relocation - Loading Crew" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -232,7 +232,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rly-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Railway Staff Relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Railway Staff Relocation" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -275,7 +275,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rly-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck - Railway Quarter Shifting" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck - Railway Quarter Shifting" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -304,7 +304,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rly-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Railway Employee Relocation Handover" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Railway Employee Relocation Handover" width="580" height="387" loading="lazy">
         </div>
     </section>
 

@@ -351,7 +351,7 @@ require_once __DIR__ . '/includes/seo.php';
 
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle 4-layer packaging in Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle 4-layer packaging in Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">4-Layer Scratchproof Wrap</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Heavy-gauge air bubble wrap, corrugated sheets, foam armoring, and water-sealed stretch film.</p>
@@ -359,7 +359,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div style="display:grid; grid-template-columns: 1fr; background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler enclosed motorcycle carrier loading Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler enclosed motorcycle carrier loading Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Specialized Enclosed Bike Carriers</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Dedicated enclosed auto-carrier trailers featuring wheel clamp locks and 4-point safety ratchet straps.</p>
@@ -367,7 +367,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and bike safe transit crating Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and bike safe transit crating Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Custom Wooden Crating</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Solid timber framing engineered specifically for long-distance transit of superbikes and vintage models.</p>

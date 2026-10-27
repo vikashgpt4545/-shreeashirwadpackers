@@ -966,7 +966,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sah
                 <!-- Image 1 -->
                 <div class="showcase-image-card">
                     <div class="image-container-3-4" style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Serving Sahibganj Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Serving Sahibganj Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div class="image-card-caption">
                         <h4>Closed Container Delivery Trucks</h4>
@@ -977,7 +977,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sah
                 <!-- Image 2 -->
                 <div class="showcase-image-card">
                     <div class="image-container-3-4" style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Bubble Wrap and Heavy Cartons for Household Packing in Sahibganj" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Bubble Wrap and Heavy Cartons for Household Packing in Sahibganj" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div class="image-card-caption">
                         <h4>Multi-Layer Cushioning Materials</h4>
@@ -988,7 +988,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sah
                 <!-- Image 3 -->
                 <div class="showcase-image-card">
                     <div class="image-container-3-4" style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-Wheeler Motorcycle Transportation Service in Sahibganj" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-Wheeler Motorcycle Transportation Service in Sahibganj" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div class="image-card-caption">
                         <h4>Safe Two-Wheeler Transit</h4>
@@ -999,7 +999,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sah
                 <!-- Image 4 -->
                 <div class="showcase-image-card">
                     <div class="image-container-3-4" style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure Transit Container Vehicle for Long Distance Moving from Sahibganj" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure Transit Container Vehicle for Long Distance Moving from Sahibganj" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div class="image-card-caption">
                         <h4>Long-Distance Container Fleet</h4>

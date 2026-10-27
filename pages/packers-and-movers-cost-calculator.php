@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -311,7 +311,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Whether you are shifting locally within Ranchi between neighborhoods like Morabadi, Harmu, Kanke Road, and Bariatu, or organizing an interstate relocation to Patna, Kolkata, Delhi, or Bangalore, our live tariff engine calculates baseline rates across distinct cost buckets. For a comprehensive overview of regional rates, review our dedicated <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #ff6a28; font-weight: 700;">Packers and Movers Charges in Ranchi</a> price guide.</p>
 
         <div class="pmc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Packers and Movers Cost Calculator - Household Relocation Cartons" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Packers and Movers Cost Calculator - Household Relocation Cartons" width="580" height="387" loading="lazy">
         </div>
 
         <div class="pmc-table-wrap">
@@ -391,7 +391,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Household Freight" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Household Freight" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -461,7 +461,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew - Shree Ashirwad Packers and Movers" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew - Shree Ashirwad Packers and Movers" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -490,7 +490,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
         </div>
     </section>
 

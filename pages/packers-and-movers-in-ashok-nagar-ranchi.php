@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -203,7 +203,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>At <strong>Shree Ashirwad Packers and Movers</strong>, our premium moving division is specially trained to handle high-value residences. We understand that luxury homes require more than standard cardboard boxes—they demand on-site carpenters to craft custom wooden crates for Italian marble tables, museum-grade artwork, crystal chandeliers, and vintage teakwood almirahs. Plan your moving budget with our interactive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="ask-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping - Ashok Nagar Luxury Villa Shifting" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping - Ashok Nagar Luxury Villa Shifting" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -252,7 +252,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ask-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Box Packing - Ashok Nagar Executive Homes" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Box Packing - Ashok Nagar Executive Homes" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -281,7 +281,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ask-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Goods Loading - Ashok Nagar Residence" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Goods Loading - Ashok Nagar Residence" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -310,7 +310,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ask-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Ashok Nagar Luxury Villa Handover" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Ashok Nagar Luxury Villa Handover" width="580" height="387" loading="lazy">
         </div>
     </section>
 

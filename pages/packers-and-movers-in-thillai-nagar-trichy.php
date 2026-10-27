@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thillai-nagar-trichy";
         "name": "Shree Ashirwad Packers and Movers Thillai Nagar Trichy",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thillai-nagar-trichy";
         <p>The residential layout of Thillai Nagar consists of modern luxury apartment communities, independent architectural bungalows, and quiet family homes nestled along tree-lined cross avenues. Residents demand punctual service, polite crew behavior, and meticulous preservation of household assets. Shree Ashirwad Packers and Movers has served Thillai Nagar for over twelve years, establishing an impeccable reputation for premium relocation services across every cross street.</p>
 
         <div class="tnt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and residential shifting in Thillai Nagar Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and residential shifting in Thillai Nagar Trichy" width="580" height="387" loading="lazy">
             <div class="tnt-image-caption">Apartment freight handling and professional residential loading operations in Thillai Nagar Trichy.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thillai-nagar-trichy";
         </div>
 
         <div class="tnt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heirloom wooden furniture protective wrapping in Thillai Nagar Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heirloom wooden furniture protective wrapping in Thillai Nagar Trichy" width="580" height="387" loading="lazy">
             <div class="tnt-image-caption">Multi-tier bubble cushioning and edge guarding for fine wooden furniture in Thillai Nagar.</div>
         </div>
 
@@ -596,7 +596,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thillai-nagar-trichy";
         <p>Our commercial moving division provides planned transitions tailored to business schedules. We manage commercial moves over weekend windows or evening hours, ensuring that consultation rooms, diagnostic equipment, retail merchandise, and executive desks are shifted and operational without interfering with normal trading hours.</p>
 
         <div class="tnt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial showroom and clinic equipment packing in Thillai Nagar Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial showroom and clinic equipment packing in Thillai Nagar Trichy" width="580" height="387" loading="lazy">
             <div class="tnt-image-caption">Commercial retail merchandise and office equipment relocation handled securely in Thillai Nagar.</div>
         </div>
 
@@ -720,7 +720,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thillai-nagar-trichy";
         </ol>
 
         <div class="tnt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Thillai Nagar Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Thillai Nagar Trichy" width="580" height="387" loading="lazy">
             <div class="tnt-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Tiruchirappalli corridors.</div>
         </div>
     </section>
@@ -777,7 +777,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thillai-nagar-trichy";
     <div class="tnt-cta-box">
         <h3>Book Your Thillai Nagar Move with Proven Specialists</h3>
         <p>Get a fixed-price written quotation backed by our zero-damage guarantee. Fully licensed, insured, and experienced professionals ready to assist your relocation.</p>
-        <a href="tel:+919334404050" class="tnt-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="tnt-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

@@ -83,7 +83,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -721,7 +721,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 1 -->
     <div class="img-showcase-ramgarh">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Ramgarh Packers and Movers Truck Loading" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Ramgarh Packers and Movers Truck Loading" width="580" height="290" loading="lazy">
       <div class="caption">Figure 1: Loading sealed company container trucks in Ranchi for 90-minute express transit to Ramgarh Cantonment via NH-20.</div>
     </div>
   </section>
@@ -839,7 +839,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 2 -->
     <div class="img-showcase-ramgarh">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Securing Household Goods in Ranchi" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Securing Household Goods in Ranchi" width="580" height="290" loading="lazy">
       <div class="caption">Figure 2: Professional loading crew using ratchet straps and protective blankets to secure goods for Chutupalu Ghat transit.</div>
     </div>
   </section>
@@ -885,7 +885,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 3 -->
     <div class="img-showcase-ramgarh">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Ramgarh Shifting" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Ramgarh Shifting" width="580" height="290" loading="lazy">
       <div class="caption">Figure 3: Multi-layer edge protection and stretch wrapping applied to large wooden furniture before departure to Ramgarh.</div>
     </div>
   </section>
@@ -969,7 +969,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 4 -->
     <div class="img-showcase-ramgarh">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing in Ranchi" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing in Ranchi" width="580" height="290" loading="lazy">
       <div class="caption">Figure 4: Secure cushioned crating for temple murtis, glass display items, and kitchen crockery for Ramgarh relocation.</div>
     </div>
   </section>

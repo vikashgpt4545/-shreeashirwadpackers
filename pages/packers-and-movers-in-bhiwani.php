@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Bhiwani",
         "image": "https://shreeashirwadpackers.com/images/household-goods-truck-loading-ranchi.jpg",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bhiwani",
-        "telephone": "+91 9334424440",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹45,000",
         "address": {
             "@type": "PostalAddress",
@@ -402,7 +402,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>With direct arterial highway connections linking Bhiwani smoothly to Rohtak, Hisar, Charkhi Dadri, Hansi, and New Delhi via NH-709 and SH-16, our containerized transport fleet provides timely door-to-door transit without middleman delays or unpredictable transfers.</p>
         </article>
         <div class="bhw-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into moving truck in Bhiwani" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into moving truck in Bhiwani" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -440,7 +440,7 @@ require_once __DIR__ . '/../includes/config.php';
     <!-- Section 3: Visual Break and Packaging Standard -->
     <section class="bhw-intro-grid">
         <div class="bhw-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa and furniture wrapping in Bhiwani Haryana" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa and furniture wrapping in Bhiwani Haryana" width="580" height="386" loading="lazy">
         </div>
         <article class="bhw-intro-text">
             <h2>Multi-Layer Armor Packing for Complete Safety</h2>
@@ -581,7 +581,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>Furthermore, we cater to educational and campus shifts across Bhiwani's respected academic landscape. Whether moving faculty residences near the Technological Institute of Textile & Sciences (TITS) or transporting specialized physics and chemistry laboratory equipment, our experienced packers use custom wooden cases with high-density polyurethane foam linings for delicate instruments.</p>
         </article>
         <div class="bhw-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck in Bhiwani Haryana" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck in Bhiwani Haryana" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -644,7 +644,7 @@ require_once __DIR__ . '/../includes/config.php';
 </main>
 
 <div class="bhw-img-box" style="margin: 40px auto; max-width: 580px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and arranging home items in Bhiwani Haryana" width="580" height="386" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and arranging home items in Bhiwani Haryana" width="580" height="386" loading="lazy">
 </div>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>

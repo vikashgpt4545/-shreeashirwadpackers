@@ -75,7 +75,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -479,7 +479,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- First Verified Image: Constrained as required -->
   <div style="text-align: center; margin: 0 auto 35px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Luggage Courier and Excess Baggage Service in Ranchi - Packaged Cartons and Luggage" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Luggage Courier and Excess Baggage Service in Ranchi - Packaged Cartons and Luggage" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Heavy-duty packaged cartons and reinforced luggage ready for courier dispatch in Ranchi.</p>
   </div>
 
@@ -571,7 +571,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Second Verified Image -->
   <div style="text-align: center; margin: 35px auto;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Luggage Courier Loading into Weatherproof Container - Shree Ashirwad" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Luggage Courier Loading into Weatherproof Container - Shree Ashirwad" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Luggage consignments are transported inside sealed, weatherproof linehaul container trucks.</p>
   </div>
 

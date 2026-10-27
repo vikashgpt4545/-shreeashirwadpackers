@@ -268,7 +268,7 @@ $state_name = 'Chandigarh';
     "name": "Shree Ashirwad Packers and Movers Sector 43 Chandigarh",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9835155555",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -400,7 +400,7 @@ $state_name = 'Chandigarh';
           <p>Shree Ashirwad Packers and Movers brings over 16 years of certified industry leadership to Sector 43 Chandigarh. Our dedicated packing and moving professionals deliver white-glove residential transfers, official government postings, and corporate office shifting backed by ISO-certified standards, tamper-evident packing materials, and weather-sealed containerized transport.</p>
         </div>
         <div class="s43c-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Sector 43 Chandigarh" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Sector 43 Chandigarh" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -442,7 +442,7 @@ $state_name = 'Chandigarh';
       </div>
 
       <div class="s43c-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Sector 43 Chandigarh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Sector 43 Chandigarh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -535,7 +535,7 @@ $state_name = 'Chandigarh';
       </table>
 
       <div class="s43c-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Sector 43 Chandigarh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Sector 43 Chandigarh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -571,7 +571,7 @@ $state_name = 'Chandigarh';
       </div>
 
       <div class="s43c-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Sector 43 Chandigarh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Sector 43 Chandigarh" width="580" height="380" loading="lazy">
       </div>
     </section>
 

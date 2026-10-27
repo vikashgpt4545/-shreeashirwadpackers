@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Sector 56 Gurgaon",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -476,7 +476,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <h1 class="s56g-hero-title">Packers and Movers in Sector 56 Gurgaon</h1>
         <p class="s56g-hero-subtitle">Reliable Household Moving, CGHS Apartment Relocations & Defense Personnel Transfers across Kendriya Vihar, Devinder Vihar & Rapid Metro Terminal.</p>
         <div class="s56g-cta-group">
-            <a href="tel:+919334404050" class="s56g-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="s56g-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="s56g-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -493,7 +493,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="s56g-intro-p">Situated at the gateway of the Gurgaon-Faridabad Highway, Sector 56 offers unparalleled connectivity to NIT Faridabad and Greater Faridabad, while the Golf Course Road underpasses allow swift transit to South Delhi and NH-48. Moreover, our inter-state linehaul network connects Sector 56 families directly to Eastern India via our company headquarters network at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, backed by comprehensive transit insurance and transparent pricing.</p>
 
         <div class="s56g-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting in Sector 56 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting in Sector 56 Gurgaon" width="580" height="360">
             <div class="s56g-image-caption">Dedicated household moving crew carefully staging packed goods for apartment shifting in Sector 56 Gurgaon</div>
         </div>
     </section>
@@ -549,7 +549,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="s56g-intro-p">Internal lanes within CGHS societies and builder floor blocks in Sector 56 can become congested due to resident car parking. Shree Ashirwad deploys agile 14-foot closed container trucks and compact shuttle vans that maneuver easily through narrow gates, eliminating long manual carries and protecting goods from rain and dust.</p>
 
         <div class="s56g-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packing supplies for household moving in Sector 56 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packing supplies for household moving in Sector 56 Gurgaon" width="580" height="360">
             <div class="s56g-image-caption">High-density bubble roll, heavy-duty carton boxes, and corrugated corner guards ready for packing in Sector 56</div>
         </div>
     </section>
@@ -657,7 +657,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="s56g-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry and furniture dismantling in Sector 56 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry and furniture dismantling in Sector 56 Gurgaon" width="580" height="360">
             <div class="s56g-image-caption">Skilled carpenters carefully disassembling modular double beds and wooden wardrobes for scratch-free transit</div>
         </div>
     </section>
@@ -695,7 +695,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="s56g-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in Sector 56 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in Sector 56 Gurgaon" width="580" height="360">
             <div class="s56g-image-caption">Weatherproof container trucks ensuring clean, secure, and on-time door-to-door shifting in Sector 56 Gurgaon</div>
         </div>
     </section>

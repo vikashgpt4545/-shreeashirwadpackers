@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tirunelveli";
         "name": "Shree Ashirwad Packers and Movers Tirunelveli",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tirunelveli";
         <p>Relocating in Tirunelveli requires nuanced local knowledge and agile fleet operations. Navigating the traditional agraharam lanes around the Nellaiappar Car Streets and the bustling commercial markets of Town and Junction requires compact feeder mini-trucks and rubber-wheeled handcarts. Conversely, servicing sprawling university residences in Palayamkottai, modern high-rises along Trivandrum Road, and manufacturing plants in Gangaikondan demands heavy closed container trucks equipped with hydraulic loading tailgates. Shree Ashirwad Packers and Movers delivers tailored shifting solutions designed specifically for the unique topography of Tirunelveli.</p>
 
         <div class="tnv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Tirunelveli Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Tirunelveli Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tnv-image-caption">Professional household loading and apartment shifting operations in Tirunelveli.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tirunelveli";
         </div>
 
         <div class="tnv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Tirunelveli Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Tirunelveli Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tnv-image-caption">Corporate office equipment and precision apparatus relocation by Shree Ashirwad in Tirunelveli.</div>
         </div>
 
@@ -594,7 +594,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tirunelveli";
         <p>Our expert moving crews utilize a four-layer defensive packing system. Polished teak and rosewood furniture are first padded with breathable soft cotton quilts, wrapped in high-density air bubble wrap, reinforced with thick corrugated corner edge boards, and enveloped in tear-resistant stretch wrap. This protects against scratches, humidity fluctuations, and highway transit vibrations.</p>
 
         <div class="tnv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Tirunelveli Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Tirunelveli Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tnv-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Tirunelveli.</div>
         </div>
 
@@ -720,7 +720,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tirunelveli";
         </ol>
 
         <div class="tnv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Tirunelveli Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Tirunelveli Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tnv-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Tirunelveli corridors.</div>
         </div>
     </section>
@@ -777,7 +777,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tirunelveli";
     <div class="tnv-cta-box">
         <h3>Move Safely in Tirunelveli with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero surprise costs. Licensed, fully insured moving specialists ready to assist your household or office relocation today.</p>
-        <a href="tel:+919334404050" class="tnv-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="tnv-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Khanapara Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-khanapara-guwahati",
     "priceRange": "₹4,000 - ₹60,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="kpg-container">
       <h1>Packers and Movers in Khanapara Guwahati</h1>
       <p>Premier interstate gateway shifting, Assam Administrative Staff College relocation, veterinary university logistics, and nationwide container transit in Khanapara.</p>
-      <a href="tel:+919334484001" class="kpg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="kpg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Khanapara holds a strategic geographical position as the southern interstate gateway, transport crossroads, and institutional sanctuary of Guwahati. Situated directly at the border separating the Kamrup Metropolitan district of Assam from the Ri-Bhoi district of Meghalaya, Khanapara serves as the starting point of the magnificent four-lane expressway ascending into the Khasi Hills toward Shillong. Home to prestigious civil service and academic institutions including the Assam Administrative Staff College, College of Veterinary Science (Assam Agricultural University), National Institute of Public Cooperation and Child Development (NIPCCD), and the serene residential hill slopes of Koinadhara, Khanapara connects metropolitan residential life with high-speed regional logistics. Relocating in Khanapara demands specialized understanding of interstate border checkpoint protocols, hill-road transport balancing, institutional transfer paperwork, and weather-proof moisture packaging.</p>
 
       <div class="kpg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Khanapara Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Khanapara Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="kpg-grid-2">
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From institutional employee transfers to cross-border hill transport and long-distance container linehauls, our services cover every relocation requirement:</p>
 
       <div class="kpg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Khanapara" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Khanapara" width="580" height="360" loading="lazy">
       </div>
 
       <div class="kpg-grid-cards">
@@ -526,7 +526,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers adheres to a disciplined operational workflow designed to guarantee complete safety and timeliness:</p>
 
       <div class="kpg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Khanapara" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Khanapara" width="580" height="360" loading="lazy">
       </div>
 
       <div class="kpg-grid-cards">
@@ -559,7 +559,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all major quarters and residential extensions of Khanapara:</p>
 
       <div class="kpg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Khanapara" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Khanapara" width="580" height="360" loading="lazy">
       </div>
 
       <div class="kpg-grid-cards">

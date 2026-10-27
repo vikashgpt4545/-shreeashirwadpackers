@@ -39,7 +39,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kr-pura
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-kr-puram-bangalore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kr-puram-bangalore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹36,000",
         "address": {
             "@type": "PostalAddress",
@@ -526,7 +526,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in KR Puram Bangalore</h1>
         <p>Expert home shifting, IT corridor relocation, and apartment moving services across Old Madras Road, Cable Bridge, TC Palya, Battarahalli, and Devasandra.</p>
         <div class="krp-btn-wrap">
-            <a href="tel:+919334404050" class="krp-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="krp-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="krp-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -554,7 +554,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="krp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in KR Puram Bangalore" title="Comprehensive packing in KR Puram">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in KR Puram Bangalore" title="Comprehensive packing in KR Puram">
             <p class="krp-image-caption">Complete room-by-room carton packing and sealing by our trained crew in KR Puram Bangalore.</p>
         </div>
     </section>
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Kitchen crockery, glassware, dinner sets, and prayer idols are wrapped individually in honeycomb paper wraps and shock-absorbing air bubbles before placement into partitioned cell cartons. Our closed container trucks feature padded inner walls and heavy-duty tie-down tracks that anchor heavy appliances firmly, preventing internal movement during sudden stops or road vibrations.</p>
 
         <div class="krp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Container truck loading in KR Puram Old Madras Road" title="Container truck loading in KR Puram">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Container truck loading in KR Puram Old Madras Road" title="Container truck loading in KR Puram">
             <p class="krp-image-caption">Safe loading and systematic strapping inside our weatherproof container trucks on Old Madras Road.</p>
         </div>
     </section>
@@ -626,7 +626,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="krp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective appliance covers in KR Puram Bangalore" title="Appliance protective packing in KR Puram">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective appliance covers in KR Puram Bangalore" title="Appliance protective packing in KR Puram">
             <p class="krp-image-caption">Quilted protective covers and bubble wrap applied to large home appliances before loading in KR Puram.</p>
         </div>
     </section>
@@ -730,7 +730,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="krp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew in KR Puram Bangalore" title="Expert loading crew in KR Puram">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew in KR Puram Bangalore" title="Expert loading crew in KR Puram">
             <p class="krp-image-caption">Experienced and uniformed moving specialists handling goods with care and safety gear in KR Puram.</p>
         </div>
     </section>

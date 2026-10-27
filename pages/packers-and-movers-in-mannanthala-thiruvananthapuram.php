@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Mannanthala Thiruvananthapuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-mannanthala-thiruvananthapuram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹45,000",
     "address": {
       "@type": "PostalAddress",
@@ -442,7 +442,7 @@
       </div>
       <div>
         <div class="mnt-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Mannanthala Thiruvananthapuram" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Mannanthala Thiruvananthapuram" width="580" height="380" loading="lazy">
         </div>
       </div>
     </div>
@@ -479,7 +479,7 @@
     </div>
 
     <div class="mnt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Careful packaging of wooden furniture and family heirlooms in Mannanthala Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Careful packaging of wooden furniture and family heirlooms in Mannanthala Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
 
     <p>Our team utilizes virgin 5-ply cartons, shock-absorbing bubble wrap, edge protectors, and heavy stretch film to protect dining tables, wooden cots, and fragile kitchenware from transit friction and road vibration.</p>
@@ -571,7 +571,7 @@
     </table>
 
     <div class="mnt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packaging electronic equipment and study desk electronics in Mannanthala Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packaging electronic equipment and study desk electronics in Mannanthala Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
 
     <p>Every package includes premium corrugated cartons, shock-absorbing bubble cushioning, stretch film, professional loading, transportation in weatherproof container trucks, unloading, and furniture reassembly at your destination.</p>
@@ -675,7 +675,7 @@
     </ol>
 
     <div class="mnt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Mannanthala Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Mannanthala Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
   </section>
 

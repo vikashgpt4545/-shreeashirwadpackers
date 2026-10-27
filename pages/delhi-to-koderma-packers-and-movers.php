@@ -564,10 +564,10 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
                     Relocating long-distance from Delhi NCR (South Delhi, Noida, Gurgaon, Ghaziabad, or Faridabad) to Koderma district (Jhumri Telaiya, Domchanch, or KTPS)? Shree Ashirwad Packers and Movers delivers certified national linehaul moving across the Yamuna Expressway and NH-19 Grand Trunk corridor. Benefit from 5-layer export packaging, sealed weatherproof container trucks, zero transshipment, and seamless doorstep delivery.
                 </p>
                 <div style="display: flex; gap: 14px; flex-wrap: wrap;">
-                    <a href="tel:+919534499994" class="del2kod-call-btn" style="width: auto; padding: 14px 28px;">
-                        <i class="fas fa-phone-alt"></i> Call +91 95344 99994
+                    <a href="tel:+919835565233" class="del2kod-call-btn" style="width: auto; padding: 14px 28px;">
+                        <i class="fas fa-phone-alt"></i> Call +91 98355 65233
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=919534499994&text=Hi%2C%20I%20need%20a%20quote%20for%20relocation%20from%20Delhi%20to%20Koderma." target="_blank" class="del2kod-whatsapp-btn" style="width: auto; padding: 14px 28px;">
+                    <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20a%20quote%20for%20relocation%20from%20Delhi%20to%20Koderma." target="_blank" class="del2kod-whatsapp-btn" style="width: auto; padding: 14px 28px;">
                         <i class="fab fa-whatsapp"></i> Instant WhatsApp Quote
                     </a>
                 </div>
@@ -576,8 +576,8 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
                 <div class="del2kod-quick-quote">
                     <h3>Get Free Relocation Estimate</h3>
                     <p>Transparent rates &bull; No hidden surcharges &bull; Dedicated move manager</p>
-                    <a href="tel:+919534499994" class="del2kod-call-btn"><i class="fas fa-headset"></i> Call Helpline: 95344 99994</a>
-                    <a href="https://api.whatsapp.com/send?phone=919534499994&text=Delhi%20to%20Koderma%20shifting%20quote%20request" target="_blank" class="del2kod-whatsapp-btn"><i class="fab fa-whatsapp"></i> Chat on WhatsApp</a>
+                    <a href="tel:+919835565233" class="del2kod-call-btn"><i class="fas fa-headset"></i> Call Helpline: 98355 65233</a>
+                    <a href="https://api.whatsapp.com/send?phone=918409531615&text=Delhi%20to%20Koderma%20shifting%20quote%20request" target="_blank" class="del2kod-whatsapp-btn"><i class="fab fa-whatsapp"></i> Chat on WhatsApp</a>
                 </div>
             </div>
         </div>
@@ -899,7 +899,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
     <div class="del2kod-cta-banner">
         <h2>Ready for a Seamless Move to Koderma?</h2>
         <p>Trust Shree Ashirwad Packers and Movers for dependable, insured national shifting between Delhi NCR and Koderma.</p>
-        <a href="tel:+919534499994" class="del2kod-cta-btn"><i class="fas fa-phone-alt"></i> Call Now: +91 95344 99994</a>
+        <a href="tel:+919835565233" class="del2kod-cta-btn"><i class="fas fa-phone-alt"></i> Call Now: +91 98355 65233</a>
     </div>
 </div>
 
@@ -912,7 +912,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
   "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
   "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
   "url": "https://www.shreeashirwadpackers.com",
-  "telephone": "+919534499994",
+  "telephone": "+91 9835565233",
   "priceRange": "₹₹",
   "address": {
     "@type": "PostalAddress",

@@ -545,7 +545,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s137-intro-p">Relocating into or out of Sector 137 requires specialized operational expertise tailored specifically to gated high-rise ecosystems. Gated communities in this sector enforce rigorous Resident Welfare Association (RWA) protocols, mandatory security clearances, designated service elevator schedules, strict lift padding requirements, and stringent parking bay regulations. Shree Ashirwad Packers and Movers brings comprehensive local experience to Sector 137, executing seamless household packing, fragile modular furniture dismantling, and nationwide inter-state transfers with total zero-damage assurance.</p>
 
         <div class="s137-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Sector 137 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Sector 137 Noida" width="580" height="360">
             <div class="s137-image-caption">Systematic truck loading with ramp suspension and corner edge protection in Sector 137 Noida</div>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s137-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Sector 137 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Sector 137 Noida" width="580" height="360">
             <div class="s137-image-caption">High-density bubble wrap, 5-ply corrugated carton boxing, and stretch film sealing in Sector 137 Noida</div>
         </div>
     </section>
@@ -698,7 +698,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s137-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Sector 137 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Sector 137 Noida" width="580" height="360">
             <div class="s137-image-caption">Professional carpenters dismantling modular furniture and king-size beds in Sector 137 Noida</div>
         </div>
     </section>
@@ -732,7 +732,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s137-intro-p">Every inter-state transit container is outfitted with real-time GPS telematics, dual driver teams for non-stop transit, and waterproof container doors that protect your valuable household goods against road dust, moisture, and highway vibrations.</p>
 
         <div class="s137-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Sector 137 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Sector 137 Noida" width="580" height="360">
             <div class="s137-image-caption">All-weather container fleet connecting Sector 137 Noida to inter-state metropolitan destinations</div>
         </div>
     </section>

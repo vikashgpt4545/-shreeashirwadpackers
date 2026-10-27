@@ -253,7 +253,7 @@ require_once "includes/config.php";
                 <!-- First Feature Image: 3:4 Responsive Container -->
                 <div class="content-image-wrapper" style="max-width: 420px; margin: 35px auto;">
                     <div style="position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Katras Dhanbad" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Katras Dhanbad" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; text-align: center; font-style: italic;">
                         Figure 1: Dedicated containerized carrier trucks providing door-to-door household goods transport in Katras and Dhanbad colliery regions.
@@ -292,7 +292,7 @@ require_once "includes/config.php";
                 <!-- Second Feature Image: 3:4 Responsive Container -->
                 <div class="content-image-wrapper" style="max-width: 420px; margin: 35px auto;">
                     <div style="position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy carton packing in Katras by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy carton packing in Katras by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; text-align: center; font-style: italic;">
                         Figure 2: Professional multi-layer bubble wrap, heavy corrugated paper, and heavy-duty box packing executed for home shifting in Katras.
@@ -365,7 +365,7 @@ require_once "includes/config.php";
                 <!-- Third Feature Image: 3:4 Responsive Container -->
                 <div class="content-image-wrapper" style="max-width: 420px; margin: 35px auto;">
                     <div style="position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicle in Katras Dhanbad by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicle in Katras Dhanbad by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; text-align: center; font-style: italic;">
                         Figure 3: Enclosed hydraulic car carrier loading vehicles safely for long-distance relocation from Katras, Dhanbad to other states.
@@ -496,7 +496,7 @@ require_once "includes/config.php";
                 <!-- Fourth Feature Image: 3:4 Responsive Container -->
                 <div class="content-image-wrapper" style="max-width: 420px; margin: 35px auto;">
                     <div style="position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial goods and household storage warehouse facility serving Katras Dhanbad" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial goods and household storage warehouse facility serving Katras Dhanbad" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; text-align: center; font-style: italic;">
                         Figure 4: Secure, dust-proof warehouse and transit storage facility for household belongings and commercial consignments in Jharkhand.

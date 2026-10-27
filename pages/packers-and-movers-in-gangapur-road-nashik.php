@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-gangapu
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-gangapur-road-nashik#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-gangapur-road-nashik",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Gangapur Road Nashik</h1>
         <p>Nashik's premier luxury relocation specialists. White-glove home shifting, executive villa moving, antique furniture crating, and vehicle carriers across College Road, Anandwali, and Serene Meadows.</p>
         <div class="gpr-btn-wrap">
-            <a href="tel:+919334404050" class="gpr-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gpr-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gpr-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring more than fifteen years of seasoned moving proficiency directly to Gangapur Road. Relocating along this elite urban corridor demands an experienced moving partner who respects quiet residential neighborhood norms, manages tight driveway entries, and plans linehaul routes to bypass busy commercial avenues. Our dedicated teams arrive with non-marking floor protective runners, specialized furniture dollies, hydraulic hand lifters, and sealed weatherproof container trucks to ensure an impeccably smooth, worry-free moving experience from start to finish.</p>
 
         <div class="gpr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck on Gangapur Road Nashik" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck on Gangapur Road Nashik" width="580" height="387" loading="lazy">
             <p class="gpr-image-caption">Professional loading crews securing packed household consignments inside our weatherproof container trucks on Gangapur Road.</p>
         </div>
 
@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gpr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials on Gangapur Road" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials on Gangapur Road" width="580" height="387" loading="lazy">
             <p class="gpr-image-caption">High-density air bubble wrap, corrugated sheets, and shrink film applied to protect fragile electronics and chinaware on Gangapur Road.</p>
         </div>
 
@@ -595,7 +595,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Final costs are determined by exact inventory volume, floor elevation, elevator availability, fragile crating requirements, and overall transit distance. For an exact customized quote tailored to your inventory, please view our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a> or speak directly with our Gangapur Road survey executive.</p>
 
         <div class="gpr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services on Gangapur Road" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services on Gangapur Road" width="580" height="387" loading="lazy">
             <p class="gpr-image-caption">Skilled carpenters carefully dismantling and wrapping heavy bed frames and wardrobes for safe residential transit on Gangapur Road.</p>
         </div>
 
@@ -640,7 +640,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gpr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck on Gangapur Road Nashik" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck on Gangapur Road Nashik" width="580" height="387" loading="lazy">
             <p class="gpr-image-caption">Our closed container vehicles ensuring safe, door-to-door delivery across residential sectors and townships throughout Gangapur Road.</p>
         </div>
 

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Dispur",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dispur-guwahati",
     "priceRange": "₹4,000 - ₹60,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="dsp-container">
       <h1>Packers and Movers in Dispur Guwahati</h1>
       <p>Premier government officer transfer shifting, Assam Secretariat institutional moving, family home relocation, and pan-India safe container transit across Dispur.</p>
-      <a href="tel:+919334484001" class="dsp-hero-btn">Call +91 9334484001 for Capital Shifting Quote</a>
+      <a href="tel:+919835565233" class="dsp-hero-btn">Call +91 9835565233 for Capital Shifting Quote</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Dispur serves as the permanent seat of the Government of Assam, functioning as the political and administrative powerhouse of the state. Anchored by the sprawling Janata Bhawan Secretariat complex and the Assam Legislative Assembly, Dispur is home to senior civil servants, judicial authorities, legislative representatives, and departmental directors. Beyond its administrative core, Dispur encompasses bustling commercial and residential neighborhoods including Supermarket, Dispur Last Gate, Jayanagar, and Sarumotoria. Managing relocations in Dispur requires specialized expertise in government transfer protocol compliance, strict security zone navigation, delicate antique furniture handling, and weather-proof moisture packaging.</p>
 
       <div class="dsp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Dispur Capital Complex" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Dispur Capital Complex" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dsp-grid-2">
@@ -488,7 +488,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From individual government employee home relocations to complete departmental secretariat transitions, our services cover every requirement:</p>
 
       <div class="dsp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Dispur" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Dispur" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dsp-grid-cards">
@@ -525,7 +525,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers adheres to a disciplined operational workflow designed to guarantee complete safety and timeliness:</p>
 
       <div class="dsp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Dispur" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Dispur" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dsp-grid-cards">
@@ -558,7 +558,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all major quarters and residential extensions of Dispur:</p>
 
       <div class="dsp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Dispur" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Dispur" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dsp-grid-cards">

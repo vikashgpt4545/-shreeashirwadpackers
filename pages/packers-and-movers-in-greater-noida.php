@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gn-intro-p">The logistical fabric of Greater Noida is uniquely diverse. Unlike congested inner cities, Greater Noida features 60-meter wide arterial boulevards, seamless access to the 6-lane Noida-Greater Noida Expressway, direct connectivity to the Yamuna Expressway heading towards Mathura, Agra, and the upcoming Jewar International Airport, and unhindered bypass routes via the Eastern Peripheral Expressway (KGP Expressway). The Aqua Line Metro further threads through key residential and commercial sectors from Sector 51 Noida down to the Depot Station in Greater Noida. Shree Ashirwad Packers and Movers has established its primary Greater Noida operational base near Pari Chowk to provide rapid, verified moving services for residents, university faculties, students, and corporate facilities alike.</p>
 
         <div class="gn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Greater Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Greater Noida" width="580" height="360">
             <div class="gn-image-caption">Professional loading and shock-absorbent stacking inside containerized trucks in Greater Noida</div>
         </div>
 
@@ -575,7 +575,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Greater Noida homes" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Greater Noida homes" width="580" height="360">
             <div class="gn-image-caption">Multi-layer bubble wrap, edge guards, and heavy-duty 5-ply cartons safeguard fragile home essentials</div>
         </div>
 
@@ -642,7 +642,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Greater Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Greater Noida" width="580" height="360">
             <div class="gn-image-caption">Trained carpenters carefully disassembling modular beds and wooden wardrobes for scratch-free transit</div>
         </div>
 
@@ -699,7 +699,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Greater Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Greater Noida" width="580" height="360">
             <div class="gn-image-caption">All-weather container trucks delivering door-to-door relocations with zero transit damage in Greater Noida</div>
         </div>
     </section>

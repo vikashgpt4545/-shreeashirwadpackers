@@ -745,7 +745,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-pun-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment and Corporate Moving Adityapur to Pune" title="Corporate Office Equipment Moving">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment and Corporate Moving Adityapur to Pune" title="Corporate Office Equipment Moving">
                 </div>
             </div>
         </div>
@@ -874,7 +874,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKAGING DEFENSE -->
             <div class="adi-pun-two-col">
                 <div class="adi-pun-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing for Adityapur to Pune Move" title="Fragile Glassware Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing for Adityapur to Pune Move" title="Fragile Glassware Packing">
                 </div>
                 <div class="adi-pun-two-col-text">
                     <h2>Advanced 5-Layer Defensive Packaging Standards</h2>
@@ -942,14 +942,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-pun-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Adityapur to Pune Move" title="Protective Sofa and Furniture Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Adityapur to Pune Move" title="Protective Sofa and Furniture Packing">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & CARRIER VEHICLE -->
             <div class="adi-pun-two-col" style="margin-top: 45px;">
                 <div class="adi-pun-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Adityapur to Pune Shifting" title="Car Carrier Transport">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Adityapur to Pune Shifting" title="Car Carrier Transport">
                 </div>
                 <div class="adi-pun-two-col-text">
                     <h2>Full Doorstep Coverage Across Adityapur &amp; Pune Metropolitan Region</h2>

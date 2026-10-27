@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Sarabha Nagar Ludhiana",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sarabha-nagar-ludhiana",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,800 - 65,000",
         "address": {
             "@type": "PostalAddress",
@@ -226,7 +226,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="snl-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Packing in Sarabha Nagar Ludhiana" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Packing in Sarabha Nagar Ludhiana" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -269,7 +269,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="snl-grid-2">
             <div>
                 <div class="snl-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Luxury Interior and Chandelier Packaging Sarabha Nagar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Luxury Interior and Chandelier Packaging Sarabha Nagar" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>
@@ -335,7 +335,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="snl-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Enclosed Container Truck in Sarabha Nagar Ludhiana" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Enclosed Container Truck in Sarabha Nagar Ludhiana" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -442,7 +442,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="snl-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Sarabha Nagar Ludhiana" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Sarabha Nagar Ludhiana" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>

@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Shastri Nagar Meerut",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -463,7 +463,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Shastri Nagar Meerut</h1>
         <p>Premium household shifting, medical equipment relocation, and corporate transfer services across Shastri Nagar Sectors 1-13, Central Market, and Garh Road with zero damage guarantee.</p>
         <div class="snm-hero-btn-group">
-            <a href="tel:+919334404050" class="snm-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="snm-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="snm-btn-secondary">Calculate Tariff</a>
         </div>
     </section>
@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="snm-intro-p">Relocating within or out of Shastri Nagar requires meticulous planning, specialized packaging protocols, and respectful handling of high-value ancestral artifacts, bespoke teakwood furniture, modular installations, and delicate medical consultation equipment. At Shree Ashirwad Packers and Movers, we bring over a decade of verified relocation expertise to ensure your move is completely seamless.</p>
 
         <div class="snm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Shastri Nagar Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Shastri Nagar Meerut" width="580" height="380" loading="lazy">
             <p class="snm-image-caption">Our experienced relocation crew carefully loading packed household cartons into secure container trucks in Shastri Nagar Meerut.</p>
         </div>
 
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="snm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Quality Packaging Materials in Shastri Nagar Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Quality Packaging Materials in Shastri Nagar Meerut" width="580" height="380" loading="lazy">
             <p class="snm-image-caption">Premium air-bubble wrap and reinforced carton packing for delicate household goods in Shastri Nagar Meerut.</p>
         </div>
 
@@ -666,7 +666,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="snm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Shastri Nagar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Shastri Nagar" width="580" height="380" loading="lazy">
             <p class="snm-image-caption">Skilled carpenters dismantling wooden beds and securing modular hardware in Shastri Nagar Meerut.</p>
         </div>
     </section>
@@ -679,7 +679,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="snm-intro-p">For moves heading eastward into Rohilkhand or Awadh, Shastri Nagar connects directly through Garh Road and Hapur Bypass toward Moradabad, Bareilly, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a>. Northbound journeys toward Muzaffarnagar, Roorkee, and Dehradun flow easily via the bypass highway link without having to cross congested downtown bazaar areas.</p>
 
         <div class="snm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Shastri Nagar Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Shastri Nagar Meerut" width="580" height="380" loading="lazy">
             <p class="snm-image-caption">Clean, enclosed container trucks delivering household goods safely to residences in Shastri Nagar Meerut.</p>
         </div>
 
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Stress-Free Shastri Nagar Relocation Today</h3>
         <p>Get in touch with our Shastri Nagar relocation experts for a personalized on-site survey, customized packaging schedule, and transparent price quotation.</p>
         <div class="snm-cta-group">
-            <a href="tel:+919334404050" class="snm-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="snm-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="snm-btn-secondary">Request Free Quote</a>
         </div>
     </section>

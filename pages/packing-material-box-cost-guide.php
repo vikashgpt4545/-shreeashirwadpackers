@@ -537,7 +537,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p><strong>1. 3-Ply Cartons (Single-Wall Board):</strong> Consists of one fluted corrugated inner medium sandwiched between two outer kraft paper liners. It offers basic vertical crush resistance and is strictly suitable for lightweight, non-fragile items like bed linens, soft toys, and winter jackets up to 10 kg. Stacking heavy items in 3-ply boxes leads to carton buckling.</p>
 
         <div class="pmbc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for professional packing materials and moving box transport" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for professional packing materials and moving box transport" width="580" height="386" loading="lazy">
         </div>
 
         <p><strong>2. 5-Ply Cartons (Double-Wall Board &mdash; The Industry Standard):</strong> Features two fluted corrugated mediums and three flat kraft liners. This provides immense vertical stacking strength (rated for up to 30 kg payload). It is the certified standard used by professional movers for heavy kitchen chinaware, books, small home electronics, and kitchen groceries.</p>
@@ -624,7 +624,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmbc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck loaded with certified 5-ply moving boxes and protected furniture" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck loaded with certified 5-ply moving boxes and protected furniture" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: Apartment Packaging Estimation Guide -->
@@ -682,7 +682,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmbc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging ready for residential shifting" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging ready for residential shifting" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: 5 Golden Rules of Packing to Prevent Breakage -->
@@ -720,7 +720,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>To calculate your complete moving budget including packaging materials and freight, use our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">live packers and movers charges calculator</a>, check our guide on <a href="<?php echo SITE_BASE_URL; ?>/how-to-calculate-packers-and-movers-charges" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">how to calculate moving charges</a>, and verify applicable <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-gst-rate" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">GST tax rates</a>.</p>
 
         <div class="pmbc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding using heavy-duty packaging materials" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding using heavy-duty packaging materials" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad's Packing Supplies -->

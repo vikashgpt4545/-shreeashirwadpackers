@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Patna Same-Day Shifting Guide | Express Movers | Call 9708579999</title>
-    <meta name="description" content="Step-by-step logistics blueprint for same-day and express household shifting from Ranchi to Patna via NH-20. Tolls, No-Entry windows, rates, and packing protocols. Call 9708579999.">
+    <title>Ranchi to Patna Same-Day Shifting Guide | Express Movers | Call 9835565233</title>
+    <meta name="description" content="Step-by-step logistics blueprint for same-day and express household shifting from Ranchi to Patna via NH-20. Tolls, No-Entry windows, rates, and packing protocols. Call 9835565233.">
     <meta name="keywords" content="ranchi to patna packers and movers, same day shifting ranchi to patna, express movers ranchi patna, nh 20 shifting truck ranchi patna, household transport patna bihar, shree ashirwad packers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-same-day-delivery">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Express Corridor Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-same-day-delivery",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>With our disciplined operational schedule, your household goods are packed in Ranchi at breakfast, driven across the Chota Nagpur Plateau and Gangetic plains during the day, and delivered into your new living room in Patna in time for dinner.</p>
                 </div>
                 <div class="rpsd-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck traversing NH-20 from Ranchi to Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck traversing NH-20 from Ranchi to Patna" loading="lazy">
                 </div>
             </div>
 
@@ -274,7 +274,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Key Highway Waypoints, Toll Gates & Border Documentation</h2>
             <div class="rpsd-grid-2">
                 <div class="rpsd-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Express transport truck passing through highway toll plazas between Ranchi and Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Express transport truck passing through highway toll plazas between Ranchi and Patna" loading="lazy">
                 </div>
                 <div>
                     <p>Navigating the NH-20 interstate corridor demands complete regulatory compliance to avoid commercial inspection delays. The 330 km route passes through multiple toll plazas equipped with automated FASTag sensors:</p>
@@ -370,7 +370,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </ul>
                 </div>
                 <div class="rpsd-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled carpenter dismantling double bed furniture in Ranchi for safe highway transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled carpenter dismantling double bed furniture in Ranchi for safe highway transit" loading="lazy">
                 </div>
             </div>
 
@@ -402,7 +402,7 @@ require_once BASE_PATH . '/includes/config.php';
 
             <div class="rpsd-highlight">
                 <h4>Ready to Schedule Your Ranchi to Patna Same-Day Move?</h4>
-                <p>Call our express route coordinator directly at <strong>+91 9708579999</strong> or message our support team on WhatsApp to lock in your moving date, secure your dedicated container, and enjoy an effortless transition to Patna.</p>
+                <p>Call our express route coordinator directly at <strong>+91 9835565233</strong> or message our support team on WhatsApp to lock in your moving date, secure your dedicated container, and enjoy an effortless transition to Patna.</p>
             </div>
         </section>
 

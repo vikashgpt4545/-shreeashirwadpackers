@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-velachery-chennai";
         "name": "Shree Ashirwad Packers and Movers Velachery Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -516,7 +516,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-velachery-chennai";
         <h1>Packers and Movers in Velachery Chennai | Safe Home Relocation</h1>
         <p>Reliable household moving, IT professional apartment shifting, monsoon water-barrier packing, and car-bike carriers across Vijaya Nagar, Bypass Road, 100 Feet Road, and Phoenix MarketCity.</p>
         <div class="vlc-btn-wrap">
-            <a href="tel:+919334404050" class="vlc-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="vlc-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vlc-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -529,7 +529,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-velachery-chennai";
         <p class="vlc-intro-p">However, moving within Velachery involves navigating high-density apartment complexes, narrow interior layout streets around Baby Nagar and Dhandeeswaram Nagar, and low-lying drainage topography near the Pallikaranai marshland that demands robust monsoon weather-proofing. At <strong>Shree Ashirwad Packers and Movers</strong>, working in close coordination with our central authority hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Packers and Movers in Chennai</a>, we deliver specialized relocation services engineered specifically for Velachery's modern residents.</p>
 
         <div class="vlc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Velachery Chennai Household Packing" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Velachery Chennai Household Packing" width="580" height="380" loading="lazy">
             <p class="vlc-image-caption">Careful multi-layer household wrapping and fragile carton packaging by Shree Ashirwad in Velachery</p>
         </div>
 
@@ -584,7 +584,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-velachery-chennai";
         </div>
 
         <div class="vlc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection in Velachery Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection in Velachery Chennai" width="580" height="380" loading="lazy">
             <p class="vlc-image-caption">Dedicated high-density edge protection and multi-layer bubble wrap for modern furniture in Velachery</p>
         </div>
     </section>
@@ -649,7 +649,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-velachery-chennai";
 
         <div class="vlc-highlight-box">
             <h3>Get Your Guaranteed Moving Quote Today</h3>
-            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Velachery moving desk directly at <strong>+91 9334404050</strong> for a complimentary pre-move assessment.</p>
+            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Velachery moving desk directly at <strong>+91 9835565233</strong> for a complimentary pre-move assessment.</p>
         </div>
     </section>
 
@@ -704,7 +704,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-velachery-chennai";
         </div>
 
         <div class="vlc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Velachery" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Velachery" width="580" height="380" loading="lazy">
             <p class="vlc-image-caption">Individual bubble wrapping and compartmentalized cartons for crystal and fine chinaware in Velachery</p>
         </div>
     </section>
@@ -742,7 +742,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-velachery-chennai";
         </div>
 
         <div class="vlc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Velachery Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Velachery Chennai" width="580" height="380" loading="lazy">
             <p class="vlc-image-caption">Modern enclosed container trucks ensuring weatherproof and secure transit across Chennai and interstate</p>
         </div>
     </section>

@@ -1001,7 +1001,7 @@ require_once __DIR__ . '/includes/seo.php';
       <div class="r2fbd-grid-2">
         <div>
           <div class="r2fbd-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Faridabad Packers and Movers - Weatherproof Sealed Container Fleet on NH-19 Highway" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Faridabad Packers and Movers - Weatherproof Sealed Container Fleet on NH-19 Highway" loading="lazy">
           </div>
         </div>
         <div>
@@ -1125,7 +1125,7 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
         <div>
           <div class="r2fbd-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Ranchi to Faridabad Packers and Movers - Complete Multi-Layer Household Packing for Fragile Articles" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Ranchi to Faridabad Packers and Movers - Complete Multi-Layer Household Packing for Fragile Articles" loading="lazy">
           </div>
           <div style="background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 10px; padding: 20px; margin-top: 15px;">
             <h4 style="color: #065f46; margin: 0 0 8px; font-size: 1rem;">Custom Wooden Crating for Fragile Assets</h4>
@@ -1215,7 +1215,7 @@ require_once __DIR__ . '/includes/seo.php';
       <div class="r2fbd-grid-2">
         <div>
           <div class="r2fbd-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Ranchi to Faridabad Bike Parcel - Dedicated Multi-layer Two-Wheeler Packaging by Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Ranchi to Faridabad Bike Parcel - Dedicated Multi-layer Two-Wheeler Packaging by Shree Ashirwad Packers" loading="lazy">
           </div>
         </div>
         <div>
@@ -1290,7 +1290,7 @@ require_once __DIR__ . '/includes/seo.php';
       <div class="r2fbd-grid-2" style="margin-top: 30px;">
         <div>
           <div class="r2fbd-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Ranchi to Faridabad Packers and Movers - Doorstep Unpacking and Room Setup Service" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Ranchi to Faridabad Packers and Movers - Doorstep Unpacking and Room Setup Service" loading="lazy">
           </div>
         </div>
         <div>

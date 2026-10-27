@@ -2,7 +2,7 @@
 /**
  * Packers and Movers in Chitarpur - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9308888746
+ * Contact: +91 8409531615 / +91 9835565233
  * Office: Serving Chitarpur, Rajrappa, Ramgarh District, Jharkhand
  */
 
@@ -188,7 +188,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chitarpur";
           "name": "How can I book Packers and Movers in Chitarpur?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You can contact our Chitarpur support desk directly at +91 8409531615 or +91 9308888746, or submit our online quick quote form on this page to schedule an immediate free survey."
+            "text": "You can contact our Chitarpur support desk directly at +91 8409531615 or +91 9835565233, or submit our online quick quote form on this page to schedule an immediate free survey."
           }
         }
       ]
@@ -333,7 +333,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chitarpur";
                     <!-- Image 1: Responsive container with 3:4 aspect ratio -->
                     <div class="content-media-embed" style="margin: 0 auto; max-width: 420px;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; border-radius: 14px; overflow: hidden; box-shadow: 0 15px 30px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Packing and Packaging Materials Chitarpur Ramgarh" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Packing and Packaging Materials Chitarpur Ramgarh" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 18px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 13.5px; font-weight: 600;"><i class="fa-solid fa-box-open" style="color: #60a5fa; margin-right: 8px;"></i> Multi-layer protective packing for delicate goods in Chitarpur.</p>
                             </div>
@@ -462,7 +462,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chitarpur";
                     <!-- Image 2: Responsive container with 3:4 aspect ratio -->
                     <div class="content-media-embed" style="margin: 0 auto; max-width: 420px;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; border-radius: 14px; overflow: hidden; box-shadow: 0 15px 30px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Chitarpur Ramgarh" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Chitarpur Ramgarh" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 18px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 13.5px; font-weight: 600;"><i class="fa-solid fa-truck-fast" style="color: #60a5fa; margin-right: 8px;"></i> Dedicated enclosed container vehicles providing door-to-door delivery across Chitarpur.</p>
                             </div>
@@ -567,7 +567,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chitarpur";
                     <!-- Image 3: Responsive container with 3:4 aspect ratio -->
                     <div class="content-media-embed" style="margin: 0 auto; max-width: 420px;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; border-radius: 14px; overflow: hidden; box-shadow: 0 15px 30px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Transport Services in Chitarpur Ramgarh" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Transport Services in Chitarpur Ramgarh" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 18px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 13.5px; font-weight: 600;"><i class="fa-solid fa-car-side" style="color: #60a5fa; margin-right: 8px;"></i> Hydraulic car carrier and enclosed bike transport trailers serving Chitarpur.</p>
                             </div>
@@ -711,7 +711,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chitarpur";
                     <!-- Image 4: Responsive container with 3:4 aspect ratio -->
                     <div class="content-media-embed" style="margin: 0 auto; max-width: 420px;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; border-radius: 14px; overflow: hidden; box-shadow: 0 15px 30px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods and Household Storage Warehouse Chitarpur" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods and Household Storage Warehouse Chitarpur" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 18px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 13.5px; font-weight: 600;"><i class="fa-solid fa-warehouse" style="color: #60a5fa; margin-right: 8px;"></i> Secure, pest-controlled warehousing facilities accessible for Chitarpur and Ramgarh.</p>
                             </div>
@@ -904,7 +904,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chitarpur";
                         <i class="fa-solid fa-chevron-down" style="color: #e67e22; font-size: 14px;"></i>
                     </summary>
                     <p style="margin-top: 14px; font-size: 15px; color: #475569; line-height: 1.7;">
-                        You can contact our Chitarpur support desk directly at +91 8409531615 or +91 9308888746, or submit our online quick quote form on this page to schedule an immediate free survey.
+                        You can contact our Chitarpur support desk directly at +91 8409531615 or +91 9835565233, or submit our online quick quote form on this page to schedule an immediate free survey.
                     </p>
                 </details>
             </div>
@@ -925,8 +925,8 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chitarpur";
                 <a href="tel:+918409531615" style="background: #ffc107; color: #0f172a; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
                     <i class="fa-solid fa-phone-volume"></i> Call 8409531615
                 </a>
-                <a href="tel:+919308888746" style="background: rgba(255, 255, 255, 0.12); color: #ffffff; border: 1px solid rgba(255,255,255,0.4); padding: 15px 28px; border-radius: 8px; font-weight: 600; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
-                    <i class="fa-solid fa-headset"></i> Alt Helpline: 9308888746
+                <a href="tel:+919835565233" style="background: rgba(255, 255, 255, 0.12); color: #ffffff; border: 1px solid rgba(255,255,255,0.4); padding: 15px 28px; border-radius: 8px; font-weight: 600; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
+                    <i class="fa-solid fa-headset"></i> Alt Helpline: 9835565233
                 </a>
             </div>
         </section>

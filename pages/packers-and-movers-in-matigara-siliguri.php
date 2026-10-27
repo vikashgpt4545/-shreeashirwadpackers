@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-matigara-siliguri#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-matigara-siliguri",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="mtg-body-p">At Shree Ashirwad Packers and Movers, we take pride in delivering gold-standard packing and moving solutions across Matigara. Whether you are transitioning to an executive villa inside Uttarayon, shifting into a high-rise condominium along Khaprail Road, or relocating out of state toward eastern metropolises, our vetted packing specialists ensure seamless relocation. Operating under our citywide network through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Packers and Movers in Siliguri</a>, we offer uninterrupted logistics support backed by modern enclosed transport containers.</p>
 
                 <div class="mtg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Matigara Siliguri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Matigara Siliguri">
                     <div class="mtg-image-caption">Careful loading of household consignments in Matigara, Siliguri.</div>
                 </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="mtg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Matigara Siliguri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Matigara Siliguri">
                     <div class="mtg-image-caption">High-density multi-layered bubble packaging and heavy cartons used in Matigara.</div>
                 </div>
 
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="mtg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Matigara Siliguri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Matigara Siliguri">
                     <div class="mtg-image-caption">Skilled furniture dismantling and protective wrapping in Matigara, Siliguri.</div>
                 </div>
 
@@ -696,7 +696,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="mtg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Matigara Siliguri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Matigara Siliguri">
                     <div class="mtg-image-caption">Dedicated door-to-door closed carrier truck operating in Matigara, Siliguri.</div>
                 </div>
 
@@ -751,7 +751,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Near Uttarayon Main Gate, NH 27, Matigara</li>
                     <li><strong>Service Hours:</strong> 7:00 AM - 9:30 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="mtg-cta-button">Request Free Moving Quote</a>

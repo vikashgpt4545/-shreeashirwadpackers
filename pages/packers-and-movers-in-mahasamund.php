@@ -20,7 +20,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Mahasamund",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mahasamund",
-        "telephone": "+919334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -417,7 +417,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Operated in seamless coordination with our central corporate hub at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Mahasamund operations provide comprehensive residential relocation, corporate employee shifting, two-wheeler and car carrier transportation, and heavy commercial logistics. Whether moving household goods locally from Station Road or BTI Road to Raipur, or transporting commercial freight into Odisha (Bargarh, Sambalpur, Jharsuguda), we secure all consignments with high-grade five-ply corrugated cartons, dense bubble wrap rolls, moisture-proof film, and heavy-duty cargo straps. You can calculate instant transparent moving estimates through our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live shifting cost calculator</a>.</p>
 
         <div class="msm-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Mahasamund by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Mahasamund by Shree Ashirwad Packers and Movers">
             <div class="msm-img-caption">Multi-tier bubble cushioning and heavy-duty corrugated packing in Mahasamund</div>
         </div>
 
@@ -476,7 +476,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="msm-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Mahasamund">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Mahasamund">
             <div class="msm-img-caption">High-micron stretch film, bubble rolls, and corrugated cartons utilized in Mahasamund</div>
         </div>
     </section>
@@ -592,7 +592,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="msm-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Mahasamund">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Mahasamund">
             <div class="msm-img-caption">Sealed container trucks providing 100% weather and dust protection across Eastern Chhattisgarh</div>
         </div>
     </section>
@@ -639,7 +639,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="msm-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Mahasamund">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Mahasamund">
             <div class="msm-img-caption">Hydraulic car carriers ensuring safe loading and scratch-free vehicle transport</div>
         </div>
     </section>
@@ -678,7 +678,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="msm-cta-box">
         <h3>Book Your Stress-Free Move in Mahasamund Today!</h3>
         <p>Connect with our Mahasamund relocation manager for an accurate moving estimate and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="msm-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="msm-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

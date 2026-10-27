@@ -395,7 +395,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhenkanal#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhenkanal",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -542,7 +542,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="dkl-body-p">Shree Ashirwad Packers and Movers operates a dedicated regional operations network across Dhenkanal. Utilizing the modernized NH-55 highway and connected arterial routes, we link Dhenkanal seamlessly to neighboring industrial hub <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul">Angul</a> (60 km), the judicial capital <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack">Cuttack</a> (55 km), the smart capital <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (85 km), and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="dkl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods container loading in Dhenkanal" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods container loading in Dhenkanal" width="580" height="380" loading="lazy">
                     <div class="dkl-image-caption">Systematic loading and cargo bracing inside closed-body transport fleet in Dhenkanal.</div>
                 </div>
 
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="dkl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Dhenkanal" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Dhenkanal" width="580" height="380" loading="lazy">
                     <div class="dkl-image-caption">Standardized 4-layer packaging utilizing bubble wrap, corrugated sheets, and edge protectors.</div>
                 </div>
 
@@ -674,7 +674,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="dkl-lead-p">Every relocation project in Dhenkanal is executed using disciplined operating procedures honed over years of reliable service across Eastern India, ensuring total security from initial survey to final room placement:</p>
 
                 <div class="dkl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Dhenkanal" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Dhenkanal" width="580" height="380" loading="lazy">
                     <div class="dkl-image-caption">Careful dismantling and packaging of modular bed frames, dining sets, and wardrobes.</div>
                 </div>
 
@@ -734,7 +734,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </ul>
 
                 <div class="dkl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Dhenkanal" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Dhenkanal" width="580" height="380" loading="lazy">
                     <div class="dkl-image-caption">Dedicated door-to-door delivery vehicles serving Dhenkanal urban sectors and industrial steel plants.</div>
                 </div>
 
@@ -806,7 +806,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <li>All-India Transit Coverage</li>
                     <li>24/7 Dedicated Move Coordinator</li>
                 </ul>
-                <a href="tel:+919334460424" class="dkl-cta-button">📞 Call: +91 93344 60424</a>
+                <a href="tel:+919835565233" class="dkl-cta-button">📞 Call: +91 9835565233</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dkl-cta-button" style="margin-top: 10px; background: linear-gradient(135deg, #0d9488 0%, #1e3a8a 100%);">📊 Calculate Charges Online</a>
             </div>
 
@@ -826,7 +826,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="dkl-body-p"><strong>Shree Ashirwad Packers and Movers</strong><br>
                 Corporate HQ: Ashok Nagar, Near Birsa Munda Airport Road, Ranchi, Jharkhand.<br>
                 Regional Dhenkanal Hub: NH-55 Bypass, Mahisapat Chowk, Dhenkanal, Odisha - 759001.<br>
-                Helpline: +91 93344 60424<br>
+                Helpline: +91 9835565233<br>
                 Email: info@shreeashirwadpackers.com</p>
                 <a href="<?php echo SITE_BASE_URL; ?>/" class="dkl-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>

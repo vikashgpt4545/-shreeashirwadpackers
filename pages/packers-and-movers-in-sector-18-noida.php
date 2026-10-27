@@ -545,7 +545,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s18-intro-p">Operating relocation services in Sector 18 demands unmatched operational mastery and precision timing. Unlike purely residential sectors, Sector 18 features intricate pedestrian footpaths, tightly scheduled multi-level parking zones, constant customer footfall, and stringent commercial vehicle entry restrictions enforced by the Noida Traffic Police. Shree Ashirwad Packers and Movers brings more than a decade of proven logistical experience to Sector 18, offering customized overnight commercial shifting, fragile electronics packing, and white-glove executive home relocations for neighboring residential sectors including Sector 17, 19, 27, 28, 29, and 30.</p>
 
         <div class="s18-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office and IT equipment packing in Sector 18 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office and IT equipment packing in Sector 18 Noida" width="580" height="360">
             <div class="s18-image-caption">Secure anti-static packaging and heavy equipment rigging for Sector 18 Noida commercial facilities</div>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s18-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packing materials for Sector 18 Noida commercial shifting" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packing materials for Sector 18 Noida commercial shifting" width="580" height="360">
             <div class="s18-image-caption">High-density bubble wrapping, virgin fiberboard cartons, and edge guards for Sector 18 inventory protection</div>
         </div>
     </section>
@@ -710,7 +710,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s18-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Sector 18 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Sector 18 Noida" width="580" height="360">
             <div class="s18-image-caption">Skilled carpenters dismantling executive conference tables and modular office furniture in Sector 18 Noida</div>
         </div>
     </section>
@@ -744,7 +744,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s18-intro-p">Every inter-state transit vehicle is equipped with satellite tracking, dual driver shifts for continuous transit, and waterproof container seals that safeguard household treasures and sensitive corporate assets against monsoon rains, highway dust, and transit vibrations.</p>
 
         <div class="s18-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Sector 18 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Sector 18 Noida" width="580" height="360">
             <div class="s18-image-caption">Direct door-to-door container fleet connecting Sector 18 Noida to inter-state commercial and residential hubs</div>
         </div>
     </section>

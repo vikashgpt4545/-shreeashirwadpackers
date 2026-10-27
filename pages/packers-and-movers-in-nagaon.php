@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Nagaon",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nagaon",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="ngn-container">
       <h1>Packers and Movers in Nagaon Assam</h1>
       <p>Pinnacle Central Assam relocation services, Nagaon Medical College staff moves, Nowgong College faculty shifting, Haibargaon commercial shifting, and safe NH 27 transit.</p>
-      <a href="tel:+919334484001" class="ngn-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="ngn-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Nagaon represents the geographical, agricultural, and commercial heartland of central Assam, strategically positioned on the fertile plains south of the Brahmaputra River and split gracefully by the historic Kolong River. As the administrative headquarters of Nagaon district, the town is celebrated for its rich historical legacy, pioneering academic centers such as Nowgong College (autonomous, established 1944) and Mahapurush Srimanta Sankaradeva Viswavidyalaya, the modern Nagaon Medical College and Hospital at Mohkhuli, the colossal wholesale trading yards of Haibargaon, and its vital role as the jumping-off gateway to Kaziranga National Park. Positioned at the crucial highway intersection where National Highway 27 merges with corridors leading into Karbi Anglong, Dima Hasao, and Upper Assam, Nagaon serves as an indispensable logistics crossroads. Relocating in Nagaon requires specialized expertise in commercial wholesale transit, medical officer transfer paperwork, and seasonal Kolong river humidity protection.</p>
 
       <div class="ngn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Nagaon Assam" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Nagaon Assam" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ngn-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Nagaon operational unit delivers tailored relocation services designed to address the diverse needs of medical faculty, wholesale merchants, college professors, and agricultural families:</p>
 
       <div class="ngn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Nagaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Nagaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ngn-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Nagaon follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="ngn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Nagaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Nagaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ngn-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Nagaon:</p>
 
       <div class="ngn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Nagaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Nagaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ngn-grid-cards">

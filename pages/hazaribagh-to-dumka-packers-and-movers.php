@@ -698,7 +698,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-dumka-packe
             </div>
             <div>
                 <div class="haz2dum-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Hazaribagh to Dumka Packers and Movers container truck" title="Closed container truck on Hazaribagh to Dumka relocation route">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Hazaribagh to Dumka Packers and Movers container truck" title="Closed container truck on Hazaribagh to Dumka relocation route">
                     <div class="haz2dum-img-caption">
                         <strong>Figure 1:</strong> Closed-body dedicated container truck transporting household goods safely along the 215 km Hazaribagh–Dumka corridor.
                     </div>
@@ -755,13 +755,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-dumka-packe
     <div class="container">
         <div class="haz2dum-grid-2">
             <div class="haz2dum-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging Hazaribagh to Dumka" title="Professional packaging for Hazaribagh to Dumka move">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging Hazaribagh to Dumka" title="Professional packaging for Hazaribagh to Dumka move">
                 <div class="haz2dum-img-caption">
                     <strong>Figure 2:</strong> Multi-layer bubble wrap and corrugated padding applied to household appliances and furniture before container loading.
                 </div>
             </div>
             <div class="haz2dum-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading Hazaribagh to Dumka" title="Vehicle carrier loading Hazaribagh to Dumka">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading Hazaribagh to Dumka" title="Vehicle carrier loading Hazaribagh to Dumka">
                 <div class="haz2dum-img-caption">
                     <strong>Figure 3:</strong> Secure vehicle loading on specialized car carriers equipped with heavy-duty tire straps and locking wheel ramps.
                 </div>
@@ -876,7 +876,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-dumka-packe
             </div>
             <div>
                 <div class="haz2dum-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup in Dumka" title="Careful room-by-room setup in Dumka">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup in Dumka" title="Careful room-by-room setup in Dumka">
                     <div class="haz2dum-img-caption">
                         <strong>Figure 4:</strong> Skilled movers carrying out careful unloading, carton unboxing, and furniture assembly at your destination residence in Dumka.
                     </div>

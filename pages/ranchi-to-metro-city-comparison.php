@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Metro City Relocation Guide | Cost of Living & Shifting | Call 9708579999</title>
-    <meta name="description" content="Compare moving from Ranchi to Delhi, Bengaluru, Mumbai & Kolkata. Detailed cost of living analysis, rental deposits, moving tariffs, vehicle transit, and transit times. Call 9708579999.">
+    <title>Ranchi to Metro City Relocation Guide | Cost of Living & Shifting | Call 9835565233</title>
+    <meta name="description" content="Compare moving from Ranchi to Delhi, Bengaluru, Mumbai & Kolkata. Detailed cost of living analysis, rental deposits, moving tariffs, vehicle transit, and transit times. Call 9835565233.">
     <meta name="keywords" content="ranchi to metro city relocation, cost of living ranchi vs bangalore, moving ranchi to delhi cost, shifting ranchi to mumbai packers, ranchi to kolkata moving guide">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-metro-city-comparison">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Interstate Metro Relocation Advisory",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-metro-city-comparison",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Metro City Relocation: Cost of Living & Moving Guide</h1>
                 <p>Planning a major life transition from the peaceful plateau of Ranchi to India's bustling mega-cities? Explore an authoritative breakdown of lifestyle expenditure variances, rental deposit practices, interstate highway transit logistics, and vehicle RTO transfer protocols.</p>
                 <div class="rmcc-cta-group">
-                    <a href="tel:+919708579999" class="rmcc-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20relocating%20from%20Ranchi%20to%20a%20metro%20city%20and%20need%20an%20interstate%20shifting%20quote" class="rmcc-btn-wa" target="_blank" rel="noopener">WhatsApp Metro Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rmcc-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20relocating%20from%20Ranchi%20to%20a%20metro%20city%20and%20need%20an%20interstate%20shifting%20quote" class="rmcc-btn-wa" target="_blank" rel="noopener">WhatsApp Metro Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rmcc-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated interstate closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated interstate closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -309,7 +309,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Interstate Transit Logistics: Connecting Ranchi to Metro Arteries</h2>
                 <div class="rmcc-grid-2">
                     <div class="rmcc-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized interstate long distance moving cartons packed in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized interstate long distance moving cartons packed in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Moving across state lines entails traversing complex national highway corridors with distinct geographic and toll realities. Our interstate container fleet navigates these primary lifelines:</p>
@@ -336,7 +336,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rmcc-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading family sedan for interstate transit in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading family sedan for interstate transit in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -350,7 +350,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>Metro gated societies operate under strict Resident Welfare Association (RWA) bylaws that govern vehicle entry timings, security verification for external moving personnel, and service elevator bookings. Knowing these rules in advance prevents moving trucks from being delayed at access gates.</p>
                     </div>
                     <div class="rmcc-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and high rise apartment furniture setup service by Shree Ashirwad Packers" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and high rise apartment furniture setup service by Shree Ashirwad Packers" loading="lazy">
                     </div>
                 </div>
 

@@ -953,14 +953,14 @@ require_once __DIR__ . '/includes/seo.php';
     <!-- Verified Image Grid 1 -->
     <div class="r2s-image-grid">
       <div class="r2s-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof Sealed Container Truck Loading Household Cargo in Ranchi for Siliguri Transit" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof Sealed Container Truck Loading Household Cargo in Ranchi for Siliguri Transit" loading="lazy">
         <div class="r2s-image-caption">
           <span class="r2s-image-tag">All-Weather Fleet</span>
           <p class="r2s-image-text">Sealed high-cube container trucks loaded at Ranchi dispatch hub for weather-resistant transit to North Bengal.</p>
         </div>
       </div>
       <div class="r2s-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Bubble Wrap and Corrugated Cartons for Interstate Relocation to Siliguri" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Bubble Wrap and Corrugated Cartons for Interstate Relocation to Siliguri" loading="lazy">
         <div class="r2s-image-caption">
           <span class="r2s-image-tag">Protective Shield</span>
           <p class="r2s-image-text">High-density air bubble wrap and 7-ply virgin corrugated cartons built to withstand 600-km highway vibrations.</p>
@@ -1093,14 +1093,14 @@ require_once __DIR__ . '/includes/seo.php';
     <!-- Verified Image Grid 2 -->
     <div class="r2s-image-grid">
       <div class="r2s-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Multi-Layer Sofa and Living Room Furniture Packing in Ranchi" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Multi-Layer Sofa and Living Room Furniture Packing in Ranchi" loading="lazy">
         <div class="r2s-image-caption">
           <span class="r2s-image-tag">Upholstery Defense</span>
           <p class="r2s-image-text">Virgin stretch wrap, heavy-duty quilted blankets, and edge guards shielding upholstered furniture during interstate transport.</p>
         </div>
       </div>
       <div class="r2s-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated Enclosed Car Carrier Loading Vehicle in Ranchi for Shifting to Siliguri" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated Enclosed Car Carrier Loading Vehicle in Ranchi for Shifting to Siliguri" loading="lazy">
         <div class="r2s-image-caption">
           <span class="r2s-image-tag">Vehicle Carrier Fleet</span>
           <p class="r2s-image-text">Covered vehicle carriers equipped with safety wheel chocks for scratch-free automobile shifting to Siliguri and NJP.</p>

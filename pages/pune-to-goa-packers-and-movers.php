@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Premier interstate moving solutions from Pune to Goa covering Panaji, Margao, Porvorim, Mapusa, and Candolim with sealed container transit.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹12,000 - ₹46,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy closed weatherproof container vehicles specifically engineered for navigating mountain passes and shielding cargo from high humidity and road vibrations. Whether you are moving to a retirement villa, shifting for a remote tech lifestyle, or setting up a boutique enterprise in Goa, our verified packing crews and seasoned drivers ensure that your valuable furnishings and delicate electronics arrive in pristine condition.</p>
 
         <div class="pnga-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Pune to Goa" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Pune to Goa" width="580" height="386">
         </div>
 
         <div class="pnga-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>At the Goa border near Pernem, our consignments enter North Goa with electronic clearance, branching off towards Mapusa, Panaji, or continuing down NH 66 towards Margao and South Goa. Our central dispatch desk monitors FASTag toll plazas (including Khedshivapur, Anewadi, Taswade, and Kini) to ensure uninterrupted transit and consistent adherence to scheduled arrival windows.</p>
 
         <div class="pnga-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
         </div>
 
         <div class="pnga-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Each delicate item is wrapped in air-cushioned bubble film, reinforced with corrugated corner guards, wrapped in moisture-resistant stretch film, and boxed into heavy 5-ply cartons. For fragile LED televisions, crystal chandeliers, marble temple units, and antique brassware, we build custom-measured wooden crates that absorb road shocks.</p>
 
         <div class="pnga-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Goa" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Goa" width="580" height="386">
         </div>
 
         <div class="pnga-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Before loading, our technical supervisors conduct a detailed 24-point pre-transit vehicle inspection. Exterior scratches, fuel levels, odometer readings, and accessory conditions are documented on an official inspection slip shared digitally with the vehicle owner.</p>
 
         <div class="pnga-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
         </div>
 
         <div class="pnga-grid-2">

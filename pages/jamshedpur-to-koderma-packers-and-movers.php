@@ -632,7 +632,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-pac
                 </ul>
             </div>
             <div class="jsr2kod-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Shree Ashirwad closed container truck transporting goods from Jamshedpur to Koderma">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Shree Ashirwad closed container truck transporting goods from Jamshedpur to Koderma">
             </div>
         </div>
     </div>
@@ -710,7 +710,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-pac
     <div class="container">
         <div class="jsr2kod-grid-2">
             <div class="jsr2kod-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer household packing in Jamshedpur for transit to Koderma">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer household packing in Jamshedpur for transit to Koderma">
             </div>
             <div>
                 <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.1rem; font-weight: 800; color: var(--jsr2kod-dark); margin-bottom: 20px;">
@@ -812,7 +812,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-pac
                 </ul>
             </div>
             <div class="jsr2kod-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automotive carrier loading car and bike in Jamshedpur for Koderma transport">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automotive carrier loading car and bike in Jamshedpur for Koderma transport">
             </div>
         </div>
     </div>
@@ -823,7 +823,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-pac
     <div class="container">
         <div class="jsr2kod-grid-2">
             <div class="jsr2kod-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly at residence in Koderma Jharkhand">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly at residence in Koderma Jharkhand">
             </div>
             <div>
                 <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.1rem; font-weight: 800; color: var(--jsr2kod-dark); margin-bottom: 20px;">

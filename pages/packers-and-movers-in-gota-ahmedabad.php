@@ -33,7 +33,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Gota Ahmedabad",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-gota-ahmedabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -393,7 +393,7 @@ $state_name = 'Gujarat';
       <p>The urban layout of Gota combines rapid infrastructural expansion with high-density gated societies. Complexes like Godrej Garden City host thousands of families across multiple towers, each with its own internal gate pass verification, security clearance protocols, and service elevator time limits. Our local moving supervisors are intimately familiar with these society bylaws, coordinating move-in slots well in advance to prevent waiting delays at security gates or misunderstandings with resident welfare associations (RWAs).</p>
 
       <div class="gta-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Apartment Moving Services in Gota Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Apartment Moving Services in Gota Ahmedabad" width="580" height="380" loading="lazy">
       </div>
 
       <div class="gta-highlight-box">
@@ -438,7 +438,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="gta-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Gota Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Gota Ahmedabad" width="580" height="380" loading="lazy">
       </div>
 
       <h3>Specialized Multi-Tier Protective Packing Methods</h3>
@@ -533,7 +533,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="gta-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Gota Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Gota Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -569,7 +569,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="gta-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Gota Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Gota Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Gujarat';
     <div class="gta-cta-bar">
       <h3>Plan Your Stress-Free Move in Gota Ahmedabad</h3>
       <p>Speak with our Gota relocation specialists today for a transparent, no-obligation quote and slot reservation.</p>
-      <a href="tel:+919334484001" class="gta-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="gta-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="gta-section">

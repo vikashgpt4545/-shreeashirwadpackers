@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plant Relocation Guide Ranchi | Moving Indoor & Garden Plants Safely | Call 9708579999</title>
-    <meta name="description" content="Complete guide to moving indoor houseplants, bonsai, succulents, and terrace gardens in Ranchi. Learn plastic repotting, root hydration, breathable carton packaging, and post-move shock care. Call 9708579999.">
+    <title>Plant Relocation Guide Ranchi | Moving Indoor & Garden Plants Safely | Call 9835565233</title>
+    <meta name="description" content="Complete guide to moving indoor houseplants, bonsai, succulents, and terrace gardens in Ranchi. Learn plastic repotting, root hydration, breathable carton packaging, and post-move shock care. Call 9835565233.">
     <meta name="keywords" content="plant relocation guide ranchi, shifting houseplants ranchi, terrace garden shifting jharkhand, move bonsai plants safely, packers and movers for plants ranchi, shree ashirwad plant shifting">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/plant-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Botanical Care Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/plant-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Plant Relocation Guide: Moving Indoor & Garden Flora in Ranchi</h1>
                 <p>Houseplants and terrace gardens take years of patient nurturing to flourish. Moving them across town or out of state requires botanical knowledge, root protection, and careful environmental management. Discover professional techniques to safeguard your greenery from wilting, root damage, and transplant shock.</p>
                 <div class="plrg-cta-group">
-                    <a href="tel:+919708579999" class="plrg-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20assistance%20moving%20my%20plants%20and%20terrace%20garden%20in%20Ranchi" class="plrg-btn-wa" target="_blank" rel="noopener">WhatsApp Garden Moving Help</a>
+                    <a href="tel:+919835565233" class="plrg-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20assistance%20moving%20my%20plants%20and%20terrace%20garden%20in%20Ranchi" class="plrg-btn-wa" target="_blank" rel="noopener">WhatsApp Garden Moving Help</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="plrg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Botanical care and boxed plant packing by Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Botanical care and boxed plant packing by Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -274,7 +274,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Specialized Packaging Techniques by Botanical Variety</h2>
                 <div class="plrg-grid-2">
                     <div class="plrg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Perforated corrugated wrapping sheets for protecting houseplant foliage in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Perforated corrugated wrapping sheets for protecting houseplant foliage in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Different plant families have unique structural vulnerabilities that dictate how they must be packed:</p>
@@ -304,7 +304,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="plrg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Sturdy timber caging and deck bracing for terrace garden plants in Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Sturdy timber caging and deck bracing for terrace garden plants in Jharkhand" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -362,7 +362,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Post-Move Acclimatization: Reviving Plants from Transport Shock</h2>
                 <div class="plrg-grid-2">
                     <div class="plrg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated climate safe transport vehicle for household and botanical shifting in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated climate safe transport vehicle for household and botanical shifting in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Even with flawless packing, plants experience "transplant shock" characterized by droopy foliage, curling leaves, or temporary leaf drop. Help your plants recover with these botanical steps:</p>

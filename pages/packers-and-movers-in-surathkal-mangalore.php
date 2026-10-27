@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-surathkal-mangalore";
         "name": "Shree Ashirwad Packers and Movers Surathkal Mangalore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -521,7 +521,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Surathkal Mangalore</h1>
         <p>Expert household shifting, NITK student luggage moving, coastal industrial machinery transport, and vehicle moving across Surathkal, Baikampady, Mukka, Kulai, and MRPL Township.</p>
         <div class="stk-btn-wrap">
-            <a href="tel:+919334404050" class="stk-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="stk-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="stk-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -549,7 +549,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="stk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Surathkal Mangalore" title="Household relocation in Surathkal">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Surathkal Mangalore" title="Household relocation in Surathkal">
             <p class="stk-image-caption">Comprehensive household packing and organized labeling for residential homes in Surathkal Mangalore.</p>
         </div>
     </section>
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Our logistics specialists handle oversized industrial spare parts, heavy fabrication tools, and corporate housing furniture, coordinating scheduled collection and rapid delivery to site offices or residential quarters with complete documentation and transit insurance coverage.</p>
 
         <div class="stk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Surathkal Mangalore" title="Furniture packing in Surathkal Mangalore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Surathkal Mangalore" title="Furniture packing in Surathkal Mangalore">
             <p class="stk-image-caption">Multi-tier bubble wrapping and edge guards applied to premium furniture in Surathkal Mangalore.</p>
         </div>
     </section>
@@ -631,7 +631,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Given Surathkal's massive student and industrial workforce, two-wheeler transport is among our most popular services. We pack motorcycles, Royal Enfield bikes, and scooters using dense foam padding on fuel tanks, side mirrors, and exhausts. Vehicles are secured with wheel chocks and heavy-duty ratchet straps inside covered carriers, ensuring scratch-free delivery to Bangalore, Pune, Mumbai, or eastern destinations like Ranchi.</p>
 
         <div class="stk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Surathkal Mangalore" title="Delicate packing in Surathkal">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Surathkal Mangalore" title="Delicate packing in Surathkal">
             <p class="stk-image-caption">Individual bubble wrapping and shock-absorbent cell partitioning for glassware and crockery in Surathkal.</p>
         </div>
     </section>
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="stk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Surathkal Mangalore" title="Safe transit truck in Surathkal">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Surathkal Mangalore" title="Safe transit truck in Surathkal">
             <p class="stk-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

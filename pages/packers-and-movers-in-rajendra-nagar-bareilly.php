@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Rajendra Nagar Bareilly",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -463,7 +463,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Rajendra Nagar Bareilly</h1>
         <p>Premium household shifting, duplex kothi relocations, and retail showroom moves across Rajendra Nagar, DD Puram, Stadium Road, and Selection Point with zero damage guarantee.</p>
         <div class="rnb-hero-btn-group">
-            <a href="tel:+919334404050" class="rnb-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="rnb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rnb-btn-secondary">Check Tariff</a>
         </div>
     </section>
@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="rnb-intro-p">Home to prominent business owners, leading healthcare practitioners, senior corporate professionals, and influential trading families, the area boasts a high concentration of luxurious multi-storey duplex kothis, contemporary designer bungalows, and newly developed builder floors. Relocating in Rajendra Nagar requires specialized expertise in navigating energetic retail avenues, coordinating residential gate clearances, and handling high-value home installations.</p>
 
         <div class="rnb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Rajendra Nagar Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Rajendra Nagar Bareilly" width="580" height="380" loading="lazy">
             <p class="rnb-image-caption">Our professional loading crew carefully handling packed residential goods in Rajendra Nagar Bareilly.</p>
         </div>
 
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="rnb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Rajendra Nagar Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Rajendra Nagar Bareilly" width="580" height="380" loading="lazy">
             <p class="rnb-image-caption">High-density bubble wrapping and reinforced multi-wall cartons utilized for household goods in Rajendra Nagar Bareilly.</p>
         </div>
 
@@ -666,7 +666,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="rnb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Rajendra Nagar Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Rajendra Nagar Bareilly" width="580" height="380" loading="lazy">
             <p class="rnb-image-caption">Skilled carpenters carefully dismantling wooden beds and securing modular hardware in Rajendra Nagar Bareilly.</p>
         </div>
     </section>
@@ -679,7 +679,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="rnb-intro-p">Heading westbound, our GPS-monitored container trucks connect effortlessly through the northern ring bypass toward Rampur, Moradabad, and Delhi NCR in approximately 5 to 6 hours. Northbound connections via the Pilibhit bypass provide direct access toward Uttarakhand destinations like Haldwani, Nainital, and Kathgodam.</p>
 
         <div class="rnb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Rajendra Nagar Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Rajendra Nagar Bareilly" width="580" height="380" loading="lazy">
             <p class="rnb-image-caption">Clean, enclosed container trucks delivering household goods safely to residences in Rajendra Nagar Bareilly.</p>
         </div>
 
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Seamless Rajendra Nagar Move Today</h3>
         <p>Contact our Rajendra Nagar relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="rnb-cta-group">
-            <a href="tel:+919334404050" class="rnb-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="rnb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rnb-btn-secondary">Request Free Quote</a>
         </div>
     </section>

@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Govind Nagar Kanpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="gvn-hero-title">Packers and Movers in Govind Nagar Kanpur</h1>
         <p class="gvn-hero-subtitle">Reliable Household Shifting, Retail Relocation, and Dedicated Logistics Across South-Central Kanpur's Established Planned Township</p>
         <div class="gvn-cta-group">
-            <a href="tel:+919334404050" class="gvn-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gvn-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gvn-btn-secondary">Check Shifting Rates</a>
         </div>
     </section>
@@ -507,7 +507,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gvn-intro-p">Shree Ashirwad Packers and Movers provides tested, end-to-end relocation services across every block of Govind Nagar. Relocating homes in this bustling neighborhood requires specialized planning: navigating multi-story residential buildings with steep staircases, avoiding busy market hours along Nandlal Chauraha, and safely maneuvering transport vehicles through interconnected residential lanes. Our seasoned crews use durable 5-ply corrugated cartons, premium air-bubble wrap, and compact 14-foot closed container trucks designed specifically for smooth urban operations.</p>
 
         <div class="gvn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Govind Nagar Kanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Govind Nagar Kanpur" width="580" height="380" loading="lazy">
             <p class="gvn-image-caption">Shree Ashirwad packing crew carefully loading boxed household goods into closed container vehicles in Govind Nagar.</p>
         </div>
 
@@ -582,7 +582,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gvn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy Duty Corrugated Carton Packaging and Bubble Wrapping in Govind Nagar Kanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy Duty Corrugated Carton Packaging and Bubble Wrapping in Govind Nagar Kanpur" width="580" height="380" loading="lazy">
             <p class="gvn-image-caption">Heavy-duty corrugated box packing and virgin bubble wrap cushioning for household articles in Govind Nagar.</p>
         </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gvn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Assembly by Expert Carpenters in Govind Nagar Kanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Assembly by Expert Carpenters in Govind Nagar Kanpur" width="580" height="380" loading="lazy">
             <p class="gvn-image-caption">Skilled carpenters disassembling and wrapping modular double beds before transit in Govind Nagar.</p>
         </div>
     </section>
@@ -700,7 +700,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gvn-intro-p">For interstate relocations heading toward Delhi, Noida, and Gurgaon, our containerized trucks connect via the bypass corridor directly onto the Agra-Lucknow Expressway and Yamuna Expressway, delivering cargo safely within 10 to 14 hours. Eastbound consignments heading to Varanasi, Patna, Gaya, and Ranchi move smoothly along the multi-lane NH-19 highway network.</p>
 
         <div class="gvn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Closed Body Container Fleet Delivering in Govind Nagar Kanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Closed Body Container Fleet Delivering in Govind Nagar Kanpur" width="580" height="380" loading="lazy">
             <p class="gvn-image-caption">Closed-body container fleet ensuring secure, dust-free door-to-door transit from Govind Nagar across India.</p>
         </div>
 
@@ -765,7 +765,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Stress-Free Shifting in Govind Nagar</h3>
         <p>Contact our Govind Nagar relocation team today for a free doorstep survey, clear written quote, and safe, reliable moving service.</p>
         <div class="gvn-cta-group">
-            <a href="tel:+919334404050" class="gvn-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gvn-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gvn-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

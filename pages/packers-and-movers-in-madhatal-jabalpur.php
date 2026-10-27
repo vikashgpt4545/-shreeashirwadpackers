@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Madhatal Jabalpur",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-madhatal-jabalpur",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,900 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -431,7 +431,7 @@ $state_name = 'Madhya Pradesh';
           <p>Our moving managers conduct prior on-site assessments across all trading streets in Madhatal, ensuring moving permissions are obtained smoothly in advance and parking clearances are secured to avoid marketplace disruptions.</p>
         </div>
         <div class="mdt-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Madhatal Jabalpur" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Madhatal Jabalpur" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -473,7 +473,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="mdt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Defensive Household Packing Madhatal Jabalpur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Defensive Household Packing Madhatal Jabalpur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -588,7 +588,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="mdt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Madhatal Jabalpur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Madhatal Jabalpur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -620,7 +620,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="mdt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Madhatal Jabalpur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Madhatal Jabalpur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -686,7 +686,7 @@ $state_name = 'Madhya Pradesh';
     <div class="mdt-cta-bar">
       <h3>Ready for a Smooth Move in Madhatal Jabalpur?</h3>
       <p>Connect with our expert relocation specialists today for an instant survey, guaranteed quote, and seamless moving experience.</p>
-      <a href="tel:+919334484001" class="mdt-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="mdt-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

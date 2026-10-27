@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Kolkata Movers Guide | NH-16 Express Shifting | Call 9708579999</title>
-    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Kolkata via NH-33 and NH-16. 415 km transit schedules, Kona Expressway rules, costs, and packaging. Call 9708579999.">
+    <title>Ranchi to Kolkata Movers Guide | NH-16 Express Shifting | Call 9835565233</title>
+    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Kolkata via NH-33 and NH-16. 415 km transit schedules, Kona Expressway rules, costs, and packaging. Call 9835565233.">
     <meta name="keywords" content="ranchi to kolkata packers and movers, moving from ranchi to kolkata, household goods shifting ranchi kolkata, nh 16 movers ranchi kolkata, cost of packers ranchi to kolkata, shree ashirwad packers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-movers-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Eastern Corridor Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-movers-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>From Kharagpur, the route proceeds past the Kolaghat thermal belt and the Rupnarayan River bridge directly to Dhulagarh Toll Plaza and the Kona Expressway, descending across Vidyasagar Setu (Second Hooghly Bridge) into metropolitan Kolkata in just 10 to 12 hours of driving.</p>
                 </div>
                 <div class="rkmg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the expressway corridor from Ranchi to Kolkata" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the expressway corridor from Ranchi to Kolkata" loading="lazy">
                 </div>
             </div>
 
@@ -279,7 +279,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Coastal Humidity Protection: Multi-Layer Barrier Packaging</h2>
             <div class="rkmg-grid-2">
                 <div class="rkmg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck navigating urban Kolkata roads" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck navigating urban Kolkata roads" loading="lazy">
                 </div>
                 <div>
                     <p>Kolkata's coastal delta environment has significantly higher atmospheric moisture compared to Ranchi's dry plateau air. Exposing untreated wooden furniture or sensitive electronic circuits to high relative humidity during transit can cause timber swelling, mold formation, or terminal circuit corrosion.</p>
@@ -407,7 +407,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </ul>
                 </div>
                 <div class="rkmg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons neatly packed and ready for transport to Kolkata" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons neatly packed and ready for transport to Kolkata" loading="lazy">
                 </div>
             </div>
 

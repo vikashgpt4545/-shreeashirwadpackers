@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Kaushambi Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="ksb-hero-title">Packers and Movers in Kaushambi Ghaziabad</h1>
         <p class="ksb-hero-subtitle">Premier high-rise society shifting, seamless cross-border Delhi relocations, professional carpentry, and inter-state logistics along the Anand Vihar border corridor.</p>
         <div class="ksb-cta-group">
-            <a href="tel:+919334404050" class="ksb-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="ksb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ksb-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ksb-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have specialized in Kaushambi relocations for over a decade. Whether you are shifting into a luxury high-rise apartment in <strong>Kamadgiri, Neelpadam Kunj, Girnar, Vindhyagiri, or Malayagiri</strong>, or moving across the border into East Delhi neighborhoods like Patparganj, Mayur Vihar, or Preet Vihar, our trained moving crews ensure zero-stress, scratch-free transitions.</p>
 
         <div class="ksb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Kaushambi Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Kaushambi Ghaziabad" loading="lazy">
             <p class="ksb-image-caption">Dedicated residential loading and elevator handling across Kaushambi high-rise societies</p>
         </div>
 
@@ -548,7 +548,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ksb-intro-p">We arrange prior security clearances with Resident Welfare Associations (RWAs), ensure freight lift wall padding is secured before moving heavy wooden furniture, and align operations with designated non-disruptive moving hours. Our crews deploy rubber-wheeled platform trolleys to transport cartons across landscaped walkways without making noise or damaging paving stones.</p>
 
         <div class="ksb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Kaushambi" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Kaushambi" loading="lazy">
             <p class="ksb-image-caption">High-density shock-absorbent bubble wrapping protects delicate electronics and kitchenware</p>
         </div>
 
@@ -678,7 +678,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ksb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry technician dismantling modular furniture in Kaushambi" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry technician dismantling modular furniture in Kaushambi" loading="lazy">
             <p class="ksb-image-caption">Certified carpentry technicians carefully dismantle modular double beds and sliding wardrobes</p>
         </div>
     </section>
@@ -693,7 +693,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ksb-intro-p">In addition to eastern corridors, our linehaul trucks utilize the Eastern Peripheral Expressway (EPE) via Dasna to bypass Delhi's inner ring entirely, ensuring rapid transit towards Haryana, Punjab, Rajasthan, and Western Uttar Pradesh with zero urban traffic delays.</p>
 
         <div class="ksb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kaushambi Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kaushambi Ghaziabad" loading="lazy">
             <p class="ksb-image-caption">Weatherproof enclosed container trucks guarantee secure, timely door-to-door deliveries</p>
         </div>
     </section>
@@ -756,7 +756,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Kaushambi Move Today</h3>
         <p>Contact our experienced moving specialists for a transparent estimate, free home survey, and seamless cross-border shifting experience.</p>
         <div class="ksb-cta-group">
-            <a href="tel:+919334404050" class="ksb-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="ksb-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ksb-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

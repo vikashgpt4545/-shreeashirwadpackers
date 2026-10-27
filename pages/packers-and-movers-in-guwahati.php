@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-guwahati",
     "priceRange": "₹4,000 - ₹65,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="ght-container">
       <h1>Packers and Movers in Guwahati Assam</h1>
       <p>Premier household relocation, commercial Secretariat moving, Northeast seven sisters gateway logistics, and pan-India safe container transport in Guwahati.</p>
-      <a href="tel:+919334484001" class="ght-hero-btn">Call +91 9334484001 for Free Moving Quote</a>
+      <a href="tel:+919835565233" class="ght-hero-btn">Call +91 9835565233 for Free Moving Quote</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Guwahati stands as the bustling commercial metropolis, political center, and undisputed logistical gateway of Northeast India. Positioned majestically along the banks of the mighty Brahmaputra River against the rolling foothills of the Shillong plateau, Guwahati connects Assam and the Seven Sister States to the rest of the Indian subcontinent through the vital Siliguri chicken's neck corridor. From the administrative epicenters of Dispur and the Assam State Secretariat to the high-density corporate high-rises along GS Road and Zoo Road, Guwahati combines rapid urban growth with unique geographic and meteorological challenges. Relocating in Guwahati requires expert route knowledge, monsoon flood management, hill-terrain truck navigation, and specialized multi-tier moisture-lock packing.</p>
 
       <div class="ght-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading household goods Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading household goods Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ght-grid-2">
@@ -488,7 +488,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From local apartment moves in central Guwahati to interstate linehauls across Northeast India, our specialized services cover every relocation requirement:</p>
 
       <div class="ght-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ght-grid-cards">
@@ -525,7 +525,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every move managed by Shree Ashirwad Packers and Movers adheres to a disciplined operational workflow designed to guarantee complete safety and timeliness:</p>
 
       <div class="ght-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ght-grid-cards">
@@ -558,7 +558,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our localized pickup teams operate across every primary residential quarter, commercial sector, and suburban district of Guwahati:</p>
 
       <div class="ght-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="ght-grid-cards">

@@ -123,14 +123,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew - Shree Ashirwad Packers and Movers Ranchi" title="Professional Packers and Movers in Ranchi Loading Household Goods" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew - Shree Ashirwad Packers and Movers Ranchi" title="Professional Packers and Movers in Ranchi Loading Household Goods" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">2009</span>
                 <span class="badge-txt">Founded in Harmu, Ranchi</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Company Owned Container Trucks - Shree Ashirwad Packers Jharkhand" title="Company Owned Container Moving Trucks - Shree Ashirwad Packers" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Company Owned Container Trucks - Shree Ashirwad Packers Jharkhand" title="Company Owned Container Moving Trucks - Shree Ashirwad Packers" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -295,16 +295,16 @@ require_once __DIR__ . '/includes/seo.php';
 
           <div class="infra-images-grid">
             <div class="infra-img-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck Ranchi - Shree Ashirwad Packers" title="Safe Transit Closed Container Truck in Ranchi" width="400" height="260" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck Ranchi - Shree Ashirwad Packers" title="Safe Transit Closed Container Truck in Ranchi" width="400" height="260" loading="lazy">
             </div>
             <div class="infra-img-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Warehouse Storage Facility Ranchi - Shree Ashirwad Packers" title="Commercial Goods Storage and Household Warehousing in Ranchi" width="400" height="260" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Warehouse Storage Facility Ranchi - Shree Ashirwad Packers" title="Commercial Goods Storage and Household Warehousing in Ranchi" width="400" height="260" loading="lazy">
             </div>
             <div class="infra-img-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Moving Truck Jharkhand - Shree Ashirwad Packers" title="Door-to-Door Delivery Moving Truck in Jharkhand" width="400" height="260" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Moving Truck Jharkhand - Shree Ashirwad Packers" title="Door-to-Door Delivery Moving Truck in Jharkhand" width="400" height="260" loading="lazy">
             </div>
             <div class="infra-img-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment Secure Packing - Shree Ashirwad Packers Jamshedpur" title="Office Equipment and Commercial Relocation Packing" width="400" height="260" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment Secure Packing - Shree Ashirwad Packers Jamshedpur" title="Office Equipment and Commercial Relocation Packing" width="400" height="260" loading="lazy">
             </div>
           </div>
 
@@ -342,7 +342,7 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Trained Crew Loading Multi-Story Apartment - Shree Ashirwad Packers Ranchi" title="Trained Moving Crew Loading Multi-Story Apartment in Ranchi" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Trained Crew Loading Multi-Story Apartment - Shree Ashirwad Packers Ranchi" title="Trained Moving Crew Loading Multi-Story Apartment in Ranchi" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">100%</span>
                 <span class="badge-txt">Background Verified Staff</span>

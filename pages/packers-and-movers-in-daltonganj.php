@@ -383,8 +383,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dal
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:400px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:14px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" 
                   alt="Residential relocation cartons and household packing in Daltonganj" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -527,8 +526,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dal
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:380px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" 
                   alt="Kitchen crockery bubble wrap packing in Daltonganj" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -625,8 +623,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dal
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:380px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" 
                   alt="Safe transit container truck operating between Daltonganj and Ranchi" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -932,8 +929,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dal
           <div style="display:flex; flex-direction:column; align-items:center;">
             <figure style="margin:0; max-width:380px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
                   alt="Electronics and LED TV wooden crating in Daltonganj" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"

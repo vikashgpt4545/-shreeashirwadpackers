@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Six Mile Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-six-mile-guwahati",
     "priceRange": "₹4,000 - ₹62,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="smg-container">
       <h1>Packers and Movers in Six Mile Guwahati</h1>
       <p>Premier healthcare professional relocation, GNRC hospital staff moving, VIP Road luxury condominium shifting, and nationwide container transit in Six Mile.</p>
-      <a href="tel:+919334484001" class="smg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="smg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Six Mile represents one of the most prominent, rapidly evolving commercial, medical, and upscale residential crossroads of South Guwahati. Situated prominently along the arterial GS Road corridor and serving as the primary gateway to the high-density residential stretch of VIP Road leading toward Borbari and Narengi, Six Mile is anchored by the renowned GNRC Hospital, the modern Six Mile Flyover, prominent retail arcades, and elite gated apartment complexes in Chachal and Dwaraka Nagar. Home to medical specialists, healthcare practitioners, corporate executives, and affluent families, Six Mile experiences dynamic residential mobility. Successfully executing a relocation in Six Mile necessitates expertise in navigating multi-level apartment elevator regulations, fast-flowing flyover junction traffic, and specialized medical equipment packaging.</p>
 
       <div class="smg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Six Mile Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Six Mile Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="smg-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Six Mile operational unit delivers tailored relocation services designed to address the diverse needs of medical specialists, corporate professionals, condominium residents, and local traders:</p>
 
       <div class="smg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Six Mile" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Six Mile" width="580" height="360" loading="lazy">
       </div>
 
       <div class="smg-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Six Mile follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="smg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Six Mile" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Six Mile" width="580" height="360" loading="lazy">
       </div>
 
       <div class="smg-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Six Mile:</p>
 
       <div class="smg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Six Mile" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Six Mile" width="580" height="360" loading="lazy">
       </div>
 
       <div class="smg-grid-cards">

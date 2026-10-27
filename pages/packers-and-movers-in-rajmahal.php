@@ -365,7 +365,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-raj
         <!-- Image Callout 1: Responsive 3:4 Container -->
         <div style="margin-bottom: 35px; text-align: center;">
             <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
                      alt="Shree Ashirwad Packers and Movers Door to Door Delivery Truck in Rajmahal Sahibganj" 
                      style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                      loading="lazy">
@@ -475,7 +475,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-raj
         <!-- Image Callout 2: Responsive 3:4 Container -->
         <div style="margin-bottom: 35px; text-align: center;">
             <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
                      alt="Multi-Layer Bubble Wrap and Heavy Cartons Packaging in Rajmahal" 
                      style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                      loading="lazy">
@@ -576,7 +576,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-raj
         <!-- Image Callout 3: Responsive 3:4 Container -->
         <div style="margin-bottom: 35px; text-align: center;">
             <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" 
                      alt="Two Wheeler Motorcycle and Scooter Carrier Service Rajmahal Sahibganj" 
                      style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                      loading="lazy">
@@ -699,7 +699,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-raj
         <!-- Image Callout 4: Responsive 3:4 Container -->
         <div style="margin-bottom: 35px; text-align: center;">
             <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" 
                      alt="Safe Transit Container Truck in Rajmahal Sahibganj Jharkhand" 
                      style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                      loading="lazy">

@@ -31,7 +31,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mahaveer-nagar-kota";
         "name": "Shree Ashirwad Packers and Movers Mahaveer Nagar Kota",
         "description": "Leading relocation service provider in Mahaveer Nagar Kota specializing in student hostel moves, PG room shifting, coaching faculty relocation, and nationwide cargo transport.",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "address": {
             "@type": "PostalAddress",
@@ -436,7 +436,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mahaveer-nagar-kota";
         </div>
         <div>
             <div class="mhv-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Mahaveer Nagar Kota by Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Mahaveer Nagar Kota by Shree Ashirwad Packers" loading="lazy">
             </div>
         </div>
     </section>
@@ -479,7 +479,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mahaveer-nagar-kota";
     <section class="mhv-grid-2">
         <div>
             <div class="mhv-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew handling furniture in Mahaveer Nagar Kota" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew handling furniture in Mahaveer Nagar Kota" loading="lazy">
             </div>
         </div>
         <div>
@@ -598,7 +598,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mahaveer-nagar-kota";
         </div>
         <div>
             <div class="mhv-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile item packing with specialized cushioning in Mahaveer Nagar Kota" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile item packing with specialized cushioning in Mahaveer Nagar Kota" loading="lazy">
             </div>
         </div>
     </section>
@@ -607,7 +607,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mahaveer-nagar-kota";
     <section class="mhv-grid-2">
         <div>
             <div class="mhv-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Fleet loading operations by Shree Ashirwad Packers in Kota" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Fleet loading operations by Shree Ashirwad Packers in Kota" loading="lazy">
             </div>
         </div>
         <div>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mahaveer-nagar-kota";
     <section class="mhv-cta-banner">
         <h2>Ready to Move from Mahaveer Nagar Kota?</h2>
         <p>Contact our dedicated local team for transparent pricing, student discounts, and prompt doorstep packing service.</p>
-        <a href="tel:+919334812328" class="mhv-cta-btn">Call +91-9334812328 for Free Instant Quote</a>
+        <a href="tel:+919835565233" class="mhv-cta-btn">Call +91 9835565233 for Free Instant Quote</a>
     </section>
 
 </main>

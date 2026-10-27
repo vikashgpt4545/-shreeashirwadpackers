@@ -343,7 +343,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
         
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping in Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping in Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Bokaro Furniture Protection</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Thick bubble film, corner guards, and corrugated armor wrapped around beds, dining tables, and wardrobes.</p>
@@ -351,7 +351,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading Dhanbad to Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading Dhanbad to Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Dedicated Closed Container Trucks</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Dedicated enclosed container vehicles dispatched directly from Dhanbad to Bokaro without mixing cargo.</p>
@@ -359,7 +359,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading in Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading in Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Chas & Sector Apartment Handling</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Expert manual lifting crews navigating residential staircases and apartment elevators across Bokaro sectors.</p>

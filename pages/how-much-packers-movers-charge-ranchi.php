@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How Much Packers and Movers Charge in Ranchi | Shifting Rates & Price List | Call 9708579999</title>
-    <meta name="description" content="Discover exact packers and movers charges in Ranchi. Transparent 1 BHK, 2 BHK, 3 BHK local rates (₹3,000 - ₹9,500), interstate tariffs, packing costs, and GST billing. Call 9708579999.">
+    <title>How Much Packers and Movers Charge in Ranchi | Shifting Rates & Price List | Call 9835565233</title>
+    <meta name="description" content="Discover exact packers and movers charges in Ranchi. Transparent 1 BHK, 2 BHK, 3 BHK local rates (₹3,000 - ₹9,500), interstate tariffs, packing costs, and GST billing. Call 9835565233.">
     <meta name="keywords" content="how much packers movers charge ranchi, packers and movers charges in ranchi, 1 bhk shifting cost ranchi, 2 bhk shifting charges ranchi, home relocation price list ranchi, shree ashirwad packers rates">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Pricing",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/how-much-packers-movers-charge-ranchi",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>How Much Do Packers and Movers Charge in Ranchi?</h1>
                 <p>Planning a household move across Ranchi or relocating interstate? Explore our verified, itemized breakdown of local shifting charges, freight costs, packing material pricing, and technician service fees to protect yourself from lowball quotes and hidden moving-day surprises.</p>
                 <div class="hmpc-cta-group">
-                    <a href="tel:+919708579999" class="hmpc-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20send%20me%20your%20exact%20shifting%20rate%20card%20for%20Ranchi" class="hmpc-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Rate Card</a>
+                    <a href="tel:+919835565233" class="hmpc-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20send%20me%20your%20exact%20shifting%20rate%20card%20for%20Ranchi" class="hmpc-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Rate Card</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="hmpc-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized household relocation cartons packed by professional movers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized household relocation cartons packed by professional movers in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -305,7 +305,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Itemized Technician & Add-On Service Charges</h2>
                 <div class="hmpc-grid-2">
                     <div class="hmpc-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenter dismantling double bed furniture with precision tools in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenter dismantling double bed furniture with precision tools in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Modern homes contain modular furniture, wall-mounted electronics, and water purification units that require specialized mechanical skills. Standard moving loaders cannot safely unwire or dismantle these items.</p>
@@ -340,7 +340,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="hmpc-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated long distance household goods moving truck in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated long distance household goods moving truck in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -350,7 +350,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Packing Material Costs: Why Premium Materials Protect Your Belongings</h2>
                 <div class="hmpc-grid-2">
                     <div class="hmpc-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Specialized multi-layer bubble packing for delicate kitchen crockery in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Specialized multi-layer bubble packing for delicate kitchen crockery in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Packing materials account for roughly 25% to 35% of an honest moving quote. Fly-by-night operators drastically reduce their initial quotes by substituting high-grade materials with flimsy recycled packaging that collapses under transit vibration.</p>

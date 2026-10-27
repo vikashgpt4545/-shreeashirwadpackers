@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Arundelpet",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-arundelpet-guntur",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>Alongside its bustling trade avenues, Arundelpet houses established multi-generational residential enclaves, ancestral family properties, and modern residential apartments near Guntur Railway Station and Old Guntur. Local merchants, business proprietors, and longstanding residents depend on dedicated moving teams who understand how to navigate busy commercial lanes and market hours with precision and absolute safety.</p>
 
     <div class="arpt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Arundelpet Guntur" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Arundelpet Guntur" loading="lazy">
       <p class="arpt-image-caption">Disciplined residential quarter shifting and systematic loading operations in Arundelpet.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="arpt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Arundelpet" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Arundelpet" loading="lazy">
       <p class="arpt-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Arundelpet.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="arpt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Arundelpet" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Arundelpet" loading="lazy">
       <p class="arpt-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -633,7 +633,7 @@
     <p>Our experienced drivers schedule loading windows in congested commercial areas during early morning hours (6:00 AM to 8:30 AM) to circumvent wholesale delivery traffic near Arundelpet Main Road. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="arpt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Arundelpet" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Arundelpet" loading="lazy">
       <p class="arpt-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -723,7 +723,7 @@
   <section class="arpt-cta-banner">
     <h3>Plan Your Stress-Free Move in Arundelpet Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="arpt-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="arpt-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

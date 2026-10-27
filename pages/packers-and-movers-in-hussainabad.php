@@ -2,7 +2,7 @@
 /**
  * Packers and Movers in Hussainabad - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9308888746
+ * Contact: +91 8409531615 / +91 9835565233
  * Office: Serving Hussainabad, Japla, Son Nagar Corridor & Palamu District, Jharkhand
  */
 
@@ -1024,7 +1024,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-hus
             <!-- Service 1 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household shifting and carton packing in Hussainabad Japla" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household shifting and carton packing in Hussainabad Japla" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Household Shifting & Residential Relocation</h3>
@@ -1042,7 +1042,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-hus
             <!-- Service 2 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Commercial cargo and door to door delivery truck in Hussainabad" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Commercial cargo and door to door delivery truck in Hussainabad" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Commercial Trade & Judicial Office Moving</h3>
@@ -1060,7 +1060,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-hus
             <!-- Service 3 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and bike transport carrier in Hussainabad" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and bike transport carrier in Hussainabad" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Car & Two-Wheeler Transportation</h3>
@@ -1078,7 +1078,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-hus
             <!-- Service 4 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehouse storage for Hussainabad cargo" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehouse storage for Hussainabad cargo" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Secure Warehousing & Storage Facilities</h3>

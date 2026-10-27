@@ -28,7 +28,7 @@ require_once __DIR__ . '/../includes/config.php';
         "description": "Licensed long-distance household packing, tech corporate shifting, and vehicle transportation between Noida, Uttar Pradesh and Bengaluru, Karnataka.",
         "url": "<?php echo SITE_BASE_URL; ?>/noida-to-bangalore-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
@@ -336,7 +336,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our long-distance fleet takes the premier transit corridor connecting the National Capital Region with Karnataka via the Yamuna Expressway, connecting to National Highway 44 (NH44). Crossing Uttar Pradesh, Madhya Pradesh, Maharashtra, Telangana, and Andhra Pradesh, our sealed container trucks protect your precious cargo from weather vagaries, dust, and highway vibrations.</p>
 
         <div class="ndbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Noida to Bangalore Container Truck Transit" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Noida to Bangalore Container Truck Transit" width="580" height="387" loading="lazy">
             <div class="ndbg-img-caption">Sealed container trucks providing weatherproof protection across the 2,150 km Noida-Bangalore corridor.</div>
         </div>
 
@@ -359,7 +359,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>From fragile chinaware, crystal glassware, and ornamental light fixtures to heavy solid teak dining tables and double-door refrigerators, our skilled packing team treats each item with customized care before systematically loading it into our container fleet.</p>
 
         <div class="ndbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Standards for Noida to Bangalore Move" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Standards for Noida to Bangalore Move" width="580" height="387" loading="lazy">
             <div class="ndbg-img-caption">High-density bubble cushioning, corner protectors, and 5-ply cartons ensure zero transit damage.</div>
         </div>
 
@@ -446,7 +446,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Before loading in Noida, our automotive inspector conducts an in-depth digital inspection covering odometer readings, fuel status, and exterior condition. Your vehicle is safely driven onto hydraulic ramps, secured using industrial nylon wheel-locks, and transported under active marine insurance coverage.</p>
 
         <div class="ndbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Noida to Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Noida to Bangalore" width="580" height="387" loading="lazy">
             <div class="ndbg-img-caption">Dedicated enclosed vehicle trailers providing door-to-door scratchless automobile and bike transport.</div>
         </div>
 
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="ndbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Bangalore" width="580" height="387" loading="lazy">
             <div class="ndbg-img-caption">Professional destination unboxing, room-specific placement, furniture assembly, and packaging waste disposal.</div>
         </div>
     </section>

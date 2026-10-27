@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Premier intercity moving solutions from Mumbai to Goa covering Panaji, Margao, Porvorim, Mapusa, Vasco da Gama, and Candolim with sealed container transit.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹13,500 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy purpose-built closed container trucks designed to handle sharp ghat turns, heavy monsoon downpours, and coastal humidity. Whether you are moving to a retirement villa, shifting for a remote corporate lifestyle, or setting up a hospitality business in Goa, our verified packing crews and experienced drivers ensure that your valuable furnishings and delicate electronics arrive in pristine condition.</p>
 
         <div class="mbga-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Mumbai to Goa" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Mumbai to Goa" width="580" height="386">
         </div>
 
         <div class="mbga-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Alternatively, the four-lane National Highway 66 Konkan corridor runs along Panvel, Mangaon, Mahad, Chiplun, Sangameshwar, and Kankavli directly into Goa. Our operations desk tracks weather alerts, ghat traffic density, and electronic FASTag toll plazas continuously, ensuring that our drivers select the safest, smoothest path for your household cargo.</p>
 
         <div class="mbga-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
         </div>
 
         <div class="mbga-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Each delicate item is wrapped in air-cushioned bubble film, reinforced with corrugated corner guards, wrapped in moisture-resistant stretch film, and boxed into heavy 5-ply cartons. For fragile LED televisions, crystal chandeliers, marble temple units, and antique brassware, we build custom-measured wooden crates that absorb road shocks.</p>
 
         <div class="mbga-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Goa" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Goa" width="580" height="386">
         </div>
 
         <div class="mbga-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Before loading, our technical supervisors conduct a detailed 24-point pre-transit vehicle inspection. Exterior scratches, fuel levels, odometer readings, and accessory conditions are documented on an official inspection slip shared digitally with the vehicle owner.</p>
 
         <div class="mbga-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
         </div>
 
         <div class="mbga-grid-2">

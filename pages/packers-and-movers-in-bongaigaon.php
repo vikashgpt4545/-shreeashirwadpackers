@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Bongaigaon",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bongaigaon",
     "priceRange": "₹4,000 - ₹62,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="bgg-container">
       <h1>Packers and Movers in Bongaigaon Assam</h1>
       <p>Pinnacle Lower Assam industrial relocation, IOCL Bongaigaon refinery staff moves, New Bongaigaon railway workshop shifting, and western gateway container transit.</p>
-      <a href="tel:+919334484001" class="bgg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="bgg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Bongaigaon stands as the premier industrial powerhouse, petroleum refining hub, and vital railway gateway of Lower Assam, situated strategically near the western boundary where Assam meets North Bengal. As the administrative capital of Bongaigaon district, the city is globally recognized for the state-of-the-art Bongaigaon Refinery and Petrochemicals (IOCL BGR at Dhaligaon), the sprawling New Bongaigaon Railway Junction and Carriage & Wagon Workshop (one of the largest railway engineering hubs in Northeast India), the nearby mega NTPC thermal power plant at Salakati, and established educational institutes like Birjhora Mahavidyalaya. Positioned directly along the primary four-lane corridor of National Highway 27 at the Chapaguri intersection, Bongaigaon functions as the indispensable freight choke point linking the entire northeastern states to mainland Indian economic corridors. Relocating in Bongaigaon requires specialized expertise in petrochemical engineering transfers, railway workshop officer logistics, and heavy monsoon humidity protection.</p>
 
       <div class="bgg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Bongaigaon Assam" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Bongaigaon Assam" width="580" height="360" loading="lazy">
       </div>
 
       <div class="bgg-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Bongaigaon operational unit delivers tailored relocation services designed to address the diverse needs of refinery engineers, railway staff, power plant personnel, and commercial families:</p>
 
       <div class="bgg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Bongaigaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Bongaigaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="bgg-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Bongaigaon follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="bgg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Bongaigaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Bongaigaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="bgg-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Bongaigaon:</p>
 
       <div class="bgg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Bongaigaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Bongaigaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="bgg-grid-cards">

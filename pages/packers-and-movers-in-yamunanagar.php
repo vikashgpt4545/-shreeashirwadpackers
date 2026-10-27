@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Yamunanagar",
     "image": "https://shreeashirwadpackers.com/images/professional-loading-crew-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-yamunanagar",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -460,7 +460,7 @@
       </div>
       <div>
         <div class="ymn-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Yamunanagar Haryana" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Yamunanagar Haryana" width="580" height="386" loading="lazy">
           <p class="ymn-image-caption">Trained loading crew executing systematic cargo handling in Yamunanagar Haryana.</p>
         </div>
       </div>
@@ -556,7 +556,7 @@
       </div>
     </div>
     <div class="ymn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping in Yamunanagar Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping in Yamunanagar Haryana" width="580" height="386" loading="lazy">
       <p class="ymn-image-caption">Custom multi-layer edge wrapping of solid wooden furniture in Yamunanagar.</p>
     </div>
   </section>
@@ -592,7 +592,7 @@
       </div>
     </div>
     <div class="ymn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial machinery and office shifting in Yamunanagar Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial machinery and office shifting in Yamunanagar Haryana" width="580" height="386" loading="lazy">
       <p class="ymn-image-caption">Specialized equipment rigging and industrial machinery handling in Yamunanagar industrial zones.</p>
     </div>
   </section>
@@ -628,7 +628,7 @@
       </div>
     </div>
     <div class="ymn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Yamunanagar Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Yamunanagar Haryana" width="580" height="386" loading="lazy">
       <p class="ymn-image-caption">Weatherproof sealed container trucks ensuring zero transit damage for Yamunanagar households.</p>
     </div>
   </section>

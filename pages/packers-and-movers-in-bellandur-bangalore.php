@@ -36,7 +36,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-belland
     "name": "Shree Ashirwad Packers and Movers Bellandur Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+919334404052",
+    "telephone": "+91 9835565233",
     "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
@@ -402,7 +402,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-belland
     <div class="bdr-hero-content">
       <h1 class="bdr-hero-title">Packers and Movers in Bellandur Bangalore</h1>
       <p class="bdr-hero-subtitle">High-Rise Apartment &amp; Tech Professional Shifting Across Outer Ring Road, Green Glen Layout, RMZ Ecospace &amp; Devarabisanahalli</p>
-      <a href="tel:+919334404052" class="bdr-hero-cta">Get Free Instant Quote: +91 9334404052</a>
+      <a href="tel:+919835565233" class="bdr-hero-cta">Get Free Instant Quote: +91 9835565233</a>
     </div>
   </header>
 
@@ -417,7 +417,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-belland
       <p class="bdr-p">Executing household and corporate moves in Bellandur requires deep understanding of the district's complex logistical dynamics. The Outer Ring Road experiences substantial traffic surges throughout the day, while luxury high-rise residential towers operate rigorous Resident Welfare Association (RWA) compliance frameworks governing vehicle entry, freight elevator bookings, and operational hours. At Shree Ashirwad Packers and Movers, our dedicated Bellandur relocation division brings proven operational expertise to ensure flawless, stress-free transitions.</p>
 
       <div class="bdr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Bellandur Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Bellandur Bangalore" width="580" height="387" loading="lazy">
         <div class="bdr-image-caption">Systematic truck loading and dedicated container transit engineered for Bellandur high-rise complexes.</div>
       </div>
 
@@ -453,7 +453,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-belland
       </div>
 
       <div class="bdr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrapping for Bellandur apartment relocation" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrapping for Bellandur apartment relocation" width="580" height="387" loading="lazy">
         <div class="bdr-image-caption">Multi-layer protective bubble wrap and heavy corrugated box packaging ensuring zero transit scratches.</div>
       </div>
 
@@ -475,7 +475,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-belland
       <p class="bdr-p">Additionally, residential sub-corridors like Green Glen Layout, Doddakannelli access roads, and Bellandur Lake perimeter lanes feature speed calming humps, narrow bends, and street parking. We deploy specialized 14-ft to 17-ft medium closed-body container trucks and hydraulic tail-lift vehicles capable of accessing underground parking basements and narrow condominium approach drives without creating bottleneck obstructions.</p>
 
       <div class="bdr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Bellandur Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Bellandur Bangalore" width="580" height="387" loading="lazy">
         <div class="bdr-image-caption">Expert carpenter disassembly of modular wardrobes, bed frames, and study tables for safe transit.</div>
       </div>
 
@@ -543,7 +543,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-belland
       <p class="bdr-p">Tariffs vary based on inventory volume, fragile crating needs, distance, and elevator accessibility. For an instant verified estimate customized to your inventory, check our online <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges calculator</a>.</p>
 
       <div class="bdr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bellandur Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bellandur Bangalore" width="580" height="387" loading="lazy">
         <div class="bdr-image-caption">Dedicated sealed container vehicles guaranteeing secure door-to-door transit for Bellandur residents.</div>
       </div>
 

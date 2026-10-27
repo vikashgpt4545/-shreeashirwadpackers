@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Our pet relocation specialists are trained in gentle behavioral handling techniques. We create custom travel regimens tailored to your pet's age, weight, temperament, and medical history. From providing comforting pheromone-infused bedding to planning frequent hydration stops and administering light vet-prescribed motion sickness remedies, every mile is designed around your companion's physical comfort.</p>
 
         <div class="prsi-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated climate controlled pet taxi vehicle for domestic dog and cat relocation" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated climate controlled pet taxi vehicle for domestic dog and cat relocation" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 2: Modes of Pet Transit -->
@@ -555,7 +555,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="prsi-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Supervised pet handling and crate loading in climate-managed zone" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Supervised pet handling and crate loading in climate-managed zone" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Stage Moving Protocol -->
@@ -591,7 +591,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="prsi-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Padded pet travel crate preparation and soft bedding arrangement" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Padded pet travel crate preparation and soft bedding arrangement" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -688,7 +688,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="prsi-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit containerized logistics fleet supporting pan India pet and household transport" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit containerized logistics fleet supporting pan India pet and household transport" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 6: Pre-Travel Preparation Tips -->

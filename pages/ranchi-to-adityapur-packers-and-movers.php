@@ -667,7 +667,7 @@ require_once __DIR__ . '/includes/header.php';
 
       <div class="col-lg-6">
         <div class="adityapur-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Adityapur Packers and Movers Express Fleet">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Adityapur Packers and Movers Express Fleet">
           <div class="adityapur-media-caption">
             Figure 1: Dedicated closed container truck operating on the 4-lane expressway corridor between Ranchi and Adityapur with airtight weather sealing.
           </div>
@@ -859,7 +859,7 @@ require_once __DIR__ . '/includes/header.php';
     <div class="row align-items-center">
       <div class="col-lg-6 mb-4">
         <div class="adityapur-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Ranchi to Adityapur Transit">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Ranchi to Adityapur Transit">
           <div class="adityapur-media-caption">
             Figure 2: Multi-layer corrugated wrap and bubble padding protecting polished teakwood beds and executive furniture during expressway transport.
           </div>
@@ -868,7 +868,7 @@ require_once __DIR__ . '/includes/header.php';
 
       <div class="col-lg-6 mb-4">
         <div class="adityapur-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Appliances Protective Cover for Adityapur Relocation">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Appliances Protective Cover for Adityapur Relocation">
           <div class="adityapur-media-caption">
             Figure 3: Heavy-duty quilted padded covers securing double-door refrigerators and automatic washing machines against in-transit friction.
           </div>
@@ -1078,7 +1078,7 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="adityapur-media-box">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Arriving in Adityapur">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Arriving in Adityapur">
       <div class="adityapur-media-caption">
         Figure 4: Direct door-to-door container delivery vehicle arriving at Adityapur residential colonies, ensuring zero intermediate transshipment or delay.
       </div>

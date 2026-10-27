@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Khammam",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-khammam",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>Rapid urban growth has expanded residential living across prominent sectors such as Mamillagudem, Rotary Nagar, Raparthi Nagar, VDO's Colony, NSP Colony, Prakash Nagar, and along the busy Wyra Road and Yellandu Road corridors. With new apartment complexes and independent villa layouts proliferating, families, engineers, and agro-business traders require an honest, dependable moving partner who handles their goods with precision.</p>
 
     <div class="kmm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Khammam Telangana" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Khammam Telangana" loading="lazy">
       <p class="kmm-image-caption">Disciplined residential quarter shifting and systematic loading operations in Khammam.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="kmm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Khammam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Khammam" loading="lazy">
       <p class="kmm-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Khammam.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="kmm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Khammam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Khammam" loading="lazy">
       <p class="kmm-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -633,7 +633,7 @@
     <p>Our experienced drivers schedule loading windows in congested commercial areas during early morning hours (6:30 AM to 8:30 AM) to circumvent market traffic. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="kmm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Khammam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Khammam" loading="lazy">
       <p class="kmm-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -723,7 +723,7 @@
   <section class="kmm-cta-banner">
     <h3>Plan Your Stress-Free Move in Khammam Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Telangana and India.</p>
-    <a class="kmm-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="kmm-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

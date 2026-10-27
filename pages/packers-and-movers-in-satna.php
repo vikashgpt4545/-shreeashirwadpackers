@@ -32,7 +32,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Satna",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-satna",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -419,7 +419,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="stx-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Satna Household Loading" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Satna Household Loading" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -457,7 +457,7 @@ $state_name = 'Madhya Pradesh';
       <p>In central residential localities like Bharhut Nagar, Circuit House Road, and Civil Lines, family homes often hold prized marble pooja mandirs, sacred brass idols from Chitrakoot and Maihar, and elaborate wood furniture. We employ specialized pious packaging protocols featuring virgin white cotton wraps, soft velvet lining, and reinforced wooden crating that safeguards spiritual sanctity and ensures zero transit damage.</p>
 
       <div class="stx-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Satna MP" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Satna MP" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -541,7 +541,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="stx-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Satna MP" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Satna MP" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -629,7 +629,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="stx-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Satna MP" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Satna MP" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -695,7 +695,7 @@ $state_name = 'Madhya Pradesh';
     <div class="stx-cta-bar">
       <h3>Ready for a Smooth Move in Satna?</h3>
       <p>Connect with our expert Satna relocation team today for a free pre-move survey, transparent quotation, and complete moving support.</p>
-      <a href="tel:+919334484001" class="stx-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="stx-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

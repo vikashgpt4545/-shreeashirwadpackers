@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-peelamedu-coimbatore";
         "name": "Shree Ashirwad Packers and Movers Peelamedu Coimbatore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-peelamedu-coimbatore";
         <p>The urban skyline of Peelamedu features sprawling multi-tower apartment complexes, contemporary gated communities, and quiet faculty enclaves. Navigating this high-density environment requires an experienced moving partner capable of adhering strictly to society service lift protocols, managing Avinashi Road traffic windows, and providing zero-scratch handling for high-value home assets and IT hardware. Shree Ashirwad Packers and Movers delivers unmatched expertise across every corner of Peelamedu.</p>
 
         <div class="plm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment goods loading in Peelamedu Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment goods loading in Peelamedu Coimbatore" width="580" height="387" loading="lazy">
             <div class="plm-image-caption">High-rise apartment freight handling and professional loading operations in Peelamedu.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-peelamedu-coimbatore";
         </div>
 
         <div class="plm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="TIDEL Park IT equipment and workstation packing in Peelamedu Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="TIDEL Park IT equipment and workstation packing in Peelamedu Coimbatore" width="580" height="387" loading="lazy">
             <div class="plm-image-caption">Enterprise IT server rack packaging and workstation relocation by Shree Ashirwad in Peelamedu.</div>
         </div>
 
@@ -597,7 +597,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-peelamedu-coimbatore";
         <p>We deploy protective neoprene wrap along elevator walls, place heavy corrugated cardboard runners across lobby floors, and use rubber-wheeled trolleys to prevent scuffs or loud noise. Heavy solid wood wardrobes, dining tables, and plush sofa suites are padded with multi-layered protective blankets and sealed in waterproof stretch film.</p>
 
         <div class="plm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Peelamedu Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Peelamedu Coimbatore" width="580" height="387" loading="lazy">
             <div class="plm-image-caption">Multi-tier bubble cushioning and stretch film wrapping for solid wood furniture in Peelamedu.</div>
         </div>
 
@@ -723,7 +723,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-peelamedu-coimbatore";
         </ol>
 
         <div class="plm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck transport on Avinashi Road Peelamedu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck transport on Avinashi Road Peelamedu" width="580" height="387" loading="lazy">
             <div class="plm-image-caption">Weatherproof sealed container carriers engineered for safe transit across Coimbatore corridors.</div>
         </div>
     </section>
@@ -780,7 +780,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-peelamedu-coimbatore";
     <div class="plm-cta-box">
         <h3>Book Your Peelamedu Move with Trusted Specialists</h3>
         <p>Get a guaranteed fixed-price quote with zero surprise charges. Fully insured, certified packing specialists ready to move your household or office today.</p>
-        <a href="tel:+919334404050" class="plm-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="plm-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

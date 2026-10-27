@@ -36,7 +36,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-yelahan
     "name": "Shree Ashirwad Packers and Movers Yelahanka Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+919334404052",
+    "telephone": "+91 9835565233",
     "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
@@ -403,7 +403,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-yelahan
     <div class="ylh-hero-content">
       <h1 class="ylh-hero-title">Packers and Movers in Yelahanka Bangalore</h1>
       <p class="ylh-hero-subtitle">Comprehensive residential villa relocation, apartment shifting, defense personnel transfers, and express highway moving across Yelahanka New Town, Old Town, and Kogilu.</p>
-      <a href="tel:+919334404052" class="ylh-hero-cta">Get Free Moving Quote: +91 93344 04052</a>
+      <a href="tel:+919835565233" class="ylh-hero-cta">Get Free Moving Quote: +91 9835565233</a>
     </div>
   </header>
 
@@ -418,7 +418,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-yelahan
       <p class="ylh-p">The presence of major defense and industrial establishments—such as the Air Force Station Yelahanka, the BSF training complex, Rail Wheel Factory, and prominent academic institutions like BMS Institute of Technology—creates regular residential mobility. Furthermore, rapid residential expansion along Kogilu Main Road, Doddaballapur Road, and towards the Kempegowda International Airport corridor has introduced expansive gated villa communities such as Purva Venezia, Godrej Avenues, and Brigade Orchards. Shree Ashirwad Packers and Movers delivers tailored relocation capabilities suited to this unique blend of independent bungalows, defense quarters, and contemporary high-rise towers.</p>
 
       <div class="ylh-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in Yelahanka Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in Yelahanka Bangalore" loading="lazy" width="580" height="387">
         <p class="ylh-image-caption">Systematic loading of residential furniture and boxes into container trucks in Yelahanka New Town.</p>
       </div>
 
@@ -459,7 +459,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-yelahan
       </div>
 
       <div class="ylh-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrapping in Yelahanka Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrapping in Yelahanka Bangalore" loading="lazy" width="580" height="387">
         <p class="ylh-image-caption">Meticulous protective packaging for kitchenware and electronic appliances in Yelahanka residences.</p>
       </div>
 
@@ -531,7 +531,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-yelahan
       </div>
 
       <div class="ylh-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Yelahanka Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Yelahanka Bangalore" loading="lazy" width="580" height="387">
         <p class="ylh-image-caption">Experienced carpenters dismantling modular beds and wardrobes in Yelahanka residences.</p>
       </div>
 
@@ -569,7 +569,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-yelahan
       <p class="ylh-p">For properties in the narrower residential streets of Yelahanka Old Town, we employ our efficient shuttle tempo system. Compact 10-foot tempos collect goods directly from residential gates and transfer them to our main container vehicle waiting on a broader roadway, avoiding any traffic disruption in local residential streets.</p>
 
       <div class="ylh-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck in Yelahanka Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck in Yelahanka Bangalore" loading="lazy" width="580" height="387">
         <p class="ylh-image-caption">Enclosed weatherproof container trucks delivering household goods across Yelahanka and North Bangalore.</p>
       </div>
 

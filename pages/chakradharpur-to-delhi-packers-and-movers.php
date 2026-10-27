@@ -513,7 +513,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
                 <div>
                     <div class="ckp-delhi-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Chakradharpur to Delhi shifting" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Chakradharpur to Delhi shifting" loading="lazy">
                         <div class="ckp-delhi-img-caption">All-weather sealed container truck operating the 1,280 km Grand Trunk Road to Delhi</div>
                     </div>
                 </div>
@@ -551,7 +551,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <div class="ckp-delhi-grid-2">
                 <div>
                     <div class="ckp-delhi-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Appliance protective packing Chakradharpur to Delhi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Appliance protective packing Chakradharpur to Delhi" loading="lazy">
                         <div class="ckp-delhi-img-caption">Multi-tier vibration cushioning shielding home electronics for the 1,280 km highway transit</div>
                     </div>
                 </div>
@@ -582,7 +582,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
                 <div>
                     <div class="ckp-delhi-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle transport Chakradharpur to Delhi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle transport Chakradharpur to Delhi" loading="lazy">
                         <div class="ckp-delhi-img-caption">Dedicated vehicle carrier bay securing motorcycles and cars with ratchet straps and tire chocks</div>
                     </div>
                 </div>
@@ -676,7 +676,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
                 <div>
                     <div class="ckp-delhi-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for long distance relocation to Delhi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for long distance relocation to Delhi" loading="lazy">
                         <div class="ckp-delhi-img-caption">Careful weight balancing and cargo strapping ensuring zero cargo movement over 1,280 km</div>
                     </div>
                 </div>

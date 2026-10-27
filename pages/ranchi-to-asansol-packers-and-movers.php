@@ -953,14 +953,14 @@ require_once __DIR__ . '/includes/seo.php';
     <!-- Verified Image Grid 1 -->
     <div class="r2a-image-grid">
       <div class="r2a-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Systematic Loading of Household Goods into Linehaul Container Truck in Ranchi for Asansol" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Systematic Loading of Household Goods into Linehaul Container Truck in Ranchi for Asansol" loading="lazy">
         <div class="r2s-image-caption">
           <span class="r2a-image-tag">Direct Linehaul Trucking</span>
           <p class="r2a-image-text">High-cube closed container loading at Ranchi residence for express non-stop transit to Asansol and Burnpur.</p>
         </div>
       </div>
       <div class="r2a-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert Furniture Dismantling and Protective Wrapping for Relocation to Asansol" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert Furniture Dismantling and Protective Wrapping for Relocation to Asansol" loading="lazy">
         <div class="r2a-image-caption">
           <span class="r2a-image-tag">Carpentry Expertise</span>
           <p class="r2a-image-text">Systematic dismantling of king-size wooden double beds, wardrobes, and study desks with numbered hardware pouches.</p>
@@ -1093,14 +1093,14 @@ require_once __DIR__ . '/includes/seo.php';
     <!-- Verified Image Grid 2 -->
     <div class="r2a-image-grid">
       <div class="r2a-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Specialized Wooden Crating for Delicate LED TV and Appliances Moving to Asansol" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Specialized Wooden Crating for Delicate LED TV and Appliances Moving to Asansol" loading="lazy">
         <div class="r2a-image-caption">
           <span class="r2a-image-tag">Electronic Armor</span>
           <p class="r2a-image-text">Custom wooden crating with internal thermocol and bubble foam cushions for large LED screens, sound systems, and glass consoles.</p>
         </div>
       </div>
       <div class="r2a-image-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and Scooter Safe Transit Carrier Loading for Shifting to Asansol" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and Scooter Safe Transit Carrier Loading for Shifting to Asansol" loading="lazy">
         <div class="r2a-image-caption">
           <span class="r2a-image-tag">Two-Wheeler Carrier</span>
           <p class="r2a-image-text">Reinforced nylon tie-downs and foam padding on vehicle carriers for scratch-free bike courier between Ranchi and Asansol.</p>

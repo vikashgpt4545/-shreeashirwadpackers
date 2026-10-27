@@ -358,7 +358,7 @@ $meta_keywords = "household shifting services in hazaribagh, house shifting haza
           </div>
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing service in Hazaribagh by Shree Ashirwad Packers" style="width:100%; height:320px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing service in Hazaribagh by Shree Ashirwad Packers" style="width:100%; height:320px; object-fit:cover; display:block;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Turnkey Household Packing &amp; Moving</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">Systematic room-by-room packing with premium materials across Hazaribagh</div>
@@ -451,21 +451,21 @@ $meta_keywords = "household shifting services in hazaribagh, house shifting haza
         <!-- 3 Visual Proof Cards -->
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(310px, 1fr)); gap:24px;">
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="In-house carpenter furniture dismantling double beds and wardrobes" style="width:100%; height:230px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="In-house carpenter furniture dismantling double beds and wardrobes" style="width:100%; height:230px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Carpenter Furniture Dismantling</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">Our trained carpenters methodically disassemble hydraulic storage beds, large wardrobes, and wall units, cataloging all hardware for exact reassembly.</p>
             </div>
           </div>
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Multi-layer sofa furniture protective packing in Hazaribagh" style="width:100%; height:230px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Multi-layer sofa furniture protective packing in Hazaribagh" style="width:100%; height:230px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Upholstery &amp; Sofa Shielding</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">Fabric and leather sofas receive EPE foam cushioning, thick edge armor, and dust-proof stretch wrap to protect against stairwell snags and soilage.</p>
             </div>
           </div>
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile kitchen crockery bubble packing for safe moving" style="width:100%; height:230px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile kitchen crockery bubble packing for safe moving" style="width:100%; height:230px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Cell-Divided Kitchenware Crates</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">Delicate bone china, wine glasses, and ceramic crockery are wrapped individually in bubble wrap and nestled into divided cellular cartons to eliminate breakage.</p>

@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers NIT Faridabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -472,7 +472,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="nitf-hero-title">Packers and Movers in NIT Faridabad</h1>
         <p class="nitf-hero-subtitle">Specialized household shifting, builder floor relocations, antique furniture carpentry, and inter-state logistics across NIT 1, 2, 3, 4, 5 and BK Chowk corridors.</p>
         <div class="nitf-cta-group">
-            <a href="tel:+919334404050" class="nitf-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="nitf-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="nitf-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="nitf-intro-p">Divided systematically into five distinct sectors—NIT 1, NIT 2, NIT 3, NIT 4, and NIT 5—the area combines established multi-generational residences, modern builder floors, and bustling commercial market squares including Neelam Bata Road, BK Chowk, and the wholesale hardware market. With heavy daily foot traffic, narrow internal streets, and a mix of historic kothis and freshly redeveloped builder floors, shifting in NIT requires specialized vehicle sizing and seasoned local knowledge.</p>
 
         <div class="nitf-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in NIT Faridabad container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in NIT Faridabad container truck" width="580" height="386" loading="lazy">
             <p class="nitf-image-caption">Systematic loading and protective padding of residential goods in NIT Faridabad.</p>
         </div>
 
@@ -525,7 +525,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="nitf-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in NIT Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in NIT Faridabad" width="580" height="386" loading="lazy">
             <p class="nitf-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="nitf-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in NIT Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in NIT Faridabad" width="580" height="386" loading="lazy">
             <p class="nitf-image-caption">Precision furniture disassembly and wrapped timber protection for NIT homes.</p>
         </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="nitf-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in NIT Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in NIT Faridabad" width="580" height="386" loading="lazy">
             <p class="nitf-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

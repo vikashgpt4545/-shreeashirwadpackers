@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-guindy-chennai";
         "name": "Shree Ashirwad Packers and Movers Guindy Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-guindy-chennai";
         <p>Navigating the complex urban corridors of Guindy demands deep institutional familiarity with local traffic patterns, industrial loading protocols, and residential society gate bylaws. With direct connectivity across the monumental Kathipara Cloverleaf interchange linking Grand Southern Trunk (GST) Road, Anna Salai (Mount Road), Inner Ring Road, and Mount-Poonamallee Road, our logistical network ensures prompt vehicle positioning and seamless intra-city dispatching.</p>
 
         <div class="gdy-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office equipment and server IT relocation in Guindy Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office equipment and server IT relocation in Guindy Chennai" width="580" height="387" loading="lazy">
             <div class="gdy-image-caption">Enterprise IT server rack packaging and workstation relocation by Shree Ashirwad Packers in Guindy.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-guindy-chennai";
         </div>
 
         <div class="gdy-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy machinery and corporate office shifting in Guindy Industrial Estate" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy machinery and corporate office shifting in Guindy Industrial Estate" width="580" height="387" loading="lazy">
             <div class="gdy-image-caption">Industrial machinery relocation and precision rigging services in Guindy Industrial Estate.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-guindy-chennai";
         <p>At Shree Ashirwad Packers and Movers, our residential relocation crews follow an exacting five-stage protection protocol. We wrap large wooden wardrobes, king-sized beds, and dining consoles with moisture-resistant stretch film and heavy padded blankets to prevent scuffs, edge chipping, or moisture absorption during rainy seasonal intervals.</p>
 
         <div class="gdy-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods multi-layer packing in Guindy Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods multi-layer packing in Guindy Chennai" width="580" height="387" loading="lazy">
             <div class="gdy-image-caption">Multi-tier corrugated and bubble packaging for residential household relocation in Guindy.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-guindy-chennai";
         </ol>
 
         <div class="gdy-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure container truck transport from Kathipara Guindy Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure container truck transport from Kathipara Guindy Chennai" width="580" height="387" loading="lazy">
             <div class="gdy-image-caption">Enclosed weatherproof container carriers engineered for safe transit across Chennai corridors.</div>
         </div>
     </section>
@@ -784,7 +784,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-guindy-chennai";
     <div class="gdy-cta-box">
         <h3>Plan Your Guindy Relocation with Chennai's Trusted Movers</h3>
         <p>Get a guaranteed fixed-price quote with zero surprise charges. Fully insured, certified packing specialists ready to move your home or corporate office today.</p>
-        <a href="tel:+919334404050" class="gdy-cta-btn">Call +91 9334404050 for Instant Quote</a>
+        <a href="tel:+919835565233" class="gdy-cta-btn">Call +91 9835565233 for Instant Quote</a>
     </div>
 
     <!-- Connected Cluster Module -->

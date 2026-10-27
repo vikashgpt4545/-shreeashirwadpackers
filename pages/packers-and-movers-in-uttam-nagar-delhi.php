@@ -297,7 +297,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers Uttam Nagar Delhi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
-        "telephone": "+91 9708323605",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-uttam-nagar-delhi",
         "priceRange": "₹3,000 - ₹48,000",
@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="utn-hero-cta">
-            <a href="tel:+919708323605" class="utn-btn-primary">Call Relocation Desk: +91 9708323605</a>
+            <a href="tel:+919835565233" class="utn-btn-primary">Call Relocation Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="utn-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -517,7 +517,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>The urban topography of Uttam Nagar presents distinct moving challenges: compact residential lanes (galis) crisscrossed by overhead low-hanging wiring, dense e-rickshaw traffic, tight turn radiuses, and walk-up 3rd or 4th-floor builder apartments that completely lack passenger or service elevators. Shree Ashirwad Packers and Movers brings over 16 years of hands-on logistics mastery to Uttam Nagar, utilizing specialized small-chassis vehicles, manual hydraulic trolleys, and trained hoisting crews.</p>
 
         <div class="utn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into container truck in Uttam Nagar Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into container truck in Uttam Nagar Delhi">
             <div class="utn-image-caption">Systematic truck loading operations supervised by certified relocation executives in Uttam Nagar.</div>
         </div>
 
@@ -568,7 +568,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Relocating from multi-level builder floors or walk-up apartments places considerable stress on furniture joints and polished finishes. To counteract friction, moisture, and impact shocks, Shree Ashirwad Packers and Movers implements a standardized 4-layer packaging sequence on all household moves originating in Uttam Nagar.</p>
 
         <div class="utn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-tier bubble wrapping and heavy-duty carton packing in Uttam Nagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-tier bubble wrapping and heavy-duty carton packing in Uttam Nagar">
             <div class="utn-image-caption">High-density bubble wrap and export-grade corrugated boxes protect delicate belongings during transit.</div>
         </div>
 
@@ -659,7 +659,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="utn-section-subtitle">Skilled technicians ensure flawless dismantling, safe transit, and accurate reassembly of modular interiors.</p>
 
         <div class="utn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed reassembly in Uttam Nagar Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed reassembly in Uttam Nagar Delhi">
             <div class="utn-image-caption">Skilled carpenters dismantling and cataloging hardware components before protective wrapping.</div>
         </div>
 
@@ -685,7 +685,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="utn-section-subtitle">From initial survey to final placement, our four-stage moving cycle delivers unmatched peace of mind.</p>
 
         <div class="utn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Uttam Nagar Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Uttam Nagar Delhi">
             <div class="utn-image-caption">Punctual, GPS-monitored enclosed delivery vehicles stationed across West Delhi.</div>
         </div>
 

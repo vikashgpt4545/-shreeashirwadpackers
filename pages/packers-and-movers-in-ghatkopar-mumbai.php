@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-ghatkop
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-ghatkopar-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-ghatkopar-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -367,7 +367,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-ghatkop
         <p>The transformation of Ghatkopar into a major transit epicenter was cemented by Mumbai Metro Line 1 (Versova-Andheri-Ghatkopar), establishing the railway-metro interchange station as one of India's busiest passenger transit nodes. Whether you are relocating your family home into a luxury redevelopment tower in Garodia Nagar, shifting a retail business near R City Mall, or organizing an inter-state transfer toward Pune, Gujarat, Delhi NCR, or Jharkhand, Shree Ashirwad Packers and Movers provides dependable, certified moving solutions. Our skilled packaging technicians, experienced carpenters, and fleet of covered container vehicles guarantee safe, on-time delivery.</p>
 
         <div class="ghk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Ghatkopar by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Ghatkopar by Shree Ashirwad Packers and Movers">
             <p class="ghk-image-caption">Professional loading by trained movers ensuring goods are secured against transit movement in Ghatkopar.</p>
         </div>
 
@@ -404,7 +404,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-ghatkop
         </div>
 
         <div class="ghk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Ghatkopar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Ghatkopar">
             <p class="ghk-image-caption">Multi-layered waterproof bubble wrap and corrugated padding shielding sensitive household goods.</p>
         </div>
 
@@ -512,7 +512,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-ghatkop
         </div>
 
         <div class="ghk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Ghatkopar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Ghatkopar">
             <p class="ghk-image-caption">Skilled carpentry dismantling and component packaging for large wooden bedroom furniture.</p>
         </div>
 
@@ -546,7 +546,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-ghatkop
         </div>
 
         <div class="ghk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Ghatkopar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Ghatkopar">
             <p class="ghk-image-caption">Reliable covered container vehicles delivering door-to-door relocation across Ghatkopar neighborhoods.</p>
         </div>
 
@@ -615,7 +615,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-ghatkop
 
         <div class="ghk-faq-item">
             <h3>How do I get an exact written quotation for my move in Ghatkopar?</h3>
-            <p>You can contact our customer support team directly at +91 93344 04050 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
+            <p>You can contact our customer support team directly at +91 9835565233 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
         </div>
     </section>
 

@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jhotwara Jaipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jhotwara-jaipur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,900 - 62,000",
         "address": {
             "@type": "PostalAddress",
@@ -237,7 +237,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jht-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Jhotwara Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Jhotwara Jaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -262,7 +262,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="jht-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Jhotwara Jaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Jhotwara Jaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -430,7 +430,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jht-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Jhotwara Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Jhotwara Jaipur" width="580" height="380" loading="lazy">
                 </div>
                 <div class="jht-highlight" style="margin-top: 24px;">
                     <strong>Kalwar Road Corridor Logistics:</strong> Fast-growing residential enclaves along Kalwar Road benefit from our regular daily transport circuits, making same-day local shifting and quick interstate pick-ups highly economical.
@@ -465,7 +465,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="jht-grid-2">
             <div>
                 <div class="jht-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Jaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>

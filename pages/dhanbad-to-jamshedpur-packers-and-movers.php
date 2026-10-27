@@ -620,19 +620,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-jamshedpur-pac
         <!-- 4 Verified Images Display -->
         <div class="dhn2jsr-img-grid">
             <div class="dhn2jsr-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Dhanbad to Jamshedpur relocation">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Dhanbad to Jamshedpur relocation">
                 <div class="dhn2jsr-img-caption">Dedicated sealed all-weather container trucks engineered for rapid 140 km expressway transit.</div>
             </div>
             <div class="dhn2jsr-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials protecting household goods in Dhanbad">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials protecting household goods in Dhanbad">
                 <div class="dhn2jsr-img-caption">Multi-layer bubble wrap, edge guards, and corrugated boxes for glassware and electronics.</div>
             </div>
             <div class="dhn2jsr-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury car for Dhanbad to Jamshedpur transport">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury car for Dhanbad to Jamshedpur transport">
                 <div class="dhn2jsr-img-caption">Covered hydraulic car trailers equipped with wheel lock straps and transit insurance.</div>
             </div>
             <div class="dhn2jsr-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup at Jamshedpur residence">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup at Jamshedpur residence">
                 <div class="dhn2jsr-img-caption">Complete destination unpacking, bed re-assembly, electrical unmounting, and setup support.</div>
             </div>
         </div>

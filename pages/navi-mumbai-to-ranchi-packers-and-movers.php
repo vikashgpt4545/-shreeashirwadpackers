@@ -227,7 +227,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <!-- Image 1 & Features -->
     <div class="row align-items-center" style="margin-top: 20px; margin-bottom: 40px;">
       <div class="col-lg-6 col-md-12" style="margin-bottom: 20px;">
-        <img src="assets/images/resources/packers-and-movers-in-jharkhand.webp" alt="Navi Mumbai to Ranchi Packers and Movers Service Truck" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 360px; object-fit: cover;">
+        <img loading="lazy" decoding="async" src="assets/images/resources/packers-and-movers-in-jharkhand.webp" alt="Navi Mumbai to Ranchi Packers and Movers Service Truck" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 360px; object-fit: cover;">
       </div>
       <div class="col-lg-6 col-md-12">
         <h3 style="color: #0b2545; font-size: 20px; font-weight: 700; margin-bottom: 15px;">Complete Sector Coverage Across Navi Mumbai</h3>
@@ -269,7 +269,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <!-- Image 2 & Packing Methodology -->
     <div class="row align-items-center" style="margin-bottom: 40px;">
       <div class="col-lg-6 col-md-12 order-lg-2" style="margin-bottom: 20px;">
-        <img src="assets/images/resources/local-household-shifting.webp" alt="5-Layer Household Packing Navi Mumbai to Ranchi" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 360px; object-fit: cover;">
+        <img loading="lazy" decoding="async" src="assets/images/resources/local-household-shifting.webp" alt="5-Layer Household Packing Navi Mumbai to Ranchi" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 360px; object-fit: cover;">
       </div>
       <div class="col-lg-6 col-md-12 order-lg-1">
         <h3 style="color: #0b2545; font-size: 20px; font-weight: 700; margin-bottom: 15px;">5-Tier Marine-Grade Moisture & Vibration Shielding</h3>
@@ -502,7 +502,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
     <div class="row align-items-center" style="margin-bottom: 40px;">
       <div class="col-lg-6 col-md-12" style="margin-bottom: 20px;">
-        <img src="assets/images/resources/dedicated-trucks.webp" alt="Dedicated Truck Fleet for Navi Mumbai to Ranchi Relocation" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 360px; object-fit: cover;">
+        <img loading="lazy" decoding="async" src="assets/images/resources/dedicated-trucks.webp" alt="Dedicated Truck Fleet for Navi Mumbai to Ranchi Relocation" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 360px; object-fit: cover;">
       </div>
       <div class="col-lg-6 col-md-12">
         <h3 style="color: #0b2545; font-size: 20px; font-weight: 700; margin-bottom: 15px;">Dedicated Unloading & Placement Across Ranchi</h3>
@@ -522,7 +522,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <!-- Image 4 & Why Choose Us -->
     <div class="row align-items-center" style="margin-bottom: 40px;">
       <div class="col-lg-6 col-md-12 order-lg-2" style="margin-bottom: 20px;">
-        <img src="assets/images/resources/affordable-cost.webp" alt="Affordable and Secure Moving from Navi Mumbai to Ranchi" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 360px; object-fit: cover;">
+        <img loading="lazy" decoding="async" src="assets/images/resources/affordable-cost.webp" alt="Affordable and Secure Moving from Navi Mumbai to Ranchi" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 360px; object-fit: cover;">
       </div>
       <div class="col-lg-6 col-md-12 order-lg-1">
         <h3 style="color: #0b2545; font-size: 20px; font-weight: 700; margin-bottom: 15px;">Why Trust Shree Ashirwad for Navi Mumbai to Ranchi Shifting?</h3>

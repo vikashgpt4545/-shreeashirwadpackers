@@ -743,7 +743,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="kol-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading Household Luggage for Kolkata to Adityapur Move" title="Loading Household Luggage">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading Household Luggage for Kolkata to Adityapur Move" title="Loading Household Luggage">
                 </div>
             </div>
         </div>
@@ -885,7 +885,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </ul>
                 </div>
                 <div class="kol-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Goods Inspection and Quality Packaging for Kolkata to Adityapur Move" title="Intercity Goods Inspection">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Goods Inspection and Quality Packaging for Kolkata to Adityapur Move" title="Intercity Goods Inspection">
                 </div>
             </div>
         </div>
@@ -928,7 +928,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: SOFA AND FURNITURE HANDLING -->
             <div class="kol-adi-two-col" style="margin-top: 45px;">
                 <div class="kol-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Kolkata to Adityapur Move" title="Protective Sofa and Furniture Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Kolkata to Adityapur Move" title="Protective Sofa and Furniture Packing">
                 </div>
                 <div class="kol-adi-two-col-text">
                     <h2>Expert Furniture Dismantling &amp; Reassembly Service</h2>
@@ -962,7 +962,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="kol-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Packing for Kolkata to Adityapur Move" title="Motorcycle Packing and Shifting">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Packing for Kolkata to Adityapur Move" title="Motorcycle Packing and Shifting">
                 </div>
             </div>
         </div>

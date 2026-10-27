@@ -169,7 +169,7 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -859,7 +859,7 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
 
           <div>
             <div class="rtb-img-frame">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" 
                    alt="Safe Transit Container Truck Ranchi to Bangalore Shree Ashirwad Packers" 
                    loading="lazy" 
                    width="540" 
@@ -995,7 +995,7 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
         <div class="rtb-two-col-reverse">
           <div>
             <div class="rtb-img-frame">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
                    alt="Electronics and LED TV Crating for Long Distance Moves Shree Ashirwad" 
                    loading="lazy" 
                    width="540" 

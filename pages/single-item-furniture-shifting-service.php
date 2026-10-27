@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Furthermore, large contemporary furniture items such as modular king beds, L-shaped sectional sofas, and marble dining sets rarely fit through standard residential doorways, narrow stairwells, or elevator cabins without expert mechanical dismantling. Our trained moving technicians arrive equipped with specialized cordless power tools, ratchet straps, furniture dollies, and padded lifting harnesses to safely extract and maneuver heavy items without scraping wall paint, marble flooring, or door frames.</p>
 
         <div class="sifs-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Single item furniture protective bubble packing for sofa shifting" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Single item furniture protective bubble packing for sofa shifting" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 2: Specific Furniture Categories Handled -->
@@ -555,7 +555,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="sifs-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Technicians dismantling double bed furniture with power tools" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Technicians dismantling double bed furniture with power tools" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Stage Moving Protocol -->
@@ -591,7 +591,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="sifs-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective padded transit cover for single household appliances" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective padded transit cover for single household appliances" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -714,7 +714,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="sifs-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit containerized truck for consolidated single item and part load freight" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit containerized truck for consolidated single item and part load freight" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 6: DIY Hazards -->

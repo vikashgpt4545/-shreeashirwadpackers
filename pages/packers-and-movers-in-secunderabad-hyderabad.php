@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-secunderabad-hyderabad"
         "name": "Shree Ashirwad Packers and Movers Secunderabad",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -513,7 +513,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-secunderabad-hyderabad"
         <h1>Packers and Movers in Secunderabad Hyderabad</h1>
         <p>Certified ISO 9001:2015 relocation services, defense cantonment transfers, railway officer shifting & vehicle carrier services across Marredpally, Kharkhana, Trimulgherry & Paradise.</p>
         <div class="scb-btn-wrap">
-            <a href="tel:+919334404050" class="scb-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="scb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="scb-btn-secondary">Check Rate Calculator</a>
         </div>
     </header>
@@ -535,7 +535,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-secunderabad-hyderabad"
         </div>
 
         <div class="scb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Secunderabad Hyderabad loading residential items" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Secunderabad Hyderabad loading residential items" width="580" height="380" loading="lazy">
             <div class="scb-image-caption">Figure 1: Residential household loading and protective padding executed in Secunderabad, Hyderabad.</div>
         </div>
 
@@ -585,7 +585,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-secunderabad-hyderabad"
         </div>
 
         <div class="scb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and IT workstation packing in Secunderabad Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and IT workstation packing in Secunderabad Hyderabad" width="580" height="380" loading="lazy">
             <div class="scb-image-caption">Figure 2: Institutional inventory labeling and electronic asset packaging executed in Secunderabad.</div>
         </div>
     </section>
@@ -646,7 +646,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-secunderabad-hyderabad"
         </table>
 
         <div class="scb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture padding and wrapping in Secunderabad Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture padding and wrapping in Secunderabad Hyderabad" width="580" height="380" loading="lazy">
             <div class="scb-image-caption">Figure 3: Multi-layer foam padding and corner cushioning applied to fine wooden furniture.</div>
         </div>
     </section>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-secunderabad-hyderabad"
         </div>
 
         <div class="scb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Secunderabad Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Secunderabad Hyderabad" width="580" height="380" loading="lazy">
             <div class="scb-image-caption">Figure 4: GPS-tracked, sealed container trucks ensuring safe inter-state transit from Secunderabad.</div>
         </div>
     </section>
@@ -778,7 +778,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-secunderabad-hyderabad"
         <h3>Book Your Secunderabad Relocation with Verified Experts</h3>
         <p>Contact Shree Ashirwad Packers and Movers today for a free on-site survey and transparent, guaranteed moving quote with zero hidden surprises.</p>
         <div class="scb-btn-wrap">
-            <a href="tel:+919334404050" class="scb-btn-primary">Call Desk: +91 9334404050</a>
+            <a href="tel:+919835565233" class="scb-btn-primary">Call Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="scb-btn-secondary">Check Rate Calculator</a>
         </div>
     </section>

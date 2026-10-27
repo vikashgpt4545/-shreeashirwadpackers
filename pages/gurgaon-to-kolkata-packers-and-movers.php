@@ -56,7 +56,7 @@ $page_keywords = "packers and movers gurgaon to kolkata, gurgaon to kolkata hous
         "name": "Shree Ashirwad Packers and Movers Gurgaon",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334421111",
+        "telephone": "+91 9835565233",
         "priceRange": "₹15,500 - ₹59,000",
         "address": {
             "@type": "PostalAddress",
@@ -205,7 +205,7 @@ $page_keywords = "packers and movers gurgaon to kolkata, gurgaon to kolkata hous
             <p>The standard transit distance is approximately 1,530 km, primarily routed along the historic Grand Trunk Road corridor (NH19), traversing Uttar Pradesh (Agra, Kanpur, Prayagraj, Varanasi), Bihar (Mohania, Sasaram), Jharkhand (Barhi, Bagodar, Dhanbad), and West Bengal (Asansol, Durgapur) into Kolkata. Operating all-weather, sealed container vehicles, our fleet safeguards your household valuables from transit friction, high-speed turbulence, and climatic variations across the 3 to 5-day highway journey.</p>
             
             <div class="ggk-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on Gurgaon to Kolkata national highway corridor" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on Gurgaon to Kolkata national highway corridor" width="580" height="340" loading="lazy">
             </div>
             
             <p>For return relocations back to Delhi NCR, we maintain regular container departures via our <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-gurgaon-packers-and-movers">Kolkata to Gurgaon packers and movers service</a>, assuring matching operational precision and round-trip cost advantages.</p>
@@ -321,7 +321,7 @@ $page_keywords = "packers and movers gurgaon to kolkata, gurgaon to kolkata hous
             <p>Our certified packing technicians utilize only virgin multi-ply corrugated sheets, heavy-density air-bubble rolls, stretch wrap films, edge corner boards, and custom pine-wood crates. Delicate dining glassware, home automation electronics, and heavy teak wood furnishings are wrapped individually with customized padding.</p>
             
             <div class="ggk-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy box packaging for Gurgaon household goods" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy box packaging for Gurgaon household goods" width="580" height="340" loading="lazy">
             </div>
             
             <div class="ggk-grid-2">
@@ -357,7 +357,7 @@ $page_keywords = "packers and movers gurgaon to kolkata, gurgaon to kolkata hous
             <p>Every vehicle undergoes a formal digital check-in. We document existing odometer readings, body scratch maps, and fuel levels on an electronic vehicle condition slip. Batteries are isolated, rearview mirrors foam-wrapped, and vehicles anchored with heavy-duty tire-locking belts.</p>
             
             <div class="ggk-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Gurgaon to Kolkata vehicle relocation" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Gurgaon to Kolkata vehicle relocation" width="580" height="340" loading="lazy">
             </div>
 
             <div class="ggk-grid-3">
@@ -427,7 +427,7 @@ $page_keywords = "packers and movers gurgaon to kolkata, gurgaon to kolkata hous
             <p>We reassemble bed frames, fix modular dining sets, reinstall television wall mounts upon request, and position heavy refrigerators and washing machines in their designated utility niches. Once setup is finalized, we clean up and discard all bubble sheets, corrugated boxes, and plastic wraps, leaving your home spotless.</p>
             
             <div class="ggk-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Kolkata residence" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Kolkata residence" width="580" height="340" loading="lazy">
             </div>
 
             <p>All items are tallied against your original consignment note to ensure zero missing packages or unchecked cartons, giving you total peace of mind on shifting day.</p>
@@ -544,7 +544,7 @@ $page_keywords = "packers and movers gurgaon to kolkata, gurgaon to kolkata hous
     <section class="ggk-cta">
         <h2>Schedule Your Gurgaon to Kolkata Relocation Today</h2>
         <p>Contact our intercity logistics team for prompt quotations, verified vehicle carrier slots, and reliable closed container transport.</p>
-        <p><strong>Call 24/7 Helpline: +91-9334421111 | Email: support@shreeashirwadpackers.com</strong></p>
+        <p><strong>Call 24/7 Helpline: +91 9835565233 | Email: support@shreeashirwadpackers.com</strong></p>
     </section>
 </main>
 

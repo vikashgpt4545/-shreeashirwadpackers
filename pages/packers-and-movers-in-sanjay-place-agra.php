@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Sanjay Place Agra",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="spa-hero-title">Packers and Movers in Sanjay Place Agra</h1>
         <p class="spa-hero-subtitle">Corporate Office Relocation, Executive Residential Shifting, Server Moving &amp; Professional Logistics Across Agra’s Central Business District</p>
         <div class="spa-cta-group">
-            <a href="tel:+919334404050" class="spa-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="spa-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="spa-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -508,7 +508,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="spa-intro-p">Relocating an office or an executive household in Sanjay Place requires an elite logistics partner capable of flawless execution under strict time constraints. Commercial moves here frequently entail transferring sensitive computer servers, multi-line telephone networks, heavy fireproof safes, modular workstations, and confidential financial archives. Shree Ashirwad Packers and Movers brings specialized corporate moving protocols, master technicians, and dedicated project supervisors to handle commercial and residential moves with surgical precision.</p>
 
         <div class="spa-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Corporate and Residential Moving Fleet in Sanjay Place Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Corporate and Residential Moving Fleet in Sanjay Place Agra" width="580" height="380" loading="lazy">
             <p class="spa-image-caption">Our professional commercial loading crew managing systematic IT equipment and workstation relocation in Sanjay Place.</p>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="spa-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Anti-Static Packaging and Office Protection in Sanjay Place" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Anti-Static Packaging and Office Protection in Sanjay Place" width="580" height="380" loading="lazy">
             <p class="spa-image-caption">Anti-static wrap, heavy-duty carton boxes, and protective corner guards ensuring complete security for office assets.</p>
         </div>
     </section>
@@ -694,7 +694,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="spa-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Modular Furniture Assembly in Sanjay Place" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Modular Furniture Assembly in Sanjay Place" width="580" height="380" loading="lazy">
             <p class="spa-image-caption">Skilled carpentry team carefully dismantling modular office workstations and wooden furniture in Sanjay Place.</p>
         </div>
     </section>
@@ -707,7 +707,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="spa-intro-p">Northbound container trucks reach Greater Noida, Noida, and Delhi in approximately 2.5 hours via the high-speed Yamuna Expressway link. Eastbound shipments bound for central Uttar Pradesh connect smoothly via the Agra-Lucknow Expressway, delivering same-day transit to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a> and seamless highway connectivity toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>, Prayagraj, Varanasi, and our central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> along the Grand Trunk NH-19 corridor.</p>
 
         <div class="spa-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Closed Container Truck Fleet in Sanjay Place Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Closed Container Truck Fleet in Sanjay Place Agra" width="580" height="380" loading="lazy">
             <p class="spa-image-caption">Our weather-resistant closed container truck fleet ensuring clean, protected door-to-door deliveries from Sanjay Place.</p>
         </div>
 
@@ -774,7 +774,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Schedule Your Corporate or Executive Move in Sanjay Place</h3>
         <p>Contact our Sanjay Place relocation specialists today for a tailored quote, expert packing assistance, and dependable doorstep moving experience.</p>
         <div class="spa-cta-group">
-            <a href="tel:+919334404050" class="spa-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="spa-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="spa-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

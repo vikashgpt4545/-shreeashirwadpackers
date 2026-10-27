@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-madurai";
         "name": "Shree Ashirwad Packers and Movers Anna Nagar Madurai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-madurai";
         <p>The residential fabric of Anna Nagar comprises grand independent family homes, spacious contemporary duplexes, and premium low-rise multi-family apartments. Residents here include prominent doctors, business founders, legal luminaries, and senior corporate executives who place high value on punctual service, polite crew behavior, and zero-compromise care for household belongings. Shree Ashirwad Packers and Movers has served Anna Nagar for over thirteen years, establishing the gold standard in premium residential relocation.</p>
 
         <div class="anm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and residential shifting in Anna Nagar Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and residential shifting in Anna Nagar Madurai" width="580" height="387" loading="lazy">
             <div class="anm-image-caption">Apartment freight handling and professional residential loading operations in Anna Nagar Madurai.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-madurai";
         </div>
 
         <div class="anm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heirloom wooden furniture protective wrapping in Anna Nagar Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heirloom wooden furniture protective wrapping in Anna Nagar Madurai" width="580" height="387" loading="lazy">
             <div class="anm-image-caption">Multi-tier bubble cushioning and edge guarding for fine wooden furniture in Anna Nagar.</div>
         </div>
 
@@ -596,7 +596,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-madurai";
         <p>Our commercial moving division provides planned transitions tailored to business schedules. We manage commercial moves over weekend windows or evening hours, ensuring that consultation rooms, diagnostic equipment, retail merchandise, and executive desks are shifted and operational without interfering with normal trading hours.</p>
 
         <div class="anm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial showroom and clinic equipment packing in Anna Nagar Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial showroom and clinic equipment packing in Anna Nagar Madurai" width="580" height="387" loading="lazy">
             <div class="mdu-image-caption" style="display:none;"></div>
             <div class="anm-image-caption">Commercial retail merchandise and office equipment relocation handled securely in Anna Nagar.</div>
         </div>
@@ -721,7 +721,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-madurai";
         </ol>
 
         <div class="anm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Anna Nagar Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Anna Nagar Madurai" width="580" height="387" loading="lazy">
             <div class="anm-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Madurai corridors.</div>
         </div>
     </section>
@@ -778,7 +778,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-anna-nagar-madurai";
     <div class="anm-cta-box">
         <h3>Book Your Anna Nagar Move with Proven Specialists</h3>
         <p>Get a fixed-price written quotation backed by our zero-damage guarantee. Fully licensed, insured, and experienced professionals ready to assist your relocation.</p>
-        <a href="tel:+919334404050" class="anm-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="anm-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

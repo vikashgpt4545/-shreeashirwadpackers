@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thanjavur";
         "name": "Shree Ashirwad Packers and Movers Thanjavur",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thanjavur";
         <p>Relocating in Thanjavur demands exceptional artistic sensitivity combined with disciplined logistical rigor. Navigating traditional heritage quarters like South Rampart, Karanthai, and East Main Street with ancestral Chettinad-style houses requires specialized wooden handling and careful vehicle selection. Simultaneously, serving expanding modern residential avenues along Medical College Road, Srinivasapuram, Nilagiri, and the academic hub of Vallam requires polished, punctual relocation standards. Shree Ashirwad Packers and Movers brings over 14 years of dedicated local experience, providing completely damage-free relocations for residents, healthcare practitioners, academicians, and artisanal galleries.</p>
 
         <div class="tjv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Thanjavur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Thanjavur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tjv-image-caption">Professional household loading and apartment shifting operations in Thanjavur.</div>
         </div>
 
@@ -583,7 +583,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thanjavur";
         </div>
 
         <div class="tjv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Institutional equipment and academic office packing in Thanjavur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Institutional equipment and academic office packing in Thanjavur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tjv-image-caption">Institutional office equipment and laboratory apparatus relocation by Shree Ashirwad in Thanjavur.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thanjavur";
         <p>Our moving crews deploy an exacting four-tier defensive packaging protocol. Polished wooden furniture is first padded with breathable soft cotton quilts, wrapped in thick high-density air bubble film, reinforced with corrugated corner edge guards, and encased in weather-resistant stretch wrap. This multilayer shield protects against friction, humidity fluctuations, and expressway vibrations.</p>
 
         <div class="tjv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Thanjavur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Thanjavur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tjv-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Thanjavur.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thanjavur";
         </ol>
 
         <div class="tjv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Thanjavur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Thanjavur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tjv-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Thanjavur corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thanjavur";
     <div class="tjv-cta-box">
         <h3>Move Safely in Thanjavur with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero surprise costs. Licensed, fully insured moving specialists ready to assist your household or enterprise today.</p>
-        <a href="tel:+919334404050" class="tjv-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="tjv-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

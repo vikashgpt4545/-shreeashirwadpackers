@@ -161,7 +161,7 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -799,7 +799,7 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
             </p>
           </div>
           <div class="rsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Household Relocation Cartons Packing in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Household Relocation Cartons Packing in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
       </div>
@@ -879,7 +879,7 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
 
         <div class="rsr-split-row">
           <div class="rsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
           <div>
             <h3 style="font-size: 1.4rem; color: #0f223d; font-weight: 700; margin-bottom: 12px;">1. Modular Kitchen & Crockery Sanctuary</h3>
@@ -907,13 +907,13 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
             </ul>
           </div>
           <div class="rsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Bedroom Double Bed Furniture Dismantling in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Bedroom Double Bed Furniture Dismantling in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
 
         <div class="rsr-split-row" style="margin-top: 50px;">
           <div class="rsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa Furniture Protective Packing in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa Furniture Protective Packing in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
           <div>
             <h3 style="font-size: 1.4rem; color: #0f223d; font-weight: 700; margin-bottom: 12px;">3. Living Room, Entertainment & Recliner Lounges</h3>
@@ -941,7 +941,7 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
             </ul>
           </div>
           <div class="rsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
 
@@ -1072,7 +1072,7 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
             </div>
           </div>
           <div class="rsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Apartment Goods Loading in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Apartment Goods Loading in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
       </div>
@@ -1324,7 +1324,7 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
             </ul>
           </div>
           <div class="rsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="IBA Approved Door-to-Door Delivery Truck in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="IBA Approved Door-to-Door Delivery Truck in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
       </div>

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Porvorim",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-porvorim",
     "priceRange": "₹4,000 - ₹55,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="pvr-container">
       <h1>Packers and Movers in Porvorim Goa</h1>
       <p>Premium household relocation, administrative secretariat transfers, luxury villa shifting, and nationwide logistics across Porvorim, Socorro, and Penha de Franca.</p>
-      <a href="tel:+919334484001" class="pvr-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="pvr-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Porvorim stands as the esteemed legislative and administrative capital of Goa, situated on the elevated northern plateau overlooking the historic Mandovi River directly across from Panaji. Renowned as the home of the Goa State Legislative Assembly and Secretariat complex at Alto Porvorim, this thriving urban hub bridges the administrative gravity of the state government with premier residential neighborhoods, luxury bungalow societies, and upscale retail shopping zones such as Mall De Goa along National Highway 66. Relocating within Porvorim requires a nuanced understanding of its plateau topography, gated enclave protocols, and vital arterial connectivity spanning across the Atal Setu and Mandovi bridges.</p>
 
       <div class="pvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading luxury apartment goods Porvorim" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading luxury apartment goods Porvorim" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pvr-grid-2">
@@ -486,7 +486,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From individual household transitions to institutional secretariat shifting, our comprehensive suite of relocation services delivers unmatched safety and dependability:</p>
 
       <div class="pvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa and furniture packing Porvorim" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa and furniture packing Porvorim" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pvr-grid-cards">
@@ -523,7 +523,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers adheres to a meticulous, time-tested operating procedure designed to eliminate stress and guarantee complete safety:</p>
 
       <div class="pvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading Porvorim" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading Porvorim" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pvr-grid-cards">
@@ -556,7 +556,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our operations fleet provides daily pickup, delivery, and packing services across all prominent neighborhoods and residential enclaves in and around Porvorim:</p>
 
       <div class="pvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing Porvorim Goa" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing Porvorim Goa" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pvr-grid-cards">

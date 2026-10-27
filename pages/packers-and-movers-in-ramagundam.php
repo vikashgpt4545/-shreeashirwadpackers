@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Ramagundam",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-ramagundam",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹47,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>This massive industrial concentration has fostered extensive planned residential colonies such as Jyothinagar, NTPC Permanent Township, 8 Incline Colony, GDK 1, 2, and 5 areas, Tilaknagar, Ramesh Nagar, Subhash Nagar, and Fertilizer City. Hundreds of engineers, executives, mining specialists, and commercial vendors relocate into and out of Ramagundam each quarter, needing a moving service that respects stringent industrial timelines and provides authentic transfer documentation.</p>
 
     <div class="rmgd-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="PSU Township Shifting in Ramagundam Telangana" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="PSU Township Shifting in Ramagundam Telangana" loading="lazy">
       <p class="rmgd-image-caption">Disciplined residential quarter shifting and systematic loading operations in Ramagundam.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="rmgd-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Ramagundam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Ramagundam" loading="lazy">
       <p class="rmgd-image-caption">Dedicated crating and packaging for commercial electronics, servers, and office archives in Ramagundam.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="rmgd-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Cushioning in Ramagundam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Cushioning in Ramagundam" loading="lazy">
       <p class="rmgd-image-caption">Multi-layer protective foam and corrugated sheets safeguarding delicate wooden furniture against transit scratches.</p>
     </div>
 
@@ -633,7 +633,7 @@
     <p>Our experienced local dispatchers schedule loading operations during early morning hours (6:30 AM to 8:30 AM) to circumvent shift-change traffic near NTPC gates and Godavarikhani Chowrasta. For township residential lanes, we deploy maneuverable 14-foot and 17-foot covered container trucks that easily navigate residential quarters without obstructing local traffic.</p>
 
     <div class="rmgd-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Ramagundam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Ramagundam" loading="lazy">
       <p class="rmgd-image-caption">All-weather sealed container trucks ensuring zero moisture exposure and high-security highway transit.</p>
     </div>
 
@@ -723,7 +723,7 @@
   <section class="rmgd-cta-banner">
     <h3>Book Your Stress-Free Move in Ramagundam Today!</h3>
     <p>Contact our experienced relocation advisors for a free pre-move survey, transparent flat-rate estimate, and guaranteed on-time door-to-door delivery across Telangana and India.</p>
-    <a class="rmgd-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="rmgd-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

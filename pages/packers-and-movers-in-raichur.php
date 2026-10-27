@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-raichur";
         "name": "Shree Ashirwad Packers and Movers Raichur",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -519,7 +519,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-raichur";
         <h1>Packers and Movers in Raichur</h1>
         <p>Premier Relocation Partner for Karnataka's Doab Capital, RTPS Thermal Power Township, Rice Mill Hub & Tri-State Corridors</p>
         <div class="rcr-btn-wrap">
-            <a href="tel:+919334404050" class="rcr-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="rcr-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rcr-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-raichur";
         </div>
 
         <div class="rcr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Raichur Karnataka" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Raichur Karnataka" width="580" height="380" loading="lazy">
             <p class="rcr-image-caption">Certified packaging team packing household goods with export-grade materials in Raichur.</p>
         </div>
     </section>
@@ -587,7 +587,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-raichur";
         </div>
 
         <div class="rcr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Raichur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Raichur" width="580" height="380" loading="lazy">
             <p class="rcr-image-caption">Multi-layer protective bubble wrap and edge guards applied to wooden furniture in Raichur.</p>
         </div>
     </section>
@@ -651,11 +651,11 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-raichur";
 
         <div class="rcr-highlight-box">
             <h3>Calculate Your Exact Moving Tariff</h3>
-            <p>Our online calculation system calculates real-time shifting tariffs based on consignment volume, floor elevation, distance, and crating needs. Visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or contact our customer support team at +91 9334404050.</p>
+            <p>Our online calculation system calculates real-time shifting tariffs based on consignment volume, floor elevation, distance, and crating needs. Visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or contact our customer support team at +91 9835565233.</p>
         </div>
 
         <div class="rcr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Packing in Raichur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Packing in Raichur" width="580" height="380" loading="lazy">
             <p class="rcr-image-caption">Individual item wrapping with bubble sheets and honeycomb cartons for delicate kitchenware.</p>
         </div>
     </section>
@@ -696,7 +696,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-raichur";
         </div>
 
         <div class="rcr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Moving Truck in Raichur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Moving Truck in Raichur" width="580" height="380" loading="lazy">
             <p class="rcr-image-caption">Weatherproof sealed container vehicle ready for highway transit along the NH-167 corridor.</p>
         </div>
     </section>

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers GS Road Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gs-road-guwahati",
     "priceRange": "₹4,200 - ₹65,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="gsr-container">
       <h1>Packers and Movers in GS Road Guwahati</h1>
       <p>Premier corporate office shifting, luxury high-rise condominium moving, retail showroom logistics, and nationwide container transit along GS Road Guwahati.</p>
-      <a href="tel:+919334484001" class="gsr-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="gsr-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>GS Road (Guwahati-Shillong Road) serves as the vibrant commercial heartbeat, economic spine, and premier high-street avenue of Guwahati. Stretching from the historic junction of Paltan Bazaar and Bhangagarh through the upscale commercial hubs of Christian Basti, Walford, and ABC to the southern entrance at Khanapara, GS Road accommodates the regional headquarters of multinational corporations, prestigious financial institutions, luxury shopping malls like City Centre and Central Mall, premier private multi-specialty hospitals, and modern multi-storey residential towers. Relocating an office, a retail showroom, or an executive apartment along GS Road requires expert logistical planning, strict adherence to municipal traffic timings, and meticulous protective wrapping for valuable assets.</p>
 
       <div class="gsr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading high-rise apartment goods GS Road Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading high-rise apartment goods GS Road Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="gsr-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From high-rise residential apartments to major corporate headquarter relocations, our services cater to the highest standards of safety and efficiency:</p>
 
       <div class="gsr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for furniture and electronics GS Road" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for furniture and electronics GS Road" width="580" height="360" loading="lazy">
       </div>
 
       <div class="gsr-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers adheres to a disciplined operational workflow designed to guarantee complete safety and timeliness:</p>
 
       <div class="gsr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck GS Road" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck GS Road" width="580" height="360" loading="lazy">
       </div>
 
       <div class="gsr-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all major commercial and residential nodes along GS Road:</p>
 
       <div class="gsr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving GS Road" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving GS Road" width="580" height="360" loading="lazy">
       </div>
 
       <div class="gsr-grid-cards">

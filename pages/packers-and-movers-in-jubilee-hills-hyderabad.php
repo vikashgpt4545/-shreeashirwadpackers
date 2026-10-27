@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-jubilee-hills-hyderabad
         "name": "Shree Ashirwad Packers and Movers Jubilee Hills",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,800 - ₹62,000",
         "address": {
             "@type": "PostalAddress",
@@ -513,7 +513,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-jubilee-hills-hyderabad
         <h1>Packers and Movers in Jubilee Hills Hyderabad</h1>
         <p>Bespoke white-glove relocation services, luxury villa moving, antique fine art crating & executive car transport across Road No 36, Road No 45, and Jubilee Hills residential enclaves.</p>
         <div class="jbh-btn-wrap">
-            <a href="tel:+919334404050" class="jbh-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="jbh-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jbh-btn-secondary">Check Rate Calculator</a>
         </div>
     </header>
@@ -535,7 +535,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-jubilee-hills-hyderabad
         </div>
 
         <div class="jbh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Jubilee Hills Hyderabad loading luxury villa items" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Jubilee Hills Hyderabad loading luxury villa items" width="580" height="380" loading="lazy">
             <div class="jbh-image-caption">Figure 1: Specialized white-glove loading and architectural estate protection in Jubilee Hills, Hyderabad.</div>
         </div>
 
@@ -585,7 +585,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-jubilee-hills-hyderabad
         </div>
 
         <div class="jbh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Executive office and luxury showroom equipment packing in Jubilee Hills Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Executive office and luxury showroom equipment packing in Jubilee Hills Hyderabad" width="580" height="380" loading="lazy">
             <div class="jbh-image-caption">Figure 2: Executive furniture packaging and high-value asset handling executed in Jubilee Hills.</div>
         </div>
     </section>
@@ -646,7 +646,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-jubilee-hills-hyderabad
         </table>
 
         <div class="jbh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture padding and antique wrapping in Jubilee Hills Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture padding and antique wrapping in Jubilee Hills Hyderabad" width="580" height="380" loading="lazy">
             <div class="jbh-image-caption">Figure 3: Multi-density archival foam and corner cushioning applied to antique wooden furnishings.</div>
         </div>
     </section>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-jubilee-hills-hyderabad
         </div>
 
         <div class="jbh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for luxury moving from Jubilee Hills Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for luxury moving from Jubilee Hills Hyderabad" width="580" height="380" loading="lazy">
             <div class="jbh-image-caption">Figure 4: GPS-tracked, sealed container trucks ensuring safe inter-state transit from Jubilee Hills.</div>
         </div>
     </section>
@@ -778,7 +778,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-jubilee-hills-hyderabad
         <h3>Reserve Your Jubilee Hills Relocation with Certified Specialists</h3>
         <p>Contact Shree Ashirwad Packers and Movers today for a confidential on-site survey and transparent, guaranteed moving quote with zero hidden surprises.</p>
         <div class="jbh-btn-wrap">
-            <a href="tel:+919334404050" class="jbh-btn-primary">Call Desk: +91 9334404050</a>
+            <a href="tel:+919835565233" class="jbh-btn-primary">Call Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jbh-btn-secondary">Check Rate Calculator</a>
         </div>
     </section>

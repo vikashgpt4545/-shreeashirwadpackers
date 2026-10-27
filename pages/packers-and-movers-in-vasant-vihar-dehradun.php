@@ -268,7 +268,7 @@ $state_name = 'Uttarakhand';
         "logo": "https://shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "description": "Licensed and insured packers and movers in Vasant Vihar Dehradun offering premier residential shifting, defense and ONGC staff transfers, modular kothi packing, and nationwide relocations.",
-        "telephone": "+91-9334800375",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
@@ -440,7 +440,7 @@ $state_name = 'Uttarakhand';
           <p>Our dedicated crew members understand the nuances of Vasant Vihar's tranquil residential guidelines. We coordinate move schedules respectfully to avoid disturbing neighborhood tranquility, utilize clean floor coverings and protective door jam padding during handling, and operate modern covered container trucks that guarantee secure, rainproof transit whether you are moving across Dehradun or to another metropolitan city across India.</p>
         </div>
         <div class="vvd-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Vasant Vihar Dehradun" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Vasant Vihar Dehradun" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -482,7 +482,7 @@ $state_name = 'Uttarakhand';
       </div>
 
       <div class="vvd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Vasant Vihar Dehradun" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Vasant Vihar Dehradun" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -575,7 +575,7 @@ $state_name = 'Uttarakhand';
       </table>
 
       <div class="vvd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Vasant Vihar Dehradun" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Vasant Vihar Dehradun" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -611,7 +611,7 @@ $state_name = 'Uttarakhand';
       </div>
 
       <div class="vvd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Vasant Vihar Dehradun" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Vasant Vihar Dehradun" width="580" height="380" loading="lazy">
       </div>
     </section>
 

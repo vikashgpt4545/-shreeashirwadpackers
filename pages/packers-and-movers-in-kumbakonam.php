@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kumbakonam";
         "name": "Shree Ashirwad Packers and Movers Kumbakonam",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kumbakonam";
         <p>Relocating in Kumbakonam demands an agile, culturally respectful moving partner. The town's historic core features narrow, winding Agraharam streets and traditional tiled-roof heritage houses that cannot accommodate heavy commercial trucks. Moving antique teakwood swing boards (Oonjal), hand-carved pillars, sacred silver pooja mandirs, and heavy brass cookware requires gentle, skillful handling and compact transport shuttles. Concurrently, serving modern residential neighborhoods along Railway Station Road, TSR Big Street, and Ullur demands prompt, organized logistics execution. Shree Ashirwad Packers and Movers brings over 14 years of regional mastery, ensuring completely safeguarded relocations for both residential families and enterprise corporations.</p>
 
         <div class="kbk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Kumbakonam Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Kumbakonam Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="kbk-image-caption">Professional household loading and apartment shifting operations in Kumbakonam.</div>
         </div>
 
@@ -583,7 +583,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kumbakonam";
         </div>
 
         <div class="kbk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial equipment and office packing in Kumbakonam Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial equipment and office packing in Kumbakonam Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="kbk-image-caption">Commercial office equipment and precision apparatus relocation by Shree Ashirwad in Kumbakonam.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kumbakonam";
         <p>Our moving teams employ a comprehensive four-tier defense system. Polished teak and rosewood articles are first wrapped in breathable cotton blankets, encased in heavy-gauge air bubble film, reinforced with corrugated edge corner protectors, and sealed with waterproof stretch film. This robust shield safeguards delicate surfaces against abrasion, humidity changes, and highway vibrations.</p>
 
         <div class="kbk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Kumbakonam Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Kumbakonam Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="kbk-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Kumbakonam.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kumbakonam";
         </ol>
 
         <div class="kbk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Kumbakonam Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Kumbakonam Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="kbk-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Kumbakonam corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kumbakonam";
     <div class="kbk-cta-box">
         <h3>Move Safely in Kumbakonam with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero hidden fees. Licensed, fully insured relocation professionals ready to assist your household or enterprise today.</p>
-        <a href="tel:+919334404050" class="kbk-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="kbk-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

@@ -620,19 +620,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dhanbad-to-chaibasa-packe
         <!-- 4 Verified Images Display -->
         <div class="dhn2chb-img-grid">
             <div class="dhn2chb-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Dhanbad to Chaibasa inter-district transit">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Dhanbad to Chaibasa inter-district transit">
                 <div class="dhn2chb-img-caption">Dedicated sealed all-weather container trucks engineered for 200 km transit.</div>
             </div>
             <div class="dhn2chb-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials protecting household goods in Dhanbad">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials protecting household goods in Dhanbad">
                 <div class="dhn2chb-img-caption">Multi-layer bubble wrap, edge guards, and corrugated boxes for glassware and electronics.</div>
             </div>
             <div class="dhn2chb-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury car for Dhanbad to Chaibasa transport">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury car for Dhanbad to Chaibasa transport">
                 <div class="dhn2chb-img-caption">Covered hydraulic car trailers equipped with wheel lock straps and transit insurance.</div>
             </div>
             <div class="dhn2chb-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup at Chaibasa residence">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup at Chaibasa residence">
                 <div class="dhn2chb-img-caption">Complete destination unpacking, bed re-assembly, electrical unmounting, and setup support.</div>
             </div>
         </div>

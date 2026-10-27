@@ -134,14 +134,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="International Export Container Loading in Jharkhand - Shree Ashirwad Packers" title="International Moving Services in Ranchi - Global Relocation" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="International Export Container Loading in Jharkhand - Shree Ashirwad Packers" title="International Moving Services in Ranchi - Global Relocation" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">150+</span>
                 <span class="badge-txt">Global Destinations</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Export Packaging Materials for International Shipping - Shree Ashirwad Packers" title="Export Packaging for International Relocation in Ranchi" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Export Packaging Materials for International Shipping - Shree Ashirwad Packers" title="Export Packaging for International Relocation in Ranchi" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -275,7 +275,7 @@ require_once __DIR__ . '/includes/seo.php';
         <div class="room-packing-grid">
           
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="ISPM-15 Heat Treated Wooden Crating for Overseas Moving - Shree Ashirwad Packers" title="ISPM-15 Certified Export Wooden Crating Ranchi" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="ISPM-15 Heat Treated Wooden Crating for Overseas Moving - Shree Ashirwad Packers" title="ISPM-15 Certified Export Wooden Crating Ranchi" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">ISPM-15 Heat-Treated Wooden Crates</h3>
               <p class="room-pack-text">
@@ -290,7 +290,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Moisture Barrier Vacuum Foil Packaging for Ocean Shipping - Shree Ashirwad Packers" title="Aluminum Barrier Foil Packaging for Sea Cargo" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Moisture Barrier Vacuum Foil Packaging for Ocean Shipping - Shree Ashirwad Packers" title="Aluminum Barrier Foil Packaging for Sea Cargo" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Aluminum Barrier Foil & Desiccant Sealing</h3>
               <p class="room-pack-text">
@@ -305,7 +305,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Heavy Duty Export Corrugated Cartons for Ocean Freight - Shree Ashirwad Packers" title="7-Ply Heavy Export Cartons for Sea Shipping" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Heavy Duty Export Corrugated Cartons for Ocean Freight - Shree Ashirwad Packers" title="7-Ply Heavy Export Cartons for Sea Shipping" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">7-Ply Virgin Kraft Export Master Cartons</h3>
               <p class="room-pack-text">
@@ -320,7 +320,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Multi Layer Foam and Quilted Furniture Padding for Ocean Transit - Shree Ashirwad Packers" title="International Furniture Padding and Wrapping" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Multi Layer Foam and Quilted Furniture Padding for Ocean Transit - Shree Ashirwad Packers" title="International Furniture Padding and Wrapping" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Multi-Layer Foam & Quilted Export Padding</h3>
               <p class="room-pack-text">
@@ -514,16 +514,16 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Infrastructure & Fleet Visual Showcase -->
         <div class="infra-images-grid" style="margin-top: 36px;">
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Seaport Export Container Loading in Jharkhand - Shree Ashirwad Packers" title="Marine Container Stuffing and Loading" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Seaport Export Container Loading in Jharkhand - Shree Ashirwad Packers" title="Marine Container Stuffing and Loading" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Fleet Door to Door Delivery Truck - Shree Ashirwad Packers" title="Dedicated Closed Container Delivery Truck" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Fleet Door to Door Delivery Truck - Shree Ashirwad Packers" title="Dedicated Closed Container Delivery Truck" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Port Feeder Truck Loading in Jharkhand - Shree Ashirwad Packers" title="Port Feeder Road Transit to Kolkata and Mumbai" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Port Feeder Truck Loading in Jharkhand - Shree Ashirwad Packers" title="Port Feeder Road Transit to Kolkata and Mumbai" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Bonded Transit Warehousing in Ranchi - Shree Ashirwad Packers" title="Bonded Warehouse Storage Facility Ranchi" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Bonded Transit Warehousing in Ranchi - Shree Ashirwad Packers" title="Bonded Warehouse Storage Facility Ranchi" width="400" height="260" loading="lazy">
           </div>
         </div>
 

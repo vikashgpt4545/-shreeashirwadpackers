@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Aligarh",
     "image": "https://www.shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-aligarh-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 19,000 - 80,000",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Harmu Road & Morabadi Logistics Complex",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -479,7 +479,7 @@ include_once __DIR__ . '/../includes/config.php';
     </p>
 
     <div class="r2al-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Aligarh Door-to-Door Container Truck" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Aligarh Door-to-Door Container Truck" loading="lazy">
       <div class="r2al-caption">Modern, GPS-tracked covered container trucks providing safe door-to-door transport from Ranchi to Aligarh.</div>
     </div>
   </section>
@@ -534,7 +534,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
 
     <div class="r2al-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing Ready for Interstate Shifting to Aligarh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing Ready for Interstate Shifting to Aligarh" loading="lazy">
       <div class="r2al-caption">Multi-layered protective packaging safeguarding furniture and delicate glassware on the 1,020 km transit to Aligarh.</div>
     </div>
   </section>
@@ -633,7 +633,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
 
     <div class="r2al-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Highway Journey to Aligarh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Highway Journey to Aligarh" loading="lazy">
       <div class="r2al-caption">Systematic loading and weight-balancing inside container trucks preventing transit movement on the route to Aligarh.</div>
     </div>
   </section>
@@ -673,7 +673,7 @@ include_once __DIR__ . '/../includes/config.php';
     </ol>
 
     <div class="r2al-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Moving Truck for Long Distance Route to Aligarh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Moving Truck for Long Distance Route to Aligarh" loading="lazy">
       <div class="r2al-caption">All-weather covered container trucks ensuring zero road dust and damage on the highway to Aligarh.</div>
     </div>
   </section>
@@ -715,7 +715,7 @@ include_once __DIR__ . '/../includes/config.php';
   <section class="r2al-cta-banner">
     <h3>Planning Your Shifting from Ranchi to Aligarh?</h3>
     <p>Contact Shree Ashirwad Packers and Movers today for an instant free quotation and personalized moving plan. Our interstate specialists are ready to assist you!</p>
-    <a href="tel:+919334404052" class="r2al-btn">Call +91 93344 04052 for Free Quote</a>
+    <a href="tel:+919835565233" class="r2al-btn">Call +91 9835565233 for Free Quote</a>
   </section>
 
   <section>

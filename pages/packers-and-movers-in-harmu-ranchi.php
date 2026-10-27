@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Harmu Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-harmu-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -432,7 +432,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Harmu Ranchi</h1>
         <p>Premium household shifting, luxury bungalow relocation, apartment moving, and vehicle transport services across Harmu Housing Colony, Harmu Bypass Road, Sahjanand Chowk, Patel Chowk, and Vidhyapati Nagar. Trusted by prominent residents, civil servants, and corporate professionals for seamless moving.</p>
-        <a href="tel:+919334404052" class="hl-hrm-cta-btn">&#128222; Call Now: +91 93344 04052</a>
+        <a href="tel:+919835565233" class="hl-hrm-cta-btn">&#128222; Call Now: +91 9835565233</a>
       </div>
       <div class="hl-hrm-hero-card">
         <h3>Fast Relocation Estimate</h3>
@@ -440,7 +440,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Harmu Bypass &amp; Sahjanand Chowk, Ranchi
         </div>
         <div class="hl-hrm-contact-item">
-          <span>Helpline:</span> +91 93344 04052
+          <span>Helpline:</span> +91 9835565233
         </div>
         <div class="hl-hrm-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -457,7 +457,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Constrained Card Image 1 -->
   <div class="hl-hrm-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Harmu Housing Colony Ranchi">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Harmu Housing Colony Ranchi">
     <div class="hl-hrm-img-caption">Dedicated closed-body container fleet providing secure, weather-sealed residential relocations across Harmu.</div>
   </div>
 
@@ -504,7 +504,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 2 -->
     <div class="hl-hrm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-Layer Furniture Protection for VIP Bungalows in Harmu Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-Layer Furniture Protection for VIP Bungalows in Harmu Ranchi">
       <div class="hl-hrm-img-caption">Multi-layer bubble wrap, foam corner guards, and stretch film protecting valuable furniture assets.</div>
     </div>
 
@@ -586,7 +586,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 3 -->
     <div class="hl-hrm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Safe Two-Wheeler and Motorbike Packing in Harmu Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Safe Two-Wheeler and Motorbike Packing in Harmu Ranchi">
       <div class="hl-hrm-img-caption">Multi-layer protective bubble wrap and specialized cargo straps ensuring scratch-free bike shipping.</div>
     </div>
 
@@ -650,7 +650,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 4 -->
     <div class="hl-hrm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Handling Relocations in Harmu Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Handling Relocations in Harmu Ranchi">
       <div class="hl-hrm-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services in Harmu.</div>
     </div>
 

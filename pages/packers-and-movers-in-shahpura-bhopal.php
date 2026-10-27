@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Shahpura Bhopal",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-shahpura-bhopal",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -431,7 +431,7 @@ $state_name = 'Madhya Pradesh';
           <p>Our moving supervisors coordinate directly with society resident welfare associations across Shahpura and Gulmohar, securing elevator permissions and managing quiet daytime moving windows so your shifting day proceeds seamlessly without disrupting neighbors.</p>
         </div>
         <div class="shp-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Shahpura Bhopal" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Shahpura Bhopal" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -473,7 +473,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="shp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing in Shahpura Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing in Shahpura Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -588,7 +588,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="shp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Shahpura Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Shahpura Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -620,7 +620,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="shp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Shahpura Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Shahpura Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -686,7 +686,7 @@ $state_name = 'Madhya Pradesh';
     <div class="shp-cta-bar">
       <h3>Ready for an Effortless Luxury Move in Shahpura?</h3>
       <p>Connect with our expert relocation specialists today for a private home survey, guaranteed quotation, and premium white-glove moving care.</p>
-      <a href="tel:+919334484001" class="shp-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="shp-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

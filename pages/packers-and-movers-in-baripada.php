@@ -395,7 +395,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-baripada#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-baripada",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -542,7 +542,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="brp-body-p">Geographically, our logistical teams navigate every corner of Baripada with seasoned familiarity. Whether handling heritage residences in Deulasahi and Station Road, commercial shops near Kachery Chowk, or modern apartment constructions in Bhanjpur and Madhuban, we deploy right-sized vehicles, hydraulic moving equipment, and specialized packing materials. Furthermore, through our regional network, we connect Baripada seamlessly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-balasore">Balasore</a> (55 km), Jamshedpur (115 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (250 km), and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="brp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting container loading in Baripada" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting container loading in Baripada" width="580" height="380" loading="lazy">
                     <div class="brp-image-caption">Systematic loading and cargo bracing inside closed-body transport fleet in Baripada.</div>
                 </div>
 
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="brp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Baripada" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Baripada" width="580" height="380" loading="lazy">
                     <div class="brp-image-caption">Standardized 4-layer packaging incorporating air bubble sheeting, foam wrap, and edge guards.</div>
                 </div>
 
@@ -674,7 +674,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="brp-lead-p">To guarantee seamless precision on moving day, our ground crews adhere to an established five-stage operational framework tested across thousands of moves throughout Eastern India:</p>
 
                 <div class="brp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Baripada" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Baripada" width="580" height="380" loading="lazy">
                     <div class="brp-image-caption">Careful dismantling and packaging of modular bed frames, dining sets, and wardrobes.</div>
                 </div>
 
@@ -734,7 +734,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </ul>
 
                 <div class="brp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in Baripada" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in Baripada" width="580" height="380" loading="lazy">
                     <div class="brp-image-caption">Dedicated door-to-door delivery trucks serving both urban Baripada and rural Mayurbhanj towns.</div>
                 </div>
 
@@ -806,7 +806,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <li>All-India Transit Coverage</li>
                     <li>24/7 Dedicated Shipment Tracking</li>
                 </ul>
-                <a href="tel:+919334460424" class="brp-cta-button">📞 Call: +91 93344 60424</a>
+                <a href="tel:+919835565233" class="brp-cta-button">📞 Call: +91 9835565233</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="brp-cta-button" style="margin-top: 10px; background: linear-gradient(135deg, #b45309 0%, #d97706 100%);">📊 Calculate Charges Online</a>
             </div>
 
@@ -826,7 +826,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="brp-body-p"><strong>Shree Ashirwad Packers and Movers</strong><br>
                 Corporate HQ: Ashok Nagar, Near Birsa Munda Airport Road, Ranchi, Jharkhand.<br>
                 Regional Baripada Hub: NH-18 Bypass, Bhanjpur Chowk, Baripada, Mayurbhanj, Odisha - 757001.<br>
-                Helpline: +91 93344 60424<br>
+                Helpline: +91 9835565233<br>
                 Email: info@shreeashirwadpackers.com</p>
                 <a href="<?php echo SITE_BASE_URL; ?>/" class="brp-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>

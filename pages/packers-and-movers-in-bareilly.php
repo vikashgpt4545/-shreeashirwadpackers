@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Bareilly",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -457,7 +457,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Bareilly</h1>
         <p>Premium household shifting, defense cantonment moves, and national highway logistics across Bareilly, Civil Lines, Rajendra Nagar, and DD Puram with certified zero-damage safety.</p>
         <div class="brl-hero-btn-group">
-            <a href="tel:+919334404050" class="brl-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="brl-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="brl-btn-secondary">Check Moving Tariff</a>
         </div>
     </section>
@@ -470,7 +470,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="brl-intro-p">The city serves as a vital strategic military installation, hosting the Trishul Air Force Base—one of the Indian Air Force’s premier frontline fighter bases—along with the storied Jat Regimental Centre and extensive Bareilly Cantonment. Moreover, Bareilly is an internationally recognized center of veterinary medicine and agricultural research, housing the Indian Veterinary Research Institute (IVRI) and Central Avian Research Institute (CARI) alongside MJP Rohilkhand University.</p>
 
         <div class="brl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Bareilly Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Bareilly Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="brl-image-caption">Our professional packing crew loading packed household consignments into secure container trucks in Bareilly.</p>
         </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="brl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Bareilly Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Bareilly Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="brl-image-caption">High-density bubble wrapping and reinforced multi-wall cartons utilized for household goods in Bareilly.</p>
         </div>
 
@@ -660,7 +660,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="brl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Bareilly" width="580" height="380" loading="lazy">
             <p class="brl-image-caption">Skilled carpentry team carefully dismantling large wooden bed frames and packing delicate hardware in Bareilly.</p>
         </div>
     </section>
@@ -673,7 +673,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="brl-intro-p">Westbound freight movements connect directly via National Highway 530 and NH-30 toward Rampur, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-moradabad">Moradabad</a>, Hapur, and Delhi NCR in approximately 5 to 6 hours. Northbound routes provide instant access toward Pilibhit, Tanakpur, and Uttarakhand hill stations like Nainital and Kathgodam, while southbound highways link easily toward Badaun and Aligarh.</p>
 
         <div class="brl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Bareilly" width="580" height="380" loading="lazy">
             <p class="brl-image-caption">Dedicated sealed container truck fleet ensuring clean, weather-protected door-to-door delivery across Bareilly.</p>
         </div>
 
@@ -740,7 +740,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Smooth Relocation in Bareilly Today</h3>
         <p>Connect with our Bareilly relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="brl-cta-group">
-            <a href="tel:+919334404050" class="brl-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="brl-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="brl-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

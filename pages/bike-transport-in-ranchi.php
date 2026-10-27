@@ -5,7 +5,7 @@
  * 
  * Target URL: https://www.shreeashirwadpackers.com/bike-transport-in-ranchi
  * Title: Bike Transport in Ranchi (Exact keyword only as specified)
- * Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834001
+ * Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002
  * Coordinates: 23.3639813° N, 85.3090259° E
  */
 
@@ -100,7 +100,7 @@ $meta_keywords = "bike transport in ranchi, two wheeler transport in ranchi, mot
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -145,7 +145,7 @@ $meta_keywords = "bike transport in ranchi, two wheeler transport in ranchi, mot
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -409,7 +409,7 @@ $meta_keywords = "bike transport in ranchi, two wheeler transport in ranchi, mot
           </div>
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Bike Transport in Ranchi Professional Two Wheeler Packing" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Bike Transport in Ranchi Professional Two Wheeler Packing" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Multi-Layer Motorcycle Packaging in Progress</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">High-density foam, heavy-duty bubble wrap, and wheel-chock stabilization in Ranchi</div>
@@ -582,7 +582,7 @@ $meta_keywords = "bike transport in ranchi, two wheeler transport in ranchi, mot
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:36px; align-items:center;">
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit in Enclosed Container Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit in Enclosed Container Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Secure Closed-Container Transit</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">All-weather covered carrier fleets protecting bikes against heat, dust, and highway hazards</div>

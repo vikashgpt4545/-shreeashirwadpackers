@@ -980,7 +980,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2gkp-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck navigating Gorakhpur to Ranchi highway" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck navigating Gorakhpur to Ranchi highway" loading="lazy">
           <div class="r2gkp-img-caption">Dedicated sealed linehaul container truck navigating the Gorakhpur-Bihar-Ranchi corridor</div>
         </div>
       </div>
@@ -999,7 +999,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2gkp-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household defensive packing for Gorakhpur to Ranchi moving" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household defensive packing for Gorakhpur to Ranchi moving" loading="lazy">
           <div class="r2gkp-img-caption">Multi-layer protective packaging engineered for delicate glassware, electronics, and furniture</div>
         </div>
       </div>
@@ -1181,7 +1181,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2gkp-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Specialized two-wheeler motorcycle parcel packing between Gorakhpur and Ranchi" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Specialized two-wheeler motorcycle parcel packing between Gorakhpur and Ranchi" loading="lazy">
           <div class="r2gkp-img-caption">Specialized motorcycle parceling with multi-layer wrapping and custom wheel-chocks</div>
         </div>
       </div>
@@ -1200,7 +1200,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2gkp-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room furniture arrangement in Ranchi" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room furniture arrangement in Ranchi" loading="lazy">
           <div class="r2gkp-img-caption">Comprehensive destination unloading and room setup service in Ranchi residences</div>
         </div>
       </div>

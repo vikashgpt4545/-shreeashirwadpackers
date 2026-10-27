@@ -277,7 +277,7 @@ $meta_description = "Best Packers and Movers in Ormanjhi Ranchi. IBA approved ho
             <div class="col-lg-6">
                 <!-- Whitelisted Image 1 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Ormanjhi Ranchi" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Ormanjhi Ranchi" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-truck-moving" style="color: #0284c7;"></i> Shree Ashirwad Packers container fleet serving Ormanjhi and Ranchi metropolitan area
@@ -294,7 +294,7 @@ $meta_description = "Best Packers and Movers in Ormanjhi Ranchi. IBA approved ho
             <div class="col-lg-6">
                 <!-- Whitelisted Image 2 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium Packing Materials in Ormanjhi" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium Packing Materials in Ormanjhi" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div style="margin-top: 15px; text-align: center; font-size: 0.85rem; color: #64748b;">
                     <i class="fa-solid fa-box-open" style="color: #0284c7;"></i> Multi-layer bubble wrapping and durable carton packaging for Ormanjhi homes
@@ -508,7 +508,7 @@ $meta_description = "Best Packers and Movers in Ormanjhi Ranchi. IBA approved ho
             <div class="col-lg-6">
                 <!-- Whitelisted Image 3 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transportation in Ormanjhi" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transportation in Ormanjhi" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
             </div>
             <div class="col-lg-6 mt-4 mt-lg-0">
@@ -536,7 +536,7 @@ $meta_description = "Best Packers and Movers in Ormanjhi Ranchi. IBA approved ho
             <div class="col-lg-6 order-lg-2">
                 <!-- Whitelisted Image 4 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Warehousing near Ormanjhi" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Warehousing near Ormanjhi" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
             </div>
             <div class="col-lg-6 order-lg-1 mt-4 mt-lg-0">

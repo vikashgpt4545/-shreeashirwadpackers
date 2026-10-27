@@ -366,7 +366,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-puri#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-puri",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -528,7 +528,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="pri-body-p">Whether you are moving your family residence along VIP Road, shifting seaside apartments in Baliapanda, transferring staff quarters near the District Collectorate and Talabania, or relocating hotel furniture along Chakratirtha Road, Shree Ashirwad Packers and Movers guarantees punctual, damage-free execution.</p>
 
                 <div class="pri-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Puri Odisha">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Puri Odisha">
                     <div class="pri-image-caption">Trained packing and loading technicians handling household goods in Puri (Jagannath Dham)</div>
                 </div>
 
@@ -572,7 +572,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="pri-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Puri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Puri">
                     <div class="pri-image-caption">Multi-layer bubble wrap, edge protectors, and moisture barriers safeguarding sensitive household assets</div>
                 </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="pri-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Puri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Puri">
                     <div class="pri-image-caption">Carpentry technicians safely dismantling and blanket-wrapping heavy wooden bedroom sets</div>
                 </div>
 
@@ -704,7 +704,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="pri-body-p">Our container fleet operates scheduled daily runs connecting Puri to the state capital authority hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a> (approx. 60 km, completed within 2 to 3 hours), the judicial capital of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack</a>, the southern trade center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur" style="color: #1e3a8a; font-weight: 600;">Berhampur</a>, the steel city of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">Rourkela</a>, and the engineering center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur" style="color: #1e3a8a; font-weight: 600;">Sambalpur</a>.</p>
 
                 <div class="pri-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Puri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Puri">
                     <div class="pri-image-caption">Weatherproof sealed container vehicle operating highway corridors connecting Puri to Ranchi HQ</div>
                 </div>
 
@@ -770,7 +770,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> VIP Road, Near Police Line Square, Puri</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="pri-cta-button">Request Free Moving Quote</a>

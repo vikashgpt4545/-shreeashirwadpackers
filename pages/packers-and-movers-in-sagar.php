@@ -32,7 +32,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Sagar",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-sagar",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -419,7 +419,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="sgr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Sagar Household Loading" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Sagar Household Loading" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -457,7 +457,7 @@ $state_name = 'Madhya Pradesh';
       <p>For defense quarters within the Sagar Military Cantonment, our crew follows strict security protocols, carrying verified government identity cards, pre-authorized gate entry paperwork, and standardized military consignment inventories that ensure smooth entry and exit through army checkpoints without inspection delays.</p>
 
       <div class="sgr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Sagar MP" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Sagar MP" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -541,7 +541,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="sgr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Sagar MP" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Sagar MP" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -629,7 +629,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="sgr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Sagar MP" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Sagar MP" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -695,7 +695,7 @@ $state_name = 'Madhya Pradesh';
     <div class="sgr-cta-bar">
       <h3>Plan Your Smooth Relocation in Sagar Today</h3>
       <p>Connect with our expert Sagar relocation team today for a free pre-move survey, guaranteed quote, and seamless moving experience.</p>
-      <a href="tel:+919334484001" class="sgr-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="sgr-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

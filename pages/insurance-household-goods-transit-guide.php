@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Transit Insurance for Household Goods Ranchi | Coverage, Rates & Claim Guide | Call 9708579999</title>
-    <meta name="description" content="Complete guide to household transit insurance in Ranchi. Compare All-Risk vs Transit-Only policies, calculate 1.5% - 3% premiums, learn claim settlement rules, and avoid policy loopholes. Call 9708579999.">
+    <title>Transit Insurance for Household Goods Ranchi | Coverage, Rates & Claim Guide | Call 9835565233</title>
+    <meta name="description" content="Complete guide to household transit insurance in Ranchi. Compare All-Risk vs Transit-Only policies, calculate 1.5% - 3% premiums, learn claim settlement rules, and avoid policy loopholes. Call 9835565233.">
     <meta name="keywords" content="transit insurance for household goods ranchi, packers and movers insurance claim jharkhand, all risk moving insurance cost, moving insurance premium rates ranchi, shree ashirwad packers insurance">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/insurance-household-goods-transit-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Risk & Insurance Desk",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/insurance-household-goods-transit-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Transit Insurance for Household Goods: Complete Coverage & Claim Guide</h1>
                 <p>Relocating your household across highways carries unforeseen risks—from unpredictable monsoon flash floods to emergency braking hazards. Learn how authentic marine transit insurance safeguards your financial investment, compare All-Risk vs. Transit-Only policies, and master the claim settlement process.</p>
                 <div class="ihgt-cta-group">
-                    <a href="tel:+919708579999" class="ihgt-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20explain%20transit%20insurance%20options%20for%20my%20move" class="ihgt-btn-wa" target="_blank" rel="noopener">WhatsApp Insurance Helpdesk</a>
+                    <a href="tel:+919835565233" class="ihgt-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20explain%20transit%20insurance%20options%20for%20my%20move" class="ihgt-btn-wa" target="_blank" rel="noopener">WhatsApp Insurance Helpdesk</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="ihgt-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Audited and itemized household relocation cartons for insurance coverage in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Audited and itemized household relocation cartons for insurance coverage in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -299,7 +299,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>How to Fill the Declared Value Inventory (DVI) Sheet Correctly</h2>
                 <div class="ihgt-grid-2">
                     <div class="ihgt-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Bubble wrapped fragile kitchen items for declared value inventory audit in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Bubble wrapped fragile kitchen items for declared value inventory audit in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>The Declared Value Inventory (DVI) is the legal foundation of your insurance policy. If an item is not explicitly listed or is severely undervalued on this document, insurance adjusters will apply the "Condition of Average" rule, dramatically slashing your claim payout:</p>
@@ -326,7 +326,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="ihgt-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck insured for inter-state highway transit in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck insured for inter-state highway transit in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -346,7 +346,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </div>
                     <div class="ihgt-card">
                         <h4>3. Notify Within 24-48 Hours</h4>
-                        <p>Submit written notification of damage along with high-definition photographs and video clips to our Ranchi claims desk at <strong>info@shreeashirwadpackers.com</strong> or call <strong>+91 9708579999</strong>.</p>
+                        <p>Submit written notification of damage along with high-definition photographs and video clips to our Ranchi claims desk at <strong>info@shreeashirwadpackers.com</strong> or call <strong>+91 9835565233</strong>.</p>
                     </div>
                     <div class="ihgt-card">
                         <h4>4. Independent Surveyor Inspection</h4>
@@ -368,7 +368,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Policy Exclusions: What Transit Insurance NEVER Covers</h2>
                 <div class="ihgt-grid-2">
                     <div class="ihgt-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping to prevent transit insurance claim disputes" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping to prevent transit insurance claim disputes" loading="lazy">
                     </div>
                     <div>
                         <p>Every general insurance contract contains standard exclusion clauses. Being aware of these exclusions protects you from unwelcome surprises:</p>

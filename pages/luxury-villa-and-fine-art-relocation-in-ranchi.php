@@ -76,7 +76,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -477,7 +477,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- First Verified Image: Constrained as required -->
   <div style="text-align: center; margin: 0 auto 35px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Luxury Villa and Fine Art Relocation in Ranchi - Master Furniture Care" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Luxury Villa and Fine Art Relocation in Ranchi - Master Furniture Care" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Master carpentry technicians executing precision dismantling and protective foam wrapping for luxury bedroom furniture in Ranchi.</p>
   </div>
 
@@ -667,7 +667,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3>Entrust Your Cherished Estate to Ranchi's Premier White-Glove Movers</h3>
     <p>Schedule a confidential, complimentary in-home valuation survey with our Senior Relocation Director in Morabadi, Kanke Road, or Ashok Nagar.</p>
     <a href="tel:+918409531615" class="cta-btn-gold">📞 Private Concierge: +91 8409531615</a>
-    <p style="font-size: 0.9rem; margin-top: 15px; color: #e0aaff;">Headquarters: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834001</p>
+    <p style="font-size: 0.9rem; margin-top: 15px; color: #e0aaff;">Headquarters: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</p>
   </div>
 
   <!-- Cluster Internal Linking Grid -->

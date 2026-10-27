@@ -727,7 +727,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-dumka-packers-
                 </div>
             </div>
             <div class="d2dum-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Container Truck for Deoghar to Dumka Shifting" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Container Truck for Deoghar to Dumka Shifting" width="600" height="400" loading="lazy">
                 <div class="d2dum-img-caption">Sealed container trucks providing dust-proof, rain-safe, and rapid 1.5 hr highway transit between Deoghar and Dumka.</div>
             </div>
         </div>
@@ -844,7 +844,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-dumka-packers-
     <section class="d2dum-section" style="background: #ffffff;">
         <div class="d2dum-grid-2">
             <div class="d2dum-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Protective packing for fragile household and medical equipment" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Protective packing for fragile household and medical equipment" width="600" height="400" loading="lazy">
                 <div class="d2dum-img-caption">5-layer protective wrapping for medical research files, glassware, electronics, and delicate mandir articles.</div>
             </div>
             <div>
@@ -915,7 +915,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-dumka-packers-
                 </div>
             </div>
             <div class="d2dum-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Hydraulic Car Carrier for Deoghar to Dumka" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Hydraulic Car Carrier for Deoghar to Dumka" width="600" height="400" loading="lazy">
                 <div class="d2dum-img-caption">Hydraulic car loading ramps providing zero-contact undercarriage safety for personal vehicles.</div>
             </div>
         </div>
@@ -979,7 +979,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-dumka-packers-
                 </div>
             </div>
             <div class="d2dum-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Dumka" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Dumka" width="600" height="400" loading="lazy">
                 <div class="d2dum-img-caption">Professional doorstep unpacking, room placement, bed assembly, and packing waste clearance in Dumka.</div>
             </div>
         </div>

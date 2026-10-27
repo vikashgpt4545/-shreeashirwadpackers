@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-vidyanagar-hubli";
         "name": "Shree Ashirwad Packers and Movers Vidyanagar Hubli",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -521,7 +521,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Vidyanagar Hubli</h1>
         <p>Premium household shifting, student hostel transfers, corporate office relocation, and bike moving across Vidyanagar, Shirur Park, Akshay Park, Lingaraj Nagar, and KLE Tech.</p>
         <div class="vnh-btn-wrap">
-            <a href="tel:+919334404050" class="vnh-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vnh-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vnh-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -549,7 +549,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vnh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing services in Vidyanagar Hubli" title="Household packing in Vidyanagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing services in Vidyanagar Hubli" title="Household packing in Vidyanagar">
             <p class="vnh-image-caption">Comprehensive household packing and organized labeling for apartments and villas in Vidyanagar Hubli.</p>
         </div>
     </section>
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Institutional libraries and professor book collections are packed into heavy-duty corrugated cartons, organized by catalog reference and lined with desiccant pouches to prevent moisture absorption. Meanwhile, doctors and healthcare specialists in Shirur Park and Lingaraj Nagar rely on our weekend clinic relocation solutions to transfer medical equipment, filing systems, and consultation furniture without missing a single patient appointment.</p>
 
         <div class="vnh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Vidyanagar Hubli" title="Furniture packing in Vidyanagar Hubli">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Vidyanagar Hubli" title="Furniture packing in Vidyanagar Hubli">
             <p class="vnh-image-caption">Multi-tier bubble wrapping and edge guards applied to premium furniture in Vidyanagar Hubli.</p>
         </div>
     </section>
@@ -629,7 +629,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Given Vidyanagar's massive student and young professional population, two-wheeler transport is among our most in-demand services. We pack motorcycles, Royal Enfield bikes, and scooters using high-density foam padding on fuel tanks, side mirrors, and exhausts. Vehicles are strapped securely inside specialized enclosed carriers, ensuring scratch-free transit to Bangalore, Pune, Hyderabad, or any Indian city.</p>
 
         <div class="vnh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Vidyanagar Hubli" title="Delicate packing in Vidyanagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Vidyanagar Hubli" title="Delicate packing in Vidyanagar">
             <p class="vnh-image-caption">Individual bubble wrapping and shock-absorbent cell partitioning for glassware and crockery in Vidyanagar.</p>
         </div>
     </section>
@@ -744,7 +744,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vnh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Vidyanagar Hubli" title="Safe transit truck in Vidyanagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Vidyanagar Hubli" title="Safe transit truck in Vidyanagar">
             <p class="vnh-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Server and IT Data Center Relocation in Ranchi
 $page_title = "Server & IT Data Center Relocation in Ranchi | Zero-Downtime Migration";
-$page_description = "Mission-critical server & IT data center relocation in Ranchi. Anti-static ESD packing, padded flight cases, air-ride transit, and zero-downtime server rack moving for banks & IT firms. Call +91 9334812833.";
+$page_description = "Mission-critical server & IT data center relocation in Ranchi. Anti-static ESD packing, padded flight cases, air-ride transit, and zero-downtime server rack moving for banks & IT firms. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-relocation-ranchi";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
         "name": "Shree Ashirwad Packers and Movers - Enterprise IT Logistics Division",
         "image": "https://shreeashirwadpackers.com/images/office-equipment-secure-packing-jamshedpur.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹20,000 - ₹4,50,000",
         "address": {
             "@type": "PostalAddress",
@@ -358,7 +358,7 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
     <section class="dcr-hero-banner">
         <h1 class="dcr-hero-title">Server & IT Data Center Relocation in Ranchi</h1>
         <p class="dcr-hero-subtitle">Mission-Critical IT Infrastructure Relocation for Banks, PSUs, Government Data Centers & Tech Parks. Anti-Static ESD Packing, Padded Flight Cases & Zero-Downtime Weekend Cutovers.</p>
-        <a href="tel:+919334812833" class="dcr-cta-btn">Consult Enterprise IT Movers: +91 9334812833</a>
+        <a href="tel:+919835565233" class="dcr-cta-btn">Consult Enterprise IT Movers: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -374,7 +374,7 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
             </div>
             <div>
                 <div class="dcr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Server rack and IT equipment packing in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Server rack and IT equipment packing in Ranchi" width="580" height="387">
                     <div class="dcr-caption">Anti-static ESD encapsulation and shock-padded crating for rack servers</div>
                 </div>
             </div>
@@ -460,7 +460,7 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
         <div class="dcr-grid-2">
             <div>
                 <div class="dcr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Anti static ESD packaging for server electronics in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Anti static ESD packaging for server electronics in Ranchi" width="580" height="387">
                     <div class="dcr-caption">Custom foam cutouts and anti-static shielding bags for server chassis</div>
                 </div>
             </div>
@@ -493,7 +493,7 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
             </div>
             <div>
                 <div class="dcr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Air ride suspension containerized moving trucks in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Air ride suspension containerized moving trucks in Ranchi" width="580" height="387">
                     <div class="dcr-caption">Air-ride suspension trucks providing smooth shock-dampened transport</div>
                 </div>
             </div>
@@ -503,7 +503,7 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
         <div class="dcr-grid-2">
             <div>
                 <div class="dcr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure IT equipment staging warehouse in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure IT equipment staging warehouse in Ranchi" width="580" height="387">
                     <div class="dcr-caption">Secure, climate-controlled, biometric-access staging facility</div>
                 </div>
             </div>

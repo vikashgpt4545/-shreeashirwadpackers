@@ -981,7 +981,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2asr-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck navigating Ranchi to Amritsar highway" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck navigating Ranchi to Amritsar highway" loading="lazy">
           <div class="r2asr-img-caption">Dedicated sealed linehaul container truck navigating the Ranchi-NH-44-Amritsar corridor</div>
         </div>
       </div>
@@ -1000,7 +1000,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2asr-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household defensive packing for Ranchi to Amritsar moving" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household defensive packing for Ranchi to Amritsar moving" loading="lazy">
           <div class="r2asr-img-caption">Multi-layer protective packaging engineered for delicate glassware, electronics, and furniture</div>
         </div>
       </div>
@@ -1182,7 +1182,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2asr-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading for vehicle relocation between Ranchi and Amritsar" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading for vehicle relocation between Ranchi and Amritsar" loading="lazy">
           <div class="r2asr-img-caption">Hydraulic car carrier loading with wheel-chocks and protective coverings</div>
         </div>
       </div>
@@ -1201,7 +1201,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2asr-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room furniture arrangement in destination residence" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room furniture arrangement in destination residence" loading="lazy">
           <div class="r2asr-img-caption">Comprehensive destination unloading and room setup service in Amritsar residences</div>
         </div>
       </div>

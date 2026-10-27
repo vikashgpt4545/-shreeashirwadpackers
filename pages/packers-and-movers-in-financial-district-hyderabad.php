@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Financial District",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-financial-district-hyderabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -551,7 +551,7 @@
     <p>Our dedicated Financial District branch operates 365 days a year, providing custom weekend shifts and evening loading solutions tailored to corporate executives, IT professionals, and multinational businesses requiring zero downtime.</p>
 
     <div class="fdt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Skyscraper Apartment Moving in Financial District Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Skyscraper Apartment Moving in Financial District Hyderabad" loading="lazy">
       <p class="fdt-image-caption">Careful loading operations and freight elevator management in luxury skyscraper towers across Financial District Hyderabad.</p>
     </div>
   </section>
@@ -584,7 +584,7 @@
     <p>Our experienced technicians also take charge of disassembling and reassembling king-size storage beds, multi-door wardrobes, and wall-mounted electronics, freeing customers from the hassle of coordinating outside carpenters or handymen.</p>
 
     <div class="fdt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial IT Office Equipment Packing in Financial District" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial IT Office Equipment Packing in Financial District" loading="lazy">
       <p class="fdt-image-caption">Secure anti-static wrapping and heavy-duty carton packing for commercial IT systems in Financial District.</p>
     </div>
   </section>
@@ -646,7 +646,7 @@
     <p>Our billing structure contains zero hidden fuel surcharges or ambiguous stair-carry fees. Everything is clearly committed in a binding digital quotation before any packing commences.</p>
 
     <div class="fdt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Financial District" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Financial District" loading="lazy">
       <p class="fdt-image-caption">Reinforced protective wrapping for mahogany wardrobes and designer sofas before transit.</p>
     </div>
   </section>
@@ -722,7 +722,7 @@
     <p>Whether relocating a luxury penthouse in Nanakramguda or managing an enterprise server room transfer across the Financial District, our operations team ensures that all logistics tasks are executed smoothly without unnecessary delays.</p>
 
     <div class="fdt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Financial District" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Financial District" loading="lazy">
       <p class="fdt-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
   </section>
@@ -807,7 +807,7 @@
   <section class="fdt-cta-banner">
     <h3>Book Your White-Glove Move in Financial District Today!</h3>
     <p>Contact our friendly relocation experts for a free pre-move survey, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Hyderabad and India.</p>
-    <a class="fdt-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="fdt-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

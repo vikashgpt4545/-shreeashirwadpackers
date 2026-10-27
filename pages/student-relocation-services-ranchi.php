@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Student Relocation Services in Ranchi
 $page_title = "Student Relocation Services in Ranchi | Hostel & PG Shifting with Student Discount";
-$page_description = "Specialized student relocation in Ranchi for BIT Mesra, IIM, RIMS, XISS, NUSRL & CUJ students. Affordable hostel luggage, books, bike & PC shifting with up to 20% student discount. Call +91 9334812833.";
+$page_description = "Specialized student relocation in Ranchi for BIT Mesra, IIM, RIMS, XISS, NUSRL & CUJ students. Affordable hostel luggage, books, bike & PC shifting with up to 20% student discount. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-ranchi";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
         "name": "Shree Ashirwad Packers and Movers - Student Logistics Division",
         "image": "https://shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹799 - ₹8,500",
         "address": {
             "@type": "PostalAddress",
@@ -358,7 +358,7 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
     <section class="stu-hero-banner">
         <h1 class="stu-hero-title">Student Relocation Services in Ranchi</h1>
         <p class="stu-hero-subtitle">Affordable Hostel, PG & Campus Moving for BIT Mesra, IIM Ranchi, RIMS & XISS. Luggage Courier, Study Desks, Bikes & Holiday Storage with 20% Student Discount.</p>
-        <a href="tel:+919334812833" class="stu-cta-btn">Claim 20% Student Discount: +91 9334812833</a>
+        <a href="tel:+919835565233" class="stu-cta-btn">Claim 20% Student Discount: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -374,7 +374,7 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
             </div>
             <div>
                 <div class="stu-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Hostel and student room carton packing in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Hostel and student room carton packing in Ranchi" width="580" height="387">
                     <div class="stu-caption">Heavy-duty carton boxes for books, study materials, and personal belongings</div>
                 </div>
             </div>
@@ -467,7 +467,7 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
         <div class="stu-grid-2">
             <div>
                 <div class="stu-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and desktop computer packing for students in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and desktop computer packing for students in Ranchi" width="580" height="387">
                     <div class="stu-caption">Anti-static bubble wrap and foam cushioning for monitors and desktop CPUs</div>
                 </div>
             </div>
@@ -498,7 +498,7 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
             </div>
             <div>
                 <div class="stu-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe containerized trucks for student luggage transit in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe containerized trucks for student luggage transit in Ranchi" width="580" height="387">
                     <div class="stu-caption">Weatherproof sealed containerized trucks delivering student luggage nationwide</div>
                 </div>
             </div>
@@ -508,7 +508,7 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
         <div class="stu-grid-2">
             <div>
                 <div class="stu-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure warehouse luggage storage for college students in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure warehouse luggage storage for college students in Ranchi" width="580" height="387">
                     <div class="stu-caption">Clean, pest-controlled, CCTV-monitored storage for semester breaks</div>
                 </div>
             </div>

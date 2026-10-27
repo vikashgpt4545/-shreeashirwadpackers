@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hassan";
         "name": "Shree Ashirwad Packers and Movers Hassan",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -519,7 +519,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hassan";
         <h1>Packers and Movers in Hassan</h1>
         <p>Premier Relocation Partner for the Gateway to Malnad, ISRO Master Control Facility (MCF), Coffee Plantation Belt & NH-75 Highway Corridor</p>
         <div class="hsn-btn-wrap">
-            <a href="tel:+919334404050" class="hsn-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="hsn-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hsn-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hassan";
         </div>
 
         <div class="hsn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Hassan Karnataka" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Hassan Karnataka" width="580" height="380" loading="lazy">
             <p class="hsn-image-caption">Certified packaging team packing household goods with export-grade materials in Hassan.</p>
         </div>
     </section>
@@ -587,7 +587,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hassan";
         </div>
 
         <div class="hsn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Hassan" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Hassan" width="580" height="380" loading="lazy">
             <p class="hsn-image-caption">Multi-layer protective bubble wrap and edge guards applied to wooden furniture in Hassan.</p>
         </div>
     </section>
@@ -651,11 +651,11 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hassan";
 
         <div class="hsn-highlight-box">
             <h3>Calculate Your Exact Moving Tariff</h3>
-            <p>Our online calculation system calculates real-time shifting tariffs based on consignment volume, floor elevation, distance, and crating needs. Visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or contact our customer support team at +91 9334404050.</p>
+            <p>Our online calculation system calculates real-time shifting tariffs based on consignment volume, floor elevation, distance, and crating needs. Visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or contact our customer support team at +91 9835565233.</p>
         </div>
 
         <div class="hsn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Packing in Hassan" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Packing in Hassan" width="580" height="380" loading="lazy">
             <p class="hsn-image-caption">Individual item wrapping with bubble sheets and honeycomb cartons for delicate kitchenware.</p>
         </div>
     </section>
@@ -696,7 +696,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hassan";
         </div>
 
         <div class="hsn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Moving Truck in Hassan" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Moving Truck in Hassan" width="580" height="380" loading="lazy">
             <p class="hsn-image-caption">Weatherproof sealed container vehicle ready for highway transit along the NH-75 corridor.</p>
         </div>
     </section>

@@ -134,14 +134,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment Secure Packing and Business Shifting in Ranchi - Shree Ashirwad Packers" title="Business Shifting Services in Ranchi - Professional Commercial Relocation" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment Secure Packing and Business Shifting in Ranchi - Shree Ashirwad Packers" title="Business Shifting Services in Ranchi - Professional Commercial Relocation" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">B2B</span>
                 <span class="badge-txt">Corporate Logistics</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Commercial Equipment and Machinery Moving in Jharkhand - Shree Ashirwad Packers" title="Commercial Heavy Equipment and Machinery Shifting" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Commercial Equipment and Machinery Moving in Jharkhand - Shree Ashirwad Packers" title="Commercial Heavy Equipment and Machinery Shifting" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -485,16 +485,16 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Corporate Fleet & Warehousing Visual Showcase -->
         <div class="infra-images-grid" style="margin-top: 36px;">
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Commercial Fleet Door to Door Delivery Truck - Shree Ashirwad Packers" title="Dedicated Commercial Delivery Truck in Jharkhand" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Commercial Fleet Door to Door Delivery Truck - Shree Ashirwad Packers" title="Dedicated Commercial Delivery Truck in Jharkhand" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Warehouse and Office Records Storage in Ranchi - Shree Ashirwad Packers" title="Commercial Goods Storage and Corporate Warehousing Facility" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Warehouse and Office Records Storage in Ranchi - Shree Ashirwad Packers" title="Commercial Goods Storage and Corporate Warehousing Facility" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Corporate Moving Truck Loading in Jharkhand - Shree Ashirwad Packers" title="Intercity Corporate Shifting Truck Loading" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Corporate Moving Truck Loading in Jharkhand - Shree Ashirwad Packers" title="Intercity Corporate Shifting Truck Loading" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="IT Server Racks and Video Display Crating in Jharkhand - Shree Ashirwad Packers" title="IT Equipment and Server Display Secure Crating" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="IT Server Racks and Video Display Crating in Jharkhand - Shree Ashirwad Packers" title="IT Equipment and Server Display Secure Crating" width="400" height="260" loading="lazy">
           </div>
         </div>
 

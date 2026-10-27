@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s50-intro-p">Relocating within Sector 50 requires a white-glove standard of care that exceeds ordinary moving protocols. Homes in this sector are characterized by high-value interior furnishings, imported Italian marble dining consoles, fragile crystal chandeliers, priceless oil canvases, vintage teak wood wardrobes, and premium electronics. Shree Ashirwad Packers and Movers brings specialized white-glove moving expertise to Sector 50, delivering tailored wooden crating, specialized furniture carpentry, protective lift padding, and seamless nationwide logistics backed by a 100% zero-damage guarantee.</p>
 
         <div class="s50-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Sector 50 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Sector 50 Noida" width="580" height="360">
             <div class="s50-image-caption">Systematic loading and cargo bracing inside all-weather container fleet in Sector 50 Noida</div>
         </div>
 
@@ -587,7 +587,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s50-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging materials for Sector 50 Noida home shifting" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging materials for Sector 50 Noida home shifting" width="580" height="360">
             <div class="s50-image-caption">Standardized 4-layer packaging utilizing bubble wrap, corrugated sheets, and edge protectors in Sector 50 Noida</div>
         </div>
     </section>
@@ -700,7 +700,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s50-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Sector 50 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Sector 50 Noida" width="580" height="360">
             <div class="s50-image-caption">Skilled carpenters dismantling and wrapping modular furniture in Sector 50 Noida</div>
         </div>
     </section>
@@ -734,7 +734,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s50-intro-p">Every inter-state transit container is outfitted with real-time GPS telematics, dual driver shifts for continuous transit, and waterproof container seals that safeguard household treasures against monsoon rains, highway dust, and transit vibrations.</p>
 
         <div class="s50-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Sector 50 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Sector 50 Noida" width="580" height="360">
             <div class="s50-image-caption">All-weather container fleet connecting Sector 50 Noida to inter-state commercial and residential hubs</div>
         </div>
     </section>

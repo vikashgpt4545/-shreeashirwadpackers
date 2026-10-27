@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sundarpada-bhubaneswar#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sundarpada-bhubaneswar",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,100 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="sdp-body-p">At Shree Ashirwad Packers and Movers, we deliver dependable relocation services engineered specifically for the vibrant residential community of Sundarpada. Whether you are moving into a newly finished 2 BHK flat near Hi-Tech Plaza, shifting your family residence along Jatni Road, or transferring to a modern villa near Pokhariput, our certified packing specialists manage every carton with professional care. Operating in complete coordination with our parent city authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Packers and Movers in Bhubaneswar</a>, western hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-khandagiri-bhubaneswar">Packers and Movers in Khandagiri Bhubaneswar</a>, and corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we guarantee complete peace of mind.</p>
 
                 <div class="sdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Sundarpada Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Sundarpada Bhubaneswar">
                     <div class="sdp-image-caption">Systematic loading of palletized cartons and heavy appliances in Sundarpada.</div>
                 </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="sdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for household items in Sundarpada">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for household items in Sundarpada">
                     <div class="sdp-image-caption">5-layer packaging using virgin air-bubble sheets and edge protectors in Sundarpada.</div>
                 </div>
 
@@ -676,7 +676,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="sdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Sundarpada">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Sundarpada">
                     <div class="sdp-image-caption">Professional furniture dismantling, hardware tagging, and protective wrapping in Sundarpada.</div>
                 </div>
 
@@ -710,7 +710,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="sdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Sundarpada Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Sundarpada Bhubaneswar">
                     <div class="sdp-image-caption">Dedicated closed-body container truck arriving for doorstep delivery in Sundarpada.</div>
                 </div>
 
@@ -767,7 +767,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Main Jatni Road, Near Hi-Tech Plaza, Sundarpada</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="sdp-cta-button">Request Free Moving Quote</a>

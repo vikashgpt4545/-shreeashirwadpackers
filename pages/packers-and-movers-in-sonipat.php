@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Sonipat",
     "image": "https://shreeashirwadpackers.com/images/professional-loading-crew-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-sonipat",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -460,7 +460,7 @@
       </div>
       <div>
         <div class="snp-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Sonipat Haryana" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Sonipat Haryana" width="580" height="386" loading="lazy">
           <p class="snp-image-caption">Trained loading crew executing systematic cargo handling in Sonipat Haryana.</p>
         </div>
       </div>
@@ -556,7 +556,7 @@
       </div>
     </div>
     <div class="snp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons in Sonipat Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons in Sonipat Haryana" width="580" height="386" loading="lazy">
       <p class="snp-image-caption">Heavy-duty corrugated boxes and protective padding for Sonipat household relocations.</p>
     </div>
   </section>
@@ -592,7 +592,7 @@
       </div>
     </div>
     <div class="snp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial machinery and office shifting in Sonipat Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial machinery and office shifting in Sonipat Haryana" width="580" height="386" loading="lazy">
       <p class="snp-image-caption">Specialized equipment rigging and industrial machinery handling in Kundli and Rai zones.</p>
     </div>
   </section>
@@ -628,7 +628,7 @@
       </div>
     </div>
     <div class="snp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Sonipat Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Sonipat Haryana" width="580" height="386" loading="lazy">
       <p class="snp-image-caption">Weatherproof sealed container trucks ensuring zero transit damage for Sonipat households.</p>
     </div>
   </section>

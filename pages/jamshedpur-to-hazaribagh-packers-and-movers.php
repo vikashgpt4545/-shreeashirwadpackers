@@ -662,7 +662,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-hazaribagh-
                 <p>With our professional crews handling dismantling, bubble-packing, custom wooden crating for delicate electronics, and organized room-wise placement at your destination, your move is completed without chaos or structural damage.</p>
             </div>
             <div class="j2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated intercity container truck moving from Jamshedpur to Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated intercity container truck moving from Jamshedpur to Hazaribagh" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -734,7 +734,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-hazaribagh-
     <div class="j2hzb-container">
         <div class="j2hzb-grid-2col">
             <div class="j2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional 5-layer packing for Jamshedpur to Hazaribagh move" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional 5-layer packing for Jamshedpur to Hazaribagh move" loading="lazy" width="600" height="400">
             </div>
             <div class="j2hzb-content-box">
                 <span class="j2hzb-tag">Damage-Proof Quality</span>
@@ -765,7 +765,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-hazaribagh-
                 <p>For four-wheelers, our hydraulic ramp car carriers feature individual wheel chocks, anti-sway safety belts, and pre-loading photographic inspection reports noting preexisting scratch marks and odometer readings. You receive complete door-to-door vehicle delivery in Hazaribagh with complete peace of mind.</p>
             </div>
             <div class="j2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicles from Jamshedpur to Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicles from Jamshedpur to Hazaribagh" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-hazaribagh-
     <div class="j2hzb-container">
         <div class="j2hzb-grid-2col">
             <div class="j2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service at destination in Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service at destination in Hazaribagh" loading="lazy" width="600" height="400">
             </div>
             <div class="j2hzb-content-box">
                 <span class="j2hzb-tag">Full-Service Guarantee</span>

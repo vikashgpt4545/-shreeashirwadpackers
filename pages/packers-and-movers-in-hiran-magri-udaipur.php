@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Hiran Magri Udaipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hiran-magri-udaipur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,100 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -237,7 +237,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="hrm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Hiran Magri Udaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Hiran Magri Udaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -262,7 +262,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="hrm-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Hiran Magri Udaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Hiran Magri Udaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -430,7 +430,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="hrm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Hiran Magri Udaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Hiran Magri Udaipur" width="580" height="380" loading="lazy">
                 </div>
                 <div class="hrm-highlight" style="margin-top: 24px;">
                     <strong>Sevashram Flyover Arterial Link:</strong> Situated right alongside the Sevashram Flyover and 80 Feet Road, our carriers bypass city center congestion and head directly onto national highways for rapid transit across India.
@@ -465,7 +465,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="hrm-grid-2">
             <div>
                 <div class="hrm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Udaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Udaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>

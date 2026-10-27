@@ -297,7 +297,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers Mayur Vihar Delhi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
-        "telephone": "+91 9708323605",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mayur-vihar-delhi",
         "priceRange": "₹3,500 - ₹54,000",
@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="myv-hero-cta">
-            <a href="tel:+919708323605" class="myv-btn-primary">Call Relocation Desk: +91 9708323605</a>
+            <a href="tel:+919835565233" class="myv-btn-primary">Call Relocation Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="myv-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -517,7 +517,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Relocating in Mayur Vihar involves navigating unique residential society infrastructure: managing cooperative society gate entry clearances, providing protective elevator wall padding in multi-storey towers, steering clear of height-restricted pocket entry arches, and utilizing strategic access routes like Noida Link Road, Mayur Vihar Flyover, and NH-24 / Delhi-Meerut Expressway. Shree Ashirwad Packers and Movers brings more than 16 years of hands-on moving mastery to Mayur Vihar.</p>
 
         <div class="myv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into container truck in Mayur Vihar Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into container truck in Mayur Vihar Delhi">
             <div class="myv-image-caption">Systematic truck loading operations supervised by certified relocation executives in Mayur Vihar.</div>
         </div>
 
@@ -568,7 +568,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Relocating from multi-level builder floors or walk-up apartments places considerable stress on furniture joints and polished finishes. To counteract friction, moisture, and impact shocks, Shree Ashirwad Packers and Movers implements a standardized 4-layer packaging sequence on all household moves originating in Mayur Vihar.</p>
 
         <div class="myv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-tier bubble wrapping and heavy-duty carton packing in Mayur Vihar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-tier bubble wrapping and heavy-duty carton packing in Mayur Vihar">
             <div class="myv-image-caption">High-density bubble wrap and export-grade corrugated boxes protect delicate belongings during transit.</div>
         </div>
 
@@ -659,7 +659,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="myv-section-subtitle">Skilled technicians ensure flawless dismantling, safe transit, and accurate reassembly of modular interiors.</p>
 
         <div class="myv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed reassembly in Mayur Vihar Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed reassembly in Mayur Vihar Delhi">
             <div class="myv-image-caption">Skilled carpenters dismantling and cataloging hardware components before protective wrapping.</div>
         </div>
 
@@ -685,7 +685,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="myv-section-subtitle">From initial survey to final placement, our four-stage moving cycle delivers unmatched peace of mind.</p>
 
         <div class="myv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mayur Vihar Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mayur Vihar Delhi">
             <div class="myv-image-caption">Punctual, GPS-monitored enclosed delivery vehicles stationed across East Delhi.</div>
         </div>
 

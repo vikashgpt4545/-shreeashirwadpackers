@@ -83,7 +83,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -659,7 +659,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 1 -->
   <div class="img-showcase-dumka">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Dumka Packers and Movers Dedicated Container Truck Fleet">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Dumka Packers and Movers Dedicated Container Truck Fleet">
     <div class="caption">Shree Ashirwad Packers and Movers dedicated closed container trucks scheduled for direct Ranchi to Dumka express linehaul transit.</div>
   </div>
 
@@ -757,7 +757,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 2 -->
   <div class="img-showcase-dumka">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Ranchi for Dumka Relocation">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Ranchi for Dumka Relocation">
     <div class="caption">Skilled packing crew carefully stacking and lashing furniture inside a sealed container truck in Ranchi.</div>
   </div>
 
@@ -814,7 +814,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 3 -->
   <div class="img-showcase-dumka">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Heavy-Duty Packaging for Ranchi to Dumka Moving">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Heavy-Duty Packaging for Ranchi to Dumka Moving">
     <div class="caption">Premium virgin bubble wrap and double-walled cartons utilized by Shree Ashirwad Packers for delicate household items.</div>
   </div>
 
@@ -899,7 +899,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 4 -->
   <div class="img-showcase-dumka">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Assembly Service in Dumka">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Assembly Service in Dumka">
     <div class="caption">Professional unpacking, furniture assembly, and room placement completed by Shree Ashirwad crew at customer residence in Dumka.</div>
   </div>
 

@@ -83,7 +83,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Ranchi Central Hub, Near Overbridge, Main Road",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "aggregateRating": {
@@ -661,7 +661,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="ran-gar-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sealed Container Truck for Ranchi to Garhwa Shifting" title="Household Goods Loading Ranchi to Garhwa">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sealed Container Truck for Ranchi to Garhwa Shifting" title="Household Goods Loading Ranchi to Garhwa">
             </div>
         </div>
     </div>
@@ -743,7 +743,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="ran-gar-container">
         <div class="ran-gar-two-col">
             <div class="ran-gar-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Inspecting Furniture and Delicate Household Goods" title="Professional Packing and Inspection Crew">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Inspecting Furniture and Delicate Household Goods" title="Professional Packing and Inspection Crew">
             </div>
             <div class="ran-gar-two-col-text">
                 <h2>5-Layer Defensive Packaging Architecture</h2>
@@ -808,7 +808,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="ran-gar-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Ranchi to Garhwa Transport" title="Motorcycle Transport Ranchi to Garhwa">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Ranchi to Garhwa Transport" title="Motorcycle Transport Ranchi to Garhwa">
             </div>
         </div>
     </div>
@@ -819,7 +819,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="ran-gar-container">
         <div class="ran-gar-two-col">
             <div class="ran-gar-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Storage and Warehouse Hub for Transit Goods" title="Secure Warehouse Storage Facility">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Storage and Warehouse Hub for Transit Goods" title="Secure Warehouse Storage Facility">
             </div>
             <div class="ran-gar-two-col-text">
                 <h2>100% Audit-Approved Bills for Govt &amp; Judicial Officers</h2>

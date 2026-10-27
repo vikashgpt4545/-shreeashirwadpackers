@@ -754,7 +754,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>To eliminate the risks of transshipment damage, Shree Ashirwad Packers and Movers implements a <strong>strict zero-transshipment guarantee</strong>. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--rtv-indigo); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also manage high-frequency reciprocal return relocations on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/trivandrum-to-ranchi-packers-and-movers" style="color: var(--rtv-indigo); font-weight: 600; text-decoration: underline;">Trivandrum to Ranchi packers and movers</a> corridor with equal dedication. Your household goods and vehicles remain sealed inside the exact dedicated container in which they were loaded in Ranchi until they arrive at your Trivandrum doorstep.</p>
             </div>
             <div class="rtv-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Trivandrum Packers and Movers container truck transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Trivandrum Packers and Movers container truck transit" loading="lazy">
             </div>
         </div>
     </section>
@@ -847,7 +847,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rtv-section rtv-section-light">
         <div class="rtv-grid-2">
             <div class="rtv-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof multi-layer packing for Ranchi to Trivandrum moving" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof multi-layer packing for Ranchi to Trivandrum moving" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rtv-indigo); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Moisture-Barrier Protection</span>
@@ -958,7 +958,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Whether delivering to Kazhakoottam, Kowdiar, or Pattom, we provide convenient doorstep drop-off, ensuring your car or bike arrives clean, scratch-free, and ready to drive.</p>
             </div>
             <div class="rtv-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Trivandrum" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Trivandrum" loading="lazy">
             </div>
         </div>
     </section>
@@ -1007,7 +1007,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rtv-section rtv-section-light">
         <div class="rtv-grid-2">
             <div class="rtv-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Trivandrum Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Trivandrum Shree Ashirwad Packers" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rtv-indigo); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Why Trust Shree Ashirwad</span>

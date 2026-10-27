@@ -899,7 +899,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2prj-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Sealed Container Truck for Prayagraj to Ranchi Interstate Relocation" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Sealed Container Truck for Prayagraj to Ranchi Interstate Relocation" loading="lazy">
         </div>
       </div>
     </div>
@@ -1023,7 +1023,7 @@ require_once __DIR__ . '/includes/header.php';
     <div class="r2prj-container">
       <div class="r2prj-grid-2">
         <div class="r2prj-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="High-Density Protective Packaging for Fragile Goods and Advocate Legal Libraries Prayagraj" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="High-Density Protective Packaging for Fragile Goods and Advocate Legal Libraries Prayagraj" loading="lazy">
         </div>
         <div class="r2prj-content-box">
           <div class="r2prj-sec-badge">Official Claims Ready</div>
@@ -1131,7 +1131,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2prj-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle Multi-Layer Packing and Safe Two-Wheeler Parcel Prayagraj to Ranchi" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle Multi-Layer Packing and Safe Two-Wheeler Parcel Prayagraj to Ranchi" loading="lazy">
         </div>
       </div>
     </div>
@@ -1306,7 +1306,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2prj-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking, Reassembly and Room Placement Service in Ranchi" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking, Reassembly and Room Placement Service in Ranchi" loading="lazy">
         </div>
       </div>
     </div>

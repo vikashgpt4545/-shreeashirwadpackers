@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-udupi";
         "name": "Shree Ashirwad Packers and Movers Udupi",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -519,7 +519,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-udupi";
         <h1>Packers and Movers in Udupi</h1>
         <p>Expert Coastal Relocation, Temple City Shifting, Moisture-Proof Household Packaging & NH-66 Highway Transport</p>
         <div class="udp-btn-wrap">
-            <a href="tel:+919334404050" class="udp-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="udp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="udp-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-udupi";
         </div>
 
         <div class="udp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Udupi Karnataka" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Udupi Karnataka" width="580" height="380" loading="lazy">
             <p class="udp-image-caption">Experienced packing team securing domestic goods with multi-layer waterproof protective wrapping in Udupi.</p>
         </div>
     </section>
@@ -587,7 +587,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-udupi";
         </div>
 
         <div class="udp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Udupi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Udupi" width="580" height="380" loading="lazy">
             <p class="udp-image-caption">Heavy wooden furniture padded with corrugated corner guards and shrink film to prevent scratches.</p>
         </div>
     </section>
@@ -651,11 +651,11 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-udupi";
 
         <div class="udp-highlight-box">
             <h3>Calculate Your Real-Time Moving Estimate</h3>
-            <p>Our online calculation system evaluates your exact shifting costs based on inventory volume, floor elevation, distance, and crating needs. Visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or connect with our customer specialists at +91 9334404050.</p>
+            <p>Our online calculation system evaluates your exact shifting costs based on inventory volume, floor elevation, distance, and crating needs. Visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or connect with our customer specialists at +91 9835565233.</p>
         </div>
 
         <div class="udp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Packing Udupi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Packing Udupi" width="580" height="380" loading="lazy">
             <p class="udp-image-caption">Individual item cushioning and cellular partition cartons for delicate glassware and porcelain.</p>
         </div>
     </section>
@@ -696,7 +696,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-udupi";
         </div>
 
         <div class="udp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Highway Relocation in Udupi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Highway Relocation in Udupi" width="580" height="380" loading="lazy">
             <p class="udp-image-caption">Heavy-duty sealed container vehicle providing complete protection against rain and dust on NH-66.</p>
         </div>
     </section>

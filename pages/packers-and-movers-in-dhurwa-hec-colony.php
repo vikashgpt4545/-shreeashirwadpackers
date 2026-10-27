@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -203,7 +203,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we provide dedicated relocation services throughout Dhurwa. Whether you are an HEC engineer transferring to another manufacturing plant, a government officer posted to a district collectorate, or a family moving into a new apartment near Hatia or Argora, our moving crews deliver unmatched reliability. Calculate your shifting charges with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="dhw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Packers and Movers in Dhurwa HEC Colony Ranchi - Loading Crew" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Packers and Movers in Dhurwa HEC Colony Ranchi - Loading Crew" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -252,7 +252,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="dhw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Apartment Goods Loading - Dhurwa HEC" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Apartment Goods Loading - Dhurwa HEC" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -281,7 +281,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="dhw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dhurwa Relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dhurwa Relocation" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -310,7 +310,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="dhw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Dhurwa HEC Colony" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Dhurwa HEC Colony" width="580" height="387" loading="lazy">
         </div>
     </section>
 

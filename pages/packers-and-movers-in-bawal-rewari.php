@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Bawal Rewari",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bawal-rewari",
-        "telephone": "+91 9334424440",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -402,7 +402,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>As part of our comprehensive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rewari">Rewari authority moving network</a>, we deploy GPS-monitored sealed container vehicles providing rapid highway connectivity along NH-48 to Gurugram, Manesar, Dharuhera, Neemrana, Jaipur, and Pan-India destinations.</p>
         </article>
         <div class="bwl-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packaging industrial and household goods in Bawal Rewari" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packaging industrial and household goods in Bawal Rewari" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -440,7 +440,7 @@ require_once __DIR__ . '/../includes/config.php';
     <!-- Section 3: Visual Break and Packaging Standard -->
     <section class="bwl-intro-grid">
         <div class="bwl-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Bawal" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Bawal" width="580" height="386" loading="lazy">
         </div>
         <article class="bwl-intro-text">
             <h2>Five-Layer Protective Packaging Architecture</h2>
@@ -581,7 +581,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>This dual capability makes Shree Ashirwad the top-rated relocation partner for industrial corporate heads and residents in Bawal.</p>
         </article>
         <div class="bwl-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container truck for long distance moving in Bawal" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container truck for long distance moving in Bawal" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -644,7 +644,7 @@ require_once __DIR__ . '/../includes/config.php';
 </main>
 
 <div class="bwl-img-box" style="margin: 40px auto; max-width: 580px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Bawal Rewari" width="580" height="386" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Bawal Rewari" width="580" height="386" loading="lazy">
 </div>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>

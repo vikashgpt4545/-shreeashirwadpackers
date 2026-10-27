@@ -32,7 +32,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Bhopal",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bhopal",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -411,7 +411,7 @@ $state_name = 'Madhya Pradesh';
           <p>Whether you are relocating an administrative officer residence near Char Imli, upgrading to a luxury multistory flat along Hoshangabad Road, or transferring a corporate banking branch in MP Nagar, our local moving team provides structured packing, courteous loading, and full room-wise unpacking services tailored to your convenience.</p>
         </div>
         <div class="bpl-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High Rise Apartment Loading in Bhopal" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High Rise Apartment Loading in Bhopal" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -453,7 +453,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="bpl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Certified Household Packaging in Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Certified Household Packaging in Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -610,7 +610,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="bpl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Fleet in Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Fleet in Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -646,7 +646,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="bpl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -677,7 +677,7 @@ $state_name = 'Madhya Pradesh';
     <div class="bpl-cta-bar">
       <h3>Ready for a Seamless Moving Experience in Bhopal?</h3>
       <p>Contact our certified Bhopal relocation team today for a complimentary on-site survey and transparent itemized quote.</p>
-      <a href="tel:+919334484001" class="bpl-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="bpl-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="bpl-section">

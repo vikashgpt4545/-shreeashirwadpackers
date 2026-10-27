@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Jhumri Telaiya (Koderma Mica & Residential Hub)
 $page_title = "Packers and Movers in Jhumri Telaiya | Best Home Shifting & Vehicle Transport";
-$page_description = "Top packers and movers in Jhumri Telaiya, Koderma. Safe home shifting, car carrier, bike courier, 4-layer packing, IBA approved bills & transit insurance. Call +91 9334812833.";
+$page_description = "Top packers and movers in Jhumri Telaiya, Koderma. Safe home shifting, car carrier, bike courier, 4-layer packing, IBA approved bills & transit insurance. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jhumri-telaiya";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jhumri-
         "name": "Shree Ashirwad Packers and Movers - Jhumri Telaiya Branch",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹36,000",
         "address": {
             "@type": "PostalAddress",
@@ -382,7 +382,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jhumri-
     <section class="jht-hero-banner">
         <h1 class="jht-hero-title">Packers and Movers in Jhumri Telaiya</h1>
         <p class="jht-hero-subtitle">Top-Rated Shifting Services in Koderma's Commercial Hub. Safe Home Relocation, Car Carrier, Bike Parcel & IBA Approved Billing with 100% Transit Safety.</p>
-        <a href="tel:+919334812833" class="jht-cta-btn">Book Move in Jhumri Telaiya: +91 9334812833</a>
+        <a href="tel:+919835565233" class="jht-cta-btn">Book Move in Jhumri Telaiya: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -398,7 +398,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jhumri-
             </div>
             <div>
                 <div class="jht-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Jhumri Telaiya" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Jhumri Telaiya" width="580" height="387">
                     <div class="jht-caption">Heavy-duty corrugated wrapping and furniture crating in Jhumri Telaiya</div>
                 </div>
             </div>
@@ -490,7 +490,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jhumri-
         <div class="jht-grid-2">
             <div>
                 <div class="jht-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Jhumri Telaiya" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Jhumri Telaiya" width="580" height="387">
                     <div class="jht-caption">Protective bubble wrap and wooden pallet packaging for two-wheeler parcel in Telaiya</div>
                 </div>
             </div>
@@ -504,7 +504,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jhumri-
 
         <!-- Section 4B: Highway Fleet Visual -->
         <div class="jht-image-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Jhumri Telaiya relocation" width="580" height="387">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Jhumri Telaiya relocation" width="580" height="387">
             <div class="jht-caption">All-weather container truck providing safe intercity transport from Jhumri Telaiya</div>
         </div>
 
@@ -549,7 +549,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jhumri-
             </div>
             <div>
                 <div class="jht-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glassware packaging" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glassware packaging" width="580" height="387">
                     <div class="jht-caption">Carefully padded fragile glassware packed in heavy-duty corrugated cartons</div>
                 </div>
             </div>

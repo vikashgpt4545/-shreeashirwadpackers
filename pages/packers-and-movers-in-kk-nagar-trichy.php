@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-trichy";
         "name": "Shree Ashirwad Packers and Movers KK Nagar Trichy",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-trichy";
         <p>The residential fabric of KK Nagar consists of modern multi-storey gated apartment complexes, grand independent duplex villas, and peaceful family bungalows. Residents in this planned enclave demand courteous moving personnel, punctual arrival, and absolute safety for their household assets. Shree Ashirwad Packers and Movers has served KK Nagar for over eleven years, delivering reliable, transparent, and damage-free moving services across every street and colony sector.</p>
 
         <div class="knt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and residential shifting in KK Nagar Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and residential shifting in KK Nagar Trichy" width="580" height="387" loading="lazy">
             <div class="knt-image-caption">Apartment freight handling and professional residential loading operations in KK Nagar Trichy.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-trichy";
         </div>
 
         <div class="knt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in KK Nagar Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in KK Nagar Trichy" width="580" height="387" loading="lazy">
             <div class="knt-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in KK Nagar.</div>
         </div>
 
@@ -596,7 +596,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-trichy";
         <p>Our commercial moving division provides planned transitions tailored to corporate schedules. We manage commercial moves over weekend windows or evening hours, ensuring that consultation rooms, diagnostic equipment, workstations, and executive desks are shifted and operational without interfering with patient appointments or client engagements.</p>
 
         <div class="knt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office workstation and clinical equipment packing in KK Nagar Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office workstation and clinical equipment packing in KK Nagar Trichy" width="580" height="387" loading="lazy">
             <div class="knt-image-caption">Clinical diagnostic apparatus and commercial office relocation handled securely in KK Nagar.</div>
         </div>
 
@@ -720,7 +720,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-trichy";
         </ol>
 
         <div class="knt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in KK Nagar Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in KK Nagar Trichy" width="580" height="387" loading="lazy">
             <div class="knt-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Tiruchirappalli corridors.</div>
         </div>
     </section>
@@ -777,7 +777,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kk-nagar-trichy";
     <div class="knt-cta-box">
         <h3>Book Your KK Nagar Move with Proven Specialists</h3>
         <p>Get a fixed-price written quotation backed by our zero-damage guarantee. Fully licensed, insured, and experienced professionals ready to assist your relocation.</p>
-        <a href="tel:+919334404050" class="knt-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="knt-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

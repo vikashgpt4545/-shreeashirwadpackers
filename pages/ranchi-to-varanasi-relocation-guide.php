@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Varanasi Relocation Guide | NH-19 Movers | Call 9708579999</title>
-    <meta name="description" content="Seamless household shifting and car transport from Ranchi to Varanasi. 12-hour express transit via NH-19, BHU faculty transfers, pooja room crating & full insurance. Call 9708579999.">
+    <title>Ranchi to Varanasi Relocation Guide | NH-19 Movers | Call 9835565233</title>
+    <meta name="description" content="Seamless household shifting and car transport from Ranchi to Varanasi. 12-hour express transit via NH-19, BHU faculty transfers, pooja room crating & full insurance. Call 9835565233.">
     <meta name="keywords" content="ranchi to varanasi relocation guide, packers and movers ranchi to varanasi, household shifting ranchi to kashi, bhu faculty transfer packers, ranchi varanasi truck transport">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-varanasi-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Ranchi to Varanasi Express Logistics",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-varanasi-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Varanasi Relocation Guide: NH-19 Express Corridor</h1>
                 <p>Relocating between Jharkhand's capital and the sacred city of Varanasi? Experience seamless 12-hour express transit along the Grand Trunk highway. Benefit from specialized pooja room packing, BHU faculty transfer solutions, sealed container trucking, and full transit insurance.</p>
                 <div class="rvns-cta-group">
-                    <a href="tel:+919708579999" class="rvns-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Varanasi" class="rvns-btn-wa" target="_blank" rel="noopener">WhatsApp Varanasi Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rvns-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Varanasi" class="rvns-btn-wa" target="_blank" rel="noopener">WhatsApp Varanasi Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rvns-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers operating to Varanasi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers operating to Varanasi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -266,7 +266,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Navigating Varanasi Neighborhoods: Cantt, BHU & Narrow Alleys</h2>
                 <div class="rvns-grid-2">
                     <div class="rvns-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Varanasi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Varanasi" loading="lazy">
                     </div>
                     <div>
                         <p>Varanasi's urban layout is a striking contrast between modern planned extensions, academic campuses, and ancient medieval alleyways (galis). Delivering household goods requires tailored logistics strategies designed for each neighborhood's physical topography:</p>
@@ -294,7 +294,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rvns-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers carefully packing sacred mandir and furniture" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers carefully packing sacred mandir and furniture" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -379,7 +379,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>White-Glove Reassembly & Unpacking in Varanasi</h2>
                 <div class="rvns-grid-2">
                     <div class="rvns-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and furniture reassembly service by Shree Ashirwad Packers in Varanasi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and furniture reassembly service by Shree Ashirwad Packers in Varanasi" loading="lazy">
                     </div>
                     <div>
                         <p>Our comprehensive service does not end with parking the truck at your new Varanasi residence. Our crew handles the heavy physical labor so your family can settle in immediately:</p>

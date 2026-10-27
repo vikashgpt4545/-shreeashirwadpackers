@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hyderabad";
         "name": "Shree Ashirwad Packers and Movers Hyderabad",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -521,7 +521,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hyderabad";
         <h1>Packers and Movers in Hyderabad</h1>
         <p>Premium ISO 9001:2015 certified relocation, corporate office shifting, automobile transport, and secure warehousing across Cyberabad, Secunderabad, and greater Hyderabad metropolis.</p>
         <div class="hyd-btn-wrap">
-            <a href="tel:+919334404050" class="hyd-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="hyd-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hyd-btn-secondary">Check Rate Calculator</a>
         </div>
     </header>
@@ -543,7 +543,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hyderabad";
         </div>
 
         <div class="hyd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Hyderabad loading high-rise apartment household items" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Hyderabad loading high-rise apartment household items" width="580" height="380" loading="lazy">
             <div class="hyd-image-caption">Figure 1: Specialized hydraulic loading and multi-layer furniture protection for high-rise apartment complexes in Hyderabad.</div>
         </div>
 
@@ -593,7 +593,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hyderabad";
         </div>
 
         <div class="hyd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office equipment packing and IT server shifting in Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office equipment packing and IT server shifting in Hyderabad" width="580" height="380" loading="lazy">
             <div class="hyd-image-caption">Figure 2: Systematic corporate IT workstation packaging and electronic asset labeling for corporate moves in Hyderabad.</div>
         </div>
     </section>
@@ -654,7 +654,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hyderabad";
         </table>
 
         <div class="hyd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer wooden furniture wrapping and padding in Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer wooden furniture wrapping and padding in Hyderabad" width="580" height="380" loading="lazy">
             <div class="hyd-image-caption">Figure 3: Heavy-duty foam padding and stretch film encapsulation for designer sofas and wooden dining tables.</div>
         </div>
     </section>
@@ -698,7 +698,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hyderabad";
         </div>
 
         <div class="hyd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Hyderabad" width="580" height="380" loading="lazy">
             <div class="hyd-image-caption">Figure 4: Weather-sealed, GPS-enabled container trucks ensuring safe transit from Hyderabad across national highway corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hyderabad";
         <h3>Ready for a Smooth, Hassle-Free Relocation in Hyderabad?</h3>
         <p>Contact Shree Ashirwad Packers and Movers today for a free on-site survey and transparent, guaranteed moving quote with zero hidden surprises.</p>
         <div class="hyd-btn-wrap">
-            <a href="tel:+919334404050" class="hyd-btn-primary">Call Desk: +91 9334404050</a>
+            <a href="tel:+919835565233" class="hyd-btn-primary">Call Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hyd-btn-secondary">Get Instant Quote</a>
         </div>
     </section>

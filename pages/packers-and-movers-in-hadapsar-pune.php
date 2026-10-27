@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hadapsa
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-hadapsar-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-hadapsar-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -156,7 +156,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hadapsa
                 "name": "How can I obtain an itemized written quote for shifting in Hadapsar?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Call our customer service desk at +91 93344 04050 or submit our online inquiry form to book a complimentary physical or video survey and receive a transparent quotation."
+                    "text": "Call our customer service desk at +91 9835565233 or submit our online inquiry form to book a complimentary physical or video survey and receive a transparent quotation."
                 }
             }
         ]
@@ -396,7 +396,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hadapsa
         <h1>Packers and Movers in Hadapsar Pune</h1>
         <p>Expert residential shifting, corporate relocations, and professional packing services across Magarpatta City, Amanora Park Town, SP Infocity, Solapur Road, and Eastern Pune.</p>
         <div class="hdp-btn-wrap">
-            <a href="tel:+919334404050" class="hdp-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="hdp-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hdp-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -417,7 +417,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hadapsa
         <p>Our deep local operational experience in Eastern Pune allows us to navigate mega township protocols effortlessly. We coordinate directly with estate management offices, verify basement clearance heights for our covered container trucks, and utilize protective floor runners and padded lift blankets during moving operations.</p>
 
         <div class="hdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Hadapsar Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Hadapsar Pune">
             <p class="hdp-image-caption">Professional moving crews packing and loading household goods into covered container trucks in Hadapsar.</p>
         </div>
 
@@ -459,7 +459,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hadapsa
         </div>
 
         <div class="hdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Hadapsar Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Hadapsar Pune">
             <p class="hdp-image-caption">Premium five-ply corrugated boxes, air-bubble cushioning, and stretch wrap securing household valuables.</p>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hadapsa
         </div>
 
         <div class="hdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Hadapsar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Hadapsar">
             <p class="hdp-image-caption">Expert carpenter dismantling modular double bed frames for safe apartment relocation in Hadapsar.</p>
         </div>
 
@@ -609,7 +609,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hadapsa
         </div>
 
         <div class="hdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hadapsar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hadapsar">
             <p class="hdp-image-caption">Reliable covered container vehicles delivering safe door-to-door household shifting across Hadapsar.</p>
         </div>
 
@@ -678,7 +678,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hadapsa
 
         <div class="hdp-faq-item">
             <h3>How can I obtain an itemized written quote for shifting in Hadapsar?</h3>
-            <p>Call our customer service desk at +91 93344 04050 or submit our online inquiry form to book a complimentary physical or video survey and receive a transparent quotation.</p>
+            <p>Call our customer service desk at +91 9835565233 or submit our online inquiry form to book a complimentary physical or video survey and receive a transparent quotation.</p>
         </div>
     </section>
 

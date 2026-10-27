@@ -240,7 +240,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pal
         <!-- Image 1: Door to Door Delivery Truck -->
         <section style="margin-bottom: 50px;">
             <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household relocation in Palkot Gumla" style="width: 100%; height: 100%; object-fit: cover;">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household relocation in Palkot Gumla" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <p style="font-size: 14px; color: #6c757d; text-align: center; margin-top: 10px; font-style: italic;">
                 Figure 1: Dedicated all-weather closed container trucks operated by Shree Ashirwad Packers across Palkot and Gumla district routes.
@@ -309,7 +309,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pal
         <!-- Image 2: Multi-layer packaging materials -->
         <section style="margin-bottom: 50px;">
             <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap and heavy-duty cartons for household packing in Palkot" style="width: 100%; height: 100%; object-fit: cover;">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap and heavy-duty cartons for household packing in Palkot" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <p style="font-size: 14px; color: #6c757d; text-align: center; margin-top: 10px; font-style: italic;">
                 Figure 2: Multi-layer industrial packing using heavy-duty corrugated cartons, bubble wrap, and waterproof sealing tape.
@@ -436,7 +436,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pal
         <!-- Image 3: Car transport carrier -->
         <section style="margin-bottom: 50px;">
             <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile loading onto dedicated car carrier truck for Palkot Gumla relocations" style="width: 100%; height: 100%; object-fit: cover;">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile loading onto dedicated car carrier truck for Palkot Gumla relocations" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <p style="font-size: 14px; color: #6c757d; text-align: center; margin-top: 10px; font-style: italic;">
                 Figure 3: Enclosed car carrier vehicle loading vehicles safely for interstate and inter-district transport from Palkot.
@@ -516,7 +516,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pal
         <!-- Image 4: Storage Warehouse -->
         <section style="margin-bottom: 50px;">
             <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure commercial warehouse and household storage hub serving Palkot" style="width: 100%; height: 100%; object-fit: cover;">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure commercial warehouse and household storage hub serving Palkot" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <p style="font-size: 14px; color: #6c757d; text-align: center; margin-top: 10px; font-style: italic;">
                 Figure 4: Secure, moisture-resistant regional storage warehouse with round-the-clock CCTV surveillance serving Palkot residents.

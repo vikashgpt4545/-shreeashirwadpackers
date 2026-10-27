@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Vaishali Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -472,7 +472,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="vsh-hero-title">Packers and Movers in Vaishali Ghaziabad</h1>
         <p class="vsh-hero-subtitle">Specialized high-rise condominium moving, builder floor relocations across Sectors 1 to 9, furniture carpentry, and rapid Delhi border logistics near the Blue Line Metro.</p>
         <div class="vsh-cta-group">
-            <a href="tel:+919334404050" class="vsh-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vsh-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vsh-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="vsh-intro-p">Divided systematically into Sectors 1 through 9, Vaishali offers unmatched urban transit via the Vaishali Metro Station—the premier eastern terminus of the Delhi Metro Blue Line—providing direct high-speed access to Connaught Place, Mandi House, and Dwarka. Anchored by prestigious multi-specialty healthcare facilities such as Max Super Speciality Hospital, bustling commercial destinations like Mahagun Metro Mall and Shopprix Mall, and top-tier residential developments like Ramprastha Greens, Apex Acacia Valley, and Gaur Galaxy, Vaishali is home to thousands of senior corporate executives, government officials, and medical professionals.</p>
 
         <div class="vsh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Vaishali Ghaziabad container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Vaishali Ghaziabad container truck" width="580" height="386" loading="lazy">
             <p class="vsh-image-caption">Systematic loading and protective padding of residential goods in Vaishali Ghaziabad.</p>
         </div>
 
@@ -525,7 +525,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="vsh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Vaishali Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Vaishali Ghaziabad" width="580" height="386" loading="lazy">
             <p class="vsh-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="vsh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Vaishali Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Vaishali Ghaziabad" width="580" height="386" loading="lazy">
             <p class="vsh-image-caption">Precision furniture disassembly and wrapped timber protection for Vaishali homes.</p>
         </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="vsh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Vaishali Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Vaishali Ghaziabad" width="580" height="386" loading="lazy">
             <p class="vsh-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

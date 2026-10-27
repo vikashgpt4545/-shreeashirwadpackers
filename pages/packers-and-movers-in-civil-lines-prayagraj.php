@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Civil Lines Prayagraj",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="clp-hero-title">Packers and Movers in Civil Lines Prayagraj</h1>
         <p class="clp-hero-subtitle">Discreet White-Glove Household Relocation, High Court Advocate Shifting, and Corporate Moves in Prayagraj's Premier Executive Core</p>
         <div class="clp-cta-group">
-            <a href="tel:+919334404050" class="clp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="clp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="clp-btn-secondary">Check Shifting Rates</a>
         </div>
     </section>
@@ -507,7 +507,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="clp-intro-p">At Shree Ashirwad Packers and Movers, we bring over 15 years of proven excellence directly to the residents and corporate offices of Civil Lines. Shifting homes within this prestigious locality involves unique requirements: handling delicate heirloom furnishings and grandfather clocks, safeguarding extensive legal and judicial libraries, navigating busy commercial shopping zones along MG Marg, and adhering to strict residential security rules. We utilize premium 5-ply cartons, virgin air-bubble wrap, and compact 14-foot closed container trucks designed specifically for gentle urban transport.</p>
 
         <div class="clp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Civil Lines Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Civil Lines Prayagraj" width="580" height="380" loading="lazy">
             <p class="clp-image-caption">Shree Ashirwad crew carrying out careful white-glove packing and loading in Civil Lines Prayagraj.</p>
         </div>
 
@@ -582,7 +582,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="clp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Civil Lines Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Civil Lines Prayagraj" width="580" height="380" loading="lazy">
             <p class="clp-image-caption">Specialized multi-layer bubble wrap and corrugated padding for fragile heirloom glassware in Civil Lines.</p>
         </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="clp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly in Civil Lines Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly in Civil Lines Prayagraj" width="580" height="380" loading="lazy">
             <p class="clp-image-caption">Experienced furniture carpenters dismantling and cushioning modular bed structures in Civil Lines Prayagraj.</p>
         </div>
     </section>
@@ -700,7 +700,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="clp-intro-p">For relocations bound for Lucknow, the journey begins along the direct highway axis, enabling rapid door-to-door transit within 4 to 5 hours. Westbound transfers to Delhi, Noida, and Kanpur connect via NH-19, delivering next-day delivery schedules. Consignments heading east toward Varanasi, Patna, Gaya, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> travel along the high-speed NH-19 corridor with minimal checkpoint delays.</p>
 
         <div class="clp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Civil Lines Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Civil Lines Prayagraj" width="580" height="380" loading="lazy">
             <p class="clp-image-caption">Dedicated sealed container truck fleet ensuring clean, weather-protected door-to-door delivery from Civil Lines.</p>
         </div>
 
@@ -765,7 +765,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Executive Relocation in Civil Lines Prayagraj</h3>
         <p>Contact our Civil Lines relocation team today for a confidential on-site consultation, itemized estimate, and white-glove moving experience.</p>
         <div class="clp-cta-group">
-            <a href="tel:+919334404050" class="clp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="clp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="clp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

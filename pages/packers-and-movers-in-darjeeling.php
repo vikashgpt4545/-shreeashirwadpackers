@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darjeeling#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-darjeeling",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -540,7 +540,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="djg-body-p">Executing relocations across Darjeeling's dramatic mountain geography demands specialized logistical knowledge far beyond ordinary plains moving. Steep slopes, winding narrow roads, pedestrian-only heritage zones like Chowrasta and The Mall, long stone stairwells, and persistent mountain mist require agile transport coordination. Shree Ashirwad Packers and Movers delivers proven, certified, and stress-free mountain shifting solutions specifically adapted to Darjeeling's challenging terrain.</p>
 
                 <div class="djg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Darjeeling transport vehicle" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Darjeeling transport vehicle" width="580" height="380" loading="lazy">
                     <div class="djg-image-caption">Careful loading and cargo stabilization in specialized mountain vehicles by Shree Ashirwad Packers in Darjeeling.</div>
                 </div>
 
@@ -592,7 +592,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="djg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Darjeeling" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Darjeeling" width="580" height="380" loading="lazy">
                     <div class="djg-image-caption">Reinforced multi-layer bubble wrap and water-resistant packaging safeguarding household items in Darjeeling.</div>
                 </div>
 
@@ -656,7 +656,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="djg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Darjeeling home" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Darjeeling home" width="580" height="380" loading="lazy">
                     <div class="djg-image-caption">Skilled dismantling and protective cushioning of wooden beds and modular wardrobes in Darjeeling.</div>
                 </div>
 
@@ -707,7 +707,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="djg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Darjeeling" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Darjeeling" width="580" height="380" loading="lazy">
                     <div class="djg-image-caption">Punctual arrival and courteous doorstep delivery service by Shree Ashirwad Packers and Movers in Darjeeling.</div>
                 </div>
 
@@ -762,9 +762,9 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="djg-body-p">Speak directly with our Darjeeling hill operations supervisor for an instant price quote and scheduled on-site inspection.</p>
                 <div class="djg-highlight-box">
                     <div class="djg-highlight-title">Direct Helpline</div>
-                    <p class="djg-highlight-desc"><strong>+91 93344 60424</strong><br>Available 7 AM - 9:30 PM Daily</p>
+                    <p class="djg-highlight-desc"><strong>+91 9835565233</strong><br>Available 7 AM - 9:30 PM Daily</p>
                 </div>
-                <a href="tel:+919334460424" class="djg-cta-button">Call Now for Free Quote</a>
+                <a href="tel:+919835565233" class="djg-cta-button">Call Now for Free Quote</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="djg-cta-button" style="background: #1e3a8a; margin-top: 10px;">Calculate Tariff Online</a>
             </div>
 

@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Car Transport Cost Guide from Ranchi | Interstate Car Carrier Rates | Call 9708579999</title>
-    <meta name="description" content="Discover exact car transport costs from Ranchi to all major Indian cities. Compare open trailer vs enclosed carrier rates, insurance coverage, transit days, and vehicle safety protocols. Call 9708579999.">
+    <title>Car Transport Cost Guide from Ranchi | Interstate Car Carrier Rates | Call 9835565233</title>
+    <meta name="description" content="Discover exact car transport costs from Ranchi to all major Indian cities. Compare open trailer vs enclosed carrier rates, insurance coverage, transit days, and vehicle safety protocols. Call 9835565233.">
     <meta name="keywords" content="car transport cost ranchi, car carrier charges ranchi, send car from ranchi to delhi, car shifting price to bangalore, enclosed car carrier ranchi, shree ashirwad car movers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/car-transport-cost-guide-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Car Carrier Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/car-transport-cost-guide-ranchi",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Car Transport Cost Guide from Ranchi: Interstate Rates & Safety Protocol</h1>
                 <p>Relocating your vehicle across India from Ranchi? Explore verified city-wise car shipping tariffs, compare open multi-car carrier vs. enclosed container transit, and learn how our zero-meter driving guarantee protects your car from road hazards.</p>
                 <div class="ctcg-cta-group">
-                    <a href="tel:+919708579999" class="ctcg-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20send%20me%20a%20car%20transport%20quote%20from%20Ranchi" class="ctcg-btn-wa" target="_blank" rel="noopener">WhatsApp Car Transport Quote</a>
+                    <a href="tel:+919835565233" class="ctcg-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20send%20me%20a%20car%20transport%20quote%20from%20Ranchi" class="ctcg-btn-wa" target="_blank" rel="noopener">WhatsApp Car Transport Quote</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="ctcg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automated hydraulic multi-car carrier loading vehicles in Ranchi Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automated hydraulic multi-car carrier loading vehicles in Ranchi Jharkhand" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -318,7 +318,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Open Multi-Car Trailer vs. Enclosed Container Carrier</h2>
                 <div class="ctcg-grid-2">
                     <div class="ctcg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed container carrier truck for premium car transit in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed container carrier truck for premium car transit in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Choosing between an open multi-car carrier and an enclosed dedicated container depends on vehicle value, highway weather conditions, and personal preference:</p>
@@ -345,7 +345,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="ctcg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Wheel lasso straps and safety tie down mechanisms on vehicle carrier in Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Wheel lasso straps and safety tie down mechanisms on vehicle carrier in Jharkhand" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -387,7 +387,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>The Vehicle Condition Report (VCR) & Insurance Claims Protocol</h2>
                 <div class="ctcg-grid-2">
                     <div class="ctcg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Documentation and vehicle condition report audit for car transport in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Documentation and vehicle condition report audit for car transport in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>A reputable car transport company never takes possession of a vehicle without completing a formal, multi-angle Vehicle Condition Report (VCR):</p>

@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kurukshetra",
     "image": "https://shreeashirwadpackers.com/images/professional-loading-crew-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kurukshetra",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -460,7 +460,7 @@
       </div>
       <div>
         <div class="kkr-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Kurukshetra Haryana" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Kurukshetra Haryana" width="580" height="386" loading="lazy">
           <p class="kkr-image-caption">Trained loading crew executing systematic cargo handling in Kurukshetra Haryana.</p>
         </div>
       </div>
@@ -556,7 +556,7 @@
       </div>
     </div>
     <div class="kkr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing in Kurukshetra Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing in Kurukshetra Haryana" width="580" height="386" loading="lazy">
       <p class="kkr-image-caption">Cellular partition packing for delicate glassware, ceramics, and religious artifacts in Kurukshetra.</p>
     </div>
   </section>
@@ -592,7 +592,7 @@
       </div>
     </div>
     <div class="kkr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa furniture packing in Kurukshetra Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa furniture packing in Kurukshetra Haryana" width="580" height="386" loading="lazy">
       <p class="kkr-image-caption">High-density shrink wrapping and protective edge cushioning for upholstery in Kurukshetra.</p>
     </div>
   </section>
@@ -628,7 +628,7 @@
       </div>
     </div>
     <div class="kkr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Kurukshetra Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Kurukshetra Haryana" width="580" height="386" loading="lazy">
       <p class="kkr-image-caption">Weatherproof sealed container trucks ensuring zero transit damage for Kurukshetra households.</p>
     </div>
   </section>

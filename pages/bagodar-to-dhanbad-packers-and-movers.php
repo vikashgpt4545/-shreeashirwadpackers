@@ -493,7 +493,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
                     <p>Every assignment starts with personalized route planning. Our drivers are thoroughly experienced with NH-19 traffic rhythms, Topchanchi bypass conditions, and Dhanbad municipal entry timings for heavy carrier trucks, guaranteeing prompt delivery without highway delays or unexpected halts.</p>
                 </div>
                 <div class="bag2dhn-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing and container loading for Bagodar to Dhanbad route" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing and container loading for Bagodar to Dhanbad route" loading="lazy">
                 </div>
             </div>
         </div>
@@ -550,7 +550,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
         <div class="bag2dhn-container">
             <div class="bag2dhn-two-col">
                 <div class="bag2dhn-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials for household goods" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials for household goods" loading="lazy">
                 </div>
                 <div>
                     <h2 class="bag2dhn-section-title" style="text-align: left;">Engineered 5-Layer Packaging for Fragile &amp; Heavy Cargo</h2>
@@ -646,7 +646,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
                     <p>For personal four-wheelers, we offer hydraulic car carrier transit or accompanied expert driver relocation with full insurance coverage. Your vehicle is thoroughly inspected with an odometer and body scratch record before departure and handed over in immaculate condition at your Dhanbad address.</p>
                 </div>
                 <div class="bag2dhn-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
                 </div>
             </div>
         </div>
@@ -657,7 +657,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
         <div class="bag2dhn-container">
             <div class="bag2dhn-two-col">
                 <div class="bag2dhn-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
                 </div>
                 <div>
                     <h2 class="bag2dhn-section-title" style="text-align: left;">Corporate, BCCL &amp; Academic Transfer Expertise</h2>

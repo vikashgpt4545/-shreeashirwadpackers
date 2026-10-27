@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Booty More Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-booty-more-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -433,7 +433,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Booty More Ranchi</h1>
         <p>Premium household shifting, academic faculty relocations, commercial highway transport, and vehicle carrier services across Booty More, NH-33, Ranchi Ring Road, BIT Mesra, Booty Basti, and Vikas Vidyalaya link. Fast, dependable, and damage-free moving delivered by Ranchi's highest-rated relocation team.</p>
-        <a href="tel:+919334404052" class="hl-btm-cta-btn">&#128222; Call Now: +91 93344 04052</a>
+        <a href="tel:+919835565233" class="hl-btm-cta-btn">&#128222; Call Now: +91 9835565233</a>
       </div>
       <div class="hl-btm-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +441,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> NH-33 Junction &amp; Ring Road Rotary, Booty More
         </div>
         <div class="hl-btm-contact-item">
-          <span>Direct Helpline:</span> +91 93344 04052
+          <span>Direct Helpline:</span> +91 9835565233
         </div>
         <div class="hl-btm-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -458,7 +458,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Constrained Card Image 1 -->
   <div class="hl-btm-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Booty More and NH-33 Ranchi">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Booty More and NH-33 Ranchi">
     <div class="hl-btm-img-caption">Dedicated closed-body moving fleet serving residential colonies and highway transport corridors across Booty More, Ranchi.</div>
   </div>
 
@@ -505,7 +505,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 2 -->
     <div class="hl-btm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Furniture Wrapping in Booty More Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Furniture Wrapping in Booty More Ranchi">
       <div class="hl-btm-img-caption">Multi-layer bubble wrap, foam corner guards, and stretch film protecting wooden furniture during transit.</div>
     </div>
 
@@ -587,7 +587,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 3 -->
     <div class="hl-btm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing in Booty More Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing in Booty More Ranchi">
       <div class="hl-btm-img-caption">Specialized foam wrapping and heavy-duty cargo straps ensuring scratch-free two-wheeler relocation.</div>
     </div>
 
@@ -651,7 +651,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 4 -->
     <div class="hl-btm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Booty More Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Booty More Ranchi">
       <div class="hl-btm-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services in Booty More.</div>
     </div>
 

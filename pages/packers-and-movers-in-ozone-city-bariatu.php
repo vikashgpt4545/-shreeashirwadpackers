@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Ozone City Bariatu Ranchi Landing Page
 $page_title = "Packers and Movers in Ozone City Bariatu Ranchi | 100% Safe Gated Society Shifting";
-$page_description = "Looking for verified packers and movers in Ozone City Bariatu, Ranchi? We offer specialized high-rise apartment shifting, lift padding, furniture wrapping & stress-free home relocation. Call +91 9334812833 for free quote.";
+$page_description = "Looking for verified packers and movers in Ozone City Bariatu, Ranchi? We offer specialized high-rise apartment shifting, lift padding, furniture wrapping & stress-free home relocation. Call +91 9835565233 for free quote.";
 $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-city-bariatu";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
         "name": "Shree Ashirwad Packers and Movers - Ozone City Bariatu Branch",
         "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹32,000",
         "address": {
             "@type": "PostalAddress",
@@ -358,7 +358,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
     <section class="ozb-hero-banner">
         <h1 class="ozb-hero-title">Packers and Movers in Ozone City Bariatu Ranchi</h1>
         <p class="ozb-hero-subtitle">Trusted Apartment Relocation Experts for Ozone City Residents, Doctors, and Working Professionals. Safe Lift Padding, Society Security Clearance & 100% Damage-Free Shifting.</p>
-        <a href="tel:+919334812833" class="ozb-cta-btn">Call +91 9334812833 for Instant Quote</a>
+        <a href="tel:+919835565233" class="ozb-cta-btn">Call +91 9835565233 for Instant Quote</a>
     </section>
 
     <!-- Main Container -->
@@ -374,7 +374,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
             </div>
             <div>
                 <div class="ozb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers handling multistory apartment goods loading at Ozone City Bariatu Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers handling multistory apartment goods loading at Ozone City Bariatu Ranchi" width="580" height="387">
                     <div class="ozb-caption">Multi-story apartment loading and elevator protection at Ozone City Bariatu</div>
                 </div>
             </div>
@@ -467,7 +467,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
         <div class="ozb-grid-2">
             <div>
                 <div class="ozb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and delicate glassware packing for Ozone City Bariatu apartments" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and delicate glassware packing for Ozone City Bariatu apartments" width="580" height="387">
                     <div class="ozb-caption">Multi-layer protective bubble packing for glassware and electronics</div>
                 </div>
             </div>
@@ -493,7 +493,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
             </div>
             <div>
                 <div class="ozb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service at Ozone City Bariatu Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service at Ozone City Bariatu Ranchi" width="580" height="387">
                     <div class="ozb-caption">Professional unboxing, room-wise item positioning, and assembly</div>
                 </div>
             </div>
@@ -512,7 +512,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
             </div>
             <div>
                 <div class="ozb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container moving truck used for Ozone City Bariatu relocations" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container moving truck used for Ozone City Bariatu relocations" width="580" height="387">
                     <div class="ozb-caption">All-weather containerized trucks ensuring 100% dry and secure transit</div>
                 </div>
             </div>

@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Raigarh",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raigarh",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -238,7 +238,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Supported by our central operational infrastructure at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Raigarh branch specializes in stress-free household relocation, corporate employee transfers, vehicle transportation, and heavy machinery logistics. We protect your home furnishings, fragile dinnerware, and electronic equipment using high-density bubble wrap, multi-wall corrugated cartons, corner protectors, and sealed container vehicles. You can always plan your moving budget with complete transparency by calculating estimates through our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live shifting rate calculator</a>.</p>
 
         <div class="rgh-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Raigarh by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Raigarh by Shree Ashirwad Packers and Movers">
             <div class="rgh-img-caption">Multi-layer protective bubble and corrugated packing for household goods in Raigarh</div>
         </div>
 
@@ -297,7 +297,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rgh-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Raigarh">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Raigarh">
             <div class="rgh-img-caption">Standardized corrugated shipping cartons, bubble rolls, and stretch film used in Raigarh</div>
         </div>
     </section>
@@ -413,7 +413,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rgh-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Raigarh">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Raigarh">
             <div class="rgh-img-caption">Dedicated closed-body container trucks ensuring zero weather exposure during transit</div>
         </div>
     </section>
@@ -460,7 +460,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rgh-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Raigarh">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Raigarh">
             <div class="rgh-img-caption">Hydraulic ramps ensuring damage-free car loading and unloading in Raigarh</div>
         </div>
     </section>
@@ -499,7 +499,7 @@ require_once BASE_PATH . '/includes/config.php';
     <section class="rgh-cta-box">
         <h3>Book Your Hassle-Free Relocation in Raigarh Today!</h3>
         <p>Connect with our Raigarh relocation manager for an accurate moving quote and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="rgh-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="rgh-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

@@ -251,7 +251,7 @@ require_once "includes/config.php";
 
                 <!-- First Feature Image: 3:4 Responsive Container -->
                 <div style="text-align: center; margin: 30px 0;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Kisko Lohardaga" style="max-width: 420px; width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Kisko Lohardaga" style="max-width: 420px; width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; font-style: italic;">
                         Figure 1: Dedicated all-weather closed container truck handling door-to-door household goods transport in Kisko and Lohardaga district.
                     </p>
@@ -298,7 +298,7 @@ require_once "includes/config.php";
 
                 <!-- Second Feature Image: 3:4 Responsive Container -->
                 <div style="text-align: center; margin: 30px 0;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi layer bubble wrapping and packaging materials for Kisko relocation" style="max-width: 420px; width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi layer bubble wrapping and packaging materials for Kisko relocation" style="max-width: 420px; width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; font-style: italic;">
                         Figure 2: Premium 5-layer packaging including bubble wrap, corrugated sheets, and stretch film protecting delicate items.
                     </p>
@@ -369,7 +369,7 @@ require_once "includes/config.php";
 
                 <!-- Third Feature Image: 3:4 Responsive Container -->
                 <div style="text-align: center; margin: 30px 0;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Specialized hydraulic car carrier for safe vehicle relocation from Kisko" style="max-width: 420px; width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Specialized hydraulic car carrier for safe vehicle relocation from Kisko" style="max-width: 420px; width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; font-style: italic;">
                         Figure 3: Dedicated hydraulic car and two-wheeler carrier truck providing safe vehicle transport across Jharkhand and India.
                     </p>
@@ -504,7 +504,7 @@ require_once "includes/config.php";
 
                 <!-- Fourth Feature Image: 3:4 Responsive Container -->
                 <div style="text-align: center; margin: 30px 0;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and residential storage warehouse facility serving Kisko Lohardaga" style="max-width: 420px; width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and residential storage warehouse facility serving Kisko Lohardaga" style="max-width: 420px; width: 100%; aspect-ratio: 3/4; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; font-style: italic;">
                         Figure 4: Secure, weatherproof storage warehouse for household furniture, commercial inventory, and equipment in Jharkhand.
                     </p>

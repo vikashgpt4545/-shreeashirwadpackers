@@ -72,7 +72,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "logo": "https://www.shreeashirwadpackers.com/images/logo.png",
             "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
             "description": "Licensed and insured long-distance moving specialist offering premier packing, moving, car transport, and logistics services from Ranchi to Navi Mumbai.",
-            "telephone": "+91 9334800888",
+            "telephone": "+91 9835565233",
             "email": "support@shreeashirwadpackers.com",
             "address": {
                 "@type": "PostalAddress",
@@ -304,7 +304,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </div>
             </div>
             <div style="flex: 1 1 450px;">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Navi Mumbai Inter-State Containerized Moving Truck" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.15); display: block;" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Navi Mumbai Inter-State Containerized Moving Truck" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.15); display: block;" loading="lazy">
             </div>
         </div>
     </div>
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
         <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
             <div style="flex: 1 1 450px;">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Certified Packing Crew Securing Household Goods for Inter-State Transit" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.15); display: block;" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Certified Packing Crew Securing Household Goods for Inter-State Transit" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.15); display: block;" loading="lazy">
             </div>
             <div style="flex: 1 1 550px;">
                 <span style="color: #e11d48; font-weight: 700; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Industrial Grade Packaging</span>
@@ -475,7 +475,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </div>
             </div>
             <div style="flex: 1 1 450px;">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Enclosed Two-Wheeler and Car Carrier Shifting Vehicle from Ranchi to Navi Mumbai" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.15); display: block;" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Enclosed Two-Wheeler and Car Carrier Shifting Vehicle from Ranchi to Navi Mumbai" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.15); display: block;" loading="lazy">
             </div>
         </div>
     </div>
@@ -549,7 +549,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
         <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
             <div style="flex: 1 1 450px;">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure Climate Controlled Transit Warehouse for Household Storage" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.15); display: block;" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure Climate Controlled Transit Warehouse for Household Storage" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.15); display: block;" loading="lazy">
             </div>
             <div style="flex: 1 1 550px;">
                 <span style="color: #e11d48; font-weight: 700; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Flexible Storage Solutions</span>

@@ -31,7 +31,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-alwar";
         "name": "Shree Ashirwad Packers and Movers Alwar",
         "description": "Licensed and certified packers and movers in Alwar providing residential shifting, industrial plant moving, corporate employee relocation, and vehicle transportation across Rajasthan, NCR, and India.",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "address": {
             "@type": "PostalAddress",
@@ -436,7 +436,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-alwar";
         </div>
         <div>
             <div class="alw-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Alwar by Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Alwar by Shree Ashirwad Packers" loading="lazy">
             </div>
         </div>
     </section>
@@ -479,7 +479,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-alwar";
     <section class="alw-grid-2">
         <div>
             <div class="alw-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew handling furniture in Alwar" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew handling furniture in Alwar" loading="lazy">
             </div>
         </div>
         <div>
@@ -598,7 +598,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-alwar";
         </div>
         <div>
             <div class="alw-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile item packing with specialized cushioning in Alwar" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile item packing with specialized cushioning in Alwar" loading="lazy">
             </div>
         </div>
     </section>
@@ -607,7 +607,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-alwar";
     <section class="alw-grid-2">
         <div>
             <div class="alw-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Fleet loading operations by Shree Ashirwad Packers in Alwar" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Fleet loading operations by Shree Ashirwad Packers in Alwar" loading="lazy">
             </div>
         </div>
         <div>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-alwar";
     <section class="alw-cta-banner">
         <h2>Planning a Move in or Out of Alwar?</h2>
         <p>Get a guaranteed fixed-price estimate with free doorstep survey and premium 5-layer protective packing support.</p>
-        <a href="tel:+919334812328" class="alw-cta-btn">Call +91-9334812328 for Free Instant Quote</a>
+        <a href="tel:+919835565233" class="alw-cta-btn">Call +91 9835565233 for Free Instant Quote</a>
     </section>
 
 </main>

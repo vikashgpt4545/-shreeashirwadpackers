@@ -2,7 +2,7 @@
 /**
  * Packers and Movers in Ghatshila - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9308888746
+ * Contact: +91 8409531615 / +91 9835565233
  * Office: Serving Ghatshila, Moubhandar, Kasida, Galudih & East Singhbhum, Jharkhand
  */
 
@@ -1020,7 +1020,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             <!-- Service 1 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household shifting and carton packing in Ghatshila" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household shifting and carton packing in Ghatshila" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Household Shifting & Villa Relocation</h3>
@@ -1038,7 +1038,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             <!-- Service 2 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Industrial cargo and door to door delivery truck in Ghatshila" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Industrial cargo and door to door delivery truck in Ghatshila" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>HCL Moubhandar & Industrial Cargo Moves</h3>
@@ -1056,7 +1056,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             <!-- Service 3 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service in Ghatshila" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service in Ghatshila" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Car & Bike Transportation</h3>
@@ -1074,7 +1074,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ghatshila";
             <!-- Service 4 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial goods storage warehouse for Ghatshila cargo" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial goods storage warehouse for Ghatshila cargo" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Secure Warehousing & Long-Term Storage</h3>

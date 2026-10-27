@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gandhipuram-coimbatore"
         "name": "Shree Ashirwad Packers and Movers Gandhipuram Coimbatore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gandhipuram-coimbatore"
         <p>Alongside its intense commercial trading activity, Gandhipuram is surrounded by established residential pockets such as Ram Nagar, Tatabad, Siddhapudur, and Kattur. These neighborhoods feature multi-story family apartments, traditional row houses, and corporate executive accommodations. Navigating the dense vehicular flow of Dr. Nanjappa Road and Cross Cut Road requires sophisticated off-peak scheduling and agile feeder fleets. Shree Ashirwad Packers and Movers brings comprehensive local operational expertise, providing specialized moving solutions tailored to Gandhipuram's dynamic urban landscape.</p>
 
         <div class="gdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Residential household goods packing in Gandhipuram Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Residential household goods packing in Gandhipuram Coimbatore" width="580" height="387" loading="lazy">
             <div class="gdp-image-caption">Systematic multi-layer corrugated and bubble packing for residential home moves in Gandhipuram.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gandhipuram-coimbatore"
         </div>
 
         <div class="gdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial showroom and retail shifting in Gandhipuram Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial showroom and retail shifting in Gandhipuram Coimbatore" width="580" height="387" loading="lazy">
             <div class="gdp-image-caption">Commercial office and retail equipment logistics managed by Shree Ashirwad in Gandhipuram.</div>
         </div>
 
@@ -597,7 +597,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gandhipuram-coimbatore"
         <p>Our residential moving crews follow an exacting five-stage packing protocol. We cushion wooden wardrobes, dining tables, and sofa sets with heavy quilted moving blankets, multi-layer air bubble wrap, and moisture-resistant stretch film to prevent scuffs or moisture absorption during transit.</p>
 
         <div class="gdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping in Gandhipuram Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping in Gandhipuram Coimbatore" width="580" height="387" loading="lazy">
             <div class="gdp-image-caption">Multi-tier stretch film and bubble wrapping for plush sofa suites in Gandhipuram.</div>
         </div>
 
@@ -723,7 +723,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gandhipuram-coimbatore"
         </ol>
 
         <div class="gdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container transport truck servicing Gandhipuram Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container transport truck servicing Gandhipuram Coimbatore" width="580" height="387" loading="lazy">
             <div class="gdp-image-caption">Weatherproof sealed container carriers engineered for safe transit across Coimbatore corridors.</div>
         </div>
     </section>
@@ -780,7 +780,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gandhipuram-coimbatore"
     <div class="gdp-cta-box">
         <h3>Book Your Gandhipuram Move with Trusted Specialists</h3>
         <p>Get a guaranteed fixed-price quote with zero surprise charges. Fully insured, certified packing specialists ready to move your household or store today.</p>
-        <a href="tel:+919334404050" class="gdp-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="gdp-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

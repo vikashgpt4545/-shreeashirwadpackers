@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ankleshwar",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ankleshwar",
-        "telephone": "+91 9122114455",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -422,7 +422,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we bring over sixteen years of dedicated expertise in managing residential, executive, and commercial transitions throughout Ankleshwar. Relocating within an intense industrial environment poses specific logistical challenges that standard movers rarely understand. Ambient industrial emissions, fine chemical particulate matter, heavy truck congestion along National Highway 48 (NH-48), and fluctuating monsoon humidity around the Narmada basin require uncompromising packing standards. We employ moisture-resistant multi-layered wrapping, anti-static poly-cushioning, and heavy corrugated boxing to ensure your household assets remain immaculate from initial packing to final room arrangement.</p>
 
             <div class="ank-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Container Vehicle for Household Relocation in Ankleshwar Gujarat">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Container Vehicle for Household Relocation in Ankleshwar Gujarat">
                 <div class="ank-image-caption">Dedicated sealed container vehicles guaranteeing safe transit across Ankleshwar, GIDC, and Bharuch twin corridor.</div>
             </div>
 
@@ -546,7 +546,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
 
             <div class="ank-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Heavy Duty Multi-Layer Packing for Delicate Furnishings in Ankleshwar">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Heavy Duty Multi-Layer Packing for Delicate Furnishings in Ankleshwar">
                 <div class="ank-image-caption">Meticulous multi-layer protective packaging for delicate kitchenware, luxury furniture, and appliances.</div>
             </div>
 
@@ -635,7 +635,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>From initial quote request to final room organization, our streamlined operational workflow ensures zero stress, complete cargo security, and punctual timeline execution:</p>
 
             <div class="ank-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Professional Apartment Goods Loading by Trained Crew in Ankleshwar GIDC">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Professional Apartment Goods Loading by Trained Crew in Ankleshwar GIDC">
                 <div class="ank-image-caption">Disciplined loading techniques using hydraulic trolleys, cargo ramps, and protective furniture blankets.</div>
             </div>
 
@@ -667,7 +667,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
 
             <div class="ank-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Systematic Unpacking Furniture Assembly and Room Setup in Ankleshwar">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Systematic Unpacking Furniture Assembly and Room Setup in Ankleshwar">
                 <div class="ank-image-caption">Complete post-move furniture reassembly, room positioning, and discarded packing material clearing.</div>
             </div>
         </div>

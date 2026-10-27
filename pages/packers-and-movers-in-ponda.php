@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ponda",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ponda",
     "priceRange": "₹4,000 - ₹55,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="pnd-container">
       <h1>Packers and Movers in Ponda Goa</h1>
       <p>Trusted household shifting, cultural temple heritage relocation, Kundaim and Marcaim industrial freight, and express interstate transport across Ponda.</p>
-      <a href="tel:+919334484001" class="pnd-hero-btn">Call +91 9334484001 for Instant Shifting Quote</a>
+      <a href="tel:+919835565233" class="pnd-hero-btn">Call +91 9835565233 for Instant Shifting Quote</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Ponda serves as the cultural heart, spiritual sanctuary, and central industrial crossroads of Goa. Nestled amidst lush tropical hills, spice plantations, and historic temple shrines including Mangueshi, Shanta Durga, and Mahalsa Narayani, Ponda occupies a unique geographic position at the intersection of North and South Goa. Furthermore, Ponda is home to major industrial clusters including the Kundaim Industrial Estate and the Marcaim Industrial Estate, making it a bustling center for corporate manufacturing as well as traditional residential communities. Relocating within or out of Ponda demands an acute understanding of its undulating terrain, narrow village access routes, industrial loading bays, and heavy highway freight transit.</p>
 
       <div class="pnd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading household goods Ponda" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading household goods Ponda" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pnd-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Whether you are shifting an ancestral household, an apartment flat, or a manufacturing plant, our specialized solutions cover every requirement:</p>
 
       <div class="pnd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Ponda" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Ponda" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pnd-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>We execute every shifting assignment with military precision, ensuring absolute safety, punctuality, and complete peace of mind:</p>
 
       <div class="pnd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Ponda" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Ponda" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pnd-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our dedicated operations teams provide comprehensive pickup and delivery services across all major quarters of Ponda and its surrounding belt:</p>
 
       <div class="pnd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Ponda" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Ponda" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pnd-grid-cards">

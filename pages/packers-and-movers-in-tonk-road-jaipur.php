@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Tonk Road Jaipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tonk-road-jaipur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,000 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -237,7 +237,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="tnk-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Packing on Tonk Road Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Packing on Tonk Road Jaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -262,7 +262,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="tnk-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew on Tonk Road Jaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew on Tonk Road Jaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -427,7 +427,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="tnk-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing on Tonk Road Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing on Tonk Road Jaipur" width="580" height="380" loading="lazy">
                 </div>
                 <div class="tnk-highlight" style="margin-top: 24px;">
                     <strong>Tonk Road Traffic Management:</strong> Heavy commercial vehicles face peak-hour restrictions near Gopalpura Flyover between 9:00 AM and 11:30 AM. We schedule departure windows during early mornings or early afternoons for seamless highway departures.
@@ -455,7 +455,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="tnk-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading onto Container Truck on Tonk Road Jaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading onto Container Truck on Tonk Road Jaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 

@@ -15,8 +15,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Loading and Unloading Labour Guide: Safety & Rates | Call 9708579999</title>
-    <meta name="description" content="Expert guide on professional loading and unloading labour in Ranchi. Call 9708579999 for verified trained crews, lifting equipment, rates & free quote.">
+    <title>Loading and Unloading Labour Guide: Safety & Rates | Call 9835565233</title>
+    <meta name="description" content="Expert guide on professional loading and unloading labour in Ranchi. Call 9835565233 for verified trained crews, lifting equipment, rates & free quote.">
     <meta name="keywords" content="loading unloading labour guide, loading labour ranchi, packers and movers labour charges ranchi, moving coolie rates ranchi, shifting helper crew ranchi, furniture lifting labour, heavy goods loading crew">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/loading-unloading-labour-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/loading-unloading-labour-guide",
-        "telephone": "+91-9708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -224,8 +224,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Loading and Unloading Labour Guide: Safety & Crew Standards</h1>
                 <p>Loading a moving truck is an engineering operation demanding physical ergonomics, mechanical lifting tools, and scientific axle balance. Discover why trained moving professionals are vital to protect your back, your furniture, and your home from moving day disasters.</p>
                 <div class="lulg-cta-group">
-                    <a href="tel:+919708579999" class="lulg-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20loading%20and%20unloading%20crew%20and%20a%20quote%20for%20Ranchi" class="lulg-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
+                    <a href="tel:+919835565233" class="lulg-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20loading%20and%20unloading%20crew%20and%20a%20quote%20for%20Ranchi" class="lulg-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -245,7 +245,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="lulg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Uniformed professional loading crew of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Uniformed professional loading crew of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -322,7 +322,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>The Physics of Truck Loading: Tier Stacking & Axle Balance</h2>
                 <div class="lulg-grid-2">
                     <div class="lulg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated closed container moving truck being loaded with packed household cartons in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated closed container moving truck being loaded with packed household cartons in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <h3>Engineering Vehicle Stability for Highway Transit</h3>
@@ -350,7 +350,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="lulg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment goods loading in Ranchi with dedicated service elevator transit" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment goods loading in Ranchi with dedicated service elevator transit" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -408,7 +408,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Container Truck Security, Heavy Rigging & Highway Stability in Jharkhand</h2>
                 <div class="lulg-grid-2">
                     <div class="lulg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container transport vehicle of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container transport vehicle of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Once cargo is loaded, container security prevents load shifts over uneven highway stretches connecting Ranchi, Jamshedpur, Dhanbad, and Patna:</p>

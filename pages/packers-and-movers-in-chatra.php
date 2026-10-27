@@ -387,8 +387,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-cha
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:400px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:14px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" 
                   alt="Intercity shifting truck loading in Chatra Jharkhand" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -531,8 +530,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-cha
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:380px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" 
                   alt="Complete household packing and carton labeling in Chatra" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -629,8 +627,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-cha
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:380px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" 
                   alt="Heavy machinery and office equipment shifting in Tandwa Chatra" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -936,8 +933,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-cha
           <div style="display:flex; flex-direction:column; align-items:center;">
             <figure style="margin:0; max-width:380px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" 
                   alt="Scooter and bike safe transit packing in Chatra" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"

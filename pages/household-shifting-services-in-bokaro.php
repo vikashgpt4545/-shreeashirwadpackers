@@ -296,7 +296,7 @@ require_once __DIR__ . '/includes/seo.php';
 
       <!-- Hero Visual Section -->
       <figure style="margin: 0 auto 35px; max-width: 550px; text-align: center;">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Household wooden furniture wrapping in Bokaro Steel City" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Household wooden furniture wrapping in Bokaro Steel City" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
         <figcaption style="font-size: 0.88rem; color: #64748b; margin-top: 8px; text-align: center;">
           Multi-layer foam wrapping and corrugated protective edge shielding applied to wooden furniture in Bokaro by Shree Ashirwad Packers.
         </figcaption>
@@ -408,11 +408,11 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Supporting Visual Grid -->
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; margin: 35px 0;">
           <div>
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household bubble wrap packing in Bokaro" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household bubble wrap packing in Bokaro" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
             <p style="font-size: 0.9rem; color: #64748b; margin-top: 8px; text-align: center;">Heavy 3-ply air bubble wrapping applied to fragile household items and electronic gear.</p>
           </div>
           <div>
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing by carpenters in Bokaro" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing by carpenters in Bokaro" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
             <p style="font-size: 0.9rem; color: #64748b; margin-top: 8px; text-align: center;">Trained carpenters dismantling king-size double storage beds and modular wardrobe units.</p>
           </div>
         </div>

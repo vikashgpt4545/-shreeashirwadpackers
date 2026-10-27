@@ -513,7 +513,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
                 <div>
                     <div class="ckp-bbsr-img-box rkl-ckp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Rourkela to Chakradharpur shifting" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Rourkela to Chakradharpur shifting" loading="lazy">
                         <div class="rkl-ckp-img-caption">Dedicated closed-body container vehicle operating the Rourkela-Chakradharpur corridor</div>
                     </div>
                 </div>
@@ -551,7 +551,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <div class="ckp-bbsr-grid-2 rkl-ckp-grid-2">
                 <div>
                     <div class="ckp-bbsr-img-box rkl-ckp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for household appliances Rourkela to Chakradharpur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for household appliances Rourkela to Chakradharpur" loading="lazy">
                         <div class="ckp-bbsr-img-caption">Protective bubble wrap and heavy corrugated padding for home appliances and furniture</div>
                     </div>
                 </div>
@@ -582,7 +582,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
                 <div>
                     <div class="ckp-bbsr-img-box rkl-ckp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler carrier loading Rourkela to Chakradharpur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler carrier loading Rourkela to Chakradharpur" loading="lazy">
                         <div class="ckp-bbsr-img-caption">Secure two-wheeler container loading with protective padding and ratchet strapping</div>
                     </div>
                 </div>
@@ -675,7 +675,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
                 <div>
                     <div class="ckp-bbsr-img-box rkl-ckp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Rourkela to Chakradharpur shifting" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Rourkela to Chakradharpur shifting" loading="lazy">
                         <div class="rkl-ckp-img-caption">Systematic truck loading ensuring zero shifting movement on the 100 km transit run</div>
                     </div>
                 </div>

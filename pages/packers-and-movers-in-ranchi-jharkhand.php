@@ -170,7 +170,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -660,7 +660,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
 
           <div>
             <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:16px; padding:16px; box-shadow:0 10px 30px rgba(0,0,0,0.06);">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Ranchi Jharkhand by Shree Ashirwad Packers" style="width:100%; height:260px; max-height:300px; border-radius:12px; display:block; object-fit:cover;" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Ranchi Jharkhand by Shree Ashirwad Packers" style="width:100%; height:260px; max-height:300px; border-radius:12px; display:block; object-fit:cover;" loading="lazy">
               <div style="padding:18px 12px 6px;">
                 <div style="font-weight:700; color:#0f223d; font-size:1.05rem; margin-bottom:4px;">Master Packing Crew in Action in Ranchi</div>
                 <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Our specialized technicians applying multi-layer air-bubble wrap, 5-ply corrugated sheets, and industrial stretch wrap to safeguard furniture, electronics, and glassware.</p>
@@ -1013,7 +1013,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
 
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:20px;">
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Jharkhand by Shree Ashirwad Packers" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Jharkhand by Shree Ashirwad Packers" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Dedicated Closed Container Trucks</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Weatherproof steel-body containers protecting goods from rain, dust, and highway theft.</p>
@@ -1021,7 +1021,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading in Jharkhand" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading in Jharkhand" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Enclosed Hydraulic Car Carriers</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Specialized auto-carrier trailers ensuring damage-free interstate car transportation.</p>
@@ -1029,7 +1029,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Jharkhand" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Jharkhand" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Fine Wooden Furniture Wrapping</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Air-cushioned multi-layer wrapping for dining sets, dressing tables, and antique woodwork.</p>
@@ -1037,7 +1037,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading in Ranchi by Shree Ashirwad" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading in Ranchi by Shree Ashirwad" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">High-Rise Apartment Moving</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Navigating service elevators, basement clearance, and strict society gate passes in Ranchi.</p>

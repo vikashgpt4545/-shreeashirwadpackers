@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Super Corridor Indore",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-super-corridor-indore",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -413,7 +413,7 @@ $state_name = 'Madhya Pradesh';
           <p>Furthermore, our on-ground team coordinates with corporate HR desks and facility managers across the IT SEZ, enabling smooth documentation, gate passes, and weekend transitions so tech professionals can begin work on Monday without moving stress.</p>
         </div>
         <div class="spc-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Super Corridor Indore" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Super Corridor Indore" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -455,7 +455,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="spc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Super Corridor Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Super Corridor Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="spc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet on Super Corridor Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet on Super Corridor Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -648,7 +648,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="spc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup on Super Corridor Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup on Super Corridor Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -679,7 +679,7 @@ $state_name = 'Madhya Pradesh';
     <div class="spc-cta-bar">
       <h3>Ready for a Smooth Move on the Super Corridor Indore?</h3>
       <p>Contact our local Super Corridor relocation experts today for a free on-site survey and transparent itemized quote.</p>
-      <a href="tel:+919334484001" class="spc-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="spc-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="spc-section">

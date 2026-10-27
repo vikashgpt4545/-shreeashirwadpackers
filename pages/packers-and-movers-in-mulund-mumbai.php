@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mulund-
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-mulund-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-mulund-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -367,7 +367,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mulund-
         <p>With its high density of cooperative housing societies, thriving commercial establishments, and ongoing residential redevelopment projects, moving in Mulund requires seasoned logistics planning. Shree Ashirwad Packers and Movers brings verified local moving expertise to Mulund. Whether you are transferring an apartment in Yogi Hills, moving into a high-rise condominium in Runwal Greens, or coordinating an inter-state relocation toward Pune, Gujarat, Bangalore, or Jharkhand, our certified moving crews, protective packaging materials, and fleet of covered container vehicles guarantee safe, on-time delivery.</p>
 
         <div class="mln-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Mulund by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Mulund by Shree Ashirwad Packers and Movers">
             <p class="mln-image-caption">Professional loading by trained movers ensuring goods are secured against transit movement in Mulund.</p>
         </div>
 
@@ -404,7 +404,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mulund-
         </div>
 
         <div class="mln-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Mulund">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Mulund">
             <p class="mln-image-caption">Multi-layered waterproof bubble wrap and corrugated padding shielding sensitive household goods.</p>
         </div>
 
@@ -512,7 +512,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mulund-
         </div>
 
         <div class="mln-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Mulund">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Mulund">
             <p class="mln-image-caption">Skilled carpentry dismantling and component packaging for large wooden bedroom furniture.</p>
         </div>
 
@@ -546,7 +546,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mulund-
         </div>
 
         <div class="mln-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mulund">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mulund">
             <p class="mln-image-caption">Reliable covered container vehicles delivering door-to-door relocation across Mulund neighborhoods.</p>
         </div>
 
@@ -615,7 +615,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mulund-
 
         <div class="mln-faq-item">
             <h3>How do I get an exact written quotation for my move in Mulund?</h3>
-            <p>You can contact our customer support team directly at +91 93344 04050 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
+            <p>You can contact our customer support team directly at +91 9835565233 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
         </div>
     </section>
 

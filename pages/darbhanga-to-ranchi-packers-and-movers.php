@@ -655,7 +655,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="dbg-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sealed Container Truck for Darbhanga to Ranchi Relocation" title="Household Goods Loading Darbhanga to Ranchi">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sealed Container Truck for Darbhanga to Ranchi Relocation" title="Household Goods Loading Darbhanga to Ranchi">
             </div>
         </div>
     </div>
@@ -737,7 +737,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="dbg-ran-container">
         <div class="dbg-ran-two-col">
             <div class="dbg-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Inspecting Furniture and Delicate Household Goods" title="Professional Packing and Inspection Crew">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Inspecting Furniture and Delicate Household Goods" title="Professional Packing and Inspection Crew">
             </div>
             <div class="dbg-ran-two-col-text">
                 <h2>5-Layer Defensive Packaging Architecture</h2>
@@ -802,7 +802,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="dbg-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Darbhanga to Ranchi Transport" title="Motorcycle Transport Darbhanga to Ranchi">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Darbhanga to Ranchi Transport" title="Motorcycle Transport Darbhanga to Ranchi">
             </div>
         </div>
     </div>
@@ -813,7 +813,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="dbg-ran-container">
         <div class="dbg-ran-two-col">
             <div class="dbg-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Storage and Warehouse Hub for Transit Goods" title="Secure Warehouse Storage Facility">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Storage and Warehouse Hub for Transit Goods" title="Secure Warehouse Storage Facility">
             </div>
             <div class="dbg-ran-two-col-text">
                 <h2>100% Audit-Approved Bills for LNMU, DMCH &amp; Govt Officials</h2>

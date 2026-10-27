@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ashiyana Lucknow",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="ash-hero-title">Packers and Movers in Ashiyana Lucknow</h1>
         <p class="ash-hero-subtitle">Trusted residential relocation services across Sectors G, K, L, M, N, Smriti Upavan, and Bangla Bazar. Seamless home shifting, modular carpentry, and express Shaheed Path logistics.</p>
         <div class="ash-cta-group">
-            <a href="tel:+919334404050" class="ash-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="ash-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ash-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ash-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have provided dedicated household shifting across Ashiyana for over a decade. The township features a pleasant mix of spacious independent duplex homes, modern multi-storey builder floors, and gated residential societies. Our trained moving crews operate with systematic care, utilizing top-tier packing materials and specialized equipment to ensure a seamless relocation experience.</p>
 
         <div class="ash-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Ashiyana Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Ashiyana Lucknow" loading="lazy">
             <p class="ash-image-caption">Dedicated residential loading and bungalow shifting operations across Ashiyana LDA sectors</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ash-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Ashiyana Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Ashiyana Lucknow" loading="lazy">
             <p class="ash-image-caption">Shock-absorbent bubble wrap and heavy 5-ply cartons safeguard fragile home appliances and chinaware</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ash-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by skilled carpenters in Ashiyana" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by skilled carpenters in Ashiyana" loading="lazy">
             <p class="ash-image-caption">Skilled carpenters carefully disassemble modular double beds and heavy furniture for safe transit</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ash-intro-p">Moreover, Ashiyana's close proximity to VIP Road and the Kanpur Road (NH-27) flyover provides swift egress towards Unnao, Kanpur, and southern industrial corridors, while the elevated Shaheed Path facilitates fast transit to the Agra-Lucknow Expressway without encountering city center congestion.</p>
 
         <div class="ash-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Ashiyana Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Ashiyana Lucknow" loading="lazy">
             <p class="ash-image-caption">All-weather closed container fleet guarantees punctual, secure door-to-door moving</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Stress-Free Move in Ashiyana</h3>
         <p>Contact our experienced Ashiyana relocation squad today for a prompt quotation, free doorstep survey, and damage-free moving service.</p>
         <div class="ash-cta-group">
-            <a href="tel:+919334404050" class="ash-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="ash-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ash-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Tempo Service in Ranchi
 $page_title = "Tempo Service in Ranchi | Chota Hathi & Tata Ace on Rent with Driver & Helper";
-$page_description = "Affordable tempo service in Ranchi. Hire Tata Ace Chota Hathi, Mahindra Bolero Pickup & 407 on rent with verified drivers and loading helpers. Hourly & per km rates. Call +91 9334812833.";
+$page_description = "Affordable tempo service in Ranchi. Hire Tata Ace Chota Hathi, Mahindra Bolero Pickup & 407 on rent with verified drivers and loading helpers. Hourly & per km rates. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
 ?>
 <!DOCTYPE html>
@@ -23,14 +23,14 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
         "name": "Shree Ashirwad Packers and Movers - Tempo & Mini Truck Division Ranchi",
         "image": "https://shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹750 - ₹4,500",
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "Main Road, Near Overbridge, Kadru",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -358,7 +358,7 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
     <section class="tmp-hero-banner">
         <h1 class="tmp-hero-title">On-Demand Tempo Service in Ranchi</h1>
         <p class="tmp-hero-subtitle">Rent Tata Ace Chota Hathi, Mahindra Bolero Pickup, and Tata 407 with Verified Drivers & Professional Helpers across Ranchi. Doorstep Pickup within 30 Minutes.</p>
-        <a href="tel:+919334812833" class="tmp-cta-btn">Book Tempo Now: +91 9334812833</a>
+        <a href="tel:+919835565233" class="tmp-cta-btn">Book Tempo Now: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -374,7 +374,7 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
             </div>
             <div>
                 <div class="tmp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Tempo and mini truck delivery service in Ranchi with driver" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Tempo and mini truck delivery service in Ranchi with driver" width="580" height="387">
                     <div class="tmp-caption">On-demand Tata Ace Chota Hathi and mini trucks across Ranchi</div>
                 </div>
             </div>
@@ -467,7 +467,7 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
         <div class="tmp-grid-2">
             <div>
                 <div class="tmp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods onto tempo in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods onto tempo in Ranchi" width="580" height="387">
                     <div class="tmp-caption">Trained loading helpers ensuring secure tie-down of items</div>
                 </div>
             </div>
@@ -499,7 +499,7 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
             </div>
             <div>
                 <div class="tmp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew with tempo service in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew with tempo service in Ranchi" width="580" height="387">
                     <div class="tmp-caption">Dedicated helpers for smooth lifting, carrying, and doorstep delivery</div>
                 </div>
             </div>
@@ -509,7 +509,7 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
         <div class="tmp-grid-2">
             <div>
                 <div class="tmp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container mini trucks in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container mini trucks in Ranchi" width="580" height="387">
                     <div class="tmp-caption">All-weather closed containers protecting goods from dust and rain</div>
                 </div>
             </div>

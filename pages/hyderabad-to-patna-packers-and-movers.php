@@ -36,7 +36,7 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
     "name": "Shree Ashirwad Packers and Movers - Hyderabad to Patna Relocation",
     "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/hyderabad-to-patna-packers-and-movers",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹18,500 - ₹68,000",
     "address": {
       "@type": "PostalAddress",
@@ -512,7 +512,7 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
 
 <!-- Quick Action Contact Bar -->
 <div class="hpt-quick-bar">
-  Direct Highway Shifting Helpline: <strong>+91 9334484001 / +91 8409531615</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/919334484001?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Hyderabad%20to%20Patna%20relocation">Chat on WhatsApp</a>
+  Direct Highway Shifting Helpline: <strong>+91 9835565233 / +91 8409531615</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Hyderabad%20to%20Patna%20relocation">Chat on WhatsApp</a>
 </div>
 
 <!-- Section 1: Route Overview & Highway Logistics -->
@@ -534,7 +534,7 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
     </div>
     <div>
       <div class="hpt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck for Hyderabad to Patna relocation" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck for Hyderabad to Patna relocation" loading="lazy">
       </div>
     </div>
   </div>
@@ -623,7 +623,7 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
   </div>
 
   <div class="hpt-image-container" style="margin-top: 36px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="High-density foam packing for luxury sofa and furniture pieces" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="High-density foam packing for luxury sofa and furniture pieces" loading="lazy">
   </div>
 </section>
 
@@ -668,7 +668,7 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
   <div class="hpt-grid-2">
     <div>
       <div class="hpt-image-container" style="margin: 0 auto;">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Multi-layer shockproof packing for kitchenware, electronics and glassware" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Multi-layer shockproof packing for kitchenware, electronics and glassware" loading="lazy">
       </div>
     </div>
     <div>
@@ -758,7 +758,7 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
   </div>
 
   <div class="hpt-image-container" style="margin-top: 36px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door unloading team delivering household goods in Patna" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door unloading team delivering household goods in Patna" loading="lazy">
   </div>
 </section>
 
@@ -818,7 +818,7 @@ $primary_highway = 'NH-44 to NH-30 / NH-19 (via Nagpur, Jabalpur, Rewa & Varanas
   <div class="hpt-cta-panel">
     <h3>Ready for a Hassle-Free Move from Hyderabad to Patna?</h3>
     <p>Get a guaranteed written quote with zero hidden charges. Our logistics coordinator will schedule a free virtual or in-person survey today.</p>
-    <a href="tel:+919334484001" class="hpt-btn-primary">Call Now: +91 9334484001</a>
+    <a href="tel:+919835565233" class="hpt-btn-primary">Call Now: +91 9835565233</a>
   </div>
 </section>
 

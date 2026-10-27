@@ -36,7 +36,7 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
     "name": "Shree Ashirwad Packers and Movers - Pune to Mumbai Route",
     "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/pune-to-mumbai-packers-and-movers",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹7,500 - ₹38,000",
     "address": {
       "@type": "PostalAddress",
@@ -507,7 +507,7 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
 
 <!-- Quick Action Contact Bar -->
 <div class="pnm-quick-bar">
-  Pune Expressway Relocation Helpdesk: <strong>+91 9334484001 / +91 8409531615</strong> | Instant Quotes & Sealed Booking: <a href="https://wa.me/919334484001?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Pune%20to%20Mumbai%20relocation">Chat on WhatsApp</a>
+  Pune Expressway Relocation Helpdesk: <strong>+91 9835565233 / +91 8409531615</strong> | Instant Quotes & Sealed Booking: <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Pune%20to%20Mumbai%20relocation">Chat on WhatsApp</a>
 </div>
 
 <!-- Section 1: Route Overview & Highway Logistics -->
@@ -530,7 +530,7 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
     </div>
     <div>
       <div class="pnm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Pune to Mumbai expressway dedicated container truck loading" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Pune to Mumbai expressway dedicated container truck loading" loading="lazy">
       </div>
     </div>
   </div>
@@ -581,7 +581,7 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
     </div>
   </div>
   <div class="pnm-image-container">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing and crating for Pune to Mumbai move" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing and crating for Pune to Mumbai move" loading="lazy">
   </div>
 </section>
 
@@ -724,7 +724,7 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
     </div>
   </div>
   <div class="pnm-image-container">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glass packing for Pune to Mumbai relocation" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glass packing for Pune to Mumbai relocation" loading="lazy">
   </div>
 </section>
 
@@ -753,7 +753,7 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
     </div>
   </div>
   <div class="pnm-image-container">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep unloading and setup service in Mumbai" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep unloading and setup service in Mumbai" loading="lazy">
   </div>
 </section>
 
@@ -789,7 +789,7 @@ $primary_highway = 'Yashwantrao Chavan Mumbai-Pune Expressway (National Expressw
 <section class="pnm-cta-box">
   <h3>Planning Your Move from Pune to Mumbai?</h3>
   <p>Get a guaranteed flat-rate estimate with zero hidden costs, free pre-move video survey, same-day delivery, and premium 5-layer protective packing.</p>
-  <a href="tel:+919334484001" class="pnm-btn-primary">Call Relocation Desk: +91 9334484001</a>
+  <a href="tel:+919835565233" class="pnm-btn-primary">Call Relocation Desk: +91 9835565233</a>
 </section>
 
 <!-- Section 7: Interconnected Corridor Network -->

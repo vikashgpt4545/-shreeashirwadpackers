@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Purana Bazar Dimapur",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-purana-bazar-dimapur",
     "priceRange": "₹4,200 - ₹68,000",
     "address": {
@@ -356,7 +356,7 @@ require_once __DIR__ . '/../includes/config.php';
   <div class="pbdn-hero">
     <h1>Packers and Movers in Purana Bazar Dimapur</h1>
     <p>Nagaland's Most Bustling Commercial Trading & Residential Hub. Trusted Household Shifting, Wholesale Warehouse Logistics, and Intercity Transport.</p>
-    <a href="tel:+919334484001" class="pbdn-hero-btn">Get Instant Moving Quote: +91 93344 84001</a>
+    <a href="tel:+919835565233" class="pbdn-hero-btn">Get Instant Moving Quote: +91 9835565233</a>
   </div>
 
   <div class="pbdn-container">
@@ -371,7 +371,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
         <div>
           <div class="pbdn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Loading in Purana Bazar Dimapur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Loading in Purana Bazar Dimapur" loading="lazy">
           </div>
         </div>
       </div>
@@ -441,7 +441,7 @@ require_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="pbdn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Furniture Wrapping in Purana Bazar Dimapur" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Furniture Wrapping in Purana Bazar Dimapur" loading="lazy">
       </div>
     </div>
 
@@ -535,7 +535,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
         <div>
           <div class="pbdn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving Truck Loading in Purana Bazar Dimapur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving Truck Loading in Purana Bazar Dimapur" loading="lazy">
           </div>
         </div>
       </div>
@@ -570,7 +570,7 @@ require_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="pbdn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Purana Bazar Dimapur" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Purana Bazar Dimapur" loading="lazy">
       </div>
     </div>
 

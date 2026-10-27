@@ -603,7 +603,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dhanbad-packer
                 </ul>
             </div>
             <div class="kod2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Koderma to Dhanbad Container Truck Relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Koderma to Dhanbad Container Truck Relocation" loading="lazy">
             </div>
         </div>
     </div>
@@ -671,7 +671,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dhanbad-packer
     <div class="container">
         <div class="kod2dhn-grid-2">
             <div class="kod2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Furniture Wrapping Koderma to Dhanbad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Furniture Wrapping Koderma to Dhanbad" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--kod2dhn-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Industrial Grade Packaging</span>
@@ -792,7 +792,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dhanbad-packer
                 </ul>
             </div>
             <div class="kod2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Koderma to Dhanbad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Koderma to Dhanbad" loading="lazy">
             </div>
         </div>
     </div>
@@ -839,7 +839,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dhanbad-packer
     <div class="container">
         <div class="kod2dhn-grid-2">
             <div class="kod2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Koderma to Dhanbad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Koderma to Dhanbad" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--kod2dhn-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Turnkey Destination Service</span>

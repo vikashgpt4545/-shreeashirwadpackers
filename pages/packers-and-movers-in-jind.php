@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jind",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-jind",
-        "telephone": "+91 9334424440",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹45,000",
         "address": {
             "@type": "PostalAddress",
@@ -402,7 +402,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>Jind's central road network connects effortlessly with Rohtak, Panipat, Karnal, Kaithal, and Hisar via NH-352 and regional state highways. Our closed container vehicles ensure swift transit without weather exposure or consignment transfers.</p>
         </article>
         <div class="jnd-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packing household furniture in Jind" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packing household furniture in Jind" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -440,7 +440,7 @@ require_once __DIR__ . '/../includes/config.php';
     <!-- Section 3: Visual Break and Packaging Standard -->
     <section class="jnd-intro-grid">
         <div class="jnd-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Jind" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Jind" width="580" height="386" loading="lazy">
         </div>
         <article class="jnd-intro-text">
             <h2>Engineered 5-Layer Packaging Architecture</h2>
@@ -581,7 +581,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>Our drivers have detailed knowledge of the local road conditions along NH-352, SH-14, and rural feeder roads, guaranteeing punctual deliveries regardless of local traffic or seasonal agricultural market rush.</p>
         </article>
         <div class="jnd-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed moving truck for long distance relocations from Jind" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed moving truck for long distance relocations from Jind" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -643,7 +643,7 @@ require_once __DIR__ . '/../includes/config.php';
 </main>
 
 <div class="jnd-img-box" style="margin: 40px auto; max-width: 580px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup in Jind Haryana" width="580" height="386" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup in Jind Haryana" width="580" height="386" loading="lazy">
 </div>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>

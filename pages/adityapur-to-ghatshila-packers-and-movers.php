@@ -745,7 +745,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-ght-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Adityapur to Ghatshila Shifting" title="Intercity Moving Truck Loading">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Adityapur to Ghatshila Shifting" title="Intercity Moving Truck Loading">
                 </div>
             </div>
         </div>
@@ -874,7 +874,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKAGING DEFENSE -->
             <div class="adi-ght-two-col">
                 <div class="adi-ght-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Household Cartons Packing for Ghatshila Move" title="Protective Bubble Wrap Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Household Cartons Packing for Ghatshila Move" title="Protective Bubble Wrap Packing">
                 </div>
                 <div class="adi-ght-two-col-text">
                     <h2>Advanced 5-Layer Defensive Packaging Architecture</h2>
@@ -942,14 +942,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-ght-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling for Adityapur to Ghatshila Relocation" title="Furniture Dismantling and Reassembly">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling for Adityapur to Ghatshila Relocation" title="Furniture Dismantling and Reassembly">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & BIKE TRANSPORT -->
             <div class="adi-ght-two-col" style="margin-top: 45px;">
                 <div class="adi-ght-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier for Adityapur to Ghatshila Shifting" title="Two-Wheeler Carrier Services">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier for Adityapur to Ghatshila Shifting" title="Two-Wheeler Carrier Services">
                 </div>
                 <div class="adi-ght-two-col-text">
                     <h2>Comprehensive Localities Covered in Adityapur &amp; Ghatshila</h2>

@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Nizamabad",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-nizamabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,600 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>The urban footprint of Nizamabad has expanded rapidly across key localities such as Khaleelwadi, Pragathi Nagar, Subhash Nagar, Vinayak Nagar, Kanteshwar, and along the bustling Armoor Road and Bodhan Road arteries. Surrounding areas like Dichpally and the expanding residential layouts near Alisagar have also seen steady influxes of residents building spacious modern homes. With hundreds of families, traders, doctors, and banking professionals moving each month, finding an honest, punctual, and technologically proficient moving partner is paramount.</p>
 
     <div class="nzb-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Nizamabad Telangana" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Nizamabad Telangana" loading="lazy">
       <p class="nzb-image-caption">Disciplined household loading operations at modern residential complexes in Nizamabad.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="nzb-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Nizamabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Nizamabad" loading="lazy">
       <p class="nzb-image-caption">Dedicated crating and packaging for commercial electronics, servers, and office archives in Nizamabad.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="nzb-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Cushioning in Nizamabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Cushioning in Nizamabad" loading="lazy">
       <p class="nzb-image-caption">Multi-layer protective foam and corrugated sheets safeguarding delicate wooden furniture against scratches.</p>
     </div>
 
@@ -633,7 +633,7 @@
     <p>To ensure smooth operations, our logistics coordinators schedule morning dispatch slots (6:30 AM to 8:30 AM) to circumvent agricultural market truck traffic. For tight city lanes, we deploy maneuverable 14-foot and 17-foot covered container trucks that easily navigate residential lanes without causing traffic blockages.</p>
 
     <div class="nzb-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Nizamabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Nizamabad" loading="lazy">
       <p class="nzb-image-caption">All-weather sealed container trucks ensuring zero moisture exposure and high-security highway transit.</p>
     </div>
 
@@ -723,7 +723,7 @@
   <section class="nzb-cta-banner">
     <h3>Book Your Stress-Free Move in Nizamabad Today!</h3>
     <p>Contact our experienced relocation advisors for a free pre-move consultation, accurate flat-rate quotation, and guaranteed on-time door-to-door delivery across Telangana and India.</p>
-    <a class="nzb-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="nzb-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

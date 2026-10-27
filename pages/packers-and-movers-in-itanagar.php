@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Itanagar",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-itanagar",
     "priceRange": "₹4,500 - ₹75,000",
     "address": {
@@ -356,7 +356,7 @@ require_once __DIR__ . '/../includes/config.php';
   <div class="itn-hero">
     <h1>Packers and Movers in Itanagar Arunachal Pradesh</h1>
     <p>The Land of Dawn-Lit Mountains Premier Shifting Leader. Certified Civil Secretariat Moving, Defense Transfers, University Relocations, and NH-415 Transit.</p>
-    <a href="tel:+919334484001" class="itn-hero-btn">Get Instant Moving Quote: +91 93344 84001</a>
+    <a href="tel:+919835565233" class="itn-hero-btn">Get Instant Moving Quote: +91 9835565233</a>
   </div>
 
   <div class="itn-container">
@@ -371,7 +371,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
         <div>
           <div class="itn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Goods Loading in Itanagar Arunachal Pradesh" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Goods Loading in Itanagar Arunachal Pradesh" loading="lazy">
           </div>
         </div>
       </div>
@@ -441,7 +441,7 @@ require_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="itn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Furniture Wrapping in Itanagar Arunachal Pradesh" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Furniture Wrapping in Itanagar Arunachal Pradesh" loading="lazy">
       </div>
     </div>
 
@@ -535,7 +535,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
         <div>
           <div class="itn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving Truck Loading in Itanagar Arunachal Pradesh" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving Truck Loading in Itanagar Arunachal Pradesh" loading="lazy">
           </div>
         </div>
       </div>
@@ -570,7 +570,7 @@ require_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="itn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Itanagar Arunachal Pradesh" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Itanagar Arunachal Pradesh" loading="lazy">
       </div>
     </div>
 

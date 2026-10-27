@@ -82,7 +82,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Ranchi Central Hub, Near Overbridge, Main Road",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "aggregateRating": {
@@ -663,7 +663,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="ran-sah-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Long-Haul Container Truck Loading for Ranchi to Sahibganj Move" title="Ranchi to Sahibganj Household Relocation">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Long-Haul Container Truck Loading for Ranchi to Sahibganj Move" title="Ranchi to Sahibganj Household Relocation">
             </div>
         </div>
     </div>
@@ -745,7 +745,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="ran-sah-container">
         <div class="ran-sah-two-col">
             <div class="ran-sah-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Expert Packing Crew Dismantling Wooden Furniture for Long-Distance Move" title="Professional Packing Crew in Action">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Expert Packing Crew Dismantling Wooden Furniture for Long-Distance Move" title="Professional Packing Crew in Action">
             </div>
             <div class="ran-sah-two-col-text">
                 <h2>5-Layer Cushioning for 400+ Km Highway Protection</h2>
@@ -807,7 +807,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="ran-sah-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated Two-Wheeler Motorcycle Carrier for Ranchi to Sahibganj Move" title="Motorcycle Transport to Sahibganj">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated Two-Wheeler Motorcycle Carrier for Ranchi to Sahibganj Move" title="Motorcycle Transport to Sahibganj">
             </div>
         </div>
     </div>
@@ -818,7 +818,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="ran-sah-container">
         <div class="ran-sah-two-col">
             <div class="ran-sah-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Spacious Clean Storage Warehouse Facility for Moving Cargo" title="Modern Moving Storage Facility">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Spacious Clean Storage Warehouse Facility for Moving Cargo" title="Modern Moving Storage Facility">
             </div>
             <div class="ran-sah-two-col-text">
                 <h2>100% Audit-Approved Bills for Port, Railway &amp; Govt Transfers</h2>

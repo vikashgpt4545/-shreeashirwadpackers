@@ -56,7 +56,7 @@ $page_keywords = "packers and movers gurgaon to bangalore, gurgaon to bangalore 
         "name": "Shree Ashirwad Packers and Movers Gurgaon",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334421111",
+        "telephone": "+91 9835565233",
         "priceRange": "₹16,000 - ₹62,000",
         "address": {
             "@type": "PostalAddress",
@@ -205,7 +205,7 @@ $page_keywords = "packers and movers gurgaon to bangalore, gurgaon to bangalore 
             <p>The road distance between Gurgaon and Bangalore spans approximately 2,150 km along the Western National Highway corridor (NH48), traversing Rajasthan (Jaipur, Udaipur), Gujarat (Ahmedabad, Vadodara, Surat), Maharashtra (Mumbai bypass, Pune, Kolhapur), and Karnataka (Belgaum, Hubli, Davanagere, Tumkur). With GPS-tracked all-weather closed container trucks, your valuables remain safeguarded against highway dust, monsoon showers, and transit friction across the 4 to 6-day highway voyage.</p>
             
             <div class="ggb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on Gurgaon to Bangalore national highway corridor" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on Gurgaon to Bangalore national highway corridor" width="580" height="340" loading="lazy">
             </div>
             
             <p>For executives and families planning reciprocal relocations back to Delhi NCR, we maintain daily container departures via our <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-gurgaon-packers-and-movers">Bangalore to Gurgaon packers and movers service</a>, assuring matching operational precision and round-trip cost advantages.</p>
@@ -321,7 +321,7 @@ $page_keywords = "packers and movers gurgaon to bangalore, gurgaon to bangalore 
             <p>Our certified packing technicians utilize only virgin multi-ply corrugated sheets, heavy-density air-bubble rolls, stretch wrap films, edge corner boards, and custom pine-wood crates. Delicate dining glassware, home automation electronics, and heavy teak wood furnishings are wrapped individually with customized padding.</p>
             
             <div class="ggb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy box packaging for Gurgaon household goods" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy box packaging for Gurgaon household goods" width="580" height="340" loading="lazy">
             </div>
             
             <div class="ggb-grid-2">
@@ -357,7 +357,7 @@ $page_keywords = "packers and movers gurgaon to bangalore, gurgaon to bangalore 
             <p>Every vehicle undergoes a formal digital check-in. We document existing odometer readings, body scratch maps, and fuel levels on an electronic vehicle condition slip. Batteries are isolated, rearview mirrors foam-wrapped, and vehicles anchored with heavy-duty tire-locking belts.</p>
             
             <div class="ggb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Gurgaon to Bangalore vehicle relocation" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Gurgaon to Bangalore vehicle relocation" width="580" height="340" loading="lazy">
             </div>
 
             <div class="ggb-grid-3">
@@ -427,7 +427,7 @@ $page_keywords = "packers and movers gurgaon to bangalore, gurgaon to bangalore 
             <p>We reassemble bed frames, fix modular dining sets, reinstall television wall mounts upon request, and position heavy refrigerators and washing machines in their designated utility niches. Once setup is finalized, we clean up and discard all bubble sheets, corrugated boxes, and plastic wraps, leaving your home spotless.</p>
             
             <div class="ggb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Bangalore residence" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Bangalore residence" width="580" height="340" loading="lazy">
             </div>
 
             <p>All items are tallied against your original consignment note to ensure zero missing packages or unchecked cartons, giving you total peace of mind on shifting day.</p>
@@ -544,7 +544,7 @@ $page_keywords = "packers and movers gurgaon to bangalore, gurgaon to bangalore 
     <section class="ggb-cta">
         <h2>Schedule Your Gurgaon to Bangalore Relocation Today</h2>
         <p>Contact our long-distance moving specialists for binding quotes, verified vehicle carrier slots, and reliable closed container transport.</p>
-        <p><strong>Call 24/7 Helpline: +91-9334421111 | Email: support@shreeashirwadpackers.com</strong></p>
+        <p><strong>Call 24/7 Helpline: +91 9835565233 | Email: support@shreeashirwadpackers.com</strong></p>
     </section>
 </main>
 

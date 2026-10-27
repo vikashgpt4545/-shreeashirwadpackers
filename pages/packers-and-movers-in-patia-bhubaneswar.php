@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patia-bhubaneswar#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patia-bhubaneswar",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="pti-body-p">At Shree Ashirwad Packers and Movers, we deliver dependable relocation services engineered specifically for residents and professionals in Patia. Whether you are shifting between gated high-rises along Nandankanan Road, transferring your professor residence from KIIT Campus, or relocating an IT development center in Infocity, our certified moving crews execute every step with surgical care. We deploy background-checked packers, professional supervisors, and specialized packing supplies to safeguard all electronic gadgets and delicate possessions. Supported by our parent city authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Packers and Movers in Bhubaneswar</a> and corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we guarantee seamless door-to-door transit.</p>
 
                 <div class="pti-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Patia Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Patia Bhubaneswar">
                     <div class="pti-image-caption">Professional loading of palletized cartons and furniture in Patia, Bhubaneswar.</div>
                 </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="pti-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for electronics and glassware in Patia">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for electronics and glassware in Patia">
                     <div class="pti-image-caption">Multi-layer protective packaging for kitchen glassware and electronic appliances in Patia.</div>
                 </div>
 
@@ -676,7 +676,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="pti-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing in Patia Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing in Patia Bhubaneswar">
                     <div class="pti-image-caption">Skilled furniture dismantling, tagging, and protective wrapping in Patia, Bhubaneswar.</div>
                 </div>
 
@@ -710,7 +710,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="pti-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Patia Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Patia Bhubaneswar">
                     <div class="pti-image-caption">Dedicated closed-body delivery vehicle arriving for doorstep delivery in Patia.</div>
                 </div>
 
@@ -767,7 +767,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Office:</strong> KIIT Road, Near Patia Square, Bhubaneswar</li>
                     <li><strong>Hours:</strong> 6:00 AM - 10:00 PM (Everyday)</li>
-                    <li><strong>Phone:</strong> +91 9334460424</li>
+                    <li><strong>Phone:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="pti-cta-button">Get Free Patia Moving Quote</a>

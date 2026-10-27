@@ -662,7 +662,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-hazaribagh-pac
                 <p>The four-lane NH-20 bypasses rural bottlenecks and runs smoothly past Barhi junction directly into Hazaribagh. With dedicated container vehicles, your goods are picked up in Koderma and delivered right to your Hazaribagh doorstep within hours.</p>
             </div>
             <div class="k2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Koderma to Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Koderma to Hazaribagh" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -734,7 +734,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-hazaribagh-pac
     <div class="k2hzb-container">
         <div class="k2hzb-grid-2col">
             <div class="k2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Koderma to Hazaribagh move" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Koderma to Hazaribagh move" loading="lazy" width="600" height="400">
             </div>
             <div class="k2hzb-content-box">
                 <span class="k2hzb-tag">Packing Integrity</span>
@@ -765,7 +765,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-hazaribagh-pac
                 <p>For sedans, hatchbacks, and SUVs, our car carrier services include photographic pre-loading inspections, four-wheel locking chocks, and comprehensive transit insurance cover. We offer doorstep pickup in Jhumri Telaiya, Domchanch, or Koderma Station Road and direct delivery to your Hazaribagh residence.</p>
             </div>
             <div class="k2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicles from Koderma for transit to Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicles from Koderma for transit to Hazaribagh" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-hazaribagh-pac
     <div class="k2hzb-container">
         <div class="k2hzb-grid-2col">
             <div class="k2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service at destination in Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service at destination in Hazaribagh" loading="lazy" width="600" height="400">
             </div>
             <div class="k2hzb-content-box">
                 <span class="k2hzb-tag">Full-Service Guarantee</span>

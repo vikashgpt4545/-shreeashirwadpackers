@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Kalyanpur Kanpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="klp-hero-title">Packers and Movers in Kalyanpur Kanpur</h1>
         <p class="klp-hero-subtitle">Specialized relocation services across Kalyanpur, IIT Kanpur campus, CSJMU University, Awas Vikas colonies, and Bithoor Road. Expert faculty transfers, student moving, and express GT Road highway logistics.</p>
         <div class="klp-cta-group">
-            <a href="tel:+919334404050" class="klp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="klp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="klp-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="klp-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have delivered tailored relocation services across Kalyanpur for more than a decade. Whether you are shifting faculty residential quarters inside IIT Kanpur, moving into an independent home in Awas Vikas, or transferring a student apartment near CSJMU, our skilled moving crews deliver organized, damage-free execution.</p>
 
         <div class="klp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Kalyanpur Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Kalyanpur Kanpur" loading="lazy">
             <p class="klp-image-caption">Dedicated residential loading and faculty quarter shifting operations across Kalyanpur Kanpur</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="klp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrap and carton packaging in Kalyanpur Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrap and carton packaging in Kalyanpur Kanpur" loading="lazy">
             <p class="klp-image-caption">Multi-tier bubble wrapping and heavy 5-ply cartons safeguard fragile home appliances and study materials</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="klp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by skilled carpenters in Kalyanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by skilled carpenters in Kalyanpur" loading="lazy">
             <p class="klp-image-caption">Skilled carpenters carefully disassemble modular double beds and heavy furniture for safe transit</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="klp-intro-p">Furthermore, the nearby Panki bypass and Kanpur Ring Road link allow heavy container carriers to connect south toward the Kanpur-Jhansi highway and east toward Prayagraj and Varanasi, ensuring dependable transit schedules across all interstate corridors.</p>
 
         <div class="klp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kalyanpur Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kalyanpur Kanpur" loading="lazy">
             <p class="klp-image-caption">All-weather closed container fleet guarantees punctual, secure door-to-door moving</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Kalyanpur Move With Confidence</h3>
         <p>Contact our experienced Kalyanpur relocation specialists today for an upfront quote, free campus survey, and damage-free moving service.</p>
         <div class="klp-cta-group">
-            <a href="tel:+919334404050" class="klp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="klp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="klp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

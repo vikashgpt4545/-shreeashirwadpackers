@@ -20,7 +20,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ambikapur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ambikapur",
-        "telephone": "+919334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -415,7 +415,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Backed by our strong regional infrastructure at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Ambikapur branch delivers seamless inter-state and intra-city relocations. Because Ambikapur connects directly to Ranchi via National Highway 43 (through Jashpur and Gumla), our daily scheduled container trucks provide the fastest and safest moving link between Chhattisgarh and Jharkhand. We protect your home furnishings, delicate glassware, electronics, and vehicles using multi-layer bubble wrap, moisture-proof film, five-ply corrugated boxes, and customized wooden crates. You can check transparent moving estimates anytime through our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live shifting rate calculator</a>.</p>
 
         <div class="abk-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Ambikapur by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Ambikapur by Shree Ashirwad Packers and Movers">
             <div class="abk-img-caption">Multi-layer bubble wrap and reinforced carton packing for residential moves in Ambikapur</div>
         </div>
 
@@ -474,7 +474,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="abk-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Ambikapur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Ambikapur">
             <div class="abk-img-caption">High-density bubble rolls, corrugated cartons, and eco-friendly stretch film used in Ambikapur</div>
         </div>
     </section>
@@ -590,7 +590,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="abk-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Ambikapur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Ambikapur">
             <div class="abk-img-caption">Sealed container trucks providing 100% weather and dust protection across Northern Chhattisgarh</div>
         </div>
     </section>
@@ -637,7 +637,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="abk-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Ambikapur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Ambikapur">
             <div class="abk-img-caption">Hydraulic car carriers ensuring safe loading and scratch-free vehicle transport</div>
         </div>
     </section>
@@ -676,7 +676,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="abk-cta-box">
         <h3>Book Your Stress-Free Move in Ambikapur Today!</h3>
         <p>Connect with our Surguja relocation manager for an accurate moving estimate and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="abk-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="abk-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

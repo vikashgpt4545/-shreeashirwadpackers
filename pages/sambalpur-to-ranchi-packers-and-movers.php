@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Sambalpur to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
     "url": "https://www.shreeashirwadpackers.com/sambalpur-to-ranchi-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 12,000 - 55,000",
     "address": {
       "@type": "PostalAddress",
@@ -479,7 +479,7 @@ include_once __DIR__ . '/../includes/config.php';
     </p>
 
     <div class="sb2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Sambalpur to Ranchi Door-to-Door Moving Container Truck" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Sambalpur to Ranchi Door-to-Door Moving Container Truck" loading="lazy">
       <div class="sb2r-caption">Modern, GPS-tracked covered container trucks providing safe door-to-door transport from Sambalpur to Ranchi.</div>
     </div>
   </section>
@@ -534,7 +534,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
 
     <div class="sb2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing Ready for Interstate Shifting to Ranchi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing Ready for Interstate Shifting to Ranchi" loading="lazy">
       <div class="sb2r-caption">Multi-layer protective packaging safeguarding furniture and delicate glassware on the 330 km transit to Ranchi.</div>
     </div>
   </section>
@@ -633,7 +633,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
 
     <div class="sb2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Car Carrier Loading for Sambalpur to Ranchi Move" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Car Carrier Loading for Sambalpur to Ranchi Move" loading="lazy">
       <div class="sb2r-caption">Enclosed car carrier trailers providing dust-free and scratch-free vehicle shipping to Ranchi.</div>
     </div>
   </section>
@@ -673,7 +673,7 @@ include_once __DIR__ . '/../includes/config.php';
     </ol>
 
     <div class="sb2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Handling Cargo Unloading and Assembly" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Handling Cargo Unloading and Assembly" loading="lazy">
       <div class="sb2r-caption">Experienced loading crews ensuring safe handling and zero scratch delivery inside your new Ranchi residence.</div>
     </div>
   </section>
@@ -715,7 +715,7 @@ include_once __DIR__ . '/../includes/config.php';
   <section class="sb2r-cta-banner">
     <h3>Planning a Smooth Move from Sambalpur to Ranchi?</h3>
     <p>Contact Shree Ashirwad Packers and Movers today for an instant free quotation and personalized moving plan. Our interstate specialists are ready to assist you!</p>
-    <a href="tel:+919334404052" class="sb2r-btn">Call +91 93344 04052 for Free Quote</a>
+    <a href="tel:+919835565233" class="sb2r-btn">Call +91 9835565233 for Free Quote</a>
   </section>
 
   <section>

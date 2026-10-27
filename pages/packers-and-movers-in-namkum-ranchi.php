@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Namkum Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-namkum-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -433,7 +433,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Namkum Ranchi</h1>
         <p>Premier household shifting, military cantonment transfers, scientific institute relocations, and industrial logistics across Namkum Military Station, ICAR-IINRG, Namkum Industrial Area, Tata Road (NH-33), Lowadih, and Rampur. Trusted by army officers, defense personnel, researchers, and industrial managers for flawless moving.</p>
-        <a href="tel:+919334404052" class="hl-nmk-cta-btn">&#128222; Call Now: +91 93344 04052</a>
+        <a href="tel:+919835565233" class="hl-nmk-cta-btn">&#128222; Call Now: +91 9835565233</a>
       </div>
       <div class="hl-nmk-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +441,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Tata Road near Military Station, Namkum
         </div>
         <div class="hl-nmk-contact-item">
-          <span>Direct Helpline:</span> +91 93344 04052
+          <span>Direct Helpline:</span> +91 9835565233
         </div>
         <div class="hl-nmk-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -458,7 +458,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Constrained Card Image 1 -->
   <div class="hl-nmk-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Namkum and Tata Road Ranchi">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Namkum and Tata Road Ranchi">
     <div class="hl-nmk-img-caption">Dedicated closed-body moving fleet serving defense cantonment quarters and industrial hubs across Namkum, Ranchi.</div>
   </div>
 
@@ -505,7 +505,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 2 -->
     <div class="hl-nmk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Furniture Wrapping for Military Families in Namkum Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Furniture Wrapping for Military Families in Namkum Ranchi">
       <div class="hl-nmk-img-caption">Multi-layer bubble wrap, foam corner guards, and stretch film protecting wooden furniture during transit.</div>
     </div>
 
@@ -587,7 +587,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 3 -->
     <div class="hl-nmk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing in Namkum Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing in Namkum Ranchi">
       <div class="hl-nmk-img-caption">Specialized foam wrapping and heavy-duty cargo straps ensuring scratch-free two-wheeler relocation.</div>
     </div>
 
@@ -651,7 +651,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 4 -->
     <div class="hl-nmk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Namkum Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Namkum Ranchi">
       <div class="hl-nmk-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services in Namkum.</div>
     </div>
 

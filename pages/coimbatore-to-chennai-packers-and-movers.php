@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
     "description": "Premier relocation services from Coimbatore to Chennai specializing in household shifting, industrial and textile moves, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹47,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 505 km industrial corridor between Coimbatore and Chennai represents Tamil Nadu's primary domestic relocation artery. Connecting South India's manufacturing, textile, and engineering capital to the state administrative and software powerhouse involves seamless transit through Salem, Dharmapuri, Vellore, and Kanchipuram via National Highway 544 and 48. Whether executing a corporate transfer from Coimbatore's TIDEL Park in Peelamedu or Saravanampatti to Chennai's OMR IT hub or Guindy, or moving your family home from RS Puram or Race Course to Anna Nagar or Adyar, Shree Ashirwad Packers and Movers delivers an exemplary relocation experience built upon industrial-grade logistics execution.</p>
     
     <div class="cbn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Coimbatore to Chennai transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Coimbatore to Chennai transit" loading="lazy">
       <div class="cbn-img-caption">Company-owned sealed container fleets guaranteeing rapid, weatherproof transit from Coimbatore to Chennai along NH544.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 505 km transit across highway conditions demands engineered packaging that resists sustained road vibrations, sudden braking forces, and micro-abrasions along high-speed corridors.</p>
 
     <div class="cbn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping and padding for long distance move" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping and padding for long distance move" loading="lazy">
       <div class="cbn-img-caption">Specialized furniture edge-guards and shock-absorbing bubble cushioning for antique and wooden furniture.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across 505 km of highway traffic can lead to unnecessary road exhaustion, stone chip damage, and mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="cbn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle secure carrier loading for transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle secure carrier loading for transit" loading="lazy">
       <div class="cbn-img-caption">Motorcycle transport carriers equipped with wheel-chock clamps and four-point nylon tie-down straps.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="cbn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination in Chennai" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination in Chennai" loading="lazy">
       <div class="cbn-img-caption">Doorstep delivery fleet reaching high-rise apartments and residential colonies across Chennai.</div>
     </div>
   </section>

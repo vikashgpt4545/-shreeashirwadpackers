@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Verna",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-verna",
     "priceRange": "₹4,000 - ₹60,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="vrn-container">
       <h1>Packers and Movers in Verna Goa</h1>
       <p>Premier industrial plant moving, corporate office relocation, pharmaceutical lab logistics, and executive home shifting across Verna Industrial Estate and South Goa.</p>
-      <a href="tel:+919334484001" class="vrn-hero-btn">Call +91 9334484001 for Industrial & Home Moving</a>
+      <a href="tel:+919835565233" class="vrn-hero-btn">Call +91 9835565233 for Industrial & Home Moving</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Verna occupies an illustrious position as the industrial heart and economic engine of South Goa. Sprawling atop an elevated plateau along National Highway 66, Verna is strategically positioned equidistant between the commercial capital of Margao and the maritime port city of Vasco da Gama. The world-class Verna Industrial Estate is home to multinational pharmaceutical giants, biomedical engineering facilities, precision electronics manufacturers, and major corporate headquarters. Surrounding this industrial dynamo are picturesque suburban residential localities such as Nuvem, Cortalim, Loutolim, and Quelossim, where corporate executives, engineers, and plant managers reside. Managing logistics in Verna demands industrial rigging capability, regulatory compliance, and delicate household care.</p>
 
       <div class="vrn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Verna Industrial Estate" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Verna Industrial Estate" width="580" height="360" loading="lazy">
       </div>
 
       <div class="vrn-grid-2">
@@ -490,7 +490,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From industrial plant shifting in the manufacturing zones to residential apartment moves in adjacent residential sectors, our services cover every logistical need:</p>
 
       <div class="vrn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Verna" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Verna" width="580" height="360" loading="lazy">
       </div>
 
       <div class="vrn-grid-cards">
@@ -527,7 +527,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Whether handling a heavy factory machine or a fragile living room heirloom, our standardized 5-step operational framework ensures total protection:</p>
 
       <div class="vrn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Verna" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Verna" width="580" height="360" loading="lazy">
       </div>
 
       <div class="vrn-grid-cards">
@@ -560,7 +560,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our fleet operates daily pickup and delivery schedules across all phases of the industrial estate and neighboring residential towns:</p>
 
       <div class="vrn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing Verna Goa" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing Verna Goa" width="580" height="360" loading="lazy">
       </div>
 
       <div class="vrn-grid-cards">

@@ -268,7 +268,7 @@ $state_name = 'Punjab';
     "name": "Shree Ashirwad Packers and Movers Model Town Bathinda",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9835155555",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 46,000",
     "address": {
       "@type": "PostalAddress",
@@ -400,7 +400,7 @@ $state_name = 'Punjab';
           <p>Our dedicated moving crew manages every stage of relocation with engineering precision—conducting comprehensive pre-move surveys, utilizing multi-layer defensive packing materials, supervising safe loading into closed weatherproof container trucks, and providing full unpacking and placement at the destination.</p>
         </div>
         <div class="mtb-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Model Town Bathinda" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Model Town Bathinda" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -442,7 +442,7 @@ $state_name = 'Punjab';
       </div>
 
       <div class="mtb-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Model Town Bathinda" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Model Town Bathinda" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -535,7 +535,7 @@ $state_name = 'Punjab';
       </table>
 
       <div class="mtb-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Model Town Bathinda" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Model Town Bathinda" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -571,7 +571,7 @@ $state_name = 'Punjab';
       </div>
 
       <div class="mtb-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Model Town Bathinda" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Model Town Bathinda" width="580" height="380" loading="lazy">
       </div>
     </section>
 

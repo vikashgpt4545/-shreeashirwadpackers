@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ambala Cantt",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-ambala-cantt",
-        "telephone": "+91 9334424440",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹45,000",
         "address": {
             "@type": "PostalAddress",
@@ -402,7 +402,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>Conveniently located on Grand Trunk Road (NH-44), Ambala Cantt provides rapid highway connectivity to Chandigarh, Delhi, Ludhiana, Dehradun, and nationwide destinations through our fleet of GPS-monitored sealed container trucks.</p>
         </article>
         <div class="ambc-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packaging household belongings in Ambala Cantt" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packaging household belongings in Ambala Cantt" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -440,7 +440,7 @@ require_once __DIR__ . '/../includes/config.php';
     <!-- Section 3: Visual Break and Packaging Standard -->
     <section class="ambc-intro-grid">
         <div class="ambc-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Ambala Cantt" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Ambala Cantt" width="580" height="386" loading="lazy">
         </div>
         <article class="ambc-intro-text">
             <h2>Five-Layer Protective Packaging Architecture</h2>
@@ -581,7 +581,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>This dual expertise makes us the undisputed relocation leader across Ambala Cantt's defense and industrial communities.</p>
         </article>
         <div class="ambc-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container truck for long distance moving from Ambala Cantt" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container truck for long distance moving from Ambala Cantt" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -643,7 +643,7 @@ require_once __DIR__ . '/../includes/config.php';
 </main>
 
 <div class="ambc-img-box" style="margin: 40px auto; max-width: 580px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Ambala Cantt Haryana" width="580" height="386" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Ambala Cantt Haryana" width="580" height="386" loading="lazy">
 </div>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>

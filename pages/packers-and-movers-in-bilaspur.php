@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Bilaspur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bilaspur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -238,7 +238,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Backed by our central operational infrastructure at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Bilaspur division provides dependable residential shifting, corporate office relocations, and industrial transport. We understand the value of your possessions and ensure zero-damage packing through heavy-duty corrugated cartons, impact-absorbing air bubble wraps, and tailored wooden crating. To plan your moving budget with complete confidence and zero surprises, calculate transparent estimates anytime using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live packers and movers charges calculator</a>.</p>
 
         <div class="bsp-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Bilaspur by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Bilaspur by Shree Ashirwad Packers and Movers">
             <div class="bsp-img-caption">Multi-layer protective bubble and corrugated packing for household goods in Bilaspur</div>
         </div>
 
@@ -297,7 +297,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bsp-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Bilaspur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Bilaspur">
             <div class="bsp-img-caption">High-grade corrugated shipping boxes, bubble rolls, and stretch film used in Bilaspur</div>
         </div>
     </section>
@@ -408,7 +408,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bsp-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Bilaspur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Bilaspur">
             <div class="bsp-img-caption">Dedicated closed-body container trucks ensuring zero weather exposure during transit</div>
         </div>
     </section>
@@ -457,7 +457,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bsp-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Bilaspur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Bilaspur">
             <div class="bsp-img-caption">Hydraulic ramps ensuring damage-free car loading and unloading in Bilaspur</div>
         </div>
     </section>
@@ -496,7 +496,7 @@ require_once BASE_PATH . '/includes/config.php';
     <section class="bsp-cta-box">
         <h3>Book Your Hassle-Free Relocation in Bilaspur Today!</h3>
         <p>Connect with our Bilaspur branch manager for an accurate moving quote and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="bsp-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="bsp-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

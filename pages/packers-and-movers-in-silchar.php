@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Silchar",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-silchar",
     "priceRange": "₹4,000 - ₹68,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="slc-container">
       <h1>Packers and Movers in Silchar Assam</h1>
       <p>Pinnacle Barak Valley relocation logistics, NIT Silchar faculty moving, Assam University shifting, and safe mountain highway container transit in Silchar.</p>
-      <a href="tel:+919334484001" class="slc-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="slc-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Silchar stands proudly as the economic powerhouse, cultural crown, and educational capital of Southern Assam's historic Barak Valley. As the second-largest urban center in Assam and the administrative headquarters of Cachar district, Silchar is nestled on the fertile bends of the picturesque Barak River. The city serves as the vital transit gateway connecting mainland India with the neighboring states of Tripura, Mizoram, and parts of Manipur. Distinguished by premiere institutions of national prominence including the National Institute of Technology (NIT Silchar), Assam University (Silchar Central University), Silchar Medical College and Hospital (SMCH), Kumbhirgram Airport, and historic tea plantations stretching across the Cachar plains, Silchar bustles with academic, administrative, and trading activity. Relocating in Silchar requires specialized expertise to handle challenging mountain highway transit via National Highway 6, riverfront humidity, and narrow historic market streets around Tarapur and Rangirkhari.</p>
 
       <div class="slc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Silchar Assam" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Silchar Assam" width="580" height="360" loading="lazy">
       </div>
 
       <div class="slc-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Silchar operational unit delivers tailored relocation services designed to address the diverse needs of academic faculty, medical practitioners, tea estate executives, and regional families:</p>
 
       <div class="slc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Silchar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Silchar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="slc-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Silchar follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="slc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Silchar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Silchar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="slc-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Silchar:</p>
 
       <div class="slc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Silchar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Silchar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="slc-grid-cards">

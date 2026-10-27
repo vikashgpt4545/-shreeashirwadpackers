@@ -792,7 +792,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
                 <div class="r2jam-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Ranchi to Jamtara transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Ranchi to Jamtara transit" loading="lazy">
                     <div class="r2jam-img-caption">
                         <i class="fa fa-truck" style="color: var(--r2jam-accent); margin-right: 8px;"></i>
                         Sealed container trucks providing point-to-point transit from Ranchi to Jamtara and Mihijam.
@@ -1047,7 +1047,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="r2jam-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household furniture packing by skilled packers in Ranchi" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household furniture packing by skilled packers in Ranchi" loading="lazy">
                     <div class="r2jam-img-caption">
                         <strong>5-Layer Cushioning:</strong> Multi-layer bubble wrap, foam corner protectors, and heavy corrugated sheets protect every wooden edge.
                     </div>
@@ -1055,7 +1055,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
             </div>
             <div class="col-md-4">
                 <div class="r2jam-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed hydraulic vehicle carrier" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed hydraulic vehicle carrier" loading="lazy">
                     <div class="r2jam-img-caption">
                         <strong>Secured Vehicle Carriers:</strong> Hydraulic ramps, tire chocks, and tie-down harnesses ensure scratchless vehicle transport.
                     </div>
@@ -1063,7 +1063,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
             </div>
             <div class="col-md-4">
                 <div class="r2jam-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Jamtara" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Jamtara" loading="lazy">
                     <div class="r2jam-img-caption">
                         <strong>Room-Wise Unpacking:</strong> Reassembly of beds, wardrobe positioning, and clean disposal of packing waste in Jamtara.
                     </div>

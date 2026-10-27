@@ -606,7 +606,7 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="brd-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment moving and elevator packing along Bailey Road Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment moving and elevator packing along Bailey Road Patna" loading="lazy">
                     <p class="brd-image-caption">Careful handling of furniture and heavy appliances at modern high-rise gated societies on Bailey Road, Patna.</p>
                 </div>
             </div>
@@ -674,7 +674,7 @@ require_once __DIR__ . '/../includes/seo.php';
         <div class="brd-grid-2">
             <div>
                 <div class="brd-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi layer packing materials deployed on Bailey Road Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi layer packing materials deployed on Bailey Road Patna" loading="lazy">
                     <p class="brd-image-caption">5-ply corrugated cartons, bubble wrap cushioning, and waterproof stretch film ensuring total item security.</p>
                 </div>
             </div>
@@ -799,11 +799,11 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="brd-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated vehicle carrier for car transport along Bailey Road corridor" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated vehicle carrier for car transport along Bailey Road corridor" loading="lazy">
                     <p class="brd-image-caption">Dedicated enclosed carrier vehicles providing scratch-safe car and bike relocation services.</p>
                 </div>
                 <div class="brd-image-box" style="margin-top: 24px;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Weather sealed delivery truck transporting household goods along Bailey Road Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Weather sealed delivery truck transporting household goods along Bailey Road Patna" loading="lazy">
                     <p class="brd-image-caption">Weather-sealed container vehicles engineered for secure urban and long-distance relocations.</p>
                 </div>
             </div>

@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Professional relocation services from Tirunelveli to Chennai covering Palayamkottai, Vannarpettai, Melapalayam, and Perumalpuram with dedicated sealed container trucks.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹12,500 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy purpose-built, weather-sealed container vehicles that keep personal possessions completely safe from road grit, highway vibrations, and unpredictable weather changes. Whether you are transitioning to an IT job in OMR, shifting family residences to Anna Nagar, Adyar, or Velachery, or setting up a new venture in Ambattur, our verified teams ensure punctual arrival and zero handling loss.</p>
 
         <div class="tvcn-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Tirunelveli to Chennai" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Tirunelveli to Chennai" width="580" height="386">
         </div>
 
         <div class="tvcn-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Beyond Trichy, the expressway cuts across Ulundurpet, Villupuram, Tindivanam, and Chengalpattu, entering Chennai at Tambaram. Our drivers pass through 10 toll plazas (including Kayathar, Kappalur, Kodai Road, Viralimalai, Samayapuram, Sengurichi, Athur, and Paranur) with automated FASTag passes, avoiding metropolitan entry bottlenecks and adhering to municipal heavy-vehicle entry restrictions in Chennai during daytime rush hours.</p>
 
         <div class="tvcn-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Tirunelveli to Chennai relocation" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Tirunelveli to Chennai relocation" width="580" height="386">
         </div>
 
         <div class="tvcn-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every fragile dish, glassware set, and kitchen appliance is wrapped in double-layer air-bubble film and nestled within honeycomb corrugated boxes. High-value flat-screen televisions, glass-top dining sets, and pooja mandirs are encased in custom wooden crates for uncompromising shock absorption.</p>
 
         <div class="tvcn-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Chennai" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Chennai" width="580" height="386">
         </div>
 
         <div class="tvcn-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every vehicle undergoes a comprehensive 24-point pre-dispatch inspection. We document fuel levels, existing surface scratches, and odometer readings on a signed consignment receipt prior to loading, giving you complete clarity.</p>
 
         <div class="tvcn-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
         </div>
 
         <div class="tvcn-grid-2">

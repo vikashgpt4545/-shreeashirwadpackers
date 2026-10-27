@@ -39,7 +39,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-thanisa
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-thanisandra-bangalore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-thanisandra-bangalore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -526,7 +526,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Thanisandra Bangalore</h1>
         <p>Premier household shifting, IT professional relocation, and high-rise township moving experts across Manyata Tech Park, Thanisandra Main Road, Bhartiya City, and Nagawara.</p>
         <div class="tsb-btn-wrap">
-            <a href="tel:+919334404050" class="tsb-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="tsb-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="tsb-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -554,7 +554,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="tsb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap household cartons in Thanisandra Bangalore" title="Multi-layer packing in Thanisandra">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap household cartons in Thanisandra Bangalore" title="Multi-layer packing in Thanisandra">
             <p class="tsb-image-caption">High-grade bubble wrapping and edge cushioning applied to household boxes and electronic goods in Thanisandra.</p>
         </div>
     </section>
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Heavy home appliances—including double-door frost-free refrigerators, front-load inverter washing machines, and microwave ovens—are packaged with multi-layer protective blankets and corner buffers. We secure washing machine drums with stabilizer transit bolts and cushion all glass shelves to absorb transit bumps on city flyovers and highways.</p>
 
         <div class="tsb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and LED TV crating in Thanisandra Bangalore" title="LED TV wooden crating in Thanisandra">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and LED TV crating in Thanisandra Bangalore" title="LED TV wooden crating in Thanisandra">
             <p class="tsb-image-caption">Custom thermocol padding and reinforced wooden crating designed for fragile large-screen LED televisions.</p>
         </div>
     </section>
@@ -626,7 +626,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="tsb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packaging materials and corrugated sheets in Thanisandra" title="Export grade packing materials in Thanisandra">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packaging materials and corrugated sheets in Thanisandra" title="Export grade packing materials in Thanisandra">
             <p class="tsb-image-caption">High-density corrugated cardboard sheets and virgin packaging materials ready for packing in Thanisandra.</p>
         </div>
     </section>
@@ -730,7 +730,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="tsb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Thanisandra Bangalore" title="Covered container truck in Thanisandra">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Thanisandra Bangalore" title="Covered container truck in Thanisandra">
             <p class="tsb-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Bangalore.</p>
         </div>
     </section>

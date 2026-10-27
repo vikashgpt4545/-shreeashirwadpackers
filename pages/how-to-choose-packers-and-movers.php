@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Choose Packers and Movers in Ranchi | Anti-Fraud Guide | Call 9708579999</title>
-    <meta name="description" content="Learn how to choose genuine, reliable packers and movers in Ranchi. Step-by-step checklist to verify GST, physical office, fleet ownership, and avoid mover scams. Call 9708579999.">
+    <title>How to Choose Packers and Movers in Ranchi | Anti-Fraud Guide | Call 9835565233</title>
+    <meta name="description" content="Learn how to choose genuine, reliable packers and movers in Ranchi. Step-by-step checklist to verify GST, physical office, fleet ownership, and avoid mover scams. Call 9835565233.">
     <meta name="keywords" content="how to choose packers and movers ranchi, verified packers movers ranchi, avoid moving scams jharkhand, authentic packers movers checklist, best moving company ranchi selection">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/how-to-choose-packers-and-movers">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Quality Assurance",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/how-to-choose-packers-and-movers",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>How to Choose Packers and Movers in Ranchi: The Definitive Guide</h1>
                 <p>Don't entrust your valuable household assets to unverified brokers or fly-by-night operators. Master the exact 7-point audit framework to verify GST credentials, physical office facilities, fleet ownership, and binding written contracts across Ranchi and Jharkhand.</p>
                 <div class="hcpm-cta-group">
-                    <a href="tel:+919708579999" class="hcpm-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20looking%20for%20verified%20and%20genuine%20packers%20and%20movers%20in%20Ranchi" class="hcpm-btn-wa" target="_blank" rel="noopener">WhatsApp Verified Mover Inquiry</a>
+                    <a href="tel:+919835565233" class="hcpm-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20looking%20for%20verified%20and%20genuine%20packers%20and%20movers%20in%20Ranchi" class="hcpm-btn-wa" target="_blank" rel="noopener">WhatsApp Verified Mover Inquiry</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="hcpm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -277,7 +277,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>6 Red Flags of Fraudulent Moving Companies in Jharkhand</h2>
                 <div class="hcpm-grid-2">
                     <div class="hcpm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade multi layer corrugated packing materials deployed by certified movers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade multi layer corrugated packing materials deployed by certified movers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>If you encounter any of the following warning signs during your initial consultations, terminate discussions immediately:</p>
@@ -306,7 +306,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="hcpm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Certified in-house professional loading crew of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Certified in-house professional loading crew of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -369,7 +369,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>6 Essential Questions to Ask Your Moving Surveyor</h2>
                 <div class="hcpm-grid-2">
                     <div class="hcpm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized high strength cartons and pre-move inventory inspection in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized high strength cartons and pre-move inventory inspection in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>When the moving consultant visits your residence in Ranchi for the pre-move assessment, ask these critical questions to gauge their professionalism:</p>

@@ -981,7 +981,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="b2pun-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container truck navigating Bokaro to Pune highway" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container truck navigating Bokaro to Pune highway" loading="lazy">
           <div class="b2blr-img-caption">Dedicated sealed linehaul container truck navigating the NH-53 East-West industrial corridor</div>
         </div>
       </div>
@@ -1000,7 +1000,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="b2pun-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household defensive packing for Bokaro to Pune moving" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household defensive packing for Bokaro to Pune moving" loading="lazy">
           <div class="b2blr-img-caption">Multi-layer protective packaging engineered for delicate glassware, electronics, and furniture</div>
         </div>
       </div>
@@ -1182,7 +1182,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="b2pun-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading for vehicle relocation between Bokaro and Pune" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading for vehicle relocation between Bokaro and Pune" loading="lazy">
           <div class="b2blr-img-caption">Hydraulic car carrier loading with wheel-chocks and protective coverings</div>
         </div>
       </div>
@@ -1201,7 +1201,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="b2pun-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room furniture arrangement in destination residence" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room furniture arrangement in destination residence" loading="lazy">
           <div class="b2blr-img-caption">Comprehensive destination unloading and room setup service in Pune residences</div>
         </div>
       </div>

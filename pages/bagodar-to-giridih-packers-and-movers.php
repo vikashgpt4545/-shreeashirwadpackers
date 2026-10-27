@@ -498,7 +498,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     <p>From initial inventory categorization in Bagodar Chowk or near the Harihar Dham temple complex to final room placement in Makatpur, Pachamba, or Bada Chowk, we manage every detail. Our full-time crew handles heavy lifting, delicate glassware crating, and complete furniture assembly without third-party contractors.</p>
                 </div>
                 <div class="bag2gir-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packing cartons and bubble wrap by Shree Ashirwad Packers" title="Multi-layer packing for Bagodar to Giridih home shifting" width="550" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packing cartons and bubble wrap by Shree Ashirwad Packers" title="Multi-layer packing for Bagodar to Giridih home shifting" width="550" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -569,7 +569,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         <div class="bag2gir-container">
             <div class="bag2gir-two-col">
                 <div class="bag2gir-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Two-wheeler bike packing by Shree Ashirwad Packers" title="Safe motorcycle and scooter transport from Bagodar to Giridih" width="550" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Two-wheeler bike packing by Shree Ashirwad Packers" title="Safe motorcycle and scooter transport from Bagodar to Giridih" width="550" height="380" loading="lazy">
                 </div>
                 <div class="bag2gir-col-text">
                     <h3>Safe Two-Wheeler &amp; Car Transport Across Giridih District</h3>
@@ -633,7 +633,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     <p>Kitchenware, porcelain plates, glass storage jars, and puja items are individually wrapped in newsprint paper and air-bubble cushioning, then packed vertically into sturdy double-wall cartons to withstand road vibrations without breakage.</p>
                 </div>
                 <div class="bag2gir-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliance protective packaging by Shree Ashirwad Packers" title="Safe appliance shifting from Bagodar to Giridih" width="550" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliance protective packaging by Shree Ashirwad Packers" title="Safe appliance shifting from Bagodar to Giridih" width="550" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -644,7 +644,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         <div class="bag2gir-container">
             <div class="bag2gir-two-col">
                 <div class="bag2gir-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly for Bagodar to Giridih relocation" title="Skilled carpentry and furniture shifting in Giridih district" width="550" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly for Bagodar to Giridih relocation" title="Skilled carpentry and furniture shifting in Giridih district" width="550" height="380" loading="lazy">
                 </div>
                 <div class="bag2gir-col-text">
                     <h3>Government, Judicial &amp; Administrative Transfer Support</h3>

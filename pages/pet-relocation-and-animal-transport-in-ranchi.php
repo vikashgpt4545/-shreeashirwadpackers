@@ -76,7 +76,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -478,7 +478,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- First Verified Image: Constrained as required -->
   <div style="text-align: center; margin: 0 auto 35px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Pet Relocation and Animal Transport in Ranchi - Safe Handlers" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Pet Relocation and Animal Transport in Ranchi - Safe Handlers" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Dedicated animal care handlers providing gentle supervision and safe crate placement for pet relocations in Ranchi.</p>
   </div>
 
@@ -688,7 +688,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3>Relocating with Pets? Give Your Furry Family Member a First-Class Move!</h3>
     <p>Schedule a pet travel assessment with our animal care specialists in Ranchi. Climate-controlled cabs, IATA crates, and compassionate door-to-door transit.</p>
     <a href="tel:+918409531615" class="cta-btn-gold">📞 Pet Relocation Desk: +91 8409531615</a>
-    <p style="font-size: 0.9rem; margin-top: 15px; color: #e9d8a6;">Headquarters: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834001</p>
+    <p style="font-size: 0.9rem; margin-top: 15px; color: #e9d8a6;">Headquarters: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</p>
   </div>
 
   <!-- Cluster Internal Linking Grid -->

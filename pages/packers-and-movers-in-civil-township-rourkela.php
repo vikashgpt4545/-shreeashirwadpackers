@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-civil-township-rourkela#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-civil-township-rourkela",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -522,7 +522,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="ctl-body-p">Distinguished by broad, tree-canopied residential lanes, elegant multi-story bungalows, modern luxury duplex societies, and prestigious cultural landmarks like Bhanja Bhavan, the Rotary Club, and the Municipal Corporation headquarters, Civil Township represents the pinnacle of refined urban living in Sundargarh district. Moving homes in this elite locality requires discreet, courteous, and highly skilled moving specialists capable of managing high-value household assets, vintage collectibles, and modular interior fittings with meticulous white-glove care.</p>
 
                 <div class="ctl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Executive Household Goods Loading Civil Township Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Executive Household Goods Loading Civil Township Rourkela">
                     <div class="ctl-image-caption">Dedicated crew loading luxury residential consignment in Civil Township Rourkela</div>
                 </div>
 
@@ -561,7 +561,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="ctl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Quality Packaging Materials Civil Township Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Quality Packaging Materials Civil Township Rourkela">
                     <div class="ctl-image-caption">Multi-layer virgin bubble wrap, dense foam corner buffers, and heavy-duty corrugated cartons</div>
                 </div>
 
@@ -682,7 +682,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="ctl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly Civil Township Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly Civil Township Rourkela">
                     <div class="ctl-image-caption">Skilled carpenters carefully dismantling and wrapping master bedroom furniture in Civil Township Rourkela</div>
                 </div>
 
@@ -717,7 +717,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="ctl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Civil Township Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Civil Township Rourkela">
                     <div class="ctl-image-caption">All-weather container delivery vehicles ensuring seamless door-to-door transit across Civil Township Rourkela</div>
                 </div>
 
@@ -780,7 +780,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Civil Township Main Road, Near Rourkela Club</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="ctl-cta-button">Request Free Moving Quote</a>

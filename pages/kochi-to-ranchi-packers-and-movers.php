@@ -754,7 +754,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Shree Ashirwad Packers and Movers upholds a <strong>strict zero-transshipment rule</strong>. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--krc-teal); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also manage high-frequency outbound relocations on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kochi-packers-and-movers" style="color: var(--krc-teal); font-weight: 600; text-decoration: underline;">Ranchi to Kochi packers and movers</a> corridor with equal dedication. Your household goods and vehicles remain sealed inside the exact dedicated container in which they were loaded in Kochi until they arrive at your Ranchi residence.</p>
             </div>
             <div class="krc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Kochi to Ranchi Packers and Movers container truck transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Kochi to Ranchi Packers and Movers container truck transit" loading="lazy">
             </div>
         </div>
     </section>
@@ -847,7 +847,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="krc-section rkc-section-light">
         <div class="krc-grid-2">
             <div class="krc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof multi-layer packing for Kochi to Ranchi moving" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof multi-layer packing for Kochi to Ranchi moving" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--krc-teal); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Moisture-Barrier Protection</span>
@@ -957,7 +957,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>With comprehensive all-risk transit insurance and continuous GPS tracking, you receive regular transit updates until your automobile is delivered directly to your doorstep in Ranchi.</p>
             </div>
             <div class="krc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Kochi to Ranchi" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Kochi to Ranchi" loading="lazy">
             </div>
         </div>
     </section>
@@ -1006,7 +1006,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="krc-section rkc-section-light">
         <div class="krc-grid-2">
             <div class="krc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Ranchi Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Ranchi Shree Ashirwad Packers" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--krc-teal); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Why Clients Trust Us</span>

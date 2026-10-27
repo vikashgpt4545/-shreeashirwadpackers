@@ -359,7 +359,7 @@ $meta_keywords = "hazaribagh to patna packers and movers, packers and movers haz
           </div>
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Container Truck Loading from Hazaribagh to Patna" style="width:100%; height:320px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Container Truck Loading from Hazaribagh to Patna" style="width:100%; height:320px; object-fit:cover; display:block;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Direct Doorstep Container Loading</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">All-weather sealed metal container fleet operating daily between Hazaribagh and Patna via NH-20</div>
@@ -469,14 +469,14 @@ $meta_keywords = "hazaribagh to patna packers and movers, packers and movers haz
         <!-- 2 Visual Proof Cards -->
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Refrigerator and Washing Machine Protective Wrapping" style="width:100%; height:240px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Refrigerator and Washing Machine Protective Wrapping" style="width:100%; height:240px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Multi-Layer Appliance Cushioning</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">Refrigerators, front-load washing machines, and microwave ovens receive custom foam jackets and drum locks to protect internal components during highway transit.</p>
             </div>
           </div>
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Kitchen Crockery and Glassware Box Packing" style="width:100%; height:240px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Kitchen Crockery and Glassware Box Packing" style="width:100%; height:240px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Cell-Divided Fragile Kitchen Crates</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">Bone china crockery, crystal wine glasses, and ceramic dinner sets are individually bubble-wrapped and placed into cellular honeycomb dividers to guarantee zero breakage.</p>
@@ -562,7 +562,7 @@ $meta_keywords = "hazaribagh to patna packers and movers, packers and movers haz
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:40px; align-items:center;">
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenter Furniture Dismantling for King Bed and Wardrobes" style="width:100%; height:320px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenter Furniture Dismantling for King Bed and Wardrobes" style="width:100%; height:320px; object-fit:cover; display:block;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">In-House Carpenter Assembly Service</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">Skilled dismantling and rebuilding of modular hydraulic beds, multi-door wardrobes, and executive desks</div>

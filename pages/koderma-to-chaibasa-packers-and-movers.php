@@ -397,7 +397,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-chaibasa-packe
         <h1>Packers and Movers Koderma to Chaibasa</h1>
         <p>Premium household shifting, Kolhan mining & administrative employee transfer billing, enclosed automobile transport, and expert 5-layer protective packaging from Koderma to West Singhbhum.</p>
         <div class="kod2cha-cta-group">
-            <a href="tel:+919431104141" class="kod2cha-btn-primary">&#128222; Call: +91-9431104141</a>
+            <a href="tel:+919835565233" class="kod2cha-btn-primary">&#128222; Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="kod2cha-btn-secondary">Request Written Quote</a>
         </div>
         <div class="kod2cha-hero-stats">
@@ -433,7 +433,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-chaibasa-packe
                 <p>Shree Ashirwad Packers and Movers delivers unmatched relocation security along this corridor. Our GPS-equipped covered container trucks, trained packing crews, and audit-compliant transfer documentation ensure that your household shift from Koderma to Chaibasa is entirely smooth and zero-stress.</p>
             </div>
             <div class="kod2cha-img-wrapper">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck traveling from Koderma to Chaibasa" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck traveling from Koderma to Chaibasa" loading="lazy">
             </div>
         </div>
 
@@ -474,7 +474,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-chaibasa-packe
         <!-- Section 3: 5-Layer Packing Standard -->
         <div class="kod2cha-two-col">
             <div class="kod2cha-img-wrapper">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Engineered 5-layer protective packing materials for Koderma to Chaibasa intercity transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Engineered 5-layer protective packing materials for Koderma to Chaibasa intercity transit" loading="lazy">
             </div>
             <div class="kod2cha-col-content">
                 <span class="kod2cha-section-tag">Superior Protection</span>
@@ -501,7 +501,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-chaibasa-packe
                 <p>For family sedans, hatchbacks, and SUVs, we utilize specialized closed automobile carriers or partitioned container trucks fitted with tire chocks and locking clamps, ensuring your vehicle reaches your Chaibasa address in showroom condition.</p>
             </div>
             <div class="kod2cha-img-wrapper">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto dedicated enclosed automobile carrier for Chaibasa transport" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto dedicated enclosed automobile carrier for Chaibasa transport" loading="lazy">
             </div>
         </div>
 
@@ -614,7 +614,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-chaibasa-packe
                 <p>Once everything is placed to your satisfaction, our team collects all used bubble wrap, carton scraps, and packing debris, leaving your new Chaibasa residence clean, orderly, and ready for you to relax.</p>
             </div>
             <div class="kod2cha-img-wrapper">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly at customer residence in Chaibasa" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly at customer residence in Chaibasa" loading="lazy">
             </div>
         </div>
 
@@ -674,7 +674,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-chaibasa-packe
             <h3>Plan Your Koderma to Chaibasa Move Today</h3>
             <p>Get a free, no-obligation pre-move survey and guaranteed transparent quotation for your upcoming household, corporate, or vehicle shifting to Chaibasa.</p>
             <div class="kod2cha-cta-group">
-                <a href="tel:+919431104141" class="kod2cha-btn-primary">Call Now: +91-9431104141</a>
+                <a href="tel:+919835565233" class="kod2cha-btn-primary">Call Now: +91 9835565233</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="kod2cha-btn-secondary">Request Free Survey</a>
             </div>
         </div>
@@ -691,7 +691,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-chaibasa-packe
     "name": "Shree Ashirwad Packers and Movers - Koderma to Chaibasa",
     "description": "Professional packers and movers offering household shifting, government and mining employee transfer relocation, car transport, and bike parcel services from Koderma to Chaibasa.",
     "url": "https://www.shreeashirwadpackers.com/koderma-to-chaibasa-packers-and-movers",
-    "telephone": "+91-9431104141",
+    "telephone": "+91 9835565233",
     "email": "info@shreeashirwadpackers.com",
     "priceRange": "₹2,800 - ₹38,000",
     "address": {

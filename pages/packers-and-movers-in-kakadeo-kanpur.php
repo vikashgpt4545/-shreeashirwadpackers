@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Kakadeo Kanpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="kkd-hero-title">Packers and Movers in Kakadeo Kanpur</h1>
         <p class="kkd-hero-subtitle">Trusted residential shifting, coaching hub relocations, student moves, and modular furniture carpentry across Geeta Nagar, Sharda Nagar, Dev Nagar, and Double Puliya.</p>
         <div class="kkd-cta-group">
-            <a href="tel:+919334404050" class="kkd-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kkd-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kkd-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kkd-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have delivered dependable home and institutional moving solutions across Kakadeo for more than a decade. Whether you are shifting a family flat in Geeta Nagar, relocating a professor's residence near Sharda Nagar, or transferring a student studio flat, our experienced moving squads deliver punctual, damage-free execution.</p>
 
         <div class="kkd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Kakadeo Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Kakadeo Kanpur" loading="lazy">
             <p class="kkd-image-caption">Dedicated residential loading and apartment shifting operations across Kakadeo Kanpur</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kkd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrap and carton packaging in Kakadeo Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrap and carton packaging in Kakadeo Kanpur" loading="lazy">
             <p class="kkd-image-caption">Multi-tier bubble wrapping and heavy 5-ply cartons safeguard fragile home appliances and study materials</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kkd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by skilled carpenters in Kakadeo" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by skilled carpenters in Kakadeo" loading="lazy">
             <p class="kkd-image-caption">Skilled carpenters carefully disassemble modular double beds and heavy furniture for safe transit</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kkd-intro-p">Furthermore, the nearby Panki bypass allows our heavy container carriers to connect south toward the Kanpur-Jhansi highway and east toward Prayagraj and Varanasi, ensuring dependable transit schedules across all interstate corridors.</p>
 
         <div class="kkd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kakadeo Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kakadeo Kanpur" loading="lazy">
             <p class="kkd-image-caption">All-weather closed container fleet guarantees punctual, secure door-to-door moving</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Stress-Free Move in Kakadeo</h3>
         <p>Contact our experienced Kakadeo relocation team today for a prompt quotation, free doorstep survey, and damage-free moving service.</p>
         <div class="kkd-cta-group">
-            <a href="tel:+919334404050" class="kkd-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kkd-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kkd-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

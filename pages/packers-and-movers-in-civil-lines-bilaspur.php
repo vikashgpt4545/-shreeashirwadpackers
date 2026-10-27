@@ -25,7 +25,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Civil Lines Bilaspur",
         "description": "Certified packers and movers providing white-glove residential bungalow shifting, High Court judicial relocations, administrative transfers, and vehicle transportation in Civil Lines, Bilaspur, Chhattisgarh.",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-civil-lines-bilaspur",
-        "telephone": "+91-9334812304",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,800 - ₹38,000",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "address": {
@@ -435,7 +435,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="clb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Judicial and administrative bungalow relocation in Civil Lines Bilaspur by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Judicial and administrative bungalow relocation in Civil Lines Bilaspur by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="clb-grid-2">
             <div>
                 <div class="clb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Civil Lines Bilaspur bungalow shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Civil Lines Bilaspur bungalow shifting" loading="lazy">
                 </div>
             </div>
             <div>
@@ -574,7 +574,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="clb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated container truck loading in Civil Lines Bilaspur by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated container truck loading in Civil Lines Bilaspur by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -604,7 +604,7 @@ require_once __DIR__ . '/../includes/config.php';
 
         <div style="margin-top: 25px;">
             <div class="clb-image-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Residential goods loading operations in Civil Lines Bilaspur by Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Residential goods loading operations in Civil Lines Bilaspur by Shree Ashirwad Packers" loading="lazy">
             </div>
         </div>
     </section>
@@ -648,7 +648,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="clb-cta">
         <h2>Planning a Move in Civil Lines Bilaspur?</h2>
         <p>Connect with Bilaspur’s trusted judicial and bungalow relocation specialists today for a confidential on-site survey and transparent pricing.</p>
-        <a class="clb-cta-btn" href="tel:+919334812304">Call Now: +91-9334812304</a>
+        <a class="clb-cta-btn" href="tel:+919835565233">Call Now: +91 9835565233</a>
     </section>
 
 </main>

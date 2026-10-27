@@ -544,7 +544,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>In Dharwad, we serve academic faculties, research scholars, and residents across Saptapur, Kalyan Nagar, Malmaddi, Narayanpur, Gandhinagar, and the residential quarters surrounding Karnatak University, University of Agricultural Sciences, SDM Medical College, and the modern IIT Dharwad campus along the Pune-Bangalore highway. We also provide seamless connectivity to Navanagar, Rayapur, and Tarihal.</p>
 
         <div class="hbdh-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Hubli and Dharwad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Hubli and Dharwad" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our fleet coordinators schedule vehicle movements to align with local traffic conditions along Gokul Road and the PB Road corridor. By using optimal transit routes and specialized loading equipment, we ensure your household belongings and sensitive laboratory assets arrive safely without unexpected road stress.</p>
@@ -600,7 +600,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hbdh-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Hubli Dharwad to Bangalore, Pune and Mumbai" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Hubli Dharwad to Bangalore, Pune and Mumbai" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -636,7 +636,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hbdh-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Hubli Dharwad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Hubli Dharwad" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -707,7 +707,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hbdh-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Hubli Dharwad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Hubli Dharwad" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad in Hubli-Dharwad -->

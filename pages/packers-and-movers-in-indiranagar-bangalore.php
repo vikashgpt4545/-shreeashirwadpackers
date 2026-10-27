@@ -36,7 +36,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-indiran
     "name": "Shree Ashirwad Packers and Movers Indiranagar Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+919334404052",
+    "telephone": "+91 9835565233",
     "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
@@ -403,7 +403,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-indiran
     <div class="idn-hero-content">
       <h1 class="idn-hero-title">Packers and Movers in Indiranagar Bangalore</h1>
       <p class="idn-hero-subtitle">Bespoke residential shifting, luxury villa relocations, boutique corporate transfers, and dedicated long-distance logistics for Bangalore's most prestigious cosmopolitan neighborhood.</p>
-      <a href="tel:+919334404052" class="idn-hero-cta">Get a Free Instant Quote: +91 93344 04052</a>
+      <a href="tel:+919835565233" class="idn-hero-cta">Get a Free Instant Quote: +91 9835565233</a>
     </div>
   </header>
 
@@ -418,7 +418,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-indiran
       <p class="idn-p">At Shree Ashirwad Packers and Movers, we recognize that moving a home or enterprise in Indiranagar is distinctly different from relocating in standard high-density suburban complexes. Our relocation crews are specifically trained to handle luxury imported furnishings, high-value artistic installations, delicate designer glassware, and high-spec domestic appliances. We coordinate every stage of the shifting lifecycle with military rigor, respecting your privacy and residential peace while ensuring zero transit damage.</p>
 
       <div class="idn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in Indiranagar Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in Indiranagar Bangalore" loading="lazy" width="580" height="387">
         <p class="idn-image-caption">Expert packing crews loading premium household consignments with specialized lift supports in Indiranagar.</p>
       </div>
 
@@ -459,7 +459,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-indiran
       </div>
 
       <div class="idn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap protection for glassware and electronics in Indiranagar" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap protection for glassware and electronics in Indiranagar" loading="lazy" width="580" height="387">
         <p class="idn-image-caption">Meticulous 5-layer protective packing for delicate crystal, kitchenware, and electronics before Indiranagar dispatches.</p>
       </div>
 
@@ -527,7 +527,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-indiran
       </div>
 
       <div class="idn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Indiranagar Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Indiranagar Bangalore" loading="lazy" width="580" height="387">
         <p class="idn-image-caption">Skilled carpenters disassembling modular bed units, wardrobes, and luxury dining suites in Indiranagar residences.</p>
       </div>
 
@@ -563,7 +563,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-indiran
       </div>
 
       <div class="idn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck for Indiranagar Bangalore household shifting" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck for Indiranagar Bangalore household shifting" loading="lazy" width="580" height="387">
         <p class="idn-image-caption">Enclosed weatherproof container trucks ensuring zero-leakage, dust-free door-to-door transit across Bangalore.</p>
       </div>
 

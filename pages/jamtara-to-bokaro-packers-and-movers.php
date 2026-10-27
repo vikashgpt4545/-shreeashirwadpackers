@@ -792,7 +792,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-bokaro-packers
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
                 <div class="j2bok-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Jamtara to Bokaro shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Jamtara to Bokaro shifting" loading="lazy">
                     <div class="j2bok-img-caption">
                         <i class="fa fa-truck" style="color: var(--j2bok-accent); margin-right: 8px;"></i>
                         Regular closed container fleets plying the Jamtara &rarr; Dhanbad &rarr; Chas &rarr; Bokaro corridor.
@@ -1049,7 +1049,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-bokaro-packers
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="j2bok-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household furniture packing by skilled packers in Jamtara" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household furniture packing by skilled packers in Jamtara" loading="lazy">
                     <div class="j2jsr-img-caption">
                         <strong>5-Layer Cushioning:</strong> Air bubble wraps, stretch film, and heavy corrugated sheets protect every wooden edge.
                     </div>
@@ -1057,7 +1057,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-bokaro-packers
             </div>
             <div class="col-md-4">
                 <div class="j2bok-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed hydraulic vehicle carrier" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed hydraulic vehicle carrier" loading="lazy">
                     <div class="j2jsr-img-caption">
                         <strong>Secured Vehicle Carriers:</strong> Hydraulic ramps, tire chocks, and tie-down harnesses ensure scratchless vehicle transport.
                     </div>
@@ -1065,7 +1065,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-bokaro-packers
             </div>
             <div class="col-md-4">
                 <div class="j2bok-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Bokaro Steel City" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Bokaro Steel City" loading="lazy">
                     <div class="j2jsr-img-caption">
                         <strong>Room-Wise Unpacking:</strong> Reassembly of beds, wardrobe positioning, and clean disposal of packing waste.
                     </div>

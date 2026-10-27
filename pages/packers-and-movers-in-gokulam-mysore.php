@@ -39,7 +39,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-gokulam
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-gokulam-mysore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-gokulam-mysore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹40,000",
         "address": {
             "@type": "PostalAddress",
@@ -526,7 +526,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Gokulam Mysore</h1>
         <p>Specialized household shifting, yoga retreat moving, and antique furniture preservation experts across Gokulam Stages 1 to 4, Contour Road, KPJAYI, and KRS Road.</p>
         <div class="gkm-btn-wrap">
-            <a href="tel:+919334404050" class="gkm-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gkm-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gkm-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -554,7 +554,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Gokulam Mysore" title="Complete residential packing in Gokulam">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Gokulam Mysore" title="Complete residential packing in Gokulam">
             <p class="gkm-image-caption">Comprehensive room-by-room packing and protective wrapping for residential homes in Gokulam Mysore.</p>
         </div>
     </section>
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Extensive collections of spiritual literature, Sanskrit manuscripts, and academic libraries are packed into heavy-duty 5-ply cartons, stacked vertically with silica gel packets to prevent moisture absorption and spine strain. Expatriate yoga students completing teacher training courses rely on our dedicated luggage courier packages for safe shipping of personal effects, yoga props, and Ayurvedic supplies directly to international airports or hometown destinations.</p>
 
         <div class="gkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping in Gokulam Mysore" title="Heritage furniture protection in Gokulam">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping in Gokulam Mysore" title="Heritage furniture protection in Gokulam">
             <p class="gkm-image-caption">Multi-layer bubble wrap and corrugated padding applied to heritage wooden furniture in Gokulam.</p>
         </div>
     </section>
@@ -631,7 +631,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing in Gokulam Mysore" title="Delicate glassware packing in Gokulam">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing in Gokulam Mysore" title="Delicate glassware packing in Gokulam">
             <p class="gkm-image-caption">Individual bubble-wrapping and cell partitioning for delicate glass, crockery, and fragile collectibles.</p>
         </div>
     </section>
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered container truck for Gokulam Mysore moving" title="GPS container truck in Gokulam">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered container truck for Gokulam Mysore moving" title="GPS container truck in Gokulam">
             <p class="gkm-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

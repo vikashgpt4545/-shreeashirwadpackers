@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers White Town",
     "image": "https://shreeashirwadpackers.com/images/wooden-furniture-wrapping-bokaro.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-white-town-pondicherry",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -459,7 +459,7 @@
       </div>
       <div>
         <div class="wtp-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Antique furniture multi-layer packing in White Town Pondicherry" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Antique furniture multi-layer packing in White Town Pondicherry" width="580" height="386" loading="lazy">
           <p class="wtp-image-caption">Custom multi-layer edge wrapping of heirloom teakwood furniture in White Town.</p>
         </div>
       </div>
@@ -555,7 +555,7 @@
       </div>
     </div>
     <div class="wtp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and antique packing in White Town Pondicherry" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and antique packing in White Town Pondicherry" width="580" height="386" loading="lazy">
       <p class="wtp-image-caption">Cushioned cellular partition packing for antique glassware, crystal, and ceramic tableware.</p>
     </div>
   </section>
@@ -591,7 +591,7 @@
       </div>
     </div>
     <div class="wtp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit for White Town Pondicherry" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit for White Town Pondicherry" width="580" height="386" loading="lazy">
       <p class="wtp-image-caption">Sealed container trucks providing weatherproof, GPS-monitored interstate transit.</p>
     </div>
   </section>
@@ -619,7 +619,7 @@
       </div>
     </div>
     <div class="wtp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in White Town Pondicherry" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in White Town Pondicherry" width="580" height="386" loading="lazy">
       <p class="wtp-image-caption">Careful room-by-room unpacking, positioning, and assembly service in White Town residences.</p>
     </div>
   </section>

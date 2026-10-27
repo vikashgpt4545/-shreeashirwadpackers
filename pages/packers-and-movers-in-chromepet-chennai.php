@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chromepet-chennai";
         "name": "Shree Ashirwad Packers and Movers Chromepet Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chromepet-chennai";
         <p>The urban landscape of Chromepet is vibrant and varied. Its western flank along GST Road is dominated by iconic multi-story retail stores, jewelry emporiums, and bustling commercial establishments. Eastward, across the suburban rail corridor, lie established residential enclaves such as Hasthinapuram, Radha Nagar, Nemilichery, and New Colony, characterized by modern apartment societies, private duplexes, and quiet residential lanes. Shree Ashirwad Packers and Movers brings unmatched local knowledge, providing specialized relocation services tailored to every residential and business requirement.</p>
 
         <div class="cpt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons and boxes in Chromepet Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons and boxes in Chromepet Chennai" width="580" height="387" loading="lazy">
             <div class="cpt-image-caption">Standardized heavy-duty carton packing and barcode labeling for residential moves in Chromepet.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chromepet-chennai";
         </div>
 
         <div class="cpt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture multi-layer protective wrapping in Chromepet Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture multi-layer protective wrapping in Chromepet Chennai" width="580" height="387" loading="lazy">
             <div class="cpt-image-caption">Precision furniture wrapping with air bubble film and edge protectors in Chromepet.</div>
         </div>
 
@@ -597,7 +597,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chromepet-chennai";
         <p>We deploy protective neoprene floor runners across apartment corridors and service elevator interiors to protect vitrified tiles and painted door frames from scuffs or dents during the movement of heavy furniture and appliances.</p>
 
         <div class="cpt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile kitchen crockery bubble packing in Chromepet Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile kitchen crockery bubble packing in Chromepet Chennai" width="580" height="387" loading="lazy">
             <div class="cpt-image-caption">Individual fragile glassware wrapping with heavy-duty corrugated dish-pack boxes in Chromepet.</div>
         </div>
 
@@ -723,7 +723,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chromepet-chennai";
         </ol>
 
         <div class="cpt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck on GST Road Chromepet Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck on GST Road Chromepet Chennai" width="580" height="387" loading="lazy">
             <div class="cpt-image-caption">Weatherproof container trucks ensuring dust-free and rain-protected transit along GST Road.</div>
         </div>
     </section>
@@ -780,7 +780,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chromepet-chennai";
     <div class="cpt-cta-box">
         <h3>Plan Your Chromepet Move with Chennai's Trusted Experts</h3>
         <p>Get a guaranteed fixed-price quote with zero surprise charges. Fully insured, certified packing specialists ready to move your household or office today.</p>
-        <a href="tel:+919334404050" class="cpt-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="cpt-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

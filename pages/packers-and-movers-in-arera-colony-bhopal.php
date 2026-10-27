@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Arera Colony Bhopal",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-arera-colony-bhopal",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -413,7 +413,7 @@ $state_name = 'Madhya Pradesh';
           <p>Furthermore, our on-ground crew conducts moves with utmost respect for community tranquility, scheduling quiet morning operations that preserve the peaceful neighborhood ambiance of Arera Colony's tree-lined avenues.</p>
         </div>
         <div class="arc-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Arera Colony Bhopal" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Arera Colony Bhopal" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -455,7 +455,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="arc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Arera Colony Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Arera Colony Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="arc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet in Arera Colony Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet in Arera Colony Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -648,7 +648,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="arc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Arera Colony Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Arera Colony Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -679,7 +679,7 @@ $state_name = 'Madhya Pradesh';
     <div class="arc-cta-bar">
       <h3>Ready for an Effortless Move in Arera Colony Bhopal?</h3>
       <p>Contact our local Arera Colony relocation experts today for a free on-site survey and transparent itemized quote.</p>
-      <a href="tel:+919334484001" class="arc-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="arc-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="arc-section">

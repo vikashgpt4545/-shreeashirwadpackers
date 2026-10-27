@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Industrial Machinery Shifting in Ranchi
 $page_title = "Industrial Machinery Shifting in Ranchi | Heavy Plant & Factory Relocation";
-$page_description = "Specialized industrial machinery shifting & plant relocation in Ranchi. Hydraulic cranes, heavy rigging, low-bed trailers for Tupudana, Kokar & Tatisilwai. Call +91 9334812833 for technical survey.";
+$page_description = "Specialized industrial machinery shifting & plant relocation in Ranchi. Hydraulic cranes, heavy rigging, low-bed trailers for Tupudana, Kokar & Tatisilwai. Call +91 9835565233for technical survey.";
 $canonical_url = "https://shreeashirwadpackers.com/industrial-machinery-shifting-ranchi";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/industrial-machinery-shifting
         "name": "Shree Ashirwad Packers and Movers - Industrial & Heavy Rigging Division",
         "image": "https://shreeashirwadpackers.com/images/heavy-machinery-office-shifting-jharkhand.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹15,000 - ₹3,50,000",
         "address": {
             "@type": "PostalAddress",
@@ -358,7 +358,7 @@ $canonical_url = "https://shreeashirwadpackers.com/industrial-machinery-shifting
     <section class="ims-hero-banner">
         <h1 class="ims-hero-title">Industrial Machinery Shifting in Ranchi</h1>
         <p class="ims-hero-subtitle">Heavy Factory Plant Relocation, Hydraulic Crane Rigging, CNC Machine Transport & Low-Bed Trailers for Tupudana, Kokar & Tatisilwai Industrial Belts.</p>
-        <a href="tel:+919334812833" class="ims-cta-btn">Book Technical Rigging Survey: +91 9334812833</a>
+        <a href="tel:+919835565233" class="ims-cta-btn">Book Technical Rigging Survey: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -374,7 +374,7 @@ $canonical_url = "https://shreeashirwadpackers.com/industrial-machinery-shifting
             </div>
             <div>
                 <div class="ims-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial machinery shifting and heavy equipment relocation in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial machinery shifting and heavy equipment relocation in Ranchi" width="580" height="387">
                     <div class="ims-caption">Heavy-duty hydraulic cranes and machinery skates maneuvering industrial equipment</div>
                 </div>
             </div>
@@ -467,7 +467,7 @@ $canonical_url = "https://shreeashirwadpackers.com/industrial-machinery-shifting
         <div class="ims-grid-2">
             <div>
                 <div class="ims-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial electrical panels and machinery electronics packing in Jharkhand" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial electrical panels and machinery electronics packing in Jharkhand" width="580" height="387">
                     <div class="ims-caption">VCI moisture barrier and anti-static wrapping for PLC controllers and electronics</div>
                 </div>
             </div>
@@ -497,7 +497,7 @@ $canonical_url = "https://shreeashirwadpackers.com/industrial-machinery-shifting
             </div>
             <div>
                 <div class="ims-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof trailers and heavy trucks for industrial transit in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof trailers and heavy trucks for industrial transit in Ranchi" width="580" height="387">
                     <div class="ims-caption">Heavy-duty transport trailers engineered for out-of-gauge industrial cargo</div>
                 </div>
             </div>
@@ -507,7 +507,7 @@ $canonical_url = "https://shreeashirwadpackers.com/industrial-machinery-shifting
         <div class="ims-grid-2">
             <div>
                 <div class="ims-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Certified rigging crew for factory machinery shifting in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Certified rigging crew for factory machinery shifting in Ranchi" width="580" height="387">
                     <div class="ims-caption">Experienced industrial riggers equipped with full safety PPE kits</div>
                 </div>
             </div>

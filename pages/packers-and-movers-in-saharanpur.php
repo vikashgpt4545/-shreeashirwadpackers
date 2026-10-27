@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Saharanpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -457,7 +457,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Saharanpur</h1>
         <p>Premium household shifting, GI-tagged carved wood furniture export crating, and tri-state highway logistics across Saharanpur, Court Road, Civil Lines, and Hakikatnagar with zero damage safety.</p>
         <div class="shp-hero-btn-group">
-            <a href="tel:+919334404050" class="shp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="shp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="shp-btn-secondary">Check Tariff Rates</a>
         </div>
     </section>
@@ -470,7 +470,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="shp-intro-p">In addition to its historic handicrafts heritage, Saharanpur serves as a vital agro-industrial and military outpost. The city hosts the Remount Veterinary Corps (RVC) Center of the Indian Army, major agro-processing plants, Star Paper Mills, and expansive sugarcane cooperatives. The residential landscape ranges from colonial bungalows along Court Road and Mission Compound to vibrant neighborhoods in Hakikatnagar, Gill Colony, and Delhi Road. Relocating in Saharanpur requires dedicated mastery in handling hand-carved woodwork, delicate lacquered finishes, and upscale family furnishings.</p>
 
         <div class="shp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Saharanpur Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Saharanpur Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="shp-image-caption">Our professional relocation crew safely loading packed goods into container trucks in Saharanpur.</p>
         </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="shp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Saharanpur Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Saharanpur Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="shp-image-caption">High-density bubble wrapping and reinforced multi-wall cartons utilized for household goods in Saharanpur.</p>
         </div>
 
@@ -660,7 +660,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="shp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Saharanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Saharanpur" width="580" height="380" loading="lazy">
             <p class="shp-image-caption">Skilled carpentry team carefully dismantling large wooden bed frames and packing delicate hardware in Saharanpur.</p>
         </div>
     </section>
@@ -673,7 +673,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="shp-intro-p">Westbound routes connect rapidly across the Yamuna River toward Yamunanagar, Ambala, and Chandigarh in 2 to 3 hours. Southbound container movements flow smoothly via National Highway 709B toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-muzaffarnagar">Muzaffarnagar</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-meerut">Meerut</a>, and Delhi NCR in approximately 3 to 3.5 hours, providing seamless intercity linehaul transit.</p>
 
         <div class="shp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Saharanpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Saharanpur" width="580" height="380" loading="lazy">
             <p class="shp-image-caption">Dedicated sealed container truck fleet ensuring clean, weather-protected door-to-door delivery across Saharanpur.</p>
         </div>
 
@@ -740,7 +740,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Smooth Relocation in Saharanpur Today</h3>
         <p>Connect with our Saharanpur relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="shp-cta-group">
-            <a href="tel:+919334404050" class="shp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="shp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="shp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

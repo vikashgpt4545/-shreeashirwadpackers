@@ -148,7 +148,7 @@ $meta_keywords = "gumla to ranchi packers and movers, packers and movers gumla t
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -415,7 +415,7 @@ $meta_keywords = "gumla to ranchi packers and movers, packers and movers gumla t
           </div>
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Gumla to Ranchi Kitchenware Packaging" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Gumla to Ranchi Kitchenware Packaging" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Multi-Layered Fragile Packing &amp; Cushioning</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">Shock-absorbing bubble wrap, 5-ply cartons &amp; sealed container freight on NH-43</div>
@@ -489,7 +489,7 @@ $meta_keywords = "gumla to ranchi packers and movers, packers and movers gumla t
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:40px; align-items:center;">
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Gumla to Ranchi Sealed Container Truck Loading" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Gumla to Ranchi Sealed Container Truck Loading" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Sealed All-Weather Container Loading</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">Continuous GPS tracking and complete protection against highway dust and monsoon rains on NH-43</div>
@@ -573,7 +573,7 @@ $meta_keywords = "gumla to ranchi packers and movers, packers and movers gumla t
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:30px; align-items:center;">
           <div>
             <div style="position:relative; border-radius:14px; overflow:hidden; box-shadow:0 10px 25px rgba(0,0,0,0.08); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Gumla to Ranchi Sofa and Furniture Protective Packing" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Gumla to Ranchi Sofa and Furniture Protective Packing" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:20px 18px 14px; color:#ffffff;">
                 <div style="font-size:1.05rem; font-weight:700; margin-bottom:3px;">Sofa &amp; Furniture Protective Packing</div>
                 <div style="font-size:0.85rem; color:#cbd5e1;">Multi-layer stretch wrap, corner protection &amp; skilled carpenter dismantling</div>

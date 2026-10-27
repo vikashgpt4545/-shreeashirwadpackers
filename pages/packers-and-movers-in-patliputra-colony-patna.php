@@ -605,7 +605,7 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="pcp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="White glove luxury household shifting in Patliputra Colony Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="White glove luxury household shifting in Patliputra Colony Patna" loading="lazy">
                     <p class="pcp-image-caption">Careful handling of fine furniture and household items at upscale bungalows and apartments in Patliputra Colony, Patna.</p>
                 </div>
             </div>
@@ -673,7 +673,7 @@ require_once __DIR__ . '/../includes/seo.php';
         <div class="pcp-grid-2">
             <div>
                 <div class="pcp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium packaging materials deployed in Patliputra Colony Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium packaging materials deployed in Patliputra Colony Patna" loading="lazy">
                     <p class="pcp-image-caption">Virgin 5-ply corrugated cartons, bubble wrap cushioning, and moisture-proof stretch wrap for Patliputra Colony homes.</p>
                 </div>
             </div>
@@ -798,11 +798,11 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="pcp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master carpenters dismantling furniture in Patliputra Colony Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master carpenters dismantling furniture in Patliputra Colony Patna" loading="lazy">
                     <p class="pcp-image-caption">Professional dismantling and hardware labeling of modular beds and wardrobes by skilled technicians.</p>
                 </div>
                 <div class="pcp-image-box" style="margin-top: 24px;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Modern container truck providing safe delivery in Patliputra Colony Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Modern container truck providing safe delivery in Patliputra Colony Patna" loading="lazy">
                     <p class="pcp-image-caption">Modern enclosed container trucks ensuring weather-safe door-to-door transit across Patna colonies.</p>
                 </div>
             </div>

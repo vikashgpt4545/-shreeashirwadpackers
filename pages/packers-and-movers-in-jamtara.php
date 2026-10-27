@@ -359,7 +359,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck Jamtara" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck Jamtara" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Verified Moving Fleet</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Jamtara Express Transport Operations</p>
@@ -504,7 +504,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center; order: 2;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5 Layer Protective Packaging Household Goods Jamtara" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5 Layer Protective Packaging Household Goods Jamtara" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Zero Damage Guarantee</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">5-Layer Shock Absorbing Packaging</p>
@@ -794,7 +794,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Jamtara" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Jamtara" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Furniture Protection</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Solid Wood Wrapping & Cushioning</p>
@@ -814,7 +814,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center; order: 2;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing Jamtara" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing Jamtara" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Two-Wheeler Armor</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Motorcycle & Scooter Packing Standard</p>

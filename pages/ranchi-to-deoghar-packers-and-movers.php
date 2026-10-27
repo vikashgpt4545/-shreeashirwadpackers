@@ -77,7 +77,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -545,7 +545,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- First Verified Image: Fleet loading in Ranchi -->
   <div class="img-showcase">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Deoghar Packers and Movers - Loading Household Goods" width="550" height="280" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Deoghar Packers and Movers - Loading Household Goods" width="550" height="280" loading="lazy">
     <p class="img-caption">Dedicated Shree Ashirwad container trucks loading household goods in Harmu Housing Colony, Ranchi for same-day delivery to Deoghar.</p>
   </div>
 
@@ -560,7 +560,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Second Verified Image: Packaging Process -->
   <div class="img-showcase">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Household Packing for Ranchi to Deoghar Shifting" width="550" height="280" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Household Packing for Ranchi to Deoghar Shifting" width="550" height="280" loading="lazy">
     <p class="img-caption">Expert packing crew wrapping modern wooden furniture with multi-layer bubble film and corrugated edge-guards prior to loading.</p>
   </div>
 
@@ -647,7 +647,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Third Verified Image: Fragile Packing -->
   <div class="img-showcase">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Packing in Ranchi" width="550" height="280" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Packing in Ranchi" width="550" height="280" loading="lazy">
     <p class="img-caption">Individual bubble-wrapping and corrugated cell divider packing for delicate glassware, ceramics, and holy idols before highway transit.</p>
   </div>
 
@@ -663,7 +663,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Fourth Verified Image: Highway Linehaul Container -->
   <div class="img-showcase">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Highway Linehaul Container Truck for Ranchi to Deoghar Move" width="550" height="280" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Highway Linehaul Container Truck for Ranchi to Deoghar Move" width="550" height="280" loading="lazy">
     <p class="img-caption">Sealed all-weather container truck navigating the National Highway network between Ranchi and Deoghar with GPS live tracking.</p>
   </div>
 
@@ -700,7 +700,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Fifth Verified Image: Unpacking Service -->
   <div class="img-showcase">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service at Destination Home in Deoghar" width="550" height="280" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service at Destination Home in Deoghar" width="550" height="280" loading="lazy">
     <p class="img-caption">Shree Ashirwad crew assisting with careful unpacking, furniture reassembly, and placement in destination residential quarters.</p>
   </div>
 
@@ -757,7 +757,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3>Plan Your Stress-Free Move from Ranchi to Deoghar Today</h3>
     <p style="max-width: 700px; margin: 0 auto; color: #e2e8f0;">Get a free, transparent moving estimate with guaranteed same-day delivery, 5-layer protective packing, and verified IBA reimbursement documentation.</p>
     <a href="tel:+918409531615" class="cta-btn-amber">📞 Call Free Moving Helpline: +91 8409531615</a>
-    <p style="font-size: 0.9rem; margin-top: 15px; color: #cbd5e1;">Headquarters: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834001</p>
+    <p style="font-size: 0.9rem; margin-top: 15px; color: #cbd5e1;">Headquarters: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002</p>
   </div>
 
   <!-- Cluster Internal Linking Grid -->

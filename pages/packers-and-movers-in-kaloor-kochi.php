@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kaloor Kochi",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kaloor-kochi",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>Executing relocations in Kaloor presents unique urban challenges. High traffic flow along Banerji Road, metro rail corridors, event-day crowd restrictions around the stadium, and narrow residential interior bylanes require moving professionals who possess authentic local insight and disciplined scheduling. Our operations team coordinates with residential associations and local authorities across Kaloor to secure early morning loading permits, avoiding stadium traffic and daytime congestion.</p>
 
     <div class="klro-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Moving in Kaloor Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Moving in Kaloor Kochi" loading="lazy">
       <p class="klro-image-caption">Disciplined apartment shifting and container loading operations near JLN Stadium Kaloor.</p>
     </div>
 
@@ -600,7 +600,7 @@
     </div>
 
     <div class="klro-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Kaloor" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Kaloor" loading="lazy">
       <p class="klro-image-caption">Organized packing and secure cartoning for commercial electronics and merchandise in Kaloor.</p>
     </div>
 
@@ -632,7 +632,7 @@
     </div>
 
     <div class="klro-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Kaloor Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Kaloor Kochi" loading="lazy">
       <p class="klro-image-caption">Protective multi-layer corrugated padding shielding polished wooden furniture during transit.</p>
     </div>
 
@@ -646,7 +646,7 @@
     <p>Our logistics managers schedule truck arrivals and departures during early morning or midday off-peak windows to bypass heavy traffic bottlenecks. Furthermore, our drivers are well-versed in navigating narrow residential interior lanes connecting Deshabhimani Junction, Kathrikadavu, and Kaloor-Kadavanthra Road. We maintain specialized intermediate transport carriers and electric lift trollies to bridge transit when large container vehicles cannot enter narrow gated colony cul-de-sacs.</p>
 
     <div class="klro-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Kaloor" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Kaloor" loading="lazy">
       <p class="klro-image-caption">Weatherproof closed container trucks ensuring complete cargo security during monsoon transit.</p>
     </div>
 
@@ -736,7 +736,7 @@
   <section class="klro-cta-banner">
     <h3>Book Your Stress-Free Move in Kaloor Today!</h3>
     <p>Contact our dedicated Kaloor relocation specialists for a free on-site survey, customized moving estimate, and guaranteed on-time door-to-door delivery across Kerala and India.</p>
-    <a class="klro-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="klro-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

@@ -83,7 +83,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -719,7 +719,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 1 -->
     <div class="img-showcase-gumla">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Gumla Packers and Movers Container Truck Fleet" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Gumla Packers and Movers Container Truck Fleet" width="580" height="290" loading="lazy">
       <div class="caption">Figure 1: Weatherproof sealed container linehaul truck loading in Ranchi for express 2-hour transit to Gumla via NH-43.</div>
     </div>
   </section>
@@ -837,7 +837,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 2 -->
     <div class="img-showcase-gumla">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Gumla Shifting" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Gumla Shifting" width="580" height="290" loading="lazy">
       <div class="caption">Figure 2: Multi-layer edge protection and stretch wrapping applied to large wooden furniture before departure to Gumla.</div>
     </div>
   </section>
@@ -883,7 +883,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 3 -->
     <div class="img-showcase-gumla">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing in Ranchi for Gumla Relocation" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing in Ranchi for Gumla Relocation" width="580" height="290" loading="lazy">
       <div class="caption">Figure 3: Multi-layer bubble wrapping and cell dividers applied to delicate glassware and chinaware before transit.</div>
     </div>
   </section>
@@ -967,7 +967,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 4 -->
     <div class="img-showcase-gumla">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Securing Household Boxes in Ranchi" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Securing Household Boxes in Ranchi" width="580" height="290" loading="lazy">
       <div class="caption">Figure 4: Professional loading crew securing household cartons and furniture in Ranchi for Gumla relocation.</div>
     </div>
   </section>

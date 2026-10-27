@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Asansol to Phusro",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹7,000 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -111,7 +111,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-9334800840",
+            "telephone": "+91 9835565233",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
@@ -254,7 +254,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     <div class="feat-item"><i class="fa fa-check-circle"></i> IBA Approved Bills for ECL & CCL Transfers</div>
                 </div>
                 <div class="hero-cta">
-                    <a href="tel:+919334800840" class="btn btn-primary"><i class="fa fa-phone-alt"></i> Call +91-9334800840</a>
+                    <a href="tel:+919835565233" class="btn btn-primary"><i class="fa fa-phone-alt"></i> Call +91 9835565233</a>
                     <a href="#quote-form" class="btn btn-outline">Instant Price Calculation</a>
                 </div>
             </div>
@@ -325,7 +325,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             </div>
             <div class="col-lg-6">
                 <div class="route-visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Household cargo loading in Asansol for transit to Phusro" class="img-fluid rounded shadow" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Household cargo loading in Asansol for transit to Phusro" class="img-fluid rounded shadow" loading="lazy">
                     <div class="visual-caption">
                         <h4>Interstate Logistics Hub Asansol to Phusro</h4>
                         <p>Specialized closed-body container fleet ensuring dust-proof, weather-proof transportation from Asansol across the border to Bermo and Phusro.</p>
@@ -418,7 +418,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="row align-items-center">
             <div class="col-lg-6 order-lg-2">
                 <div class="packing-visual-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective wrap for appliances during Asansol to Phusro shifting" class="img-fluid rounded shadow" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective wrap for appliances during Asansol to Phusro shifting" class="img-fluid rounded shadow" loading="lazy">
                 </div>
             </div>
             <div class="col-lg-6 order-lg-1">
@@ -476,7 +476,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             <div class="col-lg-6">
                 <div class="vehicle-card">
                     <div class="vehicle-card-img">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle courier and bike parcel Asansol to Phusro" class="img-fluid rounded" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle courier and bike parcel Asansol to Phusro" class="img-fluid rounded" loading="lazy">
                     </div>
                     <div class="vehicle-card-body">
                         <h3>Bike & Motorcycle Transport</h3>
@@ -493,7 +493,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             <div class="col-lg-6">
                 <div class="vehicle-card">
                     <div class="vehicle-card-img">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed car carrier truck for safe transit to Phusro" class="img-fluid rounded" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed car carrier truck for safe transit to Phusro" class="img-fluid rounded" loading="lazy">
                     </div>
                     <div class="vehicle-card-body">
                         <h3>Car Carrier & SUV Relocation</h3>
@@ -570,7 +570,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     </ul>
                     <div class="contact-box-cta">
                         <p>Need quotation sets for HR pre-approval?</p>
-                        <a href="tel:+919334800840" class="btn btn-secondary btn-block"><i class="fa fa-phone"></i> Call +91-9334800840</a>
+                        <a href="tel:+919835565233" class="btn btn-secondary btn-block"><i class="fa fa-phone"></i> Call +91 9835565233</a>
                     </div>
                 </div>
             </div>
@@ -840,7 +840,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <h2>Ready for a Smooth Move from Asansol to Phusro?</h2>
         <p>Book with Jharkhand and West Bengal's most trusted moving company. Enjoy same-day delivery, 5-layer packing protection, and 100% damage-free assurance.</p>
         <div class="cta-buttons">
-            <a href="tel:+919334800840" class="btn btn-primary btn-lg"><i class="fa fa-phone-alt"></i> Call Now: +91-9334800840</a>
+            <a href="tel:+919835565233" class="btn btn-primary btn-lg"><i class="fa fa-phone-alt"></i> Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline btn-lg"><i class="fa fa-calendar-alt"></i> Schedule Your Free Survey</a>
         </div>
     </div>

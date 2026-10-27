@@ -617,7 +617,7 @@
             </div>
             <div>
                 <div class="khp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers crew loading household goods in Khagaul Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers crew loading household goods in Khagaul Patna" loading="lazy">
                     <p class="khp-image-caption">Careful handling and loading of household furniture and cartons in Khagaul, Patna.</p>
                 </div>
                 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
@@ -691,7 +691,7 @@
         <div class="khp-grid-2">
             <div>
                 <div class="khp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap and heavy corrugated boxes for Khagaul home shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap and heavy corrugated boxes for Khagaul home shifting" loading="lazy">
                     <p class="khp-image-caption">5-ply corrugated boxes, industrial bubble wrap, and moisture-resistant stretch film used for Khagaul residences.</p>
                 </div>
             </div>
@@ -816,11 +816,11 @@
             </div>
             <div>
                 <div class="khp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled technicians dismantling furniture in Khagaul Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled technicians dismantling furniture in Khagaul Patna" loading="lazy">
                     <p class="khp-image-caption">Expert carpenters dismantling and packaging modular beds and wardrobes for secure transport.</p>
                 </div>
                 <div class="khp-image-box" style="margin-top: 24px;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Khagaul Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Khagaul Patna" loading="lazy">
                     <p class="khp-image-caption">Weatherproof enclosed container trucks ensuring damage-free doorstep delivery in Patna suburbs.</p>
                 </div>
             </div>

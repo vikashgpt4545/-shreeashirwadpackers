@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jharkhand Tourism & Famous Places Near Ranchi | Relocation Travel Guide | Call 9708579999</title>
-    <meta name="description" content="Discover top weekend getaways, waterfalls, and scenic attractions around Ranchi for newly relocated families. Comprehensive travel guide by Shree Ashirwad Packers. Call 9708579999.">
+    <title>Jharkhand Tourism & Famous Places Near Ranchi | Relocation Travel Guide | Call 9835565233</title>
+    <meta name="description" content="Discover top weekend getaways, waterfalls, and scenic attractions around Ranchi for newly relocated families. Comprehensive travel guide by Shree Ashirwad Packers. Call 9835565233.">
     <meta name="keywords" content="jharkhand tourism ranchi, famous places near ranchi, waterfalls in ranchi, patratu valley weekend trip, relocating to ranchi guide, things to do in ranchi, shree ashirwad packers ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/jharkhand-tourism-famous-places-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/jharkhand-tourism-famous-places-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>At Shree Ashirwad Packers and Movers, we believe that moving house is about settling into your new lifestyle, not just moving boxes. Once your cartons are unpacked and your living room furniture is arranged, use this curated weekend travel manual to start exploring the breathtaking destinations around your new home city.</p>
                 </div>
                 <div class="jtfg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit across picturesque Jharkhand highways" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit across picturesque Jharkhand highways" loading="lazy">
                 </div>
             </div>
 
@@ -268,7 +268,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Patratu Valley: Jharkhand's Premier Hill Road & Water Sports Hub</h2>
             <div class="jtfg-grid-2">
                 <div class="jtfg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Unpacking residential goods in Ranchi before exploring Patratu Valley" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Unpacking residential goods in Ranchi before exploring Patratu Valley" loading="lazy">
                 </div>
                 <div>
                     <p>If you ask any long-time Ranchi resident where they take visiting family and weekend guests, the unanimous answer is <strong>Patratu Valley</strong>. Located approximately 35 kilometers north of Ranchi city via Kanke Road and the Pithoria Ghat road, the drive to Patratu rivals the serpentine scenic mountain roads of Himachal or the Western Ghats.</p>
@@ -339,7 +339,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>Betla was one of the first national parks in India to be declared a tiger reserve under Project Tiger in 1974. Spanning pristine Sal and bamboo forests, Betla is home to wild elephant herds, sloth bears, chital, gaur (Indian bison), and leopards. Deep inside the forest stand the colossal 16th-century stone ruins of the Chero Dynasty's Palamu Forts, surrounded by the Auranga River.</p>
                 </div>
                 <div class="jtfg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High quality corrugated packing materials protecting equipment for Jharkhand travels" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High quality corrugated packing materials protecting equipment for Jharkhand travels" loading="lazy">
                 </div>
             </div>
         </section>
@@ -366,7 +366,7 @@ require_once BASE_PATH . '/includes/config.php';
 
             <div class="jtfg-highlight">
                 <h4>Moving to Ranchi? Speak to Jharkhand's Relocation Experts</h4>
-                <p>Whether moving from another state or shifting locally within Ranchi, Shree Ashirwad Packers and Movers delivers verified, licensed, and hassle-free relocation services. Call our customer hotline at <strong>+91 9708579999</strong> or message our support team on WhatsApp today for a transparent, zero-hidden-fee moving estimate.</p>
+                <p>Whether moving from another state or shifting locally within Ranchi, Shree Ashirwad Packers and Movers delivers verified, licensed, and hassle-free relocation services. Call our customer hotline at <strong>+91 9835565233</strong> or message our support team on WhatsApp today for a transparent, zero-hidden-fee moving estimate.</p>
             </div>
         </section>
 

@@ -946,7 +946,7 @@ require_once __DIR__ . '/includes/seo.php';
 
       <div>
         <div class="bhu2r-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating on Bhubaneswar to Ranchi route" width="600" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating on Bhubaneswar to Ranchi route" width="600" height="380" loading="lazy">
           <div class="bhu2r-media-caption">
             <span>🚛 <strong>Express Linehaul:</strong> Dedicated sealed container trucks navigating the 460-km Bhubaneswar-Keonjhar-Ranchi highway corridor.</span>
           </div>
@@ -1098,7 +1098,7 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="bhu2r-grid-2">
       <div>
         <div class="bhu2r-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping for Bhubaneswar to Ranchi move" width="600" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping for Bhubaneswar to Ranchi move" width="600" height="380" loading="lazy">
           <div class="bhu2r-media-caption">
             <span>🛡️ <strong>Furniture Armor:</strong> Multi-layer protective wrapping for wooden workstations, dining sets, and wardrobes.</span>
           </div>
@@ -1142,7 +1142,7 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="h2r-grid-2" style="margin-top:50px;">
       <div>
         <div class="bhu2r-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Padded protective covers for home appliances during Bhubaneswar to Ranchi transit" width="600" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Padded protective covers for home appliances during Bhubaneswar to Ranchi transit" width="600" height="380" loading="lazy">
           <div class="bhu2r-media-caption">
             <span>❄️ <strong>Appliance Shield:</strong> Heavy quilted padded covers securing double-door refrigerators and washing machines.</span>
           </div>
@@ -1150,7 +1150,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
       <div>
         <div class="bhu2r-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery bubble packaging for interstate transit" width="600" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery bubble packaging for interstate transit" width="600" height="380" loading="lazy">
           <div class="bhu2r-media-caption">
             <span>🍽️ <strong>Crockery Safety:</strong> Micro-cushioning and cellular honeycomb boxing for delicate porcelain dinner sets.</span>
           </div>

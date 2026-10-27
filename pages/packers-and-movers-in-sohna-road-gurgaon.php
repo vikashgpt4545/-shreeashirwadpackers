@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Sohna Road",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -476,7 +476,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <h1 class="srg-hero-title">Packers and Movers in Sohna Road Gurgaon</h1>
         <p class="srg-hero-subtitle">Comprehensive Apartment Moving, Villa Relocation & IT Park Corporate Shifting across Subhash Chowk, Sector 47, 48, 49, Vatika City & Orchid Petals.</p>
         <div class="srg-cta-group">
-            <a href="tel:+919334404050" class="srg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="srg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="srg-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -493,7 +493,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="srg-intro-p">Our crew brings extensive familiarity with society gate protocols across Sector 47 to Sector 50. From safeguarding premium wooden flooring with corrugated runners during furniture movement to deploying experienced carpenters for hydraulic bed assembly, we eliminate the friction typically associated with shifting home. Furthermore, our inter-state network seamlessly connects Sohna Road residents to major metros across Eastern India via our central operations at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, backed by comprehensive transit insurance and binding written estimates.</p>
 
         <div class="srg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting truck loading on Sohna Road Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household shifting truck loading on Sohna Road Gurgaon" width="580" height="360">
             <div class="srg-image-caption">Dedicated shifting team staging export cartons and wrapped home furnishings on Sohna Road Gurgaon</div>
         </div>
     </section>
@@ -549,7 +549,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="srg-intro-p">Basement parking heights in societies like Central Park II and Orchid Petals typically restrict vehicle clearance to 2.8 meters. Shree Ashirwad deploys specialized 14-foot low-clearance container trucks and hydraulic pallet dollies that access basement elevator bays directly, minimizing long manual carries and protecting delicate inventory from weather exposure.</p>
 
         <div class="srg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials for apartment shifting on Sohna Road" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials for apartment shifting on Sohna Road" width="580" height="360">
             <div class="srg-image-caption">High-density bubble roll, heavy-duty carton boxes, and corrugated corner guards ready for packing on Sohna Road</div>
         </div>
     </section>
@@ -657,7 +657,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="srg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry on Sohna Road Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry on Sohna Road Gurgaon" width="580" height="360">
             <div class="srg-image-caption">Carpentry experts carefully dismantling modular double beds and wardrobes for scratch-free transit on Sohna Road</div>
         </div>
     </section>
@@ -695,7 +695,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="srg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck on Sohna Road Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck on Sohna Road Gurgaon" width="580" height="360">
             <div class="srg-image-caption">All-weather container trucks delivering safe, reliable, and on-time door-to-door shifting along Sohna Road</div>
         </div>
     </section>

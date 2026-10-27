@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Muzaffarnagar",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>The city's vibrant economic landscape creates ongoing relocation demands for industrial leaders, mill engineers, trade merchants, banking professionals, and government officers. Whether navigating the commercial streets around New Mandi and Roorkee Road or relocating families within upscale residential colonies like Civil Lines, Gandhi Colony, Patel Nagar, and Circular Road, Shree Ashirwad Packers and Movers delivers customized, punctual, and safe relocation services.</p>
 
         <div class="mzn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Muzaffarnagar by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Muzaffarnagar by Shree Ashirwad Packers and Movers">
             <p class="mzn-image-caption">Meticulous truck loading and itemized inventory handling by Shree Ashirwad Packers and Movers Muzaffarnagar.</p>
         </div>
 
@@ -411,7 +411,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Every consignment is managed by a designated relocation supervisor who coordinates inventory tagging, crating protocols, and real-time transit tracking. Our regional operations center ensures direct communication with clients from initial loading to final room-wise placement.</p>
 
         <div class="mzn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Muzaffarnagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Muzaffarnagar">
             <p class="mzn-image-caption">Multi-tier bubble wrapping and reinforced 5-ply cartons safeguard fragile articles.</p>
         </div>
 
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mzn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing in Muzaffarnagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing in Muzaffarnagar">
             <p class="mzn-image-caption">Careful dismantling and packaging of solid wood beds and modular furniture.</p>
         </div>
 
@@ -554,7 +554,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Our local Muzaffarnagar moving crews are familiar with every sector, bypass, and township across the district. From narrow bazaar alleys in Old City and Roorkee Road to spacious residential compounds in Civil Lines, our drivers and handlers arrive punctually with the appropriate vehicle size, moving dollies, and floor protective runners.</p>
 
         <div class="mzn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Muzaffarnagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Muzaffarnagar">
             <p class="mzn-image-caption">Reliable door-to-door covered delivery vehicle ensuring complete transit safety.</p>
         </div>
 
@@ -618,7 +618,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <div class="mzn-faq-item">
             <h3>How do I receive a written estimate for my move in Muzaffarnagar?</h3>
-            <p>Call our direct customer support at +91 93344 04050 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
+            <p>Call our direct customer support at +91 9835565233 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
         </div>
 
         <div class="mzn-faq-item">

@@ -297,7 +297,7 @@ include_once __DIR__ . '/../includes/header.php';
     "name": "Shree Ashirwad Packers and Movers Banashankari Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9334812345",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4500 - INR 55000",
     "address": {
       "@type": "PostalAddress",
@@ -462,7 +462,7 @@ include_once __DIR__ . '/../includes/header.php';
       <p class="bsk-p">Relocating within Banashankari presents distinct operational challenges. Older residential quarters feature multi-level independent bungalows with narrow spiral stairwells, requiring specialized balcony rigging for large furniture. Meanwhile, the southern corridors along Kanakapura Road (NH-209) host expansive high-rise townships with strict moving hours and vehicle size constraints. Shree Ashirwad Packers brings over a decade of hands-on logistical experience to navigate these micro-neighborhood demands flawlessly.</p>
 
       <div class="bsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Banashankari Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Banashankari Bangalore" width="580" height="387" loading="lazy">
         <div class="bsk-image-caption">Dedicated closed container vehicle parked for systematic residential loading in Banashankari 3rd Stage.</div>
       </div>
 
@@ -502,7 +502,7 @@ include_once __DIR__ . '/../includes/header.php';
       </div>
 
       <div class="bsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty bubble wrap and cartons for Banashankari household packing" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty bubble wrap and cartons for Banashankari household packing" width="580" height="387" loading="lazy">
         <div class="bsk-image-caption">Multi-layer protective packaging combining bubble wrap, corrugated sheets, and heavy-duty shrink film.</div>
       </div>
 
@@ -524,7 +524,7 @@ include_once __DIR__ . '/../includes/header.php';
       <p class="bsk-p">Banashankari serves as the gateway to Southwest and South Bangalore, with key arteries including the Outer Ring Road (ORR) connecting PES University to Jayanagar, Kathriguppe Main Road, and Kanakapura Road (NH-209). Heavy traffic surges occur around the Banashankari TTMC bus terminal, Kathriguppe junction, and Kadirenahalli underpass during morning (8:30 AM - 11:00 AM) and evening (5:30 PM - 8:30 PM) commute hours.</p>
 
       <div class="bsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry dismantling of double bed furniture in Banashankari" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry dismantling of double bed furniture in Banashankari" width="580" height="387" loading="lazy">
         <div class="bsk-image-caption">Carpenters carefully dismantling modular furniture before custom wrapping and numbering each component.</div>
       </div>
 
@@ -585,7 +585,7 @@ include_once __DIR__ . '/../includes/header.php';
       <p class="bsk-p">Actual shifting charges depend on cargo volume, packing tier chosen, floor elevation, elevator availability, and travel distance. For an exact customized estimate, use our official <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges calculator</a>.</p>
 
       <div class="bsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed container truck for Banashankari shifting" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed container truck for Banashankari shifting" width="580" height="387" loading="lazy">
         <div class="bsk-image-caption">Dedicated all-weather container trucks ensuring safe and secure door-to-door transit across Banashankari.</div>
       </div>
 

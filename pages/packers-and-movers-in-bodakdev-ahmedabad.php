@@ -33,7 +33,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Bodakdev Ahmedabad",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bodakdev-ahmedabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -411,7 +411,7 @@ $state_name = 'Gujarat';
           <p>Shree Ashirwad Packers and Movers brings more than 16 years of certified industry leadership to Bodakdev Ahmedabad. Our dedicated moving crews combine localized street mastery with ISO-certified multi-layer packaging standards, providing complete turnkey shifting services from meticulous packing to safe placement in your new home. From lakeside condominiums near Vastrapur Lake to faculty housing at IIM Ahmedabad, our crew provides personalized relocation care backed by transparent pricing, real-time GPS tracking, and round-the-clock customer support. Whether moving locally within Bodakdev or relocating across state lines, we offer full packing, safe transportation in covered vehicles, room-by-room placement, modular furniture assembly, and prompt removal of all empty cartons so you can settle in immediately without moving stress. We connect Bodakdev effortlessly to all parts of the state through our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ahmedabad" style="color: #4f46e5; font-weight: 700; text-decoration: underline;">packers and movers in Ahmedabad</a> authority network and interstate routes.</p>
         </div>
         <div class="bdk-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Luxury Villa Relocation in Bodakdev Ahmedabad" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Luxury Villa Relocation in Bodakdev Ahmedabad" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -453,7 +453,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="bdk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Fine Wooden Furniture Wrapping in Bodakdev Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Fine Wooden Furniture Wrapping in Bodakdev Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -578,7 +578,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="bdk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Bodakdev Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Bodakdev Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -614,7 +614,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="bdk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Bodakdev Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Bodakdev Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -645,7 +645,7 @@ $state_name = 'Gujarat';
     <div class="bdk-cta-bar">
       <h3>Ready for a Smooth, Professional Move in Bodakdev?</h3>
       <p>Contact our certified relocation specialists today for an instant free home survey and transparent quote.</p>
-      <a href="tel:+919334484001" class="bdk-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="bdk-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="bdk-section">

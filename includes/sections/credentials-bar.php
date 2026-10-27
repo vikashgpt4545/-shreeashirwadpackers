@@ -15,7 +15,7 @@
         <div class="credential-info">
           <span class="credential-number">4.9 / 5.0</span>
           <span class="credential-title">Google Rating</span>
-          <span class="credential-sub">664+ Reviews • Top Packers and Movers in Ranchi</span>
+          <span class="credential-sub">700+ Reviews • Top Packers and Movers in Ranchi</span>
         </div>
       </div>
 

@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kharadi
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-kharadi-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kharadi-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -156,7 +156,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kharadi
                 "name": "How can I book a pre-move inspection in Kharadi Pune?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "You can reach our dedicated team at +91 93344 04050 or submit our online inquiry form to schedule a free in-person or video inventory survey and receive an itemized quote."
+                    "text": "You can reach our dedicated team at +91 9835565233 or submit our online inquiry form to schedule a free in-person or video inventory survey and receive an itemized quote."
                 }
             }
         ]
@@ -396,7 +396,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kharadi
         <h1>Packers and Movers in Kharadi Pune</h1>
         <p>Premium apartment shifting, corporate employee relocations, and professional packing services across EON Free Zone, World Trade Center, Grant Road, and Eastern Pune's premier IT corridor.</p>
         <div class="khr-btn-wrap">
-            <a href="tel:+919334404050" class="khr-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="khr-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="khr-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -417,7 +417,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kharadi
         <p>Our deep local operational experience in Eastern Pune allows us to navigate high-rise society regulations effortlessly. We coordinate directly with estate management offices, verify basement clearance heights for our covered container trucks, and utilize protective floor runners and padded lift blankets during moving operations.</p>
 
         <div class="khr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Kharadi Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Kharadi Pune">
             <p class="khr-image-caption">Professional moving crews packing and loading household goods into covered container trucks in Kharadi.</p>
         </div>
 
@@ -459,7 +459,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kharadi
         </div>
 
         <div class="khr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Kharadi Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Kharadi Pune">
             <p class="khr-image-caption">Premium five-ply corrugated boxes, air-bubble cushioning, and stretch wrap securing household valuables.</p>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kharadi
         </div>
 
         <div class="khr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Kharadi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Kharadi">
             <p class="khr-image-caption">Expert carpenter dismantling modular double bed frames for safe apartment relocation in Kharadi.</p>
         </div>
 
@@ -609,7 +609,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kharadi
         </div>
 
         <div class="khr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kharadi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kharadi">
             <p class="khr-image-caption">Reliable covered container vehicles delivering safe door-to-door household shifting across Kharadi.</p>
         </div>
 
@@ -678,7 +678,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kharadi
 
         <div class="khr-faq-item">
             <h3>How can I book a pre-move inspection in Kharadi Pune?</h3>
-            <p>You can reach our dedicated team at +91 93344 04050 or submit our online inquiry form to schedule a free in-person or video inventory survey and receive an itemized quote.</p>
+            <p>You can reach our dedicated team at +91 9835565233 or submit our online inquiry form to schedule a free in-person or video inventory survey and receive an itemized quote.</p>
         </div>
     </section>
 

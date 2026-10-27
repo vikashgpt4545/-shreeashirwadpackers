@@ -568,7 +568,7 @@
             </div>
             <div>
                 <div class="tlg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Tollygunge Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Tollygunge Kolkata" width="580" height="380">
                     <div class="tlg-image-caption">Professional loading of household consignments using secure ramp systems in Tollygunge Kolkata.</div>
                 </div>
             </div>
@@ -698,7 +698,7 @@
             </div>
             <div>
                 <div class="tlg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging for household fragile goods in Tollygunge Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging for household fragile goods in Tollygunge Kolkata" width="580" height="380">
                     <div class="tlg-image-caption">Multi-layer bubble wrap protection and heavy-duty corrugated cartons for Tollygunge homes.</div>
                 </div>
             </div>
@@ -762,7 +762,7 @@
             </div>
             <div>
                 <div class="tlg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and double bed packing in Tollygunge Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and double bed packing in Tollygunge Kolkata" width="580" height="380">
                     <div class="tlg-image-caption">Carpentry technicians safely dismantling wooden double beds and wardrobes in Tollygunge.</div>
                 </div>
             </div>
@@ -814,7 +814,7 @@
             </div>
             <div>
                 <div class="tlg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed body delivery truck providing door to door shifting in Tollygunge Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed body delivery truck providing door to door shifting in Tollygunge Kolkata" width="580" height="380">
                     <div class="tlg-image-caption">Weather-sealed container truck delivering door-to-door relocation consignments in Tollygunge.</div>
                 </div>
             </div>

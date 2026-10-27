@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bidhannagar-durgapur#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bidhannagar-durgapur",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bdn-body-p">At Shree Ashirwad Packers and Movers, we have served the Bidhannagar community for over sixteen years. Whether you are transitioning between independent villas in Bidhannagar Sector 2, moving into modern high-rise apartments along Shahid Khudiram Sarani, or transferring to another city across West Bengal or India, our trained moving crews provide flawless packing and handling. Our close working relationship with parent city transport hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durgapur">Packers and Movers in Durgapur</a> guarantees seamless logistics whether your consignment travels five kilometers or fifteen hundred kilometers.</p>
 
                 <div class="bdn-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bidhannagar Durgapur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bidhannagar Durgapur">
                     <div class="bdn-image-caption">Systematic loading of palletized cartons and furniture in Bidhannagar, Durgapur.</div>
                 </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdn-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Bidhannagar Durgapur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Bidhannagar Durgapur">
                     <div class="bdn-image-caption">Multi-layered protective packing materials used for fragile household items.</div>
                 </div>
 
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdn-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Bidhannagar Durgapur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Bidhannagar Durgapur">
                     <div class="bdn-image-caption">Skilled carpenters dismantling and protective wrapping modular bed sets in Bidhannagar.</div>
                 </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdn-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bidhannagar Durgapur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bidhannagar Durgapur">
                     <div class="bdn-image-caption">Dedicated door-to-door closed carrier truck operating in Bidhannagar, Durgapur.</div>
                 </div>
 
@@ -744,7 +744,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Dedicated Branch Desk:</strong> Tagore School More, Shahid Khudiram Sarani</li>
                     <li><strong>Service Timings:</strong> 7:00 AM - 9:30 PM (Daily)</li>
-                    <li><strong>Phone Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Phone Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bdn-cta-button">Request Free Moving Quote</a>

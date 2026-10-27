@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Visakhapatnam",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-visakhapatnam",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -502,7 +502,7 @@
     <p>The city's residential landscape has expanded phenomenally, spanning established upscale localities such as Siripuram, Waltair Uplands, Pandurangapuram, Dwaraka Nagar, and MVP Colony (one of Asia's largest planned residential layouts) to booming suburban high-rise clusters like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-madhurawada-visakhapatnam" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Madhurawada Visakhapatnam</a> along the Rushikonda IT corridor, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-seethammadhara-visakhapatnam" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Seethammadhara Visakhapatnam</a>, and the massive industrial belt of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gajuwaka-visakhapatnam" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Gajuwaka Visakhapatnam</a>.</p>
 
     <div class="vsp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Visakhapatnam Andhra Pradesh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Visakhapatnam Andhra Pradesh" loading="lazy">
       <p class="vsp-image-caption">Disciplined residential quarter shifting and systematic loading operations in Visakhapatnam.</p>
     </div>
 
@@ -609,7 +609,7 @@
     </div>
 
     <div class="vsp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Visakhapatnam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Visakhapatnam" loading="lazy">
       <p class="vsp-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Visakhapatnam.</p>
     </div>
 
@@ -641,7 +641,7 @@
     </div>
 
     <div class="vsp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Visakhapatnam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Visakhapatnam" loading="lazy">
       <p class="vsp-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -655,7 +655,7 @@
     <p>Our local dispatchers coordinate moves during early morning hours (6:30 AM to 8:30 AM) to avoid heavy port container congestion along the Port Connectivity Road and Scindia Junction. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="vsp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Visakhapatnam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Visakhapatnam" loading="lazy">
       <p class="vsp-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -745,7 +745,7 @@
   <section class="vsp-cta-banner">
     <h3>Plan Your Stress-Free Move in Visakhapatnam Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="vsp-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="vsp-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

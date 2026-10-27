@@ -981,7 +981,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2chd-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck navigating Chandigarh to Ranchi highway" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck navigating Chandigarh to Ranchi highway" loading="lazy">
           <div class="r2chd-img-caption">Dedicated sealed linehaul container truck navigating the Chandigarh-GT Road-Ranchi corridor</div>
         </div>
       </div>
@@ -1000,7 +1000,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2chd-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household defensive packing for Chandigarh to Ranchi moving" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer complete household defensive packing for Chandigarh to Ranchi moving" loading="lazy">
           <div class="r2chd-img-caption">Multi-layer protective packaging engineered for delicate glassware, electronics, and furniture</div>
         </div>
       </div>
@@ -1182,7 +1182,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2chd-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading for vehicle relocation between Chandigarh and Ranchi" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading for vehicle relocation between Chandigarh and Ranchi" loading="lazy">
           <div class="r2chd-img-caption">Hydraulic car carrier loading with wheel-chocks and protective coverings</div>
         </div>
       </div>
@@ -1201,7 +1201,7 @@ require_once __DIR__ . '/includes/seo.php';
           </ul>
         </div>
         <div class="r2chd-feature-img">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room furniture arrangement in Ranchi" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room furniture arrangement in Ranchi" loading="lazy">
           <div class="r2chd-img-caption">Comprehensive destination unloading and room setup service in Ranchi residences</div>
         </div>
       </div>

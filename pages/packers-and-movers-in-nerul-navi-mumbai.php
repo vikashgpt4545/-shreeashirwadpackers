@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-nerul-n
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-nerul-navi-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-nerul-navi-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Nerul Navi Mumbai</h1>
         <p>Premier residential packing, luxury apartment relocation, modular furniture assembly, and insured vehicle transport across Seawoods Grand Central, Palm Beach Road, NRI Complex, and Sector 19 with zero transit stress.</p>
         <div class="nrl-btn-wrap">
-            <a href="tel:+919334404050" class="nrl-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="nrl-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="nrl-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of relocation mastery directly to Nerul. Shifting in this upscale enclave presents distinctive requirements: navigating gated community security protocols, coordinating service elevator reservations in 30-plus-story towers, and managing basement clearance heights for covered container trucks. Our crews arrive fully equipped with heavy-duty furniture sliders, rubberized floor protection runners, and enclosed, weatherproof container vehicles.</p>
 
         <div class="nrl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers truck loading in Nerul Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers truck loading in Nerul Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="nrl-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Nerul Navi Mumbai.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="nrl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Nerul Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Nerul Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="nrl-image-caption">Multi-layer protective bubble wrap rolls and heavy-gauge corrugated boxes engineered for high-rise apartment shifting in Nerul.</p>
         </div>
 
@@ -619,7 +619,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="nrl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Nerul Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Nerul Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="nrl-image-caption">Carpentry technicians systematically dismantling and wrapping modular furniture panels prior to loading in Nerul.</p>
         </div>
 
@@ -667,7 +667,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="nrl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Nerul Navi Mumbai relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Nerul Navi Mumbai relocation" width="580" height="387" loading="lazy">
             <p class="nrl-image-caption">Dedicated enclosed moving vehicle stationed for on-time residential shifting in a Nerul apartment complex.</p>
         </div>
 
@@ -742,7 +742,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="nrl-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Planning a Move in or out of Nerul?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Reach out to our moving specialists today for an obligation-free doorstep quotation and seamless relocation coordination.</p>
-            <a href="tel:+919334404050" class="nrl-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="nrl-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

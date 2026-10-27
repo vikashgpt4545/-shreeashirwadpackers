@@ -264,7 +264,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ben
 
         <!-- Verified Image Callout 1 -->
         <div style="max-width: 420px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Shifting Packaging in Bengabad Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Shifting Packaging in Bengabad Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           Multi-layer bubble wrap, heavy corrugated sheets, and edge-shielding applied for residential shifting in Bengabad.
@@ -357,7 +357,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ben
 
         <!-- Verified Image Callout 2 -->
         <div style="max-width: 420px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Bengabad Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Bengabad Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           All-weather sealed container trucks providing safe door-to-door transit from Bengabad across Jharkhand and India.
@@ -475,7 +475,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ben
 
         <!-- Verified Image Callout 3 -->
         <div style="max-width: 480px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Carrier Transport Bengabad Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Carrier Transport Bengabad Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           Professional car carrier loading and motorbike transport with safety tie-downs and full insurance in Bengabad.
@@ -557,7 +557,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ben
 
         <!-- Verified Image Callout 4 -->
         <div style="max-width: 480px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Warehouse Bengabad" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Warehouse Bengabad" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           CCTV-monitored, moisture-proof, secure warehouse and commercial storage facilities serving Bengabad and Giridih.

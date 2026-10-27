@@ -544,7 +544,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Across Sector 1, Sector 4, Sector 10, Sector 12, Sector 16B, and Sector 16C, our services extend through prominent townships such as Mahagun Mywoods, ACE City, Panchsheel Greens, Supertech Ecovillage 2 &amp; 3, Paramount Emotions, and Bisrakh residential belts. We also provide seamless daily transit connecting Greater Noida West with Central Noida (Sectors 62, 63, 75, 76, 78) and Greater Noida Knowledge Park.</p>
 
         <div class="gnwt-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Greater Noida West Noida Extension" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Greater Noida West Noida Extension" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our logistics coordinators strategically time vehicle departures to bypass commuter choke points at Char Murti (Kisan Chowk), Ek Murti, and the Parthala Flyover link. By coordinating entry timings with gated society facility managers and utilizing the FNG corridor bypass, we guarantee timely dispatches without roadside bottlenecks.</p>
@@ -600,7 +600,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="gnwt-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Greater Noida West to Bangalore, Mumbai and pan-India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Greater Noida West to Bangalore, Mumbai and pan-India" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -636,7 +636,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="gnwt-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Greater Noida West" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Greater Noida West" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -707,7 +707,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="gnwt-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Greater Noida West" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Greater Noida West" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad in Greater Noida West -->

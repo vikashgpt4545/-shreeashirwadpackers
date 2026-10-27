@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-medavakkam-chennai";
         "name": "Shree Ashirwad Packers and Movers Medavakkam Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-medavakkam-chennai";
         <p>The skyline of Medavakkam is characterized by sprawling gated apartment townships, contemporary high-rise towers, and master-planned residential communities along the Velachery-Tambaram Main Road, Perumbakkam Road, and Medavakkam-Mambakkam Road. Successfully executing relocations in these expansive developments requires a specialized moving partner equipped with floor-protection runners, elevator padding, and a deep understanding of community bylaws. Shree Ashirwad Packers and Movers delivers premium, damage-free moving solutions tailored specifically to the Medavakkam lifestyle.</p>
 
         <div class="mdv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment goods loading in Medavakkam Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment goods loading in Medavakkam Chennai" width="580" height="387" loading="lazy">
             <div class="mdv-image-caption">Professional apartment loading and elevator management in high-rise societies in Medavakkam.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-medavakkam-chennai";
         </div>
 
         <div class="mdv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective covering in Medavakkam Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective covering in Medavakkam Chennai" width="580" height="387" loading="lazy">
             <div class="mdv-image-caption">Custom padded jackets and bubble wrapping for household appliances in Medavakkam.</div>
         </div>
 
@@ -597,7 +597,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-medavakkam-chennai";
         <p>Large wooden furnishings such as rosewood dining sets, ornate display cabinets, and plush sectional sofas are swaddled in padded moving blankets and secured with heavy-duty stretch film to guard against atmospheric moisture, dust, and transit friction.</p>
 
         <div class="mdv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Medavakkam Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Medavakkam Chennai" width="580" height="387" loading="lazy">
             <div class="mdv-image-caption">Multi-layer protective bubble wrap and corner protectors for luxury furniture in Medavakkam.</div>
         </div>
 
@@ -721,7 +721,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-medavakkam-chennai";
         </ol>
 
         <div class="mdv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck transport along Medavakkam corridor Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck transport along Medavakkam corridor Chennai" width="580" height="387" loading="lazy">
             <div class="mdv-image-caption">Weatherproof sealed container carriers engineered for safe transit across South Chennai.</div>
         </div>
     </section>
@@ -778,7 +778,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-medavakkam-chennai";
     <div class="mdv-cta-box">
         <h3>Book Your Stress-Free Medavakkam Move Today</h3>
         <p>Get a guaranteed fixed-price quote with zero surprise charges. Fully insured, certified packing specialists ready to move your household or office today.</p>
-        <a href="tel:+919334404050" class="mdv-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="mdv-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

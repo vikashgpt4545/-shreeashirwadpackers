@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="pc-intro-p">Surrounding Pari Chowk are elite residential landscapes, led by the world-renowned Jaypee Greens golf estate with its sprawling luxury villas, designer penthouses, and private golf greens. Adjacent residential sectors include NRI City, Eldeco Green Meadows, Parsvnath Platinum, Sector Alpha 1, Sector Gamma 1, and the Kasna Road institutional corridor. Relocating within this signature micro-market demands extraordinary finesse. Plotted luxury villas require specialized white-glove packing for delicate crystal chandeliers, antique teak furniture, high-value art canvases, imported marble consoles, and golf cart transport. Conversely, nearby high-rise condominiums require seamless gate-entry coordination, service elevator protection, and swift transit through regulated expressway access corridors. Shree Ashirwad Packers and Movers has operated its primary Greater Noida terminal adjacent to Pari Chowk for over a decade, providing unmatched speed, reliability, and security for every relocation.</p>
 
         <div class="pc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Pari Chowk Greater Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Pari Chowk Greater Noida" width="580" height="360">
             <div class="pc-image-caption">Dedicated fleet loading and containerized cargo handling at our Pari Chowk operational hub</div>
         </div>
 
@@ -575,7 +575,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Pari Chowk homes" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Pari Chowk homes" width="580" height="360">
             <div class="pc-image-caption">Shock-absorbent bubble wraps, thermocol padding, and reinforced 5-ply cartons safeguard fragile luxury decor</div>
         </div>
 
@@ -642,7 +642,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Pari Chowk" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Pari Chowk" width="580" height="360">
             <div class="pc-image-caption">Master carpenters disassembling modular beds and wardrobes for scratch-free elevator transport</div>
         </div>
 
@@ -699,7 +699,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Pari Chowk" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Pari Chowk" width="580" height="360">
             <div class="pc-image-caption">Weatherproof covered container trucks providing safe door-to-door delivery across Greater Noida</div>
         </div>
     </section>

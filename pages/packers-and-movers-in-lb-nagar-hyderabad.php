@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers LB Nagar",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-lb-nagar-hyderabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -551,7 +551,7 @@
     <p>Our dedicated LB Nagar team operates 365 days a year, providing custom weekend shifts and evening loading solutions tailored to families, working professionals, and commercial businesses requiring minimal disruption to their daily schedules.</p>
 
     <div class="lbn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in LB Nagar Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in LB Nagar Hyderabad" loading="lazy">
       <p class="lbn-image-caption">Careful loading operations and apartment logistics across residential enclaves in LB Nagar Hyderabad.</p>
     </div>
   </section>
@@ -584,7 +584,7 @@
     <p>Additionally, our on-site technicians handle full dismantling and reassembly for modular beds, complex wardrobe systems, and office modular cubicles, relieving clients of tedious handyman coordination on moving day.</p>
 
     <div class="lbn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Office Equipment Packing in LB Nagar" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Office Equipment Packing in LB Nagar" loading="lazy">
       <p class="lbn-image-caption">Secure anti-static wrapping and heavy-duty carton packing for commercial IT systems in LB Nagar.</p>
     </div>
   </section>
@@ -646,7 +646,7 @@
     <p>Our billing structure contains zero hidden fuel surcharges or ambiguous stair-carry fees. Everything is clearly committed in a binding digital quotation before any packing commences.</p>
 
     <div class="lbn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in LB Nagar" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in LB Nagar" loading="lazy">
       <p class="lbn-image-caption">Reinforced protective wrapping for mahogany wardrobes and designer sofas before transit.</p>
     </div>
   </section>
@@ -722,7 +722,7 @@
     <p>Whether relocating a quiet apartment near Kamineni Hospital or managing a commercial freight move along the Vijayawada Highway, our operations team ensures that all logistics tasks are executed smoothly without unnecessary delays.</p>
 
     <div class="lbn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in LB Nagar" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in LB Nagar" loading="lazy">
       <p class="lbn-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
   </section>
@@ -807,7 +807,7 @@
   <section class="lbn-cta-banner">
     <h3>Book Your Reliable Move in LB Nagar Today!</h3>
     <p>Contact our friendly relocation experts for a free pre-move survey, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Hyderabad and India.</p>
-    <a class="lbn-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="lbn-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

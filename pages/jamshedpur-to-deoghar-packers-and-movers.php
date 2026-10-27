@@ -727,7 +727,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-deoghar-pac
                 </div>
             </div>
             <div class="jsr2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Jamshedpur to Deoghar Shifting" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Jamshedpur to Deoghar Shifting" width="600" height="400" loading="lazy">
                 <div class="jsr2d-img-caption">Sealed container trucks providing dust-proof, rain-safe, and rapid 6 hr highway transit between Jamshedpur and Deoghar.</div>
             </div>
         </div>
@@ -844,7 +844,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-deoghar-pac
     <section class="jsr2d-section" style="background: #ffffff;">
         <div class="jsr2d-grid-2">
             <div class="jsr2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Protective packing for fragile household and corporate items" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Protective packing for fragile household and corporate items" width="600" height="400" loading="lazy">
                 <div class="jsr2d-img-caption">5-layer protective packaging shielding household goods from highway dust, vibration, and handling shocks.</div>
             </div>
             <div>
@@ -915,7 +915,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-deoghar-pac
                 </div>
             </div>
             <div class="jsr2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Hydraulic Car Carrier Jamshedpur to Deoghar" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Hydraulic Car Carrier Jamshedpur to Deoghar" width="600" height="400" loading="lazy">
                 <div class="jsr2d-img-caption">Hydraulic car loading ramp ensuring safe ground clearance and zero chassis scrapings for personal vehicles.</div>
             </div>
         </div>
@@ -979,7 +979,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-deoghar-pac
                 </div>
             </div>
             <div class="jsr2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Deoghar" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Deoghar" width="600" height="400" loading="lazy">
                 <div class="jsr2d-img-caption">Professional doorstep unpacking, room placement, bed assembly, and packing waste clearance in Deoghar.</div>
             </div>
         </div>

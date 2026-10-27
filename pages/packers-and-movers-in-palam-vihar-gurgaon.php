@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Palam Vihar Gurgaon",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹49,000",
         "address": {
             "@type": "PostalAddress",
@@ -472,7 +472,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="pvg-hero-title">Packers and Movers in Palam Vihar Gurgaon</h1>
         <p class="pvg-hero-subtitle">Premium residential shifting, kothi & builder floor furniture relocations, and inter-state logistics across Ansal Palam Vihar, Bajghera, and Delhi border corridors with zero damage guarantee.</p>
         <div class="pvg-cta-group">
-            <a href="tel:+919334404050" class="pvg-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="pvg-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pvg-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="pvg-intro-p">Originally developed by Ansal API across sprawling Blocks A through J, Palam Vihar blends charming independent villas, multi-level modern builder floors, and gated group housing communities such as Bestech Park View Residency and Celebrity Homes. With its tree-lined avenues, vibrant shopping centers including Spanish Court and Vyapar Kendra, and exceptional proximity to New Delhi, shifting in Palam Vihar requires specialized local knowledge of gate security timings, stair navigation, and border connectivity.</p>
 
         <div class="pvg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Palam Vihar Gurgaon container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Palam Vihar Gurgaon container truck" width="580" height="386" loading="lazy">
             <p class="pvg-image-caption">Systematic loading and protective padding of residential goods in Palam Vihar Gurgaon.</p>
         </div>
 
@@ -525,7 +525,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pvg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layered bubble wrapping for glassware and electronics in Palam Vihar" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layered bubble wrapping for glassware and electronics in Palam Vihar" width="580" height="386" loading="lazy">
             <p class="pvg-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pvg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed and wooden furniture dismantling by carpentry staff in Palam Vihar" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed and wooden furniture dismantling by carpentry staff in Palam Vihar" width="580" height="386" loading="lazy">
             <p class="pvg-image-caption">Professional furniture disassembly and wrapped timber protection for duplex homes.</p>
         </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pvg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Palam Vihar Gurgaon" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Palam Vihar Gurgaon" width="580" height="386" loading="lazy">
             <p class="pvg-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

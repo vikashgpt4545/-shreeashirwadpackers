@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Vidhyadhar Nagar Jaipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-vidhyadhar-nagar-jaipur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -237,7 +237,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="csm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Vidhyadhar Nagar Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Vidhyadhar Nagar Jaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -262,7 +262,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="vdn-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Vidhyadhar Nagar Jaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Vidhyadhar Nagar Jaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -430,7 +430,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="vdn-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Vidhyadhar Nagar Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Vidhyadhar Nagar Jaipur" width="580" height="380" loading="lazy">
                 </div>
                 <div class="vdn-highlight" style="margin-top: 24px;">
                     <strong>Sikar Road Highway Access:</strong> Located right alongside NH 52 (Sikar Road), our trucks enjoy seamless departure toward Sikar, Bikaner, Haryana, and Delhi NCR without facing inner-city morning transit bans.
@@ -465,7 +465,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="vdn-grid-2">
             <div>
                 <div class="vdn-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Jaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>

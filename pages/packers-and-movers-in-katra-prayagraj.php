@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Katra Prayagraj",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="ktp-hero-title">Packers and Movers in Katra Prayagraj</h1>
         <p class="ktp-hero-subtitle">University Heartland Relocation, Faculty Quarter Moving, Student Hostel Transit &amp; Dedicated Academic Shifting Across Prayagraj</p>
         <div class="ktp-cta-group">
-            <a href="tel:+919334404050" class="ktp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="ktp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ktp-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -508,7 +508,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ktp-intro-p">The relocation requirements in Katra are distinct and varied. They span from professors shifting extensive research libraries, rare manuscripts, and ancestral home furniture to university scholars and competitive aspirants moving between hostels, paying guest accommodations, and rental flats along University Road. Shree Ashirwad Packers and Movers delivers a tailored, reliable, and deeply respectful moving service designed to address the specific challenges of Katra’s academic and residential community.</p>
 
         <div class="ktp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household and Academic Moving Crew in Katra Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household and Academic Moving Crew in Katra Prayagraj" width="580" height="380" loading="lazy">
             <p class="ktp-image-caption">Our experienced moving team executing organized household packing and safe vehicle loading in Katra Prayagraj.</p>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ktp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Careful Packing of Household and Study Materials in Katra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Careful Packing of Household and Study Materials in Katra" width="580" height="380" loading="lazy">
             <p class="ktp-image-caption">High-grade 5-ply cartons and air-bubble cushioning protecting study materials, electronics, and household goods in Katra.</p>
         </div>
     </section>
@@ -688,7 +688,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ktp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Assembly in Katra Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Assembly in Katra Prayagraj" width="580" height="380" loading="lazy">
             <p class="ktp-image-caption">Professional carpentry crew carefully dismantling wooden furniture and bed frames in Katra Prayagraj.</p>
         </div>
     </section>
@@ -701,7 +701,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ktp-intro-p">Relocations bound for northern destinations like Lucknow connect swiftly via the Prayagraj-Lucknow Highway, covering the distance in under 5 hours. Westbound transfers to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>, Agra, and Delhi NCR join the Grand Trunk NH-19 corridor, while eastbound routes to Varanasi, Patna, and our corporate center in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> follow the high-speed NH-19 expressway with minimal checkpoint delays.</p>
 
         <div class="ktp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed Door-to-Door Delivery Fleet in Katra Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed Door-to-Door Delivery Fleet in Katra Prayagraj" width="580" height="380" loading="lazy">
             <p class="ktp-image-caption">Our weather-resistant closed container truck fleet ensuring clean, protected door-to-door deliveries from Katra.</p>
         </div>
 
@@ -768,7 +768,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Schedule Your Smooth Move in Katra Prayagraj</h3>
         <p>Contact our Katra relocation team today for a tailored quote, expert packing assistance, and reliable doorstep moving experience.</p>
         <div class="ktp-cta-group">
-            <a href="tel:+919334404050" class="ktp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="ktp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ktp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

@@ -537,7 +537,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p><strong>1. All-Risk Comprehensive Insurance (3% of Declared Value):</strong> This is the premier coverage tier for household shifting. It covers physical loss or damage caused by accidental handling, loading, transit vibrations, road bumps, accidental vehicle overturn, fire, and water ingress. If an LED TV screen cracks, a wooden dining table suffers a deep gouge, or a carton of chinaware breaks, an All-Risk policy compensates you for repair or replacement value minus a standard deductible.</p>
 
         <div class="ticg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for insured safe household shifting across India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for insured safe household shifting across India" width="580" height="386" loading="lazy">
         </div>
 
         <p><strong>2. Transit-Only / Road Hazard Insurance (1.5% of Declared Value):</strong> This is a budget-tier policy with much narrower coverage. It <strong>only</strong> covers total loss or catastrophic destruction occurring while the vehicle is in motion due to highway collisions, vehicular fire, vehicle overturn, or acts of God (force majeure). It strictly <strong>excludes</strong> handling damages, scratches, chipped edges, or localized breakages during loading, unloading, or transit stops.</p>
@@ -603,7 +603,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ticg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for insured intercity relocation with complete claim protection" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for insured intercity relocation with complete claim protection" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: The 6-Step Claim Settlement Protocol -->
@@ -639,7 +639,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ticg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging inspected for transit insurance claims" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging inspected for transit insurance claims" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Mandatory Documents for Claim Approval -->
@@ -693,7 +693,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>To verify proper billing protocols for insurance reimbursement, check our guide on <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-bill-format" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">IBA Approved Packers and Movers Bill Formats</a>, explore our guide on <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-gst-rate" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">Packers and Movers GST Rates (18% vs 5%)</a>, and calculate relocation costs with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">live moving rate calculator</a>.</p>
 
         <div class="ticg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding with full transit insurance protection" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding with full transit insurance protection" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad for Insured Moving -->

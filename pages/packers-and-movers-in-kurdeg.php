@@ -252,7 +252,7 @@ require_once "includes/config.php";
                 <!-- First Feature Image: 3:4 Responsive Container -->
                 <div class="content-image-wrapper" style="max-width: 420px; margin: 35px auto;">
                     <div style="position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Kurdeg Simdega" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Kurdeg Simdega" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; text-align: center; font-style: italic;">
                         Figure 1: Dedicated all-weather closed container truck handling door-to-door household goods transport in Kurdeg and Simdega district.
@@ -301,7 +301,7 @@ require_once "includes/config.php";
                 <!-- Second Feature Image: 3:4 Responsive Container -->
                 <div class="content-image-wrapper" style="max-width: 420px; margin: 35px auto;">
                     <div style="position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy carton packing in Kurdeg by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy carton packing in Kurdeg by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; text-align: center; font-style: italic;">
                         Figure 2: Meticulous multi-layer air bubble wrap, edge guards, and heavy-duty corrugated cartons deployed for household shifting in Kurdeg.
@@ -374,7 +374,7 @@ require_once "includes/config.php";
                 <!-- Third Feature Image: 3:4 Responsive Container -->
                 <div class="content-image-wrapper" style="max-width: 420px; margin: 35px auto;">
                     <div style="position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicle in Kurdeg Simdega" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicle in Kurdeg Simdega" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; text-align: center; font-style: italic;">
                         Figure 3: Enclosed vehicle carrier truck loading cars and motorcycles safely for interstate transport from Kurdeg, Simdega.
@@ -511,7 +511,7 @@ require_once "includes/config.php";
                 <!-- Fourth Feature Image: 3:4 Responsive Container -->
                 <div class="content-image-wrapper" style="max-width: 420px; margin: 35px auto;">
                     <div style="position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and residential storage warehouse facility serving Kurdeg Simdega" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and residential storage warehouse facility serving Kurdeg Simdega" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="font-size: 0.9rem; color: #64748b; margin-top: 10px; text-align: center; font-style: italic;">
                         Figure 4: Secure, weatherproof storage warehouse for household furniture, commercial inventory, and equipment in Jharkhand.

@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jaipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaipur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 68,000",
         "address": {
             "@type": "PostalAddress",
@@ -237,7 +237,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jpr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive Household Packing and Moving in Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive Household Packing and Moving in Jaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -384,7 +384,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jpr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing in Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing in Jaipur" width="580" height="380" loading="lazy">
                 </div>
                 <div class="jpr-highlight" style="margin-top: 24px;">
                     <strong>Why Multi-Layer Packing Matters in Rajasthan:</strong> Due to dry heat, desert dust winds, and lengthy highway stretches on NH 48, NH 21, and the Delhi-Mumbai Expressway, our multi-layer hermetic wrapping protects polished finishes from fine dust and vibrations.
@@ -412,7 +412,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="jpr-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading inside Container Truck in Jaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading inside Container Truck in Jaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -447,7 +447,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="jpr-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Shifting and Moving Crew in Jaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Shifting and Moving Crew in Jaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 

@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sholinganallur-chennai"
         "name": "Shree Ashirwad Packers and Movers Sholinganallur Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -516,7 +516,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sholinganallur-chennai"
         <h1>Packers and Movers in Sholinganallur Chennai | IT Hub Shifting</h1>
         <p>Premium apartment shifting, corporate IT office relocations, gated township moving, and vehicle shipping across ELCOT SEZ, ECR Link Road, and OMR Junction.</p>
         <div class="snl-btn-wrap">
-            <a href="tel:+919334404050" class="snl-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="snl-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="snl-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -529,7 +529,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sholinganallur-chennai"
         <p class="snl-intro-p">This dynamic tech influx has spurred the development of landmark high-rise residential townships such as Casagrand Royale, Prestige Courtyards, Appaswamy Platina, and Lancor TCP. Moving within these mega residential developments requires strict adherence to security protocols, service elevator bookings, and zero-damage furniture handling. At <strong>Shree Ashirwad Packers and Movers</strong>, working in seamless alignment with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Packers and Movers in Chennai</a>, we offer customized moving strategies engineered specifically for Sholinganallur's tech workforce.</p>
 
         <div class="snl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Sholinganallur Chennai Household Packing" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Sholinganallur Chennai Household Packing" width="580" height="380" loading="lazy">
             <p class="snl-image-caption">Careful multi-layer household wrapping and fragile carton packaging by Shree Ashirwad in Sholinganallur</p>
         </div>
 
@@ -584,7 +584,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sholinganallur-chennai"
         </div>
 
         <div class="snl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection in Sholinganallur Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection in Sholinganallur Chennai" width="580" height="380" loading="lazy">
             <p class="snl-image-caption">Dedicated high-density edge protection and multi-layer bubble wrap for modern furniture in Sholinganallur</p>
         </div>
     </section>
@@ -649,7 +649,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sholinganallur-chennai"
 
         <div class="snl-highlight-box">
             <h3>Get Your Guaranteed Moving Quote Today</h3>
-            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Sholinganallur moving desk directly at <strong>+91 9334404050</strong> for a complimentary pre-move assessment.</p>
+            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Sholinganallur moving desk directly at <strong>+91 9835565233</strong> for a complimentary pre-move assessment.</p>
         </div>
     </section>
 
@@ -704,7 +704,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sholinganallur-chennai"
         </div>
 
         <div class="snl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Sholinganallur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Sholinganallur" width="580" height="380" loading="lazy">
             <p class="snl-image-caption">Individual bubble wrapping and compartmentalized cartons for crystal and fine chinaware in Sholinganallur</p>
         </div>
     </section>
@@ -742,7 +742,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sholinganallur-chennai"
         </div>
 
         <div class="snl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Sholinganallur Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Sholinganallur Chennai" width="580" height="380" loading="lazy">
             <p class="snl-image-caption">Modern enclosed container trucks ensuring weatherproof and secure transit across Chennai and interstate</p>
         </div>
     </section>

@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampore#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampore",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bhp-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized packing experience to Berhampore. Whether you are relocating your family between apartments near Panchanantala, moving an administrative officer residence from Gorabazar, or transitioning to another district across West Bengal or India, our trained moving crews execute every detail with precision. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door relocation across India.</p>
 
                 <div class="bhp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Berhampore">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Berhampore">
                     <div class="bhp-image-caption">Systematic loading of household goods and cartons in Berhampore (Baharampur).</div>
                 </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bhp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Berhampore">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Berhampore">
                     <div class="bhp-image-caption">Multi-layered protective packing materials used for fragile household items in Berhampore.</div>
                 </div>
 
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bhp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Berhampore">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Berhampore">
                     <div class="bhp-image-caption">Skilled carpenters dismantling and protective wrapping modular bed sets in Berhampore.</div>
                 </div>
 
@@ -694,7 +694,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bhp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Berhampore">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Berhampore">
                     <div class="bhp-image-caption">Dedicated door-to-door closed carrier truck operating in Berhampore.</div>
                 </div>
 
@@ -751,7 +751,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Near Panchanantala More, NH 12, Gorabazar, Berhampore</li>
                     <li><strong>Service Hours:</strong> 6:30 AM - 9:30 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bhp-cta-button">Request Free Moving Quote</a>

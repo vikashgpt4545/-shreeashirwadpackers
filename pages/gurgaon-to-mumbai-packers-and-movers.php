@@ -56,7 +56,7 @@ $page_keywords = "packers and movers gurgaon to mumbai, gurgaon to mumbai househ
         "name": "Shree Ashirwad Packers and Movers Gurgaon",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334421111",
+        "telephone": "+91 9835565233",
         "priceRange": "₹15,000 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -205,7 +205,7 @@ $page_keywords = "packers and movers gurgaon to mumbai, gurgaon to mumbai househ
             <p>The standard transit distance is approximately 1,390 km, primarily routed along the Western National Highway corridor (NH48) traversing Rajasthan (Jaipur, Udaipur), Gujarat (Ahmedabad, Vadodara, Surat), and Maharashtra (Thane / Ghodbunder) into Mumbai. Utilizing our closed all-weather container fleet, your household goods remain fully sheltered from highway dust, monsoons, and transit vibrations throughout the 3 to 4-day journey.</p>
             
             <div class="ggmb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on Gurgaon to Mumbai national highway corridor" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on Gurgaon to Mumbai national highway corridor" width="580" height="340" loading="lazy">
             </div>
             
             <p>For return relocations back to Delhi NCR, we provide regular daily container departures through our synchronized <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-gurgaon-packers-and-movers">Mumbai to Gurgaon packers and movers service</a>, featuring identical quality benchmarks and transparent terms.</p>
@@ -321,7 +321,7 @@ $page_keywords = "packers and movers gurgaon to mumbai, gurgaon to mumbai househ
             <p>We utilize industrial-grade materials including 5-ply and 7-ply corrugated sheets, heavy bubble film rolls, shrink stretch films, corner angle boards, and customized wooden crates. Glass dining tops, LED screens, and antique artifacts are wrapped individually and placed into padded containers.</p>
             
             <div class="ggmb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy box packaging for Gurgaon to Mumbai household goods" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy box packaging for Gurgaon to Mumbai household goods" width="580" height="340" loading="lazy">
             </div>
             
             <div class="ggmb-grid-2">
@@ -357,7 +357,7 @@ $page_keywords = "packers and movers gurgaon to mumbai, gurgaon to mumbai househ
             <p>Every vehicle undergoes a formal pre-loading joint inspection. We record existing odometer readings, scratch profiles, and fuel amounts on digital condition sheets. Rearview mirrors are wrapped, battery terminals safely disconnected, and vehicles secured with high-grade synthetic wheel restraints.</p>
             
             <div class="ggmb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Gurgaon to Mumbai vehicle relocation" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Gurgaon to Mumbai vehicle relocation" width="580" height="340" loading="lazy">
             </div>
 
             <div class="ggmb-grid-3">
@@ -427,7 +427,7 @@ $page_keywords = "packers and movers gurgaon to mumbai, gurgaon to mumbai househ
             <p>We reassemble bed frames, fix modular dining sets, reinstall television wall mounts upon request, and position heavy refrigerators and washing machines in their designated utility niches. Once setup is finalized, we clean up and discard all bubble sheets, corrugated boxes, and plastic wraps, leaving your home spotless.</p>
             
             <div class="ggmb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Mumbai residence" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Mumbai residence" width="580" height="340" loading="lazy">
             </div>
 
             <p>All items are tallied against your original consignment note to ensure zero missing packages or unchecked cartons, giving you total peace of mind on shifting day.</p>
@@ -544,7 +544,7 @@ $page_keywords = "packers and movers gurgaon to mumbai, gurgaon to mumbai househ
     <section class="ggmb-cta">
         <h2>Schedule Your Gurgaon to Mumbai Relocation Today</h2>
         <p>Contact our intercity logistics team for prompt quotations, verified vehicle carrier slots, and reliable closed container transport.</p>
-        <p><strong>Call 24/7 Helpline: +91-9334421111 | Email: support@shreeashirwadpackers.com</strong></p>
+        <p><strong>Call 24/7 Helpline: +91 9835565233 | Email: support@shreeashirwadpackers.com</strong></p>
     </section>
 </main>
 

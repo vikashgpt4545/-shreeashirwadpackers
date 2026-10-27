@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Agartala",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-agartala",
     "priceRange": "₹4,000 - ₹68,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="agt-container">
       <h1>Packers and Movers in Agartala Tripura</h1>
       <p>Pinnacle state capital relocation services, Tripura Secretariat staff moves, ONGC energy corporate transfers, AGMC medical doctor shifting, and safe NH 8 container transit.</p>
-      <a href="tel:+919334484001" class="agt-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="agt-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Agartala stands proudly as the glorious capital city of Tripura, the second-largest urban center in Northeast India after Guwahati, and the cultural, administrative, and economic heartbeat of the state. Gracefully situated along the scenic banks of the Howrah River just two kilometers from the international border with Bangladesh, Agartala is a majestic synthesis of royal heritage and rapid modern urbanization. Distinguished by architectural marvels including the resplendent Ujjayanta Palace, the State Secretariat at New Capital Complex, the expansive ONGC Tripura Asset headquarters, Tripura Central University at Suryamaninagar, Agartala Government Medical College (AGMC at GBP Hospital), Maharaja Bir Bikram Airport, and the thriving Akhaura Integrated Check Post (ICP), Agartala is an indispensable crossroads of Northeast India. Relocating in Agartala requires specialized logistics mastery to navigate long-distance linehaul operations across National Highway 8 through the Baramura and Atharamura hill ranges, riverine soil conditions, and intense monsoon rains.</p>
 
       <div class="agt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Agartala Tripura" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Agartala Tripura" width="580" height="360" loading="lazy">
       </div>
 
       <div class="agt-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Agartala operational unit delivers tailored relocation services designed to address the diverse needs of civil servants, energy sector engineers, academic faculty, and local trading families:</p>
 
       <div class="agt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Agartala" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Agartala" width="580" height="360" loading="lazy">
       </div>
 
       <div class="agt-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Agartala follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="agt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Agartala" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Agartala" width="580" height="360" loading="lazy">
       </div>
 
       <div class="agt-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Agartala:</p>
 
       <div class="agt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Agartala" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Agartala" width="580" height="360" loading="lazy">
       </div>
 
       <div class="agt-grid-cards">

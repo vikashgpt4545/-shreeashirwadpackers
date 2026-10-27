@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Monsoon Moving Tips Ranchi | Waterproof Home Shifting Solutions | Call 9708579999</title>
-    <meta name="description" content="Complete guide to home shifting during Ranchi's monsoon season. 100% waterproof packing, sealed closed-container trucks, waterlogging prevention, and moisture safeguards. Call 9708579999.">
+    <title>Monsoon Moving Tips Ranchi | Waterproof Home Shifting Solutions | Call 9835565233</title>
+    <meta name="description" content="Complete guide to home shifting during Ranchi's monsoon season. 100% waterproof packing, sealed closed-container trucks, waterlogging prevention, and moisture safeguards. Call 9835565233.">
     <meta name="keywords" content="monsoon moving tips ranchi, rainy season home shifting ranchi, waterproof packing packers and movers, shifting during rain ranchi, shree ashirwad monsoon packers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/monsoon-moving-tips-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Monsoon Logistics",
         "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/monsoon-moving-tips-ranchi",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Monsoon Moving Tips in Ranchi: 100% Waterproof Shifting Guide</h1>
                 <p>Relocating during Ranchi's intense monsoon season demands military-grade waterproof packaging, sealed steel container trucks, and proactive moisture management. Discover how our weatherproof relocation architecture protects your furniture, electronics, and memories from rain and humidity.</p>
                 <div class="mmtr-cta-group">
-                    <a href="tel:+919708579999" class="mmtr-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20waterproof%20monsoon%20home%20shifting%20quote%20for%20Ranchi" class="mmtr-btn-wa" target="_blank" rel="noopener">WhatsApp Monsoon Moving Quote</a>
+                    <a href="tel:+919835565233" class="mmtr-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20waterproof%20monsoon%20home%20shifting%20quote%20for%20Ranchi" class="mmtr-btn-wa" target="_blank" rel="noopener">WhatsApp Monsoon Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="mmtr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container truck loading in heavy monsoon conditions in Ranchi Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container truck loading in heavy monsoon conditions in Ranchi Jharkhand" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -297,7 +297,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Closed Steel Container Fleet vs. The Dangers of Open Tarpaulins</h2>
                 <div class="mmtr-grid-2">
                     <div class="mmtr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Low-cost transporters and unorganized local loaders in Ranchi frequently compromise on vehicle fleet quality to quote artificially cut-rate prices, dispatching open-top Mahindra Boleros, Tata 407s, or open wooden flatbed lorries loosely draped in recycled plastic tarpaulins. The operational hazards during Jharkhand monsoons are severe and often irreversible:</p>
@@ -325,7 +325,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="mmtr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Waterproof stretch film and heavy corrugated packaging materials in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Waterproof stretch film and heavy corrugated packaging materials in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -378,7 +378,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Post-Move Unpacking, Air Circulation & Mildew Elimination</h2>
                 <div class="mmtr-grid-2">
                     <div class="mmtr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized post-move unpacking and air circulation in Ranchi apartment" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized post-move unpacking and air circulation in Ranchi apartment" loading="lazy">
                     </div>
                     <div>
                         <p>After your goods arrive safely inside your new home, taking immediate moisture-clearing steps prevents trapped dampness from forming mold:</p>

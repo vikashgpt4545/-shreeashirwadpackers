@@ -285,7 +285,7 @@
         "name": "Shree Ashirwad Packers and Movers Benachity Durgapur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-benachity-durgapur",
-        "telephone": "+91 9334812300",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -509,7 +509,7 @@
 
     <!-- Visual Image 1 -->
     <div class="bct-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded professionally into covered container truck in Benachity Durgapur">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded professionally into covered container truck in Benachity Durgapur">
         <div class="bct-img-caption">Figure 1: Specialized containerized loading operations for residential and retail relocations across Benachity Durgapur.</div>
     </div>
 
@@ -557,7 +557,7 @@
 
     <!-- Visual Image 2 -->
     <div class="bct-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Airtight multi-layer bubble wrap and sturdy box packaging for delicate household goods in Benachity Durgapur">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Airtight multi-layer bubble wrap and sturdy box packaging for delicate household goods in Benachity Durgapur">
         <div class="bct-img-caption">Figure 2: Multi-layer protective packaging for fragile glassware, electronics, kitchen appliances, and furniture.</div>
     </div>
 
@@ -610,7 +610,7 @@
 
     <!-- Visual Image 3 -->
     <div class="bct-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert carpenters dismantling double bed and wooden furniture in Benachity Durgapur">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert carpenters dismantling double bed and wooden furniture in Benachity Durgapur">
         <div class="bct-img-caption">Figure 3: Professional carpentry technicians disassembling modular wooden furniture for scratch-resistant transport.</div>
     </div>
 
@@ -682,7 +682,7 @@
 
     <!-- Visual Image 4 -->
     <div class="bct-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
         <div class="bct-img-caption">Figure 4: Punctual door-to-door delivery and room placement service conducted by our trained handling staff.</div>
     </div>
 

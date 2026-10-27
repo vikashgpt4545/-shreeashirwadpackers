@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Thrikkakara Kochi",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-thrikkakara-kochi",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,800 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>Conducting relocations in Thrikkakara demands nuanced local experience. The neighborhood features a mix of sprawling university faculty quarters, modern gated apartment complexes along Seaport-Airport Road, peaceful residential enclaves around BMC Colony, and quiet family homesteads along Pipe Line Road and Model Engineering College Road. Our moving specialists are trained to negotiate the undulating hillside roads, secure timely campus vehicle permissions, and coordinate smooth elevator transit in residential multi-story towers.</p>
 
     <div class="tkk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Thrikkakara Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Thrikkakara Kochi" loading="lazy">
       <p class="tkk-image-caption">Careful household packing and disciplined vehicle loading near CUSAT campus in Thrikkakara.</p>
     </div>
 
@@ -600,7 +600,7 @@
     </div>
 
     <div class="tkk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment Packing in Thrikkakara" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment Packing in Thrikkakara" loading="lazy">
       <p class="tkk-image-caption">Organized packing and secure cartoning for academic electronics and office merchandise in Thrikkakara.</p>
     </div>
 
@@ -632,7 +632,7 @@
     </div>
 
     <div class="tkk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Thrikkakara Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Thrikkakara Kochi" loading="lazy">
       <p class="tkk-image-caption">Protective multi-layer corrugated padding shielding polished wooden furniture during transit.</p>
     </div>
 
@@ -646,7 +646,7 @@
     <p>To master the varied street profiles &mdash; from multi-lane expressways to narrower residential lanes around Pipe Line Road &mdash; our fleet incorporates both large closed container haulers and compact feeder vans. This ensures that whether your residence is in a broad gated enclave or situated along a hillside lane, our crews can load and offload goods directly without long manual carrying distances.</p>
 
     <div class="tkk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Thrikkakara" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Thrikkakara" loading="lazy">
       <p class="tkk-image-caption">Weatherproof closed container trucks ensuring complete cargo security during monsoon transit.</p>
     </div>
 
@@ -736,7 +736,7 @@
   <section class="tkk-cta-banner">
     <h3>Book Your Stress-Free Move in Thrikkakara Today!</h3>
     <p>Contact our dedicated Thrikkakara relocation specialists for a free on-site survey, customized moving estimate, and guaranteed on-time door-to-door delivery across Kerala and India.</p>
-    <a class="tkk-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="tkk-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

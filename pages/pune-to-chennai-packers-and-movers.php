@@ -22,7 +22,7 @@ require_once __DIR__ . '/../includes/config.php';
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers",
-        "telephone": "+91 9334812341",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "url": "<?php echo SITE_BASE_URL; ?>/pune-to-chennai-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
@@ -478,7 +478,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our fleet consists of weatherproof container vehicles specifically engineered for prolonged highway hauls. Because transit crosses three distinct states—Maharashtra, Karnataka, and Tamil Nadu—our logistics department prepares all electronic toll passes, national highway green corridors, and digital road permits in advance to prevent administrative delays at state border checkpoints.</p>
 
         <div class="pnc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Pune to Chennai relocation transport" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Pune to Chennai relocation transport" width="580" height="387" loading="lazy">
             <div class="pnc-image-caption">Dedicated all-weather closed container truck navigating the Pune to Chennai interstate highway.</div>
         </div>
 
@@ -584,7 +584,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>We deploy high-gauge 5-ply and 7-ply virgin Kraft paper corrugated cartons, specialized double-layer air-pocket bubble cushioning, cellular foam edge guards, and heat-sealed high-density polyethylene (HDPE) wrapping sheets to safeguard your possessions from dust, shock, and moisture.</p>
 
         <div class="pnc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and heavy-duty corrugated packaging materials" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and heavy-duty corrugated packaging materials" width="580" height="387" loading="lazy">
             <div class="pnc-image-caption">Custom multi-layer protective packaging engineered for delicate glassware, electronics, and furniture.</div>
         </div>
 
@@ -684,7 +684,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Prior to loading at your Pune residence (such as Kothrud, Hinjewadi, Baner, or Hadapsar), our certified vehicle technicians conduct a thorough 25-point visual inspection. We log existing exterior scratches, record fuel levels, note odometer readings, and photograph the vehicle from all angles. A signed digital copy of this inspection report is handed to you immediately.</p>
 
         <div class="pnc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Secure enclosed motorcycle and automobile carrier transport service" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Secure enclosed motorcycle and automobile carrier transport service" width="580" height="387" loading="lazy">
             <div class="pnc-image-caption">Heavy-duty double-deck carrier designed for scratch-proof two-wheeler and passenger car shipping.</div>
         </div>
 
@@ -708,7 +708,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our Chennai field crew takes charge of all destination-side arrangements. We unpack boxes, reassemble modular furniture, position heavy appliances, and remove all used cardboard cartons and wrapping debris on the day of delivery, leaving your new home clean and functional.</p>
 
         <div class="pnc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking, furniture assembly and debris cleanup at destination" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking, furniture assembly and debris cleanup at destination" width="580" height="387" loading="lazy">
             <div class="pnc-image-caption">Trained destination crew reassembling furniture and placing household items systematically in Chennai.</div>
         </div>
 
@@ -764,7 +764,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="pnc-cta-box">
         <h3>Plan Your Pune to Chennai Move with Zero Stress</h3>
         <p>Speak directly with our interstate relocation specialists. Get a customized, itemized moving proposal with verified packaging specifications, live GPS container booking, and comprehensive insurance coverage.</p>
-        <a href="tel:+919334812341" class="pnc-cta-btn">Call +91 9334812341 for Free Quote</a>
+        <a href="tel:+919835565233" class="pnc-cta-btn">Call +91 9835565233 for Free Quote</a>
     </section>
 </main>
 

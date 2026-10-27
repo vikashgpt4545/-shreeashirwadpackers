@@ -32,7 +32,7 @@ $state_name = 'Goa';
     "name": "Shree Ashirwad Packers and Movers Vasco da Gama",
     "image": "https://shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-vasco-da-gama",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -354,7 +354,7 @@ $state_name = 'Goa';
     <div class="vdg-container">
       <h1>Packers and Movers in Vasco da Gama Goa</h1>
       <p>Specialized port city household shifting, Indian Navy and defense officer transfers, Dabolim airport corridor apartment moving, and secure container vehicle transport in Mormugao.</p>
-      <a href="tel:+919334484001" class="vdg-hero-btn">Call +91 9334484001 for Free Moving Quote</a>
+      <a href="tel:+919835565233" class="vdg-hero-btn">Call +91 9835565233 for Free Moving Quote</a>
     </div>
   </section>
 
@@ -365,7 +365,7 @@ $state_name = 'Goa';
       <p>Vasco da Gama, situated on the western tip of the Mormugao Peninsula where the Zuari River meets the Arabian Sea, is Goa's primary maritime port and aerospace defense gateway. Home to the bustling Mormugao Port Trust (MPT), Goa Shipyard Limited (GSL), the Indian Navy's premier naval aviation base (INS Hansa), and Goa International Airport at Dabolim, Vasco presents an energetic urban landscape combining commercial shipping activity with quiet coastal residential enclaves. Executing moves across this coastal terrain requires a delicate understanding of defense cantonment security permissions, port highway routes, and elevated coastal humidity management.</p>
 
       <div class="vdg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods Vasco da Gama" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods Vasco da Gama" width="580" height="360" loading="lazy">
       </div>
 
       <div class="vdg-grid-2">
@@ -468,7 +468,7 @@ $state_name = 'Goa';
       <p>Our dedicated moving crew delivers end-to-end relocation expertise designed to handle every facet of household, corporate, and vehicle transport:</p>
 
       <div class="vdg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="LED TV and electronics wooden crating Vasco da Gama" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="LED TV and electronics wooden crating Vasco da Gama" width="580" height="360" loading="lazy">
       </div>
 
       <div class="vdg-grid-cards">
@@ -505,7 +505,7 @@ $state_name = 'Goa';
       <p>Relocation stress disappears when backed by our disciplined, military-precision moving methodology:</p>
 
       <div class="vdg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and protective packing Vasco" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and protective packing Vasco" width="580" height="360" loading="lazy">
       </div>
 
       <div class="vdg-grid-cards">
@@ -538,7 +538,7 @@ $state_name = 'Goa';
       <p>Our localized pickup teams operate across every primary residential quarter, commercial sector, and surrounding coastal suburb of Vasco da Gama:</p>
 
       <div class="vdg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Quality packing materials and corrugated rolls in Vasco" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Quality packing materials and corrugated rolls in Vasco" width="580" height="360" loading="lazy">
       </div>
 
       <div class="vdg-grid-cards">

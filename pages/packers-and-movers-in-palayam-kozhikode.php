@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Palayam Kozhikode",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-palayam-kozhikode",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹54,000",
     "address": {
       "@type": "PostalAddress",
@@ -514,7 +514,7 @@
       </div>
       <div>
         <div class="ply-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and packing in Palayam Kozhikode" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and packing in Palayam Kozhikode" width="580" height="380" loading="lazy">
           <p class="ply-image-caption">Systematic residential packing and loading operations across Palayam Calicut</p>
         </div>
       </div>
@@ -559,7 +559,7 @@
     </div>
 
     <div class="ply-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping for Palayam home shifting" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping for Palayam home shifting" width="580" height="380" loading="lazy">
       <p class="ply-image-caption">High-density bubble cushioning and edge guards applied to wooden furnishings</p>
     </div>
   </div>
@@ -662,7 +662,7 @@
       </div>
       <div>
         <div class="ply-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial inventory packaging and shockproof wrapping in Palayam" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial inventory packaging and shockproof wrapping in Palayam" width="580" height="380" loading="lazy">
           <p class="ply-image-caption">Reinforced corrugated carton packing for commercial inventory and electronics</p>
         </div>
       </div>
@@ -756,7 +756,7 @@
     </div>
 
     <div class="ply-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-weather covered container truck for Palayam Kozhikode transport" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-weather covered container truck for Palayam Kozhikode transport" width="580" height="380" loading="lazy">
       <p class="ply-image-caption">Heavy-duty weatherproof container trucks safeguarding shipments across Kerala</p>
     </div>
   </div>

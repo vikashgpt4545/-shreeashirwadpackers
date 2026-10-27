@@ -134,14 +134,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Household Relocation Cartons Packing in Ranchi - Shree Ashirwad Packers" title="Residential Shifting Services in Ranchi - Professional Household Relocation" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Household Relocation Cartons Packing in Ranchi - Shree Ashirwad Packers" title="Residential Shifting Services in Ranchi - Professional Household Relocation" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">100%</span>
                 <span class="badge-txt">Stress-Free Moving</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Ranchi - Shree Ashirwad Packers" title="Safe Transit Closed Container Truck for Residential Shifting" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Ranchi - Shree Ashirwad Packers" title="Safe Transit Closed Container Truck for Residential Shifting" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -279,7 +279,7 @@ require_once __DIR__ . '/includes/seo.php';
         <div class="room-packing-grid">
           
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpenter Dismantling Hydraulic Double Bed in Ranchi - Shree Ashirwad Packers" title="Double Bed Furniture Dismantling and Assembly Service" class="room-pack-img" width="400" height="200" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpenter Dismantling Hydraulic Double Bed in Ranchi - Shree Ashirwad Packers" title="Double Bed Furniture Dismantling and Assembly Service" class="room-pack-img" width="400" height="200" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Master Bedroom & Furniture</h3>
               <p class="room-pack-text">
@@ -294,7 +294,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing in Ranchi - Shree Ashirwad Packers" title="Delicate Kitchen Crockery and Glassware Bubble Wrapping" class="room-pack-img" width="400" height="200" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing in Ranchi - Shree Ashirwad Packers" title="Delicate Kitchen Crockery and Glassware Bubble Wrapping" class="room-pack-img" width="400" height="200" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Modular Kitchen & Crockery</h3>
               <p class="room-pack-text">
@@ -309,7 +309,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Living Room Sofa Fabric Protective Packing in Ranchi - Shree Ashirwad Packers" title="Living Room Sofa Furniture Protective Stretch Wrapping" class="room-pack-img" width="400" height="200" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Living Room Sofa Fabric Protective Packing in Ranchi - Shree Ashirwad Packers" title="Living Room Sofa Furniture Protective Stretch Wrapping" class="room-pack-img" width="400" height="200" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Living Room & Upholstered Sofas</h3>
               <p class="room-pack-text">
@@ -324,7 +324,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Electronics and Appliances Protective Packing in Ranchi - Shree Ashirwad Packers" title="Household Appliances Protective Covering and Transit Preparation" class="room-pack-img" width="400" height="200" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Electronics and Appliances Protective Packing in Ranchi - Shree Ashirwad Packers" title="Household Appliances Protective Covering and Transit Preparation" class="room-pack-img" width="400" height="200" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Refrigerators & Home Appliances</h3>
               <p class="room-pack-text">
@@ -339,7 +339,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and LED TV Wooden Crating in Ranchi - Shree Ashirwad Packers" title="Fragile Glassware and Smart LED TV Secure Packing" class="room-pack-img" width="400" height="200" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and LED TV Wooden Crating in Ranchi - Shree Ashirwad Packers" title="Fragile Glassware and Smart LED TV Secure Packing" class="room-pack-img" width="400" height="200" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Smart LED TVs & Delicate Glass</h3>
               <p class="room-pack-text">
@@ -354,7 +354,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Pooja Mandir and Temple Relocation Setup in Ranchi - Shree Ashirwad Packers" title="Pooja Mandir and Temple Relocation Setup Service" class="room-pack-img" width="400" height="200" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Pooja Mandir and Temple Relocation Setup in Ranchi - Shree Ashirwad Packers" title="Pooja Mandir and Temple Relocation Setup Service" class="room-pack-img" width="400" height="200" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Pooja Mandir & Sacred Deities</h3>
               <p class="room-pack-text">
@@ -381,7 +381,7 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Apartment Household Goods Loading in Ranchi - Shree Ashirwad Packers" title="Multistory Apartment Household Goods Loading by Professional Crew" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Apartment Household Goods Loading in Ranchi - Shree Ashirwad Packers" title="Multistory Apartment Household Goods Loading by Professional Crew" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">24 Dist.</span>
                 <span class="badge-txt">Covered Across Jharkhand</span>

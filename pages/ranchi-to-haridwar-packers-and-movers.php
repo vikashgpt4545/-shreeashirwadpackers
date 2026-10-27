@@ -999,7 +999,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2hdr-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Haridwar Packers and Movers - Weatherproof Container Linehaul Fleet">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Haridwar Packers and Movers - Weatherproof Container Linehaul Fleet">
         <div class="r2hdr-image-caption">
           <span class="r2hdr-image-badge">Express Linehaul</span>
           <p class="r2hdr-image-text">Heavy-duty sealed container transit fleet navigating the 1,220-km Ranchi-Delhi EPE-Meerut-Haridwar corridor.</p>
@@ -1169,7 +1169,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2hdr-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer Defensive Household Packing for Ranchi to Haridwar Relocation">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer Defensive Household Packing for Ranchi to Haridwar Relocation">
         <div class="r2hdr-image-caption">
           <span class="r2hdr-image-badge">Multi-Layer Protection</span>
           <p class="r2hdr-image-text">Padded living room furniture, heavy appliances, and modular units prepared for 1,220-km interstate transit.</p>
@@ -1230,7 +1230,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2hdr-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Dedicated Two-Wheeler Parcel and Motorcycle Transport from Ranchi to Haridwar">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Dedicated Two-Wheeler Parcel and Motorcycle Transport from Ranchi to Haridwar">
         <div class="r2hdr-image-caption">
           <span class="r2hdr-image-badge">Automotive Protection</span>
           <p class="r2hdr-image-text">Heavy 4-layer protective bubble and shrink wrapping for motorcycle courier shipment from Ranchi to Haridwar.</p>
@@ -1293,7 +1293,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="r2hdr-grid-2col" style="margin-top: 40px;">
       <div class="r2hdr-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking and Room Setup Service in Haridwar Residence">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking and Room Setup Service in Haridwar Residence">
         <div class="r2hdr-image-caption">
           <span class="r2hdr-image-badge">Complete Handover</span>
           <p class="r2hdr-image-text">Professional unpacking, furniture assembly, and room placement service upon arrival at Haridwar residence.</p>

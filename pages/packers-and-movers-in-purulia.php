@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-purulia#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-purulia",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -540,7 +540,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="prl-body-p">Whether you are an engineer relocating from the Santaldih Thermal Power Station or Purulia Pumped Storage Project, a senior railway official transferred through the South Eastern Railway's Adra Division, an academic joining Sidho-Kanho-Birsha University, or a commercial merchant expanding trade along Ranchi Road, Shree Ashirwad Packers and Movers delivers fully synchronized, stress-free shifting solutions built specifically for the terrain and infrastructural dynamics of Purulia.</p>
 
                 <div class="prl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Purulia transport vehicle" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Purulia transport vehicle" width="580" height="380" loading="lazy">
                     <div class="prl-image-caption">Systematic loading of palletized cartons and guarded wooden furniture into covered container fleet in Purulia.</div>
                 </div>
 
@@ -592,7 +592,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="prl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Purulia" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Purulia" width="580" height="380" loading="lazy">
                     <div class="prl-image-caption">High-density virgin bubble wraps and reinforced 5-ply cartons protecting glassware and electronics for Purulia families.</div>
                 </div>
 
@@ -656,7 +656,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="prl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Purulia home" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Purulia home" width="580" height="380" loading="lazy">
                     <div class="prl-image-caption">Expert carpenter dismantling modular double beds, wardrobes, and delicate furnishings prior to wrapping in Purulia.</div>
                 </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="prl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Purulia" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Purulia" width="580" height="380" loading="lazy">
                     <div class="prl-image-caption">Punctual arrival and professional doorstep delivery by Shree Ashirwad Packers and Movers in Purulia.</div>
                 </div>
 
@@ -760,9 +760,9 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="prl-body-p">Speak directly with our local Purulia operations supervisor for an instant price quote and scheduled on-site inspection.</p>
                 <div class="prl-highlight-box">
                     <div class="prl-highlight-title">Direct Helpline</div>
-                    <p class="prl-highlight-desc"><strong>+91 93344 60424</strong><br>Available 7 AM - 9:30 PM Daily</p>
+                    <p class="prl-highlight-desc"><strong>+91 9835565233</strong><br>Available 7 AM - 9:30 PM Daily</p>
                 </div>
-                <a href="tel:+919334460424" class="prl-cta-button">Call Now for Free Quote</a>
+                <a href="tel:+919835565233" class="prl-cta-button">Call Now for Free Quote</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="prl-cta-button" style="background: #1e3a8a; margin-top: 10px;">Calculate Tariff Online</a>
             </div>
 

@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Trusted interstate moving solutions from Chennai to Vijayawada covering Benz Circle, Moghalrajpuram, Patamata, Auto Nagar, and Mangalagiri with sealed container transit.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹11,500 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy closed weatherproof container vehicles fitted with live cellular GPS tracking systems, internal load locks, and cushioned interior paneling. Whether you are relocating your family residence, transferring corporate employees, or transporting valuable commercial assets, our certified teams guarantee seamless intercity transit without intermediate transshipment or double-handling delays.</p>
 
         <div class="cnvj-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Chennai to Vijayawada" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Chennai to Vijayawada" width="580" height="386">
         </div>
 
         <div class="cnvj-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Our fleet operations center monitors vehicle positions across key toll plazas—including Nallur, Budhanam, Venkatachalam, Tanguturu, Bollapalli, and Kaza—via integrated FASTag sensors and satellite telemetry. This continuous tracking enables our drivers to bypass local municipal choke points near Guntur and ensure on-time arrival across Krishna river bridges into central Vijayawada.</p>
 
         <div class="cnvj-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
         </div>
 
         <div class="cnvj-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Delicate glassware and kitchen appliances are wrapped in high-density bubble wrap, fitted with custom foam edge guards, shrink-wrapped against dust, and boxed into heavy 5-ply corrugated cartons. For high-value smart TVs, quartz dining tops, and pooja mandirs, we construct tailored wooden skeleton crates that absorb highway vibrations.</p>
 
         <div class="cnvj-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Vijayawada" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Vijayawada" width="580" height="386">
         </div>
 
         <div class="cnvj-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Before loading, our technical supervisors conduct a detailed 24-point pre-transit vehicle inspection. Exterior scratches, fuel levels, odometer readings, and accessory conditions are documented on an official inspection slip shared digitally with the vehicle owner.</p>
 
         <div class="cnvj-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
         </div>
 
         <div class="cnvj-grid-2">

@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Nagpur Relocation Guide | Zero Mile Movers | Call 9708579999</title>
-    <meta name="description" content="Dependable household shifting from Ranchi to Nagpur. 24-hour linehaul via NH-53, MIHAN SEZ & AIIMS moves, WCL executive transfers, car carriers & full insurance. Call 9708579999.">
+    <title>Ranchi to Nagpur Relocation Guide | Zero Mile Movers | Call 9835565233</title>
+    <meta name="description" content="Dependable household shifting from Ranchi to Nagpur. 24-hour linehaul via NH-53, MIHAN SEZ & AIIMS moves, WCL executive transfers, car carriers & full insurance. Call 9835565233.">
     <meta name="keywords" content="ranchi to nagpur relocation guide, packers and movers ranchi to nagpur, household shifting ranchi to nagpur, mihan sez corporate shifting ranchi, wcl moil transfer packers, ranchi nagpur container truck">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-nagpur-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Ranchi to Nagpur Express Logistics",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-nagpur-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Nagpur Relocation Guide: Zero Mile Express Corridor</h1>
                 <p>Relocating between Jharkhand's capital and Maharashtra's winter capital? Experience reliable 22-to-28 hour linehaul transit along NH-53. Discover specialized moving solutions for MIHAN SEZ corporate staff, WCL & MOIL mining transfers, AIIMS Nagpur faculty, and complete transit insurance.</p>
                 <div class="rngp-cta-group">
-                    <a href="tel:+919708579999" class="rngp-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Nagpur" class="rngp-btn-wa" target="_blank" rel="noopener">WhatsApp Nagpur Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rngp-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Nagpur" class="rngp-btn-wa" target="_blank" rel="noopener">WhatsApp Nagpur Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rngp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Nagpur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Nagpur" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -286,7 +286,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Navigating Nagpur: MIHAN SEZ, AIIMS, VNIT, Defense Cantt & Civil Lines</h2>
                 <div class="rngp-grid-2">
                     <div class="rngp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Nagpur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Nagpur" loading="lazy">
                     </div>
                     <div>
                         <p>Nagpur is a well-planned city featuring wide arterial boulevards, defense cantonment areas, institutional campuses, and vibrant commercial sectors. Delivering household consignments requires locality-specific logistical coordination:</p>
@@ -317,7 +317,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rngp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -389,7 +389,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>White-Glove Unpacking & Furniture Assembly in Nagpur</h2>
                 <div class="rngp-grid-2">
                     <div class="rngp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Nagpur residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Nagpur residence" loading="lazy">
                     </div>
                     <div>
                         <p>Moving into your new home in Nagpur is made completely stress-free with our comprehensive destination unpacking and carpenter assistance:</p>

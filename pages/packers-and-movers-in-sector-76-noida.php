@@ -545,7 +545,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s76-intro-p">Managing residential apartment shifting in Sector 76 demands rigorous discipline, specialized equipment, and thorough familiarity with society bylaws. Tower heights in Sector 76 range between 18 and 24 stories, requiring mandatory elevator reservations, service lift wall padding, strict moving window adherence, and careful basement height negotiation. Shree Ashirwad Packers and Movers brings more than a decade of proven logistical experience to Sector 76, providing customized multi-layer packing, modular carpentry, and seamless inter-city transit with a 100% zero-damage guarantee.</p>
 
         <div class="s76-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Sector 76 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Sector 76 Noida" width="580" height="360">
             <div class="s76-image-caption">Professional loading crew securing packed household goods inside all-weather container fleet in Sector 76 Noida</div>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s76-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Sector 76 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Sector 76 Noida" width="580" height="360">
             <div class="s76-image-caption">Standardized 4-layer packaging utilizing bubble wrap, corrugated sheets, and edge protectors in Sector 76 Noida</div>
         </div>
     </section>
@@ -698,7 +698,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s76-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Sector 76 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Sector 76 Noida" width="580" height="360">
             <div class="s76-image-caption">Carpentry technicians systematically dismantling modular furniture and king-size beds in Sector 76 Noida</div>
         </div>
     </section>
@@ -732,7 +732,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s76-intro-p">Every inter-state transit container is outfitted with real-time GPS telematics, dual driver shifts for continuous transit, and waterproof container seals that safeguard household treasures against monsoon rains, highway dust, and transit vibrations.</p>
 
         <div class="s76-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Sector 76 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck serving Sector 76 Noida" width="580" height="360">
             <div class="s76-image-caption">All-weather container fleet connecting Sector 76 Noida to inter-state commercial and residential hubs</div>
         </div>
     </section>

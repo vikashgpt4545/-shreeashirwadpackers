@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Doranda Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-doranda-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -538,8 +538,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Packers and Movers in Doranda Ranchi</h1>
         <p>Premium household shifting, government employee relocations, advocate library transfers, and corporate moving services in Doranda, Ranchi. Professional multi-layer packing, modern enclosed fleet, and expert material handling serving Nepal House, AG Colony, North &amp; South Office Para, Mani Tola, and Doranda Bazar with zero disruption.</p>
         <div class="hl-drn-cta-btns">
-          <a href="tel:+919431170366" class="hl-drn-btn-primary">Call Now: +91 94311 70366</a>
-          <a href="https://api.whatsapp.com/send?phone=919431170366&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Doranda%20Ranchi." class="hl-drn-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:+919835565233" class="hl-drn-btn-primary">Call Now: +91 98355 65233</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Doranda%20Ranchi." class="hl-drn-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="hl-drn-quote-card">
@@ -584,7 +584,7 @@ include_once __DIR__ . '/../includes/config.php';
       <p>Relocating a home or office in Doranda demands high-level organizational competence and discretion. From the historic colonial bungalows of South Office Para and North Office Para to the modern multi-story residential towers of Mani Tola, Resaldar Nagar, and Doranda Bazar, moves in this zone require teams capable of handling heavy teakwood furnishings, delicate glass cabinets, extensive legal case file libraries, and valuable family heirlooms. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified expertise and specialized moving gear to ensure your relocation is conducted quietly, punctually, and with zero damage.</p>
 
       <div class="hl-drn-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Reliable Moving Truck Serving Doranda Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Reliable Moving Truck Serving Doranda Ranchi">
         <div class="hl-mrb-img-caption">Dedicated covered cargo trucks providing rapid and safe residential shifting across Doranda and Ranchi.</div>
       </div>
 
@@ -699,7 +699,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="hl-drn-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Packaging for Doranda Ranchi Home Shifting">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Packaging for Doranda Ranchi Home Shifting">
         <div class="hl-mrb-img-caption">Multi-tier protective wrapping of fine furniture to prevent scratches and moisture penetration.</div>
       </div>
     </article>
@@ -738,7 +738,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="hl-drn-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Safe Transport in Doranda Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Safe Transport in Doranda Ranchi">
         <div class="hl-mrb-img-caption">Custom shock-resistant packing and crating for motorcycles and scooters in Doranda.</div>
       </div>
     </article>
@@ -778,7 +778,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="hl-drn-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading Crew Handling Relocations in Doranda Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading Crew Handling Relocations in Doranda Ranchi">
         <div class="hl-mrb-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services in Doranda.</div>
       </div>
     </article>

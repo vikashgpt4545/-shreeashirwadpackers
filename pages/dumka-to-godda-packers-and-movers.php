@@ -698,7 +698,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-godda-packers-an
             </div>
             <div>
                 <div class="dum2god-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dumka to Godda Packers and Movers container truck" title="Closed container truck on Dumka to Godda relocation route">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dumka to Godda Packers and Movers container truck" title="Closed container truck on Dumka to Godda relocation route">
                     <div class="dum2god-img-caption">
                         <strong>Figure 1:</strong> Closed-body dedicated container truck transporting household goods safely along the 70 km Dumka–Godda NH-133 highway.
                     </div>
@@ -755,13 +755,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-godda-packers-an
     <div class="container">
         <div class="dum2god-grid-2">
             <div class="dum2god-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging Dumka to Godda" title="Professional packaging for Dumka to Godda move">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging Dumka to Godda" title="Professional packaging for Dumka to Godda move">
                 <div class="dum2god-img-caption">
                     <strong>Figure 2:</strong> Multi-layer bubble wrap and corrugated padding applied to household appliances and furniture before container loading.
                 </div>
             </div>
             <div class="dum2god-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transportation carrier loading Dumka to Godda" title="Vehicle carrier transit Dumka to Godda">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transportation carrier loading Dumka to Godda" title="Vehicle carrier transit Dumka to Godda">
                 <div class="dum2god-img-caption">
                     <strong>Figure 3:</strong> Secure vehicle loading on specialized car carriers equipped with heavy-duty tire straps and locking wheel ramps.
                 </div>
@@ -876,7 +876,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-godda-packers-an
             </div>
             <div>
                 <div class="dum2god-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Godda" title="Careful unloading and arrangement in Godda">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Godda" title="Careful unloading and arrangement in Godda">
                     <div class="dum2god-img-caption">
                         <strong>Figure 4:</strong> Dedicated moving staff executing careful unloading, unpacking, and room-wise placement at the destination in Godda.
                     </div>

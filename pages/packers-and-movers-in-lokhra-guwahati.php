@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Lokhra Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lokhra-guwahati",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="lkg-container">
       <h1>Packers and Movers in Lokhra Guwahati</h1>
       <p>Pinnacle NH 27 highway container transport, BSF paramilitary camp transfer shifting, ISBT corridor moving, and safe warehousing in Lokhra.</p>
-      <a href="tel:+919334484001" class="lkg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="lkg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Lokhra stands as the premier transport gateway, commercial warehousing node, and rapidly developing residential district of Southwest Guwahati, situated directly astride the vital four-lane National Highway 27 bypass. Centered around the active intersection of Lokhra Chariali and extending toward the Border Security Force (BSF) camp, the Inter-State Bus Terminus (ISBT) at Betkuchi, Saukuchi, and the residential approaches of Dhirenpara and Lalganesh, Lokhra is a strategic bridge connecting industrial freight logistics with metropolitan living. Home to logistics professionals, paramilitary personnel, regional business operators, and growing residential communities in modern apartment societies, Lokhra demands high-caliber moving solutions that combine heavy-vehicle highway speed with delicate residential wrapping craftsmanship.</p>
 
       <div class="lkg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Lokhra Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Lokhra Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="lkg-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Lokhra operational unit delivers tailored relocation services designed to address the diverse needs of logistics managers, paramilitary personnel, residential families, and commercial traders:</p>
 
       <div class="lkg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Lokhra" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Lokhra" width="580" height="360" loading="lazy">
       </div>
 
       <div class="lkg-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Lokhra follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="lkg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Lokhra" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Lokhra" width="580" height="360" loading="lazy">
       </div>
 
       <div class="lkg-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Lokhra:</p>
 
       <div class="lkg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Lokhra" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Lokhra" width="580" height="360" loading="lazy">
       </div>
 
       <div class="lkg-grid-cards">

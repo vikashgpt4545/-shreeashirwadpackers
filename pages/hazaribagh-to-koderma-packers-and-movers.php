@@ -630,7 +630,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-koderma-pac
                 <p>Our dedicated moving network guarantees morning loading in Hazaribagh neighborhoods like Matwari, Canary Hill Road, Korrah, or Hurhuru, with arrival, careful unloading, and customized room setup in your Koderma home before lunchtime or early afternoon. We deploy closed weatherproof container vehicles that protect your valued furnishings and electronic appliances from highway vibration, monsoon rains, and industrial grit.</p>
             </div>
             <div class="h2kdr-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container moving truck for Hazaribagh to Koderma packers and movers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container moving truck for Hazaribagh to Koderma packers and movers" loading="lazy">
                 <div class="h2kdr-img-caption">All-weather sealed container trucks operating along the Hazaribagh-Koderma four-lane NH-20 highway</div>
             </div>
         </div>
@@ -675,7 +675,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-koderma-pac
     <section class="h2kdr-section">
         <div class="h2kdr-grid-2">
             <div class="h2kdr-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packing materials used by Shree Ashirwad Packers and Movers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packing materials used by Shree Ashirwad Packers and Movers" loading="lazy">
                 <div class="h2kdr-img-caption">Multi-layer defense system: EPE foam, bubble wrap, corner guards, and rigid 7-ply cartons</div>
             </div>
             <div>
@@ -775,7 +775,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-koderma-pac
                 </ul>
             </div>
             <div class="h2kdr-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Hazaribagh to Koderma vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Hazaribagh to Koderma vehicle relocation" loading="lazy">
                 <div class="h2kdr-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Hazaribagh and Koderma</div>
             </div>
         </div>
@@ -831,7 +831,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-koderma-pac
     <section class="h2kdr-section">
         <div class="h2kdr-grid-2">
             <div class="h2kdr-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Koderma residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Koderma residence" loading="lazy">
                 <div class="h2kdr-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Koderma residences</div>
             </div>
             <div>

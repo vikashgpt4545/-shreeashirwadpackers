@@ -20,7 +20,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Rajnandgaon",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rajnandgaon",
-        "telephone": "+919334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -415,7 +415,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Coordinated with our central regional headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Rajnandgaon branch delivers world-class home relocation, corporate employee transfers, vehicle transportation, and agro-commercial logistics. Whether shifting a family residence from Basantpur or Gaurav Path to Raipur, or transporting trade goods across state lines to Nagpur, Jabalpur, or Hyderabad, we secure every cargo with five-ply corrugated boxes, high-density bubble rolls, stretch film, and heavy cargo lashing straps. You can instantly estimate your moving budget through our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">transparent shifting charges calculator</a>.</p>
 
         <div class="rng-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Rajnandgaon by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Rajnandgaon by Shree Ashirwad Packers and Movers">
             <div class="rng-img-caption">Multi-tier bubble cushioning and heavy-duty corrugated packing in Rajnandgaon</div>
         </div>
 
@@ -474,7 +474,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="rng-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Rajnandgaon">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Rajnandgaon">
             <div class="rng-img-caption">High-micron stretch film, bubble rolls, and corrugated cartons utilized in Rajnandgaon</div>
         </div>
     </section>
@@ -590,7 +590,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="rng-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Rajnandgaon">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Container moving truck in Rajnandgaon">
             <div class="rng-img-caption">Sealed container trucks ensuring zero dust or moisture exposure along NH 53</div>
         </div>
     </section>
@@ -637,7 +637,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="rng-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Rajnandgaon">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Rajnandgaon">
             <div class="rng-img-caption">Hydraulic vehicle carriers ensuring damage-free car and bike transport in Rajnandgaon</div>
         </div>
     </section>
@@ -676,7 +676,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="rng-cta-box">
         <h3>Book Your Stress-Free Move in Rajnandgaon Today!</h3>
         <p>Get in touch with our Rajnandgaon relocation manager for an accurate moving estimate and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="rng-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="rng-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

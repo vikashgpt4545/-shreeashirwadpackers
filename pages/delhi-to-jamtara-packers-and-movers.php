@@ -620,19 +620,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/delhi-to-jamtara-packers-
         <!-- 4 Verified Images Display -->
         <div class="del2jam-img-grid">
             <div class="del2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof long-haul closed container truck for Delhi to Jamtara relocation">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof long-haul closed container truck for Delhi to Jamtara relocation">
                 <div class="del2jam-img-caption">Dedicated sealed all-weather container trucks engineered for 1,230 km express journeys.</div>
             </div>
             <div class="del2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials protecting fragile household items for long distance shifting">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials protecting fragile household items for long distance shifting">
                 <div class="del2jam-img-caption">Multi-layer bubble wrap, edge guards, and corrugated boxes for glassware and TVs.</div>
             </div>
             <div class="del2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury car for Delhi to Jamtara transit">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury car for Delhi to Jamtara transit">
                 <div class="del2jam-img-caption">Covered hydraulic car trailers equipped with wheel lock straps and transit insurance.</div>
             </div>
             <div class="del2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup at Jamtara home">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup at Jamtara home">
                 <div class="del2jam-img-caption">Complete destination unpacking, bed re-assembly, electrical unmounting, and setup support.</div>
             </div>
         </div>

@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Orderly Bazar Varanasi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="odb-hero-title">Packers and Movers in Orderly Bazar Varanasi</h1>
         <p class="odb-hero-subtitle">Discreet White-Glove Household Relocation, Government Officer Bungalow Shifting, and Executive Corporate Moves in Varanasi's Administrative District</p>
         <div class="odb-cta-group">
-            <a href="tel:+919334404050" class="odb-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="odb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="odb-btn-secondary">Check Shifting Rates</a>
         </div>
     </section>
@@ -507,7 +507,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="odb-intro-p">Shree Ashirwad Packers and Movers brings over 15 years of proven excellence directly to the residents of Orderly Bazar. Relocating homes in this prestigious zone requires specialized care: handling heavy antique teakwood furniture, moving delicate crystal chandeliers, protecting polished marble and hardwood flooring, and navigating administrative security clearances near the Collectorate and Circuit House. We employ white-glove packing standards, utilizing virgin bubble wrap, custom wooden crating, and foam edge protectors to safeguard every valuable possession.</p>
 
         <div class="odb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Orderly Bazar Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Orderly Bazar Varanasi" width="580" height="380" loading="lazy">
             <p class="odb-image-caption">Shree Ashirwad crew carrying out careful white-glove packing and loading in Orderly Bazar Varanasi.</p>
         </div>
 
@@ -582,7 +582,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="odb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Orderly Bazar Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Orderly Bazar Varanasi" width="580" height="380" loading="lazy">
             <p class="odb-image-caption">Specialized multi-layer bubble wrap and corrugated padding for fragile heirloom glassware in Orderly Bazar.</p>
         </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="odb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly in Orderly Bazar Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly in Orderly Bazar Varanasi" width="580" height="380" loading="lazy">
             <p class="odb-image-caption">Experienced furniture carpenters dismantling and cushioning modular bed structures in Orderly Bazar Varanasi.</p>
         </div>
     </section>
@@ -700,7 +700,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="odb-intro-p">For relocations bound for Lucknow, the journey begins along the direct Purvanchal Expressway or NH-56, enabling rapid door-to-door transit within 4 to 6 hours. Westbound transfers to Delhi, Noida, and Kanpur connect via NH-19, delivering next-day delivery schedules. Consignments heading east toward Patna, Gaya, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> travel along the high-speed NH-19 corridor with minimal checkpoint delays.</p>
 
         <div class="odb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Closed Body Container Fleet in Orderly Bazar Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Closed Body Container Fleet in Orderly Bazar Varanasi" width="580" height="380" loading="lazy">
             <p class="odb-image-caption">Dedicated sealed container truck fleet ensuring clean, weather-protected door-to-door delivery from Orderly Bazar.</p>
         </div>
 
@@ -765,7 +765,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Executive Relocation in Orderly Bazar</h3>
         <p>Contact our Orderly Bazar relocation team today for a confidential on-site consultation, itemized estimate, and white-glove moving experience.</p>
         <div class="odb-cta-group">
-            <a href="tel:+919334404050" class="odb-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="odb-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="odb-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

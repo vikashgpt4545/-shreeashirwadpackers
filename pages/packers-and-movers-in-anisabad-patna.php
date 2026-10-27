@@ -608,7 +608,7 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="anb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Anisabad Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Anisabad Patna" loading="lazy">
                     <p class="anb-image-caption">Careful handling of furniture and household goods at residential apartments and colonies in Anisabad, Patna.</p>
                 </div>
             </div>
@@ -676,7 +676,7 @@ require_once __DIR__ . '/../includes/seo.php';
         <div class="anb-grid-2">
             <div>
                 <div class="anb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes deployed in Anisabad Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes deployed in Anisabad Patna" loading="lazy">
                     <p class="anb-image-caption">5-ply corrugated cartons, bubble wrap cushioning, and moisture-proof stretch wrap for Anisabad homes.</p>
                 </div>
             </div>
@@ -801,11 +801,11 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="anb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling furniture for shifting in Anisabad Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling furniture for shifting in Anisabad Patna" loading="lazy">
                     <p class="anb-image-caption">Professional dismantling and hardware labeling of modular beds and wardrobes by skilled technicians.</p>
                 </div>
                 <div class="anb-image-box" style="margin-top: 24px;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated delivery truck navigating residential roads in Anisabad Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated delivery truck navigating residential roads in Anisabad Patna" loading="lazy">
                     <p class="anb-image-caption">Modern enclosed container trucks ensuring weather-safe door-to-door transit across Patna colonies.</p>
                 </div>
             </div>

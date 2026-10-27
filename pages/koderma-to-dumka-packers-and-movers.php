@@ -415,7 +415,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dumka-packers-
     <h1>Professional Packers and Movers Koderma to Dumka</h1>
     <p>Seamless household shifting, government employee transfer moves, corporate office relocations, and safe automobile carriage from Koderma, Jhumri Telaiya, and Domchanch to the Santal Pargana sub-capital, Dumka.</p>
     <div class="kod2dum-cta-group">
-        <a href="tel:+919431104141" class="kod2dum-btn-primary">Call +91-9431104141</a>
+        <a href="tel:+919835565233" class="kod2dum-btn-primary">Call +91 9835565233</a>
         <a href="<?php echo SITE_BASE_URL; ?>/contact" class="kod2dum-btn-secondary">Get Instant Moving Quote</a>
     </div>
 </section>
@@ -455,7 +455,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dumka-packers-
             <p>Whether you are a government official being posted to the Santal Pargana divisional commissionerate, a teacher taking up a role at Sido Kanhu Murmu University, or a family settling into your ancestral home, our seamless moving services guarantee on-time delivery with zero breakage.</p>
         </div>
         <div class="kod2dum-img-wrapper">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck for Koderma to Dumka household relocation" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck for Koderma to Dumka household relocation" loading="lazy">
         </div>
     </div>
 
@@ -496,7 +496,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dumka-packers-
     <!-- Section 3: Multi-Layer Packaging Standards -->
     <div class="kod2dum-two-col">
         <div class="kod2dum-img-wrapper">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer packing materials used for Koderma to Dumka household goods" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer packing materials used for Koderma to Dumka household goods" loading="lazy">
         </div>
         <div class="kod2dum-col-content">
             <span class="kod2dum-section-tag">5-Layer Defense Protocol</span>
@@ -523,7 +523,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dumka-packers-
             <p>For hatchbacks, sedans, and SUVs, we utilize specialized hydraulic vehicle carrier trucks equipped with wheel stoppers and safety cages, guaranteeing that your car reaches Dumka in the exact pristine condition you handed it over.</p>
         </div>
         <div class="kod2dum-img-wrapper">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile loading on specialized hydraulic carrier truck for Dumka delivery" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile loading on specialized hydraulic carrier truck for Dumka delivery" loading="lazy">
         </div>
     </div>
 
@@ -636,7 +636,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dumka-packers-
             <p>Finally, we gather all empty corrugated cardboard cartons, used bubble wrap, and binding tapes, leaving your new residential premises tidy, organized, and ready for you and your family.</p>
         </div>
         <div class="kod2dum-img-wrapper">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated unpacking and room positioning service in Dumka" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated unpacking and room positioning service in Dumka" loading="lazy">
         </div>
     </div>
 
@@ -701,7 +701,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dumka-packers-
         <h3>Plan Your Koderma to Dumka Move Today</h3>
         <p>Get a free, transparent pre-move survey and personalized quotation for your upcoming household, corporate, or vehicle shifting to Dumka.</p>
         <div class="kod2dum-cta-group">
-            <a href="tel:+919431104141" class="kod2dum-btn-primary">Call Now: +91-9431104141</a>
+            <a href="tel:+919835565233" class="kod2dum-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="kod2dum-btn-secondary">Request Free Survey</a>
         </div>
     </div>
@@ -716,7 +716,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-dumka-packers-
     "name": "Shree Ashirwad Packers and Movers - Koderma to Dumka",
     "description": "Professional packers and movers offering household shifting, government employee transfer relocation, car transport, and bike parcel services from Koderma to Dumka.",
     "url": "https://www.shreeashirwadpackers.com/koderma-to-dumka-packers-and-movers",
-    "telephone": "+91-9431104141",
+    "telephone": "+91 9835565233",
     "email": "info@shreeashirwadpackers.com",
     "priceRange": "₹2,500 - ₹34,000",
     "address": {

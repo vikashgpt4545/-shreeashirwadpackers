@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Our plant moving specialists understand the botanical requirements of different flora varieties. Whether dealing with moisture-loving ferns, deep-rooted indoor palms, desert succulents, or sensitive ficus varieties that react poorly to temperature swings, we customize humidity wraps and cushioning materials to ensure your urban jungle arrives lush, vibrant, and ready to thrive in your new residence.</p>
 
         <div class="iprs-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Custom corrugated plant collar wrapping and soil stabilization sheets" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Custom corrugated plant collar wrapping and soil stabilization sheets" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 2: Flora Categories Handled -->
@@ -555,7 +555,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="iprs-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap cushioning and custom protective boxes for ceramic planters and plants" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap cushioning and custom protective boxes for ceramic planters and plants" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Stage Moving Protocol -->
@@ -591,7 +591,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="iprs-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Careful loading of potted plants and garden planters on elevated truck racks" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Careful loading of potted plants and garden planters on elevated truck racks" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -676,7 +676,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="iprs-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks for all-weather botanical and household transport" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks for all-weather botanical and household transport" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 6: Post-Relocation Recovery Plan -->

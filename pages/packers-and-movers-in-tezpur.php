@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Tezpur",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-tezpur",
     "priceRange": "₹4,000 - ₹62,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="tzp-container">
       <h1>Packers and Movers in Tezpur Assam</h1>
       <p>Pinnacle North Bank relocation services, Indian Army 4 Corps defense moves, Tezpur Central University faculty shifting, and Kolia Bhomora Setu container transit.</p>
-      <a href="tel:+919334484001" class="tzp-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="tzp-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Tezpur occupies a legendary position as the ancient "City of Eternal Romance", the administrative capital of Sonitpur district, and the pre-eminent strategic, military, and academic headquarters of the entire North Bank of the Brahmaputra River. Gracing the northern banks overlooking the monumental expanse of the Brahmaputra, Tezpur is home to institutions of supreme national importance including the Indian Army's historic 4 Corps (Gajraj Corps Cantonment), Indian Air Force Station Salonibari, Tezpur Central University (a premier NAAC 'A+' accredited central university at Napaam), the Lokopriya Gopinath Bordoloi Regional Institute of Mental Health (LGBRIMH), and Tezpur Medical College. Connected seamlessly to South Bank Assam and the Kaziranga corridor by the historic Kolia Bhomora Setu and the new second bridge, Tezpur functions as the vital jumping-off gateway into Western Arunachal Pradesh (Bomdila, Tawang, and Dirang). Relocating in Tezpur demands specialized knowledge of military cantonment checkpost rules, academic laboratory packaging, and foothill monsoon weather conditions.</p>
 
       <div class="tzp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Tezpur Assam" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Tezpur Assam" width="580" height="360" loading="lazy">
       </div>
 
       <div class="tzp-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Tezpur operational unit delivers tailored relocation services designed to address the diverse needs of armed forces personnel, university professors, medical specialists, and local traders:</p>
 
       <div class="tzp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Tezpur" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Tezpur" width="580" height="360" loading="lazy">
       </div>
 
       <div class="tzp-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Tezpur follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="tzp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Tezpur" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Tezpur" width="580" height="360" loading="lazy">
       </div>
 
       <div class="tzp-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Tezpur:</p>
 
       <div class="tzp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Tezpur" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Tezpur" width="580" height="360" loading="lazy">
       </div>
 
       <div class="tzp-grid-cards">

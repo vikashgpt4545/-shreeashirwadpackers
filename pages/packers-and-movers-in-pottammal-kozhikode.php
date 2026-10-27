@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Pottammal Kozhikode",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-pottammal-kozhikode",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -514,7 +514,7 @@
       </div>
       <div>
         <div class="ptm-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading in Pottammal Kozhikode" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading in Pottammal Kozhikode" width="580" height="380" loading="lazy">
           <p class="ptm-image-caption">Disciplined elevator loading and household shifting operations in Pottammal Calicut</p>
         </div>
       </div>
@@ -559,7 +559,7 @@
     </div>
 
     <div class="ptm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Pottammal Kozhikode" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Pottammal Kozhikode" width="580" height="380" loading="lazy">
       <p class="ptm-image-caption">Multi-tier bubble wrapping and edge padding for luxury home furniture</p>
     </div>
   </div>
@@ -662,7 +662,7 @@
       </div>
       <div>
         <div class="ptm-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Electronics and office equipment packing in Pottammal" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Electronics and office equipment packing in Pottammal" width="580" height="380" loading="lazy">
           <p class="ptm-image-caption">Reinforced corrugated carton packaging for sensitive electronics and medical supplies</p>
         </div>
       </div>
@@ -756,7 +756,7 @@
     </div>
 
     <div class="ptm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-weather covered container truck for Pottammal Kozhikode relocations" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-weather covered container truck for Pottammal Kozhikode relocations" width="580" height="380" loading="lazy">
       <p class="ptm-image-caption">Weatherproof sealed container trucks ensuring zero transit damage across Kerala</p>
     </div>
   </div>

@@ -324,7 +324,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 1 -->
           <div style="margin: 30px auto; max-width: 550px; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" 
                  alt="Waterproof sealed container loading for Bangalore to Bokaro relocation" 
                  style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;"
                  loading="lazy">
@@ -414,7 +414,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 2 -->
           <div style="margin: 30px 0; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
                  alt="Custom wooden crating for large LED television moving from Bangalore to Bokaro" 
                  style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
                  loading="lazy">
@@ -550,7 +550,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 3 -->
           <div style="margin: 30px 0; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" 
                  alt="Car carrier trailer loading vehicle for transport from Bangalore to Bokaro" 
                  style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
                  loading="lazy">
@@ -636,7 +636,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 4 -->
           <div style="margin: 30px 0; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" 
                  alt="Doorstep unpacking and furniture placement service in Bokaro" 
                  style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
                  loading="lazy">

@@ -69,7 +69,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Harmu Road, Near Overbridge",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -577,7 +577,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 1 -->
         <div class="mngr-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Mangalore to Ranchi - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Mangalore to Ranchi - Shree Ashirwad Packers" loading="lazy">
             <div class="mngr-img-caption">All-weather closed container truck deployed for long-haul return relocation from Mangalore to Ranchi.</div>
         </div>
 
@@ -698,7 +698,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 2 -->
         <div class="mngr-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Shifting Truck Loading - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Shifting Truck Loading - Shree Ashirwad Packers" loading="lazy">
             <div class="mngr-img-caption">Internal load balancing and safety belts securing heavy furniture against highway vibrations.</div>
         </div>
 
@@ -754,7 +754,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 3 -->
         <div class="mngr-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets - Shree Ashirwad Packers" loading="lazy">
             <div class="mngr-img-caption">High-grade packaging materials, bubble rolls, and corrugated sheets ready for residential move execution.</div>
         </div>
     </section>
@@ -785,7 +785,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 4 -->
         <div class="mngr-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Jharkhand - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Jharkhand - Shree Ashirwad Packers" loading="lazy">
             <div class="mngr-img-caption">Hydraulic loading and four-point wheel anchoring of private vehicles for long-distance intercity transit.</div>
         </div>
     </section>

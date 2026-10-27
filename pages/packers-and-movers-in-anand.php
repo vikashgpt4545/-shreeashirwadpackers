@@ -32,7 +32,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Anand",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-anand",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -361,7 +361,7 @@ $state_name = 'Gujarat';
   <div class="and-hero">
     <h1>Packers and Movers in Anand</h1>
     <p>Professional Moving Services in the Milk Capital of India & Vallabh Vidyanagar Educational Hub</p>
-    <a href="tel:+919334484001" class="and-hero-btn">Call +91 9334484001 For Free Quote</a>
+    <a href="tel:+919835565233" class="and-hero-btn">Call +91 9835565233 For Free Quote</a>
   </div>
 
   <div class="and-container">
@@ -376,7 +376,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="and-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Goods Loading in Anand Gujarat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Goods Loading in Anand Gujarat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -412,7 +412,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="and-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Anand" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Anand" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -576,7 +576,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="and-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Anand" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Anand" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="and-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Anand" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Anand" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -651,7 +651,7 @@ $state_name = 'Gujarat';
     <div class="and-cta-bar">
       <h3>Book Your Seamless Relocation in Anand Today</h3>
       <p>Contact our Charotar moving coordinators for an instant free home survey and transparent, competitive quotation.</p>
-      <a href="tel:+919334484001" class="and-hero-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="and-hero-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="and-section">

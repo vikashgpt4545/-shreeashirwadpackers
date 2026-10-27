@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Delhi Shifting Guide | NH-19 Express Movers | Call 9708579999</title>
-    <meta name="description" content="Complete relocation manual for shifting from Ranchi to Delhi NCR via NH-19 and Yamuna Expressway. Transit times, MCD permits, costs, and packaging by Shree Ashirwad Packers. Call 9708579999.">
+    <title>Ranchi to Delhi Shifting Guide | NH-19 Express Movers | Call 9835565233</title>
+    <meta name="description" content="Complete relocation manual for shifting from Ranchi to Delhi NCR via NH-19 and Yamuna Expressway. Transit times, MCD permits, costs, and packaging by Shree Ashirwad Packers. Call 9835565233.">
     <meta name="keywords" content="ranchi to delhi packers and movers, shifting from ranchi to new delhi, household goods transport ranchi delhi, nh 19 moving truck ranchi delhi, cost of moving ranchi to delhi, shree ashirwad packers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-shifting-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Interstate Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-shifting-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>Approaching Uttar Pradesh's western expanse, the route transitions via Kanpur and Agra onto the world-class Yamuna Expressway, providing smooth non-stop transit into Greater Noida, Noida, and Delhi's primary entry gates at Badarpur or Sarita Vihar.</p>
                 </div>
                 <div class="rdsg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating on NH-19 between Ranchi and New Delhi" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating on NH-19 between Ranchi and New Delhi" loading="lazy">
                 </div>
             </div>
 
@@ -279,7 +279,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Multi-Tier Industrial Packaging for 1,200 km Highway Transit</h2>
             <div class="rdsg-grid-2">
                 <div class="rdsg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom wooden crating for fragile LED screens and electronics for long distance moves" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom wooden crating for fragile LED screens and electronics for long distance moves" loading="lazy">
                 </div>
                 <div>
                     <p>A move across 1,180 kilometers subjects domestic goods to continuous low-frequency vibrations, sharp bridge expansion joint impacts, and fluctuating regional temperatures. Standard residential packing techniques fail over such demanding distances. Shree Ashirwad Packers deploys a specialized 4-tier packaging protocol:</p>
@@ -402,7 +402,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </ul>
                 </div>
                 <div class="rdsg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap protective cushioning for long distance interstate relocation" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap protective cushioning for long distance interstate relocation" loading="lazy">
                 </div>
             </div>
 

@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ayodhya",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹46,000",
         "address": {
             "@type": "PostalAddress",
@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Managing relocations in Ayodhya requires careful understanding of the local geography. City routes range from the high-security corridors of Ram Path, Bhakti Path, and Janmabhoomi Path to the dense residential colonies of Civil Lines, Devkali, Rekabganj, Beniganj, and Naka in Faizabad. Shree Ashirwad Packers and Movers deploys agile transport fleets and experienced local crews capable of adhering to local municipal guidelines, traffic diversions, and high-density residential layouts.</p>
 
         <div class="ayd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Ayodhya by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Ayodhya by Shree Ashirwad Packers and Movers">
             <p class="ayd-image-caption">Systematic truck loading and safety protocols by Shree Ashirwad Packers and Movers Ayodhya.</p>
         </div>
 
@@ -407,7 +407,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ayd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Ayodhya">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Ayodhya">
             <p class="ayd-image-caption">High-grade bubble wrapping and durable 5-ply cartons safeguard fragile articles.</p>
         </div>
 
@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ayd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing in Ayodhya">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing in Ayodhya">
             <p class="ayd-image-caption">Expert dismantling and cushioning of beds and heavy wooden furniture.</p>
         </div>
 
@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ayd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Ayodhya">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Ayodhya">
             <p class="ayd-image-caption">Door-to-door covered delivery vehicle ensuring zero weather damage.</p>
         </div>
 
@@ -610,7 +610,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <div class="ayd-faq-item">
             <h3>How do I schedule a home shifting date in Ayodhya?</h3>
-            <p>Simply call our direct helpline at +91 93344 04050 or fill out the quotation request form on our website. Our team will verify your inventory, confirm your preferred moving date, and issue an instant booking confirmation.</p>
+            <p>Simply call our direct helpline at +91 9835565233 or fill out the quotation request form on our website. Our team will verify your inventory, confirm your preferred moving date, and issue an instant booking confirmation.</p>
         </div>
 
         <div class="ayd-faq-item">

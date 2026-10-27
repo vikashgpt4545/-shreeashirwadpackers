@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Mohan Nagar Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="mhn-hero-title">Packers and Movers in Mohan Nagar Ghaziabad</h1>
         <p class="mhn-hero-subtitle">Expert residential shifting, commercial office relocations, precision carpentry, and inter-state logistics situated at the GT Road and Red Line Metro interchange.</p>
         <div class="mhn-cta-group">
-            <a href="tel:+919334404050" class="mhn-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mhn-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mhn-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mhn-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we deliver agile, damage-free moving solutions tailored to Mohan Nagar's dynamic mix of residential colonies, healthcare institutions, and bustling commercial establishments. Whether you are shifting into an apartment in Arthala, relocating a medical professional's household near Narinder Mohan Hospital, or organizing an office transfer near World Square Mall, our seasoned teams guarantee punctual execution.</p>
 
         <div class="mhn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Mohan Nagar Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Mohan Nagar Ghaziabad" loading="lazy">
             <p class="mhn-image-caption">Dedicated residential loading and truck transport operations across Mohan Nagar GT Road corridor</p>
         </div>
 
@@ -548,7 +548,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mhn-intro-p">Our logistics managers monitor real-time traffic flows along GT Road, Link Road, and the Hindon River Bridge, scheduling truck arrivals during designated non-peak hours. For residential colonies with narrow approach lanes in Arthala or Karhera, we deploy compact feeder shuttle vehicles (Tata Ace / 407) to transfer packed consignments swiftly to main container carriers stationed at wide loading bays.</p>
 
         <div class="mhn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Mohan Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Mohan Nagar" loading="lazy">
             <p class="mhn-image-caption">High-density shock-absorbent bubble wrapping protects delicate electronics and kitchenware</p>
         </div>
 
@@ -678,7 +678,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mhn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Mohan Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Mohan Nagar" loading="lazy">
             <p class="mhn-image-caption">Certified carpentry technicians carefully dismantle modular double beds and sliding wardrobes</p>
         </div>
     </section>
@@ -691,7 +691,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mhn-intro-p">For long-distance household transfers heading toward Eastern India—including Patna, Gaya, Ranchi, Jamshedpur, Bokaro, and Kolkata—our dedicated linehaul container fleet provides regular direct departures. Coordinated with our central logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>, clients enjoy daily milestone updates and live GPS tracking throughout the transit journey.</p>
 
         <div class="mhn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mohan Nagar Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mohan Nagar Ghaziabad" loading="lazy">
             <p class="mhn-image-caption">Weatherproof enclosed container trucks guarantee secure, timely door-to-door deliveries</p>
         </div>
     </section>
@@ -754,7 +754,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Mohan Nagar Move Today</h3>
         <p>Contact our experienced moving specialists for a transparent estimate, free home survey, and seamless shifting experience in Mohan Nagar.</p>
         <div class="mhn-cta-group">
-            <a href="tel:+919334404050" class="mhn-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mhn-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mhn-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

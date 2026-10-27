@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moving with Kids & Family Guide Ranchi | Stress-Free Family Relocation | Call 9708579999</title>
-    <meta name="description" content="Complete guide to moving with kids, toddlers, and elderly parents in Ranchi. School zone transitions, day-one survival kits, emotional coping tips, and child-safe moving day protocols. Call 9708579999.">
+    <title>Moving with Kids & Family Guide Ranchi | Stress-Free Family Relocation | Call 9835565233</title>
+    <meta name="description" content="Complete guide to moving with kids, toddlers, and elderly parents in Ranchi. School zone transitions, day-one survival kits, emotional coping tips, and child-safe moving day protocols. Call 9835565233.">
     <meta name="keywords" content="moving with kids ranchi, family relocation guide jharkhand, shifting with toddlers ranchi, school transfer tips ranchi, stress free family move, shree ashirwad packers family">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/moving-with-kids-family-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Family Shifting Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/moving-with-kids-family-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Moving with Kids & Family in Ranchi: A Stress-Free Relocation Guide</h1>
                 <p>Relocating with toddlers, school-age children, and elderly parents requires far more than physical packing—it demands emotional sensitivity, academic planning, and meticulous logistical safety. Discover how to transform moving chaos into an exciting family adventure.</p>
                 <div class="mwkf-cta-group">
-                    <a href="tel:+919708579999" class="mwkf-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20send%20me%20a%20family%20friendly%20home%20shifting%20quote%20for%20Ranchi" class="mwkf-btn-wa" target="_blank" rel="noopener">WhatsApp Family Moving Quote</a>
+                    <a href="tel:+919835565233" class="mwkf-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20send%20me%20a%20family%20friendly%20home%20shifting%20quote%20for%20Ranchi" class="mwkf-btn-wa" target="_blank" rel="noopener">WhatsApp Family Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="mwkf-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized toy and children essentials carton packing in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized toy and children essentials carton packing in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -267,7 +267,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>The Essential 72-Hour Family Survival Kit: What Never Goes into the Truck</h2>
                 <div class="mwkf-grid-2">
                     <div class="mwkf-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Child bedroom priority setup and unpacking service in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Child bedroom priority setup and unpacking service in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>When you arrive at your new residence after a long, exhausting moving day, searching through 40 sealed cardboard boxes for a baby thermometer, diaper cream, or school uniform is a parenting nightmare. Keep a dedicated <strong>Family Survival Duffel Bag</strong> in your personal vehicle containing:</p>
@@ -297,7 +297,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="mwkf-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Technician safely disassembling children bedroom and nursery furniture in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Technician safely disassembling children bedroom and nursery furniture in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -339,7 +339,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Caring for Elderly Parents & Senior Family Members</h2>
                 <div class="mwkf-grid-2">
                     <div class="mwkf-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe enclosed container truck transit for multi-generation family relocation in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe enclosed container truck transit for multi-generation family relocation in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Relocating is equally demanding on elderly parents who may suffer from arthritis, hypertension, or mobility limitations. Protecting their dignity and physical comfort requires thoughtful attention:</p>

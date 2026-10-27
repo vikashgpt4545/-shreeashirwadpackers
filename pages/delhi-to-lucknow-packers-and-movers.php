@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Premier interstate relocation services from Delhi NCR to Lucknow specializing in home shifting, commercial moves, enclosed car transport, motorcycle parcel delivery, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Traversing 530 km of world-class 6-lane access-controlled expressways, our vehicles maintain consistent scheduled transit speeds while safeguarding delicate home furnishings, electronics, and vehicle cargo against expressway wind turbulence and vibrations.</p>
 
     <div class="dtl-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Delhi to Lucknow interstate moving container truck" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Delhi to Lucknow interstate moving container truck" width="580" height="380" loading="lazy">
       <div class="dtk-img-caption">Dedicated sealed container trucks operating on the Delhi to Lucknow expressway corridor.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dtl-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Delhi to Lucknow moves" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Delhi to Lucknow moves" width="580" height="380" loading="lazy">
       <div class="dtl-img-caption">Multi-layer protective packaging engineered for high-speed stability across the 530 km Delhi-Lucknow corridor.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dtl-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Delhi to Lucknow relocation" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Delhi to Lucknow relocation" width="580" height="380" loading="lazy">
       <div class="dtl-img-caption">Dedicated closed automobile carriers ensuring secure, scratch-free transport from Delhi to Lucknow.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dtl-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Lucknow" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Lucknow" width="580" height="380" loading="lazy">
       <div class="dtl-img-caption">Complete destination unpacking, furniture reassembly, and debris clearance service in Lucknow.</div>
     </div>
   </section>

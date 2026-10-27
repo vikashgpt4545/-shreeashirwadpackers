@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Mumbai Relocation Guide | 48-Hr Container Movers | Call 9708579999</title>
-    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Mumbai MMR via NH-53 and Samruddhi Mahamarg. 1,560 km transit timeline, costs, and packaging by Shree Ashirwad Packers. Call 9708579999.">
+    <title>Ranchi to Mumbai Relocation Guide | 48-Hr Container Movers | Call 9835565233</title>
+    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Mumbai MMR via NH-53 and Samruddhi Mahamarg. 1,560 km transit timeline, costs, and packaging by Shree Ashirwad Packers. Call 9835565233.">
     <meta name="keywords" content="ranchi to mumbai packers and movers, moving from ranchi to mumbai, household shifting ranchi mumbai, samruddhi mahamarg movers ranchi mumbai, cost of packers ranchi mumbai, shree ashirwad packers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-mumbai-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Western Corridor Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-mumbai-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>By coupling the four-lane <strong>National Highway 53 (NH-53 / Asian Highway 46)</strong> from Raipur to Nagpur with the 120 km/h grade-separated Samruddhi Mahamarg, our dedicated container trucks travel from central Ranchi directly into Thane, Navi Mumbai, and South Mumbai in just 48 to 60 hours under continuous GPS surveillance.</p>
                 </div>
                 <div class="rmrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating between Ranchi and Mumbai MMR" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating between Ranchi and Mumbai MMR" loading="lazy">
                 </div>
             </div>
 
@@ -279,7 +279,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Industrial-Grade Packaging for 1,500 km Vibration Dampening</h2>
             <div class="rmrg-grid-2">
                 <div class="rmrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping and crating for long haul interstate shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping and crating for long haul interstate shifting" loading="lazy">
                 </div>
                 <div>
                     <p>Traveling 1,560 km across varying road surfaces subjects cargo to sustained lateral and vertical vibration frequencies. Without professional industrial packaging, delicate furniture joints loosen, veneers chip, and electronics suffer micro-solder fractures.</p>
@@ -401,7 +401,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </ul>
                 </div>
                 <div class="rmrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury vehicles for interstate transit from Ranchi to Mumbai" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury vehicles for interstate transit from Ranchi to Mumbai" loading="lazy">
                 </div>
             </div>
         </section>

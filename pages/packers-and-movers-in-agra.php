@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Agra",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="agr-hero-title">Packers and Movers in Agra</h1>
         <p class="agr-hero-subtitle">World-Class Household Shifting, Corporate Relocation, Defense Cantonment Moving &amp; Vehicle Transport Across the Taj City</p>
         <div class="agr-cta-group">
-            <a href="tel:+919334404050" class="agr-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="agr-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="agr-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -508,7 +508,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="agr-intro-p">Relocating a home or commercial enterprise in Agra requires specialized knowledge of the city's complex urban fabric. The city encompasses everything from narrow, vibrant trading markets in the heritage core near Rawatpara and Belanganj to modern, sprawling multi-storey residential societies along Kamla Nagar, Dayalbagh, and the Fatehabad Road luxury hotel corridor. Shree Ashirwad Packers and Movers delivers a polished, dependable moving service equipped with modern covered container vehicles, certified packing specialists, and master carpenters to handle moves of any scale seamlessly.</p>
 
         <div class="agr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Professional Household Loading in Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Professional Household Loading in Agra" width="580" height="380" loading="lazy">
             <p class="agr-image-caption">Our expert loading crew utilizing heavy-duty padding and hydraulic lifting ramps for secure household transport in Agra.</p>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="agr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-Layer Household Packaging in Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-Layer Household Packaging in Agra" width="580" height="380" loading="lazy">
             <p class="agr-image-caption">Multi-tier bubble cushioning, corner edge protectors, and heavy-duty 5-ply cartons ensuring 100% damage-free transit in Agra.</p>
         </div>
     </section>
@@ -688,7 +688,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="agr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Agra" width="580" height="380" loading="lazy">
             <p class="agr-image-caption">Skilled carpentry team carefully dismantling large wooden bed frames and packing delicate hardware in Agra.</p>
         </div>
     </section>
@@ -701,7 +701,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="agr-intro-p">Northbound consignments reach Greater Noida, Noida, and Delhi in approximately 2.5 to 3 hours via the 6-lane Yamuna Expressway. Eastbound shipments bound for Lucknow connect directly via the high-speed Agra-Lucknow Expressway, linking effortlessly toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>, Prayagraj, Varanasi, Patna, and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> along the Grand Trunk NH-19 corridor. Westbound traffic toward Bharatpur and Jaipur travels along NH-21, while southbound consignments toward Gwalior, Jhansi, and central India follow the 4-lane NH-44 highway.</p>
 
         <div class="agr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Agra" width="580" height="380" loading="lazy">
             <p class="agr-image-caption">Dedicated sealed container truck fleet ensuring clean, weather-protected door-to-door delivery across Agra.</p>
         </div>
 
@@ -768,7 +768,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Smooth Relocation in Agra Today</h3>
         <p>Connect with our Agra relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="agr-cta-group">
-            <a href="tel:+919334404050" class="agr-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="agr-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="agr-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

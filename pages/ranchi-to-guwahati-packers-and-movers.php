@@ -75,7 +75,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -557,7 +557,7 @@ require_once __DIR__ . '/includes/seo.php';
   </div>
 
   <!-- Primary Featured Image (Strictly Constrained) -->
-  <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Ranchi to Guwahati Packers and Movers - Weatherproof Container Shifting" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
+  <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Ranchi to Guwahati Packers and Movers - Weatherproof Container Shifting" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
 
   <h2>Navigating the Strategic 950 km Highway Corridor to Guwahati</h2>
   <p>The highway journey connecting Ranchi to Guwahati traverses diverse topographies, from the undulating mineral terrains of Jharkhand through northern West Bengal's North Bengal plains and the crucial Siliguri Corridor (Chicken's Neck), before entering lower Assam via the Srirampur interstate border post. Our experienced logistics dispatchers maintain continuous highway oversight to navigate seasonal weather patterns and ensure zero-delay transit.</p>
@@ -683,7 +683,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Secondary Contextual Image -->
   <div style="margin: 2rem 0; text-align: center;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof Closed Container Truck for Ranchi to Guwahati Relocation" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof Closed Container Truck for Ranchi to Guwahati Relocation" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Heavy-duty all-weather container trucks safeguard household consignments across the 950 km North Bengal and Assam highway.</p>
   </div>
 
@@ -723,7 +723,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Third Contextual Image -->
   <div style="margin: 2rem 0; text-align: center;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="High-Strength Packaging Materials for Ranchi to Guwahati Relocation" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="High-Strength Packaging Materials for Ranchi to Guwahati Relocation" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Triple-layer bubble wrap, moisture-barrier films, and heavy-gauge corrugated cartons safeguard delicate glassware and electronics.</p>
   </div>
 
@@ -737,7 +737,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Fourth Contextual Image -->
   <div style="margin: 2rem 0; text-align: center;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Container Truck Loading for Ranchi to Guwahati Interstate Transit" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Container Truck Loading for Ranchi to Guwahati Interstate Transit" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Systematic interior container loading ensures lower heavy-cargo stability and shock-free placement of fragile items.</p>
   </div>
 

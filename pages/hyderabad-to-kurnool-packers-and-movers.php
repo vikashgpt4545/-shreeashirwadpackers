@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Premier intercity moving solutions from Hyderabad to Kurnool covering C-Camp, Nandyal Checkpost, Abbas Nagar, and Kallur with sealed container transit.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹8,500 - ₹36,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy dedicated enclosed container trucks equipped with internal cargo locks, hydraulic tailgates, and cellular GPS tracking. Whether you are shifting for government administrative transfers, corporate postings, medical appointments at regional hospitals, or moving family homes, our certified teams guarantee seamless same-day shifting without intermediate transshipment or delay.</p>
 
         <div class="hdkn-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Hyderabad to Kurnool" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Hyderabad to Kurnool" width="580" height="386">
         </div>
 
         <div class="hdkn-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Our fleet control desk monitors automated FASTag toll plazas—including Raikal, Shakapur, and Pullur—continuously, eliminating manual payment bottlenecks and ensuring continuous, safe highway transit. This direct highway connectivity allows our drivers to maintain steady schedules without urban detours or unnecessary stops.</p>
 
         <div class="hdkn-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for express transit" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for express transit" width="580" height="386">
         </div>
 
         <div class="hdkn-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Delicate glassware and kitchen appliances are wrapped in high-density bubble wrap, fitted with custom foam edge guards, shrink-wrapped against dust, and boxed into heavy 5-ply corrugated cartons. For high-value smart TVs, quartz dining tops, and pooja mandirs, we construct tailored wooden skeleton crates that absorb highway vibrations.</p>
 
         <div class="hdkn-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Kurnool" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Kurnool" width="580" height="386">
         </div>
 
         <div class="hdkn-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Before loading, our technical supervisors conduct a detailed 24-point pre-transit vehicle inspection. Exterior scratches, fuel levels, odometer readings, and accessory conditions are documented on an official inspection slip shared digitally with the vehicle owner.</p>
 
         <div class="hdkn-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
         </div>
 
         <div class="hdkn-grid-2">

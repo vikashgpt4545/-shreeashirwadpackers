@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <span class="gbd-badge">Over 15 Years of NCR Moving Excellence</span>
         </div>
         <div class="gbd-hero-cta">
-            <a href="tel:+919334404050" class="gbd-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gbd-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gbd-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -507,7 +507,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gbd-intro-p">Bisected by the historic Hindon River and connected by the world-class 14-lane Delhi-Meerut Expressway (NE-3), NH-9, the Hindon Elevated Road, and the high-speed Namo Bharat RRTS train network, Ghaziabad combines mature industrial estates with cutting-edge residential sub-cities. From the high-density skyscraper clusters of Indirapuram, Vaishali, and Vasundhara in the Trans-Hindon belt to the sprawling modern townships of Raj Nagar Extension, Crossings Republik, and the established kothis of Raj Nagar and Kavi Nagar, the city accommodates over 2.5 million residents.</p>
 
         <div class="gbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Ghaziabad container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Ghaziabad container truck" width="580" height="386" loading="lazy">
             <p class="gbd-image-caption">Systematic loading and protective padding of residential goods in Ghaziabad Uttar Pradesh.</p>
         </div>
 
@@ -547,7 +547,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Ghaziabad" width="580" height="386" loading="lazy">
             <p class="gbd-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -685,7 +685,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Ghaziabad" width="580" height="386" loading="lazy">
             <p class="gbd-image-caption">Precision furniture disassembly and wrapped timber protection for Ghaziabad residences.</p>
         </div>
 
@@ -727,7 +727,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Ghaziabad" width="580" height="386" loading="lazy">
             <p class="gbd-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

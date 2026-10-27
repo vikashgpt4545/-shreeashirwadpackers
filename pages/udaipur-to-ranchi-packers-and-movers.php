@@ -656,7 +656,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="udr-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sealed Container Truck for Udaipur to Ranchi Shifting" title="Household Goods Loading Udaipur to Ranchi">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sealed Container Truck for Udaipur to Ranchi Shifting" title="Household Goods Loading Udaipur to Ranchi">
             </div>
         </div>
     </div>
@@ -738,7 +738,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="udr-ran-container">
         <div class="udr-ran-two-col">
             <div class="udr-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Inspecting Furniture and Delicate Household Goods" title="Professional Packing and Inspection Crew">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Inspecting Furniture and Delicate Household Goods" title="Professional Packing and Inspection Crew">
             </div>
             <div class="udr-ran-two-col-text">
                 <h2>5-Layer Defensive Packaging Architecture</h2>
@@ -803,7 +803,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="udr-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Udaipur to Ranchi Transport" title="Motorcycle Transport Udaipur to Ranchi">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Udaipur to Ranchi Transport" title="Motorcycle Transport Udaipur to Ranchi">
             </div>
         </div>
     </div>
@@ -814,7 +814,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="udr-ran-container">
         <div class="udr-ran-two-col">
             <div class="udr-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Storage and Warehouse Hub for Transit Goods" title="Secure Warehouse Storage Facility">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Storage and Warehouse Hub for Transit Goods" title="Secure Warehouse Storage Facility">
             </div>
             <div class="udr-ran-two-col-text">
                 <h2>100% Audit-Approved Bills for Hindustan Zinc, IIM &amp; Corporate Officers</h2>

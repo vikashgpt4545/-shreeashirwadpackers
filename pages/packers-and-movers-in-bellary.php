@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bellary";
         "name": "Shree Ashirwad Packers and Movers Bellary",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -515,7 +515,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Bellary (Ballari)</h1>
         <p>Premium household shifting, JSW Steel Toranagallu corporate transfers, mining equipment logistics, and vehicle transport across Gandhi Nagar, Cantonment, Patel Nagar, and Cowl Bazaar.</p>
         <div class="bll-btn-wrap">
-            <a href="tel:+919334404050" class="bll-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="bll-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bll-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -543,7 +543,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bll-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Bellary" title="Household relocation in Bellary">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Bellary" title="Household relocation in Bellary">
             <p class="bll-image-caption">Comprehensive household packing and organized labeling for residential homes in Bellary (Ballari).</p>
         </div>
     </section>
@@ -579,7 +579,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Family puja mandirs, brass lamps, and sacred stone idols are treated with absolute reverence. Each item is polished, wrapped in clean white paper, shielded with dense thermocol padding, and placed into dedicated boxes with religious respect.</p>
 
         <div class="bll-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Bellary" title="Furniture packing in Bellary">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Bellary" title="Furniture packing in Bellary">
             <p class="bll-image-caption">Multi-tier bubble wrapping and edge guards applied to premium furniture in Bellary.</p>
         </div>
     </section>
@@ -620,7 +620,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Bellary residents and corporate personnel transferring to Bangalore, Hyderabad, Pune, or other interstate destinations rely on our dedicated vehicle transit solutions. We pack motorcycles, Royal Enfield bikes, and scooters using dense foam padding on fuel tanks, side mirrors, and exhausts. Vehicles are secured with wheel chocks and heavy-duty ratchet straps inside covered carriers, ensuring scratch-free delivery with full transit insurance coverage.</p>
 
         <div class="bll-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Bellary" title="Delicate packing in Bellary">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Bellary" title="Delicate packing in Bellary">
             <p class="bll-image-caption">Custom bubble wrapping and heavy-duty box crating for fragile glassware and delicate kitchenware.</p>
         </div>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bll-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Bellary" title="Safe transit truck in Bellary">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Bellary" title="Safe transit truck in Bellary">
             <p class="bll-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

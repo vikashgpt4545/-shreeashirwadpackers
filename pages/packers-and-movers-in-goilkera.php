@@ -2,7 +2,7 @@
 /**
  * Packers and Movers in Goilkera - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9308888746
+ * Contact: +91 8409531615 / +91 9835565233
  * Office: Serving Goilkera, Chakradharpur, Sonua, Manoharpur & West Singhbhum, Jharkhand
  */
 
@@ -1028,7 +1028,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             <!-- Service 1 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household shifting and carton packing in Goilkera" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household shifting and carton packing in Goilkera" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Household Goods & Railway Colony Moves</h3>
@@ -1046,7 +1046,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             <!-- Service 2 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Goilkera forest corridor" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Goilkera forest corridor" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Commercial & Government Office Relocation</h3>
@@ -1064,7 +1064,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             <!-- Service 3 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and bike transport carrier in Goilkera" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and bike transport carrier in Goilkera" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Two-Wheeler & Automobile Transport</h3>
@@ -1082,7 +1082,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-goilkera";
             <!-- Service 4 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehouse storage for Goilkera cargo" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehouse storage for Goilkera cargo" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Secure Warehousing & Interim Storage</h3>

@@ -296,7 +296,7 @@ require_once __DIR__ . '/includes/seo.php';
 
       <!-- Hero Visual Section -->
       <figure style="margin: 0 auto 35px; max-width: 550px; text-align: center;">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle packing and two wheeler transport in Bokaro Steel City" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle packing and two wheeler transport in Bokaro Steel City" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
         <figcaption style="font-size: 0.88rem; color: #64748b; margin-top: 8px; text-align: center;">
           Multi-layer bubble wrap, foam handlebar shields, and corrugated armor applied to a commuter motorcycle in Bokaro before carrier loading.
         </figcaption>
@@ -387,11 +387,11 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Second Visual Section -->
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; margin: 35px 0;">
           <div>
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooty and commuter bike parcel packing in Bokaro" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooty and commuter bike parcel packing in Bokaro" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
             <p style="font-size: 0.9rem; color: #64748b; margin-top: 8px; text-align: center;">Protective packaging applied to gearless scooters (Activa, Jupiter, Access) in Chas Bokaro.</p>
           </div>
           <div>
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler secured carrier transit from Bokaro" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler secured carrier transit from Bokaro" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
             <p style="font-size: 0.9rem; color: #64748b; margin-top: 8px; text-align: center;">Covered transport carrier fitted with ratcheted wheel chocks and stabilizing anchor straps.</p>
           </div>
         </div>

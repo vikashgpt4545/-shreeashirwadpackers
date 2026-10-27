@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "name": "Shree Ashirwad Packers and Movers Garhwa to Lesliganj",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹7,000 - ₹15,000 - ₹22,000",
         "address": {
             "@type": "PostalAddress",
@@ -111,7 +111,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-9334800840",
+            "telephone": "+91 9835565233",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
@@ -525,8 +525,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     <span class="hero-meta-badge"><i class="fas fa-box-open"></i> 5-Layer Waterproof Packing</span>
                 </div>
                 <div class="hero-cta-group">
-                    <a href="tel:+919334800840" class="btn-brand-primary">
-                        <i class="fas fa-phone-alt"></i> Call +91-9334800840
+                    <a href="tel:+919835565233" class="btn-brand-primary">
+                        <i class="fas fa-phone-alt"></i> Call +91 9835565233
                     </a>
                     <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn-brand-secondary">
                         <i class="fas fa-calculator"></i> Get Free Instant Quote
@@ -609,7 +609,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
         <div class="row g-4">
             <div class="col-md-6 col-lg-3">
                 <div class="visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container moving truck for Garhwa to Lesliganj relocation" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container moving truck for Garhwa to Lesliganj relocation" loading="lazy">
                     <div class="caption">
                         <h4>Sealed Container Fleets</h4>
                         <p>Weatherproof, all-weather container trucks ensuring zero dust, moisture, or transit damage across the 52 km corridor.</p>
@@ -618,7 +618,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for home appliances on Garhwa to Lesliganj route" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for home appliances on Garhwa to Lesliganj route" loading="lazy">
                     <div class="caption">
                         <h4>5-Layer Appliance Protection</h4>
                         <p>Specialized foam and thermocol padding for refrigerators, washing machines, and OLED televisions.</p>
@@ -627,7 +627,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and bike parcel carrier service from Garhwa to Lesliganj" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and bike parcel carrier service from Garhwa to Lesliganj" loading="lazy">
                     <div class="caption">
                         <h4>Secure Two-Wheeler Parcel</h4>
                         <p>Reinforced foam crating and hydraulic tie-downs ensuring scratch-free bike and scooter transit to Lesliganj.</p>
@@ -636,7 +636,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Careful truck loading and handling for Garhwa to Lesliganj shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Careful truck loading and handling for Garhwa to Lesliganj shifting" loading="lazy">
                     <div class="caption">
                         <h4>Trained Loading Crews</h4>
                         <p>Skilled moving supervisors utilizing heavy-duty straps, trolleys, and padded blankets for secure loading.</p>
@@ -1054,8 +1054,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 Join thousands of delighted families, defense officers, doctors, and corporate executives who trust Shree Ashirwad Packers and Movers for dependable, damage-free shifting across Jharkhand and pan-India.
             </p>
             <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:+919334800840" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 32px;">
-                    <i class="fas fa-phone-alt"></i> Call +91-9334800840
+                <a href="tel:+919835565233" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 32px;">
+                    <i class="fas fa-phone-alt"></i> Call +91 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn-brand-secondary" style="font-size: 1.1rem; padding: 14px 30px;">
                     <i class="fas fa-calendar-check"></i> Book Your Move Today

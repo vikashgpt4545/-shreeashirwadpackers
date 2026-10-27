@@ -588,7 +588,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
         <div class="row g-4">
             <div class="col-md-6 col-lg-3">
                 <div class="visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container moving truck for Dhanbad to Madhupur relocation" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container moving truck for Dhanbad to Madhupur relocation" loading="lazy">
                     <div class="caption">
                         <h4>Sealed Container Fleets</h4>
                         <p>Weatherproof, all-weather container trucks ensuring zero dust, moisture, or transit damage across the 95 km corridor.</p>
@@ -597,7 +597,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for home appliances on Dhanbad to Madhupur route" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for home appliances on Dhanbad to Madhupur route" loading="lazy">
                     <div class="caption">
                         <h4>5-Layer Appliance Protection</h4>
                         <p>Specialized foam and thermocol padding for refrigerators, washing machines, and LED televisions.</p>
@@ -606,7 +606,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and bike parcel carrier service from Dhanbad to Madhupur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and bike parcel carrier service from Dhanbad to Madhupur" loading="lazy">
                     <div class="caption">
                         <h4>Secure Two-Wheeler Parcel</h4>
                         <p>Reinforced foam crating and hydraulic tie-downs ensuring scratch-free bike and scooter transit to Madhupur.</p>
@@ -615,7 +615,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="visual-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Careful truck loading and handling for Dhanbad to Madhupur shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Careful truck loading and handling for Dhanbad to Madhupur shifting" loading="lazy">
                     <div class="caption">
                         <h4>Trained Loading Crews</h4>
                         <p>Skilled moving supervisors utilizing heavy-duty straps, trolleys, and padded blankets for secure loading.</p>

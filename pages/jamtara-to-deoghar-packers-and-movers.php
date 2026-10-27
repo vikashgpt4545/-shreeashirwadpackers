@@ -634,7 +634,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-deoghar-packer
                 <p>Whether you are a medical professional joining the faculty or administrative team at AIIMS Deoghar, an Eastern Railway staff member relocating near Jasidih Junction, a school teacher, a banking executive, or a family moving into a newly built home in Castairs Town or Bilasi Town, our dedicated same-day relocation service provides flawless execution from doorstep to doorstep.</p>
             </div>
             <div class="j2deo-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Jamtara to Deoghar household shifting" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Jamtara to Deoghar household shifting" loading="lazy">
                 <div class="j2deo-img-caption">Dedicated all-weather sealed container trucks operating daily on the Jamtara-Deoghar highway route</div>
             </div>
         </div>
@@ -679,7 +679,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-deoghar-packer
     <section class="j2deo-section">
         <div class="j2deo-grid-2">
             <div class="j2deo-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Jamtara to Deoghar transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Jamtara to Deoghar transit" loading="lazy">
                 <div class="j2deo-img-caption">Multi-layer protective bubble wrap, corrugated sheets, and foam edge guards for furniture and fragile items</div>
             </div>
             <div>
@@ -779,7 +779,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-deoghar-packer
                 </ul>
             </div>
             <div class="j2deo-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Jamtara to Deoghar vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Jamtara to Deoghar vehicle relocation" loading="lazy">
                 <div class="j2deo-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Jamtara and Deoghar</div>
             </div>
         </div>
@@ -835,7 +835,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-deoghar-packer
     <section class="j2deo-section">
         <div class="j2deo-grid-2">
             <div class="j2deo-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Deoghar residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Deoghar residence" loading="lazy">
                 <div class="j2deo-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Deoghar residences</div>
             </div>
             <div>

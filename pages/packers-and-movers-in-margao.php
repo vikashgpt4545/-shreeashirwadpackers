@@ -32,7 +32,7 @@ $state_name = 'Goa';
     "name": "Shree Ashirwad Packers and Movers Margao",
     "image": "https://shreeashirwadpackers.com/images/professional-loading-crew-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-margao",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -354,7 +354,7 @@ $state_name = 'Goa';
     <div class="mrg-container">
       <h1>Packers and Movers in Margao South Goa</h1>
       <p>Certified household relocation, Fatorda residential shifting, Konkan Railway linehaul transfers, and commercial moving services across Madgaon and the Salcete coastal belt.</p>
-      <a href="tel:+919334484001" class="mrg-hero-btn">Call +91 9334484001 for Free Moving Quote</a>
+      <a href="tel:+919835565233" class="mrg-hero-btn">Call +91 9835565233 for Free Moving Quote</a>
     </div>
   </section>
 
@@ -365,7 +365,7 @@ $state_name = 'Goa';
       <p>Margao, also recognized as Madgaon, stands as the vibrant commercial capital and administrative headquarters of the South Goa district. Celebrated for its historic heritage, bustling municipal markets, the prestigious Nehru Stadium at Fatorda, and its status as the primary Konkan Railway junction in Goa, Margao serves as the economic engine connecting coastal tourism belts with national industrial trade corridors. Relocating within this energetic metropolis demands localized logistics knowledge, from negotiating historic commercial market traffic near the Municipal Gardens to accessing modern multistory housing societies across Aquem, Borda, and Gogol.</p>
 
       <div class="mrg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional packers and movers loading crew in Margao South Goa" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional packers and movers loading crew in Margao South Goa" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mrg-grid-2">
@@ -468,7 +468,7 @@ $state_name = 'Goa';
       <p>From fragile antique china sets to industrial logistics, our Margao branch provides specialized relocation services engineered for safety, speed, and complete customer peace of mind:</p>
 
       <div class="mrg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and crockery packing service in Margao" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and crockery packing service in Margao" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mrg-grid-cards">
@@ -505,7 +505,7 @@ $state_name = 'Goa';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers follows a rigorous quality protocol designed to ensure zero breakage and timely delivery:</p>
 
       <div class="mrg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck moving goods Margao" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck moving goods Margao" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mrg-grid-cards">
@@ -538,7 +538,7 @@ $state_name = 'Goa';
       <p>Our localized moving teams are active across every key neighborhood, residential sector, and municipal ward of Margao and Salcete:</p>
 
       <div class="mrg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons and furniture wrapping Margao" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons and furniture wrapping Margao" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mrg-grid-cards">

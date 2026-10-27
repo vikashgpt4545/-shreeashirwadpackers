@@ -634,7 +634,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pune-to-hazaribagh-packer
                 <p>Whether you are a software engineer returning from Hinjewadi or Magarpatta City to establish a remote workstation in Hazaribagh, an automotive executive on manufacturing transfer, a university professor joining Vinoba Bhave University, or a family relocating back to your hometown, our comprehensive door-to-door relocation solutions guarantee complete peace of mind.</p>
             </div>
             <div class="pne2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container transport truck for Pune to Hazaribagh household shifting" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container transport truck for Pune to Hazaribagh household shifting" loading="lazy">
                 <div class="pne2hzb-img-caption">Sealed containerized freight trucks ensuring complete cargo security on the Pune-Hazaribagh national corridor</div>
             </div>
         </div>
@@ -679,7 +679,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pune-to-hazaribagh-packer
     <section class="pne2hzb-section">
         <div class="pne2hzb-grid-2">
             <div class="pne2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Pune to Hazaribagh transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Pune to Hazaribagh transit" loading="lazy">
                 <div class="pne2hzb-img-caption">Multi-layer protective bubble wrap, corrugated sheets, and foam edge guards for furniture and fragile items</div>
             </div>
             <div>
@@ -779,7 +779,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pune-to-hazaribagh-packer
                 </ul>
             </div>
             <div class="pne2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Pune to Hazaribagh vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Pune to Hazaribagh vehicle relocation" loading="lazy">
                 <div class="pne2hzb-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Pune and Hazaribagh</div>
             </div>
         </div>
@@ -835,7 +835,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pune-to-hazaribagh-packer
     <section class="pne2hzb-section">
         <div class="pne2hzb-grid-2">
             <div class="pne2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
                 <div class="pne2hzb-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Hazaribagh residences</div>
             </div>
             <div>

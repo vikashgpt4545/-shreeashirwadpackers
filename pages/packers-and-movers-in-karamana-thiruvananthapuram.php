@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Karamana Thiruvananthapuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-karamana-thiruvananthapuram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹45,000",
     "address": {
       "@type": "PostalAddress",
@@ -189,7 +189,7 @@
         "name": "How do I book a residential move in Karamana or Kaimanam?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "You can contact our 24/7 support line at +91 9334484001 or submit a request on our website. A relocation executive will conduct an instant digital or in-person survey and provide a binding transparent quote."
+          "text": "You can contact our 24/7 support line at +91 9835565233 or submit a request on our website. A relocation executive will conduct an instant digital or in-person survey and provide a binding transparent quote."
         }
       },
       {
@@ -442,7 +442,7 @@
       </div>
       <div>
         <div class="krm-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Karamana Thiruvananthapuram" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Karamana Thiruvananthapuram" width="580" height="380" loading="lazy">
         </div>
       </div>
     </div>
@@ -479,7 +479,7 @@
     </div>
 
     <div class="krm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Careful packaging of wooden furniture and heirlooms in Karamana Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Careful packaging of wooden furniture and heirlooms in Karamana Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
 
     <p>Our team utilizes virgin 5-ply cartons, shock-absorbing bubble wrap, edge protectors, and heavy stretch film to protect dining tables, wooden cots, and fragile kitchenware from transit friction and humidity.</p>
@@ -571,7 +571,7 @@
     </table>
 
     <div class="krm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packaging laboratory equipment and electronics in Pappanamcode Karamana" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packaging laboratory equipment and electronics in Pappanamcode Karamana" width="580" height="380" loading="lazy">
     </div>
 
     <p>Every package includes premium corrugated cartons, shock-absorbing bubble cushioning, stretch film, professional loading, transportation in weatherproof container trucks, unloading, and furniture reassembly at your destination.</p>
@@ -675,7 +675,7 @@
     </ol>
 
     <div class="krm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Karamana Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Karamana Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
   </section>
 
@@ -720,7 +720,7 @@
 
     <div class="krm-faq-item">
       <div class="krm-faq-question">How do I book a residential move in Karamana or Kaimanam?</div>
-      <p>You can contact our 24/7 support line at +91 9334484001 or submit a request on our website. A relocation executive will conduct an instant digital or in-person survey and provide a binding transparent quote.</p>
+      <p>You can contact our 24/7 support line at +91 9835565233 or submit a request on our website. A relocation executive will conduct an instant digital or in-person survey and provide a binding transparent quote.</p>
     </div>
 
     <div class="krm-faq-item">

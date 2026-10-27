@@ -344,7 +344,7 @@ $meta_keywords = "dhanbad to kolkata packers and movers, packers and movers dhan
         
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading Dhanbad to Kolkata" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading Dhanbad to Kolkata" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">NH-19 Linehaul Container Loading</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Heavy-duty enclosed container trucks packed with scientific weight balancing for smooth travel along the GT Road corridor.</p>
@@ -352,7 +352,7 @@ $meta_keywords = "dhanbad to kolkata packers and movers, packers and movers dhan
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kolkata" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kolkata" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Kolkata Urban Doorstep Delivery</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Express delivery across Salt Lake, New Town, South Kolkata, Howrah, and Rajarhat with dedicated unloading crews.</p>
@@ -360,7 +360,7 @@ $meta_keywords = "dhanbad to kolkata packers and movers, packers and movers dhan
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and furniture protective packing for interstate moving" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and furniture protective packing for interstate moving" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">5-Layer Furniture Protection</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Multi-layer bubble wrap, edge guard profiles, and heavy stretch film protecting expensive sofas and wooden furniture.</p>

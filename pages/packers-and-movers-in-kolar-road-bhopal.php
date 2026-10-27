@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Kolar Road Bhopal",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kolar-road-bhopal",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,900 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -413,7 +413,7 @@ $state_name = 'Madhya Pradesh';
           <p>Additionally, our on-ground team coordinates with society resident welfare committees across Kolar Road, arranging elevator bookings and protective hallway sheeting so your moving day proceeds smoothly without neighbor complaints.</p>
         </div>
         <div class="klr-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Kolar Road Bhopal" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Kolar Road Bhopal" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -455,7 +455,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="klr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Kolar Road Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Kolar Road Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="klr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet on Kolar Road Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet on Kolar Road Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -648,7 +648,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="klr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup on Kolar Road Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup on Kolar Road Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -679,7 +679,7 @@ $state_name = 'Madhya Pradesh';
     <div class="klr-cta-bar">
       <h3>Ready for a Smooth Move on Kolar Road Bhopal?</h3>
       <p>Contact our local Kolar Road relocation experts today for a free on-site survey and transparent itemized quote.</p>
-      <a href="tel:+919334484001" class="klr-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="klr-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="klr-section">

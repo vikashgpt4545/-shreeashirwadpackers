@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bankura#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bankura",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bnk-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized packing experience to Bankura. Whether you are relocating your family between apartments in Katjuridanga, moving an academic faculty residence from School Danga, or transferring to industrial cities in Paschim Bardhaman, our trained moving crews execute every step with precision. Coordinated closely with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide unified door-to-door relocation across India.</p>
 
                 <div class="bnk-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bankura">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bankura">
                     <div class="bnk-image-caption">Systematic loading of household goods and cartons in Bankura.</div>
                 </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bnk-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Bankura">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Bankura">
                     <div class="bnk-image-caption">Multi-layered protective packing materials used for fragile household items in Bankura.</div>
                 </div>
 
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bnk-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Bankura">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Bankura">
                     <div class="bnk-image-caption">Skilled carpenters dismantling and protective wrapping modular bed sets in Bankura.</div>
                 </div>
 
@@ -694,7 +694,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bnk-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bankura">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bankura">
                     <div class="bnk-image-caption">Dedicated door-to-door closed carrier truck operating in Bankura.</div>
                 </div>
 
@@ -751,7 +751,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Near Machantala More, Katjuridanga Main Road, Bankura</li>
                     <li><strong>Service Hours:</strong> 6:30 AM - 9:30 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bnk-cta-button">Request Free Moving Quote</a>

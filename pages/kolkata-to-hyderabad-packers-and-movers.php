@@ -22,7 +22,7 @@ require_once __DIR__ . '/../includes/config.php';
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers",
-        "telephone": "+91 9334812341",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "url": "<?php echo SITE_BASE_URL; ?>/kolkata-to-hyderabad-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
@@ -476,7 +476,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Traversing 1,500 kilometers from Kolkata in eastern India to Hyderabad in the south-central Deccan Plateau involves one of the country's most vital economic transport routes. The primary corridor follows National Highway 16 (NH16) along the eastern coastline through Kharagpur, Balasore, Cuttack, Bhubaneswar, Brahmapur, Srikakulam, and Visakhapatnam, before veering inland across Rajahmundry, Eluru, and Vijayawada onto National Highway 65 (NH65) straight into Hyderabad via Suryapet.</p>
 
         <div class="klhd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the Kolkata to Hyderabad interstate corridor" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the Kolkata to Hyderabad interstate corridor" width="580" height="387" loading="lazy">
             <div class="klhd-image-caption">Dedicated high-capacity container truck engineered for zero-damage cross-state transit from Kolkata to Hyderabad.</div>
         </div>
 
@@ -586,7 +586,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our packaging experts use five distinct protective tiers: primary scratch-resistant foam wraps, heavy-gauge shock-absorbing bubble cushioning, reinforced edge guards, moisture-resistant stretch film, and 7-ply virgin Kraft corrugated master cartons.</p>
 
         <div class="klhd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and protective packaging materials" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and protective packaging materials" width="580" height="387" loading="lazy">
             <div class="klhd-image-caption">High-density bubble wrapping and edge cushioning applied to furniture, electronics, and fragile items.</div>
         </div>
 
@@ -686,7 +686,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Every vehicle undergoes a meticulous 30-point pre-dispatch condition assessment. We record existing paintwork details, fuel level, and odometer readings on a certified digital inspection sheet provided to you before transit begins.</p>
 
         <div class="klhd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Secured car and motorbike transport carrier for Kolkata to Hyderabad shipping" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Secured car and motorbike transport carrier for Kolkata to Hyderabad shipping" width="580" height="387" loading="lazy">
             <div class="klhd-image-caption">Specialized automotive carrier equipped with hydraulic platforms and wheel-locking anchor straps.</div>
         </div>
 
@@ -710,7 +710,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our experienced technicians reassemble beds, attach modular desk units, connect basic appliances, and place heavy furniture exactly where you specify, followed by an exhaustive cleanup of all discarded packing boxes.</p>
 
         <div class="klhd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service at destination home in Hyderabad" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service at destination home in Hyderabad" width="580" height="387" loading="lazy">
             <div class="klhd-image-caption">Professional destination staff unpacking boxes, assembling beds, and placing items in Hyderabad.</div>
         </div>
 
@@ -766,7 +766,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="klhd-cta-box">
         <h3>Book Your Kolkata to Hyderabad Relocation Today</h3>
         <p>Get in touch with our interstate moving coordinators for a free, transparent quote. Benefit from certified multi-layer packaging, sealed container freight, and prompt door-to-door execution.</p>
-        <a href="tel:+919334812341" class="klhd-cta-btn">Call +91 9334812341 for Free Quote</a>
+        <a href="tel:+919835565233" class="klhd-cta-btn">Call +91 9835565233for Free Quote</a>
     </section>
 </main>
 

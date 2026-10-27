@@ -297,7 +297,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers Dwarka Delhi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
-        "telephone": "+91 9708323605",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dwarka-delhi",
         "priceRange": "₹3,500 - ₹55,000",
@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="dwk-hero-cta">
-            <a href="tel:+919708323605" class="dwk-btn-primary">Call Relocation Desk: +91 9708323605</a>
+            <a href="tel:+919835565233" class="dwk-btn-primary">Call Relocation Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dwk-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -517,7 +517,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Shree Ashirwad Packers and Movers brings over 16 years of hands-on logistics mastery to Dwarka. Our specialized moving crews understand that shifting here is entirely unlike navigating traditional inner-city Delhi colonies. With broad avenues, multi-gate security check-posts, and strict Resident Welfare Association (RWA) moving windows, our operations are engineered to deliver prompt, frictionless, and completely stress-free transitions.</p>
 
         <div class="dwk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into container truck in Dwarka Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into container truck in Dwarka Delhi">
             <div class="dwk-image-caption">Systematic truck loading operations supervised by certified relocation executives in Dwarka.</div>
         </div>
 
@@ -568,7 +568,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>In high-rise apartment relocations, household goods face significant physical handling: from indoor packing, navigating narrow corridors, elevator rides, loading dock staging, to road transportation across national expressways. To ensure zero scratches, fractures, or impact abrasions, Shree Ashirwad Packers and Movers implements a rigorous 4-layer packaging standard on every job.</p>
 
         <div class="dwk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-tier bubble wrapping and heavy-duty carton packing in Dwarka">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-tier bubble wrapping and heavy-duty carton packing in Dwarka">
             <div class="dwk-image-caption">High-density bubble wrap and export-grade corrugated boxes protect delicate belongings during transit.</div>
         </div>
 
@@ -659,7 +659,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="dwk-section-subtitle">Trained carpenters and electrical technicians ensure safe breakdown, transit, and accurate reassembly at your new residence.</p>
 
         <div class="dwk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed reassembly in Dwarka Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed reassembly in Dwarka Delhi">
             <div class="dwk-image-caption">Skilled carpenters dismantling and cataloging hardware components before protective wrapping.</div>
         </div>
 
@@ -685,7 +685,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="dwk-section-subtitle">A step-by-step verified execution protocol guaranteeing punctual delivery and zero hassle.</p>
 
         <div class="dwk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Dwarka Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Dwarka Delhi">
             <div class="dwk-image-caption">Punctual, GPS-monitored enclosed delivery vehicles stationed across Dwarka sectors.</div>
         </div>
 

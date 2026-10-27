@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Daltonganj to Patna Relocation Corridor
 $page_title = "Daltonganj to Patna Packers and Movers | Express Home Shifting & Vehicle Transport";
-$page_description = "Hire verified packers and movers from Daltonganj (Medininagar) to Patna. Safe household goods moving, vehicle carrier, next-day delivery via NH-139 & transit insurance. Call +91 9334812833.";
+$page_description = "Hire verified packers and movers from Daltonganj (Medininagar) to Patna. Safe household goods moving, vehicle carrier, next-day delivery via NH-139 & transit insurance. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/daltonganj-to-patna-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/daltonganj-to-patna-packers-a
         "name": "Shree Ashirwad Packers and Movers - Daltonganj to Patna Division",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹7,500 - ₹34,000",
         "address": {
             "@type": "PostalAddress",
@@ -364,7 +364,7 @@ $canonical_url = "https://shreeashirwadpackers.com/daltonganj-to-patna-packers-a
     <section class="dpt-hero-banner">
         <h1 class="dpt-hero-title">Daltonganj to Patna Packers and Movers</h1>
         <p class="dpt-hero-subtitle">Fast, Reliable Household Relocation Connecting Medininagar (Palamu) with Patna. Swift 24-Hour Transit via NH-139, 4-Layer Packaging & Complete Room Setup.</p>
-        <a href="tel:+919334812833" class="dpt-cta-btn">Book Free Survey: +91 9334812833</a>
+        <a href="tel:+919835565233" class="dpt-cta-btn">Book Free Survey: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -380,7 +380,7 @@ $canonical_url = "https://shreeashirwadpackers.com/daltonganj-to-patna-packers-a
             </div>
             <div>
                 <div class="dpt-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential moving cartons for Daltonganj to Patna shifting" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential moving cartons for Daltonganj to Patna shifting" width="580" height="387">
                     <div class="dpt-caption">Heavy-duty carton packaging ensuring damage-free highway transit</div>
                 </div>
             </div>
@@ -473,7 +473,7 @@ $canonical_url = "https://shreeashirwadpackers.com/daltonganj-to-patna-packers-a
         <div class="dpt-grid-2">
             <div>
                 <div class="dpt-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective covers on appliances for Daltonganj to Patna transit" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective covers on appliances for Daltonganj to Patna transit" width="580" height="387">
                     <div class="dpt-caption">Multi-layer protective bubble wrap and foam cushioning on home appliances</div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ $canonical_url = "https://shreeashirwadpackers.com/daltonganj-to-patna-packers-a
             </div>
             <div>
                 <div class="dpt-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Daltonganj to Patna relocation" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Daltonganj to Patna relocation" width="580" height="387">
                     <div class="dpt-caption">All-weather sealed container trucks protecting goods from road dust and weather</div>
                 </div>
             </div>
@@ -512,7 +512,7 @@ $canonical_url = "https://shreeashirwadpackers.com/daltonganj-to-patna-packers-a
         <div class="dpt-grid-2">
             <div>
                 <div class="dpt-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Daltonganj to Patna shifting" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Daltonganj to Patna shifting" width="580" height="387">
                     <div class="dpt-caption">Doorstep delivery, supervised unboxing, and furniture positioning in Patna</div>
                 </div>
             </div>

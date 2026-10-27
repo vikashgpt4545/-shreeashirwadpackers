@@ -721,7 +721,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
             <p style="font-size: 1.05rem; max-width: 680px; margin: 0 auto 24px; color: #cbd5e1;">
                 Contact Shree Ashirwad Packers and Movers today for an instant, transparent quote with zero hidden charges and guaranteed on-time delivery.
             </p>
-            <a href="tel:+919534499994" class="bok2kod-cta-btn"><i class="fas fa-phone-alt"></i> Call Now: +91 95344 99994</a>
+            <a href="tel:+919835565233" class="bok2kod-cta-btn"><i class="fas fa-phone-alt"></i> Call Now: +91 98355 65233</a>
         </div>
     </section>
 </div>
@@ -735,7 +735,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
   "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
   "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
   "url": "https://www.shreeashirwadpackers.com",
-  "telephone": "+919534499994",
+  "telephone": "+91 9835565233",
   "priceRange": "₹₹",
   "address": {
     "@type": "PostalAddress",

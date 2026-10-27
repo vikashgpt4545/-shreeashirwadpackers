@@ -289,7 +289,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bar
 
         <div style="text-align: center;">
           <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
                  alt="Professional household shifting and packing in Barkatha Hazaribagh" 
                  style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                  loading="lazy">
@@ -397,7 +397,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bar
         
         <div style="text-align: center;">
           <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
                  alt="Door to door delivery truck and moving services in Barkatha Hazaribagh" 
                  style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                  loading="lazy">
@@ -580,7 +580,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bar
 
         <div style="text-align: center;">
           <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" 
                  alt="Secure car and bike transport services in Barkatha Hazaribagh" 
                  style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                  loading="lazy">
@@ -654,7 +654,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bar
         
         <div style="text-align: center;">
           <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" 
                  alt="Secure warehousing and storage facility serving Barkatha Hazaribagh" 
                  style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                  loading="lazy">
@@ -981,7 +981,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bar
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px;">
               <div>
                 <label for="quote-phone" style="display: block; font-size: 13px; font-weight: 600; margin-bottom: 6px; color: #e2e8f0;">Phone Number *</label>
-                <input type="tel" id="quote-phone" name="phone" required placeholder="e.g. 9876543210" style="width: 100%; padding: 12px 14px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(255,255,255,0.08); color: #ffffff; font-size: 14px; outline: none; box-sizing: border-box;">
+                <input type="tel" id="quote-phone" name="phone" required placeholder="e.g. 9835565233" style="width: 100%; padding: 12px 14px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2); background: rgba(255,255,255,0.08); color: #ffffff; font-size: 14px; outline: none; box-sizing: border-box;">
               </div>
               <div>
                 <label for="quote-move-type" style="display: block; font-size: 13px; font-weight: 600; margin-bottom: 6px; color: #e2e8f0;">Shifting Type *</label>

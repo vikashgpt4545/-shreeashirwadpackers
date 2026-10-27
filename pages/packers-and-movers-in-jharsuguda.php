@@ -366,7 +366,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jharsuguda#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jharsuguda",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -528,7 +528,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="jsg-body-p">Whether you are relocating family households in prime residential enclaves like Sarbahal and Beheramal, shifting executive residences inside the secured perimeters of Vedanta Township (Bhurkamunda), moving railway officers near Jharsuguda Junction, or transporting commercial freight along the Biju Expressway, Shree Ashirwad Packers and Movers guarantees punctual, damage-free execution.</p>
 
                 <div class="jsg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Jharsuguda Odisha">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Jharsuguda Odisha">
                     <div class="jsg-image-caption">Dedicated loading crew organizing furniture and boxed belongings in Jharsuguda</div>
                 </div>
 
@@ -572,7 +572,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="jsg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Jharsuguda">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Jharsuguda">
                     <div class="jsg-image-caption">Multi-layer bubble wrap, edge protectors, and moisture barriers safeguarding sensitive household assets</div>
                 </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="jsg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Jharsuguda">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Jharsuguda">
                     <div class="jsg-image-caption">Systematic dismantling and padded wrapping of wooden furniture by trained carpentry technicians</div>
                 </div>
 
@@ -704,7 +704,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="jsg-body-p">Our regular container linehaul fleet operates round-the-clock runs connecting Jharsuguda to the steel metropolis of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">Rourkela</a> (~100 km), the industrial sister hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur" style="color: #1e3a8a; font-weight: 600;">Sambalpur</a> (~50 km), the power hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-angul" style="color: #1e3a8a; font-weight: 600;">Angul</a>, the capital hub in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a>, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
 
                 <div class="jsg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Jharsuguda">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Jharsuguda">
                     <div class="jsg-image-caption">Weatherproof sealed container vehicle operating interstate highway routes across Western Odisha</div>
                 </div>
 
@@ -770,7 +770,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Biju Expressway Junction, Near Sarbahal Chowk, Jharsuguda</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="jsg-cta-button">Request Free Moving Quote</a>

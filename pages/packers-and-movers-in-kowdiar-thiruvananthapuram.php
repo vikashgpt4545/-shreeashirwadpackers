@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kowdiar Thiruvananthapuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kowdiar-thiruvananthapuram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -418,7 +418,7 @@
       </div>
       <div>
         <div class="kwd-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading premium villa household goods in Kowdiar Thiruvananthapuram" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading premium villa household goods in Kowdiar Thiruvananthapuram" width="580" height="380" loading="lazy">
         </div>
       </div>
     </div>
@@ -455,7 +455,7 @@
     </div>
 
     <div class="kwd-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective bubble wrapping for antique wooden furniture in Kowdiar" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective bubble wrapping for antique wooden furniture in Kowdiar" width="580" height="380" loading="lazy">
     </div>
 
     <p>Our crews use high-density air-bubble sheets, heavy-gauge poly stretch wraps, corrugated corner protectors, and non-marking floor carpets to protect both your precious items and your home's polished Italian marble, teak parquet, or terracotta flooring during the packing and moving process.</p>
@@ -547,7 +547,7 @@
     </table>
 
     <div class="kwd-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Professional packers packing delicate electronic systems and executive files in Kowdiar" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Professional packers packing delicate electronic systems and executive files in Kowdiar" width="580" height="380" loading="lazy">
     </div>
 
     <p>Every quote includes high-strength cardboard cartons, bubble wrap, stretch film, heavy-duty adhesive tape, wardrobe hanging boxes for luxury apparel, professional loading, transit, unloading, and basic furniture reassembly at your destination.</p>
@@ -650,7 +650,7 @@
     </ol>
 
     <div class="kwd-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Kowdiar Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Kowdiar Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
   </section>
 

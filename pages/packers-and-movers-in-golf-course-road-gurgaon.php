@@ -544,7 +544,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Throughout Sector 53 and Sector 54, our operations extend through Vipul Belmonte, Suncity, Salcon The Verandas, Alankar Apartments, and the high-end residential pockets bordering the Aravalli biodiversity belt. We also provide seamless daily transit connecting Golf Course Road with Cyber City, Golf Course Extension Road, Sohna Road, and Delhi's Lutyens and South Delhi enclaves.</p>
 
         <div class="gcrg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing luxury condominium moving along Golf Course Road Gurgaon" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing luxury condominium moving along Golf Course Road Gurgaon" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our senior move directors coordinate vehicle clearances with DLF estate management, ensuring service elevator allocations, basement vehicle height compliance, and pre-authorized security passes. By maintaining discreet vehicle operations and scheduling moves during optimal society moving windows, we guarantee seamless execution with zero disruption.</p>
@@ -600,7 +600,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="gcrg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Golf Course Road to Mumbai, Bangalore and pan-India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Golf Course Road to Mumbai, Bangalore and pan-India" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -636,7 +636,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="gcrg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving on Golf Course Road" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving on Golf Course Road" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -707,7 +707,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="gcrg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation on Golf Course Road Gurgaon" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation on Golf Course Road Gurgaon" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad on Golf Course Road -->

@@ -268,7 +268,7 @@ $state_name = 'Punjab';
     "name": "Shree Ashirwad Packers and Movers Urban Estate Phase 2 Jalandhar",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9835155555",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 46,000",
     "address": {
       "@type": "PostalAddress",
@@ -400,7 +400,7 @@ $state_name = 'Punjab';
           <p>Our experienced moving crew undertakes the complete lifecycle of relocation—from preliminary survey, meticulous multi-layer packing, and precision hoisting to secure transport, careful placement, and room-by-room reassembly. Whether you are moving across blocks within Phase 2 or relocating interstate to Chandigarh, Delhi NCR, or Bengaluru, we guarantee total peace of mind.</p>
         </div>
         <div class="ue2j-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Urban Estate Phase 2 Jalandhar" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Urban Estate Phase 2 Jalandhar" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -442,7 +442,7 @@ $state_name = 'Punjab';
       </div>
 
       <div class="ue2j-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Jalandhar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Jalandhar" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -535,7 +535,7 @@ $state_name = 'Punjab';
       </table>
 
       <div class="ue2j-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Vehicle Transit in Jalandhar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Vehicle Transit in Jalandhar" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -571,7 +571,7 @@ $state_name = 'Punjab';
       </div>
 
       <div class="ue2j-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Urban Estate Phase 2 Jalandhar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Urban Estate Phase 2 Jalandhar" width="580" height="380" loading="lazy">
       </div>
     </section>
 

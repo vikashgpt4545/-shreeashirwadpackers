@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Agartala",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-agartala-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 28,000 - 85,000",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Harmu Road & Morabadi Logistics Center",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -538,8 +538,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Ranchi to Agartala Packers and Movers</h1>
         <p>Specialized long-haul household shifting, corporate relocations, and insured vehicle transport from Ranchi to Agartala, Tripura. Engineered packaging solutions safeguarding your valuables across NH-27, NH-6, and NH-8 via the Siliguri corridor, Meghalaya ghats, and Churaibari border checkpost.</p>
         <div class="r2agt-cta-btns">
-          <a href="tel:+919431170366" class="r2agt-btn-primary">Call Now: +91 94311 70366</a>
-          <a href="https://api.whatsapp.com/send?phone=919431170366&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Agartala." class="r2agt-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:+919835565233" class="r2agt-btn-primary">Call Now: +91 98355 65233</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Agartala." class="r2agt-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="r2agt-quote-card">
@@ -584,7 +584,7 @@ include_once __DIR__ . '/../includes/config.php';
       <p>Whether you are an officer being transferred to the ONGC Tripura Asset in Badharghat, a faculty member joining NIT Agartala or Tripura University, an administrative official stationed at the New Secretariat Complex in Kunjaban, or a defense family heading towards the Agartala Military Station, as the premier <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #006494; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers delivers an end-to-end relocation experience that eliminates transit stress. We also offer dedicated reciprocal relocation services on the return route for <a href="<?php echo SITE_BASE_URL; ?>/agartala-to-ranchi-packers-and-movers" style="color: #006494; font-weight: 600; text-decoration: underline;">packers and movers from Agartala to Ranchi</a> with equal punctuality and care. We deploy waterproof, locked-container trucks equipped with hydraulic suspensions that cushion fragile cargo across winding hill sections and high-rainfall mountain passes.</p>
 
       <div class="r2agt-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof Containerized Moving Truck for Ranchi to Agartala Relocation">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof Containerized Moving Truck for Ranchi to Agartala Relocation">
         <div class="r2agt-img-caption">All-weather containerized cargo vehicles engineered for reliable long-distance transit to Tripura.</div>
       </div>
 
@@ -699,7 +699,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="r2agt-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Teakwood Furniture Wrapping for Long-Distance Agartala Transit">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Teakwood Furniture Wrapping for Long-Distance Agartala Transit">
         <div class="r2agt-img-caption">Multi-tier protective wrapping of furniture ensuring scratch-free transit over interstate highways.</div>
       </div>
     </article>
@@ -738,7 +738,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="r2agt-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Safe Transport to Agartala Tripura">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Safe Transport to Agartala Tripura">
         <div class="r2agt-img-caption">Custom shock-resistant packing for motorbikes and scooters destined for Northeast India.</div>
       </div>
     </article>
@@ -778,7 +778,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="r2agt-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading Crew Handling Consignments for Agartala">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading Crew Handling Consignments for Agartala">
         <div class="r2agt-img-caption">Trained packing and loading professionals executing zero-damage material handling.</div>
       </div>
     </article>

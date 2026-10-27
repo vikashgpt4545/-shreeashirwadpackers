@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-besant-nagar-chennai";
         "name": "Shree Ashirwad Packers and Movers Besant Nagar Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,600 - ₹62,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-besant-nagar-chennai";
         <p>Living along the coastline brings unique environmental challenges that generic movers fail to anticipate. The continuous sea breeze carries airborne salt moisture that quickly corrodes delicate electronic circuitry, tarnishes polished brass fixtures, and causes fine solid-wood furnishings to swell. Shree Ashirwad Packers and Movers delivers specialized coastal moving solutions engineered with multi-layer vapor barriers, desiccant moisture absorbers, and white-glove handling protocols tailored to Besant Nagar's high-value residences.</p>
 
         <div class="bsn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Luxury household goods multi-tier packing in Besant Nagar Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Luxury household goods multi-tier packing in Besant Nagar Chennai" width="580" height="387" loading="lazy">
             <div class="bsn-image-caption">Multi-tier vapor-barrier and bubble wrap protection for luxury coastal residences in Besant Nagar.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-besant-nagar-chennai";
         </div>
 
         <div class="bsn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Anti-humidity wooden furniture wrapping in Besant Nagar Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Anti-humidity wooden furniture wrapping in Besant Nagar Chennai" width="580" height="387" loading="lazy">
             <div class="bsn-image-caption">Climate-controlled protective wrapping for designer teak and imported furniture in Besant Nagar.</div>
         </div>
 
@@ -597,7 +597,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-besant-nagar-chennai";
         <p>Inside the home, our crew treats every possession with the highest care. Wardrobes are packed in vertical wardrobe boxes where designer suits and silk sarees remain hung on their hangers, completely eliminating folding wrinkles and dust exposure during the move.</p>
 
         <div class="bsn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile crystal and art decor packing in Besant Nagar Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile crystal and art decor packing in Besant Nagar Chennai" width="580" height="387" loading="lazy">
             <div class="bsn-image-caption">Individual bubble wrap cushioning and reinforced corrugated boxing for fragile tableware in Besant Nagar.</div>
         </div>
 
@@ -723,7 +723,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-besant-nagar-chennai";
         </ol>
 
         <div class="bsn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck transport in Besant Nagar Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck transport in Besant Nagar Chennai" width="580" height="387" loading="lazy">
             <div class="bsn-image-caption">Enclosed weatherproof container carriers ensuring dust-free and rain-protected transit.</div>
         </div>
     </section>
@@ -780,7 +780,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-besant-nagar-chennai";
     <div class="bsn-cta-box">
         <h3>Plan Your Besant Nagar Move with Coastal Shifting Specialists</h3>
         <p>Get a guaranteed fixed-price quote with zero surprise charges. Fully insured, certified packing specialists ready to move your household or villa today.</p>
-        <a href="tel:+919334404050" class="bsn-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="bsn-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

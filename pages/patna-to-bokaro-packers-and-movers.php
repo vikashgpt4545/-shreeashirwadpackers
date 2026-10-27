@@ -53,7 +53,7 @@ require_once dirname(__DIR__) . '/includes/config.php';
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Patna to Bokaro Services",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-        "telephone": "+91-9431119793",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "url": "<?php echo $canonicalUrl; ?>",
         "priceRange": "₹7,500 - ₹46,000",
@@ -685,7 +685,7 @@ require_once dirname(__DIR__) . '/includes/config.php';
                                 <span class="p2bko-stat-lbl">Door-to-Door</span>
                             </div>
                         </div>
-                        <a href="tel:+919431119793" class="p2bko-cta-btn">Call Now: +91 9431119793</a>
+                        <a href="tel:+919835565233" class="p2bko-cta-btn">Call Now: +91 9835565233</a>
                     </div>
                 </div>
             </div>
@@ -708,7 +708,7 @@ require_once dirname(__DIR__) . '/includes/config.php';
 
             <div class="p2bko-media-block">
                 <div class="p2bko-media-img">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated linehaul container truck moving goods from Patna to Bokaro Steel City" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated linehaul container truck moving goods from Patna to Bokaro Steel City" loading="lazy">
                 </div>
                 <div class="p2bko-media-content">
                     <h3>Direct Sealed Container Transit Without Intermediate Handling</h3>
@@ -749,7 +749,7 @@ require_once dirname(__DIR__) . '/includes/config.php';
 
             <div class="p2bko-media-block p2bko-reverse">
                 <div class="p2bko-media-img">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for furniture and electronics before transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for furniture and electronics before transit" loading="lazy">
                 </div>
                 <div class="p2bko-media-content">
                     <h3>Scientific Packaging That Shields Against Highway Shocks</h3>
@@ -795,7 +795,7 @@ require_once dirname(__DIR__) . '/includes/config.php';
 
             <div class="p2bko-media-block">
                 <div class="p2bko-media-img">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Safe car and bike transport on specialized carriers from Patna to Bokaro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Safe car and bike transport on specialized carriers from Patna to Bokaro" loading="lazy">
                 </div>
                 <div class="p2bko-media-content">
                     <h3>Zero-Wear Transportation for Cars and Motorbikes</h3>
@@ -888,7 +888,7 @@ require_once dirname(__DIR__) . '/includes/config.php';
 
             <div class="p2bko-media-block p2bko-reverse">
                 <div class="p2bko-media-img">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and room arrangement services in Bokaro Steel City" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and room arrangement services in Bokaro Steel City" loading="lazy">
                 </div>
                 <div class="p2bko-media-content">
                     <h3>Careful Furniture Assembly & Settling-in Assistance</h3>
@@ -975,7 +975,7 @@ require_once dirname(__DIR__) . '/includes/config.php';
                 <h3>Planning a Move from Patna to Bokaro Steel City?</h3>
                 <p>Contact Shree Ashirwad Packers and Movers today for an instant free written quote, zero hidden costs, and trusted intercity relocation support.</p>
                 <div class="p2bko-cta-actions">
-                    <a href="tel:+919431119793" class="p2bko-btn-amber">Call +91 9431119793</a>
+                    <a href="tel:+919835565233" class="p2bko-btn-amber">Call +91 9835565233</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/contact" class="p2bko-btn-white">Request Free Quote Online</a>
                 </div>
             </div>

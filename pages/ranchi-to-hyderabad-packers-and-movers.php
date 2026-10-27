@@ -169,7 +169,7 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -993,7 +993,7 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
 
           <!-- Verified Image Banner 1 -->
           <div style="margin: 30px auto; max-width: 820px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Hyderabad Packers and Movers Sealed Container Truck on Highway" style="width: 100%; max-height: 380px; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Hyderabad Packers and Movers Sealed Container Truck on Highway" style="width: 100%; max-height: 380px; object-fit: cover; display: block;" loading="lazy">
             <div style="background: #0f223d; color: #cbd5e1; padding: 12px 20px; font-size: 0.88rem; text-align: center;">
               Shree Ashirwad Heavy-Gauge All-Steel Container Fleet Operating Daily Direct Dispatches to Hyderabad & Secunderabad
             </div>
@@ -1149,7 +1149,7 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
 
           <!-- Verified Image Banner 2 -->
           <div style="margin: 30px auto; max-width: 820px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Fragile IT Electronics & LED TV Crating for Ranchi to Hyderabad Shifting" style="width: 100%; max-height: 380px; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Fragile IT Electronics & LED TV Crating for Ranchi to Hyderabad Shifting" style="width: 100%; max-height: 380px; object-fit: cover; display: block;" loading="lazy">
             <div style="background: #0f223d; color: #cbd5e1; padding: 12px 20px; font-size: 0.88rem; text-align: center;">
               Specialized Anti-Static Crating and Shock Dampening for Home IT Workstations, Curved Monitors & OLED TVs
             </div>

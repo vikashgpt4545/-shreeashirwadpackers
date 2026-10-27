@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Civil Lines Jabalpur",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-civil-lines-jabalpur",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -431,7 +431,7 @@ $state_name = 'Madhya Pradesh';
           <p>Our moving supervisors coordinate all gate passes and society permissions in advance, ensuring that your moving day proceeds smoothly without administrative bottlenecks or unexpected delays.</p>
         </div>
         <div class="clj-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Civil Lines Jabalpur" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Civil Lines Jabalpur" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -473,7 +473,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="clj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing in Civil Lines Jabalpur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing in Civil Lines Jabalpur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -588,7 +588,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="clj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Civil Lines Jabalpur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Civil Lines Jabalpur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -620,7 +620,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="clj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Civil Lines Jabalpur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Civil Lines Jabalpur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -686,7 +686,7 @@ $state_name = 'Madhya Pradesh';
     <div class="clj-cta-bar">
       <h3>Ready for an Executive Move in Civil Lines Jabalpur?</h3>
       <p>Connect with our expert relocation specialists today for a private survey, guaranteed quote, and seamless white-glove moving care.</p>
-      <a href="tel:+919334484001" class="clj-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="clj-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Premier intercity moving solutions from Bangalore to Mangalore covering Kadri, Bejai, Surathkal, Falnir, and Urwa with sealed container transit.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹11,000 - ₹44,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy closed weatherproof container vehicles built specifically for mountain grades and heavy coastal rainfall. Whether you are shifting for career growth in Mangalore's port and petrochemical sectors, relocating family homes, or returning to coastal hometowns, our certified packing specialists and ghat-experienced drivers guarantee complete cargo protection and punctual arrival.</p>
 
         <div class="bgmg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Bangalore to Mangalore" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Bangalore to Mangalore" width="580" height="386">
         </div>
 
         <div class="bgmg-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Beyond Sakleshpur, the highway navigates the picturesque but demanding Shiradi Ghat, descending towards Gundya, Uppinangady, and the Netravati river basin at Bantwal before entering Mangalore. Our centralized fleet control center monitors real-time road conditions, monsoon landslide advisories, and electronic toll clearances at Karjeevanahalli and Shantigrama plazas, ensuring that our drivers select the safest speeds and rest intervals throughout the transit.</p>
 
         <div class="bgmg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for long distance transit" width="580" height="386">
         </div>
 
         <div class="bgmg-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Each delicate item is wrapped in air-cushioned bubble film, reinforced with corrugated corner guards, wrapped in moisture-resistant stretch film, and boxed into heavy 5-ply cartons. For fragile LED televisions, crystal chandeliers, marble temple units, and antique brassware, we build custom-measured wooden crates that absorb road shocks.</p>
 
         <div class="bgmg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Mangalore" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Mangalore" width="580" height="386">
         </div>
 
         <div class="bgmg-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Before loading, our technical supervisors conduct a detailed 24-point pre-transit vehicle inspection. Exterior scratches, fuel levels, odometer readings, and accessory conditions are documented on an official inspection slip shared digitally with the vehicle owner.</p>
 
         <div class="bgmg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
         </div>
 
         <div class="bgmg-grid-2">

@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-andheri
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-andheri-east-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-andheri-east-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -367,7 +367,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-andheri
         <p>Relocating within or out of Andheri East requires handling heavy commuter traffic, navigating complex commercial zones, and managing multi-storey cooperative housing societies across established residential enclaves such as Poonam Nagar, Sher-E-Punjab Society, Mahakali Caves Road, Marol Military Road, and Saki Naka. Shree Ashirwad Packers and Movers delivers specialized relocation solutions designed specifically for this high-density urban environment. Our trained packing crews, dedicated move supervisors, and fleet of covered weatherproof vehicles ensure that your household belongings or corporate office infrastructure arrive securely and punctually.</p>
 
         <div class="ade-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Andheri East by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Andheri East by Shree Ashirwad Packers and Movers">
             <p class="ade-image-caption">Professional loading by trained movers ensuring goods are secured against transit movement in Andheri East.</p>
         </div>
 
@@ -404,7 +404,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-andheri
         </div>
 
         <div class="ade-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Andheri East">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Andheri East">
             <p class="ade-image-caption">Multi-layered waterproof bubble wrap and corrugated padding shielding sensitive household goods.</p>
         </div>
 
@@ -512,7 +512,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-andheri
         </div>
 
         <div class="ade-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Andheri East">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Andheri East">
             <p class="ade-image-caption">Skilled carpentry dismantling and component packaging for large wooden bedroom furniture.</p>
         </div>
 
@@ -546,7 +546,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-andheri
         </div>
 
         <div class="ade-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Andheri East">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Andheri East">
             <p class="ade-image-caption">Reliable covered container vehicles delivering door-to-door relocation across Andheri East neighborhoods.</p>
         </div>
 
@@ -615,7 +615,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-andheri
 
         <div class="ade-faq-item">
             <h3>How can I request a moving quote for Andheri East?</h3>
-            <p>You can contact our customer support team directly at +91 93344 04050 or submit our online inquiry form. We will arrange a free site inspection or video survey and deliver an exact written quotation promptly.</p>
+            <p>You can contact our customer support team directly at +91 9835565233 or submit our online inquiry form. We will arrange a free site inspection or video survey and deliver an exact written quotation promptly.</p>
         </div>
     </section>
 

@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Durg",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-durg",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -238,7 +238,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Operating under the proven operational standards of our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Durg branch offers dependable, damage-free shifting backed by certified crews, high-grade corrugated boxes, shock-absorbing bubble wrap, and sealed container trucks. We take pride in delivering transparent pricing with zero hidden surcharges. To review accurate price ranges for your move, check our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live shifting rate calculator</a> before booking.</p>
 
         <div class="drg-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Durg by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Durg by Shree Ashirwad Packers and Movers">
             <div class="drg-img-caption">Multi-layer protective bubble and corrugated packing for household goods in Durg</div>
         </div>
 
@@ -297,7 +297,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="drg-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Durg">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Durg">
             <div class="drg-img-caption">High-density bubble cushioning, corrugated cartons, and foam wraps used in Durg</div>
         </div>
     </section>
@@ -415,7 +415,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="drg-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Durg">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Durg">
             <div class="drg-img-caption">Dedicated closed-body container trucks ensuring zero weather exposure during transit</div>
         </div>
     </section>
@@ -466,7 +466,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="drg-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Durg">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Durg">
             <div class="drg-img-caption">Hydraulic ramps ensuring damage-free car loading and unloading in Durg</div>
         </div>
     </section>
@@ -505,7 +505,7 @@ require_once BASE_PATH . '/includes/config.php';
     <section class="drg-cta-box">
         <h3>Book Your Hassle-Free Relocation in Durg Today!</h3>
         <p>Connect with our Durg relocation manager for an accurate moving quote and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="drg-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="drg-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

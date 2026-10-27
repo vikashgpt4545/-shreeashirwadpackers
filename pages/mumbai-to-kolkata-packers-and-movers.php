@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Mumbai to Kolkata specializing in household goods relocation, corporate moves, enclosed car transport, motorcycle parcel delivery, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹6,000 - ₹85,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Traversing Maharashtra, Chhattisgarh, Odisha, and West Bengal, our sealed container trucks travel along the national highway network through Nagpur and Raipur. Long-haul highway travel requires scientific weight distribution, weather-sealed container bodies, and internal cargo lashing to guarantee damage-free transit.</p>
 
     <div class="mbk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Mumbai to Kolkata interstate moving container truck" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Mumbai to Kolkata interstate moving container truck" width="580" height="380" loading="lazy">
       <div class="mbk-img-caption">Dedicated sealed container trucks operating on the Mumbai to Kolkata NH53 highway corridor.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="mbk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Mumbai to Kolkata moves" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Mumbai to Kolkata moves" width="580" height="380" loading="lazy">
       <div class="mbk-img-caption">Multi-layer protective packaging engineered for long-haul stability across the 1,960 km Mumbai-Kolkata corridor.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="mbk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Mumbai to Kolkata relocation" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Mumbai to Kolkata relocation" width="580" height="380" loading="lazy">
       <div class="mbk-img-caption">Dedicated closed automobile carriers ensuring secure, scratch-free transport from Mumbai to Kolkata.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="mbk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Kolkata" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Kolkata" width="580" height="380" loading="lazy">
       <div class="mbk-img-caption">Complete destination unpacking, furniture reassembly, and debris clearance service in Kolkata.</div>
     </div>
   </section>

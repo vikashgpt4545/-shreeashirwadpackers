@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Kolkata to Chennai specializing in household goods relocation, corporate moves, enclosed automobile carriers, two-wheeler shipping, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹6,000 - ₹80,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Traversing West Bengal, Odisha, and Andhra Pradesh before arriving in Tamil Nadu, our sealed container trucks travel along the well-maintained 6-lane National Highway 16. Long-haul highway travel requires scientific weight distribution, weather-sealed container bodies, and internal cargo lashing to guarantee damage-free transit.</p>
 
     <div class="kcn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Kolkata to Chennai interstate container truck" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Kolkata to Chennai interstate container truck" width="580" height="380" loading="lazy">
       <div class="kcn-img-caption">Dedicated sealed container trucks operating on the Kolkata to Chennai NH16 East Coast corridor.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="kcn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Kolkata to Chennai moves" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Kolkata to Chennai moves" width="580" height="380" loading="lazy">
       <div class="kcn-img-caption">Multi-layer protective packaging engineered for long-haul stability across the 1,660 km Kolkata-Chennai corridor.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="kcn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated bike carrier loading for Kolkata to Chennai relocation" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated bike carrier loading for Kolkata to Chennai relocation" width="580" height="380" loading="lazy">
       <div class="kcn-img-caption">Specialized two-wheeler carrier packing ensuring scratch-free motorcycle transit to Chennai.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="kcn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Chennai" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Chennai" width="580" height="380" loading="lazy">
       <div class="kcn-img-caption">Complete destination unpacking, furniture reassembly, and debris clearance service in Chennai.</div>
     </div>
   </section>

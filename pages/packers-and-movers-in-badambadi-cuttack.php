@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-badambadi-cuttack#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-badambadi-cuttack",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,100 - ₹53,000",
         "address": {
             "@type": "PostalAddress",
@@ -522,7 +522,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bdm-body-p">The locality encompasses bustling commercial hubs like Palamandap, Arunodaya Market, Bajrakabati Road, and Ranihat, alongside established residential streets housing merchants, transport operators, judicial clerks, banking staff, and medical personnel from SCB Medical College. Relocating homes or businesses in Badambadi requires masterful traffic navigation, specialized parking scheduling, and expert packaging to handle tight multi-story staircases and dense commercial lanes without disrupting pedestrian flow.</p>
 
                 <div class="bdm-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Badambadi Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Badambadi Cuttack">
                     <div class="bdm-image-caption">Dedicated crew executing domestic goods loading near Badambadi bus terminus Cuttack</div>
                 </div>
 
@@ -561,7 +561,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdm-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Cartons and Materials Badambadi Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Cartons and Materials Badambadi Cuttack">
                     <div class="bdm-image-caption">Reinforced corrugated cartons, virgin air bubble wrap, and protective foam buffers used in Badambadi</div>
                 </div>
 
@@ -682,7 +682,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdm-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly in Badambadi Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly in Badambadi Cuttack">
                     <div class="bdm-image-caption">Skilled carpenters carefully dismantling and wrapping master bedroom furniture in Badambadi Cuttack</div>
                 </div>
 
@@ -717,7 +717,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdm-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Badambadi Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Badambadi Cuttack">
                     <div class="bdm-image-caption">All-weather container delivery vehicles ensuring seamless door-to-door transit across Badambadi Cuttack</div>
                 </div>
 
@@ -780,7 +780,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Near Netaji Central Bus Terminus, Badambadi, Cuttack</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bdm-cta-button">Request Free Moving Quote</a>

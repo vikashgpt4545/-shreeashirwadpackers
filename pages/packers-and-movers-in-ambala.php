@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Ambala",
     "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-ambala",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -460,7 +460,7 @@
       </div>
       <div>
         <div class="amb-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Ambala Haryana" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Ambala Haryana" width="580" height="386" loading="lazy">
           <p class="amb-image-caption">Dedicated all-weather container trucks serving Ambala Cantt, City, and GT Road corridors.</p>
         </div>
       </div>
@@ -556,7 +556,7 @@
       </div>
     </div>
     <div class="amb-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and scientific equipment packing in Ambala Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and scientific equipment packing in Ambala Haryana" width="580" height="386" loading="lazy">
       <p class="amb-image-caption">Precision packaging and shock protection for scientific apparatus and office electronics in Ambala.</p>
     </div>
   </section>
@@ -592,7 +592,7 @@
       </div>
     </div>
     <div class="amb-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing in Ambala Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing in Ambala Haryana" width="580" height="386" loading="lazy">
       <p class="amb-image-caption">Cellular partition packing for delicate glassware, ceramics, and laboratory items in Ambala.</p>
     </div>
   </section>
@@ -628,7 +628,7 @@
       </div>
     </div>
     <div class="amb-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Ambala Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Ambala Haryana" width="580" height="386" loading="lazy">
       <p class="amb-image-caption">Comprehensive unpacking, furniture reassembly, and room placement in Ambala homes.</p>
     </div>
   </section>

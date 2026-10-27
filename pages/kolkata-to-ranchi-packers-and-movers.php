@@ -945,7 +945,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="k2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Kolkata to Ranchi Packers and Movers - Closed linehaul container truck on NH-16">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Kolkata to Ranchi Packers and Movers - Closed linehaul container truck on NH-16">
         <div class="k2r-image-caption">
           Heavy-duty all-weather closed container truck operating the 420-km Kolkata to Ranchi interstate express route.
         </div>
@@ -1111,7 +1111,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="k2r-content-grid-2col">
       <div class="k2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Kolkata to Ranchi Packers and Movers - Protective furniture wrapping">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Kolkata to Ranchi Packers and Movers - Protective furniture wrapping">
         <div class="k2r-image-caption">
           Multi-layer protective wrapping and edge armor applied to wooden almirahs and study desks.
         </div>
@@ -1150,7 +1150,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="k2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kolkata to Ranchi Packers and Movers - Kitchen crockery bubble wrapping">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kolkata to Ranchi Packers and Movers - Kitchen crockery bubble wrapping">
         <div class="k2r-image-caption">
           Individual bubble-wrapping and compartmentalized boxing for delicate chinaware and kitchen ceramics.
         </div>
@@ -1284,7 +1284,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="k2r-content-grid-2col">
       <div class="k2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Kolkata to Ranchi Packers and Movers - Protective covers and vehicle packing gear">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Kolkata to Ranchi Packers and Movers - Protective covers and vehicle packing gear">
         <div class="k2r-image-caption">
           Custom vehicle wrapping, fork protectors, and heavy padded covers for vehicle transit.
         </div>

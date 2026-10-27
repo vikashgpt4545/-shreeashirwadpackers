@@ -653,7 +653,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-jamshedpur-pac
             </div>
             <div>
                 <div class="d2jsr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck navigating Deoghar to Jamshedpur highway corridor" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck navigating Deoghar to Jamshedpur highway corridor" loading="lazy">
                     <div class="d2jsr-image-caption">GPS-monitored sealed container vehicles on the Deoghar-Giridih-Chas-Jamshedpur highway corridor.</div>
                 </div>
             </div>
@@ -755,7 +755,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-jamshedpur-pac
         <div class="d2jsr-grid-2">
             <div>
                 <div class="d2jsr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packaging for Deoghar to Jamshedpur shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packaging for Deoghar to Jamshedpur shifting" loading="lazy">
                     <div class="d2jsr-image-caption">High-density EPE foam, virgin bubble wrap, and 7-ply corrugated cartons protecting delicate items.</div>
                 </div>
             </div>
@@ -805,7 +805,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-jamshedpur-pac
             </div>
             <div>
                 <div class="d2jsr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading in Deoghar for delivery to Jamshedpur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading in Deoghar for delivery to Jamshedpur" loading="lazy">
                     <div class="d2jsr-image-caption">Specialized hydraulic car trailers protecting personal vehicles during transit to Jamshedpur.</div>
                 </div>
             </div>
@@ -878,7 +878,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-jamshedpur-pac
             </div>
             <div>
                 <div class="d2jsr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly services in Jamshedpur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly services in Jamshedpur" loading="lazy">
                     <div class="d2jsr-image-caption">Professional doorstep unpacking, furniture reassembly, and debris clearance in Jamshedpur residences.</div>
                 </div>
             </div>

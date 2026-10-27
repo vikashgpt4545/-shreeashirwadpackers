@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Sikandra Agra",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="skn-hero-title">Packers and Movers in Sikandra Agra</h1>
         <p class="skn-hero-subtitle">Industrial Machinery Shifting, Factory Warehousing Relocation, Awas Vikas Residential Moving &amp; Vehicle Transport Along the Delhi-Agra Highway</p>
         <div class="skn-cta-group">
-            <a href="tel:+919334404050" class="skn-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="skn-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="skn-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -508,7 +508,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="skn-intro-p">The relocation requirements across Sikandra are extensive and multifaceted. They range from heavy industrial equipment transfers, plant dismantling, and warehouse transitions in UPSIDC Sites A and B to large-scale residential household moves across Awas Vikas schemes, Bodla Road apartments, Runakta colonies, and Guru Ka Taal sectors. Shree Ashirwad Packers and Movers brings heavy-duty logistics capability, industrial rigging tools, modern covered container fleets, and certified personnel to handle moves of any magnitude with flawless precision.</p>
 
         <div class="skn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Industrial and Household Loading in Sikandra Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Industrial and Household Loading in Sikandra Agra" width="580" height="380" loading="lazy">
             <p class="skn-image-caption">Our specialized loading crew managing secure packing and truck loading for residential and industrial clients in Sikandra.</p>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="skn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Industrial and Household Packaging in Sikandra Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Industrial and Household Packaging in Sikandra Agra" width="580" height="380" loading="lazy">
             <p class="skn-image-caption">Reinforced heavy-duty carton packaging and multi-tier bubble cushioning protecting industrial assets and household goods in Sikandra.</p>
         </div>
     </section>
@@ -688,7 +688,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="skn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Sikandra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Sikandra" width="580" height="380" loading="lazy">
             <p class="skn-image-caption">Professional carpentry crew carefully dismantling wooden furniture and bed frames in Sikandra Agra.</p>
         </div>
     </section>
@@ -701,7 +701,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="skn-intro-p">Northbound shipments reach Mathura in 45 minutes, Greater Noida and Delhi NCR in approximately 2.5 hours via NH-19 and the Western Ring Road linking to the Yamuna Expressway. Westbound consignments bound for Bharatpur, Dausa, and Jaipur connect via NH-21, while eastbound freight reaches <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>, Prayagraj, and our corporate center in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> with maximum dispatch efficiency.</p>
 
         <div class="skn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed Door-to-Door Delivery Fleet in Sikandra Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed Door-to-Door Delivery Fleet in Sikandra Agra" width="580" height="380" loading="lazy">
             <p class="skn-image-caption">Our weather-resistant closed container truck fleet ensuring clean, protected door-to-door deliveries from Sikandra.</p>
         </div>
 
@@ -768,7 +768,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Schedule Your Industrial or Home Move in Sikandra Agra</h3>
         <p>Contact our Sikandra relocation specialists today for a tailored quote, expert packing assistance, and dependable doorstep moving experience.</p>
         <div class="skn-cta-group">
-            <a href="tel:+919334404050" class="skn-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="skn-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="skn-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

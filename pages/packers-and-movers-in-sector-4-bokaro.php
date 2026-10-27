@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Sector 4, Bokaro Steel City (City Centre & Commercial Core)
 $page_title = "Packers and Movers in Sector 4 Bokaro | Safe Home & Office Shifting";
-$page_description = "Top packers and movers in Sector 4 Bokaro Steel City by Shree Ashirwad Packers. Safe apartment shifting, office relocation, vehicle transport, IBA approved bills. Call +91 9334812833.";
+$page_description = "Top packers and movers in Sector 4 Bokaro Steel City by Shree Ashirwad Packers. Safe apartment shifting, office relocation, vehicle transport, IBA approved bills. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-4-bokaro";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
         "name": "Shree Ashirwad Packers and Movers - Sector 4 Bokaro",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -382,7 +382,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
     <section class="sc4-hero-banner">
         <h1 class="sc4-hero-title">Packers and Movers in Sector 4 Bokaro</h1>
         <p class="sc4-hero-subtitle">Premier Moving Services in Bokaro Steel City's Commercial & Administrative Heart. Safe Apartment Shifting, Office Transfers, Car & Bike Shipping with IBA Approved Bills.</p>
-        <a href="tel:+919334812833" class="sc4-cta-btn">Book Move in Sector 4: +91 9334812833</a>
+        <a href="tel:+919835565233" class="sc4-cta-btn">Book Move in Sector 4: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -398,7 +398,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
             </div>
             <div>
                 <div class="sc4-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Sector 4 Bokaro" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Sector 4 Bokaro" width="580" height="387">
                     <div class="sc4-caption">Multi-layer protective packaging for home and office goods in Sector 4 Bokaro</div>
                 </div>
             </div>
@@ -484,7 +484,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
         <div class="sc4-grid-2">
             <div>
                 <div class="sc4-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Sector 4 Bokaro" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Sector 4 Bokaro" width="580" height="387">
                     <div class="sc4-caption">Protective bubble wrap and wooden pallet packaging for two-wheeler transport</div>
                 </div>
             </div>
@@ -498,7 +498,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
 
         <!-- Section 4B: Highway Fleet Visual -->
         <div class="sc4-image-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Sector 4 Bokaro relocation" width="580" height="387">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Sector 4 Bokaro relocation" width="580" height="387">
             <div class="sc4-caption">Weatherproof container truck fleet stationed for Bokaro Steel City relocations</div>
         </div>
 
@@ -543,7 +543,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
             </div>
             <div>
                 <div class="sc4-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Home appliances protective covers in Bokaro" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Home appliances protective covers in Bokaro" width="580" height="387">
                     <div class="sc4-caption">Protective quilted covers safeguarding home appliances during transit</div>
                 </div>
             </div>

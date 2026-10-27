@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Reddiarpalayam",
     "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-reddiarpalayam-pondicherry",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -459,7 +459,7 @@
       </div>
       <div>
         <div class="rdp-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Reddiarpalayam Pondicherry" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Reddiarpalayam Pondicherry" width="580" height="386" loading="lazy">
           <p class="rdp-image-caption">Systematic multi-layer packing and labeled carton sorting in Reddiarpalayam.</p>
         </div>
       </div>
@@ -555,7 +555,7 @@
       </div>
     </div>
     <div class="rdp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa furniture packing in Reddiarpalayam Pondicherry" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa furniture packing in Reddiarpalayam Pondicherry" width="580" height="386" loading="lazy">
       <p class="rdp-image-caption">High-density shrink wrapping and protective edge cushioning for upholstery in Reddiarpalayam.</p>
     </div>
   </section>
@@ -591,7 +591,7 @@
       </div>
     </div>
     <div class="rdp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle transport for Reddiarpalayam Pondicherry" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle transport for Reddiarpalayam Pondicherry" width="580" height="386" loading="lazy">
       <p class="rdp-image-caption">Dedicated enclosed two-wheeler carriers with wheel-chock stabilization for long-haul transport.</p>
     </div>
   </section>
@@ -627,7 +627,7 @@
       </div>
     </div>
     <div class="rdp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading in Reddiarpalayam Pondicherry" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading in Reddiarpalayam Pondicherry" width="580" height="386" loading="lazy">
       <p class="rdp-image-caption">Secure heavy container truck loading for intercity relocations connecting Reddiarpalayam.</p>
     </div>
   </section>

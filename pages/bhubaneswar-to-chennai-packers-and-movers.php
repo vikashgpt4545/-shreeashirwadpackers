@@ -28,7 +28,7 @@ require_once __DIR__ . '/../includes/config.php';
         "description": "Licensed interstate household packing, IT relocation, and vehicle transportation between Bhubaneswar, Odisha and Chennai, Tamil Nadu.",
         "url": "<?php echo SITE_BASE_URL; ?>/bhubaneswar-to-chennai-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
@@ -336,7 +336,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our long-haul container trucks traverse Berhampur in Odisha, followed by Srikakulam, Visakhapatnam, Rajahmundry, Vijayawada, Ongole, and Nellore in Andhra Pradesh before entering Tamil Nadu and arriving in Chennai. Every consignment travels under continuous GPS surveillance with experienced highway drivers, ensuring timely delivery within 3 to 4 business days without risky transshipment or intermediate offloading.</p>
 
         <div class="bbcn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bhubaneswar to Chennai Container Truck Transit" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bhubaneswar to Chennai Container Truck Transit" width="580" height="387" loading="lazy">
             <div class="bbcn-img-caption">Sealed container trucks providing direct, rapid coastal highway transit between Bhubaneswar and Chennai.</div>
         </div>
 
@@ -359,7 +359,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>From fragile porcelain dinner sets, glassware, and smart 4K TVs to heavy solid wood furniture and double-door refrigerators, our skilled packing team systematically insulates each item before securing it inside our containerized vehicles.</p>
 
         <div class="bbcn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Standards for Bhubaneswar to Chennai Move" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Standards for Bhubaneswar to Chennai Move" width="580" height="387" loading="lazy">
             <div class="bbcn-img-caption">Multi-layer bubble wrapping, heavy corrugated cartons, and foam corners ensure complete transit safety.</div>
         </div>
 
@@ -450,7 +450,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Before loading in Bhubaneswar, our automotive inspector conducts an in-depth digital inspection covering odometer readings, fuel status, and exterior condition. Your vehicle is safely driven onto hydraulic ramps, secured using industrial nylon wheel-locks, and transported under active marine insurance coverage.</p>
 
         <div class="bbcn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Bhubaneswar to Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Bhubaneswar to Chennai" width="580" height="387" loading="lazy">
             <div class="bbcn-img-caption">Dedicated enclosed vehicle trailers providing door-to-door scratchless automobile and bike transport.</div>
         </div>
 
@@ -493,7 +493,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="bbcn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Chennai" width="580" height="387" loading="lazy">
             <div class="bbcn-img-caption">Professional destination unboxing, room-specific placement, furniture assembly, and packaging waste disposal.</div>
         </div>
     </section>

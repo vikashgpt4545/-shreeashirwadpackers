@@ -15,8 +15,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home Shifting Checklist Ranchi: 30-Day Moving Guide | Call 9708579999</title>
-    <meta name="description" content="Complete 30-day home shifting checklist for moving in Ranchi. Call 9708579999 for verified IBA-approved packing, moving charges, room-by-room planner & free estimate.">
+    <title>Home Shifting Checklist Ranchi: 30-Day Moving Guide | Call 9835565233</title>
+    <meta name="description" content="Complete 30-day home shifting checklist for moving in Ranchi. Call 9835565233 for verified IBA-approved packing, moving charges, room-by-room planner & free estimate.">
     <meta name="keywords" content="home shifting checklist ranchi, house moving checklist ranchi, packers and movers ranchi moving tips, residential relocation checklist ranchi, packers and movers in ranchi, household shifting planner ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi",
-        "telephone": "+91-9708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -227,8 +227,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Home Shifting Checklist Ranchi: 30-Day Moving Timeline</h1>
                 <p>Relocating your family in Jharkhand’s capital? Whether moving across Morabadi, Bariatu, Kanke Road, Doranda, or preparing for an interstate transfer from Ranchi, this verified 30-day checklist eliminates moving chaos, prevents damaged valuables, and streamlines utility clearances.</p>
                 <div class="hscr-cta-group">
-                    <a href="tel:+919708579999" class="hscr-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20home%20shifting%20checklist%20and%20quote%20for%20Ranchi" class="hscr-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
+                    <a href="tel:+919835565233" class="hscr-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20home%20shifting%20checklist%20and%20quote%20for%20Ranchi" class="hscr-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -247,7 +247,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="hscr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized household packing cartons and furniture wrapping in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized household packing cartons and furniture wrapping in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -262,7 +262,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <h4><span class="hscr-timeline-badge">Week 4 (Day 30 to Day 22)</span> Decluttering, Asset Valuation & Selecting Your Mover</h4>
                     <ul>
                         <li><strong>Aggressive Household Decluttering:</strong> Walk through every room in your Ranchi home. Segregate items into keep, donate, and discard piles. Discard broken plasticware, obsolete electronics, and outgrown clothing. Remember: less weight means significantly lower moving charges.</li>
-                        <li><strong>Schedule a Physical or Video Pre-Move Survey:</strong> Contact <a href="tel:+919708579999" style="color:#ff6a28; font-weight:700;">+91 9708579999</a> to schedule an in-home assessment. Our surveyor measures large furniture volumes, elevator dimensions, and truck parking access to deliver a firm, transparent quotation with zero hidden fees.</li>
+                        <li><strong>Schedule a Physical or Video Pre-Move Survey:</strong> Contact <a href="tel:+919835565233" style="color:#ff6a28; font-weight:700;">+91 9835565233</a> to schedule an in-home assessment. Our surveyor measures large furniture volumes, elevator dimensions, and truck parking access to deliver a firm, transparent quotation with zero hidden fees.</li>
                         <li><strong>Review Written Estimates & Verify Credentials:</strong> Avoid unverified broker websites and digital aggregator portals. Ensure your selected moving company owns a physical office in Ranchi, operates its own branded container vehicles, and provides GST-compliant invoices.</li>
                         <li><strong>Government Quarter NOC Initiation:</strong> If residing in CCL quarters at Gandhinagar, MECON Colony at Doranda, or Railway quarters at Hatia, submit your official quarters surrender intimation to the Estate Office.</li>
                     </ul>
@@ -307,7 +307,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Room-by-Room Packing Protocol: Professional Standards</h2>
                 <div class="hscr-grid-2">
                     <div class="hscr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery wrapped in multi-layer bubble wrap by Ranchi packing specialists" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery wrapped in multi-layer bubble wrap by Ranchi packing specialists" loading="lazy">
                     </div>
                     <div>
                         <h3>1. Kitchen & Fragile Crockery</h3>
@@ -383,7 +383,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="hscr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled carpenter dismantling hydraulic double bed frame with electric power tools in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled carpenter dismantling hydraulic double bed frame with electric power tools in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -393,7 +393,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Moving Day Protocol: Scientific Loading Order</h2>
                 <div class="hscr-grid-2">
                     <div class="hscr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated closed container moving truck being loaded with packed household cartons in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated closed container moving truck being loaded with packed household cartons in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Loading a moving truck is an engineering task, not just manual labor. Our crew supervisors follow a strict weight-distribution protocol to ensure highway stability and prevent crushing:</p>

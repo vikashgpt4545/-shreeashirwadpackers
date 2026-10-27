@@ -55,13 +55,13 @@ define('OFFICIAL_EMAIL', 'enquiry@shreeashirwadpackers.com');
 define('RANCHI_HQ_STREET', 'Anandpuri Chowk, Vidyanagar Road, Harmu');
 define('RANCHI_HQ_CITY', 'Ranchi');
 define('RANCHI_HQ_STATE', 'Jharkhand');
-define('RANCHI_HQ_PINCODE', '834001');
-define('RANCHI_HQ_FULL_ADDRESS', 'Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834001');
+define('RANCHI_HQ_PINCODE', '834002');
+define('RANCHI_HQ_FULL_ADDRESS', 'Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002');
 define('RANCHI_GEO_LAT', 23.3639813);
 define('RANCHI_GEO_LNG', 85.3090259);
-define('GOOGLE_REVIEW_LINK', 'https://share.google/ThfGaS541NwFKVsQZ');
-define('GOOGLE_BUSINESS_PROFILE_URL', 'https://share.google/0U65Vc4zAVDwVlPfD');
-define('GOOGLE_MAPS_DIRECTIONS_URL', 'https://www.google.com/maps/dir/?api=1&destination=Shree+Ashirwad+Packers+and+Movers,+Anandpuri+Chowk,+Vidyanagar+Road,+Harmu,+Ranchi,+Jharkhand+834001');
+define('GOOGLE_REVIEW_LINK', 'https://www.google.com/maps?cid=17894179374492933119');
+define('GOOGLE_BUSINESS_PROFILE_URL', 'https://www.google.com/maps?cid=17894179374492933119');
+define('GOOGLE_MAPS_DIRECTIONS_URL', 'https://www.google.com/maps/dir/?api=1&destination=Shree+Ashirwad+Packers+and+Movers,+Anandpuri+Chowk,+Vidyanagar+Road,+Harmu,+Ranchi,+Jharkhand+834002');
 
 define('BOKARO_BRANCH_STREET', 'Plot no - 54/c, Post office sector - 12/A');
 define('BOKARO_BRANCH_CITY', 'Bokaro');

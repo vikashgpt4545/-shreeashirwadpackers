@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Sector 15 Faridabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -472,7 +472,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="s15f-hero-title">Packers and Movers in Sector 15 Faridabad</h1>
         <p class="s15f-hero-subtitle">Bespoke white-glove relocations, luxury kothi shifting, antique furniture carpentry, and inter-state logistics across Sector 15 and prestigious Sector 15A enclaves.</p>
         <div class="s15f-cta-group">
-            <a href="tel:+919334404050" class="s15f-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="s15f-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="s15f-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s15f-intro-p">Developed with expansive green parks, manicured residential avenues, top-tier educational institutions like Vidya Mandir Public School and Apeejay School, and the vibrant Sector 15 Main Market—known for fine dining, designer boutiques, and premium retail—this sector is home to senior industrialists, civil servants, legal luminaries, and prominent doctors. Properties predominantly feature sprawling multi-storey independent bungalows, duplex kothis, and luxury builder floors requiring specialized white-glove packing protocols.</p>
 
         <div class="s15f-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Sector 15 Faridabad container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Sector 15 Faridabad container truck" width="580" height="386" loading="lazy">
             <p class="s15f-image-caption">Systematic loading and protective padding of residential goods in Sector 15 Faridabad.</p>
         </div>
 
@@ -525,7 +525,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s15f-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Sector 15 Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Sector 15 Faridabad" width="580" height="386" loading="lazy">
             <p class="s15f-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s15f-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Sector 15 Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Sector 15 Faridabad" width="580" height="386" loading="lazy">
             <p class="s15f-image-caption">Precision furniture disassembly and wrapped timber protection for Sector 15 homes.</p>
         </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s15f-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Sector 15 Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Sector 15 Faridabad" width="580" height="386" loading="lazy">
             <p class="s15f-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

@@ -791,7 +791,7 @@ require_once __DIR__ . '/includes/header.php';
 
     <div class="s2r-grid-4">
       <div class="s2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container transit fleet navigating the 400 km Sahibganj to Ranchi long-haul route" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container transit fleet navigating the 400 km Sahibganj to Ranchi long-haul route" loading="lazy">
         <div class="s2r-img-content">
           <h3 class="s2r-img-title">Sealed Container Fleet</h3>
           <p class="s2r-img-desc">All-weather closed container trucks shielding household belongings from rain, dust, and highway turbulence during the 400 km inter-district trip.</p>
@@ -799,7 +799,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="s2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty padded covers for appliances and electronics on long-distance moves from Sahibganj to Ranchi" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty padded covers for appliances and electronics on long-distance moves from Sahibganj to Ranchi" loading="lazy">
         <div class="s2r-img-content">
           <h3 class="s2r-img-title">Padded Appliance Wraps</h3>
           <p class="s2r-img-desc">Custom thermal-padded jackets and multi-layer shock blankets securing refrigerators, washing machines, and sensitive electronics against jolts.</p>
@@ -807,7 +807,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="s2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer corrugated and foam protection for wooden furniture during 400 km transit" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer corrugated and foam protection for wooden furniture during 400 km transit" loading="lazy">
         <div class="s2r-img-content">
           <h3 class="s2r-img-title">Furniture Corner Defense</h3>
           <p class="s2r-img-desc">Dense corrugated edge boards, high-density bubble wrap, and heavy stretch film protecting polished teak, beds, and almirahs from scratches.</p>
@@ -815,7 +815,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="s2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door delivery container arriving at Ranchi residential societies" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door delivery container arriving at Ranchi residential societies" loading="lazy">
         <div class="s2r-img-content">
           <h3 class="s2r-img-title">Doorstep Delivery in Ranchi</h3>
           <p class="s2r-img-desc">On-time arrival at Ranchi residential societies, accompanied by skilled unloader crews for floor placement, unpacking, and debris removal.</p>

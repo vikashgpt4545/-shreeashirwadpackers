@@ -83,7 +83,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -662,7 +662,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 1 -->
   <div class="img-showcase-chaibasa">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Chaibasa Packers and Movers Sealed Container Vehicle">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Chaibasa Packers and Movers Sealed Container Vehicle">
     <div class="caption">Shree Ashirwad Packers and Movers high-clearance closed container truck deployed for express Ranchi to Chaibasa moves.</div>
   </div>
 
@@ -760,7 +760,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 2 -->
   <div class="img-showcase-chaibasa">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Dismantling and Protective Wrapping for Chaibasa Shifting">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Dismantling and Protective Wrapping for Chaibasa Shifting">
     <div class="caption">Double bed dismantling and multi-layer protective padding prepared by Shree Ashirwad crew in Ranchi.</div>
   </div>
 
@@ -817,7 +817,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 3 -->
   <div class="img-showcase-chaibasa">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate Kitchen Crockery and Chinaware Packing in Ranchi for Chaibasa Relocation">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate Kitchen Crockery and Chinaware Packing in Ranchi for Chaibasa Relocation">
     <div class="caption">Individual bubble wrapping and corrugated partitioning for fragile chinaware and glassware items.</div>
   </div>
 
@@ -902,7 +902,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 4 -->
   <div class="img-showcase-chaibasa">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Securing Household Boxes in Ranchi">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Securing Household Boxes in Ranchi">
     <div class="caption">Shree Ashirwad trained loading crew securing household boxes and furniture inside an enclosed vehicle.</div>
   </div>
 

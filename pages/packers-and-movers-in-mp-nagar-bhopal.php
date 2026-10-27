@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers MP Nagar Bhopal",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-mp-nagar-bhopal",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -413,7 +413,7 @@ $state_name = 'Madhya Pradesh';
           <p>Additionally, our corporate coordinators provide detailed itemized inventory tracking and pre-labeled color-coded carton allocations, making it effortless for your staff members to locate critical files and resume business seamlessly upon arrival.</p>
         </div>
         <div class="mpn-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in MP Nagar Bhopal" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in MP Nagar Bhopal" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -455,7 +455,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="mpn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in MP Nagar Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in MP Nagar Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="mpn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet in MP Nagar Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet in MP Nagar Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -648,7 +648,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="mpn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in MP Nagar Bhopal" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in MP Nagar Bhopal" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -679,7 +679,7 @@ $state_name = 'Madhya Pradesh';
     <div class="mpn-cta-bar">
       <h3>Ready for a Smooth Move in MP Nagar Bhopal?</h3>
       <p>Contact our local MP Nagar relocation experts today for a free on-site survey and transparent itemized quote.</p>
-      <a href="tel:+919334484001" class="mpn-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="mpn-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="mpn-section">

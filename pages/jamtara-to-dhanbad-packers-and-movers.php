@@ -634,7 +634,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-dhanbad-packer
                 <p>Whether you are a mining engineer transferring from ECL Chitra to BCCL Koyla Bhawan, a healthcare worker moving near SNMMCH Dhanbad, an IIT-ISM faculty member, a banking professional, or a family relocating from Mihijam or Karmatar, our dedicated same-day service delivers seamless, punctual relocation from doorstep to doorstep.</p>
             </div>
             <div class="j2dhn-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Jamtara to Dhanbad household shifting" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Jamtara to Dhanbad household shifting" loading="lazy">
                 <div class="j2dhn-img-caption">Dedicated all-weather sealed container trucks operating daily on the Jamtara-Dhanbad highway route</div>
             </div>
         </div>
@@ -679,7 +679,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-dhanbad-packer
     <section class="j2dhn-section">
         <div class="j2dhn-grid-2">
             <div class="j2dhn-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Jamtara to Dhanbad transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Jamtara to Dhanbad transit" loading="lazy">
                 <div class="j2dhn-img-caption">Multi-layer protective bubble wrap, corrugated sheets, and foam edge guards for furniture and fragile items</div>
             </div>
             <div>
@@ -779,7 +779,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-dhanbad-packer
                 </ul>
             </div>
             <div class="j2dhn-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Jamtara to Dhanbad vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Jamtara to Dhanbad vehicle relocation" loading="lazy">
                 <div class="j2dhn-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Jamtara and Dhanbad</div>
             </div>
         </div>
@@ -835,7 +835,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-dhanbad-packer
     <section class="j2dhn-section">
         <div class="j2dhn-grid-2">
             <div class="j2dhn-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Dhanbad residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Dhanbad residence" loading="lazy">
                 <div class="j2dhn-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Dhanbad residences</div>
             </div>
             <div>

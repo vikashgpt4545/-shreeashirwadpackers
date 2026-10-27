@@ -338,7 +338,7 @@ require_once __DIR__ . '/includes/seo.php';
 
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing process by Shree Ashirwad Packers" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing process by Shree Ashirwad Packers" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:18px;">
               <h3 style="font-size:1.15rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Systematic Home Packing</h3>
               <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Organized room-by-room packing with color-coded labels, heavy-duty cartons, and specialized protective wrapping.</p>
@@ -346,7 +346,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High GSM corrugated packing sheets and bubble wrap" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High GSM corrugated packing sheets and bubble wrap" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:18px;">
               <h3 style="font-size:1.15rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Virgin Protective Materials</h3>
               <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">High-density bubble wraps, multi-ply corrugated sheets, stretch films, and foam edge guards preventing furniture abrasions.</p>
@@ -354,7 +354,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and furniture reassembly in Jharkhand" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and furniture reassembly in Jharkhand" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:18px;">
               <h3 style="font-size:1.15rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Doorstep Setup &amp; Debris Removal</h3>
               <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Complete unpacking, furniture reassembly by trained carpenters, and disposal of discarded packing debris at your new home.</p>

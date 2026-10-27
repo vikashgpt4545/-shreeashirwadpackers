@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Edappally Kochi",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-edappally-kochi",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>Relocating within Edappally demands meticulous logistical coordination. High traffic density along the bypass, elevated metro rail pillars, strict community society guidelines concerning elevator usage, and frequent coastal rainfall require moving professionals who possess authentic local familiarity and disciplined operational precision. Our teams maintain dedicated coordination with residential apartment management committees across prominent high-rise societies along Ponekkara, Kunnumpuram, and Toll Junction to secure service lift reservations and vehicle parking slots well ahead of move day.</p>
 
     <div class="edp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Moving in Edappally Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Moving in Edappally Kochi" loading="lazy">
       <p class="edp-image-caption">Systematic apartment shifting and secure container loading along Edappally Bypass Kochi.</p>
     </div>
 
@@ -600,7 +600,7 @@
     </div>
 
     <div class="edp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Packing in Edappally" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Packing in Edappally" loading="lazy">
       <p class="edp-image-caption">Organized packing and secure cartoning for commercial electronics and merchandise in Edappally.</p>
     </div>
 
@@ -632,7 +632,7 @@
     </div>
 
     <div class="edp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Edappally Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Edappally Kochi" loading="lazy">
       <p class="edp-image-caption">Protective multi-layer corrugated padding shielding polished wooden furniture during transit.</p>
     </div>
 
@@ -647,7 +647,7 @@
     <p>Additionally, our moving personnel maintain strict adherence to Ernakulam regional transport department regulations and Kochi City Traffic Police directives. Loading operations are executed smoothly without obstructing service lanes along the Edappally flyover, ensuring zero disruption to neighboring commercial establishments or daily commuters.</p>
 
     <div class="edp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Edappally" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Edappally" loading="lazy">
       <p class="edp-image-caption">Weatherproof closed container trucks ensuring complete cargo security during monsoon transit.</p>
     </div>
 
@@ -737,7 +737,7 @@
   <section class="edp-cta-banner">
     <h3>Book Your Stress-Free Move in Edappally Today!</h3>
     <p>Contact our dedicated Edappally relocation specialists for a free on-site survey, customized moving estimate, and guaranteed on-time door-to-door delivery across Kerala and India.</p>
-    <a class="edp-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="edp-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

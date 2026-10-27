@@ -82,7 +82,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Ranchi Central Hub, Near Overbridge, Main Road",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "aggregateRating": {
@@ -663,7 +663,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="ran-lat-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Container Truck Loading for Ranchi to Latehar Move" title="Ranchi to Latehar Household Shifting">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Container Truck Loading for Ranchi to Latehar Move" title="Ranchi to Latehar Household Shifting">
             </div>
         </div>
     </div>
@@ -745,7 +745,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="ran-lat-container">
         <div class="ran-lat-two-col">
             <div class="ran-lat-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Skilled Packing Crew Dismantling and Wrapping Home Furniture" title="Expert Packing Crew in Action">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Skilled Packing Crew Dismantling and Wrapping Home Furniture" title="Expert Packing Crew in Action">
             </div>
             <div class="ran-lat-two-col-text">
                 <h2>5-Layer Shielding for Mineral Belt Transit</h2>
@@ -807,7 +807,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="ran-lat-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated Two-Wheeler Carrier Transport for Ranchi to Latehar Move" title="Motorcycle Transport to Latehar">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated Two-Wheeler Carrier Transport for Ranchi to Latehar Move" title="Motorcycle Transport to Latehar">
             </div>
         </div>
     </div>
@@ -818,7 +818,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="ran-lat-container">
         <div class="ran-lat-two-col">
             <div class="ran-lat-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Clean Logistics and Storage Warehouse Facility for Relocation Cargo" title="Modern Relocation Storage Hub">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Clean Logistics and Storage Warehouse Facility for Relocation Cargo" title="Modern Relocation Storage Hub">
             </div>
             <div class="ran-lat-two-col-text">
                 <h2>Audit-Compliant Bills for CCL, Railway &amp; Govt Transfers</h2>

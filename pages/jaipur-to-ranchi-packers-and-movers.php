@@ -25,7 +25,7 @@ include_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Jaipur to Ranchi Route",
     "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "https://shreeashirwadpackers.com/jaipur-to-ranchi-packers-and-movers",
     "priceRange": "₹16,500 - ₹54,000",
     "address": {
@@ -539,7 +539,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 <!-- Quick Action Contact Bar -->
 <div class="jrn-quick-bar">
-  Jaipur Highway Relocation Desk: <strong>+91 9334484001 / +91 8409531615</strong> | Instant Quotes & Sealed Booking: <a href="https://wa.me/919334484001?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jaipur%20to%20Ranchi%20relocation">Chat on WhatsApp</a>
+  Jaipur Highway Relocation Desk: <strong>+91 9835565233 / +91 8409531615</strong> | Instant Quotes & Sealed Booking: <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jaipur%20to%20Ranchi%20relocation">Chat on WhatsApp</a>
 </div>
 
 <!-- Section 1: Route Overview & Highway Logistics -->
@@ -562,7 +562,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
     <div>
       <div class="jrn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Jaipur to Ranchi dedicated container truck loading" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Jaipur to Ranchi dedicated container truck loading" loading="lazy">
       </div>
     </div>
   </div>
@@ -613,7 +613,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
   </div>
   <div class="jrn-image-container">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile handicraft and glassware packing for Jaipur to Ranchi move" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile handicraft and glassware packing for Jaipur to Ranchi move" loading="lazy">
   </div>
 </section>
 
@@ -759,7 +759,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
   </div>
   <div class="jrn-image-container">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Furniture protective bubble and shrink wrap packing for long distance relocation" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Furniture protective bubble and shrink wrap packing for long distance relocation" loading="lazy">
   </div>
 </section>
 
@@ -788,7 +788,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
   </div>
   <div class="jrn-image-container">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive household packing and loading for interstate shifting" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive household packing and loading for interstate shifting" loading="lazy">
   </div>
 </section>
 
@@ -836,7 +836,7 @@ include_once __DIR__ . '/../includes/config.php';
 <section class="jrn-cta-box">
   <h3>Planning Your Move from Jaipur to Ranchi?</h3>
   <p>Get a guaranteed written quote with free in-home or virtual pre-move survey, zero hidden highway costs, and dedicated container dispatch from our Jaipur relocation desk.</p>
-  <a href="tel:+919334484001" class="jrn-btn-primary">Call Relocation Desk: +91 9334484001</a>
+  <a href="tel:+919835565233" class="jrn-btn-primary">Call Relocation Desk: +91 9835565233</a>
 </section>
 
 <!-- Section 7: Interconnected Corridor Network -->

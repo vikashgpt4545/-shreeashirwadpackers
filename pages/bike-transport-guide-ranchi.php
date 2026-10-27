@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bike Transport Guide Ranchi | Two-Wheeler Packing & Shipping Rates | Call 9708579999</title>
-    <meta name="description" content="Complete guide to bike transport from Ranchi. Reliable two-wheeler courier charges, Royal Enfield Bullet parcel rates, 4-layer armor packing, and door delivery across India. Call 9708579999.">
+    <title>Bike Transport Guide Ranchi | Two-Wheeler Packing & Shipping Rates | Call 9835565233</title>
+    <meta name="description" content="Complete guide to bike transport from Ranchi. Reliable two-wheeler courier charges, Royal Enfield Bullet parcel rates, 4-layer armor packing, and door delivery across India. Call 9835565233.">
     <meta name="keywords" content="bike transport guide ranchi, two wheeler courier service ranchi, bullet parcel charges from ranchi, scooty courier ranchi, bike packing shree ashirwad packers, send bike from ranchi to bangalore">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/bike-transport-guide-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Two-Wheeler Logistics",
         "image": "<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/bike-transport-guide-ranchi",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Bike Transport Guide Ranchi: Two-Wheeler Packing & Shipping Rates</h1>
                 <p>Relocating your motorcycle or scooter from Ranchi? Discover verified interstate bike parcel rates, compare railway parcel vs. enclosed container trucking, and learn how our 4-layer armor packing guarantees zero scratches and complete transit safety.</p>
                 <div class="btgr-cta-group">
-                    <a href="tel:+919708579999" class="btgr-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20send%20me%20a%20bike%20transport%20quote%20from%20Ranchi" class="btgr-btn-wa" target="_blank" rel="noopener">WhatsApp Bike Parcel Quote</a>
+                    <a href="tel:+919835565233" class="btgr-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20send%20me%20a%20bike%20transport%20quote%20from%20Ranchi" class="btgr-btn-wa" target="_blank" rel="noopener">WhatsApp Bike Parcel Quote</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="btgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Specialized multi-layer protective bike packaging by Shree Ashirwad Packers in Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Specialized multi-layer protective bike packaging by Shree Ashirwad Packers in Jharkhand" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -310,7 +310,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Our Proprietary 4-Layer Armor Packing Protocol</h2>
                 <div class="btgr-grid-2">
                     <div class="btgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Industrial corrugated sheets used for motorcycle packing in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Industrial corrugated sheets used for motorcycle packing in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Standard packaging with cheap plastic or old burlap bags fails when a bike travels over 1,500 km of varied terrain. We apply four structural defensive layers:</p>
@@ -370,7 +370,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="btgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Two-wheeler ramp loading into dedicated container truck in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Two-wheeler ramp loading into dedicated container truck in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -380,7 +380,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Specialized Crating & Rigging for Royal Enfield & Premium Superbikes</h2>
                 <div class="btgr-grid-2">
                     <div class="btgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container transport fleet for safe bike transit from Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container transport fleet for safe bike transit from Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Heavy retro motorcycles like the Royal Enfield Classic 350, Bullet, Interceptor 650, Himalayan, and premium imported sports bikes (Kawasaki, BMW Motorrad, Triumph) weigh between 195 kg and 230 kg. Their heavy curb weight demands specialized logistics handling:</p>

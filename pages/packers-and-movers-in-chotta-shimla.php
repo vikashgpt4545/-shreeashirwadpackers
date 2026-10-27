@@ -268,7 +268,7 @@ $state_name = 'Himachal Pradesh';
         "logo": "https://shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "description": "Licensed and insured packers and movers in Chotta Shimla offering specialized civil secretariat officer relocations, Raj Bhavan & Oak Over moves, 4-tier packaging, and nationwide safe container transit.",
-        "telephone": "+91-9334800375",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
@@ -440,7 +440,7 @@ $state_name = 'Himachal Pradesh';
           <p>With more than 16 years of certified industry leadership across Himachal Pradesh, Shree Ashirwad Packers and Movers has earned the enduring trust of civil servants, government department heads, and prominent families in Chotta Shimla. Our police-verified moving crew operates with utmost discretion, utilizing all-weather closed containerized trucks and scientific 4-layer packaging to ensure an impeccably smooth relocation experience.</p>
         </div>
         <div class="css-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Chotta Shimla" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Chotta Shimla" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -482,7 +482,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="css-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Chotta Shimla" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Chotta Shimla" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -575,7 +575,7 @@ $state_name = 'Himachal Pradesh';
       </table>
 
       <div class="css-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Chotta Shimla" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Chotta Shimla" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -611,7 +611,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="css-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Chotta Shimla" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Chotta Shimla" width="580" height="380" loading="lazy">
       </div>
     </section>
 

@@ -28,7 +28,7 @@ require_once __DIR__ . '/../includes/config.php';
         "description": "Licensed interstate household packing, corporate relocation, and vehicle transportation between Bhopal, Madhya Pradesh and Delhi NCR.",
         "url": "<?php echo SITE_BASE_URL; ?>/bhopal-to-delhi-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
@@ -336,7 +336,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Whether you are moving from established residential areas in Arera Colony, MP Nagar, Kolar Road, Shahpura, or Ayodhya Bypass in Bhopal to prominent Delhi neighborhoods like Dwarka, Rohini, Vasant Kunj, or South Extension, Shree Ashirwad Packers and Movers delivers a turnkey shifting experience. Our container fleet navigates National Highway 46 and National Highway 44 via Jhansi, Gwalior, and Agra before entering the Yamuna Expressway and arriving in Delhi within 36 to 48 hours.</p>
 
         <div class="bpdl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bhopal to Delhi Container Truck Transit" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bhopal to Delhi Container Truck Transit" width="580" height="387" loading="lazy">
             <div class="bpdl-img-caption">Sealed container trucks providing direct, rapid highway transit between Bhopal and Delhi.</div>
         </div>
 
@@ -359,7 +359,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>From fragile porcelain dinner sets, glassware, and smart 4K TVs to heavy solid wood furniture and double-door refrigerators, our skilled packing team systematically insulates each item before securing it inside our containerized vehicles.</p>
 
         <div class="bpdl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Standards for Bhopal to Delhi Move" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Standards for Bhopal to Delhi Move" width="580" height="387" loading="lazy">
             <div class="bpdl-img-caption">Multi-layer bubble wrapping, heavy corrugated cartons, and foam corners ensure complete transit safety.</div>
         </div>
 
@@ -450,7 +450,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Before loading in Bhopal, our automotive inspector conducts an in-depth digital inspection covering odometer readings, fuel status, and exterior condition. Your vehicle is safely driven onto hydraulic ramps, secured using industrial nylon wheel-locks, and transported under active marine insurance coverage.</p>
 
         <div class="bpdl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Bhopal to Delhi" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Bhopal to Delhi" width="580" height="387" loading="lazy">
             <div class="bpdl-img-caption">Dedicated enclosed vehicle trailers providing door-to-door scratchless automobile and bike transport.</div>
         </div>
 
@@ -493,7 +493,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="bpdl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Delhi" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Delhi" width="580" height="387" loading="lazy">
             <div class="bpdl-img-caption">Professional destination unboxing, room-specific placement, furniture assembly, and packaging waste disposal.</div>
         </div>
     </section>

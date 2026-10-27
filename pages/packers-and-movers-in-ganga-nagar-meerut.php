@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ganga Nagar Meerut",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -463,7 +463,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Ganga Nagar Meerut</h1>
         <p>Expert apartment shifting, residential colony relocations, and university corridor moves across Ganga Nagar, Mawana Road, and Defence Enclave with 100% safety guarantee.</p>
         <div class="gnm-hero-btn-group">
-            <a href="tel:+919334404050" class="gnm-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gnm-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gnm-btn-secondary">Check Rates</a>
         </div>
     </section>
@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gnm-intro-p">Situated in close proximity to Chaudhary Charan Singh University (CCS University) and major academic institutions, Ganga Nagar attracts a discerning community of university professors, researchers, retired armed forces officers, and NCR professionals who commute effortlessly via the highway network. Relocating here demands specialized expertise in managing high-rise elevator protocols, gated society security clearances, and meticulous household care.</p>
 
         <div class="gnm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Ganga Nagar Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Ganga Nagar Meerut" width="580" height="380" loading="lazy">
             <p class="gnm-image-caption">Our professional loading crew carefully handling packed apartment consignments in Ganga Nagar Meerut.</p>
         </div>
 
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gnm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packing Materials in Ganga Nagar Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packing Materials in Ganga Nagar Meerut" width="580" height="380" loading="lazy">
             <p class="gnm-image-caption">High-density bubble wrapping and heavy-duty corrugated cartons utilized for safe household shifting in Ganga Nagar Meerut.</p>
         </div>
 
@@ -666,7 +666,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gnm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Ganga Nagar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Ganga Nagar" width="580" height="380" loading="lazy">
             <p class="gnm-image-caption">Professional carpentry crew dismantling large wooden beds and modular furniture in Ganga Nagar Meerut.</p>
         </div>
     </section>
@@ -679,7 +679,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gnm-intro-p">Northward and eastward routes connect swiftly toward Bijnor, Muzaffarnagar, and Uttarakhand destinations like Haridwar and Dehradun. Meanwhile, direct access to the Garh Road corridor facilitates seamless transit toward Moradabad, Bareilly, and central Uttar Pradesh hubs like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>.</p>
 
         <div class="gnm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Delivery Fleet in Ganga Nagar Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Delivery Fleet in Ganga Nagar Meerut" width="580" height="380" loading="lazy">
             <p class="gnm-image-caption">All-weather sealed container trucks ensuring clean, secure doorstep delivery across Ganga Nagar Meerut.</p>
         </div>
 
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Seamless Ganga Nagar Move Today</h3>
         <p>Contact our Ganga Nagar relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="gnm-cta-group">
-            <a href="tel:+919334404050" class="gnm-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gnm-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gnm-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

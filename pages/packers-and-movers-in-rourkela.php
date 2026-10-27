@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -522,7 +522,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="rkl-body-p">The city is distinctly structured into two harmonious sectors: the meticulously planned Steel Township with its tree-shaded sectors 1 through 22, public parks, and plant employee quarters; and the thriving municipal civilian belt comprising Civil Township, Koel Nagar, Chhend Colony, Panposh, and Udit Nagar. Relocating households and corporate offices across this dual metropolis requires profound knowledge of township entry protocols, multi-story apartment logistics, and intercity highway freight lanes.</p>
 
                 <div class="rkl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Rourkela Odisha">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Rourkela Odisha">
                     <div class="rkl-image-caption">Dedicated moving crew loading domestic cargo into a container carrier in Civil Township Rourkela</div>
                 </div>
 
@@ -561,7 +561,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="rkl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Quality Packaging Materials Rourkela Odisha">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Quality Packaging Materials Rourkela Odisha">
                     <div class="rkl-image-caption">Reinforced corrugated cartons, 3-layer bubble wrap, and heavy edge buffers used for fragile items in Rourkela</div>
                 </div>
 
@@ -682,7 +682,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="rkl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly in Rourkela Odisha">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly in Rourkela Odisha">
                     <div class="rkl-image-caption">Skilled carpenters carefully dismantling and wrapping master bedroom furniture in Civil Township Rourkela</div>
                 </div>
 
@@ -717,7 +717,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="rkl-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Rourkela Odisha">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Rourkela Odisha">
                     <div class="rkl-image-caption">All-weather container delivery vehicles ensuring seamless door-to-door transit across Rourkela Steel City</div>
                 </div>
 
@@ -780,7 +780,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Main Road, Civil Township, Near Panposh Chowk, Rourkela</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rkl-cta-button">Request Free Moving Quote</a>

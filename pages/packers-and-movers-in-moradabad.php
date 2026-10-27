@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Moradabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -457,7 +457,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Moradabad</h1>
         <p>Premium household shifting, Peetal Nagari brass export crating, and national highway logistics across Moradabad, Ram Ganga Vihar, Civil Lines, and Delhi Road with certified zero damage safety.</p>
         <div class="mdb-hero-btn-group">
-            <a href="tel:+919334404050" class="mdb-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mdb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mdb-btn-secondary">Check Tariff Rates</a>
         </div>
     </section>
@@ -470,7 +470,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mdb-intro-p">Strategically situated along the National Highway 9 (Delhi-Lucknow corridor), Moradabad is an energetic hub of commerce, higher education, and modern residential expansion. The city features sprawling bungalow colonies in Civil Lines, affluent residential townships in Ram Ganga Vihar and Mansarovar Colony, thriving commercial markets in Budh Bazaar, and major universities such as Teerthanker Mahaveer University (TMU). Relocating here demands specialized skill in handling delicate export-grade metalware, fragile glass elements, and premium home interiors.</p>
 
         <div class="mdb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Moradabad Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Moradabad Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="mdb-image-caption">Our professional relocation crew safely loading packed goods into container trucks in Moradabad.</p>
         </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mdb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Moradabad Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Moradabad Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="mdb-image-caption">High-density bubble wrapping and reinforced multi-wall cartons utilized for household goods in Moradabad.</p>
         </div>
 
@@ -660,7 +660,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mdb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Moradabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Moradabad" width="580" height="380" loading="lazy">
             <p class="mdb-image-caption">Skilled carpentry team carefully dismantling large wooden bed frames and packing delicate hardware in Moradabad.</p>
         </div>
     </section>
@@ -673,7 +673,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mdb-intro-p">Eastbound routes link smoothly via NH-9 and NH-30 toward Rampur, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bareilly">Bareilly</a>, Shahjahanpur, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a> in approximately 5.5 to 6.5 hours. Furthermore, direct state highway links connect northward to Kashipur and Uttarakhand hill areas, and southward toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambhal">Sambhal</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-aligarh">Aligarh</a>.</p>
 
         <div class="mdb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Moradabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Moradabad" width="580" height="380" loading="lazy">
             <p class="mdb-image-caption">Dedicated sealed container truck fleet ensuring clean, weather-protected door-to-door delivery across Moradabad.</p>
         </div>
 
@@ -740,7 +740,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Smooth Relocation in Moradabad Today</h3>
         <p>Connect with our Moradabad relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="mdb-cta-group">
-            <a href="tel:+919334404050" class="mdb-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mdb-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mdb-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

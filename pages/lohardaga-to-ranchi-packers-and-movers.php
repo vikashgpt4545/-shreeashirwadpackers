@@ -169,7 +169,7 @@ $meta_keywords = "lohardaga to ranchi packers and movers, packers and movers loh
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -661,7 +661,7 @@ $meta_keywords = "lohardaga to ranchi packers and movers, packers and movers loh
 
           <div>
             <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:16px; padding:16px; box-shadow:0 10px 30px rgba(0,0,0,0.06);">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Lohardaga to Ranchi shifting by Shree Ashirwad Packers" style="width:100%; height:260px; max-height:300px; border-radius:12px; display:block; object-fit:cover;" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Lohardaga to Ranchi shifting by Shree Ashirwad Packers" style="width:100%; height:260px; max-height:300px; border-radius:12px; display:block; object-fit:cover;" loading="lazy">
               <div style="padding:18px 12px 6px;">
                 <div style="font-weight:700; color:#0f223d; font-size:1.05rem; margin-bottom:4px;">Sealed Highway Container Loading in Lohardaga</div>
                 <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Our professional loading crew systematically securing household furniture, electronics, and boxed cartons into a dedicated weatherproof container truck for non-stop transit to Ranchi.</p>
@@ -986,7 +986,7 @@ $meta_keywords = "lohardaga to ranchi packers and movers, packers and movers loh
 
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:20px;">
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Lohardaga to Ranchi shifting" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Lohardaga to Ranchi shifting" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">5-Layer Bubble & Box Packing</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Heavy-gauge air-bubble wrap and 5-ply virgin craft cartons safeguard fragile home items against transit bumps.</p>
@@ -994,7 +994,7 @@ $meta_keywords = "lohardaga to ranchi packers and movers, packers and movers loh
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenter dismantling hydraulic bed for Lohardaga to Ranchi move" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenter dismantling hydraulic bed for Lohardaga to Ranchi move" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Carpenter Dismantle & Assembly</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Certified in-house carpenters carefully dismantle modular storage beds and reassemble them at your Ranchi flat.</p>
@@ -1002,7 +1002,7 @@ $meta_keywords = "lohardaga to ranchi packers and movers, packers and movers loh
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle parcel transport from Lohardaga to Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle parcel transport from Lohardaga to Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Two-Wheeler Highway Parcel</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Bikes receive triple-layer scratch-proof foam wrapping and wheel-locked container transit along NH 143A.</p>
@@ -1010,7 +1010,7 @@ $meta_keywords = "lohardaga to ranchi packers and movers, packers and movers loh
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture placement in Ranchi residence" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture placement in Ranchi residence" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Full Unpacking & Room Setup</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">We unbox cartons, arrange furniture in designated rooms, and remove all discarded cardboard debris.</p>

@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bardhaman",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bdh-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of professional moving expertise to Bardhaman. Whether you are relocating your family between apartments near Badamtala, transferring your faculty residence from the Golapbag university campus, or shifting corporate offices near Tinkonia bus stand, our certified packing specialists deliver seamless execution. Operating in harmony with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and state capital logistics via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we provide door-to-door relocation across India.</p>
 
                 <div class="bdh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bardhaman">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bardhaman">
                     <div class="bdh-image-caption">Systematic loading of palletized cartons and furniture in Bardhaman (Burdwan).</div>
                 </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Bardhaman">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Bardhaman">
                     <div class="bdh-image-caption">Multi-layered protective packing materials used for fragile household items in Bardhaman.</div>
                 </div>
 
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Bardhaman">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Bardhaman">
                     <div class="bdh-image-caption">Skilled carpenters dismantling and protective wrapping modular bed sets in Bardhaman.</div>
                 </div>
 
@@ -694,7 +694,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bardhaman">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bardhaman">
                     <div class="bdh-image-caption">Dedicated door-to-door closed carrier truck operating in Bardhaman (Burdwan).</div>
                 </div>
 
@@ -749,7 +749,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Grand Trunk Road, Near Curzon Gate, Bardhaman</li>
                     <li><strong>Service Hours:</strong> 6:30 AM - 9:30 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bdh-cta-button">Request Free Moving Quote</a>

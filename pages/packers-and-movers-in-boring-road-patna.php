@@ -605,7 +605,7 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="brp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial and residential packing services by Shree Ashirwad Packers in Boring Road Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial and residential packing services by Shree Ashirwad Packers in Boring Road Patna" loading="lazy">
                     <p class="brp-image-caption">Professional crating and packing for study setups, IT hardware, and modern offices in Boring Road, Patna.</p>
                 </div>
             </div>
@@ -673,7 +673,7 @@ require_once __DIR__ . '/../includes/seo.php';
         <div class="brp-grid-2">
             <div>
                 <div class="brp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for household appliances and kitchen items in Boring Road Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for household appliances and kitchen items in Boring Road Patna" loading="lazy">
                     <p class="brp-image-caption">Custom padded covers for refrigerators, washing machines, and sensitive kitchen gadgets in Boring Road homes.</p>
                 </div>
             </div>
@@ -798,11 +798,11 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="brp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master carpentry team dismantling wooden furniture in Boring Road residence" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master carpentry team dismantling wooden furniture in Boring Road residence" loading="lazy">
                     <p class="brp-image-caption">Expert dismantling and hardware packing for designer wooden furniture and modular wardrobes.</p>
                 </div>
                 <div class="brp-image-box" style="margin-top: 24px;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed container truck providing prompt door to door shifting in Boring Road Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Enclosed container truck providing prompt door to door shifting in Boring Road Patna" loading="lazy">
                     <p class="brp-image-caption">Weather-sealed container vehicles engineered for secure urban and long-distance relocations.</p>
                 </div>
             </div>

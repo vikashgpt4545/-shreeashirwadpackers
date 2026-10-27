@@ -493,7 +493,7 @@ $og_image = SITE_BASE_URL . "/images/door-to-door-delivery-truck-jharkhand.jpg";
                     <p>Shree Ashirwad Packers and Movers brings unmatched local expertise to this route. We coordinate every detail—from pre-move packing in Bagodar to careful transit across Bishungarh and precise unloading into your new flat or bungalow in Korrah, Matwari, Nawabganj, or Canary Hill Road. Our dedicated moving crew handles everything with absolute professionalism.</p>
                 </div>
                 <div class="bag2haz-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Bagodar to Hazaribagh relocation" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Bagodar to Hazaribagh relocation" loading="lazy">
                 </div>
             </div>
         </div>
@@ -550,7 +550,7 @@ $og_image = SITE_BASE_URL . "/images/door-to-door-delivery-truck-jharkhand.jpg";
         <div class="bag2haz-container">
             <div class="bag2haz-two-col">
                 <div class="bag2haz-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery bubble packing and dish packaging" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery bubble packing and dish packaging" loading="lazy">
                 </div>
                 <div>
                     <h2 class="bag2haz-section-title" style="text-align: left;">Specialized Packing for Fragile Crockery &amp; Glassware</h2>
@@ -646,7 +646,7 @@ $og_image = SITE_BASE_URL . "/images/door-to-door-delivery-truck-jharkhand.jpg";
                     <p>Our drivers are thoroughly familiar with the Bishungarh bypass, the Meru Camp approach, and the central intersections of Hazaribagh town, ensuring a quick and smooth transfer without any vehicle strain or highway hiccups.</p>
                 </div>
                 <div class="bag2haz-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler and motorcycle carrier transport service" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler and motorcycle carrier transport service" loading="lazy">
                 </div>
             </div>
         </div>
@@ -657,7 +657,7 @@ $og_image = SITE_BASE_URL . "/images/door-to-door-delivery-truck-jharkhand.jpg";
         <div class="bag2haz-container">
             <div class="bag2haz-two-col">
                 <div class="bag2haz-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container truck delivering goods to Hazaribagh" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container truck delivering goods to Hazaribagh" loading="lazy">
                 </div>
                 <div>
                     <h2 class="bag2haz-section-title" style="text-align: left;">BSF Meru, Administrative &amp; University Transfer Support</h2>

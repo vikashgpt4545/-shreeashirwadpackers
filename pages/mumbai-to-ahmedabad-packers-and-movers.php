@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Mumbai to Ahmedabad specializing in household goods shifting, corporate office moves, dedicated car carriers, two-wheeler parcel delivery, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>The 525-kilometer journey via National Highway 48 and the Vadodara-Ahmedabad Expressway (NE1) offers seamless connectivity, but demands specialized vehicle suspension, professional balancing, and rigid cargo anchoring to guard against high-speed highway vibration.</p>
 
     <div class="mba-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Mumbai to Ahmedabad interstate moving container truck" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Mumbai to Ahmedabad interstate moving container truck" width="580" height="380" loading="lazy">
       <div class="mba-img-caption">Dedicated sealed container trucks operating on the Mumbai-Ahmedabad NH48 corridor.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="mba-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and carton packaging for Mumbai to Ahmedabad moves" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and carton packaging for Mumbai to Ahmedabad moves" width="580" height="380" loading="lazy">
       <div class="mba-img-caption">Multi-layer protective bubble wrapping and heavy-duty 7-ply cartons engineered for interstate safety.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="mba-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Mumbai to Ahmedabad relocation" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Mumbai to Ahmedabad relocation" width="580" height="380" loading="lazy">
       <div class="mba-img-caption">Specialized hydraulic car carriers ensuring damage-free transit from Mumbai to Ahmedabad.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="mba-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture reassembly service in Ahmedabad" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture reassembly service in Ahmedabad" width="580" height="380" loading="lazy">
       <div class="mba-img-caption">Complete destination unpacking, furniture reassembly, and debris clearance service in Ahmedabad.</div>
     </div>
   </section>

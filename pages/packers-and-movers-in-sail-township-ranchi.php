@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -203,7 +203,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we are the trusted relocation partner for SAIL and MECON personnel. We understand the high standards expected by corporate executives: quiet, disciplined packing that respects residential community rules, strict elevator cushioning to prevent interior scuffs, on-time container deployment, and complete reimbursement paperwork compliant with PSU Composite Transfer Grant (CTG) guidelines. Calculate your exact moving charges using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="stl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in SAIL Township Ranchi - Multistory Apartment Loading" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in SAIL Township Ranchi - Multistory Apartment Loading" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -252,7 +252,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="stl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling - SAIL Township Executive Shifting" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling - SAIL Township Executive Shifting" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -281,7 +281,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="stl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa Furniture Protective Packing - SAIL Township" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa Furniture Protective Packing - SAIL Township" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -310,7 +310,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="stl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - SAIL Township Handover" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - SAIL Township Handover" width="580" height="387" loading="lazy">
         </div>
     </section>
 

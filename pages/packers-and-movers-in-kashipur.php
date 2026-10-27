@@ -267,7 +267,7 @@ $state_name = 'Uttarakhand';
     "name": "Shree Ashirwad Packers and Movers Kashipur",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9835155555",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 48,000",
     "address": {
       "@type": "PostalAddress",
@@ -399,7 +399,7 @@ $state_name = 'Uttarakhand';
           <p>Shree Ashirwad Packers and Movers brings over 16 years of certified industry leadership to Kashipur. Our specialized moving teams combine localized route mastery with ISO-certified packing standards, providing complete turnkey shifting services from meticulous packing to safe placement in your new home. From campus faculty relocations at IIM Kashipur to spacious agricultural farmhouses and kothis on Ramnagar Road, we guarantee a completely secure, punctual, and transparent moving journey.</p>
         </div>
         <div class="ksp-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Kashipur" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Kashipur" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -441,7 +441,7 @@ $state_name = 'Uttarakhand';
       </div>
 
       <div class="ksp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Kashipur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Kashipur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -534,7 +534,7 @@ $state_name = 'Uttarakhand';
       </table>
 
       <div class="ksp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Kashipur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Kashipur" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -570,7 +570,7 @@ $state_name = 'Uttarakhand';
       </div>
 
       <div class="ksp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Kashipur" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Kashipur" width="580" height="380" loading="lazy">
       </div>
     </section>
 

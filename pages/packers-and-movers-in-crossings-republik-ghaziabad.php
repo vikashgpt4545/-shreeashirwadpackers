@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Crossings Republik Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="crg-hero-title">Packers and Movers in Crossings Republik Ghaziabad</h1>
         <p class="crg-hero-subtitle">Specialized high-density condominium relocations, basement shuttle logistics, freight lift handling, and express NH-9 corridor shifting across India's premier integrated township.</p>
         <div class="crg-cta-group">
-            <a href="tel:+919334404050" class="crg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="crg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="crg-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="crg-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have developed custom relocation protocols engineered specifically for the high-density layout of Crossings Republik. From navigating the busy central roundabout and peripheral ring roads to coordinating with condominium maintenance offices across <strong>Panchsheel Wellington, GH-7, Paramount Symphony, Ajnara Gen-X, Mahagun Mascot, Supertech Livingston, Saviour Greenisle, Arihant Ambience, Exotica Eastern Court, and Bulland Elevates</strong>, our teams execute completely smooth, worry-free relocations.</p>
 
         <div class="crg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Crossings Republik Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Crossings Republik Ghaziabad" loading="lazy">
             <p class="crg-image-caption">Dedicated high-rise loading and basement shuttle transport across Crossings Republik</p>
         </div>
 
@@ -548,7 +548,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="crg-intro-p">We coordinate beforehand with facility management desks at <strong>GH-7 Crossings, Panchsheel Wellington, Ajnara Gen-X, and Mahagun Mascot</strong> to secure elevator padding, obtain vehicle inward permits, and reserve optimal loading bays. By aligning operations with designated non-peak hours, we eliminate inconvenience for fellow residents and ensure rapid turnaround.</p>
 
         <div class="crg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile items in Crossings Republik" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile items in Crossings Republik" loading="lazy">
             <p class="crg-image-caption">Shock-absorbent bubble cushioning guarantees absolute protection for fine glassware and electronics</p>
         </div>
 
@@ -678,7 +678,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="crg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Crossings Republik" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Crossings Republik" loading="lazy">
             <p class="crg-image-caption">Expert modular furniture dismantling preserves delicate joints, dowels, and hardware fittings</p>
         </div>
     </section>
@@ -691,7 +691,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="crg-intro-p">For clients moving to Eastern India—including Patna, Ranchi, Jamshedpur, Bokaro, and Kolkata—our dedicated linehaul container fleet provides regular direct departures. Coordinated with our central logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>, clients enjoy daily milestone updates and live GPS tracking throughout the transit journey.</p>
 
         <div class="crg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Crossings Republik Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Crossings Republik Ghaziabad" loading="lazy">
             <p class="crg-image-caption">Weatherproof enclosed container trucks guarantee secure, timely door-to-door deliveries</p>
         </div>
     </section>
@@ -754,7 +754,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Crossings Republik Move Today</h3>
         <p>Contact our local moving consultants for a transparent estimate, free home survey, and seamless township moving service.</p>
         <div class="crg-cta-group">
-            <a href="tel:+919334404050" class="crg-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="crg-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="crg-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

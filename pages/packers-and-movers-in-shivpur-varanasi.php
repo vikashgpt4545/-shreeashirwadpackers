@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Shivpur Varanasi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="svp-hero-title">Packers and Movers in Shivpur Varanasi</h1>
         <p class="svp-hero-subtitle">Premier Household Shifting, Gated Society Relocations, and Direct Highway Logistics Along Varanasi's Fast-Growing Northern Airport Corridor</p>
         <div class="svp-cta-group">
-            <a href="tel:+919334404050" class="svp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="svp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="svp-btn-secondary">Check Shifting Rates</a>
         </div>
     </section>
@@ -507,7 +507,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="svp-intro-p">At Shree Ashirwad Packers and Movers, we bring over 15 years of tested logistics experience directly to your doorstep in Shivpur. Moving in this northern sector offers significant spatial advantages: wide boulevard avenues that easily accommodate 20-foot and 32-foot container trucks, modern high-rise buildings equipped with dedicated service elevators, and direct expressway links. Our experienced crews utilize heavy-duty 5-ply corrugated cartons, virgin air-bubble wrap, and corner protectors to safeguard every valuable household article during transport.</p>
 
         <div class="svp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Shivpur Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Shivpur Varanasi" width="580" height="380" loading="lazy">
             <p class="svp-image-caption">Shree Ashirwad crew securely loading container vehicles in modern residential enclaves of Shivpur Varanasi.</p>
         </div>
 
@@ -582,7 +582,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="svp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Shivpur Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Shivpur Varanasi" width="580" height="380" loading="lazy">
             <p class="svp-image-caption">High-density bubble wrapping and edge-reinforced corrugated box packaging for fragile household goods in Shivpur.</p>
         </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="svp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly in Shivpur Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly in Shivpur Varanasi" width="580" height="380" loading="lazy">
             <p class="svp-image-caption">Trained carpenters systematically dismantling and wrapping wooden bed components before transit in Shivpur.</p>
         </div>
     </section>
@@ -700,7 +700,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="svp-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along NH-56 and the Purvanchal Expressway, ensuring rapid transit durations under 10 to 14 hours. Consignments bound for Bihar and Jharkhand—connecting to Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>—connect smoothly via the Ring Road directly onto National Highway 19 (NH-19).</p>
 
         <div class="svp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Delivery Fleet in Shivpur Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Delivery Fleet in Shivpur Varanasi" width="580" height="380" loading="lazy">
             <p class="svp-image-caption">All-weather container vehicles providing direct interstate transit connections from Shivpur across India.</p>
         </div>
 
@@ -765,7 +765,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Reliable Move in Shivpur Varanasi</h3>
         <p>Connect with our Shivpur relocation managers today for an accurate on-site survey, competitive estimate, and safe, stress-free shifting.</p>
         <div class="svp-cta-group">
-            <a href="tel:+919334404050" class="svp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="svp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="svp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

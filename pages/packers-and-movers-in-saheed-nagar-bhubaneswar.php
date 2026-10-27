@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-saheed-nagar-bhubaneswar#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-saheed-nagar-bhubaneswar",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="shd-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of professional relocation mastery to Saheed Nagar. Whether you are relocating a corporate headquarters near Janpath, expanding a high-street retail boutique, or transitioning your family into an established residence near Maharishi College Road, our certified packing specialists deliver flawless execution. Operating in seamless synergy with our parent city authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Packers and Movers in Bhubaneswar</a>, sister central hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nayapalli-bhubaneswar">Packers and Movers in Nayapalli Bhubaneswar</a>, and corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we provide nationwide moving reliability.</p>
 
                 <div class="shd-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Saheed Nagar Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Saheed Nagar Bhubaneswar">
                     <div class="shd-image-caption">Systematic loading of palletized cartons and heavy appliances in Saheed Nagar.</div>
                 </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="shd-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for fragile items in Saheed Nagar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for fragile items in Saheed Nagar">
                     <div class="shd-image-caption">5-layer packaging using virgin air-bubble sheets and edge protectors in Saheed Nagar.</div>
                 </div>
 
@@ -676,7 +676,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="shd-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Saheed Nagar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Saheed Nagar">
                     <div class="shd-image-caption">Professional furniture dismantling, hardware tagging, and protective wrapping in Saheed Nagar.</div>
                 </div>
 
@@ -710,7 +710,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="shd-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Saheed Nagar Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Saheed Nagar Bhubaneswar">
                     <div class="shd-image-caption">Dedicated closed-body container truck arriving for doorstep delivery in Saheed Nagar.</div>
                 </div>
 
@@ -767,7 +767,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Janpath, Near Saheed Nagar Market, Bhubaneswar</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="shd-cta-button">Request Free Moving Quote</a>

@@ -32,7 +32,7 @@ $state_name = 'Goa';
     "name": "Shree Ashirwad Packers and Movers Panaji",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-panaji",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -354,7 +354,7 @@ $state_name = 'Goa';
     <div class="pnj-container">
       <h1>Packers and Movers in Panaji Goa</h1>
       <p>Premium coastal residential shifting, Portuguese heritage villa moving, government secretariat relocations, and secure intercity linehaul container transport across Panjim and North Goa.</p>
-      <a href="tel:+919334484001" class="pnj-hero-btn">Call +91 9334484001 for Free Moving Quote</a>
+      <a href="tel:+919835565233" class="pnj-hero-btn">Call +91 9835565233 for Free Moving Quote</a>
     </div>
   </section>
 
@@ -365,7 +365,7 @@ $state_name = 'Goa';
       <p>Relocating across Panaji, the picturesque capital city of Goa situated along the scenic banks of the Mandovi River, demands a specialized logistics approach that balances historic urban constraints with modern residential infrastructure. Whether you are transitioning to a high-rise waterfront apartment along Dayanand Bandodkar Marg, an executive villa on the heights of Altinho overlooking the Arabian Sea, or a heritage colonial home in the Latin Quarter of Fontainhas, Shree Ashirwad Packers and Movers provides personalized, meticulous relocation assistance tailored specifically to the micro-geography of Panaji.</p>
 
       <div class="pnj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in apartment community Panaji" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading household goods in apartment community Panaji" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pnj-grid-2">
@@ -468,7 +468,7 @@ $state_name = 'Goa';
       <p>Our dedicated moving crew delivers end-to-end relocation expertise designed to handle every facet of household, corporate, and vehicle transport:</p>
 
       <div class="pnj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and wooden furniture protective packing in Panaji" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and wooden furniture protective packing in Panaji" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pnj-grid-cards">
@@ -505,7 +505,7 @@ $state_name = 'Goa';
       <p>Relocation stress disappears when backed by our disciplined, military-precision moving methodology:</p>
 
       <div class="pnj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving truck loading household items Panaji" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving truck loading household items Panaji" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pnj-grid-cards">
@@ -538,7 +538,7 @@ $state_name = 'Goa';
       <p>Our localized pickup teams operate across every primary residential quarter, commercial sector, and surrounding coastal suburb of Panaji:</p>
 
       <div class="pnj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials and household crates Panaji" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials and household crates Panaji" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pnj-grid-cards">

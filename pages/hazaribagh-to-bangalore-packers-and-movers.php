@@ -662,7 +662,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-bangalore-p
                 <p>With our meticulous 5-layer protective packing, custom wooden crating for delicate monitors and home appliances, and real-time GPS tracking, your household goods arrive in pristine condition.</p>
             </div>
             <div class="h2blr-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated interstate container truck moving goods from Hazaribagh to Bangalore" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated interstate container truck moving goods from Hazaribagh to Bangalore" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -734,7 +734,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-bangalore-p
     <div class="h2blr-container">
         <div class="h2blr-grid-2col">
             <div class="h2blr-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Bangalore interstate move" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Bangalore interstate move" loading="lazy" width="600" height="400">
             </div>
             <div class="h2blr-content-box">
                 <span class="h2blr-tag">Interstate Durability</span>
@@ -765,7 +765,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-bangalore-p
                 <p>For sedans, hatchbacks, and SUVs, our car carrier services include photographic pre-loading inspections, four-wheel locking chocks, and comprehensive transit insurance cover. We offer doorstep pickup in Hazaribagh and direct delivery to your Bengaluru apartment complex or villa.</p>
             </div>
             <div class="h2blr-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for interstate transit from Hazaribagh to Bangalore" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for interstate transit from Hazaribagh to Bangalore" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-bangalore-p
     <div class="h2blr-container">
         <div class="h2blr-grid-2col">
             <div class="h2blr-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Bangalore residence" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Bangalore residence" loading="lazy" width="600" height="400">
             </div>
             <div class="h2blr-content-box">
                 <span class="h2blr-tag">End-to-End Care</span>

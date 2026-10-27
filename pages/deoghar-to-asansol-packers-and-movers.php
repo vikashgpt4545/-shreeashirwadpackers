@@ -602,19 +602,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-asansol-packer
         <!-- Verified Image Showcase -->
         <div class="d2asn-img-showcase">
             <div class="d2asn-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container truck navigating Deoghar to Asansol highway corridor">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container truck navigating Deoghar to Asansol highway corridor">
                 <div class="d2asn-img-caption">Dedicated closed container trucks navigating the Deoghar-Asansol inter-state highway.</div>
             </div>
             <div class="d2asn-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for appliances and glassware">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for appliances and glassware">
                 <div class="d2asn-img-caption">5-layer packaging defense engineered for zero vibration damage during transit.</div>
             </div>
             <div class="d2asn-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile enclosed carrier loading in Deoghar for Asansol relocation">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile enclosed carrier loading in Deoghar for Asansol relocation">
                 <div class="d2asn-img-caption">Hydraulic wheel-chock automobile carrier service between Deoghar and Asansol.</div>
             </div>
             <div class="d2asn-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Asansol residence">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Asansol residence">
                 <div class="d2asn-img-caption">Doorstep placement, furniture re-assembly, and debris removal in Asansol.</div>
             </div>
         </div>

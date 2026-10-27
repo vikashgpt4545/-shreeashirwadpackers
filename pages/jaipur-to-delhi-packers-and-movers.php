@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
     "description": "Premier interstate relocation services from Jaipur to Delhi NCR specializing in household shifting, corporate commercial moves, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,200 - ₹45,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 280 km high-demand expressway corridor between Jaipur, Rajasthan and Delhi NCR represents one of North India's busiest residential and commercial relocation routes. Connecting the historic capital of Rajasthan to the national political and financial center involves swift transit across Rajasthan and Haryana via National Highway 48 or the advanced Delhi-Mumbai Expressway NE4 via the Dausa interchange. Whether moving your corporate career from Jaipur's Sitapura Industrial Area, Mansarovar, or Vaishali Nagar to Gurugram's Cyber City, Noida, or South Delhi, or relocating your ancestral residence, Shree Ashirwad Packers and Movers delivers an exemplary relocation experience built upon industrial-grade logistics execution.</p>
     
     <div class="jpd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Jaipur to Delhi transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Jaipur to Delhi transit" loading="lazy">
       <div class="jpd-img-caption">Company-owned sealed container fleets guaranteeing rapid, weatherproof transit from Jaipur to Delhi along NH48.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 280 km transit across highway conditions demands engineered packaging that resists sustained road vibrations, sudden braking forces, and micro-abrasions along high-speed expressways.</p>
 
     <div class="jpd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping and padding for long distance move" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping and padding for long distance move" loading="lazy">
       <div class="jpd-img-caption">Specialized furniture edge-guards and shock-absorbing bubble cushioning for antique and wooden furniture.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across heavy freight traffic on NH48 can lead to unnecessary road exhaustion, stone chip damage, and mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="jpd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle secure carrier loading for interstate transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle secure carrier loading for interstate transit" loading="lazy">
       <div class="jpd-img-caption">Motorcycle transport carriers equipped with wheel-chock clamps and four-point nylon tie-down straps.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="jpd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination in Delhi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination in Delhi" loading="lazy">
       <div class="jpd-img-caption">Doorstep delivery fleet reaching high-rise apartments and residential colonies across Delhi NCR.</div>
     </div>
   </section>

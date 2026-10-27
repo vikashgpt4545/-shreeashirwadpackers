@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Model Town Hisar",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-model-town-hisar",
-        "telephone": "+91 9334424440",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹46,000",
         "address": {
             "@type": "PostalAddress",
@@ -402,7 +402,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>As part of our comprehensive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hisar">Hisar authority moving network</a>, we deploy GPS-monitored sealed container vehicles providing rapid highway connectivity to Delhi NCR, Rohtak, Sirsa, Bhiwani, and Pan-India destinations.</p>
         </article>
         <div class="mth-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packaging luxury home goods in Model Town Hisar" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packaging luxury home goods in Model Town Hisar" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -440,7 +440,7 @@ require_once __DIR__ . '/../includes/config.php';
     <!-- Section 3: Visual Break and Packaging Standard -->
     <section class="mth-intro-grid">
         <div class="mth-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Model Town Hisar" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Model Town Hisar" width="580" height="386" loading="lazy">
         </div>
         <article class="mth-intro-text">
             <h2>Five-Layer Protective Packaging Architecture</h2>
@@ -581,7 +581,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>This uncompromising attention to detail has made Shree Ashirwad the trusted relocation partner for Model Town's most discerning homeowners.</p>
         </article>
         <div class="mth-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container truck for long distance moving in Model Town Hisar" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container truck for long distance moving in Model Town Hisar" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -644,7 +644,7 @@ require_once __DIR__ . '/../includes/config.php';
 </main>
 
 <div class="mth-img-box" style="margin: 40px auto; max-width: 580px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Model Town Hisar" width="580" height="386" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Model Town Hisar" width="580" height="386" loading="lazy">
 </div>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>

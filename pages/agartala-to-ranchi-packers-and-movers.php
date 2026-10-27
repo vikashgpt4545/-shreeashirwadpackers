@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Agartala to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/agartala-to-ranchi-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 28,000 - 85,000",
     "address": {
       "@type": "PostalAddress",
@@ -544,8 +544,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Agartala to Ranchi Packers and Movers</h1>
         <p>Expert interstate relocation services for households, corporate executives, ONGC personnel, and defense officers moving from Agartala, Tripura to Ranchi, Jharkhand. Comprehensive packing, dedicated all-weather container trucks, and door-to-door transit insurance coverage via NH-8, NH-6, and NH-27.</p>
         <div class="agt2r-cta-btns">
-          <a href="tel:+919431170366" class="agt2r-btn-primary">Call Now: +91 94311 70366</a>
-          <a href="https://api.whatsapp.com/send?phone=919431170366&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Agartala%20to%20Ranchi." class="agt2r-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:+919835565233" class="agt2r-btn-primary">Call Now: +91 98355 65233</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Agartala%20to%20Ranchi." class="agt2r-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="agt2r-quote-card">
@@ -590,7 +590,7 @@ include_once __DIR__ . '/../includes/config.php';
       <p>Shree Ashirwad Packers and Movers provides a turnkey moving service designed specifically to overcome the physical challenges of long-distance interstate transport. We bring trained packing personnel directly to your residence in Agartala—from Banamalipur and Krishnanagar to Ramnagar, Radhanagar, and Amtali. As the most trusted <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #006494; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also operate regular outbound services for <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-agartala-packers-and-movers" style="color: #006494; font-weight: 600; text-decoration: underline;">packers and movers from Ranchi to Agartala</a>. We utilize heavy-duty export-grade packing materials that protect delicate home goods against rain, dust, altitude variation, and prolonged highway motion.</p>
 
       <div class="agt2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Containerized Moving Vehicle for Agartala to Ranchi Transit">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Containerized Moving Vehicle for Agartala to Ranchi Transit">
         <div class="agt2r-img-caption">Sealed all-weather container trucks engineered for moisture-proof interstate transit across the Northeast.</div>
       </div>
 
@@ -705,7 +705,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="agt2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Careful Furniture Packaging for Agartala to Ranchi Move">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Careful Furniture Packaging for Agartala to Ranchi Move">
         <div class="agt2r-img-caption">Multi-tier corrugated and stretch film wrapping guarding furniture against scuffs, dust, and humidity.</div>
       </div>
     </article>
@@ -744,7 +744,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="agt2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Transport from Agartala to Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Transport from Agartala to Ranchi">
         <div class="agt2r-img-caption">Sturdy protective packaging and crating for motorcycles and scooters traveling to Jharkhand.</div>
       </div>
     </article>
@@ -784,7 +784,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="agt2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Goods in Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Goods in Ranchi">
         <div class="agt2r-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services.</div>
       </div>
     </article>

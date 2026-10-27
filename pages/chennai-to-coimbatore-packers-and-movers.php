@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Premier relocation services from Chennai to Coimbatore specializing in household shifting, industrial and textile moves, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,800 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 505 km industrial corridor between Chennai and Coimbatore represents Tamil Nadu's primary domestic relocation artery. Connecting the state capital to South India's manufacturing, textile, and engineering heartland involves seamless transit through Kanchipuram, Vellore, Dharmapuri, and Salem via National Highway 544. Whether executing a corporate transfer from Chennai's OMR IT hub or Guindy to Coimbatore's TIDEL Park in Peelamedu or Saravanampatti, or moving your family home from Anna Nagar or Adyar to RS Puram or Race Course, Shree Ashirwad Packers and Movers delivers an exemplary relocation experience built upon industrial-grade logistics execution.</p>
     
     <div class="cnc-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Chennai to Coimbatore transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Chennai to Coimbatore transit" loading="lazy">
       <div class="cnc-img-caption">Dedicated sealed container trucks engineered for rapid, weatherproof transit along the NH544 corridor.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 505 km transit across highway conditions demands engineered packaging that resists sustained road vibrations, sudden braking forces, and micro-abrasions along high-speed corridors.</p>
 
     <div class="cnc-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for long distance relocation" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for long distance relocation" loading="lazy">
       <div class="cnc-img-caption">Multi-layer protective packing ensuring zero scratches or transit damage across Chennai to Coimbatore.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across 505 km of highway traffic can lead to unnecessary road exhaustion, stone chip damage, and mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="cnc-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for vehicle transport" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for vehicle transport" loading="lazy">
       <div class="cnc-img-caption">Covered hydraulic car carriers ensuring damage-free car and motorcycle transport between Chennai and Coimbatore.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="cnc-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading for relocation in Coimbatore" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading for relocation in Coimbatore" loading="lazy">
       <div class="cnc-img-caption">Specialized equipment and handling for high-rise gated communities in Chennai and Coimbatore.</div>
     </div>
   </section>

@@ -33,7 +33,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Vesu Surat",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-vesu-surat",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,800 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -393,7 +393,7 @@ $state_name = 'Gujarat';
       <p>Our dedicated operations supervisors conduct in-depth architectural and inventory assessments prior to move day. We identify fragile architectural fixtures, calculate clearance widths for sweeping staircases or private elevators, and formulate a customized crating strategy for each sensitive item. By working in close coordination with estate security personnel and gated community management offices along VIP Road, we ensure uninterrupted loading bay access and seamless execution with zero disturbance to neighbors.</p>
 
       <div class="vsu-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Luxury Residence Loading in Vesu Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Luxury Residence Loading in Vesu Surat" width="580" height="380" loading="lazy">
       </div>
 
       <div class="vsu-highlight-box">
@@ -438,7 +438,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="vsu-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive Household Packing in Vesu Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive Household Packing in Vesu Surat" width="580" height="380" loading="lazy">
       </div>
 
       <h3>Engineered Packaging Architecture for High-Value Possessions</h3>
@@ -533,7 +533,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="vsu-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Transit in Vesu Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Transit in Vesu Surat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -569,7 +569,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="vsu-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup in Vesu Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup in Vesu Surat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -608,7 +608,7 @@ $state_name = 'Gujarat';
     <div class="vsu-cta-bar">
       <h3>Experience White-Glove Moving Excellence in Vesu</h3>
       <p>Schedule a confidential on-site survey with our senior relocation director for a comprehensive written proposal.</p>
-      <a href="tel:+919334484001" class="vsu-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="vsu-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="vsu-section">

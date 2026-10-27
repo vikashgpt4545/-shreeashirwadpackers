@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Bahadurgarh",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bahadurgarh",
-        "telephone": "+91 9334424440",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -402,7 +402,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>As the industrial and residential ecosystem of Bahadurgarh rapidly expands with modern townships like HL City, Royal Green County, and multiple sectors under the Haryana Urban Development Authority (HUDA), our logistics infrastructure has grown proportionally. We operate round-the-clock dispatch nodes ensuring prompt service and hassle-free domestic shifting.</p>
         </article>
         <div class="bdg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packaging household belongings in Bahadurgarh" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers team packaging household belongings in Bahadurgarh" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -440,7 +440,7 @@ require_once __DIR__ . '/../includes/config.php';
     <!-- Section 3: Visual Break and Packaging Standard -->
     <section class="bdg-intro-grid">
         <div class="bdg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Bahadurgarh" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in Bahadurgarh" width="580" height="386" loading="lazy">
         </div>
         <article class="bdg-intro-text">
             <h2>Five-Layer Protective Packaging System</h2>
@@ -580,7 +580,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>Every piece of precision machinery is enclosed in waterproof moisture barrier bags with silica gel desiccant packs, then strapped securely to reinforced timber skids. Our direct trailers ensure that your production line experiences zero transit jolts, allowing rapid reinstallation and minimal factory downtime.</p>
         </article>
         <div class="bdg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container truck for long distance moving in Bahadurgarh" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container truck for long distance moving in Bahadurgarh" width="580" height="386" loading="lazy">
         </div>
     </section>
 
@@ -641,7 +641,7 @@ require_once __DIR__ . '/../includes/config.php';
 </main>
 
 <div class="bdg-img-box" style="margin: 40px auto; max-width: 580px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Bahadurgarh Haryana" width="580" height="386" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Bahadurgarh Haryana" width="580" height="386" loading="lazy">
 </div>
 
 <?php include __DIR__ . '/../includes/footer.php'; ?>

@@ -360,7 +360,7 @@ $meta_keywords = "packers and movers bangalore to hazaribagh, bangalore to hazar
           </div>
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="All-weather waterproof container truck loading from Bangalore to Hazaribagh" style="width:100%; height:320px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="All-weather waterproof container truck loading from Bangalore to Hazaribagh" style="width:100%; height:320px; object-fit:cover; display:block;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Direct Sealed Steel Container Loading</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">All-weather closed containers eliminate mid-route handling between Bengaluru tech corridors and Hazaribagh</div>
@@ -464,14 +464,14 @@ $meta_keywords = "packers and movers bangalore to hazaribagh, bangalore to hazar
         <!-- 2 Visual Proof Cards -->
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom wooden crating for large LED TVs and IT monitors" style="width:100%; height:240px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom wooden crating for large LED TVs and IT monitors" style="width:100%; height:240px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Custom Wooden Crates for Monitors &amp; LED TVs</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">Our packing crews construct tailored wooden crates for high-end electronics, eliminating panel flexion and vibration damage over the 1,850 km route.</p>
             </div>
           </div>
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container transport fleet for interstate moving" style="width:100%; height:240px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container transport fleet for interstate moving" style="width:100%; height:240px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Sealed Closed Containers on National Corridors</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">Our specialized linehaul fleet travels under tamper-evident digital OTP locks with live GPS satellite monitoring, ensuring full transparency throughout transit.</p>

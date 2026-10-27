@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Laitumkhrah Shillong",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-laitumkhrah-shillong",
     "priceRange": "₹4,000 - ₹62,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="lks-container">
       <h1>Packers and Movers in Laitumkhrah Shillong</h1>
       <p>Pinnacle educational capital relocation services, St. Anthony's & St. Edmund's faculty moving, Nongrim Hills executive home shifting, and hill container transit in Laitumkhrah.</p>
-      <a href="tel:+919334484001" class="lks-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="lks-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Laitumkhrah stands as the intellectual soul, cultural bastion, and premier upscale residential neighborhood of Shillong. Gracefully situated amidst pine-forested slopes in eastern Shillong, Laitumkhrah is renowned throughout the Northeast for its world-class educational institutions including St. Anthony's College, St. Edmund's College, Loreto Convent, and St. Mary's College, alongside iconic landmarks such as the majestic Cathedral of Mary Help of Christians, the bustling Laitumkhrah Market, Don Bosco Square, and the affluent hillside residential enclaves of Nongrim Hills and New Colony. Home to esteemed academics, research scholars, senior civil servants, healthcare specialists, and multi-generational families residing in historic colonial-era timber cottages and contemporary apartment residences, Laitumkhrah requires specialized relocation expertise to handle steep winding lanes, fragile timber architecture, school traffic hours, and dense mountain rainfall.</p>
 
       <div class="lks-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Laitumkhrah Shillong" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Laitumkhrah Shillong" width="580" height="360" loading="lazy">
       </div>
 
       <div class="lks-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Laitumkhrah operational unit delivers tailored relocation services designed to address the diverse needs of college professors, researchers, healthcare professionals, and residential families:</p>
 
       <div class="lks-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Laitumkhrah" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Laitumkhrah" width="580" height="360" loading="lazy">
       </div>
 
       <div class="lks-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Laitumkhrah follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="lks-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Laitumkhrah" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Laitumkhrah" width="580" height="360" loading="lazy">
       </div>
 
       <div class="lks-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Laitumkhrah:</p>
 
       <div class="lks-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Laitumkhrah" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Laitumkhrah" width="580" height="360" loading="lazy">
       </div>
 
       <div class="lks-grid-cards">

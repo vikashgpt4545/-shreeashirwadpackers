@@ -20,7 +20,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Telibandha Raipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-telibandha-raipur",
-        "telephone": "+919334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -457,7 +457,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="tbr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Telibandha Raipur by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Telibandha Raipur by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -511,7 +511,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="tbr-grid-2">
             <div>
                 <div class="tbr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Telibandha Raipur shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Telibandha Raipur shifting" loading="lazy">
                 </div>
             </div>
             <div>
@@ -591,7 +591,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="tbr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Telibandha Raipur by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Telibandha Raipur by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -640,7 +640,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="tbr-grid-2">
             <div>
                 <div class="tbr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods handling in Telibandha Raipur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods handling in Telibandha Raipur" loading="lazy">
                 </div>
             </div>
             <div>
@@ -707,7 +707,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="tbr-cta">
         <h2>Planning a Move in Telibandha or Marine Drive Raipur?</h2>
         <p>Get in touch with our local relocation specialists today for a free on-site survey and transparent, fixed-price quotation.</p>
-        <a href="tel:+919334812328" class="tbr-cta-btn">Call +91-9334812328 for Free Survey</a>
+        <a href="tel:+919835565233" class="tbr-cta-btn">Call +91 9835565233 for Free Survey</a>
     </section>
 
 </main>

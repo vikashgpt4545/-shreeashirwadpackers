@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Shillong",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-shillong",
     "priceRange": "₹4,000 - ₹70,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="shl-container">
       <h1>Packers and Movers in Shillong Meghalaya</h1>
       <p>Pinnacle Scotland of the East relocation services, Eastern Air Command defense moves, Assam Rifles DGAR shifting, NEHU faculty relocation, and hill container transit.</p>
-      <a href="tel:+919334484001" class="shl-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="shl-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Shillong holds an enchanted position as the "Scotland of the East", the glorious capital of Meghalaya, and the supreme strategic defense and academic headquarters of the entire eastern Himalayan frontier. Perched at an invigorating altitude of 4,908 feet amidst pine-clad ridges, mist-shrouded valleys, and cascading waterfalls in the Khasi Hills, Shillong is home to institutions of paramount national standing including the Headquarters of Eastern Air Command (IAF at Upper Shillong), the Directorate General of Assam Rifles (DGAR at Laitkor), the North-Eastern Hill University (NEHU, a premier central university at Mawkynroh-Umshing), the Indian Institute of Management (IIM Shillong), and the North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences (NEIGRIHMS). Connected seamlessly to the Assam plains by the four-lane Guwahati-Shillong expressway (NH 106) past the breathtaking Umiam Lake, Shillong is a vibrant confluence of military command, higher education, tribal governance, and tourism. Relocating in Shillong requires specialized competence to navigate steep hill gradients, narrow colonial-era pinewood avenues, persistent mountain cloud moisture, and dense pedestrian traffic around Police Bazar.</p>
 
       <div class="shl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Shillong Meghalaya" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Shillong Meghalaya" width="580" height="360" loading="lazy">
       </div>
 
       <div class="shl-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Shillong operational unit delivers tailored relocation services designed to address the diverse needs of armed forces personnel, university faculty, medical surgeons, and hill station residents:</p>
 
       <div class="shl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Shillong" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Shillong" width="580" height="360" loading="lazy">
       </div>
 
       <div class="shl-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Shillong follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="shl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Shillong" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Shillong" width="580" height="360" loading="lazy">
       </div>
 
       <div class="shl-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Shillong:</p>
 
       <div class="shl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Shillong" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Shillong" width="580" height="360" loading="lazy">
       </div>
 
       <div class="shl-grid-cards">

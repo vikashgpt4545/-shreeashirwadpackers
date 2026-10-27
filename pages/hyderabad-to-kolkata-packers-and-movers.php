@@ -22,7 +22,7 @@ require_once __DIR__ . '/../includes/config.php';
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers",
-        "telephone": "+91 9334812341",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "url": "<?php echo SITE_BASE_URL; ?>/hyderabad-to-kolkata-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
@@ -476,7 +476,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>The 1,500-kilometer overland transit from Hyderabad to Kolkata represents a major arterial relocation pipeline linking South India's premier tech nucleus with Eastern India's largest commercial center. Departing Hyderabad through the Outer Ring Road (ORR) at Pedda Amberpet, our container trucks join National Highway 65 (NH65), progressing through Choutuppal, Suryapet, Kodad, and Nandigama before reaching the Krishna River basin at Vijayawada.</p>
 
         <div class="hdk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated intercity container transport truck for Hyderabad to Kolkata relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated intercity container transport truck for Hyderabad to Kolkata relocation" width="580" height="387" loading="lazy">
             <div class="hdk-image-caption">Dedicated closed-container vehicle engineered for all-weather highway freight from Hyderabad to Kolkata.</div>
         </div>
 
@@ -586,7 +586,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>At Shree Ashirwad Packers and Movers, we deploy an engineered five-tier packaging system utilizing high-density air-bubble films, corrugated wrap sheets, reinforced paper edge protectors, moisture-resistant stretch films, and heavy-duty 7-ply virgin craft cartons.</p>
 
         <div class="hdk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High-density bubble wrapping and packaging materials for safe transit" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High-density bubble wrapping and packaging materials for safe transit" width="580" height="387" loading="lazy">
             <div class="hdk-image-caption">Industrial-grade shock absorption and moisture barrier packaging applied to household valuables.</div>
         </div>
 
@@ -686,7 +686,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Before dispatch from your Hyderabad residence, our vehicle inspection specialists execute a 30-point evaluation. We record existing scratches, log fuel levels and odometer numbers, and photograph the vehicle from all perspectives, providing an instant certified digital condition dossier.</p>
 
         <div class="hdk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated hydraulic vehicle carrier for car and motorbike shipping" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated hydraulic vehicle carrier for car and motorbike shipping" width="580" height="387" loading="lazy">
             <div class="hdk-image-caption">Enclosed hydraulic carrier offering complete stone-chip and weather protection for automobiles.</div>
         </div>
 
@@ -710,7 +710,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our team unloads each box into its designated room, reassembles beds and modular tables, assists with appliance positioning, and removes all empty cartons, bubble sheets, and plastic wrapping from your home before departure.</p>
 
         <div class="hdk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, bed assembly, and room setup service in Kolkata" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, bed assembly, and room setup service in Kolkata" width="580" height="387" loading="lazy">
             <div class="hdk-image-caption">Trained destination crew reassembling furniture and placing household items systematically in Kolkata.</div>
         </div>
 
@@ -766,7 +766,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="hdk-cta-box">
         <h3>Begin Your Hyderabad to Kolkata Move with Ease</h3>
         <p>Connect with our experienced interstate relocation consultants for an itemized estimate. Enjoy certified multi-layer packing, sealed container freight, and seamless door-to-door transit.</p>
-        <a href="tel:+919334812341" class="hdk-cta-btn">Call +91 9334812341 for Free Quote</a>
+        <a href="tel:+919835565233" class="hdk-cta-btn">Call +91 9835565233for Free Quote</a>
     </section>
 </main>
 

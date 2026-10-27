@@ -15,8 +15,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Packing Materials Guide: What Professional Movers Use | Call 9708579999</title>
-    <meta name="description" content="Complete packing materials guide for moving in Ranchi. Call 9708579999 for 5-ply cartons, bubble wrap rolls, stretch film, material rates & free quote.">
+    <title>Packing Materials Guide: What Professional Movers Use | Call 9835565233</title>
+    <meta name="description" content="Complete packing materials guide for moving in Ranchi. Call 9835565233 for 5-ply cartons, bubble wrap rolls, stretch film, material rates & free quote.">
     <meta name="keywords" content="packing materials guide what movers use, packing materials ranchi, corrugated boxes for shifting ranchi, bubble wrap rolls ranchi, moving carton supplier ranchi, packers movers packing supplies">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use",
-        "telephone": "+91-9708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -224,8 +224,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Packing Materials Guide: What Professional Movers Actually Use</h1>
                 <p>The difference between a flawless move and broken furniture comes down to one factor: the scientific grade of packaging materials used. Learn what separates certified 5-ply cartons and virgin bubble wrap from cheap market scraps used by unverified operators in Ranchi.</p>
                 <div class="pmgm-cta-group">
-                    <a href="tel:+919708579999" class="pmgm-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20packing%20materials%20advice%20and%20a%20quote%20for%20Ranchi" class="pmgm-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
+                    <a href="tel:+919835565233" class="pmgm-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20packing%20materials%20advice%20and%20a%20quote%20for%20Ranchi" class="pmgm-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -244,7 +244,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="pmgm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High-grade corrugated cardboard sheets and heavy-duty packing rolls in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High-grade corrugated cardboard sheets and heavy-duty packing rolls in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -295,7 +295,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="pmgm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Specialized residential wardrobe cartons and labeled moving supplies in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Specialized residential wardrobe cartons and labeled moving supplies in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -320,7 +320,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Understanding Corrugated Box Engineering: 3-Ply vs 5-Ply vs 7-Ply</h2>
                 <div class="pmgm-grid-2">
                     <div class="pmgm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Organized bubble-wrapped cartons ready for systematic loading into moving truck in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Organized bubble-wrapped cartons ready for systematic loading into moving truck in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <h3>The Fluting Science Behind Box Strength</h3>
@@ -421,7 +421,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Specialized Fine Furniture Wrapping & Wooden Crates</h2>
                 <div class="pmgm-grid-2">
                     <div class="pmgm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective bubble and corrugated wrapping on wooden furniture in Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective bubble and corrugated wrapping on wooden furniture in Jharkhand" loading="lazy">
                     </div>
                     <div>
                         <p>Polished teakwood, sheesham dining sets, and imported melamine wardrobes require multi-layer armor before loading:</p>

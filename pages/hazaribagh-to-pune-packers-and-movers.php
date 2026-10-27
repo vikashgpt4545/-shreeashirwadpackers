@@ -662,7 +662,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-pune-packer
                 <p>We deploy dedicated weatherproof container vehicles operating continuously with dual drivers. Bypassing transshipment points, your goods are packed in Hazaribagh, locked in your presence, and driven straight to your new Pune flat without mid-journey manual handling.</p>
             </div>
             <div class="h2pne-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated interstate container moving truck traveling between Hazaribagh and Pune" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated interstate container moving truck traveling between Hazaribagh and Pune" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -734,7 +734,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-pune-packer
     <div class="h2pne-container">
         <div class="h2pne-grid-2col">
             <div class="h2pne-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Pune long-distance move" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Pune long-distance move" loading="lazy" width="600" height="400">
             </div>
             <div class="h2pne-content-box">
                 <span class="h2pne-tag">Interstate Durability</span>
@@ -765,7 +765,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-pune-packer
                 <p>For sedans, hatchbacks, and SUVs, our car carrier services include photographic pre-loading inspections, four-wheel locking chocks, and comprehensive transit insurance cover. We offer doorstep pickup in Hazaribagh and direct delivery to your Pune apartment complex or villa.</p>
             </div>
             <div class="h2pne-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for interstate transit from Hazaribagh to Pune" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for interstate transit from Hazaribagh to Pune" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-pune-packer
     <div class="h2pne-container">
         <div class="h2pne-grid-2col">
             <div class="h2pne-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Pune residence" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Pune residence" loading="lazy" width="600" height="400">
             </div>
             <div class="h2pne-content-box">
                 <span class="h2pne-tag">Full-Service Guarantee</span>

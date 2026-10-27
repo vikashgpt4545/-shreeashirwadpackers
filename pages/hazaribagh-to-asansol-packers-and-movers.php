@@ -662,7 +662,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-asansol-pac
                 <p>Whether you are a steel metallurgist transferring to IISCO Burnpur, a mining manager joining ECL, a railway engineer posted to Chittaranjan Locomotive Works (CLW), or a family moving home to Ushagram or Kalyanpur, Shree Ashirwad Packers and Movers delivers a flawless, stress-free shifting experience.</p>
             </div>
             <div class="h2asn-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Hazaribagh to Asansol" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Hazaribagh to Asansol" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -734,7 +734,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-asansol-pac
     <div class="h2asn-container">
         <div class="h2asn-grid-2col">
             <div class="h2asn-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Asansol move" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Asansol move" loading="lazy" width="600" height="400">
             </div>
             <div class="h2asn-content-box">
                 <span class="h2asn-tag">Packing Integrity</span>
@@ -765,7 +765,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-asansol-pac
                 <p>For sedans, hatchbacks, and SUVs, our car carrier services include photographic pre-loading inspections, four-wheel locking chocks, and comprehensive transit insurance cover. We offer doorstep pickup in Hazaribagh and direct delivery to your Asansol residence.</p>
             </div>
             <div class="h2asn-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for transit from Hazaribagh to Asansol" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for transit from Hazaribagh to Asansol" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-asansol-pac
     <div class="h2asn-container">
         <div class="h2asn-grid-2col">
             <div class="h2asn-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Asansol residence" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Asansol residence" loading="lazy" width="600" height="400">
             </div>
             <div class="h2asn-content-box">
                 <span class="h2asn-tag">Full-Service Guarantee</span>

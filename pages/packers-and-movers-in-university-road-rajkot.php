@@ -33,7 +33,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers University Road Rajkot",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-university-road-rajkot",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -393,7 +393,7 @@ $state_name = 'Gujarat';
       <p>The urban layout of University Road encompasses established housing societies, contemporary mid-rise towers, and quiet row-house societies. Narrow internal residential lanes require strategic truck parking. Our dispatch teams deploy agile transport shuttles and hydraulic trolleys to ensure prompt loading and unloading, even in societies where large container vehicles cannot enter directly.</p>
 
       <div class="uvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment and Family Shifting in University Road Rajkot" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment and Family Shifting in University Road Rajkot" width="580" height="380" loading="lazy">
       </div>
 
       <div class="uvr-highlight-box">
@@ -438,7 +438,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="uvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in University Road Rajkot" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in University Road Rajkot" width="580" height="380" loading="lazy">
       </div>
 
       <h3>Specialized Multi-Tier Protective Packing Methods</h3>
@@ -533,7 +533,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="uvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in University Road Rajkot" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in University Road Rajkot" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -569,7 +569,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="uvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in University Road Rajkot" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in University Road Rajkot" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Gujarat';
     <div class="uvr-cta-bar">
       <h3>Plan Your Stress-Free Move on University Road Rajkot</h3>
       <p>Speak with our University Road relocation specialists today for a transparent, no-obligation quote and slot reservation.</p>
-      <a href="tel:+919334484001" class="uvr-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="uvr-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="uvr-section">

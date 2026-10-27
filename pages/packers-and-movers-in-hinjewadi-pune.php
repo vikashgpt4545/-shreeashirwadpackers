@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hinjewa
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-hinjewadi-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-hinjewadi-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -367,7 +367,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hinjewa
         <p>Positioned right off the Mumbai-Bangalore National Highway (NH-48) and the Mumbai-Pune Expressway bypass, Hinjewadi serves as a vibrant gateway for professional transfers and long-distance relocations. However, navigating its sprawling gated townships requires specialized logistics capabilities. High-rise condominium towers enforce strict shifting permissions, dedicated service elevator booking slots, mandatory mover ID registrations, and parking restrictions. Shree Ashirwad Packers and Movers delivers a tailored moving service engineered to handle tech executive apartments, fragile electronics, server hardware, and family furnishings. Our certified moving crews, protective packaging materials, and fleet of covered container vehicles guarantee safe, on-time delivery.</p>
 
         <div class="hjw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Hinjewadi by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Hinjewadi by Shree Ashirwad Packers and Movers">
             <p class="hjw-image-caption">Professional loading by trained movers ensuring goods are secured against transit movement in Hinjewadi.</p>
         </div>
 
@@ -404,7 +404,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hinjewa
         </div>
 
         <div class="hjw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Hinjewadi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Waterproof packaging and bubble wrapping in Hinjewadi">
             <p class="hjw-image-caption">Multi-layered waterproof bubble wrap and corrugated padding shielding sensitive household goods.</p>
         </div>
 
@@ -512,7 +512,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hinjewa
         </div>
 
         <div class="hjw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Hinjewadi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Hinjewadi">
             <p class="hjw-image-caption">Skilled carpentry dismantling and component packaging for large wooden bedroom furniture.</p>
         </div>
 
@@ -546,7 +546,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hinjewa
         </div>
 
         <div class="hjw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hinjewadi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hinjewadi">
             <p class="hjw-image-caption">Reliable covered container vehicles delivering door-to-door relocation across Hinjewadi neighborhoods.</p>
         </div>
 
@@ -615,7 +615,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hinjewa
 
         <div class="hjw-faq-item">
             <h3>How do I get an exact written quotation for my move in Hinjewadi?</h3>
-            <p>You can contact our customer support team directly at +91 93344 04050 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
+            <p>You can contact our customer support team directly at +91 9835565233 or submit our online inquiry form. We will schedule a free physical or digital pre-move inventory inspection and provide an itemized quote within a few hours.</p>
         </div>
     </section>
 

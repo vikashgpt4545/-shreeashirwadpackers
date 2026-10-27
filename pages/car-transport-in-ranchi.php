@@ -5,7 +5,7 @@
  * 
  * Target URL: https://www.shreeashirwadpackers.com/car-transport-in-ranchi
  * Title: Car Transport in Ranchi - 8409531615
- * Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834001
+ * Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002
  * Coordinates: 23.3639813° N, 85.3090259° E
  */
 
@@ -100,7 +100,7 @@ $meta_keywords = "car transport in ranchi, car carrier services in ranchi, car s
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -145,7 +145,7 @@ $meta_keywords = "car transport in ranchi, car carrier services in ranchi, car s
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -410,7 +410,7 @@ $meta_keywords = "car transport in ranchi, car carrier services in ranchi, car s
           </div>
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport in Ranchi Hydraulic Ramp Loading into Carrier" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport in Ranchi Hydraulic Ramp Loading into Carrier" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Hydraulic Low-Incline Carrier Loading</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">Precision wheel alignment, 4-point tire strap locks, and zero underbody impact in Ranchi</div>
@@ -504,7 +504,7 @@ $meta_keywords = "car transport in ranchi, car carrier services in ranchi, car s
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:36px; align-items:center;">
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Enclosed Vehicle Shifting Container Carrier Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Enclosed Vehicle Shifting Container Carrier Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Heavy-Duty Enclosed Automotive Carriers</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">Sealed metal trailers keeping road dust, gravel, and extreme weather off your car</div>

@@ -2,7 +2,7 @@
 /**
  * Packers and Movers in Govindpur - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9308888746
+ * Contact: +91 8409531615 / +91 9835565233
  * Office: Serving Govindpur, GT Road NH-19 Hub, Dhanbad District, Jharkhand
  */
 
@@ -1028,7 +1028,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-govindpur";
             <!-- Service 1 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household shifting and carton packing in Govindpur Dhanbad" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household shifting and carton packing in Govindpur Dhanbad" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Household Shifting & Apartment Relocation</h3>
@@ -1046,7 +1046,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-govindpur";
             <!-- Service 2 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Commercial cargo and door to door delivery truck in Govindpur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Commercial cargo and door to door delivery truck in Govindpur" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Commercial Warehouse & Logistics Moving</h3>
@@ -1064,7 +1064,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-govindpur";
             <!-- Service 3 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and bike transport carrier in Govindpur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and bike transport carrier in Govindpur" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Car & Two-Wheeler Transportation</h3>
@@ -1082,7 +1082,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-govindpur";
             <!-- Service 4 -->
             <div class="service-card">
                 <div class="service-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehouse storage for Govindpur goods" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehouse storage for Govindpur goods" loading="lazy">
                 </div>
                 <div class="service-body">
                     <h3>Secure Warehousing & Storage Solutions</h3>

@@ -333,7 +333,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
       </div>
       <div style="text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
                alt="Packers and Movers in Pakur 5 Layer Household Packaging" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 
@@ -471,7 +471,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
 
       <div style="order: 1; text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
                alt="Door to Door Delivery Truck Pakur Shree Ashirwad Packers" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 
@@ -645,7 +645,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
       </div>
       <div style="text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" 
                alt="Wooden Furniture Wrapping Pakur Shree Ashirwad Packers" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 
@@ -690,7 +690,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
 
       <div style="order: 1; text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" 
                alt="Scooter and Bike Safe Transit Packing Pakur" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 

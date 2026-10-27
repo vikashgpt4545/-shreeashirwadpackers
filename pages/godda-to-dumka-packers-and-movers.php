@@ -681,7 +681,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/godda-to-dumka-packers-an
                 </div>
                 <div>
                     <div class="god2dum-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Godda to Dumka relocation" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Godda to Dumka relocation" width="600" height="400" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -755,7 +755,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/godda-to-dumka-packers-an
             <div class="god2dum-grid-2">
                 <div>
                     <div class="god2dum-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5 layer packing process for Godda to Dumka household shifting" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5 layer packing process for Godda to Dumka household shifting" width="600" height="400" loading="lazy">
                     </div>
                 </div>
                 <div>
@@ -871,7 +871,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/godda-to-dumka-packers-an
                 </div>
                 <div>
                     <div class="god2dum-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Godda to Dumka" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Godda to Dumka" width="600" height="400" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -921,7 +921,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/godda-to-dumka-packers-an
             <div class="god2dum-grid-2">
                 <div>
                     <div class="god2dum-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service in Dumka" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service in Dumka" width="600" height="400" loading="lazy">
                     </div>
                 </div>
                 <div>

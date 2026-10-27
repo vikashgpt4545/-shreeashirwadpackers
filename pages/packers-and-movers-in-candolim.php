@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Candolim",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-candolim",
     "priceRange": "₹4,500 - ₹65,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="cdm-container">
       <h1>Packers and Movers in Candolim Goa</h1>
       <p>Bespoke white-glove luxury villa moving, coastal holiday home relocation, antique timber crating, and resort logistics across Candolim and Sinquerim.</p>
-      <a href="tel:+919334484001" class="cdm-hero-btn">Call +91 9334484001 for Luxury Shifting Consultation</a>
+      <a href="tel:+919835565233" class="cdm-hero-btn">Call +91 9835565233 for Luxury Shifting Consultation</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Candolim stands as the jewel of North Goa's golden coastal strip, renowned worldwide for its tranquil palm-fringed sands, prestigious Portuguese colonial heritage estates, designer beachfront villas, five-star luxury resorts, and high-profile expatriate communities. Stretching south from the lively edge of Calangute to the historic ramparts of Fort Aguada and Sinquerim, Candolim presents a uniquely demanding moving landscape. Relocating a luxury home or premium holiday villa in Candolim requires far more than generic transport; it demands white-glove care, fine furniture carpentry, delicate antique crating, and flawless execution that respects peaceful residential neighborhood aesthetics.</p>
 
       <div class="cdm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading luxury villa goods Candolim" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading luxury villa goods Candolim" width="580" height="360" loading="lazy">
       </div>
 
       <div class="cdm-grid-2">
@@ -488,7 +488,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From holiday flat relocations to massive multi-bedroom beachfront estate moves, our specialized services cater to the highest standards of luxury living:</p>
 
       <div class="cdm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for luxury sofa and furniture Candolim" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for luxury sofa and furniture Candolim" width="580" height="360" loading="lazy">
       </div>
 
       <div class="cdm-grid-cards">
@@ -525,7 +525,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>We execute every shifting project with flawless coordination and rigorous attention to detail, ensuring your luxury estate transitions smoothly:</p>
 
       <div class="cdm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Careful loading of luxury goods in truck Candolim" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Careful loading of luxury goods in truck Candolim" width="580" height="360" loading="lazy">
       </div>
 
       <div class="cdm-grid-cards">
@@ -558,7 +558,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized relocation teams serve every neighborhood, beach vaddo, and luxury enclave across Candolim and surrounding coastal zones:</p>
 
       <div class="cdm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing Candolim Goa" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing Candolim Goa" width="580" height="360" loading="lazy">
       </div>
 
       <div class="cdm-grid-cards">

@@ -366,7 +366,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -528,7 +528,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="sbp-body-p">Whether you are moving household goods in prime residential colonies like Budharaja and Dhanupali, shifting administrative offices near the Sambalpur Collectorate, moving university professors to staff quarters at VSSUT or VIMSAR in Burla, or transporting industrial consignments to Hirakud, Shree Ashirwad Packers and Movers delivers prompt, zero-damage execution.</p>
 
                 <div class="sbp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sambalpur Odisha">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sambalpur Odisha">
                     <div class="sbp-image-caption">Dedicated logistics crew handling heavy furniture and carton loading in Sambalpur</div>
                 </div>
 
@@ -572,7 +572,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="sbp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Sambalpur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Sambalpur">
                     <div class="sbp-image-caption">High-density air bubble wrap and stretch film safeguarding electronic appliances and glassware</div>
                 </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="sbp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Sambalpur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Sambalpur">
                     <div class="sbp-image-caption">Carpentry technicians safely dismantling and blanket-wrapping heavy wooden bedroom sets</div>
                 </div>
 
@@ -704,7 +704,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="sbp-body-p">Our container fleet operates scheduled daily runs connecting Sambalpur to capital hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a> (~280 km via NH-55), the judicial center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack</a>, the steel metropolis of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">Rourkela</a> (~150 km via Biju Expressway), and the southern commercial center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur" style="color: #1e3a8a; font-weight: 600;">Berhampur</a>.</p>
 
                 <div class="sbp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Sambalpur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Sambalpur">
                     <div class="sbp-image-caption">All-weather container delivery vehicle operating highway routes between Sambalpur and Ranchi HQ</div>
                 </div>
 
@@ -770,7 +770,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Ainthapali Main Road, Near Private Bus Stand, Sambalpur</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="sbp-cta-button">Request Free Moving Quote</a>

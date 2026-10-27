@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/intercity-shifting-truck-loading-jharkhand.jpg",
     "description": "Professional interstate packers and movers services from Hyderabad to Chennai specializing in home shifting, office relocations, car transport, and warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Transferring residences or commercial facilities from Hyderabad, Telangana to Chennai, Tamil Nadu is one of South India's most bustling relocation routes. Spanning roughly 630 kilometers via National Highway 65 through Suryapet and Vijayawada, then seamlessly merging onto the 6-lane National Highway 16 through Guntur, Ongole, and Nellore, this corridor demands dependable transport logistics. Shree Ashirwad Packers and Movers brings over a decade of proven freight mastery to every Hyderabad-to-Chennai move.</p>
     
     <div class="hcn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Hyderabad to Chennai relocation" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Hyderabad to Chennai relocation" loading="lazy">
       <div class="hcn-img-caption">Intercity container trucks designed for weather-sealed, vibration-dampened transport along NH65 and NH16.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Interstate highway transit subjects household furniture and delicate appliances to sustained micro-vibrations, thermal shifts, and road shocks. Our 4-layer packaging standard is designed to withstand dynamic forces across long journeys.</p>
 
     <div class="hcn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing with multi-layer bubble wrap" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing with multi-layer bubble wrap" loading="lazy">
       <div class="hcn-img-caption">Specialized bubble cushioning and compartmentalized carton packing for fragile ceramics and glassware.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating your vehicle by driving across 630 km of interstate highways can result in severe fatigue, stone chip damage, and unnecessary wear. We operate specialized covered car haulers and secure motorcycle containers that guarantee safe, zero-kilometer transit.</p>
 
     <div class="hcn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle loading in covered carrier" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle loading in covered carrier" loading="lazy">
       <div class="hcn-img-caption">Covered motorcycle transport carriers with wheel chocks and nylon tie-down ratchet straps.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="hcn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup service at customer home" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup service at customer home" loading="lazy">
       <div class="hcn-img-caption">Dedicated destination unpacking and furniture assembly service at your new home in Chennai.</div>
     </div>
   </section>

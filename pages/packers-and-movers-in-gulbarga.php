@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gulbarga";
         "name": "Shree Ashirwad Packers and Movers Gulbarga",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -515,7 +515,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Gulbarga (Kalaburagi)</h1>
         <p>Expert household shifting, cement belt industrial machinery moving, university faculty transfers, and automobile carrier across Sedam Road, Kapnoor, Brahmpur, and CUK Campus.</p>
         <div class="glb-btn-wrap">
-            <a href="tel:+919334404050" class="glb-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="glb-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="glb-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -543,7 +543,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="glb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Gulbarga" title="Household relocation in Gulbarga">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Gulbarga" title="Household relocation in Gulbarga">
             <p class="glb-image-caption">Comprehensive household packing and organized labeling for residential homes in Gulbarga (Kalaburagi).</p>
         </div>
     </section>
@@ -579,7 +579,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Large household electronics—including double-door frost-free refrigerators, smart televisions, and automatic washing machines—are secured with internal drum transit locks, thick quilted moving blankets, and heavy-duty shrink films, guaranteeing 100% operational safety upon arrival.</p>
 
         <div class="glb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Gulbarga" title="Furniture packing in Gulbarga">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Gulbarga" title="Furniture packing in Gulbarga">
             <p class="glb-image-caption">Multi-tier bubble wrapping and edge guards applied to premium furniture in Gulbarga.</p>
         </div>
     </section>
@@ -620,7 +620,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Gulbarga residents transferring to Hyderabad, Bangalore, Pune, or other interstate cities rely on our specialized vehicle transport services. We pack motorcycles, Royal Enfield bikes, and scooters using dense foam padding on fuel tanks, side mirrors, and exhausts. Vehicles are secured with wheel chocks and heavy-duty ratchet straps inside covered carriers, ensuring scratch-free delivery with full transit insurance coverage.</p>
 
         <div class="glb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Gulbarga" title="Delicate packing in Gulbarga">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Gulbarga" title="Delicate packing in Gulbarga">
             <p class="glb-image-caption">Custom bubble wrapping and heavy-duty box crating for fragile glassware and delicate kitchenware.</p>
         </div>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="glb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Gulbarga" title="Safe transit truck in Gulbarga">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Gulbarga" title="Safe transit truck in Gulbarga">
             <p class="glb-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

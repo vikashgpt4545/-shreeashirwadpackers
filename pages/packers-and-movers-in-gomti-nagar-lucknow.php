@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Gomti Nagar Lucknow",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="gml-hero-title">Packers and Movers in Gomti Nagar Lucknow</h1>
         <p class="gml-hero-subtitle">Specialized residential kothi shifting across Viram, Vipul, and Vishal Khand, Vibhuti Khand corporate relocations, precision carpentry, and express inter-state logistics.</p>
         <div class="gml-cta-group">
-            <a href="tel:+919334404050" class="gml-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gml-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gml-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gml-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have delivered tailored relocation services across Gomti Nagar for over a decade. Whether you are shifting into an independent multi-storey kothi in Vishal Khand, moving between modern apartments near Patrakarpuram, or relocating a corporate office in Vibhuti Khand, our experienced moving squads deliver damage-free, punctual solutions.</p>
 
         <div class="gml-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Gomti Nagar Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Gomti Nagar Lucknow" loading="lazy">
             <p class="gml-image-caption">Dedicated residential loading and bungalow shifting operations across Gomti Nagar Khands</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gml-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Gomti Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Gomti Nagar" loading="lazy">
             <p class="gml-image-caption">High-density shock-absorbent bubble wrapping protects delicate electronics and kitchenware</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gml-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Gomti Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Gomti Nagar" loading="lazy">
             <p class="gml-image-caption">Certified carpentry technicians carefully dismantle modular double beds and sliding wardrobes</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gml-intro-p">Furthermore, the high-speed Lohia Path corridor allows containerized vehicles to transit effortlessly across Gomti Nagar to central Hazratganj, while the Kisan Path (Outer Ring Road) interchange enables immediate heavy-vehicle routing toward Kanpur Road (NH-27), Agra-Lucknow Expressway, and Ayodhya highway without entering inner-city bottleneck zones.</p>
 
         <div class="gml-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Gomti Nagar Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Gomti Nagar Lucknow" loading="lazy">
             <p class="gml-image-caption">Weatherproof enclosed container trucks guarantee secure, timely door-to-door deliveries</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Gomti Nagar Move Today</h3>
         <p>Contact our experienced moving specialists for a transparent estimate, free home survey, and seamless shifting experience in Gomti Nagar.</p>
         <div class="gml-cta-group">
-            <a href="tel:+919334404050" class="gml-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gml-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gml-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

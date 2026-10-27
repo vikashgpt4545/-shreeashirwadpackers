@@ -106,7 +106,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -445,7 +445,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- First Verified Image: Constrained as required -->
   <div style="text-align: center; margin: 0 auto 35px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="How to Avoid Fraud Packers and Movers in Ranchi - Verified Moving Crew" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="How to Avoid Fraud Packers and Movers in Ranchi - Verified Moving Crew" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Authentic, trained relocation supervisors conducting transparent unpacking and inventory handover in Ranchi.</p>
   </div>
 
@@ -589,7 +589,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3>Move with 100% Certified Safety & Transparency in Ranchi</h3>
     <p>Don't risk your precious family belongings with unverified roadside movers. Choose Jharkhand’s premier IBA-approved, ISO-certified relocation partner.</p>
     <a href="tel:+918409531615" class="cta-btn-gold">📞 Verified Helpline: +91 8409531615</a>
-    <p style="font-size: 0.9rem; margin-top: 15px; color: #cbd5e1;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834001</p>
+    <p style="font-size: 0.9rem; margin-top: 15px; color: #cbd5e1;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</p>
   </div>
 
   <!-- Cluster Hub Internal Linking -->

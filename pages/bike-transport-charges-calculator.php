@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -309,7 +309,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Whether you need to ship a commuter bike locally within Jharkhand or transport a premium Royal Enfield or KTM to metropolitan hubs like Delhi, Bengaluru, Mumbai, Pune, or Hyderabad, our official price schedule provides complete clarity. You can also calculate complete household moves using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="btc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Bike Packing - Shree Ashirwad Packers and Movers Jharkhand" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Bike Packing - Shree Ashirwad Packers and Movers Jharkhand" width="580" height="387" loading="lazy">
         </div>
 
         <div class="btc-table-wrap">
@@ -389,7 +389,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="btc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -418,7 +418,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="btc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing - Jharkhand Relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing - Jharkhand Relocation" width="580" height="387" loading="lazy">
         </div>
     </section>
 

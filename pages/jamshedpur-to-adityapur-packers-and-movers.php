@@ -743,7 +743,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="jsr-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment and Commercial Moving from Jamshedpur to Adityapur" title="Office and Commercial Moving">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment and Commercial Moving from Jamshedpur to Adityapur" title="Office and Commercial Moving">
                 </div>
             </div>
         </div>
@@ -865,7 +865,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKAGING DEFENSE -->
             <div class="jsr-adi-two-col">
                 <div class="jsr-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing for Jamshedpur to Adityapur Move" title="Crockery Bubble Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing for Jamshedpur to Adityapur Move" title="Crockery Bubble Packing">
                 </div>
                 <div class="jsr-adi-two-col-text">
                     <h2>Advanced 5-Layer Defensive Packaging Standards</h2>
@@ -933,14 +933,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="jsr-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Truck Loading for Jamshedpur to Adityapur Shifting" title="Professional Truck Loading">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Truck Loading for Jamshedpur to Adityapur Shifting" title="Professional Truck Loading">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & CREW HANDLING -->
             <div class="jsr-adi-two-col" style="margin-top: 45px;">
                 <div class="jsr-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Relocating Goods from Jamshedpur to Adityapur" title="Expert Moving Crew">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Relocating Goods from Jamshedpur to Adityapur" title="Expert Moving Crew">
                 </div>
                 <div class="jsr-adi-two-col-text">
                     <h2>Full Hyper-Local Coverage in Jamshedpur &amp; Adityapur</h2>

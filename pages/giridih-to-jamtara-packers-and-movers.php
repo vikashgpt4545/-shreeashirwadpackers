@@ -792,7 +792,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-jamtara-packer
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
                 <div class="grd2jam-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Giridih to Jamtara shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Giridih to Jamtara shifting" loading="lazy">
                     <div class="grd2jam-img-caption">
                         <i class="fa fa-truck" style="color: var(--grd2jam-accent); margin-right: 8px;"></i>
                         Regular closed container fleets plying the Giridih &rarr; Madhupur &rarr; Jamtara corridor.
@@ -1049,7 +1049,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-jamtara-packer
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="grd2jam-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="High grade multi layer household goods packing by Shree Ashirwad crew" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="High grade multi layer household goods packing by Shree Ashirwad crew" loading="lazy">
                     <div class="grd2jam-img-caption">
                         <strong>5-Layer Cushioning:</strong> Bubble wraps and high-density foam blankets protect wooden finishes and glass panels.
                     </div>
@@ -1057,7 +1057,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-jamtara-packer
             </div>
             <div class="col-md-4">
                 <div class="grd2jam-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed hydraulic transport carrier" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car loading onto closed hydraulic transport carrier" loading="lazy">
                     <div class="grd2jam-img-caption">
                         <strong>Secured Vehicle Carriers:</strong> Hydraulic ramps and tire lashings ensure scratch-free automobile transport.
                     </div>
@@ -1065,7 +1065,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-jamtara-packer
             </div>
             <div class="col-md-4">
                 <div class="grd2jam-img-showcase">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Jamtara" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Jamtara" loading="lazy">
                     <div class="grd2jam-img-caption">
                         <strong>Room-Wise Unpacking:</strong> Reassembly of beds, furniture placement, and debris clean-up at your Jamtara residence.
                     </div>

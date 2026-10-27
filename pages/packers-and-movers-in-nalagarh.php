@@ -267,7 +267,7 @@ $state_name = 'Himachal Pradesh';
         "logo": "https://shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "description": "Licensed and insured packers and movers in Nalagarh Himachal Pradesh offering professional corporate employee relocations, industrial heavy machinery crating, residential moving, and nationwide container transit.",
-        "telephone": "+91-9334800375",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
@@ -439,7 +439,7 @@ $state_name = 'Himachal Pradesh';
           <p>Backed by over 16 years of certified industry leadership across the region, Shree Ashirwad Packers and Movers has earned the reputation of being Nalagarh's most dependable moving partner. Our specialized closed containerized fleet, ISO-certified packing methodologies, and comprehensive insurance coverage ensure that your household assets or industrial machinery arrive safely and punctually at any destination across India.</p>
         </div>
         <div class="nlg-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Nalagarh Himachal Pradesh" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Nalagarh Himachal Pradesh" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -481,7 +481,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="nlg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Nalagarh Himachal Pradesh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Nalagarh Himachal Pradesh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -574,7 +574,7 @@ $state_name = 'Himachal Pradesh';
       </table>
 
       <div class="nlg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Nalagarh Himachal Pradesh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Nalagarh Himachal Pradesh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -610,7 +610,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="nlg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Nalagarh Himachal Pradesh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Nalagarh Himachal Pradesh" width="580" height="380" loading="lazy">
       </div>
     </section>
 

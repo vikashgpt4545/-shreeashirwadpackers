@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Pan Bazaar Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pan-bazaar-guwahati",
     "priceRange": "₹4,000 - ₹62,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="pbg-container">
       <h1>Packers and Movers in Pan Bazaar Guwahati</h1>
       <p>Premier legal chamber relocation, Cotton University faculty shifting, Reserve Bank banking officer transfers, and heritage residential apartment moving in Pan Bazaar.</p>
-      <a href="tel:+919334484001" class="pbg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="pbg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Pan Bazaar stands as the intellectual, judicial, and cultural epicenter of Guwahati, proudly situated along the southern riverbanks of the Brahmaputra River. Flanked by historic institutions including the Gauhati High Court, Cotton University (established in 1901), the Reserve Bank of India regional headquarters, the historic Dighalipukhuri waterbody, the Guwahati Planetarium, and revered schools like Don Bosco, Pan Bazaar represents an intricate blend of colonial-era heritage buildings, bustling bookstalls, premier corporate branches, and established residential estates. Managing a relocation in Pan Bazaar requires nuanced understanding of historic narrow thoroughfares, daytime commercial traffic limitations, stringent municipal parking rules along Mahatma Gandhi Road, and sensitive archival handling protocols for legal and academic libraries.</p>
 
       <div class="pbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Pan Bazaar Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Pan Bazaar Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pbg-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Pan Bazaar operational team provides specialized moving solutions designed to cater to legal professionals, university faculties, financial institutions, and heritage homeowners:</p>
 
       <div class="pbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Pan Bazaar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Pan Bazaar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pbg-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation project executed by Shree Ashirwad Packers and Movers in Pan Bazaar follows an organized, time-tested protocol that guarantees total cargo security and absolute peace of mind:</p>
 
       <div class="pbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Pan Bazaar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Pan Bazaar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pbg-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our localized crews manage daily pickup and delivery schedules across all major institutional, commercial, and residential quarters of Pan Bazaar:</p>
 
       <div class="pbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Pan Bazaar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Pan Bazaar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pbg-grid-cards">

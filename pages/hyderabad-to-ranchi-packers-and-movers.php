@@ -944,7 +944,7 @@ require_once __DIR__ . '/includes/seo.php';
 
       <div>
         <div class="h2r-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating on Hyderabad to Ranchi route" width="600" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating on Hyderabad to Ranchi route" width="600" height="380" loading="lazy">
           <div class="h2r-media-caption">
             <span>🚛 <strong>Fleet Operations:</strong> Heavy-duty sealed container vehicles navigating the 1,300-km Hyderabad-Nagpur-Raipur-Ranchi linehaul.</span>
           </div>
@@ -1096,7 +1096,7 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="h2r-grid-2">
       <div>
         <div class="h2r-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective furniture wrapping for Hyderabad to Ranchi move" width="600" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective furniture wrapping for Hyderabad to Ranchi move" width="600" height="380" loading="lazy">
           <div class="h2r-media-caption">
             <span>🛡️ <strong>Furniture Defense:</strong> Multi-layer wrapping for wooden study tables, workstations, and dining setups.</span>
           </div>
@@ -1140,7 +1140,7 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="h2r-grid-2" style="margin-top:50px;">
       <div>
         <div class="h2r-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective quilted padded cover for home appliances during Hyderabad to Ranchi transit" width="600" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective quilted padded cover for home appliances during Hyderabad to Ranchi transit" width="600" height="380" loading="lazy">
           <div class="h2r-media-caption">
             <span>❄️ <strong>Appliance Shield:</strong> Heavy quilted padded covers securing double-door refrigerators and washing machines.</span>
           </div>
@@ -1148,7 +1148,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
       <div>
         <div class="h2r-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery bubble packaging for interstate transit" width="600" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery bubble packaging for interstate transit" width="600" height="380" loading="lazy">
           <div class="h2r-media-caption">
             <span>🍽️ <strong>Crockery Safety:</strong> Micro-cushioning and cellular honeycomb boxing for delicate porcelain dinner sets.</span>
           </div>

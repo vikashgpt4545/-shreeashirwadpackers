@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-haldia#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-haldia",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹60,000",
         "address": {
             "@type": "PostalAddress",
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="hld-body-p">At Shree Ashirwad Packers and Movers, we bring over sixteen years of specialized relocation experience to Haldia. Whether you are a corporate engineer transferring from an IOCL residential township to a metropolitan headquarters, moving your family into an executive apartment in Durgachak, or dispatching household effects across the nation, our trained moving crews deliver flawless service. Operating in close coordination with our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and major state logistics hubs via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we guarantee prompt, secure door-to-door transit.</p>
 
                 <div class="hld-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Haldia">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Haldia">
                     <div class="hld-image-caption">Systematic loading of palletized cartons and furniture in Haldia port city.</div>
                 </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="hld-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Haldia">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials in Haldia">
                     <div class="hld-image-caption">Multi-layered moisture-sealed protective packaging used in Haldia port city.</div>
                 </div>
 
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="hld-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Haldia">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly in Haldia">
                     <div class="hld-image-caption">Skilled carpenters dismantling and protective wrapping modular bed sets in Haldia.</div>
                 </div>
 
@@ -694,7 +694,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="hld-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Haldia">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Haldia">
                     <div class="hld-image-caption">Dedicated door-to-door closed carrier truck operating in Haldia.</div>
                 </div>
 
@@ -751,7 +751,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Near City Centre, Durgachak, Haldia</li>
                     <li><strong>Service Hours:</strong> 6:30 AM - 9:30 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="hld-cta-button">Request Free Moving Quote</a>

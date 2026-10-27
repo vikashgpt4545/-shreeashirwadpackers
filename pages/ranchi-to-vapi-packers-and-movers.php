@@ -665,7 +665,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="rvp-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Ranchi to Vapi Interstate Container Fleet Loading" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Ranchi to Vapi Interstate Container Fleet Loading" loading="lazy">
             </div>
         </div>
     </div>
@@ -789,7 +789,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="rvp-container">
         <div class="rvp-two-col">
             <div class="rvp-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Packaging for Ranchi to Vapi Shifting" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Packaging for Ranchi to Vapi Shifting" loading="lazy">
             </div>
             <div>
                 <span class="rvp-tag">Damage-Free Guarantee</span>
@@ -874,7 +874,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </div>
             </div>
             <div class="rvp-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi Doorstep Packing and Safe Dispatch by Shree Ashirwad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi Doorstep Packing and Safe Dispatch by Shree Ashirwad" loading="lazy">
             </div>
         </div>
     </div>
@@ -885,7 +885,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="rvp-container">
         <div class="rvp-two-col">
             <div class="rvp-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Ranchi to Vapi Enclosed Car Transport and Bike Carrier Loading" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Ranchi to Vapi Enclosed Car Transport and Bike Carrier Loading" loading="lazy">
             </div>
             <div>
                 <span class="rvp-tag">Automobile Relocation</span>

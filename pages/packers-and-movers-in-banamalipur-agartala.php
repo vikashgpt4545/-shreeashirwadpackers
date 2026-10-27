@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Banamalipur Agartala",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-banamalipur-agartala",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="bma-container">
       <h1>Packers and Movers in Banamalipur Agartala</h1>
       <p>Premier central commercial moving, executive residential apartment shifting, Math Chowmuhani merchant relocation, and nationwide container transit in Banamalipur.</p>
-      <a href="tel:+919334484001" class="bma-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="bma-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Banamalipur occupies an indispensable commercial, financial, and upscale residential focal point in the heart of Agartala. Defined by energetic commercial intersections including Math Chowmuhani, Orient Chowmuhani, and Advisor Chowmuhani, Banamalipur seamlessly connects high-street retail stores, prominent banking regional offices, private medical clinics, and established residential enclaves. Home to prominent business entrepreneurs, corporate bank executives, senior medical consultants, and multi-generational family residences, Banamalipur experiences constant residential and mercantile relocation traffic. Relocating within this bustling locality requires specialized logistics proficiency to navigate tight market intersections, scheduled municipal vehicle movement windows, multi-level building staircases, and sensitive monsoon weather protections.</p>
 
       <div class="bma-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Banamalipur Agartala" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Banamalipur Agartala" width="580" height="360" loading="lazy">
       </div>
 
       <div class="bma-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Banamalipur operational unit delivers tailored relocation services designed to address the diverse needs of retail merchants, corporate professionals, residential families, and banking personnel:</p>
 
       <div class="bma-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Banamalipur" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Banamalipur" width="580" height="360" loading="lazy">
       </div>
 
       <div class="bma-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Banamalipur follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="bma-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Banamalipur" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Banamalipur" width="580" height="360" loading="lazy">
       </div>
 
       <div class="bma-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Banamalipur:</p>
 
       <div class="bma-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Banamalipur" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Banamalipur" width="580" height="360" loading="lazy">
       </div>
 
       <div class="bma-grid-cards">

@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Palarivattom Kochi",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-palarivattom-kochi",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>Conducting relocations in Palarivattom requires deft handling of heavy urban traffic, flyover intersection dynamics, and dense residential lane layouts. The confluence of commercial complexes, private clinic parking zones, and gated high-rise apartment towers demands organized moving logistics. Our local operations team schedules vehicle movement during optimized off-peak hours and maintains continuous liaison with resident welfare associations across Palarivattom to ensure streamlined elevator access and seamless loading without disrupting street circulation.</p>
 
     <div class="plv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Palarivattom Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Palarivattom Kochi" loading="lazy">
       <p class="plv-image-caption">Disciplined apartment shifting and container loading operations along Civil Line Road in Palarivattom.</p>
     </div>
 
@@ -600,7 +600,7 @@
     </div>
 
     <div class="plv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Palarivattom" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Palarivattom" loading="lazy">
       <p class="plv-image-caption">Organized packing and secure cartoning for commercial electronics and merchandise in Palarivattom.</p>
     </div>
 
@@ -632,7 +632,7 @@
     </div>
 
     <div class="plv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Palarivattom Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Palarivattom Kochi" loading="lazy">
       <p class="plv-image-caption">Protective multi-layer corrugated padding shielding polished wooden furniture during transit.</p>
     </div>
 
@@ -646,7 +646,7 @@
     <p>Our logistics managers schedule truck arrivals and departures during early morning or midday off-peak windows to bypass heavy traffic bottlenecks. Furthermore, our drivers are well-versed in navigating narrow residential interior lanes connecting Thammanam, Padivattom, and Vennala. We maintain specialized intermediate transport carriers and electric lift trollies to bridge transit when large container vehicles cannot enter narrow gated colony cul-de-sacs.</p>
 
     <div class="plv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Palarivattom" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Palarivattom" loading="lazy">
       <p class="plv-image-caption">Weatherproof closed container trucks ensuring complete cargo security during monsoon transit.</p>
     </div>
 
@@ -736,7 +736,7 @@
   <section class="plv-cta-banner">
     <h3>Book Your Stress-Free Move in Palarivattom Today!</h3>
     <p>Contact our dedicated Palarivattom relocation specialists for a free on-site survey, customized moving estimate, and guaranteed on-time door-to-door delivery across Kerala and India.</p>
-    <a class="plv-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="plv-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

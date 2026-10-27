@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Thiruvananthapuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-thiruvananthapuram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>Simultaneously, the northern expanse of the city hosts Technopark &mdash; India's first and largest green IT tech park, employing over 70,000 technology engineers across major multinational software campuses. Further south, the emergence of the Vizhinjam International Transshipment Deepwater Seaport is rapidly establishing the capital as an international maritime and commercial trading nexus. Conducting relocations across Thiruvananthapuram requires exceptional expertise: managing narrow colonial lanes in Fort and Overbridge areas, handling delicate scientific instruments, packing heritage antique woodwork in Kowdiar, and navigating modern high-rise elevator rules in Pattom and Kazhakoottam.</p>
 
     <div class="tvm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Thiruvananthapuram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Thiruvananthapuram" loading="lazy">
       <p class="tvm-image-caption">Disciplined household loading and apartment container logistics in Thiruvananthapuram.</p>
     </div>
 
@@ -601,7 +601,7 @@
     </div>
 
     <div class="tvm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Thiruvananthapuram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Thiruvananthapuram" loading="lazy">
       <p class="tvm-image-caption">Organized packing and secure strapping of IT servers and office systems in Thiruvananthapuram.</p>
     </div>
 
@@ -633,7 +633,7 @@
     </div>
 
     <div class="tvm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Thiruvananthapuram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Thiruvananthapuram" loading="lazy">
       <p class="tvm-image-caption">Protective multi-layer corrugated padding shielding polished wooden furniture during transit.</p>
     </div>
 
@@ -647,7 +647,7 @@
     <p>Our dispatch teams coordinate truck movements to avoid peak administrative traffic around the Secretariat and Palayam between 9:00 AM and 11:00 AM. For older quarters around East Fort, Chalai, and Karamana, we deploy compact feeder carriers that negotiate narrow streets without blocking local bus lanes or pedestrian access.</p>
 
     <div class="tvm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Thiruvananthapuram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Thiruvananthapuram" loading="lazy">
       <p class="tvm-image-caption">Weatherproof closed container trucks ensuring complete cargo security during monsoon transit.</p>
     </div>
 
@@ -737,7 +737,7 @@
   <section class="tvm-cta-banner">
     <h3>Plan Your Official or Household Move in Trivandrum Today!</h3>
     <p>Contact our dedicated Thiruvananthapuram capital relocation team for a free pre-move assessment, official quotation, and seamless door-to-door transit across Kerala and India.</p>
-    <a class="tvm-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="tvm-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

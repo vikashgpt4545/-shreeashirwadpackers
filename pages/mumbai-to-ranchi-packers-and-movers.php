@@ -945,7 +945,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="m2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Mumbai to Ranchi Packers and Movers - Closed linehaul container truck on Samruddhi expressway">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Mumbai to Ranchi Packers and Movers - Closed linehaul container truck on Samruddhi expressway">
         <div class="m2r-image-caption">
           Heavy-duty 1,550-km interstate linehaul container truck operating the Mumbai to Ranchi expressway corridor.
         </div>
@@ -1111,7 +1111,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="m2r-content-grid-2col">
       <div class="m2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Mumbai to Ranchi Packers and Movers - Furniture protective wrapping">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Mumbai to Ranchi Packers and Movers - Furniture protective wrapping">
         <div class="m2r-image-caption">
           Multi-layer foam wrapping, corner angle guards, and heavy stretch film applied to wooden workstations and bedroom furnishings.
         </div>
@@ -1150,7 +1150,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="m2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Mumbai to Ranchi Packers and Movers - Kitchen crockery bubble wrapping">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Mumbai to Ranchi Packers and Movers - Kitchen crockery bubble wrapping">
         <div class="m2r-image-caption">
           Individual bubble-wrapping and compartmentalized boxing for delicate chinaware and kitchen ceramics.
         </div>
@@ -1284,7 +1284,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="m2r-content-grid-2col">
       <div class="m2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Mumbai to Ranchi Packers and Movers - Vehicle protective packing gear">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Mumbai to Ranchi Packers and Movers - Vehicle protective packing gear">
         <div class="m2r-image-caption">
           Custom vehicle wrapping, fork protectors, and heavy padded covers for vehicle transit.
         </div>

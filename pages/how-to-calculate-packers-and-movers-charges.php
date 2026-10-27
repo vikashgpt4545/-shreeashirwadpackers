@@ -541,7 +541,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Let us examine each of these six cost drivers in detail to understand how professional estimators calculate your exact invoice amount:</p>
 
         <div class="hcmc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for calculated transparent moving tariffs across India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for calculated transparent moving tariffs across India" width="580" height="386" loading="lazy">
         </div>
 
         <p><strong>1. Freight Charges:</strong> The baseline transportation expense determined by transit distance (in km), road tolls, state border taxes, and the required vehicle payload capacity (e.g. 7-foot Tata Ace mini-truck, 14-foot Canter, or 19-foot all-weather closed container truck).</p>
@@ -607,7 +607,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hcmc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck calculated by cubic feet volume for intercity moving" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck calculated by cubic feet volume for intercity moving" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: Detailed Breakdown of Pricing Elements -->
@@ -661,7 +661,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hcmc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging cost calculation" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging cost calculation" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Real-World Worked Calculation Examples -->
@@ -725,7 +725,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>To verify applicable tax regulations, check our comprehensive guide on <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-gst-rate" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">Packers and Movers GST Rates (18% vs 5%)</a>, explore our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">per km rate card</a>, and inspect our sample <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-bill-format" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">IBA approved bill formats</a> for bank and government claims.</p>
 
         <div class="hcmc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for calculated shifting services" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for calculated shifting services" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Practical Tips to Reduce Moving Charges -->

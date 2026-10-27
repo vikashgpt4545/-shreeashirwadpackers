@@ -745,7 +745,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="pune-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading Luggage in Covered Truck for Pune to Adityapur Move" title="Covered Truck Loading Pune to Adityapur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading Luggage in Covered Truck for Pune to Adityapur Move" title="Covered Truck Loading Pune to Adityapur">
                 </div>
             </div>
         </div>
@@ -887,7 +887,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </ul>
                 </div>
                 <div class="pune-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Goods Inspection and Quality Packaging for Pune to Adityapur Move" title="Intercity Goods Inspection">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Goods Inspection and Quality Packaging for Pune to Adityapur Move" title="Intercity Goods Inspection">
                 </div>
             </div>
         </div>
@@ -942,14 +942,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="pune-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Pune to Adityapur Move" title="Protective Sofa and Furniture Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Pune to Adityapur Move" title="Protective Sofa and Furniture Packing">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & BIKE TRANSPORT -->
             <div class="pune-adi-two-col" style="margin-top: 45px;">
                 <div class="pune-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Packing for Pune to Adityapur Move" title="Motorcycle Packing and Shifting">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Packing for Pune to Adityapur Move" title="Motorcycle Packing and Shifting">
                 </div>
                 <div class="pune-adi-two-col-text">
                     <h2>Full Doorstep Coverage Across Pune &amp; Adityapur</h2>

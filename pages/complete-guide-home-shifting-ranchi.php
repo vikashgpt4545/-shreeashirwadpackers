@@ -15,8 +15,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Complete Guide to Home Shifting in Ranchi | Call 9708579999</title>
-    <meta name="description" content="Master guide for household shifting in Ranchi. Call 9708579999 for verified IBA-approved packing, moving charges, room-by-room process & instant free quote.">
+    <title>Complete Guide to Home Shifting in Ranchi | Call 9835565233</title>
+    <meta name="description" content="Master guide for household shifting in Ranchi. Call 9835565233 for verified IBA-approved packing, moving charges, room-by-room process & instant free quote.">
     <meta name="keywords" content="complete guide home shifting ranchi, house relocation guide ranchi, best packers and movers in ranchi, household moving guide ranchi, shifting services ranchi jharkhand, local packers movers ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/complete-guide-home-shifting-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/complete-guide-home-shifting-ranchi",
-        "telephone": "+91-9708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -224,8 +224,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Complete Guide to Home Shifting in Ranchi</h1>
                 <p>Everything you need to know about professional household moving in Jharkhand's capital. Master the 5-layer packaging method, decode transparent pricing, navigate city transport corridors, and relocate with zero stress.</p>
                 <div class="cghs-cta-group">
-                    <a href="tel:+919708579999" class="cghs-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20complete%20home%20shifting%20quote%20for%20Ranchi" class="cghs-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
+                    <a href="tel:+919835565233" class="cghs-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20complete%20home%20shifting%20quote%20for%20Ranchi" class="cghs-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -244,7 +244,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="cghs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive household packing cartons and organized relocation layout in Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive household packing cartons and organized relocation layout in Jharkhand" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -334,7 +334,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Specialized Handling for Home Appliances & Electronics</h2>
                 <div class="cghs-grid-2">
                     <div class="cghs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty quilted appliance protective jacket for refrigerator and washing machine in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty quilted appliance protective jacket for refrigerator and washing machine in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <h3>Safeguarding High-Value Modern Home Tech</h3>
@@ -412,7 +412,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="cghs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Organized bubble-wrapped cartons ready for systematic loading into moving truck in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Organized bubble-wrapped cartons ready for systematic loading into moving truck in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -422,7 +422,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Our Dedicated Weatherproof Fleet & Highway Safety</h2>
                 <div class="cghs-grid-2">
                     <div class="cghs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed container transport truck of Shree Ashirwad Packers and Movers in Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed container transport truck of Shree Ashirwad Packers and Movers in Jharkhand" loading="lazy">
                     </div>
                     <div>
                         <p>Never trust your life's belongings to open-top tarpaulin trucks. Open trucks expose your furniture to sudden monsoon cloudbursts, soot from heavy mining transport on Jharkhand highways, and road theft during transit halts.</p>

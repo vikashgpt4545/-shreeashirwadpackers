@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s150-intro-p">Relocating into or out of Sector 150 requires specialized handling that ordinary moving contractors cannot deliver. Luxury condominiums here feature high-end woodwork, designer chandeliers, imported marble dining consoles, large-screen home theater systems, and fragile glassware that require meticulous multi-layer wrapping. Furthermore, each gated residential enclave enforces stringent estate security protocols, precise time-windows for freight entry, dedicated service elevator booking requirements, and mandatory corridor floor-protection standards. Shree Ashirwad Packers and Movers brings verified professional expertise, dedicated packing crews, and comprehensive equipment to execute seamless relocations across this signature expressway sector.</p>
 
         <div class="s150-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading for Sector 150 Noida luxury apartment relocation" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading for Sector 150 Noida luxury apartment relocation" width="580" height="360">
             <div class="s150-image-caption">Safe loading of household goods and furniture for luxury high-rise moves in Sector 150 Noida</div>
         </div>
 
@@ -574,7 +574,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s150-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and heavy-duty carton packing in Sector 150 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and heavy-duty carton packing in Sector 150 Noida" width="580" height="360">
             <div class="s150-image-caption">Multi-layer bubble wrap, foam sheets, and heavy-duty corrugated cartons for fragile items and luxury decor</div>
         </div>
 
@@ -641,7 +641,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s150-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and reassembly service in Sector 150 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and reassembly service in Sector 150 Noida" width="580" height="360">
             <div class="s150-image-caption">Carpenters carefully dismantling hydraulic beds and modular wardrobes to ensure zero transit damage</div>
         </div>
 
@@ -697,7 +697,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s150-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Sector 150 Noida relocations" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Sector 150 Noida relocations" width="580" height="360">
             <div class="s150-image-caption">Covered containerized trucks providing door-to-door delivery with live GPS tracking and full transit safety</div>
         </div>
     </section>

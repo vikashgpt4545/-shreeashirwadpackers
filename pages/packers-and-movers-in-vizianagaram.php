@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Vizianagaram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-vizianagaram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>Situated merely 40 kilometers north of Visakhapatnam, Vizianagaram acts as an essential twin-city residential and educational retreat. Its urban landscape spans heritage and cantonment quarters including Cantonment, Babametta, Phoolbagh Colony, and Fort Area, alongside expanding modern developments along Ring Road, Mayuri Junction, and Collectorate Junction. Academic scholars, railway officers, industrial engineers, defense personnel, and multi-generational business families depend on certified moving services capable of delivering white-glove household packing and industrial logistics with equal dedication.</p>
 
     <div class="vzm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Vizianagaram Andhra Pradesh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Vizianagaram Andhra Pradesh" loading="lazy">
       <p class="vzm-image-caption">Disciplined residential quarter shifting and systematic loading operations in Vizianagaram.</p>
     </div>
 
@@ -595,7 +595,7 @@
     </div>
 
     <div class="vzm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Vizianagaram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Vizianagaram" loading="lazy">
       <p class="vzm-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Vizianagaram.</p>
     </div>
 
@@ -627,7 +627,7 @@
     </div>
 
     <div class="vzm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Vizianagaram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Vizianagaram" loading="lazy">
       <p class="vzm-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -641,7 +641,7 @@
     <p>Our local dispatchers coordinate moves during early morning hours (6:30 AM to 8:30 AM) to circumvent commercial traffic near Mayuri Junction and Fort Area. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="vzm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Vizianagaram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Vizianagaram" loading="lazy">
       <p class="vzm-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -731,7 +731,7 @@
   <section class="vzm-cta-banner">
     <h3>Plan Your Stress-Free Move in Vizianagaram Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="vzm-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="vzm-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

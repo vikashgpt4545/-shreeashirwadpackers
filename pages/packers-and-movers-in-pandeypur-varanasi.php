@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Pandeypur Varanasi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="pnp-hero-title">Packers and Movers in Pandeypur Varanasi</h1>
         <p class="pnp-hero-subtitle">Reliable Household Shifting, Retail Commercial Relocation, and Dedicated Logistics Across Eastern Varanasi's Pivotal Transit Crossroads</p>
         <div class="pnp-cta-group">
-            <a href="tel:+919334404050" class="pnp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="pnp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pnp-btn-secondary">Check Shifting Rates</a>
         </div>
     </section>
@@ -507,7 +507,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="pnp-intro-p">Shree Ashirwad Packers and Movers brings over 15 years of tested logistics experience directly to homeowners and business establishments across Pandeypur. Shifting homes within this energetic neighborhood involves particular local considerations: managing multi-story independent family houses with narrow exterior stairwells, avoiding peak traffic bottlenecks around Pandeypur Chauraha and Premchand Park road, and maneuvering vehicles safely through interconnected neighborhood alleys. Our seasoned crews use durable 5-ply corrugated cartons, premium air-bubble wrap, and agile 14-foot closed container trucks designed specifically for smooth urban operations.</p>
 
         <div class="pnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Pandeypur Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Pandeypur Varanasi" width="580" height="380" loading="lazy">
             <p class="pnp-image-caption">Shree Ashirwad packing crew carefully loading boxed household goods into closed container vehicles in Pandeypur.</p>
         </div>
 
@@ -582,7 +582,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Pandeypur Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging in Pandeypur Varanasi" width="580" height="380" loading="lazy">
             <p class="pnp-image-caption">High-density bubble wrapping and edge-reinforced corrugated box packaging for fragile household goods in Pandeypur.</p>
         </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="pnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly in Pandeypur Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly in Pandeypur Varanasi" width="580" height="380" loading="lazy">
             <p class="pnp-image-caption">Trained carpenters systematically dismantling and wrapping wooden bed components before transit in Pandeypur.</p>
         </div>
     </section>
@@ -700,7 +700,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="pnp-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along the Ring Road to the Purvanchal Expressway and NH-19, delivering cargo safely within 12 to 16 hours. Eastbound consignments heading to Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a> travel smoothly along the multi-lane NH-19 highway network.</p>
 
         <div class="pnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Pandeypur Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Pandeypur Varanasi" width="580" height="380" loading="lazy">
             <p class="pnp-image-caption">All-weather container vehicles providing direct interstate transit connections from Pandeypur across India.</p>
         </div>
 
@@ -765,7 +765,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Reliable Move in Pandeypur Varanasi</h3>
         <p>Connect with our Pandeypur relocation managers today for an accurate on-site survey, competitive estimate, and safe, stress-free shifting.</p>
         <div class="pnp-cta-group">
-            <a href="tel:+919334404050" class="pnp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="pnp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pnp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

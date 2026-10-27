@@ -297,7 +297,7 @@ include_once __DIR__ . '/../includes/header.php';
     "name": "Shree Ashirwad Packers and Movers Sarjapur Road Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9334812345",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4500 - INR 55000",
     "address": {
       "@type": "PostalAddress",
@@ -462,7 +462,7 @@ include_once __DIR__ . '/../includes/header.php';
       <p class="sjr-p">Relocating within or out of Sarjapur Road requires specialized operational knowledge of hyper-local challenges. Dense corridor traffic along Doddakannelli, bottlenecked Carmelaram railway level crossings, ongoing infrastructure construction, and stringent gated society move-in protocols can quickly overwhelm unprepared moving crews. Shree Ashirwad Packers brings over a decade of verified operational expertise to navigate these micro-market intricacies seamlessly.</p>
 
       <div class="sjr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Sarjapur Road Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Sarjapur Road Bangalore" width="580" height="387" loading="lazy">
         <div class="sjr-image-caption">Professional crew loading sealed container vehicle in a luxury Sarjapur Road residential community.</div>
       </div>
 
@@ -502,7 +502,7 @@ include_once __DIR__ . '/../includes/header.php';
       </div>
 
       <div class="sjr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes for Sarjapur Road relocation" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes for Sarjapur Road relocation" width="580" height="387" loading="lazy">
         <div class="sjr-image-caption">Multi-layer protective packaging engineered to safeguard delicate electronics and expensive kitchenware.</div>
       </div>
 
@@ -524,7 +524,7 @@ include_once __DIR__ . '/../includes/header.php';
       <p class="sjr-p">The Sarjapur Road arterial corridor experiences intense peak-hour commuter surges between 8:30 AM and 11:00 AM, and 5:30 PM to 8:30 PM, primarily driven by IT traffic heading toward Bellandur, Marathahalli, and Electronic City. Key congestion points such as Doddakannelli junction, the Carmelaram railway gate, and Kaikondrahalli lake stretch require calculated transit timing.</p>
 
       <div class="sjr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry dismantling of modular bed furniture in Sarjapur Road" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry dismantling of modular bed furniture in Sarjapur Road" width="580" height="387" loading="lazy">
         <div class="sjr-image-caption">Skilled carpenters carefully dismantling modular wooden furniture prior to transit wrapping.</div>
       </div>
 
@@ -585,7 +585,7 @@ include_once __DIR__ . '/../includes/header.php';
       <p class="sjr-p">Final rates are determined by total cargo cubic volume, packing grade selected, floor levels, elevator availability, and travel distance. For an exact customized estimate, use our official <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges calculator</a>.</p>
 
       <div class="sjr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed container truck on Sarjapur Road Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed container truck on Sarjapur Road Bangalore" width="580" height="387" loading="lazy">
         <div class="sjr-image-caption">Dedicated sealed container vehicles ensuring safe door-to-door transit across Sarjapur Road.</div>
       </div>
 

@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saravanampatti-coimbato
         "name": "Shree Ashirwad Packers and Movers Saravanampatti Coimbatore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saravanampatti-coimbato
         <p>The residential landscape of Saravanampatti is characterized by sprawling multi-tier apartment complexes and premium gated villas built by top developers such as Casagrand, Sobha, and Puravankara. Relocating within or into this dense IT corridor requires a moving company that understands community rules, service elevator time-slots, and rigorous security gate clearance procedures. Shree Ashirwad Packers and Movers delivers specialized shifting protocols specifically crafted to meet the high expectations of Saravanampatti residents.</p>
 
         <div class="srv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment shifting and goods loading in Saravanampatti Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment shifting and goods loading in Saravanampatti Coimbatore" width="580" height="387" loading="lazy">
             <div class="srv-image-caption">High-rise gated society freight elevator operations and apartment moving in Saravanampatti.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saravanampatti-coimbato
         </div>
 
         <div class="srv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="CHIL SEZ IT workstation and server packing in Saravanampatti Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="CHIL SEZ IT workstation and server packing in Saravanampatti Coimbatore" width="580" height="387" loading="lazy">
             <div class="srv-image-caption">Corporate IT equipment antistatic packaging and workstation handling by Shree Ashirwad in Saravanampatti.</div>
         </div>
 
@@ -594,7 +594,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saravanampatti-coimbato
         <p>We wrap elevator interiors with protective padded padding, roll out heavy corrugated floor runners across corridors, and utilize pneumatic rubber-wheeled trolleys that roll quietly across polished tiles. Large dining tables, king-size storage beds, and imported sofa suites are disassembled by skilled in-house carpenters, wrapped in virgin bubble film, and shielded in heavy stretch film.</p>
 
         <div class="srv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Saravanampatti Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Saravanampatti Coimbatore" width="580" height="387" loading="lazy">
             <div class="srv-image-caption">Multi-tier bubble cushioning and edge guarding for solid wood furniture pieces in Saravanampatti.</div>
         </div>
 
@@ -720,7 +720,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saravanampatti-coimbato
         </ol>
 
         <div class="srv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck transit on Sathy Road Saravanampatti" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck transit on Sathy Road Saravanampatti" width="580" height="387" loading="lazy">
             <div class="srv-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Coimbatore corridors.</div>
         </div>
     </section>
@@ -777,7 +777,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saravanampatti-coimbato
     <div class="srv-cta-box">
         <h3>Book Your Saravanampatti Move with Proven Professionals</h3>
         <p>Get an honest, fixed-rate moving estimate with zero hidden surprises. Fully insured, highly rated logistics specialists ready to assist your home or office shift.</p>
-        <a href="tel:+919334404050" class="srv-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="srv-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

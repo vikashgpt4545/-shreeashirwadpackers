@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-ghodbun
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-ghodbunder-road-thane#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-ghodbunder-road-thane",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Ghodbunder Road Thane</h1>
         <p>Expert residential shifting, gated township relocation, furniture assembly, and insured vehicle transport connecting Hiranandani Estate, Kasarvadavali, Brahmand, Anand Nagar, and Ovala with zero moving stress.</p>
         <div class="gbr-btn-wrap">
-            <a href="tel:+919334404050" class="gbr-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gbr-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gbr-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we deliver precision relocation services engineered specifically for the distinctive demands of Ghodbunder Road. Whether you are shifting into a 35th-floor penthouse with panoramic creek views, moving within the same township, or relocating across the creek to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-borivali-mumbai">Packers and Movers in Borivali</a>, our dedicated moving crews manage every stage of your transfer with clockwork efficiency.</p>
 
         <div class="gbr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers truck loading along Ghodbunder Road Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers truck loading along Ghodbunder Road Thane" width="580" height="387" loading="lazy">
             <p class="gbr-image-caption">Dedicated container truck loading and cargo securing for high-rise residential apartments along Ghodbunder Road.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gbr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Ghodbunder Road shifting" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Ghodbunder Road shifting" width="580" height="387" loading="lazy">
             <p class="gbr-image-caption">Industrial-grade bubble wrap rolls and reinforced corrugated cartons ready for packing fragile items on Ghodbunder Road.</p>
         </div>
 
@@ -619,7 +619,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gbr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping on Ghodbunder Road Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping on Ghodbunder Road Thane" width="580" height="387" loading="lazy">
             <p class="gbr-image-caption">Carpentry technicians systematically dismantling and wrapping modular bed panels prior to loading on Ghodbunder Road.</p>
         </div>
 
@@ -667,7 +667,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gbr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Ghodbunder Road relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Ghodbunder Road relocation" width="580" height="387" loading="lazy">
             <p class="gbr-image-caption">Doorstep delivery container vehicle parked for safe apartment shifting inside a Ghodbunder Road gated community.</p>
         </div>
 
@@ -742,7 +742,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="gbr-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Ready to Relocate Along Ghodbunder Road?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Contact our moving coordinators today for an obligation-free doorstep quotation and customized moving schedule.</p>
-            <a href="tel:+919334404050" class="gbr-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gbr-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

@@ -698,7 +698,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-a
             </div>
             <div>
                 <div class="bok2dum-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bokaro to Dumka Packers and Movers container truck" title="Closed container truck on Bokaro to Dumka relocation route">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bokaro to Dumka Packers and Movers container truck" title="Closed container truck on Bokaro to Dumka relocation route">
                     <div class="bok2dum-img-caption">
                         <strong>Figure 1:</strong> Closed-body dedicated container truck transporting household goods safely along the 225 km Bokaro–Dumka highway corridor.
                     </div>
@@ -755,13 +755,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-a
     <div class="container">
         <div class="bok2dum-grid-2">
             <div class="bok2dum-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging Bokaro to Dumka" title="Professional packaging for Bokaro to Dumka move">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging Bokaro to Dumka" title="Professional packaging for Bokaro to Dumka move">
                 <div class="bok2dum-img-caption">
                     <strong>Figure 2:</strong> Systematic 5-layer protective packing for furniture and electronics before loading into the container.
                 </div>
             </div>
             <div class="bok2dum-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transportation carrier loading Bokaro to Dumka" title="Vehicle carrier transit Bokaro to Dumka">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transportation carrier loading Bokaro to Dumka" title="Vehicle carrier transit Bokaro to Dumka">
                 <div class="bok2dum-img-caption">
                     <strong>Figure 3:</strong> Professional loading of motor vehicles and cars using hydraulic ramps and heavy-duty wheel chocks.
                 </div>
@@ -876,7 +876,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-a
             </div>
             <div>
                 <div class="bok2dum-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Dumka" title="Careful unloading and arrangement in Dumka">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Dumka" title="Careful unloading and arrangement in Dumka">
                     <div class="bok2dum-img-caption">
                         <strong>Figure 4:</strong> Dedicated moving staff executing careful unloading, unpacking, and room-wise placement at the destination in Dumka.
                     </div>

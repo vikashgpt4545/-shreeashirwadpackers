@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saibaba-colony-coimbato
         "name": "Shree Ashirwad Packers and Movers Saibaba Colony Coimbatore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saibaba-colony-coimbato
         <p>The urban fabric of Saibaba Colony consists primarily of expansive independent bungalows, generational family homes, and boutique low-rise luxury apartments. Residents here place exceptional value on peace of mind, respectful crew etiquette, and gentle care for valuable household treasures. Shree Ashirwad Packers and Movers has spent over a decade perfecting household relocation protocols specifically tailored to the refined standards of Saibaba Colony homeowners.</p>
 
         <div class="sbc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Residential moving and goods loading in Saibaba Colony Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Residential moving and goods loading in Saibaba Colony Coimbatore" width="580" height="387" loading="lazy">
             <div class="sbc-image-caption">Dedicated residential loading and gentle apartment shifting operations in Saibaba Colony.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saibaba-colony-coimbato
         </div>
 
         <div class="sbc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Ancestral wooden furniture protective wrapping in Saibaba Colony Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Ancestral wooden furniture protective wrapping in Saibaba Colony Coimbatore" width="580" height="387" loading="lazy">
             <div class="sbc-image-caption">Expert padding and protective stretch wrapping for heirloom wooden furniture in Saibaba Colony.</div>
         </div>
 
@@ -594,7 +594,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saibaba-colony-coimbato
         <p>Our commercial shifting division provides planned relocations that minimize business disruption. We assist doctors, retailers, and boutique owners in shifting clinic consultation furniture, diagnostic testing apparatus, retail stock, and administrative filing cabinets with speed and discretion.</p>
 
         <div class="sbc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Clinic and commercial office equipment packing in Saibaba Colony Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Clinic and commercial office equipment packing in Saibaba Colony Coimbatore" width="580" height="387" loading="lazy">
             <div class="sbc-image-caption">Medical clinic equipment and commercial showroom relocation handled securely in Saibaba Colony.</div>
         </div>
 
@@ -718,7 +718,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saibaba-colony-coimbato
         </ol>
 
         <div class="sbc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Saibaba Colony Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Saibaba Colony Coimbatore" width="580" height="387" loading="lazy">
             <div class="sbc-image-caption">Weatherproof sealed container carriers engineered for safe transit across Coimbatore corridors.</div>
         </div>
     </section>
@@ -775,7 +775,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-saibaba-colony-coimbato
     <div class="sbc-cta-box">
         <h3>Experience Peaceful, Respectful Moving in Saibaba Colony</h3>
         <p>Get a fixed-price written quotation backed by our zero-damage guarantee. Fully licensed, insured, and experienced professionals ready to assist your relocation.</p>
-        <a href="tel:+919334404050" class="sbc-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="sbc-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

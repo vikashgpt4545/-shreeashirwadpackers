@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Greater Faridabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -472,7 +472,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="gfbd-hero-title">Packers and Movers in Greater Faridabad</h1>
         <p class="gfbd-hero-subtitle">Specialized high-rise condominium relocations, gated township shifting across Neharpar Sectors 75 to 89, furniture carpentry, and inter-state logistics.</p>
         <div class="gfbd-cta-group">
-            <a href="tel:+919334404050" class="gfbd-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gfbd-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gfbd-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gfbd-intro-p">Comprising Sectors 75 through 89, Greater Faridabad is defined by sprawling gated township developments such as BPTP Parklands (Park Grandeura, Park Floors, Park Elite), Puri Constructions (Puri Pranayam, Puri Pratham, Diplomatic Greens), Omaxe Heights, RPS Savana, and KLJ Platinum Plus. Anchored by prestigious institutions like Amrita Hospital in Sector 88—Asia's largest private healthcare facility—and the European-inspired retail destination Omaxe World Street in Sector 79, Neharpar is designed for modern community living.</p>
 
         <div class="gfbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Greater Faridabad container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Greater Faridabad container truck" width="580" height="386" loading="lazy">
             <p class="gfbd-image-caption">Systematic loading and protective padding of residential goods in Greater Faridabad.</p>
         </div>
 
@@ -525,7 +525,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gfbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Greater Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Greater Faridabad" width="580" height="386" loading="lazy">
             <p class="gfbd-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gfbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Greater Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Greater Faridabad" width="580" height="386" loading="lazy">
             <p class="gfbd-image-caption">Precision furniture disassembly and wrapped timber protection for modern flats.</p>
         </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gfbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Greater Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Greater Faridabad" width="580" height="386" loading="lazy">
             <p class="gfbd-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

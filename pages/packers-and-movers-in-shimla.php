@@ -267,7 +267,7 @@ $state_name = 'Himachal Pradesh';
         "logo": "https://shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "description": "Licensed and insured packers and movers in Shimla Himachal Pradesh offering expert mountain household shifting, secretariat officer relocations, porter services for steep walking tracks, and nationwide container transit.",
-        "telephone": "+91-9334800375",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
@@ -439,7 +439,7 @@ $state_name = 'Himachal Pradesh';
           <p>Shree Ashirwad Packers and Movers brings more than 16 years of certified industry leadership to Shimla Himachal Pradesh. Our mountain relocation crews are specially trained in steep staircase maneuvering, mountain porter management, and all-weather moisture-sealed packaging that insulates belongings against high-altitude condensation, rain showers, and winter snowfall. From government staff relocations in Chotta Shimla to modern apartment transfers in New Shimla, we deliver an organized, stress-free moving experience with zero damage guarantee.</p>
         </div>
         <div class="sml-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Shimla Himachal Pradesh" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Shimla Himachal Pradesh" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -481,7 +481,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="sml-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Shimla Himachal Pradesh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Shimla Himachal Pradesh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -574,7 +574,7 @@ $state_name = 'Himachal Pradesh';
       </table>
 
       <div class="sml-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Shimla Himachal Pradesh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Shimla Himachal Pradesh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -610,7 +610,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="sml-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Shimla Himachal Pradesh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Shimla Himachal Pradesh" width="580" height="380" loading="lazy">
       </div>
     </section>
 

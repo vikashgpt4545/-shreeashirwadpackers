@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-t-nagar-chennai";
         "name": "Shree Ashirwad Packers and Movers T Nagar Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -516,7 +516,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-t-nagar-chennai";
         <h1>Packers and Movers in T Nagar Chennai | Professional Shifting</h1>
         <p>Expert household moving, retail shop relocation, antique furniture handling, and car-bike transport across Pondy Bazaar, Panagal Park, Usman Road, and GN Chetty Road.</p>
         <div class="tng-btn-wrap">
-            <a href="tel:+919334404050" class="tng-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="tng-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="tng-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -529,7 +529,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-t-nagar-chennai";
         <p class="tng-intro-p">Executing a household or commercial relocation in T. Nagar demands unparalleled logistical discipline and intimate neighborhood awareness. Between heavy daylight customer crowds, strictly enforced municipal parking regulations, and narrow cross-streets, ordinary moving operators frequently run into crippling bottlenecks. At <strong>Shree Ashirwad Packers and Movers</strong>, working in seamless synchronization with our parent metropolitan hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Packers and Movers in Chennai</a>, we offer customized moving strategies engineered specifically for T. Nagar's unique urban density.</p>
 
         <div class="tng-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in T Nagar Chennai Household Packing" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in T Nagar Chennai Household Packing" width="580" height="380" loading="lazy">
             <p class="chn-image-caption">Systematic multi-layer packing and heavy-duty carton boxing for family homes in T Nagar Chennai</p>
         </div>
 
@@ -584,7 +584,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-t-nagar-chennai";
         </div>
 
         <div class="tng-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection in T Nagar Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection in T Nagar Chennai" width="580" height="380" loading="lazy">
             <p class="tng-image-caption">High-density corner foam protectors and shrink-wrap moisture barriers for furniture moving in T Nagar</p>
         </div>
     </section>
@@ -649,7 +649,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-t-nagar-chennai";
 
         <div class="tng-highlight-box">
             <h3>Request an Itemized Free Quotation Today</h3>
-            <p>Plan your move with complete peace of mind and zero budgetary surprises. Check our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or speak with our T Nagar operations manager at <strong>+91 9334404050</strong> for an immediate pre-move survey.</p>
+            <p>Plan your move with complete peace of mind and zero budgetary surprises. Check our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or speak with our T Nagar operations manager at <strong>+91 9835565233</strong> for an immediate pre-move survey.</p>
         </div>
     </section>
 
@@ -704,7 +704,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-t-nagar-chennai";
         </div>
 
         <div class="tng-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Chinaware Packing in T Nagar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Chinaware Packing in T Nagar" width="580" height="380" loading="lazy">
             <p class="tng-image-caption">Shock-absorbent honeycomb cellular boxing for delicate crockery, glassware, and silver puja items in T Nagar</p>
         </div>
     </section>
@@ -742,7 +742,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-t-nagar-chennai";
         </div>
 
         <div class="tng-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Truck in T Nagar Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Truck in T Nagar Chennai" width="580" height="380" loading="lazy">
             <p class="tng-image-caption">Weather-sealed container linehaul trucks ensuring safe and zero-transshipment transit from T Nagar</p>
         </div>
     </section>

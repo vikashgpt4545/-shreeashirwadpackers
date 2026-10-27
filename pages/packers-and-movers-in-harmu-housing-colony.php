@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -203,7 +203,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Because our corporate office, central materials warehouse, and active fleet depot are physically situated at <strong>Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony</strong>, our neighbors enjoy unmatched moving benefits: immediate on-site surveys within 15 to 30 minutes, zero mobilization fees, specialized vehicle fleet sizing, and priority crew allocation. Plan your move today with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="hhc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Packers and Movers in Harmu Housing Colony Ranchi - Local Loading Crew" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Packers and Movers in Harmu Housing Colony Ranchi - Local Loading Crew" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -252,7 +252,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hhc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons - Harmu Housing Shifting" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons - Harmu Housing Shifting" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -281,7 +281,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hhc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Harmu Fleet Depot" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Harmu Fleet Depot" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -310,7 +310,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hhc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Harmu Housing Colony" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Harmu Housing Colony" width="580" height="387" loading="lazy">
         </div>
     </section>
 

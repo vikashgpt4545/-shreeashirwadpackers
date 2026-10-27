@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Kota",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kota",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,000 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -236,7 +236,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="kta-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Kota Rajasthan" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Kota Rajasthan" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -261,7 +261,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="kta-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Kota Rajasthan" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Kota Rajasthan" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -429,7 +429,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="kta-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Kota Rajasthan" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Kota Rajasthan" width="580" height="380" loading="lazy">
                 </div>
                 <div class="kta-highlight" style="margin-top: 24px;">
                     <strong>Jhalawar Road Arterial Link:</strong> Positioned right along Jhalawar Road and NH 52, our intercity carriers depart swiftly towards Jaipur, Bundi, Jhalawar, and Madhya Pradesh without facing inner-city transit delays.
@@ -464,7 +464,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="kta-grid-2">
             <div>
                 <div class="kta-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Kota" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Kota" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>

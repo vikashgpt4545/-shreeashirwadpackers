@@ -39,7 +39,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-bannerg
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-bannerghatta-road-bangalore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bannerghatta-road-bangalore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -526,7 +526,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Bannerghatta Road Bangalore</h1>
         <p>Premium home shifting, luxury high-rise apartment relocation, and corporate moving specialists across IIMB, Hulimavu, Arekere, Gottigere, and Vega City Mall.</p>
         <div class="bgr-btn-wrap">
-            <a href="tel:+919334404050" class="bgr-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="bgr-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bgr-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bgr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons on Bannerghatta Road Bangalore" title="Residential packing on Bannerghatta Road">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons on Bannerghatta Road Bangalore" title="Residential packing on Bannerghatta Road">
             <p class="bgr-image-caption">High-density corrugated cartons and labeled inventory boxes prepared for home shifting on Bannerghatta Road.</p>
         </div>
     </section>
@@ -587,7 +587,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Large appliances such as double-door inverter refrigerators, front-load washing machines, microwave ovens, and curved smart televisions receive specialized multi-tier protective wraps. We install front-load washing machine drum stabilizer bolts, apply thick foam corner guards, and enclose sensitive screens inside heavy-duty customized wooden crates to absorb highway transit vibrations.</p>
 
         <div class="bgr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and furniture protective packing in Bannerghatta Road" title="Protective sofa wrapping in Bannerghatta Road">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and furniture protective packing in Bannerghatta Road" title="Protective sofa wrapping in Bannerghatta Road">
             <p class="bgr-image-caption">Multi-layer bubble and stretch wrap shielding expensive upholstered sofas from dust and transit scuffs.</p>
         </div>
     </section>
@@ -630,7 +630,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bgr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service on Bannerghatta Road Bangalore" title="Unpacking and furniture setup">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service on Bannerghatta Road Bangalore" title="Unpacking and furniture setup">
             <p class="bgr-image-caption">Dedicated room-by-room box unpacking and furniture assembly service for a hassle-free transition.</p>
         </div>
     </section>
@@ -734,7 +734,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bgr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container truck loading on Bannerghatta Road" title="Waterproof container loading">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container truck loading on Bannerghatta Road" title="Waterproof container loading">
             <p class="bgr-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Bangalore.</p>
         </div>
     </section>

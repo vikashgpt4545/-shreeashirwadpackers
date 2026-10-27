@@ -284,7 +284,7 @@
         "name": "Shree Ashirwad Packers and Movers Shibpur Howrah",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-shibpur-howrah",
-        "telephone": "+91 9334812300",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -516,7 +516,7 @@
 
     <!-- Visual Image 1 -->
     <div class="shb-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into covered container vehicle for Shibpur Howrah relocation">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into covered container vehicle for Shibpur Howrah relocation">
         <div class="shb-img-caption">Figure 1: Specialized containerized loading operations for residential relocations across Shibpur and Howrah.</div>
     </div>
 
@@ -564,7 +564,7 @@
 
     <!-- Visual Image 2 -->
     <div class="shb-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy carton packaging for fragile household items">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy carton packaging for fragile household items">
         <div class="shb-img-caption">Figure 2: Multi-layer protective cushioning applied to electronics, glassware, and sensitive domestic articles.</div>
     </div>
 
@@ -617,7 +617,7 @@
 
     <!-- Visual Image 3 -->
     <div class="shb-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert technicians dismantling wooden double bed and modular furniture">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert technicians dismantling wooden double bed and modular furniture">
         <div class="shb-img-caption">Figure 3: Professional carpentry technicians disassembling modular wooden furniture for scratch-resistant transport.</div>
     </div>
 
@@ -689,7 +689,7 @@
 
     <!-- Visual Image 4 -->
     <div class="shb-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
         <div class="shb-img-caption">Figure 4: Punctual door-to-door delivery and room placement service conducted by our trained handling staff.</div>
     </div>
 

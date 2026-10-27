@@ -69,7 +69,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Harmu Road, Near Overbridge",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -577,7 +577,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 1 -->
         <div class="rmng-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Household Cartons for Ranchi to Mangalore Relocation" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Household Cartons for Ranchi to Mangalore Relocation" loading="lazy">
             <div class="rmng-img-caption">Multi-layer bubble wrapping and heavy-duty corrugated cartons designed for vibration absorption across 1,990 km.</div>
         </div>
 
@@ -698,7 +698,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 2 -->
         <div class="rmng-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Office Equipment and Heavy Shifting - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Office Equipment and Heavy Shifting - Shree Ashirwad Packers" loading="lazy">
             <div class="rmng-img-caption">Specialized equipment handling and heavy packing engineered for corporate and institutional transfers.</div>
         </div>
     </section>
@@ -750,7 +750,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 3 -->
         <div class="rmng-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Appliances Protective Cover Ranchi - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Appliances Protective Cover Ranchi - Shree Ashirwad Packers" loading="lazy">
             <div class="rmng-img-caption">Custom padded covers protecting refrigerators, washing machines, and electronic appliances against transit scuffs.</div>
         </div>
     </section>
@@ -781,7 +781,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 4 -->
         <div class="rmng-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="LED TV Crating and Sensitive Electronics Packaging - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="LED TV Crating and Sensitive Electronics Packaging - Shree Ashirwad Packers" loading="lazy">
             <div class="rmng-img-caption">Specialized foam padding and reinforced wooden crating for large-screen smart TVs and delicate electronics.</div>
         </div>
     </section>

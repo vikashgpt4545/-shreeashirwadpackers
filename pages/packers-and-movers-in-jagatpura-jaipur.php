@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jagatpura Jaipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jagatpura-jaipur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,900 - 60,000",
         "address": {
             "@type": "PostalAddress",
@@ -237,7 +237,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jgt-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Shifting in Jagatpura Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Shifting in Jagatpura Jaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -262,7 +262,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="jgt-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Shifting Team in Jagatpura Jaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Shifting Team in Jagatpura Jaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -427,7 +427,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jgt-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Box Packing in Jagatpura" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Box Packing in Jagatpura" width="580" height="380" loading="lazy">
                 </div>
                 <div class="jgt-highlight" style="margin-top: 24px;">
                     <strong>Mahal Road Moving Tip:</strong> Gated societies along Mahal Road usually have strict move-in hours (typically 9:00 AM to 6:00 PM). Booking your move for an 8:30 AM arrival ensures completion well before evening gate curfews.
@@ -455,7 +455,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="jgt-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading onto Container Truck in Jagatpura" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading onto Container Truck in Jagatpura" width="580" height="380" loading="lazy">
         </div>
     </section>
 

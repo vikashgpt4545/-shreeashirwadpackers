@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Nalgonda",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-nalgonda",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>The urban landscape has grown extensively across popular residential and commercial sectors including RTC Colony, Venkateshwara Colony, Panagal, Bottu Guda, Manyamchelka, Prakasham Bazar, and along the busy Miryalaguda Road and Hyderabad Highway. Additionally, the broader district is internationally recognized for its colossal cement manufacturing clusters near Miryalaguda, creating sustained demand for reliable moving solutions.</p>
 
     <div class="nlg-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Nalgonda Telangana" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Nalgonda Telangana" loading="lazy">
       <p class="nlg-image-caption">Disciplined residential quarter shifting and systematic loading operations in Nalgonda.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="nlg-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Nalgonda" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Nalgonda" loading="lazy">
       <p class="nlg-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Nalgonda.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="nlg-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Nalgonda" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Nalgonda" loading="lazy">
       <p class="nlg-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -633,7 +633,7 @@
     <p>Our experienced drivers schedule loading windows in congested commercial areas during early morning hours (6:30 AM to 8:30 AM) to circumvent market traffic. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="nlg-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Nalgonda" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Nalgonda" loading="lazy">
       <p class="nlg-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -723,7 +723,7 @@
   <section class="nlg-cta-banner">
     <h3>Plan Your Stress-Free Move in Nalgonda Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Telangana and India.</p>
-    <a class="nlg-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="nlg-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

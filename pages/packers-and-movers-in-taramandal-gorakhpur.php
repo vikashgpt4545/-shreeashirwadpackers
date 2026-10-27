@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Taramandal Gorakhpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -463,7 +463,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Taramandal Gorakhpur</h1>
         <p>Premium lakefront apartment moving, GDA residential township relocations, and luxury villa shifting across Taramandal, Ramgarh Tal, and Siddhartha Enclave with certified zero damage guarantee.</p>
         <div class="tmg-hero-btn-group">
-            <a href="tel:+919334404050" class="tmg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="tmg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="tmg-btn-secondary">Check Tariff Rates</a>
         </div>
     </section>
@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="tmg-intro-p">Characterized by premier multi-storey gated apartment complexes, sprawling independent duplex villas, Siddhartha Enclave, and upscale plotted housing colonies, Taramandal is home to senior medical specialists from AIIMS Gorakhpur, university deans, high-ranking civil servants, and prominent business barons. Relocating here demands specialized expertise in managing high-rise elevator protocols, gated society security clearances, and meticulous handling of bespoke home interiors.</p>
 
         <div class="tmg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Taramandal Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Taramandal Gorakhpur" width="580" height="380" loading="lazy">
             <p class="tmg-image-caption">Our professional loading crew carefully handling packed residential goods in Taramandal Gorakhpur.</p>
         </div>
 
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="tmg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Taramandal Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Taramandal Gorakhpur" width="580" height="380" loading="lazy">
             <p class="tmg-image-caption">High-density bubble wrapping and reinforced multi-wall cartons utilized for household goods in Taramandal Gorakhpur.</p>
         </div>
 
@@ -666,7 +666,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="tmg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Taramandal Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Taramandal Gorakhpur" width="580" height="380" loading="lazy">
             <p class="tmg-image-caption">Skilled carpenters carefully dismantling wooden beds and securing modular hardware in Taramandal Gorakhpur.</p>
         </div>
     </section>
@@ -679,7 +679,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="tmg-intro-p">Heading southward, our GPS-monitored container trucks connect effortlessly via NH-24 toward Mau and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-varanasi">Varanasi</a> in approximately 4 hours. Eastbound routes flow smoothly toward Gopalganj, Muzaffarpur, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna">Patna</a> in 5.5 to 6 hours.</p>
 
         <div class="tmg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Taramandal Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Taramandal Gorakhpur" width="580" height="380" loading="lazy">
             <p class="tmg-image-caption">Clean, enclosed container trucks delivering household goods safely to residences in Taramandal Gorakhpur.</p>
         </div>
 
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Seamless Taramandal Move Today</h3>
         <p>Contact our Taramandal relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="tmg-cta-group">
-            <a href="tel:+919334404050" class="tmg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="tmg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="tmg-btn-secondary">Request Free Quote</a>
         </div>
     </section>

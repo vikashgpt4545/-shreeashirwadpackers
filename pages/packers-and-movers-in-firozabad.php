@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Firozabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹46,000",
         "address": {
             "@type": "PostalAddress",
@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>The city's strategic location along the Delhi-Howrah rail trunk route and proximity to the Yamuna Expressway and NH-19 creates an active trade corridor for both domestic households and international export units. Relocating in Firozabad requires a specialized touch, particularly when handling delicate glass chandeliers, artisanal glassware, and fragile decorative elements. Dense commercial and manufacturing zones like Raja Ka Taal, Station Road, Kotla Road, and Ramgarh contrast with residential localities like Suhag Nagar, Asafabad, and new housing societies along Shikohabad Road. Shree Ashirwad Packers and Movers brings industry-leading packaging technology and seasoned professionals to safeguard every residential and commercial consignment.</p>
 
         <div class="fzb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Firozabad by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Firozabad by Shree Ashirwad Packers and Movers">
             <p class="fzb-image-caption">Careful truck loading and inventory verification by Shree Ashirwad Packers and Movers Firozabad.</p>
         </div>
 
@@ -411,7 +411,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Every moving project is supervised by a senior relocation manager who ensures meticulous labeling of boxes, fragile tagging for glassware, and real-time transit status updates. Our Firozabad operations hub coordinates with experienced drivers, ensuring safe transit along national expressways and city arteries.</p>
 
         <div class="fzb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Firozabad">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Firozabad">
             <p class="fzb-image-caption">Multi-tier bubble wrapping and reinforced 5-ply cartons safeguard fragile articles.</p>
         </div>
 
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="fzb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing in Firozabad">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing in Firozabad">
             <p class="fzb-image-caption">Careful dismantling and packaging of solid wood beds and modular furniture.</p>
         </div>
 
@@ -552,7 +552,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="fzb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Firozabad">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Firozabad">
             <p class="fzb-image-caption">Reliable door-to-door covered delivery vehicle ensuring zero weather damage.</p>
         </div>
 
@@ -616,7 +616,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <div class="fzb-faq-item">
             <h3>How do I obtain a free quotation for my move in Firozabad?</h3>
-            <p>Call our direct customer support at +91 93344 04050 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
+            <p>Call our direct customer support at +91 9835565233 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
         </div>
 
         <div class="fzb-faq-item">

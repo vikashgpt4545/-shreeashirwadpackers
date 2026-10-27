@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-vashi-n
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-vashi-navi-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-vashi-navi-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Vashi Navi Mumbai</h1>
         <p>Premier residential packing, commercial office shifting, apartment moving, and insured vehicle transport across Sector 17, Sector 9, Palm Beach Road, and APMC with 100% damage-free assurance.</p>
         <div class="vsi-btn-wrap">
-            <a href="tel:+919334404050" class="vsi-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vsi-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vsi-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of relocation mastery directly to Vashi. Moving in this energetic node requires a partner who understands hyper-local regulations: managing service elevator reservations in 25-plus-story towers, navigating active commercial traffic around Sector 17 and APMC, and executing doorstep moves with total care. Our teams arrive fully prepared with heavy-duty furniture dollies, protective blankets, and weatherproof container vehicles.</p>
 
         <div class="vsi-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Vashi Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Vashi Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="vsi-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Vashi Navi Mumbai.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vsi-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Vashi Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Vashi Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="vsi-image-caption">Multi-layer protective bubble wrap rolls and heavy-gauge corrugated boxes engineered for apartment shifting in Vashi.</p>
         </div>
 
@@ -619,7 +619,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vsi-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Vashi Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Vashi Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="vsi-image-caption">Carpentry technicians systematically dismantling and wrapping modular furniture panels prior to loading in Vashi.</p>
         </div>
 
@@ -667,7 +667,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vsi-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Vashi Navi Mumbai relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Vashi Navi Mumbai relocation" width="580" height="387" loading="lazy">
             <p class="vsi-image-caption">Dedicated enclosed moving vehicle stationed for on-time residential shifting in a Vashi apartment complex.</p>
         </div>
 
@@ -742,7 +742,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="vsi-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Planning a Move in or out of Vashi?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Reach out to our moving specialists today for an obligation-free doorstep quotation and seamless relocation coordination.</p>
-            <a href="tel:+919334404050" class="vsi-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vsi-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

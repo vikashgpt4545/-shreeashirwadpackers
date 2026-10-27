@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Schools Around Ranchi | Admission & Bus Zone Relocation Guide | Call 9708579999</title>
-    <meta name="description" content="Moving to Ranchi with children? Complete guide to top schools: DPS, JVM Shyamali, St. Xavier's, Bishop Westcott, bus routes, best residential localities & shifting advice. Call 9708579999.">
+    <title>Schools Around Ranchi | Admission & Bus Zone Relocation Guide | Call 9835565233</title>
+    <meta name="description" content="Moving to Ranchi with children? Complete guide to top schools: DPS, JVM Shyamali, St. Xavier's, Bishop Westcott, bus routes, best residential localities & shifting advice. Call 9835565233.">
     <meta name="keywords" content="schools around ranchi, top schools in ranchi admission, school bus zones ranchi, dps ranchi residential areas, moving to ranchi with kids guide">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/schools-around-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Family Relocation Advisory Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/schools-around-ranchi",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Schools Around Ranchi: Admission & Bus Zone Relocation Guide</h1>
                 <p>Relocating your family to Ranchi? Connect top-tier schooling with your residential search. Explore comprehensive profiles of premier CBSE and ICSE schools, daily bus transit corridors, admission timelines, and expert moving advice for families with school-going children.</p>
                 <div class="sarh-cta-group">
-                    <a href="tel:+919708579999" class="sarh-btn-call">Family Move Desk: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20our%20family%20is%20relocating%20to%20Ranchi%20and%20we%20need%20a%20child-friendly%20home%20shifting%20quote" class="sarh-btn-wa" target="_blank" rel="noopener">WhatsApp Family Shifting Quote</a>
+                    <a href="tel:+919835565233" class="sarh-btn-call">Family Move Desk: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20our%20family%20is%20relocating%20to%20Ranchi%20and%20we%20need%20a%20child-friendly%20home%20shifting%20quote" class="sarh-btn-wa" target="_blank" rel="noopener">WhatsApp Family Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="sarh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized family home relocation cartons and study setup in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized family home relocation cartons and study setup in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -380,7 +380,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Academic Admission Schedules: Optimal Family Relocation Calendar</h2>
                 <div class="rnbh-grid-2">
                     <div class="sarh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed family moving container truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed family moving container truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Moving with school-aged children requires aligning your moving date with the academic calendar to prevent traumatic learning interruptions:</p>
@@ -406,7 +406,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="sarh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers assembling children's study furniture in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers assembling children's study furniture in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -416,7 +416,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>The Shree Ashirwad Family Relocation Guarantee</h2>
                 <div class="rnbh-grid-2">
                     <div class="sarh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and study setup service by Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and study setup service by Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>With thousands of successful family moves completed across Jharkhand, we take pride in being Ranchi's most family-friendly moving partner:</p>

@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -299,7 +299,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>For an overview of overall home and vehicle moving costs, check our comprehensive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a> or our localized <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #ff6a28; font-weight: 700;">Packers and Movers Charges in Ranchi</a> price guide.</p>
 
         <div class="pkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Freight Per Kilometer" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Freight Per Kilometer" width="580" height="387" loading="lazy">
         </div>
 
         <div class="pkm-table-wrap">
@@ -379,7 +379,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Shifting Truck Loading - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Shifting Truck Loading - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -408,7 +408,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pkm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof Container Loading - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof Container Loading - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
         </div>
     </section>
 

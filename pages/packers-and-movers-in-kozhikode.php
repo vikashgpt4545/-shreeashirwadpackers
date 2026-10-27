@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kozhikode",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kozhikode",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹54,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>As a leading center of education and healthcare in northern Kerala, Kozhikode is home to premier national institutions including the Indian Institute of Management Kozhikode (IIMK), National Institute of Technology Calicut (NITC), and the expansive Kozhikode Government Medical College. Accommodating the relocation needs of business leaders, IT professionals, medical faculties, and research scholars requires specialized logistics. Whether managing moves along the coastal sands of Beach Road, navigating busy market corridors in Palayam, or lifting delicate equipment into multi-storey apartment towers in Pottammal and Thondayad, our team ensures punctual, stress-free execution.</p>
 
     <div class="kzh-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Kozhikode" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Kozhikode" loading="lazy">
       <p class="kzh-image-caption">Systematic loading and apartment furniture logistics for residential towers in Kozhikode.</p>
     </div>
 
@@ -537,7 +537,7 @@
     </div>
 
     <div class="kzh-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Teak Furniture Wrapping in Kozhikode" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Teak Furniture Wrapping in Kozhikode" loading="lazy">
       <p class="kzh-image-caption">Multi-layer protective bubble wrap and stretch film safeguarding premium wooden furniture.</p>
     </div>
 
@@ -650,7 +650,7 @@
     </div>
 
     <div class="kzh-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Office Relocation in Kozhikode" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Office Relocation in Kozhikode" loading="lazy">
       <p class="kzh-image-caption">Secure packing of electronic servers, monitors, and IT hardware for tech corporate relocations.</p>
     </div>
   </section>
@@ -662,7 +662,7 @@
     <p>Unlike open-body lorries that expose goods to torrential tropical rain, exhaust soot, and road gravel, our enclosed metal containers feature rubber-gasketed rear doors with tamper-evident digital seal locks. Each container vehicle is fitted with shock-absorbent wooden interior lining and internal nylon ratchet tie-down tracks, ensuring zero lateral cargo shifting even when negotiating steep hairpin curves on the Thamarassery Churam ghat section.</p>
 
     <div class="kzh-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Moving Container Truck in Kozhikode" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Moving Container Truck in Kozhikode" loading="lazy">
       <p class="kzh-image-caption">Weatherproof sealed container trucks ensuring zero moisture exposure during transit across Kerala.</p>
     </div>
 
@@ -752,7 +752,7 @@
   <section class="kzh-cta-banner">
     <h3>Plan Your Stress-Free Move in Kozhikode (Calicut) Today!</h3>
     <p>Connect with our expert Calicut relocation coordinators for an obligation-free moving quote, on-site assessment, and reliable zero-damage packing and transport services.</p>
-    <a class="kzh-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="kzh-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

@@ -15,8 +15,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Pack Fragile Items for Moving in Ranchi | Call 9708579999</title>
-    <meta name="description" content="Expert guide on packing fragile items for moving in Ranchi. Call 9708579999 for verified multi-layer bubble wrap, antique wooden crating, rates & free quote.">
+    <title>How to Pack Fragile Items for Moving in Ranchi | Call 9835565233</title>
+    <meta name="description" content="Expert guide on packing fragile items for moving in Ranchi. Call 9835565233 for verified multi-layer bubble wrap, antique wooden crating, rates & free quote.">
     <meta name="keywords" content="how to pack fragile items, packing fragile glassware ranchi, mirror packing movers ranchi, antique packing ranchi, crystal chandelier moving ranchi, packers and movers fragile shifting">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/how-to-pack-fragile-items">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/how-to-pack-fragile-items",
-        "telephone": "+91-9708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -224,8 +224,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>How to Pack Fragile Items for Moving in Ranchi</h1>
                 <p>From antique Czech crystal chandeliers and Belgian wall mirrors to marble pooja mandirs and oil paintings, fragile possessions carry deep sentimental and financial worth. Master the multi-layer cushioning and rigid crating protocols that ensure zero breakage.</p>
                 <div class="hpfi-cta-group">
-                    <a href="tel:+919708579999" class="hpfi-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20fragile%20packing%20advice%20and%20a%20quote%20for%20Ranchi" class="hpfi-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
+                    <a href="tel:+919835565233" class="hpfi-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20fragile%20packing%20advice%20and%20a%20quote%20for%20Ranchi" class="hpfi-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -245,7 +245,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="hpfi-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Specialized cellular honeycomb partitioned carton for delicate glassware in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Specialized cellular honeycomb partitioned carton for delicate glassware in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -321,7 +321,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Crating Antique Chandeliers & Designer Light Fixtures</h2>
                 <div class="hpfi-grid-2">
                     <div class="hpfi-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate crystal glassware and lighting fixtures individually wrapped in bubble wrap in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate crystal glassware and lighting fixtures individually wrapped in bubble wrap in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <h3>Suspension Crating: The Gold Standard for Chandeliers</h3>
@@ -351,7 +351,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="hpfi-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Certified 5-ply heavy corrugated sheets and protective packaging rolls in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Certified 5-ply heavy corrugated sheets and protective packaging rolls in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -415,7 +415,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Scientific Loading Sequence for Fragile Consignments</h2>
                 <div class="hpfi-grid-2">
                     <div class="hpfi-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Even the finest packaging will fail if fragile cartons are placed beneath heavy wooden wardrobes or allowed to shift freely on the truck bed. Our loading crew follows an exact scientific protocol:</p>

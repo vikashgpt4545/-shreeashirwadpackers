@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Pakur to Kolkata Relocation Corridor
 $page_title = "Pakur to Kolkata Packers and Movers | Safe Interstate Household & Vehicle Shifting";
-$page_description = "Hire reliable packers and movers from Pakur to Kolkata. Fast household shifting, car & bike transport, 4-layer packaging, overnight delivery & transit insurance via NH-12. Call +91 9334812833.";
+$page_description = "Hire reliable packers and movers from Pakur to Kolkata. Fast household shifting, car & bike transport, 4-layer packaging, overnight delivery & transit insurance via NH-12. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/pakur-to-kolkata-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/pakur-to-kolkata-packers-and-
         "name": "Shree Ashirwad Packers and Movers - Pakur to Kolkata Service",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹8,500 - ₹36,000",
         "address": {
             "@type": "PostalAddress",
@@ -364,7 +364,7 @@ $canonical_url = "https://shreeashirwadpackers.com/pakur-to-kolkata-packers-and-
     <section class="pko-hero-banner">
         <h1 class="pko-hero-title">Pakur to Kolkata Packers and Movers</h1>
         <p class="pko-hero-subtitle">Fast, Reliable Household & Commercial Relocation Connecting Pakur with Kolkata. Overnight 24-Hour Delivery via NH-12, 4-Layer Packaging & Doorstep Room Setup.</p>
-        <a href="tel:+919334812833" class="pko-cta-btn">Book Free Route Survey: +91 9334812833</a>
+        <a href="tel:+919835565233" class="pko-cta-btn">Book Free Route Survey: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -380,7 +380,7 @@ $canonical_url = "https://shreeashirwadpackers.com/pakur-to-kolkata-packers-and-
             </div>
             <div>
                 <div class="pko-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing for Pakur to Kolkata relocation" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing for Pakur to Kolkata relocation" width="580" height="387">
                     <div class="pko-caption">Comprehensive multi-layer packing safeguarding furniture for highway transit</div>
                 </div>
             </div>
@@ -473,7 +473,7 @@ $canonical_url = "https://shreeashirwadpackers.com/pakur-to-kolkata-packers-and-
         <div class="dpt-grid-2 pko-grid-2">
             <div>
                 <div class="pko-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware packing for Pakur to Kolkata transit" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware packing for Pakur to Kolkata transit" width="580" height="387">
                     <div class="pko-caption">Protective bubble wrap and partition cartons safeguarding delicate glassware</div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ $canonical_url = "https://shreeashirwadpackers.com/pakur-to-kolkata-packers-and-
             </div>
             <div>
                 <div class="pko-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Pakur to Kolkata transport" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Pakur to Kolkata transport" width="580" height="387">
                     <div class="pko-caption">Sealed container trucks providing 100% dustproof and waterproof transit</div>
                 </div>
             </div>
@@ -512,7 +512,7 @@ $canonical_url = "https://shreeashirwadpackers.com/pakur-to-kolkata-packers-and-
         <div class="dpt-grid-2 pko-grid-2">
             <div>
                 <div class="pko-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kolkata" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kolkata" width="580" height="387">
                     <div class="pko-caption">Prompt doorstep unloading and setup service across all Kolkata residential areas</div>
                 </div>
             </div>

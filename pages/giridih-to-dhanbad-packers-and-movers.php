@@ -603,7 +603,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-dhanbad-packer
                 </ul>
             </div>
             <div class="gir2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Giridih to Dhanbad Container Truck Relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Giridih to Dhanbad Container Truck Relocation" loading="lazy">
             </div>
         </div>
     </div>
@@ -671,7 +671,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-dhanbad-packer
     <div class="container">
         <div class="gir2dhn-grid-2">
             <div class="gir2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Protective Multi-Layer Furniture Packing Giridih to Dhanbad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Protective Multi-Layer Furniture Packing Giridih to Dhanbad" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--gir2dhn-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Flawless Material Quality</span>
@@ -792,7 +792,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-dhanbad-packer
                 </ul>
             </div>
             <div class="gir2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Giridih to Dhanbad Vehicle Transport Carrier" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Giridih to Dhanbad Vehicle Transport Carrier" loading="lazy">
             </div>
         </div>
     </div>
@@ -839,7 +839,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-dhanbad-packer
     <div class="container">
         <div class="gir2dhn-grid-2">
             <div class="gir2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Giridih to Dhanbad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Giridih to Dhanbad" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--gir2dhn-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Complete Destination Assistance</span>

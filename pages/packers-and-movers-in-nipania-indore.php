@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Nipania Indore",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-nipania-indore",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -413,7 +413,7 @@ $state_name = 'Madhya Pradesh';
           <p>In addition, our on-ground crew coordinates with facility management offices in advance, setting up protective floor runners and elevator corner guards so your high-rise move proceeds seamlessly without disturbing society residents.</p>
         </div>
         <div class="npn-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Nipania Indore" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Nipania Indore" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -455,7 +455,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="npn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Nipania Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Nipania Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="npn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet in Nipania Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Closed Container Moving Fleet in Nipania Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -648,7 +648,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="npn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Nipania Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Nipania Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -679,7 +679,7 @@ $state_name = 'Madhya Pradesh';
     <div class="npn-cta-bar">
       <h3>Ready for a Smooth Move in Nipania Indore?</h3>
       <p>Contact our local Nipania relocation experts today for a free on-site survey and transparent itemized quote.</p>
-      <a href="tel:+919334484001" class="npn-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="npn-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="npn-section">

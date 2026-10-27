@@ -754,7 +754,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>To eliminate the common risks of consignment damage and transit delays, Shree Ashirwad Packers and Movers implements a <strong>strict zero-transshipment protocol</strong>. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--rkc-teal); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also manage seamless reciprocal return moves on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/kochi-to-ranchi-packers-and-movers" style="color: var(--rkc-teal); font-weight: 600; text-decoration: underline;">Kochi to Ranchi packers and movers</a> corridor with equal dedication. Your belongings are systematically loaded into a dedicated, locked container in Ranchi and unsealed only at your final doorstep in Ernakulam or Kochi.</p>
             </div>
             <div class="rkc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Kochi Packers and Movers container truck transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Kochi Packers and Movers container truck transit" loading="lazy">
             </div>
         </div>
     </section>
@@ -847,7 +847,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rkc-section rkc-section-light">
         <div class="rkc-grid-2">
             <div class="rkc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and LED TV wooden crating for Ranchi to Kochi transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and LED TV wooden crating for Ranchi to Kochi transit" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rkc-teal); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Coastal Climate Packaging</span>
@@ -957,7 +957,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Whether delivering to Kakkanad, Panampilly Nagar, or Aluva, we provide convenient doorstep drop-off, ensuring your car or bike arrives clean, scratch-free, and ready to drive.</p>
             </div>
             <div class="rkc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Kochi" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Kochi" loading="lazy">
             </div>
         </div>
     </section>
@@ -1006,7 +1006,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rkc-section rkc-section-light">
         <div class="rkc-grid-2">
             <div class="rkc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Kochi Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Kochi Shree Ashirwad Packers" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rkc-teal); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Why Trust Shree Ashirwad</span>

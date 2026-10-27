@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
     "description": "Premier interstate relocation services from Pune to Delhi NCR specializing in household shifting, corporate IT office moves, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹6,000 - ₹72,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 1,440 km arterial corridor between Pune, Maharashtra and Delhi NCR connects two of India's pre-eminent education, research, and IT powerhouses. Moving from Pune's Hinjewadi Infotech Park, Magarpatta Cybercity, or Kharadi IT hub to Gurugram's Cyber City, Noida's tech parks, or South Delhi involves traveling across Maharashtra, Gujarat, Madhya Pradesh, Rajasthan, and Haryana. Shree Ashirwad Packers and Movers delivers an exemplary relocation experience built upon industrial-grade logistics execution.</p>
     
     <div class="pnd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Pune to Delhi transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Pune to Delhi transit" loading="lazy">
       <div class="pnd-img-caption">Company-owned sealed container fleets guaranteeing weatherproof transit from Pune to Delhi along NE4 and NH48.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 1,440 km transit across varying elevations and climatic zones demands engineered packaging that resists sustained highway micro-vibrations, thermal shifts, and road shocks along expressways and mountain descents.</p>
 
     <div class="pnd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping and padding for long distance move" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping and padding for long distance move" loading="lazy">
       <div class="pnd-img-caption">Specialized furniture edge-guards and shock-absorbing bubble cushioning for antique and wooden furniture.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across 1,440 km of national highways can lead to severe physical exhaustion, stone chip damage, and unnecessary mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="pnd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle secure carrier loading for interstate transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle secure carrier loading for interstate transit" loading="lazy">
       <div class="pnd-img-caption">Motorcycle transport carriers equipped with wheel-chock clamps and four-point nylon tie-down straps.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="pnd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination" loading="lazy">
       <div class="pnd-img-caption">Doorstep delivery fleet reaching high-rise apartments and residential colonies across Delhi NCR.</div>
     </div>
   </section>

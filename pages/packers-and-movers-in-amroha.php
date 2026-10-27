@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-amroha'
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-amroha#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-amroha",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -367,7 +367,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-amroha'
         <p>Positioned prominently along National Highway 9 (NH-9 / Delhi-Lucknow corridor) and connected directly with Moradabad, Sambhal, and Delhi NCR, Amroha enjoys premier highway transit advantages. Whether you are shifting your family residence within established colonies such as Civil Lines, Joya Road, and Awas Vikas, moving near the educational campuses of Danishmandan and Mohalla Kot, or coordinating heavy corporate cargo transit to and from the industrial plants of Gajraula, Shree Ashirwad Packers and Movers provides seasoned logistics specialists, premium-grade packaging supplies, and dependable containerized trucks.</p>
 
         <div class="amr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Amroha by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Amroha by Shree Ashirwad Packers and Movers">
             <p class="amr-image-caption">Meticulous truck loading and systematic inventory verification by Shree Ashirwad Packers and Movers in Amroha.</p>
         </div>
 
@@ -401,7 +401,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-amroha'
         <p>Our operational supervisors oversee every single consignment personally. Before a single box is loaded into our container truck, our team compiles an exhaustive inventory manifest detailing the physical state and item description of every package, guaranteeing total transparency upon final delivery.</p>
 
         <div class="amr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging materials deployed in Amroha">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging materials deployed in Amroha">
             <p class="amr-image-caption">High-density bubble wrap, heavy-duty cartons, and stretch film protecting household belongings in Amroha.</p>
         </div>
 
@@ -507,7 +507,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-amroha'
         <p>Our moving crews include skilled carpentry technicians equipped with power tools to dismantle complex wardrobe sets, hydraulic beds, and wall-mounted shelving without causing damage to fixtures or wood joinery.</p>
 
         <div class="amr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping in Amroha">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping in Amroha">
             <p class="amr-image-caption">Trained technicians dismantling modular furniture and securing corners with impact protection.</p>
         </div>
 
@@ -549,7 +549,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-amroha'
         <p>Our local Amroha moving teams are intimately familiar with city traffic schedules, expressway toll plazas, and local municipal entry regulations. Whether navigating central bazaar lanes or accessing high-rise gated societies, our teams arrive prepared with appropriate trolley dollies and floor protectors.</p>
 
         <div class="amr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Amroha">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Amroha">
             <p class="amr-image-caption">Reliable covered container vehicles delivering door-to-door relocation across Amroha.</p>
         </div>
 
@@ -613,7 +613,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-amroha'
 
         <div class="amr-faq-item">
             <h3>How do I receive a written estimate for my move in Amroha?</h3>
-            <p>Call our direct customer support at +91 93344 04050 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
+            <p>Call our direct customer support at +91 9835565233 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
         </div>
 
         <div class="amr-faq-item">

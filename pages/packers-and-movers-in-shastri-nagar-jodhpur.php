@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Shastri Nagar Jodhpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-shastri-nagar-jodhpur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -237,7 +237,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="shs-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Shastri Nagar Jodhpur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Shastri Nagar Jodhpur" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -262,7 +262,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="shs-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Shastri Nagar Jodhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Shastri Nagar Jodhpur" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -430,7 +430,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="shs-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Shastri Nagar Jodhpur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Shastri Nagar Jodhpur" width="580" height="380" loading="lazy">
                 </div>
                 <div class="shs-highlight" style="margin-top: 24px;">
                     <strong>Residency Road Arterial Route:</strong> Directly flanking Residency Road and Pal Road, our moving carriers avoid congested city inner zones and proceed straight onto NH 62 and NH 25 for rapid transit.
@@ -465,7 +465,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="shs-grid-2">
             <div>
                 <div class="shs-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Jodhpur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Jodhpur" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>

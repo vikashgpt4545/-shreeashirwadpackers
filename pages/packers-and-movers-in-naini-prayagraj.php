@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Naini Prayagraj",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="nnp-hero-title">Packers and Movers in Naini Prayagraj</h1>
         <p class="nnp-hero-subtitle">Industrial Township Moving, ADA Colony Residential Shifting, SHUATS University Transfers &amp; Heavy Cargo Logistics Across Trans-Yamuna</p>
         <div class="nnp-cta-group">
-            <a href="tel:+919334404050" class="nnp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="nnp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="nnp-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -508,7 +508,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="nnp-intro-p">Home to landmark entities such as Bharat Pumps &amp; Compressors Limited (BPCL), Indian Telephone Industries (ITI), steel plants, and the acclaimed Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS), Naini demands an adaptable and multifaceted moving partner. Relocations here encompass everything from heavy machinery and manufacturing equipment to university faculty housing, student hostel consignments, and modern residential colony transfers.</p>
 
         <div class="nnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household and Cargo Loading in Naini Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household and Cargo Loading in Naini Prayagraj" width="580" height="380" loading="lazy">
             <p class="nnp-image-caption">Our professional loading crew managing secure packing and truck loading for residential and corporate relocations in Naini.</p>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="nnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Industrial and Domestic Protective Packaging in Naini" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Industrial and Domestic Protective Packaging in Naini" width="580" height="380" loading="lazy">
             <p class="nnp-image-caption">Multi-tier bubble wrapping and reinforced heavy-duty corrugated cartons for safe residential and commercial transit.</p>
         </div>
     </section>
@@ -688,7 +688,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="nnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Master Carpentry in Naini" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Master Carpentry in Naini" width="580" height="380" loading="lazy">
             <p class="nnp-image-caption">Skilled carpentry crew carefully dismantling wooden furniture units for damage-free transit in Naini.</p>
         </div>
     </section>
@@ -701,7 +701,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="nnp-intro-p">For outward inter-state freight, Naini sits directly along the NH-30 corridor heading south toward Rewa, Satna, and Jabalpur in Madhya Pradesh. Eastbound shipments connect smoothly via the southern bypass to Mirzapur and Varanasi, seamlessly merging with NH-19 toward Patna, Gaya, and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>. Westbound moves to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>, Agra, and Delhi NCR bypass city congestion using the Prayagraj Inner Ring Road network.</p>
 
         <div class="nnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Sealed Container Truck Fleet in Naini Prayagraj" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Sealed Container Truck Fleet in Naini Prayagraj" width="580" height="380" loading="lazy">
             <p class="nnp-image-caption">Our weather-resistant closed container truck fleet ensuring clean, protected door-to-door deliveries across Naini.</p>
         </div>
 
@@ -768,7 +768,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Reliable Move in Naini Prayagraj</h3>
         <p>Get in touch with our Naini relocation experts today for a comprehensive on-site survey, customized quotation, and flawless shifting experience.</p>
         <div class="nnp-cta-group">
-            <a href="tel:+919334404050" class="nnp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="nnp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="nnp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gachibowli-hyderabad";
         "name": "Shree Ashirwad Packers and Movers Gachibowli",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -513,7 +513,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gachibowli-hyderabad";
         <h1>Packers and Movers in Gachibowli Hyderabad</h1>
         <p>Premium ISO 9001:2015 certified household shifting, corporate IT relocation, luxury gated community moving & vehicle transport across Gachibowli, Financial District & Outer Ring Road.</p>
         <div class="gcb-btn-wrap">
-            <a href="tel:+919334404050" class="gcb-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="gcb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gcb-btn-secondary">Check Rate Calculator</a>
         </div>
     </header>
@@ -535,7 +535,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gachibowli-hyderabad";
         </div>
 
         <div class="gcb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Gachibowli Hyderabad handling luxury high-rise apartment shifting" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Gachibowli Hyderabad handling luxury high-rise apartment shifting" width="580" height="380" loading="lazy">
             <div class="gcb-image-caption">Figure 1: High-rise apartment goods handling and elevator protection protocols executed in Gachibowli, Hyderabad.</div>
         </div>
 
@@ -585,7 +585,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gachibowli-hyderabad";
         </div>
 
         <div class="gcb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office equipment packing and IT server shifting in Gachibowli Financial District" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office equipment packing and IT server shifting in Gachibowli Financial District" width="580" height="380" loading="lazy">
             <div class="gcb-image-caption">Figure 2: Corporate IT server packaging and multi-workstation relocation for tech firms in Gachibowli.</div>
         </div>
     </section>
@@ -646,7 +646,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gachibowli-hyderabad";
         </table>
 
         <div class="gcb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="High-density foam wrapping for wooden furniture in Gachibowli Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="High-density foam wrapping for wooden furniture in Gachibowli Hyderabad" width="580" height="380" loading="lazy">
             <div class="gcb-image-caption">Figure 3: Heavy wooden furniture multi-layer protective padding and corner cushioning executed in Gachibowli.</div>
         </div>
     </section>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gachibowli-hyderabad";
         </div>
 
         <div class="gcb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck transporting household goods from Gachibowli Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck transporting household goods from Gachibowli Hyderabad" width="580" height="380" loading="lazy">
             <div class="gcb-image-caption">Figure 4: GPS-tracked sealed container fleet providing secure inter-state transit from Gachibowli, Hyderabad.</div>
         </div>
     </section>
@@ -778,7 +778,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gachibowli-hyderabad";
         <h3>Plan Your Gachibowli Move with Certified Professionals</h3>
         <p>Get in touch with Shree Ashirwad Packers and Movers today for a transparent quote and experience stress-free relocation in Gachibowli.</p>
         <div class="gcb-btn-wrap">
-            <a href="tel:+919334404050" class="gcb-btn-primary">Call Desk: +91 9334404050</a>
+            <a href="tel:+919835565233" class="gcb-btn-primary">Call Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gcb-btn-secondary">Check Rate Calculator</a>
         </div>
     </section>

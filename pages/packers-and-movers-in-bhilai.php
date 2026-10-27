@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Bhilai",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhilai",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 65,000",
         "address": {
             "@type": "PostalAddress",
@@ -238,7 +238,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>With strategic headquarters support from <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Bhilai operations combine standardized industrial packing materials, certified loading supervisors, and a GPS-enabled fleet of containerized trucks. Whether you are transitioning to an official residence in BSP Township Sectors 1 through 10, an upscale duplex in Nehru Nagar East, or moving outward towards other metropolitan capitals, we guarantee zero transit damage. You can verify expected expenses anytime through our transparent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live packers and movers rate calculator</a>.</p>
 
         <div class="bhl-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Bhilai by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Bhilai by Shree Ashirwad Packers and Movers">
             <div class="bhl-img-caption">Multi-layer protective bubble and corrugated packing for household goods in Bhilai</div>
         </div>
 
@@ -297,7 +297,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bhl-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Bhilai">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Bhilai">
             <div class="bhl-img-caption">Virgin-grade bubble rolls, multi-wall cartons, and corner protectors used in Bhilai</div>
         </div>
     </section>
@@ -415,7 +415,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bhl-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Bhilai">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Bhilai">
             <div class="bhl-img-caption">Dedicated closed-body container trucks ensuring zero weather exposure during transit</div>
         </div>
     </section>
@@ -466,7 +466,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bhl-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Bhilai">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Bhilai">
             <div class="bhl-img-caption">Hydraulic ramps ensuring damage-free car loading and unloading in Bhilai</div>
         </div>
     </section>
@@ -505,7 +505,7 @@ require_once BASE_PATH . '/includes/config.php';
     <section class="bhl-cta-box">
         <h3>Book Your Hassle-Free Relocation in Bhilai Today!</h3>
         <p>Connect with our Bhilai moving coordinator for an accurate quote and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="bhl-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="bhl-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

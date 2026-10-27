@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Delhi NCR to Hyderabad specializing in household shifting, corporate IT office moves, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹6,500 - ₹75,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 1,550 km arterial corridor between Delhi NCR and Hyderabad, Telangana represents one of India's most significant north-to-south interstate relocation journeys. Connecting the national political capital to South India's booming biotechnology and software hub involves crossing Uttar Pradesh, Madhya Pradesh, Maharashtra, and Telangana. Whether you are executing a corporate transfer from Gurugram's Cyber City or Noida to HITEC City, Gachibowli, or Financial District, or moving your family home from South Delhi or Dwarka to Jubilee Hills or Banjara Hills, Shree Ashirwad Packers and Movers delivers an exemplary relocation experience.</p>
     
     <div class="dlh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Delhi to Hyderabad long distance transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Delhi to Hyderabad long distance transit" loading="lazy">
       <div class="dlh-img-caption">Dedicated sealed container trucks engineered for high-speed, weatherproof transit along the NH44 corridor.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 1,550 km transit across varying elevations and climatic zones demands engineered packaging that resists sustained highway micro-vibrations, thermal shifts, and road shocks along the North-South arterial highway.</p>
 
     <div class="dlh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for long distance interstate transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for long distance interstate transit" loading="lazy">
       <div class="dlh-img-caption">Multi-layer protective packing ensuring zero scratches or transit damage across 1,550 km.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across 1,550 km of national highways can lead to severe physical exhaustion, stone chip damage, and unnecessary mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="dlh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
       <div class="dlh-img-caption">Covered hydraulic car carriers ensuring damage-free car and motorcycle transport between Delhi and Hyderabad.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dlh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading for interstate relocation in Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading for interstate relocation in Hyderabad" loading="lazy">
       <div class="dlh-img-caption">Specialized equipment and handling for high-rise gated communities in Delhi NCR and Hyderabad.</div>
     </div>
   </section>

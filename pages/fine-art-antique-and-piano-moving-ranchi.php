@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Fine Art Antique and Piano Moving in Ranchi
 $page_title = "Fine Art, Antique & Piano Moving in Ranchi | White Glove Relocation";
-$page_description = "Specialized fine art, antique furniture, temple mandir & piano moving in Ranchi. Custom wooden crating, museum-grade packing, climate transit & insurance. Call +91 9334812833 for white-glove service.";
+$page_description = "Specialized fine art, antique furniture, temple mandir & piano moving in Ranchi. Custom wooden crating, museum-grade packing, climate transit & insurance. Call +91 9835565233for white-glove service.";
 $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-moving-ranchi";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
         "name": "Shree Ashirwad Packers and Movers - Fine Art & White Glove Division",
         "image": "https://shreeashirwadpackers.com/images/wooden-furniture-wrapping-bokaro.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹45,000",
         "address": {
             "@type": "PostalAddress",
@@ -360,7 +360,7 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
     <section class="art-hero-banner">
         <h1 class="art-hero-title">Fine Art, Antique & Piano Moving in Ranchi</h1>
         <p class="art-hero-subtitle">White-Glove Relocation for Priceless Heirlooms, Oil Paintings, Grand Pianos, Temple Murti & Antique Teak Furniture. Custom Timber Crating & Museum-Grade Protection.</p>
-        <a href="tel:+919334812833" class="art-cta-btn">Book White-Glove Survey: +91 9334812833</a>
+        <a href="tel:+919835565233" class="art-cta-btn">Book White-Glove Survey: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -376,7 +376,7 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
             </div>
             <div>
                 <div class="art-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Master carpenters wrapping antique wooden furniture in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Master carpenters wrapping antique wooden furniture in Ranchi" width="580" height="387">
                     <div class="art-caption">Custom multi-layer protective wrapping and wooden crating for antique furniture</div>
                 </div>
             </div>
@@ -469,7 +469,7 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
         <div class="art-grid-2">
             <div>
                 <div class="art-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Museum grade fragile glassware and crystal packing in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Museum grade fragile glassware and crystal packing in Ranchi" width="580" height="387">
                     <div class="art-caption">Layered foam cushions, bubble wrap, and archival paper for delicate surfaces</div>
                 </div>
             </div>
@@ -498,7 +498,7 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
             </div>
             <div>
                 <div class="art-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="White glove unpacking and art setup service in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="White glove unpacking and art setup service in Ranchi" width="580" height="387">
                     <div class="art-caption">Careful crate unfastening, fine furniture positioning, and cleanup</div>
                 </div>
             </div>
@@ -508,7 +508,7 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
         <div class="art-grid-2">
             <div>
                 <div class="art-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof containerized trucks for antique transit in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof containerized trucks for antique transit in Ranchi" width="580" height="387">
                     <div class="art-caption">Sealed, shock-buffered container trucks protecting fine art from weather and dust</div>
                 </div>
             </div>

@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Lashkar Gwalior",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-lashkar-gwalior",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,900 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -431,7 +431,7 @@ $state_name = 'Madhya Pradesh';
           <p>Our moving managers conduct prior on-site assessments across all trading streets in Lashkar, ensuring moving permissions are obtained smoothly in advance and parking clearances are secured to avoid marketplace disruptions.</p>
         </div>
         <div class="lsk-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Lashkar Gwalior" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Lashkar Gwalior" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -473,7 +473,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="lsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Defensive Household Packing Lashkar Gwalior" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Defensive Household Packing Lashkar Gwalior" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -588,7 +588,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="lsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Lashkar Gwalior" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Lashkar Gwalior" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -620,7 +620,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="lsk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Lashkar Gwalior" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Lashkar Gwalior" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -686,7 +686,7 @@ $state_name = 'Madhya Pradesh';
     <div class="lsk-cta-bar">
       <h3>Ready for a Smooth Move in Lashkar Gwalior?</h3>
       <p>Connect with our expert relocation specialists today for an instant survey, guaranteed quote, and seamless moving experience.</p>
-      <a href="tel:+919334484001" class="lsk-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="lsk-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

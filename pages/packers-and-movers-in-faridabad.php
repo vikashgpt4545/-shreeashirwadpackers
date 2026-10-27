@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Faridabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/config.php';
             <span class="fbd-badge">Over 15 Years of NCR Moving Excellence</span>
         </div>
         <div class="fbd-hero-cta">
-            <a href="tel:+919334404050" class="fbd-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="fbd-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="fbd-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -507,7 +507,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="fbd-intro-p">Stretching along the high-traffic Delhi-Mathura National Highway (NH-19) and anchored by the Violet Metro Line from Badarpur border to Ballabhgarh, Faridabad bridges historic residential enclaves with ultramodern smart city infrastructure. From the planned post-independence blocks of New Industrial Town (NIT 1 to 5) and the leafy residential avenues of Sectors 14, 15, and 16, to the upscale foothills of Surajkund, Charmwood Village, and Green Field Colony, our moving operations cater to every micro-geography.</p>
 
         <div class="fbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Faridabad container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Faridabad container truck" width="580" height="386" loading="lazy">
             <p class="fbd-image-caption">Systematic loading and protective padding of residential goods in Faridabad Haryana.</p>
         </div>
 
@@ -547,7 +547,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="fbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Faridabad" width="580" height="386" loading="lazy">
             <p class="fbd-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -685,7 +685,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="fbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Faridabad" width="580" height="386" loading="lazy">
             <p class="fbd-image-caption">Precision furniture disassembly and wrapped timber protection for Faridabad residences.</p>
         </div>
 
@@ -727,7 +727,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="fbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Faridabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Faridabad" width="580" height="386" loading="lazy">
             <p class="fbd-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

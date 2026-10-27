@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koel-nagar-rourkela#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koel-nagar-rourkela",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -522,7 +522,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="kln-body-p">Inhabited by professors and research scholars from the nearby National Institute of Technology (NIT) Rourkela, senior executives of the SAIL Rourkela Steel Plant, prominent educators, and thriving business families, Koel Nagar blends scenic natural beauty with modern civic infrastructure. Relocating homes in this peaceful riverside haven requires courteous, background-verified packing crews, specialized floor protection, and modern hoisting equipment for multi-story residential blocks.</p>
 
                 <div class="kln-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading Koel Nagar Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading Koel Nagar Rourkela">
                     <div class="kln-image-caption">Dedicated crew executing household cargo loading in a residential society in Koel Nagar Rourkela</div>
                 </div>
 
@@ -561,7 +561,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="kln-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Cartons and Materials Koel Nagar Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Cartons and Materials Koel Nagar Rourkela">
                     <div class="kln-image-caption">Reinforced corrugated cartons, virgin air bubble wrap, and protective foam buffers used in Koel Nagar</div>
                 </div>
 
@@ -682,7 +682,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="kln-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly Koel Nagar Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly Koel Nagar Rourkela">
                     <div class="kln-image-caption">Skilled carpenters carefully dismantling and wrapping master bedroom furniture in Koel Nagar Rourkela</div>
                 </div>
 
@@ -717,7 +717,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="kln-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Koel Nagar Rourkela">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Koel Nagar Rourkela">
                     <div class="kln-image-caption">All-weather container delivery vehicles ensuring seamless door-to-door transit across Koel Nagar Rourkela</div>
                 </div>
 
@@ -780,7 +780,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Block B Main Road, Near Koel River Embankment</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="kln-cta-button">Request Free Moving Quote</a>

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Kudasan Gandhinagar",
         "image": "https://www.shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-kudasan-gandhinagar",
-        "telephone": "+91 9122114455",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -422,7 +422,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we have established ourselves as the premier household shifting specialist in Kudasan. Moving into modern gated condominiums such as Swagat Flamingo, Shukan Palace, Radhe Infinity, and Pramukh Oasis presents distinctive logistical requirements. Gated society management committees enforce strict rules regarding moving hours, elevator usage, parking access, and common corridor preservation. Our trained moving supervisors manage every detail seamlessly, obtaining society entry permits, safeguarding elevator walls, and maneuvering heavy furniture without creating noise or disturbance for your neighbors.</p>
 
             <div class="kds-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Gated Apartment Complex Shifting in Kudasan Gandhinagar">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Gated Apartment Complex Shifting in Kudasan Gandhinagar">
                 <div class="kds-image-caption">Disciplined apartment loading operations utilizing specialized elevator padding and protective floor runners in Kudasan.</div>
             </div>
 
@@ -545,7 +545,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
 
             <div class="kds-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="High Grade Multi-Layer Household Packing in Kudasan">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="High Grade Multi-Layer Household Packing in Kudasan">
                 <div class="kds-image-caption">Export-quality multi-layer packing materials safeguarding appliances, kitchenware, and fine furnishings.</div>
             </div>
 
@@ -633,7 +633,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>We believe in methodical execution. Every move in Kudasan follows our structured, tested relocation process to ensure zero damage and minimal moving-day fatigue:</p>
 
             <div class="kds-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof Container Transit for Kudasan Residents">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof Container Transit for Kudasan Residents">
                 <div class="kds-image-caption">Dedicated sealed container vehicles protecting household goods against rain, dust, and highway vibrations.</div>
             </div>
 
@@ -665,7 +665,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
 
             <div class="kds-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional Room Setup and Furniture Unpacking in Kudasan">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional Room Setup and Furniture Unpacking in Kudasan">
                 <div class="kds-image-caption">Organized unpacking, bed reassembly, and debris removal for immediate living comfort in your new home.</div>
             </div>
         </div>

@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Silchar to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/silchar-to-ranchi-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 26,000 - 78,000",
     "address": {
       "@type": "PostalAddress",
@@ -544,8 +544,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Silchar to Ranchi Packers and Movers</h1>
         <p>Expert interstate relocation services for academic faculty from NIT Silchar &amp; Assam University, medical specialists from SMCH, tea industry professionals, and families moving from Silchar (Assam) to Ranchi (Jharkhand). Superior moisture-proof packing, dedicated all-weather container trucks, and door-to-door transit insurance coverage via NH-6 and NH-27.</p>
         <div class="slc2r-cta-btns">
-          <a href="tel:+919431170366" class="slc2r-btn-primary">Call Now: +91 94311 70366</a>
-          <a href="https://api.whatsapp.com/send?phone=919431170366&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Silchar%20to%20Ranchi." class="slc2r-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:+919835565233" class="slc2r-btn-primary">Call Now: +91 98355 65233</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Silchar%20to%20Ranchi." class="slc2r-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="slc2r-quote-card">
@@ -590,7 +590,7 @@ include_once __DIR__ . '/../includes/config.php';
       <p>Relocating out of Silchar requires navigating specific challenges: torrential rainfall, steep winding ascents on NH-6 through the Jaintia and East Khasi Hills of Meghalaya, and narrow access roads within riverfront colonies like Malugram, Tarapur, and Ambicapatty. As the premier <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f766e; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers eliminates these transit concerns, while also managing regular outbound moves for <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-silchar-packers-and-movers" style="color: #0f766e; font-weight: 600; text-decoration: underline;">packers and movers from Ranchi to Silchar</a>. We provide dedicated feeder shuttle vehicles for door-to-door loading in Silchar, followed by secure transfer into sealed, moisture-proof container trucks built for heavy-duty interstate transport.</p>
 
       <div class="slc2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Container Truck for Silchar to Ranchi Transit">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Container Truck for Silchar to Ranchi Transit">
         <div class="slc2r-img-caption">Sealed container trucks providing superior moisture and weather protection across Northeast transit routes.</div>
       </div>
 
@@ -713,7 +713,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="slc2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping for Silchar to Ranchi Move">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping for Silchar to Ranchi Move">
         <div class="slc2r-img-caption">Multi-tier protective wrapping of fine furniture to prevent scratches and moisture penetration.</div>
       </div>
     </article>
@@ -752,7 +752,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="slc2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Transport from Silchar to Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Transport from Silchar to Ranchi">
         <div class="slc2r-img-caption">Custom shock-resistant packing and crating for motorcycles and scooters bound for Ranchi.</div>
       </div>
     </article>
@@ -792,7 +792,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="slc2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Goods in Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Goods in Ranchi">
         <div class="slc2r-img-caption">Expert material handlers providing zero-damage loading and unloading across interstate routes.</div>
       </div>
     </article>

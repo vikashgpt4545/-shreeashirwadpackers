@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Raipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raipur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,500 - 68,000",
         "address": {
             "@type": "PostalAddress",
@@ -238,7 +238,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>With operational roots supported by our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Raipur branch operates modern fleets, GPS-tracked container vehicles, and seasoned packaging technicians. We eliminate the uncertainty, hidden costs, and stress typically associated with local moving companies. Before booking your consignment, you can always check our real-time <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers pricing calculator</a> to receive an honest, transparent estimate tailored to your volume and distance.</p>
 
         <div class="rpr-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Raipur by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Raipur by Shree Ashirwad Packers and Movers">
             <div class="rpr-img-caption">Multi-layer protective bubble and corrugated packing for household goods in Raipur</div>
         </div>
 
@@ -297,7 +297,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rpr-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials and boxes in Raipur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials and boxes in Raipur">
             <div class="rpr-img-caption">Standardized corrugated moving cartons and impact-resistant bubble wrap</div>
         </div>
     </section>
@@ -393,7 +393,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rpr-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad verified container trucks in Raipur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad verified container trucks in Raipur">
             <div class="rpr-img-caption">Customized, weather-proof container trucks deployed for long-distance relocations</div>
         </div>
     </section>
@@ -446,7 +446,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rpr-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car carrier loading in Raipur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car carrier loading in Raipur">
             <div class="rpr-img-caption">Safe, hydraulic vehicle loading ramps ensuring scratch-free car and bike transport</div>
         </div>
     </section>
@@ -499,7 +499,7 @@ require_once BASE_PATH . '/includes/config.php';
     <section class="rpr-cta-box">
         <h3>Plan Your Seamless Move in Raipur Today!</h3>
         <p>Contact our Raipur relocation coordinator for a free on-site survey and customized moving estimate.</p>
-        <a href="tel:+919334812330" class="rpr-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="rpr-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

@@ -727,7 +727,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-giridih-packer
                 </div>
             </div>
             <div class="d2gir-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Deoghar to Giridih Shifting" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Deoghar to Giridih Shifting" width="600" height="400" loading="lazy">
                 <div class="d2gir-img-caption">Dedicated all-weather closed container trucks providing rapid, dust-free transit across the Deoghar-Madhupur-Giridih route.</div>
             </div>
         </div>
@@ -844,7 +844,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-giridih-packer
     <section class="d2gir-section" style="background: #ffffff;">
         <div class="d2gir-grid-2">
             <div class="d2gir-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packaging for fragile household and marble items" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packaging for fragile household and marble items" width="600" height="400" loading="lazy">
                 <div class="d2gir-img-caption">Specialized packaging for marble temple mandirs, brass idols, and delicate chinaware.</div>
             </div>
             <div>
@@ -915,7 +915,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-giridih-packer
                 </div>
             </div>
             <div class="d2gir-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Hydraulic Car Carrier Deoghar to Giridih" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Hydraulic Car Carrier Deoghar to Giridih" width="600" height="400" loading="lazy">
                 <div class="d2gir-img-caption">Hydraulic car loading ramp ensuring safe ground clearance and zero chassis scrapings for personal vehicles.</div>
             </div>
         </div>
@@ -979,7 +979,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-giridih-packer
                 </div>
             </div>
             <div class="d2gir-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Giridih" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Giridih" width="600" height="400" loading="lazy">
                 <div class="d2gir-img-caption">Professional doorstep unpacking, room placement, bed assembly, and packing waste clearance in Giridih.</div>
             </div>
         </div>

@@ -340,7 +340,7 @@ require_once __DIR__ . '/includes/seo.php';
 
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer bubble wrap household packing in Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer bubble wrap household packing in Dumka" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:18px;">
               <h3 style="font-size:1.15rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Multi-Layer Protective Packing</h3>
               <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Heavy-duty bubble wrap, foam sheets, and high-GSM corrugated cartons protecting fragile household belongings against rough road vibration.</p>
@@ -348,7 +348,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and reassembly service" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and reassembly service" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:18px;">
               <h3 style="font-size:1.15rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Furniture Dismantling &amp; Reassembly</h3>
               <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Experienced carpenters safely deconstruct double beds, modular wardrobes, and dining sets, wrapping each wooden panel separately.</p>
@@ -356,7 +356,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods onto covered container truck in Jharkhand" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods onto covered container truck in Jharkhand" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:18px;">
               <h3 style="font-size:1.15rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Weatherproof Container Loading</h3>
               <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Scientific weight distribution and safety strapping inside closed container trucks ensuring complete protection against rain, dust, and transit shifting.</p>

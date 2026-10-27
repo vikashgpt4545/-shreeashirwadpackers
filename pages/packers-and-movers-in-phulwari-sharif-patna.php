@@ -614,7 +614,7 @@
             </div>
             <div>
                 <div class="psp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers team loading apartment goods in Phulwari Sharif Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers team loading apartment goods in Phulwari Sharif Patna" loading="lazy">
                     <p class="psp-image-caption">Systematic loading and protection of household items in residential societies of Phulwari Sharif, Patna.</p>
                 </div>
             </div>
@@ -682,7 +682,7 @@
         <div class="psp-grid-2">
             <div>
                 <div class="psp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes for Phulwari Sharif shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes for Phulwari Sharif shifting" loading="lazy">
                     <p class="psp-image-caption">5-ply corrugated cartons, dense bubble wrap, and moisture-resistant stretch film deployed in Phulwari Sharif.</p>
                 </div>
             </div>
@@ -807,11 +807,11 @@
             </div>
             <div>
                 <div class="psp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling furniture for shifting in Phulwari Sharif Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling furniture for shifting in Phulwari Sharif Patna" loading="lazy">
                     <p class="psp-image-caption">Professional dismantling and hardware labeling of modular beds and wardrobes by skilled technicians.</p>
                 </div>
                 <div class="psp-image-box" style="margin-top: 24px;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated delivery truck navigating residential roads in Phulwari Sharif Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated delivery truck navigating residential roads in Phulwari Sharif Patna" loading="lazy">
                     <p class="psp-image-caption">Modern enclosed container trucks ensuring weather-safe door-to-door transit across Patna colonies.</p>
                 </div>
             </div>

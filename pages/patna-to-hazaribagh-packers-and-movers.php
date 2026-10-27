@@ -634,7 +634,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/patna-to-hazaribagh-packe
                 <p>Whether you are a state administrative official moving from Patna Secretariat, a medical professional relocating from PMCH or AIIMS Patna to Sheikh Bhikhari Medical College Hazaribagh, a bank executive on rotational posting, or an academic joining Vinoba Bhave University, our dedicated relocation team handles every stage with absolute precision and punctuality.</p>
             </div>
             <div class="p2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Patna to Hazaribagh household shifting" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Patna to Hazaribagh household shifting" loading="lazy">
                 <div class="p2hzb-img-caption">Dedicated all-weather sealed container trucks operating daily on the Patna-Hazaribagh highway route</div>
             </div>
         </div>
@@ -679,7 +679,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/patna-to-hazaribagh-packe
     <section class="p2hzb-section">
         <div class="p2hzb-grid-2">
             <div class="p2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Patna to Hazaribagh transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Patna to Hazaribagh transit" loading="lazy">
                 <div class="p2hzb-img-caption">Multi-layer protective bubble wrap, corrugated sheets, and foam edge guards for furniture and fragile items</div>
             </div>
             <div>
@@ -779,7 +779,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/patna-to-hazaribagh-packe
                 </ul>
             </div>
             <div class="p2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Patna to Hazaribagh vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Patna to Hazaribagh vehicle relocation" loading="lazy">
                 <div class="p2hzb-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Patna and Hazaribagh</div>
             </div>
         </div>
@@ -835,7 +835,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/patna-to-hazaribagh-packe
     <section class="p2hzb-section">
         <div class="p2hzb-grid-2">
             <div class="p2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
                 <div class="p2hzb-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Hazaribagh residences</div>
             </div>
             <div>

@@ -2,7 +2,7 @@
 /**
  * Packers and Movers in Chakulia - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9308888746
+ * Contact: +91 8409531615 / +91 9835565233
  * Office: Serving Chakulia, Ghatshila, East Singhbhum, Jharkhand
  */
 
@@ -201,7 +201,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
           "name": "How can I get an accurate cost quotation for my move in Chakulia?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Call our customer service team at +91 8409531615 or WhatsApp us at +91 9308888746. We provide free doorstep physical surveys in Chakulia or swift video estimates with transparent, fixed-rate pricing."
+            "text": "Call our customer service team at +91 8409531615 or WhatsApp us at +91 9835565233. We provide free doorstep physical surveys in Chakulia or swift video estimates with transparent, fixed-rate pricing."
           }
         }
       ]
@@ -241,7 +241,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
             </div>
             <div class="hero-media" style="flex: 1 1 420px; max-width: 480px;">
                 <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; border-radius: 16px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.4); border: 3px solid rgba(255,255,255,0.15);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packers and Movers in Chakulia - High quality household packing by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packers and Movers in Chakulia - High quality household packing by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     <div class="media-overlay-badge" style="position: absolute; bottom: 20px; left: 20px; right: 20px; background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(8px); padding: 14px 18px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.2);">
                         <p style="margin: 0; font-size: 13px; color: #f1f5f9; font-weight: 500;">
                             <i class="fa-solid fa-boxes-packing" style="color: #60a5fa; margin-right: 6px;"></i> High-density bubble wrap & corrugated rolls protecting household goods in Chakulia.
@@ -290,7 +290,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                     <!-- Verified Image Embed 1 -->
                     <div class="content-media-embed" style="margin: 30px auto; max-width: 420px; width: 100%;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packaging in Chakulia by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packaging in Chakulia by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 18px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 13.5px; font-weight: 600;"><i class="fa-solid fa-box" style="color: #60a5fa; margin-right: 8px;"></i> Multi-layer bubble wrap & heavy corrugated cartons for household shifting in Chakulia.</p>
                             </div>
@@ -358,7 +358,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                     <!-- Verified Image Embed 2 -->
                     <div class="content-media-embed" style="margin: 35px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Packers and movers delivery truck in Chakulia by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Packers and movers delivery truck in Chakulia by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 20px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 14px; font-weight: 600;"><i class="fa-solid fa-truck-ramp-box" style="color: #60a5fa; margin-right: 8px;"></i> Modern containerized vehicles delivering safe door-to-door relocations across East Singhbhum.</p>
                             </div>
@@ -532,7 +532,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                     <!-- Verified Image Embed 3 -->
                     <div class="content-media-embed" style="margin: 35px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading in Chakulia by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading in Chakulia by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 20px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 14px; font-weight: 600;"><i class="fa-solid fa-car-rear" style="color: #60a5fa; margin-right: 8px;"></i> Specially engineered hydraulic car loading ramps for zero bumper scraping.</p>
                             </div>
@@ -627,7 +627,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                     <!-- Verified Image Embed 4 -->
                     <div class="content-media-embed" style="margin: 35px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and household storage warehouse serving Chakulia by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and household storage warehouse serving Chakulia by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 20px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 14px; font-weight: 600;"><i class="fa-solid fa-warehouse" style="color: #60a5fa; margin-right: 8px;"></i> Secured, climate-regulated warehouse space protecting goods for short and long-term storage.</p>
                             </div>
@@ -774,7 +774,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                                 <i class="fa-solid fa-circle-question" style="color: #2563eb; margin-right: 8px;"></i> How can I get an accurate cost quotation for my move in Chakulia?
                             </h3>
                             <p style="font-size: 15px; line-height: 1.75; color: #334155; margin: 0;">
-                                Call our customer service team at +91 8409531615 or WhatsApp us at +91 9308888746. We provide free doorstep physical surveys in Chakulia or swift video estimates with transparent, fixed-rate pricing.
+                                Call our customer service team at +91 8409531615 or WhatsApp us at +91 9835565233. We provide free doorstep physical surveys in Chakulia or swift video estimates with transparent, fixed-rate pricing.
                             </p>
                         </div>
                     </div>
@@ -798,8 +798,8 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                             <a href="tel:8409531615" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
                                 <i class="fa-solid fa-phone"></i> +91 8409531615
                             </a>
-                            <a href="tel:9308888746" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #1e3a8a; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
-                                <i class="fa-solid fa-phone"></i> +91 9308888746
+                            <a href="tel:+919835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #1e3a8a; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
+                                <i class="fa-solid fa-phone"></i> +91 9835565233
                             </a>
                             <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chakulia" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
                                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp

@@ -31,7 +31,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hanumangarh";
         "name": "Shree Ashirwad Packers and Movers Hanumangarh",
         "description": "Licensed and certified packers and movers in Hanumangarh providing residential shifting across Hanumangarh Town and Junction, agro-industrial cargo moving, and pan-India car transportation.",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "address": {
             "@type": "PostalAddress",
@@ -436,7 +436,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hanumangarh";
         </div>
         <div>
             <div class="hnm-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Hanumangarh by Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Hanumangarh by Shree Ashirwad Packers" loading="lazy">
             </div>
         </div>
     </section>
@@ -479,7 +479,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hanumangarh";
     <section class="hnm-grid-2">
         <div>
             <div class="hnm-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew handling furniture in Hanumangarh" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew handling furniture in Hanumangarh" loading="lazy">
             </div>
         </div>
         <div>
@@ -598,7 +598,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hanumangarh";
         </div>
         <div>
             <div class="hnm-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile item packing with specialized cushioning in Hanumangarh" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile item packing with specialized cushioning in Hanumangarh" loading="lazy">
             </div>
         </div>
     </section>
@@ -607,7 +607,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hanumangarh";
     <section class="hnm-grid-2">
         <div>
             <div class="hnm-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Fleet loading operations by Shree Ashirwad Packers in Hanumangarh" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Fleet loading operations by Shree Ashirwad Packers in Hanumangarh" loading="lazy">
             </div>
         </div>
         <div>
@@ -700,7 +700,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hanumangarh";
     <section class="hnm-cta-banner">
         <h2>Planning a Move in or Out of Hanumangarh?</h2>
         <p>Get a guaranteed fixed-price estimate with free doorstep survey and premium 5-layer protective packing support.</p>
-        <a href="tel:+919334812328" class="hnm-cta-btn">Call +91-9334812328 for Free Instant Quote</a>
+        <a href="tel:+919835565233" class="hnm-cta-btn">Call +91 9835565233 for Free Instant Quote</a>
     </section>
 
 </main>

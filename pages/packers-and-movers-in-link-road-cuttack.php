@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-link-road-cuttack#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-link-road-cuttack",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -522,7 +522,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="lkr-body-p">Lined with prominent corporate branch offices, banking institutions, automotive retail showrooms, healthcare diagnostics centers, and vibrant residential apartment complexes, Link Road experiences round-the-clock commercial dynamism. Relocating a household or enterprise in this high-activity corridor requires disciplined operational timing, specialized parking management, and professional moving crews who understand highway logistics.</p>
 
                 <div class="lkr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Link Road Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Link Road Cuttack">
                     <div class="lkr-image-caption">Dedicated crew loading residential cargo into an enclosed carrier near Link Road Cuttack</div>
                 </div>
 
@@ -561,7 +561,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="lkr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Cartons and Materials Link Road Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Cartons and Materials Link Road Cuttack">
                     <div class="lkr-image-caption">High-density bubble packaging, stretch film, and heavy corrugated cartons used for fragile cargo</div>
                 </div>
 
@@ -684,7 +684,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="lkr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly in Link Road Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly in Link Road Cuttack">
                     <div class="lkr-image-caption">Skilled carpenters carefully dismantling and wrapping master bedroom furniture along Link Road Cuttack</div>
                 </div>
 
@@ -719,7 +719,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="lkr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Link Road Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Link Road Cuttack">
                     <div class="lkr-image-caption">All-weather container delivery vehicles ensuring seamless door-to-door transit across Link Road Cuttack</div>
                 </div>
 
@@ -782,7 +782,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Link Road, Near OMP Square, Cuttack</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="lkr-cta-button">Request Free Moving Quote</a>

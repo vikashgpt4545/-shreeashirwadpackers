@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Korba",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-korba",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 66,000",
         "address": {
             "@type": "PostalAddress",
@@ -238,7 +238,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Supported by our centralized operations at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Korba branch provides premium home shifting, official public sector transfers, vehicle transportation, and heavy equipment logistics. We use virgin-grade packaging materials, shock-absorbing bubble rolls, heavy corrugated cartons, and sealed container vehicles to protect household goods from transit vibrations and coal dust. To plan your moving budget with complete transparency, evaluate rates anytime with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live shifting cost calculator</a>.</p>
 
         <div class="krb-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Korba by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Korba by Shree Ashirwad Packers and Movers">
             <div class="krb-img-caption">Multi-layer protective bubble and corrugated packing for household goods in Korba</div>
         </div>
 
@@ -297,7 +297,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="krb-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Korba">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Korba">
             <div class="krb-img-caption">Virgin-grade bubble rolls, multi-wall cartons, and corner protectors used in Korba</div>
         </div>
     </section>
@@ -416,7 +416,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="krb-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Korba">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Korba">
             <div class="krb-img-caption">Dedicated closed-body container trucks ensuring zero weather exposure during transit</div>
         </div>
     </section>
@@ -463,7 +463,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="krb-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Korba">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vehicle carrier in Korba">
             <div class="krb-img-caption">Hydraulic ramps ensuring damage-free car loading and unloading in Korba</div>
         </div>
     </section>
@@ -502,7 +502,7 @@ require_once BASE_PATH . '/includes/config.php';
     <section class="krb-cta-box">
         <h3>Book Your Hassle-Free Relocation in Korba Today!</h3>
         <p>Connect with our Korba moving coordinator for an accurate quote and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="krb-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="krb-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

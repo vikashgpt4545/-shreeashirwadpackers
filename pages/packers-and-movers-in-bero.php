@@ -270,7 +270,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
 
         <!-- Verified Image Callout 1 -->
         <div style="max-width: 420px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Shifting Packaging in Bero Ranchi" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Shifting Packaging in Bero Ranchi" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           Heavy-duty multi-layer bubble wrap, edge guards, and corrugated boxes applied for residential shifting in Bero.
@@ -363,7 +363,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
 
         <!-- Verified Image Callout 2 -->
         <div style="max-width: 420px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Bero Ranchi" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Bero Ranchi" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           All-weather sealed container trucks ensuring clean, secure door-to-door deliveries from Bero across Jharkhand and India.
@@ -481,7 +481,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
 
         <!-- Verified Image Callout 3 -->
         <div style="max-width: 480px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Carrier Transport Bero Ranchi" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Carrier Transport Bero Ranchi" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           Professional car carrier loading and motorcycle transport with safety wheel locks and insurance in Bero.
@@ -570,7 +570,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
 
         <!-- Verified Image Callout 4 -->
         <div style="max-width: 480px; width: 100%; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); margin: 30px auto;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Warehouse and Storage Facilities Bero" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Warehouse and Storage Facilities Bero" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
         </div>
         <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: -20px; margin-bottom: 25px; font-style: italic;">
           CCTV-monitored, damp-proof, secure warehouse and commercial cargo storage facilities serving Bero and Ranchi.

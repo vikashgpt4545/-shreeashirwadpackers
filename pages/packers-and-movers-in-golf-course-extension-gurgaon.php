@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Golf Course Extension",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -476,7 +476,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <h1 class="gce-hero-title">Packers and Movers in Golf Course Extension Gurgaon</h1>
         <p class="gce-hero-subtitle">White-Glove Household Shifting, Penthouse Moves & Luxury Condominium Relocations across Sector 58–67, M3M Golfestate, Pioneer Araya & Ireo Grand Arch.</p>
         <div class="gce-cta-group">
-            <a href="tel:+919334404050" class="gce-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gce-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gce-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -493,7 +493,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="gce-intro-p">Our crew understands that condominium estates along Golf Course Extension enforce stringent facility management bylaws. We coordinate prior gate passes, provide surface-protecting floor wraps, deploy pneumatic dollies, and ensure complete discretion. In addition, our robust inter-state transport network provides direct, reliable transit to Eastern India via our headquarters network at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, backed by comprehensive transit risk insurance and binding written agreements.</p>
 
         <div class="gce-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Luxury apartment shifting crew on Golf Course Extension Road Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Luxury apartment shifting crew on Golf Course Extension Road Gurgaon" width="580" height="360">
             <div class="gce-image-caption">Trained white-glove personnel loading padded furniture and custom wooden crates on Golf Course Extension Road</div>
         </div>
     </section>
@@ -549,7 +549,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="gce-intro-p">Basement clearance along Golf Course Extension condominiums typically ranges from 2.8 to 3.2 meters. Shree Ashirwad operates low-clearance 14-foot and 17-foot enclosed container vehicles that access basement loading docks directly, shielding your luxury goods from inclement weather and avoiding lengthy external manual portage.</p>
 
         <div class="gce-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium packaging supplies for Golf Course Extension moves" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium packaging supplies for Golf Course Extension moves" width="580" height="360">
             <div class="gce-image-caption">Multi-layered export-quality packaging using virgin bubble film, heavy-duty carton boxes, and reinforced edge protectors</div>
         </div>
     </section>
@@ -657,7 +657,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gce-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master carpenter dismantling designer wooden bed on Golf Course Extension" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master carpenter dismantling designer wooden bed on Golf Course Extension" width="580" height="360">
             <div class="gce-image-caption">Skilled carpenters carefully disassembling modular king-size beds and luxury wardrobe fittings prior to transit</div>
         </div>
     </section>
@@ -695,7 +695,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gce-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck on Golf Course Extension Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck on Golf Course Extension Gurgaon" width="580" height="360">
             <div class="gce-image-caption">Weatherproof container trucks ensuring dust-free and water-sealed transit across Golf Course Extension Road and national routes</div>
         </div>
     </section>

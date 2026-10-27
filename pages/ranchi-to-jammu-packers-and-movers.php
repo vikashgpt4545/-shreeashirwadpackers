@@ -69,7 +69,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Harmu Road, Near Overbridge",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -580,7 +580,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 1 -->
         <div class="r2jm-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing for Ranchi to Jammu Relocation" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing for Ranchi to Jammu Relocation" loading="lazy">
             <div class="r2jm-img-caption">Multi-tier protective packing engineered to withstand high-speed national highway transit.</div>
         </div>
 
@@ -695,7 +695,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 2 -->
         <div class="r2jm-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Truck Loading for Ranchi to Jammu Relocation" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Truck Loading for Ranchi to Jammu Relocation" loading="lazy">
             <div class="r2jm-img-caption">Sealed container trucks with heavy-duty ratchets ensuring zero cargo movement during highway transit.</div>
         </div>
 
@@ -751,7 +751,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 3 -->
         <div class="r2jm-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport from Ranchi to Jammu" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport from Ranchi to Jammu" loading="lazy">
             <div class="r2jm-img-caption">Hydraulic car carriers providing zero-scratch automobile relocation to Jammu and Northern India.</div>
         </div>
     </section>
@@ -815,7 +815,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 4 -->
         <div class="r2jm-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment High-Rise Shifting Ranchi to Jammu" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment High-Rise Shifting Ranchi to Jammu" loading="lazy">
             <div class="r2jm-img-caption">High-rise apartment moving logistics with floor-lifting equipment and service elevator management.</div>
         </div>
     </section>

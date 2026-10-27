@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-porur-chennai";
         "name": "Shree Ashirwad Packers and Movers Porur Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-porur-chennai";
         <p>The skyline of Porur features sprawling multi-tower residential enclaves, luxury gated communities overlooking Porur Lake, and busy commercial retail centers. Relocating within this high-density urban environment requires an experienced moving partner capable of adhering strictly to society service lift protocols, navigating Mount-Poonamallee Road transit windows, and providing zero-scratch handling for high-value home assets. Shree Ashirwad Packers and Movers delivers unmatched expertise across every corner of Porur.</p>
 
         <div class="prr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment goods loading in Porur Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment goods loading in Porur Chennai" width="580" height="387" loading="lazy">
             <div class="gdy-image-caption">High-rise apartment freight handling and professional loading operations in Porur Chennai.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-porur-chennai";
         </div>
 
         <div class="prr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="DLF Cybercity corporate office IT shifting in Porur Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="DLF Cybercity corporate office IT shifting in Porur Chennai" width="580" height="387" loading="lazy">
             <div class="prr-image-caption">Corporate workstation packaging and IT equipment logistics in DLF Cybercity Porur.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-porur-chennai";
         <p>We deploy protective neoprene wrap along elevator walls, place heavy corrugated cardboard runners across lobby floors, and use rubber-wheeled trolleys to prevent scuffs or loud noise. Heavy solid wood wardrobes, dining tables, and plush sofa suites are padded with multi-layered protective blankets and sealed in waterproof stretch film.</p>
 
         <div class="prr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture multi-layer protective wrapping in Porur Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture multi-layer protective wrapping in Porur Chennai" width="580" height="387" loading="lazy">
             <div class="prr-image-caption">Multi-tier bubble cushioning and stretch film wrapping for solid wood furniture in Porur.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-porur-chennai";
         </ol>
 
         <div class="prr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed weatherproof transit container truck in Porur Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed weatherproof transit container truck in Porur Chennai" width="580" height="387" loading="lazy">
             <div class="prr-image-caption">Enclosed containerized vehicles ensuring weatherproof, dust-free transit across Chennai.</div>
         </div>
     </section>
@@ -784,7 +784,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-porur-chennai";
     <div class="prr-cta-box">
         <h3>Ready for a Smooth, Worry-Free Move in Porur?</h3>
         <p>Get a transparent, binding quote from Porur's highest-rated relocation specialists. Zero hidden fees, guaranteed safety, and total peace of mind.</p>
-        <a href="tel:+919334404050" class="prr-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="prr-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

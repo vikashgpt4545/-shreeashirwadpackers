@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Premier interstate relocation services from Delhi NCR to Jaipur specializing in household shifting, corporate commercial moves, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 280 km high-demand expressway corridor between Delhi NCR and Jaipur, Rajasthan represents one of North India's busiest residential and commercial relocation routes. Connecting the national capital to the historic capital of Rajasthan involves swift transit across Haryana and Rajasthan via National Highway 48 or the advanced Delhi-Mumbai Expressway NE4 via the Dausa interchange. Whether moving your corporate career from Gurugram's Cyber City, Noida, or South Delhi to Jaipur's Sitapura Industrial Area, Mansarovar, or Vaishali Nagar, or relocating your ancestral residence, Shree Ashirwad Packers and Movers delivers an exemplary relocation experience built upon industrial-grade logistics execution.</p>
     
     <div class="dlj-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Delhi to Jaipur transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Delhi to Jaipur transit" loading="lazy">
       <div class="dlj-img-caption">Dedicated sealed container trucks engineered for rapid, weatherproof transit along the Delhi-Jaipur corridor.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 280 km transit across highway conditions demands engineered packaging that resists sustained road vibrations, sudden braking forces, and micro-abrasions along high-speed expressways.</p>
 
     <div class="dlj-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for interstate relocation" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for interstate relocation" loading="lazy">
       <div class="dlj-img-caption">Multi-layer protective packing ensuring zero scratches or transit damage across Delhi to Jaipur.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across heavy freight traffic on NH48 can lead to unnecessary road exhaustion, stone chip damage, and mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="dlj-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
       <div class="dlj-img-caption">Covered hydraulic car carriers ensuring damage-free car and motorcycle transport between Delhi and Jaipur.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dlj-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing for interstate delivery in Jaipur" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware box packing for interstate delivery in Jaipur" loading="lazy">
       <div class="dlj-img-caption">Fragile glassware box packing with customized cushioning for safe doorstep delivery in Jaipur.</div>
     </div>
   </section>

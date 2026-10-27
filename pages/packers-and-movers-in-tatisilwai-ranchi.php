@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Tatisilwai Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-tatisilwai-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -433,7 +433,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Tatisilwai Ranchi</h1>
         <p>Premium industrial plant logistics, heavy machinery moving, employee household shifting, and vehicle transport services across Tatisilwai, Usha Martin Limited, Purulia Road, Tatisilwai Railway Station, and Ranchi Ring Road. Reliable, punctual, and damage-free moving delivered by Ranchi's top relocation professionals.</p>
-        <a href="tel:+919334404052" class="hl-tts-cta-btn">&#128222; Call Now: +91 93344 04052</a>
+        <a href="tel:+919835565233" class="hl-tts-cta-btn">&#128222; Call Now: +91 9835565233</a>
       </div>
       <div class="hl-tts-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +441,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Purulia Road near Usha Martin, Tatisilwai
         </div>
         <div class="hl-tts-contact-item">
-          <span>Direct Helpline:</span> +91 93344 04052
+          <span>Direct Helpline:</span> +91 9835565233
         </div>
         <div class="hl-tts-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -458,7 +458,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Constrained Card Image 1 -->
   <div class="hl-tts-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Tatisilwai Industrial Corridor Ranchi">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Tatisilwai Industrial Corridor Ranchi">
     <div class="hl-tts-img-caption">Dedicated closed-body moving fleet serving manufacturing plants and residential colonies across Tatisilwai, Ranchi.</div>
   </div>
 
@@ -505,7 +505,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 2 -->
     <div class="hl-tts-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Furniture Wrapping in Tatisilwai Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Furniture Wrapping in Tatisilwai Ranchi">
       <div class="hl-tts-img-caption">Multi-layer bubble wrap, foam corner guards, and stretch film protecting wooden furniture during transit.</div>
     </div>
 
@@ -587,7 +587,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 3 -->
     <div class="hl-tts-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing in Tatisilwai Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing in Tatisilwai Ranchi">
       <div class="hl-tts-img-caption">Specialized foam wrapping and heavy-duty cargo straps ensuring scratch-free two-wheeler relocation.</div>
     </div>
 
@@ -651,7 +651,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 4 -->
     <div class="hl-tts-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Tatisilwai Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Tatisilwai Ranchi">
       <div class="hl-tts-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services in Tatisilwai.</div>
     </div>
 

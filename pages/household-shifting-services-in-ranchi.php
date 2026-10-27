@@ -151,7 +151,7 @@ $meta_keywords = "household shifting services in ranchi, house shifting in ranch
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -417,7 +417,7 @@ $meta_keywords = "household shifting services in ranchi, house shifting in ranch
           </div>
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing and Shifting in Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing and Shifting in Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Full-House Professional Packing</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">Room-by-room labeling, multi-layer cushioning &amp; sealed container transport in Ranchi</div>
@@ -491,7 +491,7 @@ $meta_keywords = "household shifting services in ranchi, house shifting in ranch
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:40px; align-items:center;">
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Apartment Household Goods Loading in Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory Apartment Household Goods Loading in Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Multistory Apartment Logistics</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">Elevator padding, stairwell rigging &amp; covered container truck loading across Ranchi</div>
@@ -576,7 +576,7 @@ $meta_keywords = "household shifting services in ranchi, house shifting in ranch
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:30px; align-items:center;">
           <div>
             <div style="position:relative; border-radius:14px; overflow:hidden; box-shadow:0 10px 25px rgba(0,0,0,0.08); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" style="width:100%; height:260px; max-height:300px; display:block; object-fit:cover;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:20px 18px 14px; color:#ffffff;">
                 <div style="font-size:1.05rem; font-weight:700; margin-bottom:3px;">Complete Unpacking &amp; Room Setup Included</div>
                 <div style="font-size:0.85rem; color:#cbd5e1;">Furniture reassembled, appliances positioned, and all packaging debris cleared away</div>

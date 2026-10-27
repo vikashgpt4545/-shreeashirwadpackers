@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Bhubaneswar Relocation Guide | Odisha Movers | Call 9708579999</title>
-    <meta name="description" content="Dependable household shifting from Ranchi to Bhubaneswar. 14-hour transit via NH-20, IIT Bhubaneswar & AIIMS transfers, Infocity IT moves, car carriers & full insurance. Call 9708579999.">
+    <title>Ranchi to Bhubaneswar Relocation Guide | Odisha Movers | Call 9835565233</title>
+    <meta name="description" content="Dependable household shifting from Ranchi to Bhubaneswar. 14-hour transit via NH-20, IIT Bhubaneswar & AIIMS transfers, Infocity IT moves, car carriers & full insurance. Call 9835565233.">
     <meta name="keywords" content="ranchi to bhubaneswar relocation guide, packers and movers ranchi to bhubaneswar, household shifting ranchi to odisha, iit bhubaneswar faculty transfer packers, infocity patia relocation ranchi, ranchi bhubaneswar container truck">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhubaneswar-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Ranchi to Bhubaneswar Express Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-bhubaneswar-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Bhubaneswar Relocation Guide: Capital Expressway Route</h1>
                 <p>Relocating between Jharkhand and Odisha's Temple City? Experience seamless 12-to-16 hour linehaul transit via NH-20 and NH-16. Benefit from dedicated closed container trucking, specialized moves for IIT Bhubaneswar, AIIMS, Nalco executives, Infocity techies, and complete transit insurance.</p>
                 <div class="rbbs-cta-group">
-                    <a href="tel:+919708579999" class="rbbs-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Bhubaneswar" class="rbbs-btn-wa" target="_blank" rel="noopener">WhatsApp Bhubaneswar Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rbbs-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Bhubaneswar" class="rbbs-btn-wa" target="_blank" rel="noopener">WhatsApp Bhubaneswar Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rbbs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck operating from Ranchi to Bhubaneswar" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck operating from Ranchi to Bhubaneswar" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -286,7 +286,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Navigating Bhubaneswar: Infocity, Patia, AIIMS, IIT, Railway Colonies & Khandagiri</h2>
                 <div class="rbbs-grid-2">
                     <div class="rbbs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential moving cartons prepared for delivery in Bhubaneswar" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential moving cartons prepared for delivery in Bhubaneswar" loading="lazy">
                     </div>
                     <div>
                         <p>Bhubaneswar's planned layout features distinct institutional, tech, and heritage residential zones. Delivering household consignments requires locality-specific logistical coordination:</p>
@@ -317,7 +317,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rbbs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional packing crew wrapping furniture and household electronics for transit" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional packing crew wrapping furniture and household electronics for transit" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -389,7 +389,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>White-Glove Unpacking & Furniture Assembly in Bhubaneswar</h2>
                 <div class="rbbs-grid-2">
                     <div class="rbbs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer residence" loading="lazy">
                     </div>
                     <div>
                         <p>Moving into your new Bhubaneswar home is effortless with our destination unpacking and carpenter assistance:</p>

@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Raj Nagar Extension Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="rne-hero-title">Packers and Movers in Raj Nagar Extension Ghaziabad</h1>
         <p class="rne-hero-subtitle">Specialized high-rise society moving, freight elevator handling, modular furniture carpentry, and seamless inter-state relocations across the NH-58 bypass and Hindon Elevated Corridor.</p>
         <div class="rne-cta-group">
-            <a href="tel:+919334404050" class="rne-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="rne-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rne-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="rne-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we bring more than a decade of proven expertise to Raj Nagar Extension. Whether you are shifting your family into a penthouse in River Heights, moving across towers in Officer City, or settling into KW Srishti or VVIP Addresses, our dedicated moving squads deliver structured, damage-free moving solutions tailored specifically to modern apartment complexes.</p>
 
         <div class="rne-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Raj Nagar Extension Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Raj Nagar Extension Ghaziabad" loading="lazy">
             <p class="rne-image-caption">Systematic household loading and basement shuttle operations in Raj Nagar Extension</p>
         </div>
 
@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="rne-intro-p">In landmark societies such as <strong>River Heights, Officer City 1 & 2, KW Srishti, VVIP Addresses, Ajnara Integrity, Charms Castle, SG Impression Plus, MCC Signature Heights, and Star Rameshwaram</strong>, our operational team arranges security clearances well in advance. We schedule service lift protective padding, confirm lift priority time windows, and verify truck entry gates to ensure that loading operations commence without administrative delay.</p>
 
         <div class="rne-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Raj Nagar Extension" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Raj Nagar Extension" loading="lazy">
             <p class="rne-image-caption">Multi-layer shock-absorbent wrapping protects delicate glassware and electronic appliances</p>
         </div>
 
@@ -676,7 +676,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="rne-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Ghaziabad" loading="lazy">
             <p class="rne-image-caption">Professional carpentry dismantling preserves modular furniture joinery and fasteners</p>
         </div>
     </section>
@@ -689,7 +689,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="rne-intro-p">For long-distance relocations heading toward Eastern India—including Patna, Gaya, Ranchi, Jamshedpur, Dhanbad, and Kolkata—our linehaul container trucks merge directly onto the Delhi-Meerut Expressway and NH-9. Backed by central dispatch tracking at our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>, clients receive continuous GPS updates throughout the interstate voyage.</p>
 
         <div class="rne-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck in Raj Nagar Extension" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck in Raj Nagar Extension" loading="lazy">
             <p class="rne-image-caption">Closed container linehaul fleet ensures prompt, secure door-to-door deliveries nationwide</p>
         </div>
     </section>
@@ -752,7 +752,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Raj Nagar Extension Move Today</h3>
         <p>Connect with our expert team for competitive quotes, free pre-move surveys, and customized society shifting plans.</p>
         <div class="rne-cta-group">
-            <a href="tel:+919334404050" class="rne-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="rne-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rne-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

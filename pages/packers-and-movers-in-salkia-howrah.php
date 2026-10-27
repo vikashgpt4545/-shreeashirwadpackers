@@ -284,7 +284,7 @@
         "name": "Shree Ashirwad Packers and Movers Salkia Howrah",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-salkia-howrah",
-        "telephone": "+91 9334812300",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -508,7 +508,7 @@
 
     <!-- Visual Image 1 -->
     <div class="ska-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded safely in covered moving container truck in Salkia Howrah">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded safely in covered moving container truck in Salkia Howrah">
         <div class="ska-img-caption">Figure 1: Dedicated containerized loading operations for residential and commercial relocations across Salkia.</div>
     </div>
 
@@ -556,7 +556,7 @@
 
     <!-- Visual Image 2 -->
     <div class="ska-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and heavy carton packaging for domestic shifting in Salkia">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and heavy carton packaging for domestic shifting in Salkia">
         <div class="ska-img-caption">Figure 2: Multi-layer protective packaging for delicate glassware, ceramics, electronics, and kitchen appliances.</div>
     </div>
 
@@ -609,7 +609,7 @@
 
     <!-- Visual Image 3 -->
     <div class="ska-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry technicians safely dismantling wooden double bed in Salkia">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpentry technicians safely dismantling wooden double bed in Salkia">
         <div class="ska-img-caption">Figure 3: Professional carpentry technicians disassembling modular wooden furniture for scratch-resistant transport.</div>
     </div>
 
@@ -681,7 +681,7 @@
 
     <!-- Visual Image 4 -->
     <div class="ska-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
         <div class="ska-img-caption">Figure 4: Punctual door-to-door delivery and room placement service conducted by our trained handling staff.</div>
     </div>
 

@@ -791,7 +791,7 @@ require_once __DIR__ . '/includes/header.php';
 
     <div class="a2r-grid-4">
       <div class="a2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container linehaul navigating the NH-33 Adityapur-Chandil-Bundu-Ranchi corridor" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container linehaul navigating the NH-33 Adityapur-Chandil-Bundu-Ranchi corridor" loading="lazy">
         <div class="a2r-img-content">
           <h3 class="a2r-img-title">Sealed NH-33 Fleet</h3>
           <p class="a2r-img-desc">Heavy-duty closed container trucks shielding home belongings from road dust, sudden rain, and highway vibrations during the 130 km linehaul.</p>
@@ -799,7 +799,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="a2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty padded covers for refrigerators, washing machines, and electronic appliances" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty padded covers for refrigerators, washing machines, and electronic appliances" loading="lazy">
         <div class="a2r-img-content">
           <h3 class="a2r-img-title">Appliance Shock Armor</h3>
           <p class="a2r-img-desc">Custom thermal-padded jackets and dense shock-absorbing wraps securing double-door refrigerators, washing machines, and micro-electronics.</p>
@@ -807,7 +807,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="a2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer corrugated and foam protection for wooden furniture during highway transit" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer corrugated and foam protection for wooden furniture during highway transit" loading="lazy">
         <div class="a2r-img-content">
           <h3 class="a2r-img-title">Corner &amp; Edge Protection</h3>
           <p class="a2r-img-desc">Corrugated angle boards, virgin bubble wrap, and multi-ply stretch films encasing teak dining sets, beds, and almirahs against surface abrasion.</p>
@@ -815,7 +815,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="a2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door delivery container arriving at Ranchi residential societies" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door delivery container arriving at Ranchi residential societies" loading="lazy">
         <div class="a2r-img-content">
           <h3 class="a2r-img-title">Ranchi Doorstep Setup</h3>
           <p class="a2r-img-desc">Prompt arrival at Ranchi housing colonies and apartments with full unloading crews for furniture assembly, room placement, and packaging cleanup.</p>

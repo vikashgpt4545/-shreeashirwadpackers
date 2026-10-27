@@ -39,7 +39,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mysore'
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-mysore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-mysore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹42,000",
         "address": {
             "@type": "PostalAddress",
@@ -526,7 +526,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Mysore (Mysuru)</h1>
         <p>Heritage city packing, antique furniture handling, IT corporate relocation, and household shifting across Vijayanagar, Kuvempunagar, Gokulam, and Hebbal Electronic City.</p>
         <div class="mys-btn-wrap">
-            <a href="tel:+919334404050" class="mys-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mys-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mys-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mys-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Mysore Karnataka" title="Complete residential packing in Mysore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Mysore Karnataka" title="Complete residential packing in Mysore">
             <p class="mys-image-caption">Systematic room-by-room packing and carton labeling for safe home relocation in Mysore.</p>
         </div>
     </section>
@@ -587,7 +587,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Large household electronics—including double-door frost-free refrigerators, front-load washing machines, microwave ovens, and curved smart televisions—are wrapped with padded moving blankets, thermocol buffers, and heavy-duty shrink films. Washing machine drums are secured with transit locks, preventing internal suspension damage during vehicular movement on city roads or interstate highways.</p>
 
         <div class="mys-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping and protection in Mysore" title="Rosewood furniture protection in Mysore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping and protection in Mysore" title="Rosewood furniture protection in Mysore">
             <p class="mys-image-caption">Expert padding and protective bubble-wrapping for valuable rosewood and teak furniture pieces in Mysore.</p>
         </div>
     </section>
@@ -630,7 +630,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mys-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car carrier transport loading in Mysore Karnataka" title="Safe car carrier loading in Mysore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car carrier transport loading in Mysore Karnataka" title="Safe car carrier loading in Mysore">
             <p class="mys-image-caption">Enclosed hydraulic vehicle carrier loading cars and two-wheelers for safe interstate transport from Mysore.</p>
         </div>
     </section>
@@ -740,7 +740,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mys-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity container truck loading in Mysore" title="Intercity container truck in Mysore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity container truck loading in Mysore" title="Intercity container truck in Mysore">
             <p class="mys-image-caption">Covered container vehicle prepared for intercity and interstate transit departing from Mysore.</p>
         </div>
     </section>

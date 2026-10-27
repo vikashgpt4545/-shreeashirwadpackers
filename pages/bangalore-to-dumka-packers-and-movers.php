@@ -684,7 +684,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-dumka-packer
                 </div>
                 <div>
                     <div class="blr2dum-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Bangalore to Dumka relocation" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Bangalore to Dumka relocation" width="600" height="400" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -758,7 +758,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-dumka-packer
             <div class="blr2dum-grid-2">
                 <div>
                     <div class="blr2dum-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5 layer packing process for Bangalore to Dumka household shifting" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5 layer packing process for Bangalore to Dumka household shifting" width="600" height="400" loading="lazy">
                     </div>
                 </div>
                 <div>
@@ -874,7 +874,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-dumka-packer
                 </div>
                 <div>
                     <div class="blr2dum-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Bangalore to Dumka" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Bangalore to Dumka" width="600" height="400" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -924,7 +924,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-dumka-packer
             <div class="blr2dum-grid-2">
                 <div>
                     <div class="blr2dum-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service in Dumka" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service in Dumka" width="600" height="400" loading="lazy">
                     </div>
                 </div>
                 <div>

@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nayapalli-bhubaneswar#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nayapalli-bhubaneswar",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="nyp-body-p">At Shree Ashirwad Packers and Movers, we offer specialized moving solutions tailored to Nayapalli’s distinguished residences. Whether you are transitioning into a luxury duplex in IRC Village, shifting a modern high-rise flat along ISKCON temple road, or relocating corporate chambers near Jayadev Vihar, our trained packing specialists manage every step with surgical precision. Operating in coordination with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Packers and Movers in Bhubaneswar</a>, sister tech hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patia-bhubaneswar">Packers and Movers in Patia Bhubaneswar</a>, and corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we guarantee complete peace of mind.</p>
 
                 <div class="nyp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Nayapalli Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Nayapalli Bhubaneswar">
                     <div class="nyp-image-caption">Systematic loading of palletized cartons and heavy appliances in Nayapalli.</div>
                 </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="nyp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for delicate decor in Nayapalli">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for delicate decor in Nayapalli">
                     <div class="nyp-image-caption">5-layer packaging using virgin air-bubble sheets and edge protectors in Nayapalli.</div>
                 </div>
 
@@ -676,7 +676,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="nyp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Nayapalli">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Nayapalli">
                     <div class="nyp-image-caption">Professional furniture dismantling, hardware tagging, and protective wrapping in Nayapalli.</div>
                 </div>
 
@@ -710,7 +710,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="nyp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Nayapalli Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Nayapalli Bhubaneswar">
                     <div class="nyp-image-caption">Dedicated closed-body container truck arriving for doorstep delivery in Nayapalli.</div>
                 </div>
 
@@ -767,7 +767,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> IRC Village, Near ISKCON Temple, Nayapalli</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="nyp-cta-button">Request Free Moving Quote</a>

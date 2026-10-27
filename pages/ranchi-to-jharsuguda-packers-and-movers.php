@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Jharsuguda",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-jharsuguda-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 11,000 - 52,000",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Harmu Road & Morabadi Logistics Complex",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -529,7 +529,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 1 -->
     <div class="r2jg-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Jharsuguda Sealed Container Truck" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Jharsuguda Sealed Container Truck" loading="lazy">
       <div class="r2jg-caption">All-weather sealed container trucks ensuring zero dust, rain, or transit damage across the 290 km Ranchi-Jharsuguda highway.</div>
     </div>
   </section>
@@ -606,7 +606,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 2 -->
     <div class="r2jg-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Heavy Padding" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Heavy Padding" loading="lazy">
       <div class="r2jg-caption">Custom multi-layer wrapping with foam padding and edge buffers safeguarding luxury furniture and timber beds.</div>
     </div>
   </section>
@@ -719,7 +719,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 3 -->
     <div class="r2jg-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle Safe Transit Packing" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle Safe Transit Packing" loading="lazy">
       <div class="r2jg-caption">Dedicated motorcycle and scooter packaging utilizing heavy corrugated wrap and protective frame shielding.</div>
     </div>
   </section>
@@ -751,7 +751,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 4 -->
     <div class="r2jg-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Loading Cargo" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Loading Cargo" loading="lazy">
       <div class="r2jg-caption">Experienced loading crew utilizing heavy-duty lifting harnesses and rubberized ramps for safe loading.</div>
     </div>
   </section>
@@ -846,7 +846,7 @@ include_once __DIR__ . '/../includes/config.php';
     </p>
     <a href="<?php echo SITE_BASE_URL; ?>/contact" class="r2jg-cta-btn" style="background:#fef08a; color:#0f172a;">Request Instant Quote</a>
     <div class="r2jg-call-box">
-      Call Direct: <a href="tel:+919334404052">+91 93344 04052</a> | 24/7 Customer Support
+      Call Direct: <a href="tel:+919835565233">+91 9835565233</a> | 24/7 Customer Support
     </div>
   </section>
 

@@ -398,7 +398,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
 
       <div style="text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
                alt="Household Shifting Services in Simdega Shree Ashirwad Packers" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 
@@ -536,7 +536,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
 
       <div style="order: 1; text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
                alt="Door to Door Delivery Truck Simdega Shree Ashirwad Packers" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 
@@ -726,7 +726,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
 
       <div style="text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" 
                alt="Car and Bike Transportation Services Simdega Shree Ashirwad Packers" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 
@@ -798,7 +798,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 36px; align-items: center;">
       <div style="order: 1; text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" 
                alt="Warehouse Storage Facility Simdega Shree Ashirwad Packers" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 

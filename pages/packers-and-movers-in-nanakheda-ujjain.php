@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Nanakheda Ujjain",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-nanakheda-ujjain",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -420,7 +420,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="nnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Nanakheda Ujjain Multistory Shifting" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Nanakheda Ujjain Multistory Shifting" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -458,7 +458,7 @@ $state_name = 'Madhya Pradesh';
       <p>When handling moves in modern multistory apartment complexes, our certified teams coordinate directly with society facility management to secure dedicated service elevator time slots. We install specialized corrugated elevator wall protectors and roll out protective canvas carpet runners across building entryways and corridors, preventing unsightly scuffs, floor scratches, or architectural damage during cargo conveyance.</p>
 
       <div class="nnk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Nanakheda Ujjain" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Nanakheda Ujjain" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -542,7 +542,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="nnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Nanakheda Ujjain" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Nanakheda Ujjain" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -630,7 +630,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="nnk-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Nanakheda Ujjain" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Nanakheda Ujjain" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -696,7 +696,7 @@ $state_name = 'Madhya Pradesh';
     <div class="nnk-cta-bar">
       <h3>Ready for a Seamless Move in Nanakheda Ujjain?</h3>
       <p>Connect with our expert relocation specialists today for an instant pre-move survey, transparent quotation, and complete moving support.</p>
-      <a href="tel:+919334484001" class="nnk-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="nnk-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

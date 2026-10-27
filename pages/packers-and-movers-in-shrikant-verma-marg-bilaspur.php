@@ -25,7 +25,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Shrikant Verma Marg Bilaspur",
         "description": "Premium packers and movers providing luxury high-rise apartment shifting, corporate office relocation, delicate furniture packing, and intercity vehicle transit in Shrikant Verma Marg, Bilaspur, Chhattisgarh.",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-shrikant-verma-marg-bilaspur",
-        "telephone": "+91-9334812304",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,800 - ₹36,000",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "address": {
@@ -435,7 +435,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="svb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Premium apartment and office moving in Shrikant Verma Marg Bilaspur by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Premium apartment and office moving in Shrikant Verma Marg Bilaspur by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="svb-grid-2">
             <div>
                 <div class="svb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Shrikant Verma Marg luxury apartments" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Shrikant Verma Marg luxury apartments" loading="lazy">
                 </div>
             </div>
             <div>
@@ -575,7 +575,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="svb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated closed container truck loading in Shrikant Verma Marg Bilaspur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated closed container truck loading in Shrikant Verma Marg Bilaspur" loading="lazy">
                 </div>
             </div>
         </div>
@@ -605,7 +605,7 @@ require_once __DIR__ . '/../includes/config.php';
 
         <div style="margin-top: 25px;">
             <div class="svb-image-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading operations in Shrikant Verma Marg Bilaspur by Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading operations in Shrikant Verma Marg Bilaspur by Shree Ashirwad Packers" loading="lazy">
             </div>
         </div>
     </section>
@@ -649,7 +649,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="svb-cta">
         <h2>Moving Along Shrikant Verma Marg Bilaspur?</h2>
         <p>Connect with Bilaspur’s premier high-rise and corporate shifting experts today for a free on-site survey and transparent pricing.</p>
-        <a class="svb-cta-btn" href="tel:+919334812304">Call Now: +91-9334812304</a>
+        <a class="svb-cta-btn" href="tel:+919835565233">Call Now: +91 9835565233</a>
     </section>
 
 </main>

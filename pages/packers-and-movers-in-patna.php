@@ -789,7 +789,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Furthermore, as the sister operations center of our flagship headquarters for <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--ptn-emerald); font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>, we maintain daily direct departures along the 320 km NH-22/NH-20 expressway on our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" style="color: var(--ptn-emerald); font-weight: 700; text-decoration: underline;">Ranchi to Patna packers and movers</a> and <a href="<?php echo SITE_BASE_URL; ?>/patna-to-ranchi-packers-and-movers" style="color: var(--ptn-emerald); font-weight: 700; text-decoration: underline;">Patna to Ranchi packers and movers</a> express corridor.</p>
             </div>
             <div class="ptn-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Packers and Movers in Patna closed container truck fleet" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Packers and Movers in Patna closed container truck fleet" loading="lazy">
             </div>
         </div>
     </section>
@@ -913,7 +913,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="ptn-section ptn-section-alt">
         <div class="ptn-grid-2">
             <div class="ptn-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="5-Layer robust household packing cartons in Patna" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="5-Layer robust household packing cartons in Patna" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--ptn-emerald); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Engineering Zero Damage</span>
@@ -981,7 +981,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Two-wheelers receive complete mirror removal, throttle cushioning, petrol drainage to safe levels, and are loaded in upright cushioned bays to eliminate scratches and denting throughout transit.</p>
             </div>
             <div class="ptn-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service in Patna" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service in Patna" loading="lazy">
             </div>
         </div>
     </section>
@@ -1090,7 +1090,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="ptn-section">
         <div class="ptn-grid-2">
             <div class="ptn-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional packing crew at work in Patna" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional packing crew at work in Patna" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--ptn-emerald); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">The Trusted Brand</span>

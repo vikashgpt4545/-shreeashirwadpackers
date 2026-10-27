@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kothrud
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-kothrud-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kothrud-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -156,7 +156,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kothrud
                 "name": "How do I book a home survey for my relocation in Kothrud?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Simply call our Pune team at +91 93344 04050 or submit our online inquiry form to schedule a free in-home inventory assessment and receive an itemized, transparent quotation."
+                    "text": "Simply call our Pune team at +91 9835565233 or submit our online inquiry form to schedule a free in-home inventory assessment and receive an itemized, transparent quotation."
                 }
             }
         ]
@@ -396,7 +396,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kothrud
         <h1>Packers and Movers in Kothrud Pune</h1>
         <p>Reliable household shifting, antique furniture handling, and professional packing services across Karve Road, Paud Road, Mayur Colony, Dahanukar Colony, and Chandani Chowk.</p>
         <div class="krd-btn-wrap">
-            <a href="tel:+919334404050" class="krd-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="krd-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="krd-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -417,7 +417,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kothrud
         <p>Our experienced team takes pride in providing end-to-end relocation support. We provide physical pre-move walkthroughs, supply multi-layer protective packaging, dismantle large modular furniture, navigate tight colonial society stairwells, and transport your goods safely to your new address.</p>
 
         <div class="krd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Kothrud Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Kothrud Pune">
             <p class="krd-image-caption">Professional moving crews packing, cushioning, and loading residential goods into covered container trucks in Kothrud.</p>
         </div>
 
@@ -459,7 +459,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kothrud
         </div>
 
         <div class="krd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Kothrud Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Kothrud Pune">
             <p class="krd-image-caption">Reinforced corrugated cartons, dense bubble roll padding, and stretch wrap securing delicate household items.</p>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kothrud
         </div>
 
         <div class="krd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Kothrud">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Kothrud">
             <p class="krd-image-caption">Expert carpenters dismantling and packaging large wooden beds and wardrobes for safe transit in Kothrud.</p>
         </div>
 
@@ -609,7 +609,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kothrud
         </div>
 
         <div class="krd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kothrud">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Kothrud">
             <p class="krd-image-caption">Reliable covered container vehicles delivering safe door-to-door household shifting across Kothrud.</p>
         </div>
 
@@ -678,7 +678,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kothrud
 
         <div class="krd-faq-item">
             <h3>How do I book a home survey for my relocation in Kothrud?</h3>
-            <p>Simply call our Pune team at +91 93344 04050 or submit our online inquiry form to schedule a free in-home inventory assessment and receive an itemized, transparent quotation.</p>
+            <p>Simply call our Pune team at +91 9835565233 or submit our online inquiry form to schedule a free in-home inventory assessment and receive an itemized, transparent quotation.</p>
         </div>
     </section>
 

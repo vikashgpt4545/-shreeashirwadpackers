@@ -754,7 +754,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Shree Ashirwad Packers and Movers adheres to an uncompromising <strong>zero-transshipment guarantee</strong>. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--rkz-emerald); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also manage high-frequency reciprocal return relocations on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/kozhikode-to-ranchi-packers-and-movers" style="color: var(--rkz-emerald); font-weight: 600; text-decoration: underline;">Kozhikode to Ranchi packers and movers</a> corridor with equal dedication. Your shipment is sealed inside an exclusive, locked metal container in Ranchi and unsealed only at your final address in Calicut, eliminating the danger of intermediate hub damages.</p>
             </div>
             <div class="rkz-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Kozhikode Packers and Movers container truck transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Kozhikode Packers and Movers container truck transit" loading="lazy">
             </div>
         </div>
     </section>
@@ -847,7 +847,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rkz-section rkz-section-light">
         <div class="rkz-grid-2">
             <div class="rkz-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing for Ranchi to Kozhikode moving" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing for Ranchi to Kozhikode moving" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rkz-emerald); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Robust Packaging Engineering</span>
@@ -957,7 +957,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Whether delivering to Thondayad Bypass, Mavoor Road, or Chevayur, we provide convenient doorstep drop-off, ensuring your car or bike arrives clean, scratch-free, and ready to drive.</p>
             </div>
             <div class="rkz-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Kozhikode" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Kozhikode" loading="lazy">
             </div>
         </div>
     </section>
@@ -1006,7 +1006,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rkz-section rkz-section-light">
         <div class="rkz-grid-2">
             <div class="rkz-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Kozhikode Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Kozhikode Shree Ashirwad Packers" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rkz-emerald); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Why Trust Shree Ashirwad</span>

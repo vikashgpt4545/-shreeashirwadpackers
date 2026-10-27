@@ -155,7 +155,7 @@ $meta_keywords = "latehar to ranchi packers and movers, packers and movers lateh
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -502,7 +502,7 @@ $meta_keywords = "latehar to ranchi packers and movers, packers and movers lateh
           <!-- Route Visual Card -->
           <div style="position: relative;">
             <div style="border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Latehar to Ranchi Packers and Movers Truck Loading" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Latehar to Ranchi Packers and Movers Truck Loading" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;">
               <div style="background: linear-gradient(180deg, rgba(15,34,61,0.02) 0%, rgba(15,34,61,0.95) 100%); position: absolute; bottom: 0; left: 0; right: 0; padding: 30px 24px 20px; color: #ffffff;">
                 <span style="display: inline-block; background: #ff6a28; color: #ffffff; padding: 3px 10px; border-radius: 4px; font-size: 0.75rem; font-weight: 700; margin-bottom: 6px; text-transform: uppercase;">Direct Highway Transit</span>
                 <h3 style="font-size: 1.2rem; font-weight: 700; margin: 0; color: #ffffff;">Latehar to Ranchi Dedicated Container Fleet</h3>
@@ -850,7 +850,7 @@ $meta_keywords = "latehar to ranchi packers and movers, packers and movers lateh
           
           <div>
             <div style="border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad Moving Truck Jharkhand" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad Moving Truck Jharkhand" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;">
               <div style="background: #0f223d; padding: 18px 24px; color: #ffffff;">
                 <h4 style="font-size: 1.1rem; font-weight: 700; margin: 0; color: #ffffff;">Company-Owned Metal Container Fleet</h4>
                 <p style="font-size: 0.85rem; color: #cbd5e1; margin-top: 4px; margin-bottom: 0;">GPS-enabled, waterproof, and equipped with ratchet tie-down anchor rings.</p>

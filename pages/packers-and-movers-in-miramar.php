@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Miramar",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-miramar",
     "priceRange": "₹4,200 - ₹60,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="mrm-container">
       <h1>Packers and Movers in Miramar Goa</h1>
       <p>Premium seafront apartment moving, luxury villa shifting, educational institution relocation, and pan-India container transit across Miramar, D.B. Marg, and Panaji.</p>
-      <a href="tel:+919334484001" class="mrm-hero-btn">Call +91 9334484001 for Instant Moving Quote</a>
+      <a href="tel:+919835565233" class="mrm-hero-btn">Call +91 9835565233 for Instant Moving Quote</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Miramar holds an iconic status as the premier seafront promenade, cultural heart, and upscale residential quarter of the capital city of Panaji. Flanked by the picturesque Mandovi river estuary meeting the Arabian Sea on one side, and the broad, tree-lined Dayanand Bandodkar Marg (D.B. Marg) on the other, Miramar is famous for its golden sunset beach, prestigious educational landmarks such as Dhempe College of Arts and Science and Sharada Mandir School, luxury multi-storey condominium towers, foreign consular offices, and elegant private villas. Relocating within or out of Miramar requires specialized moving techniques, strict adherence to residential society quiet hours, delicate handling of valuable sea-facing luxury home furnishings, and expertise in managing coastal climate conditions.</p>
 
       <div class="mrm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading luxury apartment goods Miramar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading luxury apartment goods Miramar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mrm-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From luxury beachfront apartments to academic transitions, our full suite of moving services delivers dependable safety and peace of mind:</p>
 
       <div class="mrm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Miramar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Miramar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mrm-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers follows a strict, time-tested operating procedure designed to eliminate stress and guarantee complete safety:</p>
 
       <div class="mrm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Miramar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Miramar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mrm-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our localized pickup teams operate across every primary residential quarter, commercial sector, and coastal avenue of Miramar:</p>
 
       <div class="mrm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Miramar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Miramar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mrm-grid-cards">

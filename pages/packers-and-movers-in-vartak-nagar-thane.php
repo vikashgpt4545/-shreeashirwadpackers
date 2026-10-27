@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-vartak-
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-vartak-nagar-thane#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-vartak-nagar-thane",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Vartak Nagar Thane</h1>
         <p>Premium residential packing, luxury apartment relocation, modular furniture assembly, and insured vehicle transport across Pokhran Road 1 & 2, Upvan Lake, Raymond Realty, and Shastri Nagar with zero transit stress.</p>
         <div class="vkn-btn-wrap">
-            <a href="tel:+919334404050" class="vkn-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vkn-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vkn-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of relocation mastery directly to Vartak Nagar. Shifting in this scenic hillside suburb presents distinctive requirements: navigating steep society driveways, adhering to strict gated township moving hours, and managing service elevator bookings in 30-plus-story towers. Our crews arrive fully equipped with heavy-duty furniture sliders, rubberized floor protection runners, and enclosed, weatherproof container vehicles.</p>
 
         <div class="vkn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers truck loading in Vartak Nagar Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers truck loading in Vartak Nagar Thane" width="580" height="387" loading="lazy">
             <p class="vkn-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Vartak Nagar Thane.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vkn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Vartak Nagar Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Vartak Nagar Thane" width="580" height="387" loading="lazy">
             <p class="vkn-image-caption">Multi-layer protective bubble wrap rolls and heavy-gauge corrugated boxes engineered for high-rise apartment shifting in Vartak Nagar.</p>
         </div>
 
@@ -619,7 +619,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vkn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Vartak Nagar Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Vartak Nagar Thane" width="580" height="387" loading="lazy">
             <p class="vkn-image-caption">Carpentry technicians systematically dismantling and wrapping modular furniture panels prior to loading in Vartak Nagar.</p>
         </div>
 
@@ -667,7 +667,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vkn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Vartak Nagar Thane relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Vartak Nagar Thane relocation" width="580" height="387" loading="lazy">
             <p class="vkn-image-caption">Dedicated enclosed moving vehicle stationed for on-time residential shifting in a Vartak Nagar apartment complex.</p>
         </div>
 
@@ -742,7 +742,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="vkn-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Planning a Move in or out of Vartak Nagar?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Reach out to our moving specialists today for an obligation-free doorstep quotation and seamless relocation coordination.</p>
-            <a href="tel:+919334404050" class="vkn-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vkn-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

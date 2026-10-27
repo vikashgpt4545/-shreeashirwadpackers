@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Pattom Thiruvananthapuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-pattom-thiruvananthapuram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -434,7 +434,7 @@
       </div>
       <div>
         <div class="patm-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading family goods in Pattom Thiruvananthapuram" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading family goods in Pattom Thiruvananthapuram" width="580" height="380" loading="lazy">
         </div>
       </div>
     </div>
@@ -471,7 +471,7 @@
     </div>
 
     <div class="patm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Bubble wrap and stretch film protection for dining tables and wooden cots in Pattom" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Bubble wrap and stretch film protection for dining tables and wooden cots in Pattom" width="580" height="380" loading="lazy">
     </div>
 
     <p>Our packaging materials are strictly virgin grade, ensuring clean, scent-free, and dust-resistant packing that keeps all garments, linen, crockery, and sensitive documents in pristine condition throughout the journey.</p>
@@ -563,7 +563,7 @@
     </table>
 
     <div class="patm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packing computers, monitors, and official documents in Pattom Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packing computers, monitors, and official documents in Pattom Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
 
     <p>Every standard estimate includes premium bubble wrap, stretch film, heavy-duty cartons, packing tape, skilled loaders, dedicated transportation in closed-body container trucks, and unloading at your destination.</p>
@@ -665,7 +665,7 @@
     </ol>
 
     <div class="patm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Pattom Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for secure all-weather furniture transit in Pattom Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
   </section>
 

@@ -493,7 +493,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
                     <p>Our dedicated moving team handles all aspects: carefully dismantling wooden furniture in Dhanbad, packing china and electronics with shock-resistant cushioning, loading securely into closed container vehicles, and unloading into your designated rooms in Bagodar—all completed comfortably within the same day.</p>
                 </div>
                 <div class="dhn2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing and container loading in Dhanbad for Bagodar move" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing and container loading in Dhanbad for Bagodar move" loading="lazy">
                 </div>
             </div>
         </div>
@@ -550,7 +550,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
         <div class="dhn2bag-container">
             <div class="dhn2bag-two-col">
                 <div class="dhn2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials for household goods" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials for household goods" loading="lazy">
                 </div>
                 <div>
                     <h2 class="dhn2bag-section-title" style="text-align: left;">Engineered 5-Layer Packaging for Fragile &amp; Heavy Cargo</h2>
@@ -647,7 +647,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
                     <p>Our transport crews maintain dedicated transit logs throughout the journey from Dhanbad to Bagodar, ensuring zero jolts to your automobile or crated household cargo.</p>
                 </div>
                 <div class="dhn2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
                 </div>
             </div>
         </div>
@@ -658,7 +658,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
         <div class="dhn2bag-container">
             <div class="dhn2bag-two-col">
                 <div class="dhn2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
                 </div>
                 <div>
                     <h2 class="dhn2bag-section-title" style="text-align: left;">Corporate, BCCL &amp; Academic Transfer Expertise</h2>

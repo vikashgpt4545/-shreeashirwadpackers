@@ -713,7 +713,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <div class="row align-items-center mb-4">
                 <div class="col-lg-6">
                     <div class="img-featured-container">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck carrying household goods between Chakradharpur and Saraikela" width="550" height="290" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck carrying household goods between Chakradharpur and Saraikela" width="550" height="290" loading="lazy">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -826,7 +826,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <div class="row align-items-center mb-4">
                 <div class="col-lg-6 order-lg-2">
                     <div class="img-featured-container">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances wrapped in protective bubble film for relocation" width="550" height="290" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances wrapped in protective bubble film for relocation" width="550" height="290" loading="lazy">
                     </div>
                 </div>
                 <div class="col-lg-6 order-lg-1">
@@ -922,10 +922,10 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <div class="col-lg-6">
                     <div class="img-featured-container mb-4">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler and motorcycle packing and carrier service" width="550" height="290" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler and motorcycle packing and carrier service" width="550" height="290" loading="lazy">
                     </div>
                     <div class="img-featured-container">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading and cargo securing in Jharkhand" width="550" height="290" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading and cargo securing in Jharkhand" width="550" height="290" loading="lazy">
                     </div>
                 </div>
             </div>

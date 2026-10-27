@@ -567,7 +567,7 @@
             </div>
             <div>
                 <div class="dum-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Dum Dum Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Dum Dum Kolkata" width="580" height="380">
                     <div class="dum-image-caption">Professional loading of household consignments using secure ramp systems in Dum Dum Kolkata.</div>
                 </div>
             </div>
@@ -697,7 +697,7 @@
             </div>
             <div>
                 <div class="dum-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging for household fragile goods in Dum Dum Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging for household fragile goods in Dum Dum Kolkata" width="580" height="380">
                     <div class="dum-image-caption">Multi-layer bubble wrap protection and heavy-duty corrugated cartons for Dum Dum homes.</div>
                 </div>
             </div>
@@ -761,7 +761,7 @@
             </div>
             <div>
                 <div class="dum-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing by skilled carpenters in Dum Dum Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed packing by skilled carpenters in Dum Dum Kolkata" width="580" height="380">
                     <div class="dum-image-caption">Carpentry technicians safely dismantling wooden double beds and wardrobes in Dum Dum.</div>
                 </div>
             </div>
@@ -813,7 +813,7 @@
             </div>
             <div>
                 <div class="dum-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed body delivery truck providing door to door shifting in Dum Dum Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed body delivery truck providing door to door shifting in Dum Dum Kolkata" width="580" height="380">
                     <div class="dum-image-caption">Weather-sealed container truck delivering door-to-door relocation consignments in Dum Dum.</div>
                 </div>
             </div>

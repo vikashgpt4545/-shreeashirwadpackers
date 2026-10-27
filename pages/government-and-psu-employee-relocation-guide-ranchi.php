@@ -106,7 +106,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -448,7 +448,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- First Verified Image: Constrained as required -->
   <div style="text-align: center; margin: 0 auto 35px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Government and PSU Employee Relocation Guide Ranchi - Official Moving Fleet" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Government and PSU Employee Relocation Guide Ranchi - Official Moving Fleet" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Official closed container loading and computerized weighbridge compliance conducted by Shree Ashirwad Packers and Movers in Ranchi.</p>
   </div>
 
@@ -635,7 +635,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3>Transferring from Ranchi? Secure 100% Reimbursement Clearance!</h3>
     <p>Partner with Jharkhand's premier IBA-approved moving agency. Complete audit-ready documentation, weighbridge slips, and guaranteed zero rejection.</p>
     <a href="tel:+918409531615" class="cta-btn-green">📞 PSU Relocation Desk: +91 8409531615</a>
-    <p style="font-size: 0.9rem; margin-top: 15px; color: #ecf39e;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834001</p>
+    <p style="font-size: 0.9rem; margin-top: 15px; color: #ecf39e;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</p>
   </div>
 
   <!-- Cluster Internal Linking Grid -->

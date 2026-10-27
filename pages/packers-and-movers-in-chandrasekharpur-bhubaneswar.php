@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chandrasekharpur-bhubaneswar#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chandrasekharpur-bhubaneswar",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -511,7 +511,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="csp-body-p">At Shree Ashirwad Packers and Movers, we take immense pride in delivering top-tier relocation services across Chandrasekharpur. Whether you are transitioning to a newly purchased flat in Sailashree Vihar, executing an official PSU officer transfer from Nalco Nagar, or relocating corporate branch offices near Damana, our background-verified moving specialists guarantee an effortless experience. Working in sync with our state capital authority at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Packers and Movers in Bhubaneswar</a>, neighboring tech cluster at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patia-bhubaneswar">Packers and Movers in Patia Bhubaneswar</a>, and corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we provide unmatched pan-India moving security.</p>
 
                 <div class="csp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Chandrasekharpur Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Chandrasekharpur Bhubaneswar">
                     <div class="csp-image-caption">Systematic loading of palletized cartons and heavy appliances in Chandrasekharpur.</div>
                 </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="csp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for household items in Chandrasekharpur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap packaging for household items in Chandrasekharpur">
                     <div class="csp-image-caption">5-layer heavy bubble wrap and edge guard protection for fragile household goods in Chandrasekharpur.</div>
                 </div>
 
@@ -676,7 +676,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="csp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Chandrasekharpur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Chandrasekharpur">
                     <div class="csp-image-caption">Professional furniture dismantling, hardware tagging, and protective wrapping in Chandrasekharpur.</div>
                 </div>
 
@@ -710,7 +710,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="csp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Chandrasekharpur Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Chandrasekharpur Bhubaneswar">
                     <div class="csp-image-caption">Dedicated closed-body container truck arriving for doorstep delivery in Chandrasekharpur.</div>
                 </div>
 
@@ -766,7 +766,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Damana Square, Chandrasekharpur, Bhubaneswar</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="csp-cta-button">Request Free Moving Quote</a>

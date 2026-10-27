@@ -544,7 +544,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Throughout Action Area 2, our services span City Centre 2, Eco Park enclaves, Akanksha, Finance Centre, and major residential societies along the Major Arterial Road (MAR). In Action Area 3, we manage relocations across iconic mega-townships including Uniworld City (Air, Cascades, Harmony, Horizons), Shapoorji Pallonji Sukhobrishti, Tata Eden Court, Elita Garden Vista, and Rosedale Garden. We also maintain seamless daily transit connecting Rajarhat with Salt Lake (Sector 5), Kestopur, VIP Road, and South Kolkata.</p>
 
         <div class="rjrk-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Rajarhat New Town Kolkata" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Rajarhat New Town Kolkata" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our transport coordinators strategically schedule vehicle dispatches to circumvent traffic snarls at Chinar Park crossing, Kaikhali junction, and the Ultadanga flyover. By utilizing the Belghoria Expressway and securing advance society permissions, we ensure swift, punctual moves with zero roadside delays.</p>
@@ -600,7 +600,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rjrk-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Rajarhat Kolkata to Ranchi, Patna and pan-India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Rajarhat Kolkata to Ranchi, Patna and pan-India" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -636,7 +636,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rjrk-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Rajarhat Kolkata" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Rajarhat Kolkata" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -707,7 +707,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="rjrk-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Rajarhat Kolkata" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Rajarhat Kolkata" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad in Rajarhat-New Town -->

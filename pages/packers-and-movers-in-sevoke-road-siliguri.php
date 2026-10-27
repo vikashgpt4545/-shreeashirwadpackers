@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sevoke-road-siliguri#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sevoke-road-siliguri",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹59,000",
         "address": {
             "@type": "PostalAddress",
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="svr-body-p">At Shree Ashirwad Packers and Movers, we have catered to corporate executives, business proprietors, showroom managers, and affluent families along Sevoke Road for over sixteen years. Whether you are moving into a luxury penthouse near Checkpost, shifting an electronics showroom inventory, or dispatching household effects to southern and western India, our experienced moving crews deliver exceptional service. Operating in close coordination with our central hub via <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-siliguri">Packers and Movers in Siliguri</a> and modern townships through <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-matigara-siliguri">Packers and Movers in Matigara Siliguri</a>, we offer unmatched relocation reliability.</p>
 
                 <div class="svr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck on Sevoke Road Siliguri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck on Sevoke Road Siliguri">
                     <div class="svr-image-caption">Careful loading of palletized cartons and furniture along Sevoke Road, Siliguri.</div>
                 </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="svr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials on Sevoke Road Siliguri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging materials on Sevoke Road Siliguri">
                     <div class="svr-image-caption">Multi-layered protective bubble wrap and heavy corrugated sheets used on Sevoke Road.</div>
                 </div>
 
@@ -590,7 +590,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="svr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly on Sevoke Road Siliguri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and reassembly on Sevoke Road Siliguri">
                     <div class="svr-image-caption">Expert furniture dismantling and protective padding carried out on Sevoke Road.</div>
                 </div>
 
@@ -694,7 +694,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="svr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck on Sevoke Road Siliguri">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck on Sevoke Road Siliguri">
                     <div class="svr-image-caption">Dedicated door-to-door closed carrier truck operating along Sevoke Road, Siliguri.</div>
                 </div>
 
@@ -751,7 +751,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Opposite Planet Mall, Checkpost, Sevoke Road</li>
                     <li><strong>Service Hours:</strong> 6:30 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="svr-cta-button">Request Free Moving Quote</a>

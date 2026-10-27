@@ -651,7 +651,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/kolkata-to-bokaro-packers
                 </div>
                 <div>
                     <div class="k2bko-image-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated linehaul container truck transporting household goods from Kolkata to Bokaro Steel City" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated linehaul container truck transporting household goods from Kolkata to Bokaro Steel City" loading="lazy">
                         <div class="k2bko-image-caption">Dedicated GPS-monitored sealed container trucks operating daily on the Kolkata-Bokaro NH-19 corridor.</div>
                     </div>
                 </div>
@@ -761,7 +761,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/kolkata-to-bokaro-packers
             <div class="k2bko-grid-2">
                 <div>
                     <div class="k2bko-image-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer multi-tier household protective packaging for Kolkata to Bokaro shifting" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer multi-tier household protective packaging for Kolkata to Bokaro shifting" loading="lazy">
                         <div class="k2bko-image-caption">Multi-layer protective packaging engineered for delicate glassware, electronics, and solid wood furniture.</div>
                     </div>
                 </div>
@@ -806,7 +806,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/kolkata-to-bokaro-packers
                 </div>
                 <div>
                     <div class="k2bko-image-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile loading on specialized hydraulic car carrier for transport to Bokaro" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile loading on specialized hydraulic car carrier for transport to Bokaro" loading="lazy">
                         <div class="k2bko-image-caption">Professional enclosed hydraulic carrier loading protecting your car from highway road debris and stone chips.</div>
                     </div>
                 </div>
@@ -879,7 +879,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/kolkata-to-bokaro-packers
                 </div>
                 <div>
                     <div class="k2bko-image-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and room arrangement services in Bokaro Steel City" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and room arrangement services in Bokaro Steel City" loading="lazy">
                         <div class="k2bko-image-caption">Comprehensive doorstep unpacking, furniture reassembly, and debris removal at your destination residence.</div>
                     </div>
                 </div>

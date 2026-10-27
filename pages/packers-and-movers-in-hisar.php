@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Hisar",
     "image": "https://shreeashirwadpackers.com/images/professional-loading-crew-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-hisar",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -460,7 +460,7 @@
       </div>
       <div>
         <div class="hsr-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Hisar Haryana" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Hisar Haryana" width="580" height="386" loading="lazy">
           <p class="hsr-image-caption">Trained loading crew executing systematic cargo handling in Hisar Haryana.</p>
         </div>
       </div>
@@ -556,7 +556,7 @@
       </div>
     </div>
     <div class="hsr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics LED TV crating in Hisar Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics LED TV crating in Hisar Haryana" width="580" height="386" loading="lazy">
       <p class="hsr-image-caption">Reinforced wooden crating and bubble protection for delicate electronics in Hisar.</p>
     </div>
   </section>
@@ -592,7 +592,7 @@
       </div>
     </div>
     <div class="hsr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Hisar Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Hisar Haryana" width="580" height="386" loading="lazy">
       <p class="hsr-image-caption">Systematic truck stacking and cargo securing by Shree Ashirwad's trained moving crew in Hisar.</p>
     </div>
   </section>
@@ -628,7 +628,7 @@
       </div>
     </div>
     <div class="hsr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Hisar Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck transit in Hisar Haryana" width="580" height="386" loading="lazy">
       <p class="hsr-image-caption">All-weather container trucks providing reliable, dust-free highway transit for Hisar households.</p>
     </div>
   </section>

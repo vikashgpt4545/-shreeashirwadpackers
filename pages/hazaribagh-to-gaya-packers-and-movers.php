@@ -662,7 +662,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-gaya-packer
                 <p>With an express driving time of only 2.5 to 3 hours, our moving crew can begin packing your Hazaribagh residence in the morning and have your beds, wardrobes, and appliances arranged at your Gaya address before evening.</p>
             </div>
             <div class="h2gay-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Hazaribagh to Gaya" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Hazaribagh to Gaya" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -734,7 +734,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-gaya-packer
     <div class="h2gay-container">
         <div class="h2gay-grid-2col">
             <div class="h2gay-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Gaya move" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Hazaribagh to Gaya move" loading="lazy" width="600" height="400">
             </div>
             <div class="h2gay-content-box">
                 <span class="h2gay-tag">Packaging Precision</span>
@@ -765,7 +765,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-gaya-packer
                 <p>For sedans, hatchbacks, and SUVs, our car carrier services include photographic pre-loading inspections, four-wheel locking chocks, and comprehensive transit insurance cover. We offer doorstep pickup in Hazaribagh and direct delivery to your Gaya residence.</p>
             </div>
             <div class="h2gay-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for transit from Hazaribagh to Gaya" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading personal car for transit from Hazaribagh to Gaya" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-gaya-packer
     <div class="h2gay-container">
         <div class="h2gay-grid-2col">
             <div class="h2gay-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Gaya residence" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Gaya residence" loading="lazy" width="600" height="400">
             </div>
             <div class="h2gay-content-box">
                 <span class="h2gay-tag">Full-Service Guarantee</span>

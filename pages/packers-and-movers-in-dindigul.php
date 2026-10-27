@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dindigul";
         "name": "Shree Ashirwad Packers and Movers Dindigul",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dindigul";
         <p>Relocating in Dindigul calls for versatile, highly experienced logistics coordination. Managing residential transitions across bustling urban avenues like GTN Salai, Mengles Road, Round Road, and Spencer Compound requires nimble transport and disciplined crew conduct. Simultaneously, handling long-distance household transfers ascending the twisting ghat roads of Kodaikanal or transporting industrial cargo for leather tanneries demands weather-sealed container trucks and specialized tie-down equipment. Shree Ashirwad Packers and Movers brings more than 13 years of localized competence, delivering dependable, zero-damage relocations for families and enterprises alike.</p>
 
         <div class="dgl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Dindigul Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Dindigul Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="dgl-image-caption">Professional household loading and apartment shifting operations in Dindigul.</div>
         </div>
 
@@ -583,7 +583,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dindigul";
         </div>
 
         <div class="dgl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Dindigul Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Dindigul Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="dgl-image-caption">Corporate office equipment and commercial apparatus relocation by Shree Ashirwad in Dindigul.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dindigul";
         <p>Our expert moving crews utilize a four-layer defensive packing system. Polished teak and rosewood furniture are first padded with breathable soft cotton quilts, wrapped in high-density air bubble wrap, reinforced with thick corrugated corner edge boards, and enveloped in tear-resistant stretch wrap. This protects against scratches, humidity fluctuations, and highway transit vibrations.</p>
 
         <div class="dgl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Dindigul Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Dindigul Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="dgl-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Dindigul.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dindigul";
         </ol>
 
         <div class="dgl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Dindigul Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Dindigul Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="dgl-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Dindigul corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-dindigul";
     <div class="dgl-cta-box">
         <h3>Move Safely in Dindigul with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero surprise costs. Licensed, fully insured moving specialists ready to assist your household or office relocation today.</p>
-        <a href="tel:+919334404050" class="dgl-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="dgl-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

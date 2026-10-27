@@ -15,8 +15,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Unpack After Moving: Room-by-Room Guide | Call 9708579999</title>
-    <meta name="description" content="Master guide on how to unpack after moving home in Ranchi. Call 9708579999 for room-by-room unpacking plans, furniture assembly, rates & free quote.">
+    <title>How to Unpack After Moving: Room-by-Room Guide | Call 9835565233</title>
+    <meta name="description" content="Master guide on how to unpack after moving home in Ranchi. Call 9835565233 for room-by-room unpacking plans, furniture assembly, rates & free quote.">
     <meta name="keywords" content="how to unpack after moving, unpacking after house shifting ranchi, room by room unpacking priority, furniture reassembly movers ranchi, unpacking service ranchi, house setup service ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/how-to-unpack-after-moving">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/how-to-unpack-after-moving",
-        "telephone": "+91-9708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -227,8 +227,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>How to Unpack After Moving: Room-by-Room Priority System</h1>
                 <p>The truck is unloaded, dozens of brown cardboard cartons are stacked inside, and exhaustion sets in. Don't let moving fatigue paralyze you. Discover the proven room-by-room unpacking framework that gets your new Ranchi home functioning within 48 hours.</p>
                 <div class="huam-cta-group">
-                    <a href="tel:+919708579999" class="huam-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20unpacking%20services%20and%20a%20quote%20for%20Ranchi" class="huam-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
+                    <a href="tel:+919835565233" class="huam-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20unpacking%20services%20and%20a%20quote%20for%20Ranchi" class="huam-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -248,7 +248,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="huam-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in newly shifted Ranchi residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in newly shifted Ranchi residence" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -327,7 +327,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Room-Wise Box Staging in Ranchi High-Rise Societies</h2>
                 <div class="huam-grid-2">
                     <div class="huam-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment relocation in Ranchi with dedicated service elevator transit" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment relocation in Ranchi with dedicated service elevator transit" loading="lazy">
                     </div>
                     <div>
                         <h3>The Golden Rule of Box Placement: Zone Staging</h3>
@@ -356,7 +356,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="huam-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery being unpacked and organized in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery being unpacked and organized in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -366,7 +366,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Technical Furniture Assembly & Power Tool Fitment</h2>
                 <div class="huam-grid-2">
                     <div class="huam-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled carpenter assembling hydraulic double bed frame with electric power tools in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled carpenter assembling hydraulic double bed frame with electric power tools in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Modern modular furniture relies on precision cam-locks, dowel pins, and hydraulic gas-lift struts that cannot be reassembled with basic manual screwdrivers. Misaligning bed frame corners causes squeaking joints and structural instability.</p>

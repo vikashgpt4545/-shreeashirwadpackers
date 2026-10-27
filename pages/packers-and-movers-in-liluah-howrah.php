@@ -284,7 +284,7 @@
         "name": "Shree Ashirwad Packers and Movers Liluah Howrah",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-liluah-howrah",
-        "telephone": "+91 9334812300",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -508,7 +508,7 @@
 
     <!-- Visual Image 1 -->
     <div class="llh-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household relocation goods loaded safely in Liluah Howrah container truck">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household relocation goods loaded safely in Liluah Howrah container truck">
         <div class="llh-img-caption">Figure 1: Dedicated containerized loading operations for residential and commercial relocations across Liluah.</div>
     </div>
 
@@ -556,7 +556,7 @@
 
     <!-- Visual Image 2 -->
     <div class="llh-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Professional bubble wrap and carton packaging for fragile domestic goods in Liluah">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Professional bubble wrap and carton packaging for fragile domestic goods in Liluah">
         <div class="llh-img-caption">Figure 2: Multi-layer protective packaging for glassware, ceramics, home appliances, and sensitive electronics.</div>
     </div>
 
@@ -609,7 +609,7 @@
 
     <!-- Visual Image 3 -->
     <div class="llh-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Technicians safely dismantling wooden furniture for damage-free moving in Liluah">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Technicians safely dismantling wooden furniture for damage-free moving in Liluah">
         <div class="llh-img-caption">Figure 3: Precision furniture dismantling by experienced technicians ensures safety through tight staircases.</div>
     </div>
 
@@ -681,7 +681,7 @@
 
     <!-- Visual Image 4 -->
     <div class="llh-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
         <div class="llh-img-caption">Figure 4: Punctual door-to-door delivery and room placement service conducted by our trained handling staff.</div>
     </div>
 

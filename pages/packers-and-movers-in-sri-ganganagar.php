@@ -31,7 +31,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sri-ganganagar";
         "name": "Shree Ashirwad Packers and Movers Sri Ganganagar",
         "description": "Licensed and certified packers and movers in Sri Ganganagar providing domestic home shifting, cotton and agro-industrial freight transport, vehicle carrier services, and intercity relocations across India.",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "address": {
             "@type": "PostalAddress",
@@ -436,7 +436,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sri-ganganagar";
         </div>
         <div>
             <div class="sgn-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Sri Ganganagar by Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Sri Ganganagar by Shree Ashirwad Packers" loading="lazy">
             </div>
         </div>
     </section>
@@ -479,7 +479,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sri-ganganagar";
     <section class="sgn-grid-2">
         <div>
             <div class="sgn-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew handling furniture in Sri Ganganagar" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew handling furniture in Sri Ganganagar" loading="lazy">
             </div>
         </div>
         <div>
@@ -598,7 +598,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sri-ganganagar";
         </div>
         <div>
             <div class="sgn-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile item packing with specialized cushioning in Sri Ganganagar" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile item packing with specialized cushioning in Sri Ganganagar" loading="lazy">
             </div>
         </div>
     </section>
@@ -607,7 +607,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sri-ganganagar";
     <section class="sgn-grid-2">
         <div>
             <div class="sgn-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Fleet loading operations by Shree Ashirwad Packers in Sri Ganganagar" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Fleet loading operations by Shree Ashirwad Packers in Sri Ganganagar" loading="lazy">
             </div>
         </div>
         <div>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-sri-ganganagar";
     <section class="sgn-cta-banner">
         <h2>Planning a Move in or Out of Sri Ganganagar?</h2>
         <p>Get a guaranteed fixed-price estimate with free doorstep survey and premium 5-layer protective packing support.</p>
-        <a href="tel:+919334812328" class="sgn-cta-btn">Call +91-9334812328 for Free Instant Quote</a>
+        <a href="tel:+919835565233" class="sgn-cta-btn">Call +91 9835565233 for Free Instant Quote</a>
     </section>
 
 </main>

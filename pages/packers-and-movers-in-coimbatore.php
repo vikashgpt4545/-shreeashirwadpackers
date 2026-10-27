@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-coimbatore";
         "name": "Shree Ashirwad Packers and Movers Coimbatore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹65,000",
         "address": {
             "@type": "PostalAddress",
@@ -538,7 +538,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-coimbatore";
         <p>In recent years, Coimbatore has transformed into a high-technology epicenter anchored by TIDEL Park Coimbatore on Avinashi Road, CHIL SEZ in Saravanampatti, and emerging software clusters along Trichy Road. This rich blend of traditional manufacturing foundries, technology campuses, and affluent residential neighborhoods like RS Puram, Race Course, and Saibaba Colony demands an exceptionally versatile relocation partner. Shree Ashirwad Packers and Movers brings comprehensive logistical infrastructure capable of transporting heavy industrial tooling while delivering white-glove protection for luxury residential villas.</p>
 
         <div class="cbe-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household goods packing in Coimbatore Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household goods packing in Coimbatore Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="cbe-image-caption">Standardized multi-layer protective packaging for residential home moves across Coimbatore.</div>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-coimbatore";
         </div>
 
         <div class="cbe-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy textile machinery and engineering shifting in Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy textile machinery and engineering shifting in Coimbatore" width="580" height="387" loading="lazy">
             <div class="cbe-image-caption">Industrial rigging and heavy engineering machinery shifting in Coimbatore.</div>
         </div>
 
@@ -591,7 +591,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-coimbatore";
         <p>Our residential moving crews follow an exacting five-stage packing protocol. We cushion wooden wardrobes, dining tables, and sofa sets with heavy quilted moving blankets, multi-layer air bubble wrap, and moisture-resistant stretch film to prevent scuffs or moisture absorption during transit.</p>
 
         <div class="cbe-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Coimbatore" width="580" height="387" loading="lazy">
             <div class="cbe-image-caption">Multi-tier bubble cushioning and stretch film wrapping for solid wood furniture in Coimbatore.</div>
         </div>
 
@@ -717,7 +717,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-coimbatore";
         </ol>
 
         <div class="cbe-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck on Avinashi Road Coimbatore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck on Avinashi Road Coimbatore" width="580" height="387" loading="lazy">
             <div class="cbe-image-caption">Weatherproof sealed container carriers engineered for safe transit across Coimbatore corridors.</div>
         </div>
     </section>
@@ -774,7 +774,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-coimbatore";
     <div class="cbe-cta-box">
         <h3>Book Your Coimbatore Move with Trusted Specialists</h3>
         <p>Get a guaranteed fixed-price quote with zero surprise charges. Fully insured, certified packing specialists ready to move your household or factory today.</p>
-        <a href="tel:+919334404050" class="cbe-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="cbe-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

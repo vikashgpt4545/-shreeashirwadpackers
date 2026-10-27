@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Bangalore to Pune specializing in household shifting, IT office relocations, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹5,000 - ₹62,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 840 km interstate expanse between Bangalore, Karnataka and Pune, Maharashtra represents one of India's most vibrant technology corridors. Whether transferring your tech career from Electronic City, Whitefield, or Bellandur to Pune's Hinjewadi Infotech Park or Magarpatta Cybercity, moving your family household across state borders requires meticulous planning and industrial-grade logistics execution.</p>
     
     <div class="bgp-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Bangalore to Pune transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Bangalore to Pune transit" loading="lazy">
       <div class="bgp-img-caption">Sealed container fleets guaranteeing weatherproof transit from Bangalore to Pune along NH48.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>The 840 km Golden Quadrilateral corridor involves high cruising speeds and varying terrain gradients across the Western Ghats approaches near Kolhapur and Satara. To prevent vibration-induced scuffs or structural loosening, we enforce a stringent 4-layer packaging standard.</p>
 
     <div class="bgp-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and protective wrapping for long distance move" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and protective wrapping for long distance move" loading="lazy">
       <div class="bgp-img-caption">Modular furniture unbolting and protective wrapping ensuring zero transit scratches.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal vehicle across 840 km of national highways can lead to extreme driver exhaustion, mechanical wear, and exposure to highway gravel chips. Our dedicated vehicle shipping services provide a secure, stress-free alternative.</p>
 
     <div class="bgp-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and LED TV secure crating for interstate relocation" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and LED TV secure crating for interstate relocation" loading="lazy">
       <div class="bgp-img-caption">Specialized shock-dampening crating for flat screens, audio equipment, and sensitive electronics.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="bgp-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading and delivery in high-rise society" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading and delivery in high-rise society" loading="lazy">
       <div class="bgp-img-caption">Specialized equipment and handling for high-rise gated communities in Bangalore and Pune.</div>
     </div>
   </section>

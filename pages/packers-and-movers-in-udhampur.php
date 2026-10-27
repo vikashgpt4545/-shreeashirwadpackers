@@ -337,7 +337,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-udhampur';
         <p>Whether you are an armed forces officer posted to a new cantonment, a healthcare specialist at the Command Hospital, a manufacturing enterprise in Battal Ballian Industrial Area, or a family relocating inter-state to Delhi, Punjab, or our pan-India headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our experienced teams manage every aspect of packing, transit, and unpacking with military precision.</p>
 
         <div class="udp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing by Packers and Movers in Udhampur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing by Packers and Movers in Udhampur">
             <div class="udp-caption">Multi-layer protective packing for furniture, appliances, and fragile chinaware in Udhampur</div>
         </div>
 
@@ -359,7 +359,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-udhampur';
         </ul>
 
         <div class="udp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and computer packaging in Udhampur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and computer packaging in Udhampur">
             <div class="udp-caption">High-grade anti-static packing for administrative computers, delicate instruments, and laboratory equipment</div>
         </div>
     </section>
@@ -402,7 +402,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-udhampur';
         </ul>
 
         <div class="udp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container logistics truck in Udhampur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container logistics truck in Udhampur">
             <div class="udp-caption">Heavy-duty weather-sealed container trucks designed for hill highways and national highway routes</div>
         </div>
     </section>
@@ -530,7 +530,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-udhampur';
         </div>
 
         <div class="udp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room setup in Udhampur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and room setup in Udhampur">
             <div class="udp-caption">Careful unloading, furniture reassembly, and systematic setup at destination residence in Udhampur</div>
         </div>
     </section>
@@ -625,7 +625,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-udhampur';
     "name": "Shree Ashirwad Packers and Movers Udhampur",
     "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9334812297",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹43,000",
     "address": {
         "@type": "PostalAddress",

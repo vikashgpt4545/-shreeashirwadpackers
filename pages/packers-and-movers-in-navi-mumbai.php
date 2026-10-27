@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-navi-mu
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-navi-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-navi-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Navi Mumbai</h1>
         <p>Premier residential packing, planned township apartment relocation, corporate office shifting, and insured vehicle transport across Vashi, Nerul, Kharghar, Belapur, and Panvel with 100% damage-free assurance.</p>
         <div class="nvm-btn-wrap">
-            <a href="tel:+919334404050" class="nvm-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="nvm-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="nvm-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of relocation mastery directly to Navi Mumbai's residential and commercial community. Relocating across planned nodal sectors requires a partner who respects strict society moving regulations, understands basement loading clearance limits, and navigates inter-nodal express corridors with clockwork efficiency. Our crews arrive with heavy-duty furniture dollies, protective floor runners, and weatherproof container vehicles.</p>
 
         <div class="nvm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="nvm-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Navi Mumbai.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="nvm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="nvm-image-caption">Multi-layer protective bubble wrap rolls and heavy-gauge corrugated boxes engineered for apartment shifting in Navi Mumbai.</p>
         </div>
 
@@ -619,7 +619,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="nvm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="nvm-image-caption">Carpentry technicians systematically dismantling and wrapping modular furniture panels prior to loading in Navi Mumbai.</p>
         </div>
 
@@ -667,7 +667,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="nvm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Navi Mumbai relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Navi Mumbai relocation" width="580" height="387" loading="lazy">
             <p class="nvm-image-caption">Dedicated enclosed moving vehicle stationed for on-time residential shifting in a Navi Mumbai apartment complex.</p>
         </div>
 
@@ -742,7 +742,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="nvm-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Planning a Move in or out of Navi Mumbai?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Reach out to our moving specialists today for an obligation-free doorstep quotation and seamless relocation coordination.</p>
-            <a href="tel:+919334404050" class="nvm-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="nvm-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

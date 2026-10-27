@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
         "name": "Shree Ashirwad Packers and Movers - Consignment Tracking Desk",
         "image": "https://shreeashirwadpackers.com/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "Free Tracking Utility",
         "address": {
             "@type": "PostalAddress",
@@ -120,7 +120,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
                 "name": "What should I do if my tracking status shows no updates?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "If your vehicle is traversing remote highway sections with temporary cellular blind spots, updates may pause briefly. You can call our 24/7 dedicated control room at +91 9334812833 for direct driver radio coordinates."
+                    "text": "If your vehicle is traversing remote highway sections with temporary cellular blind spots, updates may pause briefly. You can call our 24/7 dedicated control room at +91 9835565233 for direct driver radio coordinates."
                 }
             },
             {
@@ -498,7 +498,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
                 <div style="margin-top: 20px; font-size: 0.92rem; color: #334155; line-height: 1.6;">
                     <p><strong>Origin Hub:</strong> Ranchi Central Logistics Yard | <strong>Destination:</strong> Scheduled Doorstep Delivery</p>
                     <p><strong>Last GPS Ping:</strong> Vehicle moving smoothly along national highway corridor. Expected delivery within scheduled window.</p>
-                    <p style="margin-bottom: 0;"><strong>Direct Helpline:</strong> Call our 24/7 central desk at <a href="tel:+919334812833" style="color: #0984e3; font-weight: 700;">+91 9334812833</a> for immediate coordinator contact.</p>
+                    <p style="margin-bottom: 0;"><strong>Direct Helpline:</strong> Call our 24/7 central desk at <a href="tel:+919835565233" style="color: #0984e3; font-weight: 700;">+91 9835565233</a> for immediate coordinator contact.</p>
                 </div>
             </div>
         </div>
@@ -523,7 +523,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
             </div>
             <div>
                 <div class="trk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="GPS enabled verified moving truck for Shree Ashirwad Packers" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="GPS enabled verified moving truck for Shree Ashirwad Packers" width="580" height="387">
                     <div class="trk-caption">GPS-monitored verified container fleet tracking 24/7 across India</div>
                 </div>
             </div>
@@ -555,14 +555,14 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
         <!-- Section 3: Tracking Helpline & Operational Support -->
         <div class="trk-highlight-box">
             <h4>Prefer Direct Human Assistance Over Digital Tracking?</h4>
-            <p>Our dedicated customer support managers are available 24/7 to give you verbal status updates. Call our helpline at <a href="tel:+919334812833"><strong>+91 9334812833</strong></a> or email us with your LR number. You can also calculate standard transit charges on our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a> or consult the <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Guide</a>.</p>
+            <p>Our dedicated customer support managers are available 24/7 to give you verbal status updates. Call our helpline at <a href="tel:+919835565233"><strong>+91 9835565233</strong></a> or email us with your LR number. You can also calculate standard transit charges on our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a> or consult the <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Guide</a>.</p>
         </div>
 
         <!-- Section 4: Operational Hubs and Image Grid -->
         <div class="trk-grid-2">
             <div>
                 <div class="trk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck in transit" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck in transit" width="580" height="387">
                     <div class="trk-caption">Tamper-evident container seals ensuring 100% cargo integrity</div>
                 </div>
             </div>
@@ -591,7 +591,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
             </div>
             <div>
                 <div class="trk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck arriving at destination" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck arriving at destination" width="580" height="387">
                     <div class="trk-caption">Doorstep arrival and supervised unloading at your new residence</div>
                 </div>
             </div>
@@ -601,7 +601,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
         <div class="trk-grid-2">
             <div>
                 <div class="trk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew handling destination delivery" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew handling destination delivery" width="580" height="387">
                     <div class="trk-caption">Experienced loading crew ensuring zero-damage placement in rooms</div>
                 </div>
             </div>
@@ -629,7 +629,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
 
             <div class="trk-faq-item">
                 <h4>What should I do if my tracking status shows no updates?</h4>
-                <p>If your vehicle is traversing remote highway sections with temporary cellular blind spots, updates may pause briefly. You can call our 24/7 dedicated control room at +91 9334812833 for direct driver radio coordinates.</p>
+                <p>If your vehicle is traversing remote highway sections with temporary cellular blind spots, updates may pause briefly. You can call our 24/7 dedicated control room at +91 9835565233 for direct driver radio coordinates.</p>
             </div>
 
             <div class="trk-faq-item">

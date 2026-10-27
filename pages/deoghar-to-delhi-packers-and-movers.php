@@ -602,19 +602,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-delhi-packers-
         <!-- Verified Image Showcase -->
         <div class="d2del-img-showcase">
             <div class="d2del-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the Deoghar to Delhi national highway">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the Deoghar to Delhi national highway">
                 <div class="d2del-img-caption">Dedicated sealed container trucks operating the Deoghar-Delhi Golden Quadrilateral route.</div>
             </div>
             <div class="d2del-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for appliances and electronics">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for appliances and electronics">
                 <div class="d2del-img-caption">5-layer packaging defense engineered for 1,200+ km highway vibration resilience.</div>
             </div>
             <div class="d2del-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile enclosed carrier loading in Deoghar for Delhi NCR relocation">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile enclosed carrier loading in Deoghar for Delhi NCR relocation">
                 <div class="d2del-img-caption">Hydraulic wheel-chock automobile carrier service from Deoghar to Delhi NCR.</div>
             </div>
             <div class="d2del-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Delhi residence">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Delhi residence">
                 <div class="d2del-img-caption">Doorstep placement, furniture assembly, and packing waste removal in Delhi NCR.</div>
             </div>
         </div>

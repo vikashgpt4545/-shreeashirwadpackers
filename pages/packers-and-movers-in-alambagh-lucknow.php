@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Alambagh Lucknow",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="alb-hero-title">Packers and Movers in Alambagh Lucknow</h1>
         <p class="alb-hero-subtitle">Expert household relocations, RDSO staff quarter transfers, Singar Nagar commercial shifting, and seamless highway logistics along the Kanpur Road corridor.</p>
         <div class="alb-cta-group">
-            <a href="tel:+919334404050" class="alb-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="alb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="alb-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="alb-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have delivered dependable relocation solutions across Alambagh for over twelve years. Whether you are shifting a family flat in Singar Nagar, relocating railway quarters near the RDSO campus, or transferring an established retail shop along the Alambagh market strip, our seasoned moving crews provide prompt, careful, and damage-free service.</p>
 
         <div class="alb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Alambagh Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Alambagh Lucknow" loading="lazy">
             <p class="alb-image-caption">Dedicated residential loading and staff quarters shifting operations across Alambagh Lucknow</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="alb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrap and carton packaging in Alambagh" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrap and carton packaging in Alambagh" loading="lazy">
             <p class="alb-image-caption">Multi-layer bubble wrap and heavy-duty corrugated cartons protect valuable household glassware</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="alb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by skilled carpenters in Alambagh" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by skilled carpenters in Alambagh" loading="lazy">
             <p class="alb-image-caption">Skilled carpenters carefully disassemble modular double beds and heavy furniture for safe transit</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="alb-intro-p">Additionally, the proximity to Chaudhary Charan Singh International Airport (Amausi) provides rapid air-cargo logistics options for emergency shipments or high-value personal effects. Combined with direct access to the Lucknow-Kanpur industrial corridor, our fleet handles industrial freight, executive home shifts, and commercial merchandise with absolute punctuality.</p>
 
         <div class="alb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Alambagh Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Alambagh Lucknow" loading="lazy">
             <p class="alb-image-caption">All-weather closed container fleet guarantees punctual, secure door-to-door moving</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Alambagh Move With Confidence</h3>
         <p>Connect with our expert relocation specialists today for an upfront quotation, free home survey, and personalized moving care in Alambagh.</p>
         <div class="alb-cta-group">
-            <a href="tel:+919334404050" class="alb-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="alb-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="alb-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

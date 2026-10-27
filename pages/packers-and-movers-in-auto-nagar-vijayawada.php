@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Auto Nagar Vijayawada",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-auto-nagar-vijayawada",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>Surrounding this industrial engine are highly sought-after residential enclaves including Kanuru, Currency Nagar, Teachers Colony, Chalasani Nagar, and Enikepadu, positioned conveniently along Bandar Road and the 100 Feet Road bypass. Mechanical engineers, auto component enterprise executives, logistics depot managers, and corporate professionals residing in adjacent residential layouts demand certified moving services capable of executing intricate residential relocations alongside heavy industrial moves.</p>
 
     <div class="anv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Auto Nagar Vijayawada" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Auto Nagar Vijayawada" loading="lazy">
       <p class="anv-image-caption">Disciplined residential quarter shifting and systematic loading operations in Auto Nagar Vijayawada.</p>
     </div>
 
@@ -595,7 +595,7 @@
     </div>
 
     <div class="anv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Auto Nagar Vijayawada" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Auto Nagar Vijayawada" loading="lazy">
       <p class="anv-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Auto Nagar Vijayawada.</p>
     </div>
 
@@ -627,7 +627,7 @@
     </div>
 
     <div class="anv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Auto Nagar Vijayawada" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Auto Nagar Vijayawada" loading="lazy">
       <p class="anv-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -641,7 +641,7 @@
     <p>Our local dispatchers coordinate residential moves in Kanuru and Currency Nagar during early morning hours (6:30 AM to 8:30 AM) to circumvent heavy commercial trailer traffic. For residential gated communities, we deploy agile 14-foot and 17-foot covered container vehicles that easily access apartment podiums without disruption.</p>
 
     <div class="anv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Auto Nagar Vijayawada" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Auto Nagar Vijayawada" loading="lazy">
       <p class="anv-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -731,7 +731,7 @@
   <section class="anv-cta-banner">
     <h3>Plan Your Stress-Free Move in Auto Nagar Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Vijayawada and India.</p>
-    <a class="anv-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="anv-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

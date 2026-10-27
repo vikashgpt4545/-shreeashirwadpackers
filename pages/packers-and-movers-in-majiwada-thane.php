@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-majiwad
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-majiwada-thane#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-majiwada-thane",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Majiwada Thane</h1>
         <p>Premier high-rise apartment shifting, gated community moving, corporate transfer, and secure vehicle transportation connecting Lodha Paradise, Rustomjee Urbania, Viviana Mall, and Balkum with zero hassle.</p>
         <div class="mjw-btn-wrap">
-            <a href="tel:+919334404050" class="mjw-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mjw-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mjw-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of dedicated moving excellence directly to Majiwada residents. Navigating the busy multi-level flyovers of Majiwada, coordinating with rigorous gated community security desks, and maneuvering through underground basement parking requires seasoned professionals who understand every hyper-local rule. Our teams arrive fully prepared with heavy-duty furniture sliders, specialized hand trucks, and covered all-weather container vehicles.</p>
 
         <div class="mjw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers team loading container truck in Majiwada Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers team loading container truck in Majiwada Thane" width="580" height="387" loading="lazy">
             <p class="mjw-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Majiwada Thane.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mjw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Majiwada Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Majiwada Thane" width="580" height="387" loading="lazy">
             <p class="mjw-image-caption">Multi-layer protective bubble wrap rolls and heavy-gauge corrugated boxes engineered for high-rise apartment shifting in Majiwada.</p>
         </div>
 
@@ -619,7 +619,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mjw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Majiwada Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Majiwada Thane" width="580" height="387" loading="lazy">
             <p class="mjw-image-caption">Carpentry technicians systematically dismantling and wrapping modular furniture panels prior to loading in Majiwada.</p>
         </div>
 
@@ -667,7 +667,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mjw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Majiwada Thane relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Majiwada Thane relocation" width="580" height="387" loading="lazy">
             <p class="mjw-image-caption">Dedicated enclosed moving vehicle stationed for on-time residential shifting in a Majiwada apartment complex.</p>
         </div>
 
@@ -742,7 +742,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="mjw-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Planning a Move in or out of Majiwada?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Reach out to our moving specialists today for an obligation-free doorstep quotation and seamless relocation coordination.</p>
-            <a href="tel:+919334404050" class="mjw-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mjw-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

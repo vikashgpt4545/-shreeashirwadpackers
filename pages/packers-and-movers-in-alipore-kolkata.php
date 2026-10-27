@@ -567,7 +567,7 @@
             </div>
             <div>
                 <div class="alp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Alipore Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container in Alipore Kolkata" width="580" height="380">
                     <div class="alp-image-caption">Professional loading of household consignments using secure ramp systems in Alipore Kolkata.</div>
                 </div>
             </div>
@@ -697,7 +697,7 @@
             </div>
             <div>
                 <div class="alp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging for household fragile goods in Alipore Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging for household fragile goods in Alipore Kolkata" width="580" height="380">
                     <div class="alp-image-caption">Multi-layer bubble wrap protection and heavy-duty corrugated cartons for Alipore homes.</div>
                 </div>
             </div>
@@ -761,7 +761,7 @@
             </div>
             <div>
                 <div class="alp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and double bed packing in Alipore Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and double bed packing in Alipore Kolkata" width="580" height="380">
                     <div class="alp-image-caption">Carpentry technicians safely dismantling wooden double beds and wardrobes in Alipore.</div>
                 </div>
             </div>
@@ -813,7 +813,7 @@
             </div>
             <div>
                 <div class="alp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed body delivery truck providing door to door shifting in Alipore Kolkata" width="580" height="380">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated closed body delivery truck providing door to door shifting in Alipore Kolkata" width="580" height="380">
                     <div class="alp-image-caption">Weather-sealed container truck delivering door-to-door relocation consignments in Alipore.</div>
                 </div>
             </div>

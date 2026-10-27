@@ -951,14 +951,14 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Showcase Images 1 & 2 -->
         <div class="r2bg-img-showcase">
           <div class="r2bg-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed container truck for Ranchi to Bhagalpur interstate relocation" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed container truck for Ranchi to Bhagalpur interstate relocation" loading="lazy">
             <div class="r2bg-img-content">
               <h4>Weather-Sealed Linehaul Container Trucks</h4>
               <p>Our heavy-duty, high-cube closed container trucks protect your furniture, electronics, and wardrobe from highway rain, industrial dust, and transit humidity across the Deoghar-Banka corridor.</p>
             </div>
           </div>
           <div class="r2bg-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective corrugated wrapping for wooden furniture transit to Bhagalpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective corrugated wrapping for wooden furniture transit to Bhagalpur" loading="lazy">
             <div class="r2bg-img-content">
               <h4>Heavy Wooden Furniture Protective Wrapping</h4>
               <p>Our carpenters dismantle beds, modular almirahs, and dining tables, wrapping each wooden component in double-layer corrugated board, foam wrap, and heavy stretch film.</p>
@@ -1082,14 +1082,14 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Showcase Images 3 & 4 -->
         <div class="r2bg-img-showcase">
           <div class="r2bg-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery and chinaware bubble cushioned for Ranchi to Bhagalpur move" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate kitchen crockery and chinaware bubble cushioned for Ranchi to Bhagalpur move" loading="lazy">
             <div class="r2bg-img-content">
               <h4>Kitchen Crockery & Glassware Bubble Cushioning</h4>
               <p>Every porcelain cup, glass bowl, and ceramic plate is individually bubble-wrapped, nested in corrugated cellular dividers, and labeled as high-priority fragile freight.</p>
             </div>
           </div>
           <div class="r2bg-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Padded quilted protective cover for electronic appliances during Ranchi to Bhagalpur shifting" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Padded quilted protective cover for electronic appliances during Ranchi to Bhagalpur shifting" loading="lazy">
             <div class="r2bg-img-content">
               <h4>Home Appliances Quilted Protective Shielding</h4>
               <p>Heavy-duty padded covers and shock-absorbent corner guards safeguard your refrigerator, washing machine, microwave, and air conditioner from highway bumps.</p>

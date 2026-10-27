@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Mavoor Road Kozhikode",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-mavoor-road-kozhikode",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -531,7 +531,7 @@
       </div>
 
       <div class="mvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading along Mavoor Road Kozhikode" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading along Mavoor Road Kozhikode" width="580" height="380" loading="lazy">
         <p class="mvr-image-caption">Systematic apartment loading and container stowage in Mavoor Road Kozhikode</p>
       </div>
     </div>
@@ -570,7 +570,7 @@
       <p>Every assignment is executed under the direct supervision of an experienced shift coordinator who monitors packaging integrity, inventory indexing, and on-schedule vehicular transit. Our direct connection to our central headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Packers and Movers Ranchi</a> provides cross-state logistical strength and unbroken tracking for all intercity relocations across India.</p>
 
       <div class="mvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture protective wrapping in Mavoor Road Kozhikode" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture protective wrapping in Mavoor Road Kozhikode" width="580" height="380" loading="lazy">
         <p class="mvr-image-caption">Multi-layer protective bubble wrapping of luxury wooden furniture before transit</p>
       </div>
     </div>
@@ -672,7 +672,7 @@
       </div>
 
       <div class="mvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial inventory and IT equipment packing in Kozhikode" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial inventory and IT equipment packing in Kozhikode" width="580" height="380" loading="lazy">
         <p class="mvr-image-caption">Corrugated box packaging and electronic equipment packing for commercial relocations</p>
       </div>
     </div>
@@ -703,7 +703,7 @@
       <p>Our dedicated focus on safety and client satisfaction ensures that your prized glassware, kitchen crockery, sensitive LED televisions, and cherished family heirlooms reach your new home in flawless condition.</p>
 
       <div class="mvr-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container transit truck for Mavoor Road Kozhikode relocations" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container transit truck for Mavoor Road Kozhikode relocations" width="580" height="380" loading="lazy">
         <p class="mvr-image-caption">Heavy-duty weatherproof container truck ensuring protected transit across Kerala</p>
       </div>
     </div>
@@ -807,7 +807,7 @@
     <div class="mvr-cta-banner">
       <h3>Ready for a Smooth Move Along Mavoor Road Kozhikode?</h3>
       <p>Contact Shree Ashirwad Packers and Movers today for certified packing, dependable vehicle transport, and prompt delivery across Kozhikode and all India corridors.</p>
-      <a class="mvr-cta-btn" href="tel:+919334484001">Call Now: +91 9334484001</a>
+      <a class="mvr-cta-btn" href="tel:+919835565233">Call Now: +91 9835565233</a>
     </div>
   </div>
 

@@ -347,7 +347,7 @@ $meta_keywords = "dhanbad to delhi packers and movers, packers and movers dhanba
         
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Dhanbad to Delhi moving" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Dhanbad to Delhi moving" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Closed Linehaul Containers</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Heavy-gauge weather-sealed steel container fleet protecting goods from highway heat, rain, and dust over 1,180 km.</p>
@@ -355,7 +355,7 @@ $meta_keywords = "dhanbad to delhi packers and movers, packers and movers dhanba
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading for long distance moving" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading for long distance moving" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Scientific Stacking & Weight Balance</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Padded floor blankets, nylon safety lashings, and precise load balancing eliminating in-transit vibration damage.</p>
@@ -363,7 +363,7 @@ $meta_keywords = "dhanbad to delhi packers and movers, packers and movers dhanba
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container loading for Delhi relocation" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container loading for Delhi relocation" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Weatherproof Lock & Seal</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Containers are sealed with numbered one-time bolt locks at Dhanbad and opened exclusively at your Delhi NCR doorstep.</p>

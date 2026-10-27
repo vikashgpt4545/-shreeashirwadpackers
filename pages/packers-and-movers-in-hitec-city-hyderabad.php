@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hitec-city-hyderabad";
         "name": "Shree Ashirwad Packers and Movers Hitec City",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -513,7 +513,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hitec-city-hyderabad";
         <h1>Packers and Movers in Hitec City Hyderabad</h1>
         <p>Premium ISO 9001:2015 certified relocation services, corporate IT park moving, household shifting & automobile transport across Cyber Towers, Mindspace, and Cyberabad tech corridors.</p>
         <div class="htc-btn-wrap">
-            <a href="tel:+919334404050" class="htc-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="htc-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="htc-btn-secondary">Check Rate Calculator</a>
         </div>
     </header>
@@ -535,7 +535,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hitec-city-hyderabad";
         </div>
 
         <div class="htc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Hitec City Hyderabad loading apartment items" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Hitec City Hyderabad loading apartment items" width="580" height="380" loading="lazy">
             <div class="htc-image-caption">Figure 1: High-rise apartment goods loading and common area protective padding in Hitec City, Hyderabad.</div>
         </div>
 
@@ -585,7 +585,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hitec-city-hyderabad";
         </div>
 
         <div class="htc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office workstation and IT server packing in Hitec City Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office workstation and IT server packing in Hitec City Hyderabad" width="580" height="380" loading="lazy">
             <div class="htc-image-caption">Figure 2: Systematic corporate IT asset labeling and server rack packaging executed in Hitec City.</div>
         </div>
     </section>
@@ -646,7 +646,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hitec-city-hyderabad";
         </table>
 
         <div class="htc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture padding and protective bubble film wrap in Hitec City Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture padding and protective bubble film wrap in Hitec City Hyderabad" width="580" height="380" loading="lazy">
             <div class="htc-image-caption">Figure 3: Multi-layer furniture wrapping and heavy-duty foam cushioning for premium home furnishings.</div>
         </div>
     </section>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hitec-city-hyderabad";
         </div>
 
         <div class="htc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered container logistics truck transporting goods from Hitec City Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered container logistics truck transporting goods from Hitec City Hyderabad" width="580" height="380" loading="lazy">
             <div class="htc-image-caption">Figure 4: GPS-tracked, weatherproof sealed container vehicles ensuring safe long-distance transit from Hitec City.</div>
         </div>
     </section>
@@ -778,7 +778,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hitec-city-hyderabad";
         <h3>Experience Hassle-Free Relocation in Hitec City</h3>
         <p>Contact Shree Ashirwad Packers and Movers today for a free on-site survey and transparent, guaranteed moving quote with zero hidden surprises.</p>
         <div class="htc-btn-wrap">
-            <a href="tel:+919334404050" class="htc-btn-primary">Call Desk: +91 9334404050</a>
+            <a href="tel:+919835565233" class="htc-btn-primary">Call Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="htc-btn-secondary">Check Rate Calculator</a>
         </div>
     </section>

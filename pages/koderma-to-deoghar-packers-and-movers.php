@@ -508,7 +508,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-deoghar-packer
                     <p>We deploy trained packing supervisors, modern strapping systems, and waterproof container bodies that shield every piece of home furniture, crystal crockery, electronic appliance, and devotional shrine from rough rural road sections and sudden seasonal weather shifts.</p>
                 </div>
                 <div class="kod2deo-img-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck for Koderma to Deoghar relocation transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe container truck for Koderma to Deoghar relocation transit" loading="lazy">
                 </div>
             </div>
 
@@ -587,7 +587,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-deoghar-packer
             <!-- Section 3: Institutional & Healthcare Transfer Relocation -->
             <div class="kod2deo-two-col">
                 <div class="kod2deo-img-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing for Koderma to Deoghar movers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing for Koderma to Deoghar movers" loading="lazy">
                 </div>
                 <div class="kod2deo-col-content">
                     <span class="kod2deo-section-tag">Institutional Relocations</span>
@@ -648,7 +648,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-deoghar-packer
                     <p>Cars are loaded onto low-angle hydraulic ramps and anchored with heavy-duty ratchet straps and wheel chocks. Upon reaching Deoghar, vehicles are inspected jointly with you before final handover.</p>
                 </div>
                 <div class="kod2deo-img-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service from Koderma to Deoghar" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service from Koderma to Deoghar" loading="lazy">
                 </div>
             </div>
 
@@ -700,7 +700,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-deoghar-packer
             <!-- Section 7: Unpacking and Placement -->
             <div class="kod2deo-two-col">
                 <div class="kod2deo-img-wrapper">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Deoghar" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Deoghar" loading="lazy">
                 </div>
                 <div class="kod2deo-col-content">
                     <span class="kod2deo-section-tag">Destination Unpacking</span>

@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Premier intercity moving solutions from Bangalore to Mysore covering Gokulam, Vijayanagar, Kuvempunagar, Jayalakshmipuram, and Hebbal with express container transit.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹7,500 - ₹34,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy dedicated enclosed container trucks equipped with internal cushioning, hydraulic tailgates, and cellular GPS tracking. Whether you are shifting for a relaxed retirement lifestyle, transferring to Mysore's thriving IT and heritage sectors, or relocating family residences, our certified crews guarantee seamless same-day shifting without intermediate handling or delays.</p>
 
         <div class="bgmy-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Bangalore to Mysore" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container vehicle on highway transit from Bangalore to Mysore" width="580" height="386">
         </div>
 
         <div class="bgmy-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>The expressway sweeps past historic Srirangapatna across the Kaveri river bridges, terminating smoothly near the Columbia Asia Hospital junction on Mysore's Outer Ring Road. Our tracking desk monitors FASTag toll plazas (including Kaniminike and Gananguru) continuously, ensuring that our container trucks bypass all local suburban congestion and maintain strict adherence to arrival times.</p>
 
         <div class="bgmy-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for express transit" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi-layer packing materials for express transit" width="580" height="386">
         </div>
 
         <div class="bgmy-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Each delicate item is wrapped in air-cushioned bubble film, reinforced with corrugated corner guards, wrapped in moisture-resistant stretch film, and boxed into heavy 5-ply cartons. For fragile LED televisions, crystal chandeliers, marble temple units, and antique brassware, we build custom-measured wooden crates that absorb road shocks.</p>
 
         <div class="bgmy-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Mysore" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking, room placement and furniture assembly in Mysore" width="580" height="386">
         </div>
 
         <div class="bgmy-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Before loading, our technical supervisors conduct a detailed 24-point pre-transit vehicle inspection. Exterior scratches, fuel levels, odometer readings, and accessory conditions are documented on an official inspection slip shared digitally with the vehicle owner.</p>
 
         <div class="bgmy-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-wheeler bike transport carrier container with secure wheel clamps" width="580" height="386">
         </div>
 
         <div class="bgmy-grid-2">

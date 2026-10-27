@@ -662,7 +662,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-hazaribagh-pac
                 <p>Whether you are a government officer reassigned to North Chotanagpur divisional headquarters, a faculty member taking up a post at Vinoba Bhave University (VBU), a judicial officer transferring to the District Court, or a family settling in Korrah or Canary Hill, we ensure your personal belongings arrive in flawless condition.</p>
             </div>
             <div class="g2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck on the road between Giridih and Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck on the road between Giridih and Hazaribagh" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -734,7 +734,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-hazaribagh-pac
     <div class="g2hzb-container">
         <div class="g2hzb-grid-2col">
             <div class="g2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective household packaging for Giridih to Hazaribagh move" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective household packaging for Giridih to Hazaribagh move" loading="lazy" width="600" height="400">
             </div>
             <div class="g2hzb-content-box">
                 <span class="g2hzb-tag">Packing Excellence</span>
@@ -765,7 +765,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-hazaribagh-pac
                 <p>For sedans, hatchbacks, and SUVs, we utilize specialized car carriers equipped with hydraulic ramps, heavy-duty wheel chocks, and four-point harness belts. A comprehensive pre-loading inspection report logs fuel levels and existing body conditions so you receive your vehicle in exactly the state it was handed over.</p>
             </div>
             <div class="g2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile carrier loading personal car for transit from Giridih to Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile carrier loading personal car for transit from Giridih to Hazaribagh" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-hazaribagh-pac
     <div class="g2hzb-container">
         <div class="g2hzb-grid-2col">
             <div class="g2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home arrangement service at Hazaribagh" loading="lazy" width="600" height="400">
             </div>
             <div class="g2hzb-content-box">
                 <span class="g2hzb-tag">End-to-End Care</span>

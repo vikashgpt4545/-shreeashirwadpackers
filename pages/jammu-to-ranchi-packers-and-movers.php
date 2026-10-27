@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Jammu to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
     "url": "https://www.shreeashirwadpackers.com/jammu-to-ranchi-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 22,000 - 95,000",
     "address": {
       "@type": "PostalAddress",
@@ -477,7 +477,7 @@ include_once __DIR__ . '/../includes/config.php';
     </p>
 
     <div class="jm2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Jammu to Ranchi Door-to-Door Delivery Moving Container Truck" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Jammu to Ranchi Door-to-Door Delivery Moving Container Truck" loading="lazy">
       <div class="jm2r-caption">Modern, GPS-tracked covered container trucks ensuring safe transit from Jammu to Ranchi across NH44 and NH19.</div>
     </div>
   </section>
@@ -532,7 +532,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
 
     <div class="jm2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Padded and Crated Household Articles Ready for Long Distance Transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Padded and Crated Household Articles Ready for Long Distance Transit" loading="lazy">
       <div class="jm2r-caption">Industrial-grade corrugated boxes and bubble packaging guarding household inventory across inter-state transit.</div>
     </div>
   </section>
@@ -617,7 +617,7 @@ include_once __DIR__ . '/../includes/config.php';
     </ul>
 
     <div class="jm2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Vehicle Loading for Jammu to Ranchi Move" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Vehicle Loading for Jammu to Ranchi Move" loading="lazy">
       <div class="jm2r-caption">Specialized car carriers offering enclosed vehicle logistics from Jammu to Ranchi.</div>
     </div>
   </section>
@@ -657,7 +657,7 @@ include_once __DIR__ . '/../includes/config.php';
     </ol>
 
     <div class="jm2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Handling Cargo Unloading and Assembly" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Handling Cargo Unloading and Assembly" loading="lazy">
       <div class="jm2r-caption">Experienced loading crews ensuring safe handling and zero scratch delivery inside your new Ranchi residence.</div>
     </div>
   </section>
@@ -699,7 +699,7 @@ include_once __DIR__ . '/../includes/config.php';
   <section class="jm2r-cta-banner">
     <h3>Planning Your Relocation from Jammu to Ranchi?</h3>
     <p>Contact Shree Ashirwad Packers and Movers today for a transparent, guaranteed moving quote and dedicated container scheduling. Call our long-distance shifting helpline now!</p>
-    <a href="tel:+919334404052" class="jm2r-btn">Call +91 93344 04052 for Free Quote</a>
+    <a href="tel:+919835565233" class="jm2r-btn">Call +91 9835565233 for Free Quote</a>
   </section>
 
   <section>

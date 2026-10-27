@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-naupada
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-naupada-thane#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-naupada-thane",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Naupada Thane</h1>
         <p>Expert residential shifting, commercial moving, careful staircase carrying, and insured vehicle transport across Gokhale Road, Talao Pali, Charai, Panchpakhadi, and Teen Hath Naka with 100% peace of mind.</p>
         <div class="npd-btn-wrap">
-            <a href="tel:+919334404050" class="npd-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="npd-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="npd-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of relocation mastery directly to Naupada. Shifting in this bustling, central locality requires a deep understanding of unique operational challenges: navigating narrow residential streets, coordinating moves during quiet morning hours before retail shops open, and handling delicate family heirlooms with reverent care. Our moving crews arrive with heavy-duty furniture dollies, protective blankets, and specialized equipment.</p>
 
         <div class="npd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers truck loading in Naupada Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers truck loading in Naupada Thane" width="580" height="387" loading="lazy">
             <p class="npd-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Naupada Thane.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="npd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Naupada Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Naupada Thane" width="580" height="387" loading="lazy">
             <p class="npd-image-caption">Multi-layer protective bubble wrap rolls and heavy-gauge corrugated boxes engineered for apartment shifting in Naupada.</p>
         </div>
 
@@ -619,7 +619,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="npd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Naupada Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Naupada Thane" width="580" height="387" loading="lazy">
             <p class="npd-image-caption">Carpentry technicians systematically dismantling and wrapping modular furniture panels prior to loading in Naupada.</p>
         </div>
 
@@ -667,7 +667,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="npd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Naupada Thane relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Naupada Thane relocation" width="580" height="387" loading="lazy">
             <p class="npd-image-caption">Dedicated enclosed moving vehicle stationed for on-time residential shifting in a Naupada apartment complex.</p>
         </div>
 
@@ -742,7 +742,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="npd-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Planning a Move in or out of Naupada?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Reach out to our moving specialists today for an obligation-free doorstep quotation and seamless relocation coordination.</p>
-            <a href="tel:+919334404050" class="npd-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="npd-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Furthermore, Electrostatic Discharge (ESD)—even at levels undetectable to human touch (less than 100 volts)—can silently puncture microchip dielectric layers. Our crews operate with calibrated ESD grounding wrist straps, anti-static dissipative bubble cushioning, and custom-fabricated foam-lined flight cases that insulate your hardware from thermal shocks, electromagnetic interference, and road vibration harmonics.</p>
 
         <div class="dcso-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Anti-static ESD secure bubble packing for corporate office workstations and computers" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Anti-static ESD secure bubble packing for corporate office workstations and computers" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 2: Technical Assets Handled -->
@@ -555,7 +555,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="dcso-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom wooden crating for delicate server chassis, switches, and sensitive electronics" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom wooden crating for delicate server chassis, switches, and sensitive electronics" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Stage Moving Protocol -->
@@ -591,7 +591,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="dcso-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy hydraulic pallet jacks moving server racks and enterprise power distribution units" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy hydraulic pallet jacks moving server racks and enterprise power distribution units" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -676,7 +676,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="dcso-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Air-ride suspension containerized logistics truck for enterprise IT server relocation" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Air-ride suspension containerized logistics truck for enterprise IT server relocation" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 6: Security and Compliance -->

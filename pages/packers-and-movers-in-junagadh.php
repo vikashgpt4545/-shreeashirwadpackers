@@ -32,7 +32,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Junagadh",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-junagadh",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,800 - ₹44,000",
     "address": {
       "@type": "PostalAddress",
@@ -361,7 +361,7 @@ $state_name = 'Gujarat';
   <div class="jgd-hero">
     <h1>Packers and Movers in Junagadh</h1>
     <p>Professional Relocation Experts for Girnar Foothills, Agro-Industrial Clusters, and Heritage Residential Enclaves in Saurashtra</p>
-    <a href="tel:+919334484001" class="jgd-hero-btn">Call +91 9334484001 For Free Quote</a>
+    <a href="tel:+919835565233" class="jgd-hero-btn">Call +91 9835565233 For Free Quote</a>
   </div>
 
   <div class="jgd-container">
@@ -376,7 +376,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="jgd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Junagadh Gujarat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Junagadh Gujarat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -412,7 +412,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="jgd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Junagadh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Junagadh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -570,7 +570,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="jgd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Junagadh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Junagadh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -606,7 +606,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="jgd-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Junagadh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Junagadh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -645,7 +645,7 @@ $state_name = 'Gujarat';
     <div class="jgd-cta-bar">
       <h3>Plan Your Smooth Relocation in Junagadh Today</h3>
       <p>Contact our Junagadh moving coordinators for an instant free home survey and transparent, competitive quotation.</p>
-      <a href="tel:+919334484001" class="jgd-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="jgd-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="jgd-section">

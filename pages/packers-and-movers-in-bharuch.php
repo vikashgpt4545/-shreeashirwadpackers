@@ -32,7 +32,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Bharuch",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bharuch",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -361,7 +361,7 @@ $state_name = 'Gujarat';
   <div class="brc-hero">
     <h1>Packers and Movers in Bharuch</h1>
     <p>Premier Relocation Specialists for the Narmada Chemical Corridor, Dahej PCPIR Port, and Modern Residential Townships</p>
-    <a href="tel:+919334484001" class="brc-hero-btn">Call +91 9334484001 For Free Quote</a>
+    <a href="tel:+919835565233" class="brc-hero-btn">Call +91 9835565233 For Free Quote</a>
   </div>
 
   <div class="brc-container">
@@ -376,7 +376,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="brc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Apartment Loading in Bharuch Gujarat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Apartment Loading in Bharuch Gujarat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -412,7 +412,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="brc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Bharuch" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Bharuch" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -576,7 +576,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="brc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Bharuch" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Bharuch" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="brc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Bharuch" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Bharuch" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -651,7 +651,7 @@ $state_name = 'Gujarat';
     <div class="brc-cta-bar">
       <h3>Plan Your Smooth Relocation in Bharuch Today</h3>
       <p>Contact our Bharuch moving coordinators for an instant free home survey and transparent, competitive quotation.</p>
-      <a href="tel:+919334484001" class="brc-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="brc-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="brc-section">

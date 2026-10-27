@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruchirappalli";
         "name": "Shree Ashirwad Packers and Movers Tiruchirappalli",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruchirappalli";
         <p>Relocating in Tiruchirappalli requires versatility and deep neighborhood understanding. Navigating the ancient agraharams and narrow temple streets of Srirangam, Woraiyur, and Rockfort requires specialized compact feeder transport and handcart handling during non-darshan hours. Conversely, servicing sprawling PSU townships like BHEL Kailasapuram, HAPP, and modern high-rise apartments in Thillai Nagar, KK Nagar, and Cantonment requires heavy enclosed container trucks with hydraulic tailgates. Shree Ashirwad Packers and Movers delivers tailored relocation protocols engineered to meet every logistical challenge across Tiruchirappalli.</p>
 
         <div class="tcp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Tiruchirappalli Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Tiruchirappalli Trichy" width="580" height="387" loading="lazy">
             <div class="tcp-image-caption">Apartment freight handling and professional loading operations in Tiruchirappalli.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruchirappalli";
         </div>
 
         <div class="tcp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Tiruchirappalli Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Tiruchirappalli Trichy" width="580" height="387" loading="lazy">
             <div class="tcp-image-caption">Corporate office equipment and precision apparatus relocation by Shree Ashirwad in Trichy.</div>
         </div>
 
@@ -594,7 +594,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruchirappalli";
         <p>Our expert moving crews utilize a four-layer defensive packing system. Polished teak and rosewood furniture are first padded with breathable soft cotton quilts, wrapped in high-density air bubble wrap, reinforced with thick corrugated corner edge boards, and enveloped in tear-resistant stretch wrap. This protects against scratches, humidity fluctuations, and highway transit vibrations.</p>
 
         <div class="tcp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Tiruchirappalli Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Tiruchirappalli Trichy" width="580" height="387" loading="lazy">
             <div class="tcp-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Tiruchirappalli.</div>
         </div>
 
@@ -720,7 +720,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruchirappalli";
         </ol>
 
         <div class="tcp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Tiruchirappalli Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Tiruchirappalli Trichy" width="580" height="387" loading="lazy">
             <div class="tcp-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Tiruchirappalli corridors.</div>
         </div>
     </section>
@@ -777,7 +777,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruchirappalli";
     <div class="tcp-cta-box">
         <h3>Move Safely in Trichy with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero surprise costs. Licensed, fully insured moving specialists ready to assist your household or office relocation today.</p>
-        <a href="tel:+919334404050" class="tcp-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="tcp-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Kamla Nagar Agra",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="kna-hero-title">Packers and Movers in Kamla Nagar Agra</h1>
         <p class="kna-hero-subtitle">Upscale Residential Shifting, Commercial Showroom Relocation, Block A–F Apartment Moves &amp; Dedicated Vehicle Transport Across North Agra</p>
         <div class="kna-cta-group">
-            <a href="tel:+919334404050" class="kna-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kna-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kna-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -508,7 +508,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kna-intro-p">Executing a seamless relocation in Kamla Nagar requires a specialized moving team that understands the neighborhood’s lively urban dynamics. The area combines bustling shopping avenues lined with jewellery showrooms, apparel boutiques, and multi-storey retail stores with tranquil, high-end residential streets featuring expansive independent houses, modern builder floors, and gated apartment societies. Shree Ashirwad Packers and Movers delivers a polished, white-glove moving experience tailored to the high standards of Kamla Nagar residents.</p>
 
         <div class="kna-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Professional Household Loading in Kamla Nagar Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Professional Household Loading in Kamla Nagar Agra" width="580" height="380" loading="lazy">
             <p class="kna-image-caption">Our expert packing and loading crew handling luxury residential goods with precision and care in Kamla Nagar.</p>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kna-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High-Grade Packaging Materials in Kamla Nagar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High-Grade Packaging Materials in Kamla Nagar" width="580" height="380" loading="lazy">
             <p class="kna-image-caption">High-density bubble cushioning, corner edge protectors, and durable 5-ply cartons safeguarding fragile assets in Kamla Nagar.</p>
         </div>
     </section>
@@ -688,7 +688,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="kna-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Kamla Nagar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Kamla Nagar" width="580" height="380" loading="lazy">
             <p class="kna-image-caption">Skilled carpentry team carefully dismantling wooden furniture units for damage-free transit in Kamla Nagar.</p>
         </div>
     </section>
@@ -701,7 +701,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="kna-intro-p">Northbound consignments reach Greater Noida, Noida, and Delhi in approximately 2.5 hours via the high-speed Yamuna Expressway link. Eastbound shipments bound for central Uttar Pradesh connect smoothly via the Agra-Lucknow Expressway, delivering same-day transit to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a> and seamless highway connectivity toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>, Prayagraj, Varanasi, and our central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
         <div class="kna-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Sealed Container Truck Fleet in Kamla Nagar Agra" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Sealed Container Truck Fleet in Kamla Nagar Agra" width="580" height="380" loading="lazy">
             <p class="kna-image-caption">Our weather-resistant closed container truck fleet ensuring clean, protected door-to-door deliveries across Kamla Nagar.</p>
         </div>
 
@@ -768,7 +768,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Schedule Your Move in Kamla Nagar Agra</h3>
         <p>Contact our Kamla Nagar relocation specialists today for a tailored quote, expert packing assistance, and dependable doorstep moving experience.</p>
         <div class="kna-cta-group">
-            <a href="tel:+919334404050" class="kna-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kna-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kna-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

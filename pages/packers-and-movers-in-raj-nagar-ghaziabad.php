@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Raj Nagar Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="rjn-hero-title">Packers and Movers in Raj Nagar Ghaziabad</h1>
         <p class="rjn-hero-subtitle">Specialized residential kothi shifting, premium builder floor relocations, antique furniture carpentry, and commercial office moves across Sectors 1 to 14 and RDC.</p>
         <div class="rjn-cta-group">
-            <a href="tel:+919334404050" class="rjn-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="rjn-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rjn-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="rjn-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we deliver bespoke, white-glove moving services tailored to the refined requirements of Raj Nagar residents. From handling priceless teakwood heirlooms, delicate crystal chandeliers, and imported marble furniture to orchestrating multi-floor kothi relocations, our seasoned moving specialists ensure exceptional care and absolute discretion.</p>
 
         <div class="rjn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Raj Nagar Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Raj Nagar Ghaziabad" loading="lazy">
             <p class="rjn-image-caption">Dedicated residential loading and bungalow shifting operations across Raj Nagar Sectors</p>
         </div>
 
@@ -548,7 +548,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="rjn-intro-p">Our crews utilize heavy-gauge floor protection sheets across polished Italian marble and parquet wood flooring to prevent scuffs during loading. We pad doorframes and banisters with quilted moving blankets to ensure heavy solid wood double beds, six-seater dining suites, and large sideboards pass through hallways with zero friction.</p>
 
         <div class="rjn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Raj Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Raj Nagar" loading="lazy">
             <p class="rjn-image-caption">Custom multi-layer shock absorption safeguards delicate tableware, crystal, and electronics</p>
         </div>
 
@@ -678,7 +678,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="rjn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Raj Nagar" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Raj Nagar" loading="lazy">
             <p class="rjn-image-caption">Certified carpentry technicians carefully dismantle modular double beds and sliding wardrobes</p>
         </div>
     </section>
@@ -691,7 +691,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="rjn-intro-p">For long-distance household transfers heading toward Eastern India—including Patna, Gaya, Ranchi, Jamshedpur, Bokaro, and Kolkata—our dedicated linehaul container fleet provides regular direct departures. Coordinated with our central logistics headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; font-weight: 600; text-decoration: underline;">Ranchi</a>, clients enjoy daily milestone updates and live GPS tracking throughout the transit journey.</p>
 
         <div class="rjn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Raj Nagar Ghaziabad" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Raj Nagar Ghaziabad" loading="lazy">
             <p class="rjn-image-caption">Weatherproof enclosed container trucks guarantee secure, timely door-to-door deliveries</p>
         </div>
     </section>
@@ -754,7 +754,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Raj Nagar Relocation Today</h3>
         <p>Contact our experienced moving specialists for a transparent estimate, free home survey, and seamless shifting experience in Raj Nagar.</p>
         <div class="rjn-cta-group">
-            <a href="tel:+919334404050" class="rjn-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="rjn-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rjn-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

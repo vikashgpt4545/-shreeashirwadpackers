@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Part Load vs Full Truck Load Shifting | LTL vs FTL Moving Compared | Call 9708579999</title>
-    <meta name="description" content="Part load (LTL) vs Full truck load (FTL) shifting compared. Discover cost differences, transit duration, safety tagging, and volumetric CFT pricing from Ranchi. Call 9708579999.">
+    <title>Part Load vs Full Truck Load Shifting | LTL vs FTL Moving Compared | Call 9835565233</title>
+    <meta name="description" content="Part load (LTL) vs Full truck load (FTL) shifting compared. Discover cost differences, transit duration, safety tagging, and volumetric CFT pricing from Ranchi. Call 9835565233.">
     <meta name="keywords" content="part load vs full truck load, ltl vs ftl moving ranchi, shared truck shifting charges ranchi, part load movers jharkhand, full container truck hire ranchi, shree ashirwad part load">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/part-load-vs-full-truck">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Logistics Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/part-load-vs-full-truck",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Part Load vs Full Truck Load: Shifting Options Compared</h1>
                 <p>Relocating household or commercial goods out of Ranchi? Understand the critical distinctions between Shared Part Load (LTL) and Dedicated Full Truck Load (FTL) to balance your relocation budget against delivery speed and consignment security.</p>
                 <div class="pvft-cta-group">
-                    <a href="tel:+919708579999" class="pvft-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20compare%20part%20load%20and%20full%20truck%20options%20for%20my%20move" class="pvft-btn-wa" target="_blank" rel="noopener">WhatsApp Logistics Advisor</a>
+                    <a href="tel:+919835565233" class="pvft-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20please%20compare%20part%20load%20and%20full%20truck%20options%20for%20my%20move" class="pvft-btn-wa" target="_blank" rel="noopener">WhatsApp Logistics Advisor</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="pvft-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container transport vehicle of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container transport vehicle of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -294,7 +294,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>How Volumetric Cubic Feet (CFT) Pricing Works in Part Load</h2>
                 <div class="pvft-grid-2">
                     <div class="pvft-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Standardized volumetric cartons for part load cubic feet calculation in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Standardized volumetric cartons for part load cubic feet calculation in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>In a Part Load shipment, you only pay for the exact volume your items occupy inside the container. Volume is measured in <strong>Cubic Feet (CFT)</strong>:</p>
@@ -326,7 +326,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="pvft-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Cross-docking logistics hub and organized palletized warehousing in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Cross-docking logistics hub and organized palletized warehousing in Ranchi" loading="lazy">
                     </div>
                 </div>
 
@@ -378,7 +378,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Deck Partitioning & Weight Balance in Shared Logistics</h2>
                 <div class="pvft-grid-2">
                     <div class="pvft-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Partitioned truck deck loading with heavy ratchet straps in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Partitioned truck deck loading with heavy ratchet straps in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>To preserve structural safety and prevent load shifts when navigating winding ghat sections between Ranchi and Ramgarh or Barhi:</p>

@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ujjain to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ujjain-to-ranchi-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 16,000 - 64,000",
     "address": {
       "@type": "PostalAddress",
@@ -427,7 +427,7 @@ include_once __DIR__ . '/../includes/config.php';
     <h1>Reliable Ujjain to Ranchi Packers and Movers</h1>
     <p>Hassle-free household shifting, Vikram University faculty relocations, and vehicle transport from Ujjain to Ranchi. Experience premium 5-layer packing, GPS highway tracking, and direct delivery across Morabadi, Harmu, and Ashok Nagar.</p>
     <div class="uj2r-cta-group">
-      <a href="tel:+919334404052" class="uj2r-btn-primary">Call Now: +91 93344 04052</a>
+      <a href="tel:+919835565233" class="uj2r-btn-primary">Call Now: +91 9835565233</a>
       <a href="<?php echo SITE_BASE_URL; ?>/contact" class="uj2r-btn-secondary">Request Free Survey &amp; Quote</a>
     </div>
   </div>
@@ -444,7 +444,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Hero Image Card 1 -->
   <div class="uj2r-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container moving truck for Ujjain to Ranchi relocation" width="680" height="360" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container moving truck for Ujjain to Ranchi relocation" width="680" height="360" loading="lazy">
   </div>
 
   <!-- Strategic Highway Routing -->
@@ -489,7 +489,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Packing Image Card 2 -->
   <div class="uj2r-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="High grade multi layer furniture packing for Ujjain to Ranchi move" width="680" height="360" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="High grade multi layer furniture packing for Ujjain to Ranchi move" width="680" height="360" loading="lazy">
   </div>
 
   <!-- Five Layer Packaging Protocol -->
@@ -525,7 +525,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Vehicle Transport Image Card 3 -->
   <div class="uj2r-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and scooter safe packing for Ujjain to Ranchi transit" width="680" height="360" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and scooter safe packing for Ujjain to Ranchi transit" width="680" height="360" loading="lazy">
   </div>
 
   <!-- Transparent Pricing Table -->
@@ -583,7 +583,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Loading Crew Image Card 4 -->
   <div class="uj2r-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading and unloading crew handling household items" width="680" height="360" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading and unloading crew handling household items" width="680" height="360" loading="lazy">
   </div>
 
   <!-- Step-by-Step Execution Protocol -->
@@ -715,7 +715,7 @@ include_once __DIR__ . '/../includes/config.php';
     <h3 style="font-size: 1.8rem; margin-bottom: 14px; color: #ffffff;">Ready to Plan Your Relocation from Ujjain to Ranchi?</h3>
     <p style="font-size: 1.05rem; max-width: 760px; margin: 0 auto 24px; color: #f5d0fe; line-height: 1.6;">Contact our customer relocation specialists today for an instant zero-obligation cost estimation, free pre-move home inspection, and assured transit slots.</p>
     <div class="uj2r-cta-group">
-      <a href="tel:+919334404052" class="uj2r-btn-primary">Call +91 93344 04052</a>
+      <a href="tel:+919835565233" class="uj2r-btn-primary">Call +91 9835565233</a>
       <a href="<?php echo SITE_BASE_URL; ?>/contact" class="uj2r-btn-secondary">Book Free Survey Online</a>
     </div>
   </div>

@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Household Storage & Warehousing Guide Ranchi | Safe Luggage & Furniture Storage | Call 9708579999</title>
-    <meta name="description" content="Complete guide to household goods storage and secure warehousing in Ranchi. Short-term and long-term storage tariffs, 24/7 CCTV security, pest control, and damp protection. Call 9708579999.">
+    <title>Household Storage & Warehousing Guide Ranchi | Safe Luggage & Furniture Storage | Call 9835565233</title>
+    <meta name="description" content="Complete guide to household goods storage and secure warehousing in Ranchi. Short-term and long-term storage tariffs, 24/7 CCTV security, pest control, and damp protection. Call 9835565233.">
     <meta name="keywords" content="household storage ranchi, warehouse for luggage storage ranchi, furniture storage facility ranchi, short term household goods storage ranchi, long term warehousing charges jharkhand, shree ashirwad packers warehouse">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/household-storage-guide-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Warehousing",
         "image": "<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/household-storage-guide-ranchi",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Household Storage & Warehousing Guide in Ranchi: Safe Goods Custody</h1>
                 <p>Whether you are facing a delayed apartment handover, undertaking home renovations, or departing on an extended outstation transfer, learn how secure commercial warehousing in Ranchi protects your precious furniture, appliances, and personal possessions against moisture, dust, and security risks.</p>
                 <div class="hsgr-cta-group">
-                    <a href="tel:+919708579999" class="hsgr-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20household%20storage%20rates%20and%20warehouse%20booking%20in%20Ranchi" class="hsgr-btn-wa" target="_blank" rel="noopener">WhatsApp Storage Quote</a>
+                    <a href="tel:+919835565233" class="hsgr-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20household%20storage%20rates%20and%20warehouse%20booking%20in%20Ranchi" class="hsgr-btn-wa" target="_blank" rel="noopener">WhatsApp Storage Quote</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="hsgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Organized commercial palletized goods warehouse of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Organized commercial palletized goods warehouse of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -274,7 +274,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Specialized Packaging Protocols for Long-Term Goods Preservation</h2>
                 <div class="hsgr-grid-2">
                     <div class="hsgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Industrial wrapping and corrugated sheet packing for long term warehouse storage" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Industrial wrapping and corrugated sheet packing for long term warehouse storage" loading="lazy">
                     </div>
                     <div>
                         <p>Packing for a one-day local move is vastly different from preparing household goods for 3 to 12 months in a storage vault. Standard cardboard boxes can absorb atmospheric moisture over time if not properly barrier-sealed.</p>
@@ -357,7 +357,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="hsgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof container truck logistics handling household storage pickup in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof container truck logistics handling household storage pickup in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -367,7 +367,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Weatherproof Container Vaulting & Ranchi Monsoon Protection</h2>
                 <div class="hsgr-grid-2">
                     <div class="hsgr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof containerized storage vaulting for household goods in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof containerized storage vaulting for household goods in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Ranchi experiences intense monsoon rainstorms between June and September, with relative atmospheric humidity frequently soaring past 85 percent. Without aggressive moisture controls, stored textiles develop mold spores, while solid sheesham or teak furniture can swell, warp, and crack.</p>

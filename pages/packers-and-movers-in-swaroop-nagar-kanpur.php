@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Swaroop Nagar Kanpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="swnk-hero-title">Packers and Movers in Swaroop Nagar Kanpur</h1>
         <p class="swnk-hero-subtitle">Bespoke residential shifting across Swaroop Nagar, Tilak Nagar, Arya Nagar, and Motijheel. Specialized white-glove moving for luxury bungalows, antique wooden furniture, and express interstate logistics.</p>
         <div class="swnk-cta-group">
-            <a href="tel:+919334404050" class="swnk-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="swnk-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="swnk-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="swnk-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have earned the steadfast trust of Swaroop Nagar families over a decade of dedicated, high-touch moving service. Relocating a luxury home in this elite district demands white-glove finesse: ancestral estates often house rare handcrafted rosewood furnishings, delicate crystal chandeliers, fine art collections, and multi-room modular wardrobes that cannot withstand generic handling. Our seasoned relocation personnel treat every household item with consummate care.</p>
 
         <div class="swnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Swaroop Nagar Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Swaroop Nagar Kanpur" loading="lazy">
             <p class="swnk-image-caption">Dedicated residential loading and luxury bungalow shifting operations in Swaroop Nagar Kanpur</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="swnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap packing in Swaroop Nagar Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap packing in Swaroop Nagar Kanpur" loading="lazy">
             <p class="swnk-image-caption">Three-layer bubble wrap and heavy corrugated sheets protect fragile electronics and chinaware</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="swnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling double bed in Swaroop Nagar Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling double bed in Swaroop Nagar Kanpur" loading="lazy">
             <p class="swnk-image-caption">Certified carpenters safely dismantle and reassemble modular double beds and heavy cabinetry</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="swnk-intro-p">Furthermore, the nearby Ganga Barrage Road provides a smooth alternative bypass toward Unnao and Lucknow, enabling our linehaul trucks to avoid central Kanpur railway crossings and maintain reliable inter-state delivery timelines.</p>
 
         <div class="swnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Swaroop Nagar Kanpur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Swaroop Nagar Kanpur" loading="lazy">
             <p class="swnk-image-caption">Weatherproof enclosed container trucks guarantee reliable, timely door-to-door deliveries</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Experience Premier Shifting in Swaroop Nagar</h3>
         <p>Contact our Swaroop Nagar relocation specialists today for an upfront quote, personalized survey, and damage-free moving service.</p>
         <div class="swnk-cta-group">
-            <a href="tel:+919334404050" class="swnk-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="swnk-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="swnk-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

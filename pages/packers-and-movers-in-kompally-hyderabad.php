@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kompally",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kompally-hyderabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,800 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -551,7 +551,7 @@
     <p>Our dedicated Kompally team operates all seven days of the week, accommodating flexible weekend and evening packing schedules that align perfectly with the busy calendars of corporate executives and growing families.</p>
 
     <div class="kmp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Kompally Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Kompally Hyderabad" loading="lazy">
       <p class="kmp-image-caption">Careful loading operations and apartment logistics across residential enclaves in Kompally Hyderabad.</p>
     </div>
   </section>
@@ -584,7 +584,7 @@
     <p>Our experienced technicians also take charge of disassembling and reassembling king-size storage beds, multi-door wardrobes, and wall-mounted electronics, freeing customers from the hassle of coordinating outside carpenters or handymen.</p>
 
     <div class="kmp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office IT Equipment Packing in Kompally" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office IT Equipment Packing in Kompally" loading="lazy">
       <p class="kmp-image-caption">Secure anti-static wrapping and heavy-duty carton packing for commercial IT systems in Kompally.</p>
     </div>
   </section>
@@ -646,7 +646,7 @@
     <p>Our billing structure contains zero hidden fuel surcharges or ambiguous stair-carry fees. Everything is clearly committed in a binding digital quotation before any packing commences.</p>
 
     <div class="kmp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Kompally" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Kompally" loading="lazy">
       <p class="kmp-image-caption">Reinforced protective wrapping for mahogany wardrobes and designer sofas before transit.</p>
     </div>
   </section>
@@ -722,7 +722,7 @@
     <p>Whether relocating a luxury villa in Aparna Palm Grove or managing an interstate container freight shipment along NH-44, our operations team ensures that all logistics tasks are executed smoothly without unnecessary delays.</p>
 
     <div class="kmp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Kompally" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Kompally" loading="lazy">
       <p class="kmp-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
   </section>
@@ -807,7 +807,7 @@
   <section class="kmp-cta-banner">
     <h3>Book Your Luxury Move in Kompally Today!</h3>
     <p>Contact our friendly relocation experts for a free pre-move survey, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Hyderabad and India.</p>
-    <a class="kmp-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="kmp-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

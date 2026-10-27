@@ -137,14 +137,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Professional Packing and Unpacking Services in Ranchi - Shree Ashirwad Packers" title="Packing and Unpacking Services in Ranchi - 5-Layer Packaging Shield" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Professional Packing and Unpacking Services in Ranchi - Shree Ashirwad Packers" title="Packing and Unpacking Services in Ranchi - 5-Layer Packaging Shield" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">5-Layer</span>
                 <span class="badge-txt">Packaging Shield</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom LED TV Wooden Crating and Packing in Jharkhand - Shree Ashirwad Packers" title="Custom LED TV Wooden Crating" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom LED TV Wooden Crating and Packing in Jharkhand - Shree Ashirwad Packers" title="Custom LED TV Wooden Crating" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -393,8 +393,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 1: Kitchen Crockery & Glassware -->
           <div class="pack-card">
             <div class="pack-card-img">
-              <img 
-                src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" 
                 alt="Kitchen Crockery Bubble Packing in Ranchi - Shree Ashirwad Packers" 
                 title="Kitchen Crockery and Glassware Protective Bubble Packing in Ranchi" 
                 loading="lazy" 
@@ -417,8 +416,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 2: Smart LED / OLED TVs & Displays -->
           <div class="pack-card">
             <div class="pack-card-img">
-              <img 
-                src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
                 alt="Electronics LED TV Wooden Crating in Jharkhand - Shree Ashirwad Packers" 
                 title="Custom Wooden Crating for Smart LED and OLED TVs" 
                 loading="lazy" 
@@ -441,8 +439,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 3: Modular Beds & Teak Furniture -->
           <div class="pack-card">
             <div class="pack-card-img">
-              <img 
-                src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" 
                 alt="Double Bed Furniture Dismantling in Ranchi - Shree Ashirwad Packers" 
                 title="Double Bed Dismantling and Wooden Furniture Protective Wrapping" 
                 loading="lazy" 
@@ -465,8 +462,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 4: Sofas, Recliners & Upholstery -->
           <div class="pack-card">
             <div class="pack-card-img">
-              <img 
-                src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" 
                 alt="Sofa Furniture Protective Packing in Ranchi - Shree Ashirwad Packers" 
                 title="Leather and Fabric Sofa Protective Multi-Layer Wrapping" 
                 loading="lazy" 
@@ -489,8 +485,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 5: Heavy Appliances & Refrigerators -->
           <div class="pack-card">
             <div class="pack-card-img">
-              <img 
-                src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" 
                 alt="Household Appliances Protective Cover in Ranchi - Shree Ashirwad Packers" 
                 title="Household Refrigerator and Washing Machine Protective Packing" 
                 loading="lazy" 
@@ -513,8 +508,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 6: Pooja Mandir Deities & Fragile Decor -->
           <div class="pack-card">
             <div class="pack-card-img">
-              <img 
-                src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" 
                 alt="Fragile Glassware and Sacred Pooja Mandir Packing in Ranchi - Shree Ashirwad Packers" 
                 title="Fragile Glassware and Sacred Temple Idols Protective Box Packing" 
                 loading="lazy" 
@@ -607,8 +601,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <div>
             <div class="pack-showcase-img">
-              <img 
-                src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" 
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" 
                 alt="Unpacking and Setup Service in Ranchi - Shree Ashirwad Packers" 
                 title="White Glove Unpacking and Furniture Setup Services in Ranchi" 
                 loading="lazy" 

@@ -634,7 +634,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/delhi-to-hazaribagh-packe
                 <p>Whether you are a central government employee on rotational posting, a defense or paramilitary personnel stationed at BSF Meru Camp or Police Academy, an NTPC or Coal India engineer, an IT professional returning to your native home in Jharkhand, or a retired officer settling in Hazaribagh, our white-glove relocation service ensures completely stress-free moving.</p>
             </div>
             <div class="del2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Delhi to Hazaribagh household shifting" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Delhi to Hazaribagh household shifting" loading="lazy">
                 <div class="del2hzb-img-caption">Dedicated sealed container trucks operating nationwide on the Delhi-Hazaribagh interstate highway route</div>
             </div>
         </div>
@@ -679,7 +679,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/delhi-to-hazaribagh-packe
     <section class="del2hzb-section">
         <div class="del2hzb-grid-2">
             <div class="del2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Delhi to Hazaribagh transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Delhi to Hazaribagh transit" loading="lazy">
                 <div class="del2hzb-img-caption">Multi-layer protective bubble wrap, corrugated sheets, and foam edge guards for furniture and fragile items</div>
             </div>
             <div>
@@ -779,7 +779,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/delhi-to-hazaribagh-packe
                 </ul>
             </div>
             <div class="del2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Delhi to Hazaribagh vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Delhi to Hazaribagh vehicle relocation" loading="lazy">
                 <div class="del2hzb-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Delhi NCR and Hazaribagh</div>
             </div>
         </div>
@@ -835,7 +835,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/delhi-to-hazaribagh-packe
     <section class="del2hzb-section">
         <div class="del2hzb-grid-2">
             <div class="del2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
                 <div class="del2hzb-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Hazaribagh residences</div>
             </div>
             <div>

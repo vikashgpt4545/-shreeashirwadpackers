@@ -20,7 +20,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Nehru Nagar Bhilai",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nehru-nagar-bhilai",
-        "telephone": "+919334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -458,7 +458,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="nnb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Nehru Nagar Bhilai by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Comprehensive packing service in Nehru Nagar Bhilai by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -512,7 +512,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="nnb-grid-2">
             <div>
                 <div class="nnb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Nehru Nagar Bhilai shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for Nehru Nagar Bhilai shifting" loading="lazy">
                 </div>
             </div>
             <div>
@@ -592,7 +592,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="nnb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Nehru Nagar Bhilai by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Nehru Nagar Bhilai by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -641,7 +641,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="nnb-grid-2">
             <div>
                 <div class="nnb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods handling in Nehru Nagar Bhilai" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods handling in Nehru Nagar Bhilai" loading="lazy">
                 </div>
             </div>
             <div>
@@ -708,7 +708,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="nnb-cta">
         <h2>Planning a Move in Nehru Nagar Bhilai?</h2>
         <p>Contact our luxury relocation specialists today for a free on-site survey and guaranteed fixed-price quote.</p>
-        <a href="tel:+919334812328" class="nnb-cta-btn">Call +91-9334812328 for Free Survey</a>
+        <a href="tel:+919835565233" class="nnb-cta-btn">Call +91 9835565233 for Free Survey</a>
     </section>
 
 </main>

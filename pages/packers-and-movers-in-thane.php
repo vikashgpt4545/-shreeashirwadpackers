@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-thane';
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-thane#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-thane",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Thane</h1>
         <p>Premium residential packing, high-rise township moving, corporate IT relocations, and insured vehicle transport across Ghodbunder Road, Majiwada, Naupada, Pokhran Road, and Wagle Estate with 100% damage-free assurance.</p>
         <div class="thn-btn-wrap">
-            <a href="tel:+919334404050" class="thn-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="thn-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="thn-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of relocation mastery directly to Thane's residential and corporate communities. Relocating within Thane poses distinctive challenges: soaring 30-plus-story residential towers, strict gated society shifting schedules, and high-density traffic intersections requiring clockwork precision. Our seasoned team coordinates every operational variable, deploying specialized equipment such as heavy-duty hydraulic tailgates, rubberized floor protection mats, and enclosed, weatherproof container trucks.</p>
 
         <div class="thn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container truck in Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods container truck in Thane" width="580" height="387" loading="lazy">
             <p class="thn-image-caption">Professional loading and securing of household goods into our dedicated container trucks serving Thane West.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="thn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High-grade packaging materials and cartons for Thane shifting" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High-grade packaging materials and cartons for Thane shifting" width="580" height="387" loading="lazy">
             <p class="thn-image-caption">Multi-layer protective bubble wrap, corner guards, and heavy-gauge corrugated cartons engineered for safe shifting in Thane.</p>
         </div>
 
@@ -615,7 +615,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="thn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Thane" width="580" height="387" loading="lazy">
             <p class="thn-image-caption">Precision furniture dismantling, wrapping, and numbering of components carried out by our Thane carpentry crew.</p>
         </div>
 
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="thn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad Packers and Movers delivery truck in Thane" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad Packers and Movers delivery truck in Thane" width="580" height="387" loading="lazy">
             <p class="thn-image-caption">Dedicated closed-body moving vehicle parked for on-time residential delivery in a Thane residential township.</p>
         </div>
 
@@ -736,7 +736,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="thn-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Planning a Move in or out of Thane?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Connect with our professional relocation advisors today for a complimentary on-site or digital assessment and guaranteed upfront estimate.</p>
-            <a href="tel:+919334404050" class="thn-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="thn-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

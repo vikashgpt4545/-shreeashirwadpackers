@@ -667,7 +667,7 @@ require_once __DIR__ . '/includes/header.php';
 
       <div class="col-lg-6">
         <div class="chatra-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Chatra Packers and Movers Container Fleet">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Chatra Packers and Movers Container Fleet">
           <div class="chatra-media-caption">
             Figure 1: Sealed weatherproof container trucks traversing the Ranchi-Hazaribagh-Simaria-Chatra highway route with complete protection against highway elements.
           </div>
@@ -859,7 +859,7 @@ require_once __DIR__ . '/includes/header.php';
     <div class="row align-items-center">
       <div class="col-lg-6 mb-4">
         <div class="chatra-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof Container Loading for Ranchi to Chatra Transit">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof Container Loading for Ranchi to Chatra Transit">
           <div class="chatra-media-caption">
             Figure 2: Sealed container loading ensuring zero coal dust, humidity, or highway grit reaches packaged goods during NH-20/522 transit.
           </div>
@@ -868,7 +868,7 @@ require_once __DIR__ . '/includes/header.php';
 
       <div class="col-lg-6 mb-4">
         <div class="chatra-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Chatra Shifting">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Chatra Shifting">
           <div class="chatra-media-caption">
             Figure 3: Multi-layer corrugated wrapping and bubble padding shielding wooden beds and executive wardrobes against transit friction.
           </div>
@@ -1078,7 +1078,7 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="chatra-media-box">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing for Chatra Relocation">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing for Chatra Relocation">
       <div class="chatra-media-caption">
         Figure 4: Delicate kitchen chinaware and glassware individually bubble-padded and compartmentalized for the Ranchi to Chatra moving corridor.
       </div>

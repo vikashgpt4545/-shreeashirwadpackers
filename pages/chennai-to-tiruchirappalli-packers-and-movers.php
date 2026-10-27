@@ -28,7 +28,7 @@ require_once __DIR__ . '/../includes/config.php';
         "description": "Licensed intercity household packing, residential shifting, and vehicle transportation between Chennai and Tiruchirappalli (Trichy).",
         "url": "<?php echo SITE_BASE_URL; ?>/chennai-to-tiruchirappalli-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
@@ -336,7 +336,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Whether you are moving from high-rise societies in Adyar, Velachery, OMR, Anna Nagar, or Tambaram in Chennai to distinguished Trichy residential areas like Thillai Nagar, K.K. Nagar, Srirangam, Cantonment, or Vayalur Road, our direct container trucks complete loading early in the morning and reach Trichy within 6 to 7 hours of highway travel via Chengalpattu, Tindivanam, Villupuram, and Perambalur.</p>
 
         <div class="cntr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Chennai to Trichy Container Truck Transit" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Chennai to Trichy Container Truck Transit" width="580" height="387" loading="lazy">
             <div class="cntr-img-caption">Sealed container trucks providing direct, rapid highway transit between Chennai and Tiruchirappalli.</div>
         </div>
 
@@ -359,7 +359,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>From fragile porcelain dinner sets, glassware, and smart 4K TVs to heavy solid wood furniture and double-door refrigerators, our skilled packing team systematically insulates each item before securing it inside our containerized vehicles.</p>
 
         <div class="cntr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Packing for Chennai to Trichy Move" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Packing for Chennai to Trichy Move" width="580" height="387" loading="lazy">
             <div class="cntr-img-caption">Multi-layer bubble wrapping, heavy corrugated cartons, and foam corners ensure complete transit safety.</div>
         </div>
 
@@ -450,7 +450,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Before loading in Chennai, our automotive inspector conducts an in-depth digital inspection covering odometer readings, fuel status, and exterior condition. Your vehicle is safely driven onto hydraulic ramps, secured using industrial nylon wheel-locks, and transported under active marine insurance coverage.</p>
 
         <div class="cntr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Chennai to Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Chennai to Trichy" width="580" height="387" loading="lazy">
             <div class="cntr-img-caption">Dedicated enclosed vehicle trailers providing door-to-door scratchless automobile and bike transport.</div>
         </div>
 
@@ -493,7 +493,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="cntr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Trichy" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Trichy" width="580" height="387" loading="lazy">
             <div class="cntr-img-caption">Professional destination unboxing, room-specific placement, furniture assembly, and packaging waste disposal.</div>
         </div>
     </section>

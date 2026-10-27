@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thoraipakkam-chennai";
         "name": "Shree Ashirwad Packers and Movers Thoraipakkam Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -516,7 +516,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thoraipakkam-chennai";
         <h1>Packers and Movers in Thoraipakkam Chennai | Safe Shifting</h1>
         <p>Reliable household goods shifting, gated high-rise apartment moving, techie weekend shifts, and vehicle transport across 200 Feet Radial Road, OMR Junction, and Pallavaram link.</p>
         <div class="tpk-btn-wrap">
-            <a href="tel:+919334404050" class="tpk-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="tpk-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="tpk-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -529,7 +529,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thoraipakkam-chennai";
         <p class="tpk-intro-p">From sprawling gated communities along the 200 Feet Radial Road to modern family apartments in Chandrasekhar Avenue, Anand Nagar, and MCN Nagar, Thoraipakkam is home to thousands of tech specialists, corporate executives, and young families. At <strong>Shree Ashirwad Packers and Movers</strong>, working in close harmony with our central metropolitan hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Packers and Movers in Chennai</a>, we offer customized moving strategies engineered specifically for Thoraipakkam's high-rise lifestyle.</p>
 
         <div class="tpk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Thoraipakkam Chennai Household Packing" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Thoraipakkam Chennai Household Packing" width="580" height="380" loading="lazy">
             <p class="tpk-image-caption">Careful multi-layer household wrapping and fragile carton packaging by Shree Ashirwad in Thoraipakkam</p>
         </div>
 
@@ -584,7 +584,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thoraipakkam-chennai";
         </div>
 
         <div class="tpk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection in Thoraipakkam Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection in Thoraipakkam Chennai" width="580" height="380" loading="lazy">
             <p class="tpk-image-caption">Dedicated high-density edge protection and multi-layer bubble wrap for modern furniture in Thoraipakkam</p>
         </div>
     </section>
@@ -649,7 +649,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thoraipakkam-chennai";
 
         <div class="tpk-highlight-box">
             <h3>Get Your Guaranteed Moving Quote Today</h3>
-            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Thoraipakkam moving desk directly at <strong>+91 9334404050</strong> for a complimentary pre-move assessment.</p>
+            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Thoraipakkam moving desk directly at <strong>+91 9835565233</strong> for a complimentary pre-move assessment.</p>
         </div>
     </section>
 
@@ -704,7 +704,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thoraipakkam-chennai";
         </div>
 
         <div class="tpk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Thoraipakkam" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Thoraipakkam" width="580" height="380" loading="lazy">
             <p class="tpk-image-caption">Individual bubble wrapping and compartmentalized cartons for crystal and fine chinaware in Thoraipakkam</p>
         </div>
     </section>
@@ -742,7 +742,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-thoraipakkam-chennai";
         </div>
 
         <div class="tpk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Thoraipakkam Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Thoraipakkam Chennai" width="580" height="380" loading="lazy">
             <p class="tpk-image-caption">Modern enclosed container trucks ensuring weatherproof and secure transit across Chennai and interstate</p>
         </div>
     </section>

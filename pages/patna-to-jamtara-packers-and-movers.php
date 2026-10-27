@@ -620,19 +620,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/patna-to-jamtara-packers-
         <!-- 4 Verified Images Display -->
         <div class="pat2jam-img-grid">
             <div class="pat2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Patna to Jamtara inter-state shifting">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof closed container truck for Patna to Jamtara inter-state shifting">
                 <div class="pat2jam-img-caption">All-weather metallic container trucks ensuring zero road dirt or moisture entry.</div>
             </div>
             <div class="pat2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials for Patna to Jamtara household goods">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials for Patna to Jamtara household goods">
                 <div class="pat2jam-img-caption">Reinforced corrugated cartons, multi-layer bubble wrap, and foam edge protectors.</div>
             </div>
             <div class="pat2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading sedan for Patna to Jamtara transport">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading sedan for Patna to Jamtara transport">
                 <div class="pat2jam-img-caption">Hydraulic car carriers with wheel locks and transit insurance for premium cars.</div>
             </div>
             <div class="pat2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and bed reassembly at Jamtara new residence">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and bed reassembly at Jamtara new residence">
                 <div class="pat2jam-img-caption">Professional destination setup, furniture assembly, and packing waste clearance.</div>
             </div>
         </div>

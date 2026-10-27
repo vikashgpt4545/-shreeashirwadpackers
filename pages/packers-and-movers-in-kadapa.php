@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kadapa",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kadapa",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>The city's vibrant residential fabric spans established sectors including Nagarajupeta, Yerramukkapalli, Rameswaram, Mariyapuram, and Maruthi Nagar, alongside expanding healthcare and educational institutions along RIMS Road and NGO Colony. Mining geologists, cement plant directors, medical specialists from Rajiv Gandhi Institute of Medical Sciences (RIMS), and business families depend on certified moving services capable of delivering white-glove household packing and industrial logistics with equal dedication.</p>
 
     <div class="kdpa-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Kadapa Andhra Pradesh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Kadapa Andhra Pradesh" loading="lazy">
       <p class="kdpa-image-caption">Disciplined residential quarter shifting and systematic loading operations in Kadapa.</p>
     </div>
 
@@ -595,7 +595,7 @@
     </div>
 
     <div class="kdpa-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Kadapa" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Kadapa" loading="lazy">
       <p class="kdpa-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Kadapa.</p>
     </div>
 
@@ -627,7 +627,7 @@
     </div>
 
     <div class="kdpa-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Kadapa" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Kadapa" loading="lazy">
       <p class="kdpa-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -641,7 +641,7 @@
     <p>Our local dispatchers coordinate moves during early morning hours (6:30 AM to 8:30 AM) to circumvent commercial traffic near 7 Roads Junction and Apsara Circle. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="kdpa-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Kadapa" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Kadapa" loading="lazy">
       <p class="kdpa-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -731,7 +731,7 @@
   <section class="kdpa-cta-banner">
     <h3>Plan Your Stress-Free Move in Kadapa Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="kdpa-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="kdpa-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

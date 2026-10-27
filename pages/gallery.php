@@ -266,14 +266,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad Verified Moving Truck in Jharkhand" title="Dedicated Closed Container Moving Fleet" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad Verified Moving Truck in Jharkhand" title="Dedicated Closed Container Moving Fleet" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">100% Real</span>
                 <span class="badge-txt">Fleet Proof</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew in Ranchi - Shree Ashirwad Packers" title="Trained Permanent Moving Crew in Ranchi" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew in Ranchi - Shree Ashirwad Packers" title="Trained Permanent Moving Crew in Ranchi" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -339,7 +339,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 1: Verified Moving Truck -->
           <div class="proof-card" data-category="household">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad Verified Moving Truck in Jharkhand" title="Dedicated Closed Container Fleet in Ranchi" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Shree Ashirwad Verified Moving Truck in Jharkhand" title="Dedicated Closed Container Fleet in Ranchi" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Household Moving</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -361,7 +361,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 2: Professional Loading Crew -->
           <div class="proof-card" data-category="household">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew in Ranchi - Shree Ashirwad Packers" title="Trained Permanent Loading Specialists" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew in Ranchi - Shree Ashirwad Packers" title="Trained Permanent Loading Specialists" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Loading Crew</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -383,7 +383,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 3: Wooden Furniture Wrapping -->
           <div class="proof-card" data-category="packing">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Wooden Furniture Protective Wrapping in Bokaro - Shree Ashirwad Packers" title="5-Layer Protective Furniture Packing" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Wooden Furniture Protective Wrapping in Bokaro - Shree Ashirwad Packers" title="5-Layer Protective Furniture Packing" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">5-Layer Packing</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -405,7 +405,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 4: Commercial Warehouse Facility -->
           <div class="proof-card" data-category="warehouse">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Handling Facility in Ranchi - Shree Ashirwad Packers" title="10,000+ Sq Ft Insured Warehouse in Ranchi" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Handling Facility in Ranchi - Shree Ashirwad Packers" title="10,000+ Sq Ft Insured Warehouse in Ranchi" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Warehousing</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -427,7 +427,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 5: Car Transport Carrier -->
           <div class="proof-card" data-category="vehicle">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Insured Car Transport Carrier Loading in Jharkhand - Shree Ashirwad Packers" title="Hydraulic Enclosed Car Carrier Loading" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Insured Car Transport Carrier Loading in Jharkhand - Shree Ashirwad Packers" title="Hydraulic Enclosed Car Carrier Loading" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Car Transport</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -449,7 +449,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 6: Electronics LED TV Wooden Crating -->
           <div class="proof-card" data-category="packing">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics LED TV Crating with Transit Insurance in Jharkhand - Shree Ashirwad Packers" title="Custom Wooden Crating for Large Smart TVs" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics LED TV Crating with Transit Insurance in Jharkhand - Shree Ashirwad Packers" title="Custom Wooden Crating for Large Smart TVs" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Custom Crating</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -471,7 +471,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 7: Office Equipment Moving -->
           <div class="proof-card" data-category="corporate">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment Secure Packing in Jamshedpur - Shree Ashirwad Packers" title="Corporate Office Equipment Moving in Jamshedpur" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment Secure Packing in Jamshedpur - Shree Ashirwad Packers" title="Corporate Office Equipment Moving in Jamshedpur" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Corporate Shifting</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -493,7 +493,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 8: Fragile Glassware Packing -->
           <div class="proof-card" data-category="packing">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Box Packing with All-Risk Moving Insurance in Ranchi - Shree Ashirwad Packers" title="Fragile Glassware and Crockery Partitioned Packing" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Box Packing with All-Risk Moving Insurance in Ranchi - Shree Ashirwad Packers" title="Fragile Glassware and Crockery Partitioned Packing" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Fragile Packing</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -515,7 +515,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 9: Bike Packing in Custom Crates -->
           <div class="proof-card" data-category="vehicle">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Two Wheeler Bike Packing with Comprehensive Transit Insurance in Jharkhand - Shree Ashirwad Packers" title="Insured Two-Wheeler Motorcycle Packing" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Two Wheeler Bike Packing with Comprehensive Transit Insurance in Jharkhand - Shree Ashirwad Packers" title="Insured Two-Wheeler Motorcycle Packing" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Bike Transport</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -537,7 +537,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 10: Complete Household Packing in Dhanbad -->
           <div class="proof-card" data-category="household">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Dhanbad - Shree Ashirwad Packers" title="Complete Household Packing in Dhanbad" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Dhanbad - Shree Ashirwad Packers" title="Complete Household Packing in Dhanbad" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Household Moving</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -559,7 +559,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 11: Heavy Machinery Office Shifting -->
           <div class="proof-card" data-category="corporate">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy Machinery and Office Shifting in Jharkhand - Shree Ashirwad Packers" title="Industrial Machinery and Heavy Rigging Move" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy Machinery and Office Shifting in Jharkhand - Shree Ashirwad Packers" title="Industrial Machinery and Heavy Rigging Move" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Industrial Rigging</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -581,7 +581,7 @@ require_once __DIR__ . '/includes/seo.php';
           <!-- Card 12: Door-to-Door Delivery Truck -->
           <div class="proof-card" data-category="household">
             <div class="proof-card-media">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Insured Moving Truck in Jharkhand - Shree Ashirwad Packers" title="Dedicated Doorstep Delivery Container Truck" class="proof-card-img" width="400" height="250" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Insured Moving Truck in Jharkhand - Shree Ashirwad Packers" title="Dedicated Doorstep Delivery Container Truck" class="proof-card-img" width="400" height="250" loading="lazy">
               <span class="proof-badge-category">Doorstep Delivery</span>
               <span class="proof-badge-location">
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
@@ -636,16 +636,16 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Infrastructure & Fleet Visual Showcase -->
         <div class="infra-images-grid" style="margin-top: 36px;">
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Ranchi - Shree Ashirwad Packers" title="Closed Container Shifting Fleet in Ranchi" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Ranchi - Shree Ashirwad Packers" title="Closed Container Shifting Fleet in Ranchi" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Domestic Intercity Container Truck Loading in Jharkhand - Shree Ashirwad Packers" title="Insured Highway Relocation Truck Loading" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Domestic Intercity Container Truck Loading in Jharkhand - Shree Ashirwad Packers" title="Insured Highway Relocation Truck Loading" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets in Ranchi - Shree Ashirwad Packers" title="Engineered 5-Layer Moving Materials" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets in Ranchi - Shree Ashirwad Packers" title="Engineered 5-Layer Moving Materials" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Handling Facility in Ranchi - Shree Ashirwad Packers" title="Secure Goods Warehousing and Transit Hub" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Handling Facility in Ranchi - Shree Ashirwad Packers" title="Secure Goods Warehousing and Transit Hub" width="400" height="260" loading="lazy">
           </div>
         </div>
 

@@ -83,7 +83,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -662,7 +662,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 1 -->
   <div class="img-showcase-giridih">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Giridih Packers and Movers Enclosed Highway Container Truck">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Giridih Packers and Movers Enclosed Highway Container Truck">
     <div class="caption">Shree Ashirwad Packers and Movers enclosed container trucks ready for direct Ranchi to Giridih highway linehaul.</div>
   </div>
 
@@ -760,7 +760,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 2 -->
   <div class="img-showcase-giridih">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Temple Mandir and Glassware Packing in Ranchi for Giridih Move">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Temple Mandir and Glassware Packing in Ranchi for Giridih Move">
     <div class="caption">Specialized packing and wooden crating for delicate marble temple idols, glassware, and brass heirlooms.</div>
   </div>
 
@@ -814,7 +814,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 3 -->
   <div class="img-showcase-giridih">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Household Packing for Ranchi to Giridih Moving">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Household Packing for Ranchi to Giridih Moving">
     <div class="caption">Systematic 5-layer protective wrapping and strapping of living room furniture before highway dispatch.</div>
   </div>
 
@@ -899,7 +899,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Image Showcase 4 -->
   <div class="img-showcase-giridih">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Company Moving Truck for Ranchi to Giridih Shifting">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Company Moving Truck for Ranchi to Giridih Shifting">
     <div class="caption">Shree Ashirwad Packers and Movers verified, GPS-monitored moving truck operating on the Ranchi-Giridih route.</div>
   </div>
 

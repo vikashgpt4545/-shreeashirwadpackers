@@ -20,7 +20,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jagdalpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jagdalpur",
-        "telephone": "+919334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -415,7 +415,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Anchored by our operational headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Ranchi HQ</a>, our Jagdalpur branch delivers top-tier packing, loading, and transit services tailored to the unique terrain of Southern Chhattisgarh. Whether you are an engineer moving into the NMDC township at Nagarnar, a state administrative official transferring to Raipur, or a family settling into Dharampura or Lalbagh, we protect your precious belongings with five-ply corrugated cartons, shock-absorbing bubble wrap, moisture-proof film, and customized heavy crating. You can review transparent tariff estimates anytime using our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">live moving charge calculator</a>.</p>
 
         <div class="jdp-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Jagdalpur by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Jagdalpur by Shree Ashirwad Packers and Movers">
             <div class="jdp-img-caption">Multi-layer protective bubble wrapping and reinforced carton packing in Jagdalpur</div>
         </div>
 
@@ -474,7 +474,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="jdp-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Jagdalpur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Jagdalpur">
             <div class="jdp-img-caption">High-grade packing materials, bubble wrap, and corrugated boxes in Jagdalpur</div>
         </div>
     </section>
@@ -590,7 +590,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="jdp-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Jagdalpur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Closed body container truck in Jagdalpur">
             <div class="jdp-img-caption">All-weather sealed container trucks ensuring zero weather exposure across Chhattisgarh</div>
         </div>
     </section>
@@ -637,7 +637,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="jdp-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Jagdalpur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier in Jagdalpur">
             <div class="jdp-img-caption">Hydraulic car carriers ensuring safe loading and scratch-free vehicle transport</div>
         </div>
     </section>
@@ -676,7 +676,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="jdp-cta-box">
         <h3>Book Your Stress-Free Move in Jagdalpur Today!</h3>
         <p>Contact our Bastar relocation desk for an instant transparent moving quotation and free pre-move consultation.</p>
-        <a href="tel:+919334812330" class="jdp-cta-btn">Call +91 9334812330 Now</a>
+        <a href="tel:+919835565233" class="jdp-cta-btn">Call +91 9835565233 Now</a>
     </section>
 </main>
 

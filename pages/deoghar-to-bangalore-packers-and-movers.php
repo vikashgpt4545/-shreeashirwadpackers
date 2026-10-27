@@ -602,19 +602,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-bangalore-pack
         <!-- Verified Image Showcase -->
         <div class="d2blr-img-showcase">
             <div class="d2blr-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the Deoghar to Bangalore national highway">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the Deoghar to Bangalore national highway">
                 <div class="d2blr-img-caption">Sealed container fleet operating the long-distance Deoghar-Bangalore interstate corridor.</div>
             </div>
             <div class="d2blr-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics">
                 <div class="d2blr-img-caption">5-layer packaging defense engineered for 2,000 km highway vibration resilience.</div>
             </div>
             <div class="d2blr-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile enclosed carrier loading in Deoghar for Bangalore transit">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile enclosed carrier loading in Deoghar for Bangalore transit">
                 <div class="d2blr-img-caption">Hydraulic wheel-chock automobile carrier transit between Deoghar and Bangalore.</div>
             </div>
             <div class="d2blr-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and room setup service in Bangalore apartment">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and room setup service in Bangalore apartment">
                 <div class="d2blr-img-caption">Complete room setup, appliance re-installation, and packing disposal in Bangalore.</div>
             </div>
         </div>

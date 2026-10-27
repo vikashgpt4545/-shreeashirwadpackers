@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cooch-behar#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cooch-behar",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -540,7 +540,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="cbh-body-p">Whether you are an agricultural researcher or professor transferring to the prestigious Uttar Banga Krishi Viswavidyalaya (UBKV) at Pundibari, an academic joining Cooch Behar Panchanan Barma University (CBPBU), a healthcare specialist taking charge at Cooch Behar Government Medical College and Hospital, or a business family moving between heritage quarters around Sagardighi, Rajbari Road, and Bhabaniganj Bazar, Shree Ashirwad Packers and Movers delivers fully synchronized, certified, and stress-free moving solutions tailored to the town's unique layout.</p>
 
                 <div class="cbh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Cooch Behar transport vehicle" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Cooch Behar transport vehicle" width="580" height="380" loading="lazy">
                     <div class="cbh-image-caption">Disciplined stowing and protective cargo lashing inside covered container transport in Cooch Behar.</div>
                 </div>
 
@@ -592,7 +592,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="cbh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Cooch Behar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Cooch Behar" width="580" height="380" loading="lazy">
                     <div class="cbh-image-caption">High-density air bubble wrap and 5-ply corrugated carton encasement protecting home goods in Cooch Behar.</div>
                 </div>
 
@@ -656,7 +656,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="cbh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Cooch Behar home" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Cooch Behar home" width="580" height="380" loading="lazy">
                     <div class="cbh-image-caption">Professional furniture disassembling and edge protection for modular double beds and wooden wardrobes in Cooch Behar.</div>
                 </div>
 
@@ -707,7 +707,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="cbh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Cooch Behar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Cooch Behar" width="580" height="380" loading="lazy">
                     <div class="cbh-image-caption">Punctual arrival and courteous doorstep delivery service by Shree Ashirwad Packers and Movers in Cooch Behar.</div>
                 </div>
 
@@ -762,9 +762,9 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="cbh-body-p">Speak directly with our local Cooch Behar operations supervisor for an instant price quote and scheduled on-site inspection.</p>
                 <div class="cbh-highlight-box">
                     <div class="cbh-highlight-title">Direct Helpline</div>
-                    <p class="cbh-highlight-desc"><strong>+91 93344 60424</strong><br>Available 7 AM - 9:30 PM Daily</p>
+                    <p class="cbh-highlight-desc"><strong>+91 9835565233</strong><br>Available 7 AM - 9:30 PM Daily</p>
                 </div>
-                <a href="tel:+919334460424" class="cbh-cta-button">Call Now for Free Quote</a>
+                <a href="tel:+919835565233" class="cbh-cta-button">Call Now for Free Quote</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cbh-cta-button" style="background: #1e3a8a; margin-top: 10px;">Calculate Tariff Online</a>
             </div>
 

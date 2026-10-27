@@ -39,7 +39,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-kuvempu
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-kuvempunagar-mysore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kuvempunagar-mysore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -526,7 +526,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Kuvempunagar Mysore</h1>
         <p>Premium household shifting, healthcare professional relocation, and fine furniture moving experts across Vishwamanava Double Road, Udayaravi Road, Complex, and Apollo Hospital area.</p>
         <div class="kvm-btn-wrap">
-            <a href="tel:+919334404050" class="kvm-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kvm-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kvm-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="kvm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons in Kuvempunagar Mysore" title="Residential packing in Kuvempunagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons in Kuvempunagar Mysore" title="Residential packing in Kuvempunagar">
             <p class="kvm-image-caption">High-density corrugated cartons and labeled inventory boxes prepared for home shifting in Kuvempunagar.</p>
         </div>
     </section>
@@ -587,7 +587,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Heavy home appliances—including double-door frost-free refrigerators, front-load washing machines, microwave ovens, and curved smart televisions—are wrapped with padded moving blankets, thermocol buffers, and heavy-duty shrink films. Washing machine drums are secured with transit locks, preventing internal suspension damage during vehicular movement on city roads or interstate highways.</p>
 
         <div class="kvm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and furniture protective packing in Kuvempunagar Mysore" title="Protective sofa wrapping in Kuvempunagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and furniture protective packing in Kuvempunagar Mysore" title="Protective sofa wrapping in Kuvempunagar">
             <p class="kvm-image-caption">Multi-layer bubble and stretch wrap shielding expensive upholstered sofas from dust and transit scuffs.</p>
         </div>
     </section>
@@ -630,7 +630,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="kvm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Kuvempunagar Mysore" title="Unpacking and furniture setup in Kuvempunagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Kuvempunagar Mysore" title="Unpacking and furniture setup in Kuvempunagar">
             <p class="kvm-image-caption">Dedicated room-by-room box unpacking and furniture assembly service for a hassle-free transition.</p>
         </div>
     </section>
@@ -740,7 +740,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="kvm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Weatherproof container truck loading in Kuvempunagar" title="Container truck loading in Kuvempunagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Weatherproof container truck loading in Kuvempunagar" title="Container truck loading in Kuvempunagar">
             <p class="kvm-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

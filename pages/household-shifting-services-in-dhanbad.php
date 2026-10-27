@@ -342,7 +342,7 @@ $meta_keywords = "household shifting services in dhanbad, home shifting in dhanb
         
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Dhanbad home" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Dhanbad home" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Dhanbad Residential Packaging</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Room-by-room categorized packing using heavy-duty 5-ply cartons, color-coded stickers, and systematic labeling.</p>
@@ -350,7 +350,7 @@ $meta_keywords = "household shifting services in dhanbad, home shifting in dhanb
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and wrapping" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and wrapping" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Modular Furniture Carpentry</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Professional dismantling of king-size beds, modular wardrobes, and multi-tier dining sets with hardware labeling.</p>
@@ -358,7 +358,7 @@ $meta_keywords = "household shifting services in dhanbad, home shifting in dhanb
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery bubble packing" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery bubble packing" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Delicate Kitchenware & Glassware</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Individual item bubble wrapping, foam separator sheets, and sturdy partitioned cartons ensuring zero transit cracks.</p>

@@ -658,7 +658,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="bsp-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sealed Container Truck for Bilaspur to Ranchi Shifting" title="Household Goods Loading Bilaspur to Ranchi">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Sealed Container Truck for Bilaspur to Ranchi Shifting" title="Household Goods Loading Bilaspur to Ranchi">
             </div>
         </div>
     </div>
@@ -740,7 +740,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="bsp-ran-container">
         <div class="bsp-ran-two-col">
             <div class="bsp-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Inspecting Furniture and Fragile Cartons" title="Professional Packing and Inspection Crew">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Inspecting Furniture and Fragile Cartons" title="Professional Packing and Inspection Crew">
             </div>
             <div class="bsp-ran-two-col-text">
                 <h2>5-Layer Defensive Packaging Architecture</h2>
@@ -805,7 +805,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="bsp-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Bilaspur to Ranchi Transport" title="Motorcycle Transport Bilaspur to Ranchi">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Carrier Packing for Bilaspur to Ranchi Transport" title="Motorcycle Transport Bilaspur to Ranchi">
             </div>
         </div>
     </div>
@@ -816,7 +816,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="bsp-ran-container">
         <div class="bsp-ran-two-col">
             <div class="bsp-ran-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Storage and Warehouse Hub for Transit Goods" title="Secure Warehouse Storage Facility">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Storage and Warehouse Hub for Transit Goods" title="Secure Warehouse Storage Facility">
             </div>
             <div class="bsp-ran-two-col-text">
                 <h2>100% Audit-Approved Bills for SECR, SECL &amp; High Court Personnel</h2>

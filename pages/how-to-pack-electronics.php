@@ -15,8 +15,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Pack Electronics for Moving: TV, PC & Appliances | Call 9708579999</title>
-    <meta name="description" content="Master guide on how to pack electronics for moving in Ranchi. Call 9708579999 for LED TV wooden crating, PC setups, refrigerator safety & free quote.">
+    <title>How to Pack Electronics for Moving: TV, PC & Appliances | Call 9835565233</title>
+    <meta name="description" content="Master guide on how to pack electronics for moving in Ranchi. Call 9835565233 for LED TV wooden crating, PC setups, refrigerator safety & free quote.">
     <meta name="keywords" content="how to pack electronics for moving, led tv packing for shifting ranchi, computer pc packing movers ranchi, electronic appliances moving ranchi, anti static electronics packing, home theatre relocation ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/how-to-pack-electronics">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/how-to-pack-electronics",
-        "telephone": "+91-9708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -224,8 +224,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>How to Pack Electronics for Moving: TV, PC & Appliances</h1>
                 <p>Electronics are the most financially valuable and mechanically sensitive assets in modern homes. From 75-inch OLED displays and liquid-cooled gaming PCs to side-by-side refrigerators, discover how our certified technical crews achieve zero static damage and zero screen cracking.</p>
                 <div class="hpet-cta-group">
-                    <a href="tel:+919708579999" class="hpet-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20electronics%20packing%20advice%20and%20a%20quote%20for%20Ranchi" class="hpet-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
+                    <a href="tel:+919835565233" class="hpet-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20electronics%20packing%20advice%20and%20a%20quote%20for%20Ranchi" class="hpet-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -244,7 +244,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="hpet-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom wooden flight crating built for large screen LED TV in Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom wooden flight crating built for large screen LED TV in Jharkhand" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -287,7 +287,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Desktop PCs, Liquid-Cooled Gaming Rigs & Monitors</h2>
                 <div class="hpet-grid-2">
                     <div class="hpet-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High-density corrugated packaging sheets and bubble wrap rolls for computer workstations in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High-density corrugated packaging sheets and bubble wrap rolls for computer workstations in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <h3>Preventing GPU Sag & Motherboard Fracture</h3>
@@ -316,7 +316,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="hpet-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty padded protective appliance cover fitted over double-door refrigerator in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty padded protective appliance cover fitted over double-door refrigerator in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -429,7 +429,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>All-Weather Enclosed Transport Safety</h2>
                 <div class="hpet-grid-2">
                     <div class="hpet-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed all-weather container truck of Shree Ashirwad Packers and Movers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed all-weather container truck of Shree Ashirwad Packers and Movers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Rainwater seepage and excessive humidity are fatal to sensitive electronics. A single drop of rainwater entering through an open-truck canvas tarp can permanently short-circuit an LED TV power supply board.</p>

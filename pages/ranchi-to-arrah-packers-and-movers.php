@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Arrah",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-arrah-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 12,000 - 52,000",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Harmu Road & Morabadi Logistics Complex",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -427,7 +427,7 @@ include_once __DIR__ . '/../includes/config.php';
     <h1>Professional Ranchi to Arrah Packers and Movers</h1>
     <p>Flawless household relocation, academic transfers, and vehicle transport from Ranchi to Arrah (Bhojpur). Benefit from certified 5-layer packing, GPS route tracking, and direct delivery across Nawada, Anaith, and Katira.</p>
     <div class="r2ar-cta-group">
-      <a href="tel:+919334404052" class="r2ar-btn-primary">Call Now: +91 93344 04052</a>
+      <a href="tel:+919835565233" class="r2ar-btn-primary">Call Now: +91 9835565233</a>
       <a href="<?php echo SITE_BASE_URL; ?>/contact" class="r2ar-btn-secondary">Request Free Survey &amp; Quote</a>
     </div>
   </div>
@@ -444,7 +444,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Hero Image Card 1 -->
   <div class="r2ar-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container moving truck for Ranchi to Arrah relocation" width="680" height="360" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All weather container moving truck for Ranchi to Arrah relocation" width="680" height="360" loading="lazy">
   </div>
 
   <!-- Strategic Route Logistics Breakdown -->
@@ -489,7 +489,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Packing Image Card 2 -->
   <div class="r2ar-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi layer heavy furniture packing for Ranchi to Arrah move" width="680" height="360" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi layer heavy furniture packing for Ranchi to Arrah move" width="680" height="360" loading="lazy">
   </div>
 
   <!-- Five Layer Packaging Technology -->
@@ -525,7 +525,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Vehicle Transport Image Card 3 -->
   <div class="r2ar-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two wheeler motorcycle safe transit packing for Arrah delivery" width="680" height="360" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two wheeler motorcycle safe transit packing for Arrah delivery" width="680" height="360" loading="lazy">
   </div>
 
   <!-- Transparent Cost Estimates Table -->
@@ -583,7 +583,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Loading Crew Image Card 4 -->
   <div class="r2ar-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Trained packing and loading crew handling heavy furniture" width="680" height="360" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Trained packing and loading crew handling heavy furniture" width="680" height="360" loading="lazy">
   </div>
 
   <!-- Step by Step Relocation Protocol -->
@@ -715,7 +715,7 @@ include_once __DIR__ . '/../includes/config.php';
     <h3 style="font-size: 1.8rem; margin-bottom: 14px; color: #ffffff;">Ready to Plan Your Relocation from Ranchi to Arrah?</h3>
     <p style="font-size: 1.05rem; max-width: 760px; margin: 0 auto 24px; color: #ede9fe; line-height: 1.6;">Contact our customer relocation specialists today for an instant zero-obligation cost estimation, free pre-move home inspection, and assured transit slots.</p>
     <div class="r2ar-cta-group">
-      <a href="tel:+919334404052" class="r2ar-btn-primary">Call +91 93344 04052</a>
+      <a href="tel:+919835565233" class="r2ar-btn-primary">Call +91 9835565233</a>
       <a href="<?php echo SITE_BASE_URL; ?>/contact" class="r2ar-btn-secondary">Book Free Survey Online</a>
     </div>
   </div>

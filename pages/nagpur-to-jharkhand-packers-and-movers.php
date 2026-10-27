@@ -25,7 +25,7 @@ require_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Nagpur to Jharkhand Service",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "url": "<?php echo SITE_BASE_URL; ?>/nagpur-to-jharkhand-packers-and-movers",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹16,000 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -441,7 +441,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 <!-- Quick Action Contact Bar -->
 <div class="njh-quick-bar">
-  Direct Highway Logistics Helpline: <strong>+91 9334484001 / +91 8409531615</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/919334484001?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Nagpur%20to%20Jharkhand%20relocation">Chat on WhatsApp</a>
+  Direct Highway Logistics Helpline: <strong>+91 9835565233 / +91 8409531615</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Nagpur%20to%20Jharkhand%20relocation">Chat on WhatsApp</a>
 </div>
 
 <!-- Section 1: Route Overview & Highway Logistics -->
@@ -465,7 +465,7 @@ require_once __DIR__ . '/../includes/config.php';
     </div>
     <div>
       <div class="njh-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Nagpur to Jharkhand interstate container truck loading" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Nagpur to Jharkhand interstate container truck loading" loading="lazy">
       </div>
     </div>
   </div>
@@ -566,7 +566,7 @@ require_once __DIR__ . '/../includes/config.php';
   </div>
 
   <div class="njh-image-container" style="margin-top: 36px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Nagpur household relocation goods packing in multi-layer cartons" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Nagpur household relocation goods packing in multi-layer cartons" loading="lazy">
   </div>
 </section>
 
@@ -628,7 +628,7 @@ require_once __DIR__ . '/../includes/config.php';
     </div>
     <div>
       <div class="njh-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Nagpur to Ranchi furniture bubble and stretch wrap protective packing" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Nagpur to Ranchi furniture bubble and stretch wrap protective packing" loading="lazy">
       </div>
     </div>
   </div>
@@ -684,7 +684,7 @@ require_once __DIR__ . '/../includes/config.php';
   </div>
 
   <div class="njh-image-container" style="margin-top: 36px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Interstate goods container departure from Nagpur to Jharkhand destinations" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Interstate goods container departure from Nagpur to Jharkhand destinations" loading="lazy">
   </div>
 </section>
 
@@ -724,7 +724,7 @@ require_once __DIR__ . '/../includes/config.php';
   <div class="njh-cta-box">
     <h3>Planning Your Relocation from Nagpur to Jharkhand?</h3>
     <p>Get a guaranteed flat-rate estimate with zero hidden costs, free pre-move survey, and premium 5-layer protective packing for complete peace of mind.</p>
-    <a href="tel:+919334484001" class="njh-btn-primary">Call Now: +91 9334484001</a>
+    <a href="tel:+919835565233" class="njh-btn-primary">Call Now: +91 9835565233</a>
   </div>
 </section>
 

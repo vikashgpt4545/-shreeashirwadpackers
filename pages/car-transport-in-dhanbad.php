@@ -342,7 +342,7 @@ $meta_keywords = "car transport in dhanbad, car carrier service dhanbad, car shi
         
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Hydraulic Low-Ramp Loading</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Low-angle loading ramps prevent bumper scuffs and underbody scratches even on premium low-clearance sedans.</p>
@@ -350,7 +350,7 @@ $meta_keywords = "car transport in dhanbad, car carrier service dhanbad, car shi
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed car container truck Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed car container truck Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Covered Weatherproof Carriers</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Double-decker closed car carriers and sealed containers shielding vehicles completely from highway dust and rain.</p>
@@ -358,7 +358,7 @@ $meta_keywords = "car transport in dhanbad, car carrier service dhanbad, car shi
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door car transport delivery Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door car transport delivery Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Doorstep Collection & Handover</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Direct home pickup across Dhanbad residential sectors and delivery right to your new driveway anywhere across India.</p>

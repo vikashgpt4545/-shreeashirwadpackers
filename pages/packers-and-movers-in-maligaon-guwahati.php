@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Maligaon Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-maligaon-guwahati",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="mlg-container">
       <h1>Packers and Movers in Maligaon Guwahati</h1>
       <p>Pinnacle railway relocation logistics, Northeast Frontier Railway staff transfers, Kamakhya station proximity moving, and safe pan-India container transit in Maligaon.</p>
-      <a href="tel:+919334484001" class="mlg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="mlg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Maligaon holds a unique and prestigious position in the urban geography of Guwahati as the supreme administrative headquarters of the Northeast Frontier Railway (NFR). Sprawling across green hill slopes near the northern base of the Nilachal Hills, Maligaon is defined by its vast railway colony complexes, the bustling commercial junction of Maligaon Chariali, the historic Pandu port area along the Brahmaputra River, and immediate connectivity to the critical Kamakhya Railway Station. Home to thousands of railway officers, technical engineers, central government personnel, healthcare staff at the NFR Central Hospital, and thriving business establishments, Maligaon experiences continuous relocation traffic throughout the year. Relocating within or out of Maligaon requires an experienced moving partner who understands railway transfer claim protocols, narrow quarter approach lanes, and severe regional monsoon rainfall.</p>
 
       <div class="mlg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Maligaon Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Maligaon Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mlg-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Maligaon operational unit delivers tailored relocation services designed to address the diverse needs of railway staff, corporate professionals, local traders, and educational faculty:</p>
 
       <div class="mlg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Maligaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Maligaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mlg-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every move handled by Shree Ashirwad Packers and Movers in Maligaon follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="mlg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Maligaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Maligaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mlg-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Maligaon:</p>
 
       <div class="mlg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Maligaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Maligaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="mlg-grid-cards">

@@ -900,7 +900,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2rkl-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Sealed Container Truck for Rourkela to Ranchi Interstate Relocation" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Sealed Container Truck for Rourkela to Ranchi Interstate Relocation" loading="lazy">
         </div>
       </div>
     </div>
@@ -1024,7 +1024,7 @@ require_once __DIR__ . '/includes/header.php';
     <div class="r2rkl-container">
       <div class="r2rkl-grid-2">
         <div class="r2rkl-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-Layer Solid Wood and Steel Furniture Wrapping for Rourkela to Ranchi Relocation" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-Layer Solid Wood and Steel Furniture Wrapping for Rourkela to Ranchi Relocation" loading="lazy">
         </div>
         <div class="r2rkl-content-box">
           <div class="r2rkl-sec-badge">Official Claims Ready</div>
@@ -1132,7 +1132,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2rkl-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective Padded Appliance Covers for Rourkela to Ranchi Transit" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective Padded Appliance Covers for Rourkela to Ranchi Transit" loading="lazy">
         </div>
       </div>
     </div>
@@ -1307,7 +1307,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2rkl-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Express Doorstep Delivery Vehicle Arriving in Ranchi Residential Sectors" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Express Doorstep Delivery Vehicle Arriving in Ranchi Residential Sectors" loading="lazy">
         </div>
       </div>
     </div>

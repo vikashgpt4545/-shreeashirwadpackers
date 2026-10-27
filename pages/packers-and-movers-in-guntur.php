@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Guntur",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-guntur",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>Located just 30 kilometers from the Amaravati Capital City zone and Vijayawada, Guntur is characterized by vibrant commercial avenues such as <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-brodipet-guntur" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Brodipet Guntur</a>, trading sectors like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-arundelpet-guntur" style="color: #0284c7; text-decoration: underline; font-weight: 600;">packers and movers in Arundelpet Guntur</a>, and upscale residential enclaves like Lakshmipuram, Koretipadu, Gujjanagundla, and Pattabhipuram. Thousands of agricultural traders, university professors, physicians, and corporate executives depend on reliable, damage-free relocation services that handle both heritage homes and high-rise apartments.</p>
 
     <div class="gtr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Guntur Andhra Pradesh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Guntur Andhra Pradesh" loading="lazy">
       <p class="gtr-image-caption">Disciplined residential quarter shifting and systematic loading operations in Guntur.</p>
     </div>
 
@@ -595,7 +595,7 @@
     </div>
 
     <div class="gtr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Guntur" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Guntur" loading="lazy">
       <p class="gtr-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Guntur.</p>
     </div>
 
@@ -627,7 +627,7 @@
     </div>
 
     <div class="gtr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Guntur" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Guntur" loading="lazy">
       <p class="gtr-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -641,7 +641,7 @@
     <p>Our local dispatchers coordinate moves during early morning hours (6:30 AM to 8:30 AM) to avoid heavy commercial vehicle congestion around the market yards and railway level crossings. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="gtr-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Guntur" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Guntur" loading="lazy">
       <p class="gtr-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -731,7 +731,7 @@
   <section class="gtr-cta-banner">
     <h3>Plan Your Stress-Free Move in Guntur Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="gtr-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="gtr-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

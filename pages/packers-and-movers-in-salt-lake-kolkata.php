@@ -621,7 +621,7 @@
             </div>
             <div>
                 <div class="slk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Salt Lake Kolkata" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Salt Lake Kolkata" loading="lazy">
                     <p class="slk-image-caption">Systematic loading and protective strapping of household goods for residences in Salt Lake, Kolkata.</p>
                 </div>
                 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
@@ -695,7 +695,7 @@
         <div class="slk-grid-2">
             <div>
                 <div class="slk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer protective packing materials used in Salt Lake Kolkata" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer protective packing materials used in Salt Lake Kolkata" loading="lazy">
                     <p class="slk-image-caption">Premium 5-layer protective packaging for household appliances and furniture in Salt Lake, Kolkata.</p>
                 </div>
             </div>
@@ -821,7 +821,7 @@
             </div>
             <div>
                 <div class="slk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing services in Salt Lake Kolkata" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing services in Salt Lake Kolkata" loading="lazy">
                     <p class="slk-image-caption">Professional furniture dismantling, padding, and reassembly by certified technicians in Salt Lake, Kolkata.</p>
                 </div>
             </div>
@@ -876,7 +876,7 @@
         <div class="slk-grid-2">
             <div>
                 <div class="slk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Salt Lake Kolkata" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Salt Lake Kolkata" loading="lazy">
                     <p class="slk-image-caption">Dedicated enclosed container truck executing doorstep delivery in Salt Lake, Kolkata.</p>
                 </div>
             </div>

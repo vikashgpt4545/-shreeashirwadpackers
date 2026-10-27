@@ -743,7 +743,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-kol-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment and Corporate Moving Adityapur to Kolkata" title="Corporate and IT Office Relocation">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office Equipment and Corporate Moving Adityapur to Kolkata" title="Corporate and IT Office Relocation">
                 </div>
             </div>
         </div>
@@ -872,7 +872,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKAGING DEFENSE -->
             <div class="adi-kol-two-col">
                 <div class="adi-kol-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing for Adityapur to Kolkata Shifting" title="Crockery Bubble Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen Crockery Bubble Packing for Adityapur to Kolkata Shifting" title="Crockery Bubble Packing">
                 </div>
                 <div class="adi-kol-two-col-text">
                     <h2>Advanced 5-Layer Defensive Packaging Standards</h2>
@@ -940,14 +940,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-kol-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Adityapur to Kolkata Relocation" title="Intercity Moving Truck Loading">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Adityapur to Kolkata Relocation" title="Intercity Moving Truck Loading">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & CARRIER VEHICLE -->
             <div class="adi-kol-two-col" style="margin-top: 45px;">
                 <div class="adi-kol-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Adityapur to Kolkata Shifting" title="Car Carrier Transport">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Adityapur to Kolkata Shifting" title="Car Carrier Transport">
                 </div>
                 <div class="adi-kol-two-col-text">
                     <h2>Comprehensive Locality Coverage in Adityapur &amp; Kolkata</h2>

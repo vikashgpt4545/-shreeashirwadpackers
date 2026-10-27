@@ -491,7 +491,7 @@ $og_image = SITE_BASE_URL . "/images/wooden-furniture-wrapping-bokaro.jpg";
                     <p>Our fleet consists of dedicated, weatherproof container vehicles built to absorb road shocks and vibrations. With trained loaders, skilled carpenters, and experienced drivers who know local entry permits and sector restrictions in Bokaro, your entire shifting process is completed on schedule within a single working day.</p>
                 </div>
                 <div class="bag2bok-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping and handling for Bokaro relocation" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping and handling for Bokaro relocation" loading="lazy">
                 </div>
             </div>
         </div>
@@ -548,7 +548,7 @@ $og_image = SITE_BASE_URL . "/images/wooden-furniture-wrapping-bokaro.jpg";
         <div class="bag2bok-container">
             <div class="bag2bok-two-col">
                 <div class="bag2bok-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and crockery packing in padded cartons" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and crockery packing in padded cartons" loading="lazy">
                 </div>
                 <div>
                     <h2 class="bag2bok-section-title" style="text-align: left;">High-Precision Packing for Fragile Crockery &amp; Electronics</h2>
@@ -644,7 +644,7 @@ $og_image = SITE_BASE_URL . "/images/wooden-furniture-wrapping-bokaro.jpg";
                     <p>Our transport crews maintain dedicated transit logs and GPS communication throughout the journey from Bagodar to Bokaro. Whether negotiating busy market intersections around Nawadih or passing through industrial check-posts near Phusro, our seasoned drivers navigate with high caution, ensuring zero jolts to your automobile or crated household cargo.</p>
                 </div>
                 <div class="bag2bok-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and scooter secure carrier loading for Bokaro transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and scooter secure carrier loading for Bokaro transit" loading="lazy">
                 </div>
             </div>
         </div>
@@ -655,7 +655,7 @@ $og_image = SITE_BASE_URL . "/images/wooden-furniture-wrapping-bokaro.jpg";
         <div class="bag2bok-container">
             <div class="bag2bok-two-col">
                 <div class="bag2bok-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck safely navigating highway corridor to Bokaro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck safely navigating highway corridor to Bokaro" loading="lazy">
                 </div>
                 <div>
                     <h2 class="bag2bok-section-title" style="text-align: left;">SAIL BSL, Banking &amp; Government Transfer Support</h2>

@@ -602,19 +602,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-kolkata-packer
         <!-- Verified Image Showcase -->
         <div class="d2kol-img-showcase">
             <div class="d2kol-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the Deoghar to Kolkata NH-19 corridor">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on the Deoghar to Kolkata NH-19 corridor">
                 <div class="d2kol-img-caption">Sealed container fleet operating the high-speed Deoghar-Kolkata NH-19 corridor.</div>
             </div>
             <div class="d2kol-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics">
                 <div class="d2kol-img-caption">5-layer packaging defense safeguarding fragile appliances and wooden furniture.</div>
             </div>
             <div class="d2kol-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car carrier trailer loading in Deoghar for Kolkata transit">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car carrier trailer loading in Deoghar for Kolkata transit">
                 <div class="d2kol-img-caption">Wheel-chocked automobile carrier transit between Deoghar and Kolkata.</div>
             </div>
             <div class="d2kol-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and room arrangement in Kolkata high-rise apartment">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking and room arrangement in Kolkata high-rise apartment">
                 <div class="d2kol-img-caption">Complete room setup, appliance re-installation, and packaging disposal in Kolkata.</div>
             </div>
         </div>

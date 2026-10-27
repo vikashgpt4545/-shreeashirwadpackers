@@ -335,7 +335,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-lat
       </div>
       <div style="text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" 
                alt="Packers and Movers in Latehar 5-Layer Household Packing" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 
@@ -473,7 +473,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-lat
 
       <div style="order: 1; text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
                alt="Door to Door Delivery Truck Latehar Shree Ashirwad Packers" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 
@@ -647,7 +647,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-lat
       </div>
       <div style="text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
                alt="Electronics and LED TV Crating Latehar Shree Ashirwad Packers" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 
@@ -692,7 +692,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-lat
 
       <div style="order: 1; text-align: center;">
         <div style="aspect-ratio: 3/4; max-width: 400px; margin: 0 auto; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 28px rgba(0,0,0,0.12); border: 1px solid #e2e8f0;">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" 
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" 
                alt="Two Wheeler Motorcycle Carrier Latehar Shree Ashirwad Packers" 
                style="width: 100%; height: 100%; object-fit: cover; display: block;" 
                loading="lazy" 

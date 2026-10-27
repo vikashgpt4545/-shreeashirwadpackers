@@ -537,7 +537,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>An IBA-standard moving bill is not merely a single invoice; it is a legally synchronized <strong>6-part evidentiary dossier</strong> proving that goods were professionally packed, physically loaded onto a registered commercial vehicle, legally transported across state highways with valid e-Way Bills, and delivered to the employee's new transfer posting without fraudulent inflation.</p>
 
         <div class="ibab-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for IBA compliant employee relocation claims" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for IBA compliant employee relocation claims" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our corporate documentation desk prepares the complete dossier according to your employer's specific service rules (e.g., SBI TA Rules, Central Civil Services Transfer Rules, or PSU HR Manuals), ensuring zero deduction on eligible freight and packing allowances.</p>
@@ -615,7 +615,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ibab-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation with IBA approved documentation" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation with IBA approved documentation" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: Comparative Format Table -->
@@ -673,7 +673,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ibab-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging with certified IBA documentation" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging with certified IBA documentation" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: 5-Step Process to Claim Relocation Reimbursement -->
@@ -711,7 +711,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>For more detailed tax compliance information, check our guide on <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-gst-rate" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">Packers and Movers GST Rates (18% vs 5%)</a>, calculate your route estimates with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">live relocation cost calculator</a>, and review our <a href="<?php echo SITE_BASE_URL; ?>/how-to-calculate-packers-and-movers-charges" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">guide to calculating moving charges</a>.</p>
 
         <div class="ibab-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding with verified IBA billing paperwork" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding with verified IBA billing paperwork" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Bank and PSU Staff Trust Shree Ashirwad -->

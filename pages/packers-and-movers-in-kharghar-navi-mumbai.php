@@ -37,7 +37,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-khargha
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-kharghar-navi-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kharghar-navi-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -469,7 +469,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Kharghar Navi Mumbai</h1>
         <p>Premier residential packing, planned township apartment relocation, modular furniture assembly, and insured vehicle transport across Central Park, Sector 20, Sector 35, and Utsav Chowk with 100% damage-free assurance.</p>
         <div class="khg-btn-wrap">
-            <a href="tel:+919334404050" class="khg-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="khg-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="khg-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of relocation mastery directly to Kharghar. Moving in this scenic node requires an experienced partner who respects strict society moving regulations, understands basement loading clearance limits, and navigates inter-sector ring roads with clockwork efficiency. Our crews arrive with heavy-duty furniture dollies, protective floor runners, and weatherproof container vehicles.</p>
 
         <div class="khg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Kharghar Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Kharghar Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="khg-image-caption">Dedicated moving crews packing and securing household cargo into our container trucks serving Kharghar Navi Mumbai.</p>
         </div>
 
@@ -528,7 +528,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="khg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Kharghar Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade bubble wrap and packaging cartons in Kharghar Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="khg-image-caption">Multi-layer protective bubble wrap rolls and heavy-gauge corrugated boxes engineered for apartment shifting in Kharghar.</p>
         </div>
 
@@ -620,7 +620,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="khg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Kharghar Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Kharghar Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="khg-image-caption">Carpentry technicians systematically dismantling and wrapping modular furniture panels prior to loading in Kharghar.</p>
         </div>
 
@@ -668,7 +668,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="khg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Kharghar Navi Mumbai relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Kharghar Navi Mumbai relocation" width="580" height="387" loading="lazy">
             <p class="khg-image-caption">Dedicated enclosed moving vehicle stationed for on-time residential shifting in a Kharghar apartment complex.</p>
         </div>
 
@@ -743,7 +743,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="khg-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Planning a Move in or out of Kharghar?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Reach out to our moving specialists today for an obligation-free doorstep quotation and seamless relocation coordination.</p>
-            <a href="tel:+919334404050" class="khg-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="khg-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raiganj#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-raiganj",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -540,7 +540,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="rgj-body-p">Whether you are an administrative officer transferring through the district collectorate headquarters at Karnajora, a physician or medical professor joining Raiganj Government Medical College and Hospital, an academic taking up tenure at Raiganj University, or an established commercial merchant expanding trade infrastructure along Mohanbati, Bandar, and Siliguri More, Shree Ashirwad Packers and Movers delivers prompt, certified, and stress-free relocation solutions engineered specifically for the town's geographic conditions.</p>
 
                 <div class="rgj-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Raiganj transport vehicle" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Raiganj transport vehicle" width="580" height="380" loading="lazy">
                     <div class="rgj-image-caption">Disciplined stowing and strapping of packed domestic cartons into covered container vehicles in Raiganj.</div>
                 </div>
 
@@ -592,7 +592,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="rgj-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Raiganj" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Raiganj" width="580" height="380" loading="lazy">
                     <div class="rgj-image-caption">Reinforced 5-layer corrugated packing and high-grade bubble cushioning safeguarding household valuables in Raiganj.</div>
                 </div>
 
@@ -656,7 +656,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="rgj-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Raiganj home" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Raiganj home" width="580" height="380" loading="lazy">
                     <div class="rgj-image-caption">Expert carpenter dismantling modular double beds, wardrobes, and delicate furnishings prior to wrapping in Raiganj.</div>
                 </div>
 
@@ -707,7 +707,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="rgj-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Raiganj" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Raiganj" width="580" height="380" loading="lazy">
                     <div class="rgj-image-caption">Punctual arrival and courteous doorstep delivery service by Shree Ashirwad Packers and Movers in Raiganj.</div>
                 </div>
 
@@ -762,9 +762,9 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="rgj-body-p">Speak directly with our local Raiganj operations manager for an instant free quotation and scheduled on-site inspection.</p>
                 <div class="rgj-highlight-box">
                     <div class="rgj-highlight-title">Direct Helpline</div>
-                    <p class="rgj-highlight-desc"><strong>+91 93344 60424</strong><br>Available 7 AM - 9:30 PM Daily</p>
+                    <p class="rgj-highlight-desc"><strong>+91 9835565233</strong><br>Available 7 AM - 9:30 PM Daily</p>
                 </div>
-                <a href="tel:+919334460424" class="rgj-cta-button">Call Now for Free Quote</a>
+                <a href="tel:+919835565233" class="rgj-cta-button">Call Now for Free Quote</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="rgj-cta-button" style="background: #1e3a8a; margin-top: 10px;">Calculate Tariff Online</a>
             </div>
 

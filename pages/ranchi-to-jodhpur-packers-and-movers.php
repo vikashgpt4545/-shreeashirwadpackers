@@ -665,7 +665,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="rjd-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Ranchi to Jodhpur Interstate Container Fleet Loading" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Ranchi to Jodhpur Interstate Container Fleet Loading" loading="lazy">
             </div>
         </div>
     </div>
@@ -789,7 +789,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="rjd-container">
         <div class="rjd-two-col">
             <div class="rjd-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Packaging for Ranchi to Jodhpur Shifting" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Packaging for Ranchi to Jodhpur Shifting" loading="lazy">
             </div>
             <div>
                 <span class="rjd-tag">Damage-Free Guarantee</span>
@@ -874,7 +874,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </div>
             </div>
             <div class="rjd-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi Doorstep Packing and Safe Dispatch by Shree Ashirwad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi Doorstep Packing and Safe Dispatch by Shree Ashirwad" loading="lazy">
             </div>
         </div>
     </div>
@@ -885,7 +885,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="rjd-container">
         <div class="rjd-two-col">
             <div class="rjd-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Ranchi to Jodhpur Enclosed Car Transport and Bike Carrier Loading" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Ranchi to Jodhpur Enclosed Car Transport and Bike Carrier Loading" loading="lazy">
             </div>
             <div>
                 <span class="rjd-tag">Automobile Relocation</span>

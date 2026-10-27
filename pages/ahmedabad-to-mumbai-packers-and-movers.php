@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Premier interstate relocation services from Ahmedabad to Mumbai specializing in complete home shifting, corporate relocations, enclosed vehicle carriers, luggage transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Traversing 525 km of western India's most modern expressway network, our fleet maintains scheduled transit speeds while safeguarding delicate household goods, electronics, and heavy furniture against road vibrations and seasonal weather shifts.</p>
 
     <div class="mba-img-card" style="max-width: 580px; margin: 24px auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08); background: #f8fafc; border: 1px solid #e2e8f0;">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ahmedabad to Mumbai interstate moving container truck" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ahmedabad to Mumbai interstate moving container truck" width="580" height="380" loading="lazy">
       <div class="abm-img-caption">Sealed containerized freight trucks engineered for high-speed NE1 and NH48 interstate transit.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="abm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective packing for Ahmedabad to Mumbai shifting" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective packing for Ahmedabad to Mumbai shifting" width="580" height="380" loading="lazy">
       <div class="abm-img-caption">Heavy-duty 7-ply cartons, shock-absorbing bubble wrap, and waterproof sealing for long-distance transit.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="abm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated bike carrier loading for Ahmedabad to Mumbai relocation" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated bike carrier loading for Ahmedabad to Mumbai relocation" width="580" height="380" loading="lazy">
       <div class="abm-img-caption">Specialized two-wheeler carrier packing ensuring zero-scratch transport to Mumbai.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="abm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Mumbai" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Mumbai" width="580" height="380" loading="lazy">
       <div class="abm-img-caption">Expert destination unpacking, furniture reassembly, and debris clearance service in Mumbai.</div>
     </div>
   </section>

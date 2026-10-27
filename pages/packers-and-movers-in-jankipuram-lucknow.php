@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jankipuram Lucknow",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="jkp-hero-title">Packers and Movers in Jankipuram Lucknow</h1>
         <p class="jkp-hero-subtitle">Specialized relocation services across Jankipuram, Jankipuram Extension, AKTU, CDRI campus, and Kursi Road. Expert high-rise society moving, faculty transfers, and express highway logistics.</p>
         <div class="jkp-cta-group">
-            <a href="tel:+919334404050" class="jkp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="jkp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jkp-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="jkp-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we bring more than a decade of specialized moving expertise to Jankipuram. From high-rise apartment transfers in modern complexes like Srishti and Smriti Apartments to independent house shifting across Sector F, G, and J, our skilled moving crews deliver organized, damage-free execution tailored to the demands of modern residential living.</p>
 
         <div class="jkp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Jankipuram Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Jankipuram Lucknow" loading="lazy">
             <p class="jkp-image-caption">Dedicated residential loading and high-rise apartment shifting operations across Jankipuram</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="jkp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrap and carton packaging in Jankipuram" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrap and carton packaging in Jankipuram" loading="lazy">
             <p class="jkp-image-caption">Virgin multi-layer bubble wrap and sturdy 5-ply cartons safeguard delicate electronics and study materials</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="jkp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by carpenters in Jankipuram" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by carpenters in Jankipuram" loading="lazy">
             <p class="jkp-image-caption">Skilled carpenters carefully disassemble modular double beds and heavy furniture for safe transit</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="jkp-intro-p">Furthermore, the direct link to Kisan Path (Outer Ring Road) allows containerized freight vehicles to bypass all internal city bottlenecks. Our moving trucks transition directly onto national highways heading north toward Bareilly and Delhi NCR or east toward Faizabad Road (NH-27) and the Purvanchal Expressway within minutes of dispatch.</p>
 
         <div class="jkp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Jankipuram Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Jankipuram Lucknow" loading="lazy">
             <p class="jkp-image-caption">All-weather closed container fleet guarantees punctual, secure door-to-door moving</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Stress-Free Move in Jankipuram</h3>
         <p>Contact our experienced Jankipuram relocation team today for a prompt quotation, free doorstep survey, and damage-free moving service.</p>
         <div class="jkp-cta-group">
-            <a href="tel:+919334404050" class="jkp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="jkp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jkp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

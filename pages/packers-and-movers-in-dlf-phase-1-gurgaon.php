@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="dlf1-intro-p">Relocating within DLF Phase 1 demands a specialized white-glove standard of care that exceeds ordinary moving protocols. Homes in this elite sector are defined by high-value interior furnishings, imported Italian marble dining consoles, antique teak wood wardrobes, fragile crystal chandeliers, priceless oil canvases, home wine cellars, and sprawling terrace garden collections. Plotted properties present unique logistics requirements: maneuvering heavy solid furniture down multi-story interior stairways, navigating narrow private driveway gates, and ensuring zero noise pollution or disruption along peaceful tree-lined neighborhood lanes. Shree Ashirwad Packers and Movers brings verified white-glove moving expertise to DLF Phase 1, deploying custom-treated wooden crating, specialized staircase lifting gear, and master carpentry crews backed by a 100% zero-damage guarantee.</p>
 
         <div class="dlf1-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in DLF Phase 1 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in DLF Phase 1 Gurgaon" width="580" height="360">
             <div class="dlf1-image-caption">Dedicated white-glove loading operations and cargo bracing inside covered container fleet in DLF Phase 1</div>
         </div>
 
@@ -575,7 +575,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="dlf1-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for DLF Phase 1 homes" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for DLF Phase 1 homes" width="580" height="360">
             <div class="dlf1-image-caption">Multi-layer bubble wrap, foam corner protectors, and reinforced 5-ply cartons safeguard fragile luxury goods</div>
         </div>
 
@@ -642,7 +642,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="dlf1-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in DLF Phase 1" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in DLF Phase 1" width="580" height="360">
             <div class="dlf1-image-caption">Skilled carpenters disassembling hydraulic double beds and wardrobes for scratch-free transit</div>
         </div>
 
@@ -699,7 +699,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="dlf1-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in DLF Phase 1" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in DLF Phase 1" width="580" height="360">
             <div class="dlf1-image-caption">Covered container fleet providing prompt, scratch-free delivery across Gurgaon and Delhi NCR</div>
         </div>
     </section>

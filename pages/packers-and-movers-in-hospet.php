@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hospet";
         "name": "Shree Ashirwad Packers and Movers Hospet",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -519,7 +519,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hospet";
         <h1>Packers and Movers in Hospet (Hosapete)</h1>
         <p>Premier Relocation Partner for Vijayanagara District Capital, Gateway to Hampi UNESCO Heritage & Tungabhadra Industrial Steel Corridor</p>
         <div class="hsp-btn-wrap">
-            <a href="tel:+919334404050" class="hsp-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="hsp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hsp-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hospet";
         </div>
 
         <div class="hsp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Hospet Karnataka" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Hospet Karnataka" width="580" height="380" loading="lazy">
             <p class="hsp-image-caption">Certified packaging team packing household goods with export-grade materials in Hospet.</p>
         </div>
     </section>
@@ -587,7 +587,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hospet";
         </div>
 
         <div class="hsp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Hospet" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Hospet" width="580" height="380" loading="lazy">
             <p class="hsp-image-caption">Multi-layer protective bubble wrap and edge guards applied to wooden furniture in Hospet.</p>
         </div>
     </section>
@@ -651,11 +651,11 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hospet";
 
         <div class="hsp-highlight-box">
             <h3>Need an Exact Estimate for Your Move?</h3>
-            <p>Our online calculation system calculates real-time tariffs based on consignment cubic volume, floor levels, packing specifications, and distance. Check your instant quote via our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or connect with our customer team at +91 9334404050.</p>
+            <p>Our online calculation system calculates real-time tariffs based on consignment cubic volume, floor levels, packing specifications, and distance. Check your instant quote via our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or connect with our customer team at +91 9835565233.</p>
         </div>
 
         <div class="hsp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Packing in Hospet" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware Packing in Hospet" width="580" height="380" loading="lazy">
             <p class="hsp-image-caption">Individual item wrapping with bubble sheets and honeycomb cartons for delicate kitchenware.</p>
         </div>
     </section>
@@ -696,7 +696,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hospet";
         </div>
 
         <div class="hsp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Moving Truck in Hospet" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Moving Truck in Hospet" width="580" height="380" loading="lazy">
             <p class="hsp-image-caption">Weatherproof sealed container vehicle ready for highway transit along the NH-50 corridor.</p>
         </div>
     </section>

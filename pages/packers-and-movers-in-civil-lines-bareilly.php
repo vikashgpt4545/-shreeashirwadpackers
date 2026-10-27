@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Civil Lines Bareilly",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -463,7 +463,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Civil Lines Bareilly</h1>
         <p>White-glove household shifting, judicial and officer bungalow relocations, and fine art moving across Civil Lines, Ayub Khan Chauraha, and Rampur Garden with certified zero-damage safety.</p>
         <div class="clb-hero-btn-group">
-            <a href="tel:+919334404050" class="clb-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="clb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="clb-btn-secondary">Check Tariff</a>
         </div>
     </section>
@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="clb-intro-p">Inhabited by senior judges, administrative officers, eminent medical specialists, legal luminaries, and prominent business leaders, Civil Lines demands a level of relocation service that transcends standard transport. Every move requires discreet coordination, white-glove packaging standards, and respectful handling of antique rosewood furniture, fragile chandeliers, and private libraries.</p>
 
         <div class="clb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Civil Lines Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Civil Lines Bareilly" width="580" height="380" loading="lazy">
             <p class="clb-image-caption">Our professional relocation crew safely loading packed goods into container trucks in Civil Lines Bareilly.</p>
         </div>
 
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="clb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Civil Lines Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Civil Lines Bareilly" width="580" height="380" loading="lazy">
             <p class="clb-image-caption">High-density bubble wrapping and reinforced multi-wall cartons utilized for household goods in Civil Lines Bareilly.</p>
         </div>
 
@@ -666,7 +666,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="clb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Civil Lines Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Civil Lines Bareilly" width="580" height="380" loading="lazy">
             <p class="clb-image-caption">Skilled carpenters carefully dismantling wooden beds and securing modular hardware in Civil Lines Bareilly.</p>
         </div>
     </section>
@@ -679,7 +679,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="clb-intro-p">Heading westbound, our GPS-monitored container trucks connect effortlessly through the northern bypass toward Rampur, Moradabad, and Delhi NCR in approximately 5 to 6 hours. Northbound connections provide swift access toward Pilibhit and Uttarakhand foothill hubs like Haldwani and Kathgodam.</p>
 
         <div class="clb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Civil Lines Bareilly" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Civil Lines Bareilly" width="580" height="380" loading="lazy">
             <p class="clb-image-caption">Clean, enclosed container trucks delivering household goods safely to residences in Civil Lines Bareilly.</p>
         </div>
 
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Stress-Free Civil Lines Move Today</h3>
         <p>Get in touch with our Civil Lines relocation specialists today for a personalized on-site survey, customized packaging schedule, and transparent price quotation.</p>
         <div class="clb-cta-group">
-            <a href="tel:+919334404050" class="clb-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="clb-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="clb-btn-secondary">Request Free Quote</a>
         </div>
     </section>

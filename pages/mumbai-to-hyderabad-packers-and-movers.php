@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Mumbai to Hyderabad specializing in household shifting, corporate IT office moves, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,800 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 710 km arterial corridor between Mumbai, Maharashtra and Hyderabad, Telangana connects India's commercial capital to the epicenter of Indian enterprise software and biotechnology. Whether transferring your corporate career from Bandra-Kurla Complex (BKC), Lower Parel, or Powai to Hyderabad's HITEC City, Gachibowli, or Financial District, or shifting your family household from Andheri, Borivali, or Thane to Banjara Hills or Jubilee Hills, Shree Ashirwad Packers and Movers delivers an exemplary relocation experience built upon industrial-grade logistics execution.</p>
     
     <div class="mbh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Mumbai to Hyderabad transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Mumbai to Hyderabad transit" loading="lazy">
       <div class="mbh-img-caption">Dedicated sealed container trucks engineered for high-speed, weatherproof transit along the NH65 corridor.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 710 km transit across the Deccan plateau demands engineered packaging that resists sustained highway micro-vibrations, thermal shifts, and road shocks along expressways and national freight corridors.</p>
 
     <div class="mbh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping for interstate relocation" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping for interstate relocation" loading="lazy">
       <div class="mbh-img-caption">Careful unbolting and multi-layer protective padding for beds, wardrobes, and modular furniture.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across 710 km of national highways can lead to severe physical exhaustion, stone chip damage, and unnecessary mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="mbh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
       <div class="mbh-img-caption">Covered hydraulic car carriers ensuring damage-free car and motorcycle transport between Mumbai and Hyderabad.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="mbh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading for interstate relocation in Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading for interstate relocation in Hyderabad" loading="lazy">
       <div class="mbh-img-caption">Specialized equipment and handling for high-rise gated communities in Mumbai and Hyderabad.</div>
     </div>
   </section>

@@ -134,14 +134,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods and Household Storage Warehouse in Ranchi - Shree Ashirwad Packers" title="Warehouse Services in Ranchi - Secure 24/7 Storage Facility" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods and Household Storage Warehouse in Ranchi - Shree Ashirwad Packers" title="Warehouse Services in Ranchi - Secure 24/7 Storage Facility" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">100%</span>
                 <span class="badge-txt">Secure Storage</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Warehouse Protective Materials and Corrugated Packaging - Shree Ashirwad Packers" title="Protective Packaging for Storage in Ranchi" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Warehouse Protective Materials and Corrugated Packaging - Shree Ashirwad Packers" title="Protective Packaging for Storage in Ranchi" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -275,7 +275,7 @@ require_once __DIR__ . '/includes/seo.php';
         <div class="room-packing-grid">
           
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Goods and Furniture Stored on Elevated Pallets - Shree Ashirwad Packers" title="Household Furniture Storage in Warehouse Ranchi" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Goods and Furniture Stored on Elevated Pallets - Shree Ashirwad Packers" title="Household Furniture Storage in Warehouse Ranchi" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Household Furniture & Family Assets</h3>
               <p class="room-pack-text">
@@ -290,7 +290,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Commercial Business Inventory Storage in Warehouse Jharkhand - Shree Ashirwad Packers" title="Commercial Inventory and Merchandise Warehousing" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Commercial Business Inventory Storage in Warehouse Jharkhand - Shree Ashirwad Packers" title="Commercial Inventory and Merchandise Warehousing" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Commercial Inventory & Retail Stock</h3>
               <p class="room-pack-text">
@@ -305,7 +305,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered Automobile and Vehicle Storage Bays in Ranchi - Shree Ashirwad Packers" title="Automobile and Two-Wheeler Storage Bays" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered Automobile and Vehicle Storage Bays in Ranchi - Shree Ashirwad Packers" title="Automobile and Two-Wheeler Storage Bays" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Automobile & Two-Wheeler Parking</h3>
               <p class="room-pack-text">
@@ -320,7 +320,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Corporate Document Archival and File Storage Vaults in Ranchi - Shree Ashirwad Packers" title="Corporate File Storage and Document Archival" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Corporate Document Archival and File Storage Vaults in Ranchi - Shree Ashirwad Packers" title="Corporate File Storage and Document Archival" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Corporate File Archival & Document Vaults</h3>
               <p class="room-pack-text">
@@ -507,16 +507,16 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Infrastructure & Fleet Visual Showcase -->
         <div class="infra-images-grid" style="margin-top: 36px;">
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Handling Facility in Ranchi - Shree Ashirwad Packers" title="Secure Goods Warehousing and Handling Center" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Handling Facility in Ranchi - Shree Ashirwad Packers" title="Secure Goods Warehousing and Handling Center" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Fleet Door to Door Delivery Truck - Shree Ashirwad Packers" title="Dedicated Closed Container Delivery Truck" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Fleet Door to Door Delivery Truck - Shree Ashirwad Packers" title="Dedicated Closed Container Delivery Truck" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading and Securing - Shree Ashirwad Packers" title="Intercity Cargo Stacking and Ratchet Securing" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading and Securing - Shree Ashirwad Packers" title="Intercity Cargo Stacking and Ratchet Securing" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy Machinery and Equipment Handling in Jharkhand - Shree Ashirwad Packers" title="Heavy Asset and Industrial Equipment Handling" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy Machinery and Equipment Handling in Jharkhand - Shree Ashirwad Packers" title="Heavy Asset and Industrial Equipment Handling" width="400" height="260" loading="lazy">
           </div>
         </div>
 

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Beltola Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-beltola-guwahati",
     "priceRange": "₹4,000 - ₹60,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="btg-container">
       <h1>Packers and Movers in Beltola Guwahati</h1>
       <p>Premier family household shifting, gated residential apartment moving, furniture dismantling, and pan-India safe container transport in Beltola and Basistha.</p>
-      <a href="tel:+919334484001" class="btg-hero-btn">Call +91 9334484001 for Free Moving Quote</a>
+      <a href="tel:+919835565233" class="btg-hero-btn">Call +91 9835565233 for Free Moving Quote</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Beltola stands as one of Guwahati's most established, culturally rich, and thriving residential districts, situated in the southeastern quadrant of the city along the arterial Basistha Road and National Highway 27 bypass. Famed across the Northeast for its historic bi-weekly Beltola Bazaar—a centuries-old trading exchange where indigenous farmers from neighboring Meghalaya and the Assam plains converge—Beltola seamlessly merges traditional community heritage with modern urban residential enclaves. Sub-localities including Survey, Bishnu Rabha Nagar, Lakshmi Nagar, Bongaon, and Basistha feature a blend of multi-storey apartment societies and spacious independent family homes. Managing household shifting in Beltola requires localized expertise in navigating historic market crowds, maneuvering narrow residential by-lanes, dismantling modular woodwork, and protecting belongings against heavy monsoon humidity.</p>
 
       <div class="btg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading household goods Beltola Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading household goods Beltola Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="btg-grid-2">
@@ -488,7 +488,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From local family moves in residential colonies to corporate relocations and long-distance transport, our services cover every relocation requirement:</p>
 
       <div class="btg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Beltola" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Beltola" width="580" height="360" loading="lazy">
       </div>
 
       <div class="btg-grid-cards">
@@ -525,7 +525,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers adheres to a disciplined operational workflow designed to guarantee complete safety and timeliness:</p>
 
       <div class="btg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Beltola" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Beltola" width="580" height="360" loading="lazy">
       </div>
 
       <div class="btg-grid-cards">
@@ -558,7 +558,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all major quarters and residential extensions of Beltola:</p>
 
       <div class="btg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Beltola" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Beltola" width="580" height="360" loading="lazy">
       </div>
 
       <div class="btg-grid-cards">

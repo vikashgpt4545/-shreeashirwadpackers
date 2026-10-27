@@ -39,7 +39,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-vijayan
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-vijayanagar-mysore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-vijayanagar-mysore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -526,7 +526,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Vijayanagar Mysore</h1>
         <p>Premium household shifting, luxury villa relocation, and intercity moving specialists across Vijayanagar 1st, 2nd, 3rd, and 4th Stages, High Tension Road, and Ring Road.</p>
         <div class="vjm-btn-wrap">
-            <a href="tel:+919334404050" class="vjm-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vjm-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vjm-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vjm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Vijayanagar Mysore" title="Careful goods loading in Vijayanagar Mysore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Vijayanagar Mysore" title="Careful goods loading in Vijayanagar Mysore">
             <p class="vjm-image-caption">Careful loading and systematic strapping inside our container trucks on wide Vijayanagar avenues.</p>
         </div>
     </section>
@@ -589,7 +589,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Moreover, many spacious independent homes in Vijayanagar 2nd and 3rd Stages feature carved wooden swings (oonjal / jhula), brass floor lamps, and grand display cases. Our skilled carpenters carefully unhook ceiling chains, cushion timber suspension planks with specialized edge guards, and pack delicate brass links in foam sleeves to prevent scuffs or surface abrasions throughout transit.</p>
 
         <div class="vjm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Vijayanagar Mysore" title="Skilled furniture dismantling in Vijayanagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Vijayanagar Mysore" title="Skilled furniture dismantling in Vijayanagar">
             <p class="vjm-image-caption">Certified carpenters dismantling and blanket-wrapping double beds and master wardrobes in Vijayanagar Mysore.</p>
         </div>
     </section>
@@ -630,7 +630,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vjm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery bubble packing in Vijayanagar Mysore" title="Fragile glassware packing in Vijayanagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery bubble packing in Vijayanagar Mysore" title="Fragile glassware packing in Vijayanagar">
             <p class="vjm-image-caption">Individual bubble-wrapping and corrugated cell dividers for fine chinaware, crockery, and glass items.</p>
         </div>
     </section>
@@ -740,7 +740,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="vjm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered container truck for Vijayanagar Mysore moving" title="GPS container truck in Vijayanagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered container truck for Vijayanagar Mysore moving" title="GPS container truck in Vijayanagar">
             <p class="vjm-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

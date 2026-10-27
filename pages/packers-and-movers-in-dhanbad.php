@@ -377,8 +377,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:400px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:14px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" 
                   alt="Residential relocation cartons and household packing in Dhanbad" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -525,8 +524,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
           <div style="display:flex; justify-content:center; order:2;">
             <figure style="margin:0; max-width:400px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:14px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" 
                   alt="Delicate glassware and crockery bubble wrapping in Dhanbad" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -807,8 +805,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
           <div style="display:flex; justify-content:center;">
             <figure style="margin:0; max-width:400px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:14px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" 
                   alt="All-weather container truck for safe shifting in Dhanbad" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"
@@ -830,8 +827,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
           <div style="display:flex; justify-content:center; order:2;">
             <figure style="margin:0; max-width:400px; width:100%;">
               <div style="position:relative; width:100%; aspect-ratio:3/4; border-radius:14px; overflow:hidden; box-shadow:0 8px 25px rgba(0,0,0,0.08); background:#f1f5f9;">
-                <img 
-                  src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
                   alt="Custom wooden crating for LED TVs and electronics in Dhanbad" 
                   loading="lazy" 
                   style="width:100%; height:100%; object-fit:cover; display:block;"

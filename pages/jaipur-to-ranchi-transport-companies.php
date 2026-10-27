@@ -145,7 +145,7 @@ $meta_keywords = "jaipur to ranchi transport companies, jaipur to ranchi goods t
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -462,7 +462,7 @@ $meta_keywords = "jaipur to ranchi transport companies, jaipur to ranchi goods t
           <!-- Image Card with Floating Badge & Caption -->
           <div style="position: relative;">
             <div style="border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; position: relative;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Jaipur to Ranchi Transport Companies Shree Ashirwad Container Truck" title="Jaipur to Ranchi Transport Service - Loading Container Freight Truck" width="560" height="380" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Jaipur to Ranchi Transport Companies Shree Ashirwad Container Truck" title="Jaipur to Ranchi Transport Service - Loading Container Freight Truck" width="560" height="380" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;" loading="lazy">
               <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0.6) 65%, transparent 100%); padding: 22px; color: #ffffff;">
                 <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 4px;">Direct Closed-Container Highway Fleet</div>
                 <div style="font-size: 0.84rem; color: #cbd5e1;">Pneumatic suspension trucks, GPS telematics & sealed container locks for 1,280 km transit</div>
@@ -910,7 +910,7 @@ $meta_keywords = "jaipur to ranchi transport companies, jaipur to ranchi goods t
           <!-- Image Card -->
           <div style="order: 2;">
             <div style="border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; position: relative;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Transit Warehouse Ranchi Shree Ashirwad Packers" title="Commercial Goods Logistics and Warehousing for Jaipur to Ranchi Freight" width="560" height="380" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Transit Warehouse Ranchi Shree Ashirwad Packers" title="Commercial Goods Logistics and Warehousing for Jaipur to Ranchi Freight" width="560" height="380" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;" loading="lazy">
               <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0.6) 65%, transparent 100%); padding: 22px; color: #ffffff;">
                 <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 4px;">Weatherproof Commercial Storage & Hubs</div>
                 <div style="font-size: 0.84rem; color: #cbd5e1;">Modern staging warehouses in Jaipur and Ranchi equipped with pallet racking and 24/7 CCTV surveillance</div>

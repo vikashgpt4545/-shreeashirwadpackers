@@ -358,7 +358,7 @@ $meta_keywords = "car transport in hazaribagh, car carrier service hazaribagh, c
           </div>
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier trailer loading in Hazaribagh" style="width:100%; height:320px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier trailer loading in Hazaribagh" style="width:100%; height:320px; object-fit:cover; display:block;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Covered Hydraulic Car Carriers</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">All-weather enclosed vehicle trailers with low-angle hydraulic ramps in Hazaribagh</div>
@@ -411,14 +411,14 @@ $meta_keywords = "car transport in hazaribagh, car carrier service hazaribagh, c
       <section style="margin-bottom:60px;">
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed vehicle container truck for interstate moving" style="width:100%; height:240px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed vehicle container truck for interstate moving" style="width:100%; height:240px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Sealed Linehaul Container Trucks</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">For single vehicle relocations combined with home goods, dedicated container bays protect your car with wheel locks and cushioned perimeter partitions.</p>
             </div>
           </div>
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door car pickup and delivery truck in Hazaribagh" style="width:100%; height:240px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door car pickup and delivery truck in Hazaribagh" style="width:100%; height:240px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Direct Doorstep Pickup &amp; Delivery</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">Our drivers inspect and load your vehicle right at your residence in Matwari, Korrah, Canary Hill, or NTPC complex, delivering right to your destination driveway.</p>

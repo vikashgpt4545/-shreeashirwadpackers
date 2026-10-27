@@ -544,7 +544,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Towards southern and western Bhubaneswar, our coverage extends through Khandagiri, Baramunda, Pokhariput, Sundarpada, and the developing residential complexes of Kalinga Nagar. For industrial operations, we maintain specialized commercial transport divisions serving Mancheswar Industrial Estate, Rasulgarh, and the Cuttack-Bhubaneswar national highway corridor along NH-16.</p>
 
         <div class="bbsc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Bhubaneswar Smart City" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Bhubaneswar Smart City" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our transport planners strategically navigate vehicle clearances around high-density transit corridors including the Nandankanan Road, Vani Vihar junction, and Rasulgarh overbridge. By coordinating vehicle arrivals with residential society management and municipal traffic regulations, we eliminate roadside delays and ensure safe, timely delivery.</p>
@@ -600,7 +600,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bbsc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Bhubaneswar to Ranchi, Kolkata and Chennai" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Bhubaneswar to Ranchi, Kolkata and Chennai" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -636,7 +636,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bbsc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Bhubaneswar" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Bhubaneswar" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -707,7 +707,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="bbsc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Bhubaneswar" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Bhubaneswar" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad in Bhubaneswar -->

@@ -615,7 +615,7 @@
             </div>
             <div>
                 <div class="hjp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Hajipur Bihar" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Hajipur Bihar" loading="lazy">
                     <p class="hjp-image-caption">Systematic loading and protective strapping of household goods for residences in Hajipur, Bihar.</p>
                 </div>
                 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
@@ -689,7 +689,7 @@
         <div class="hjp-grid-2">
             <div>
                 <div class="hjp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer protective packing materials used in Hajipur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer protective packing materials used in Hajipur" loading="lazy">
                     <p class="hjp-image-caption">Premium 5-layer protective packaging for household appliances and furniture in Hajipur, Bihar.</p>
                 </div>
             </div>
@@ -815,7 +815,7 @@
             </div>
             <div>
                 <div class="hjp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing services in Hajipur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing services in Hajipur" loading="lazy">
                     <p class="hjp-image-caption">Professional furniture dismantling, padding, and reassembly by certified technicians in Hajipur.</p>
                 </div>
             </div>
@@ -870,7 +870,7 @@
         <div class="hjp-grid-2">
             <div>
                 <div class="hjp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hajipur Bihar" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hajipur Bihar" loading="lazy">
                     <p class="hjp-image-caption">Dedicated enclosed container truck executing doorstep delivery in Hajipur, Bihar.</p>
                 </div>
             </div>

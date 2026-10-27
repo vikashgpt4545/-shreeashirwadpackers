@@ -22,7 +22,7 @@ require_once __DIR__ . '/../includes/config.php';
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers",
-        "telephone": "+91 9334812341",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "url": "<?php echo SITE_BASE_URL; ?>/patna-to-bangalore-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
@@ -476,7 +476,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>The 2,050-kilometer overland transit from Patna to Bangalore represents a major long-haul interstate relocation lifeline connecting the Gangetic plains of Bihar with South India's booming technology center. Departing Patna via the AIIMS elevated highway or Danapur bypass onto NH30, our vehicles proceed via Arrah, Sasaram, and Mohania into eastern Uttar Pradesh.</p>
 
         <div class="ptbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated intercity container truck for Patna to Bangalore relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated intercity container truck for Patna to Bangalore relocation" width="580" height="387" loading="lazy">
             <div class="ptbg-image-caption">Dedicated heavy-duty container truck engineered for all-weather interstate transit from Patna to Bangalore.</div>
         </div>
 
@@ -586,7 +586,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>We deploy high-gauge 5-ply and 7-ply virgin Kraft paper corrugated cartons, specialized double-layer air-pocket bubble cushioning, cellular foam edge guards, and heat-sealed high-density polyethylene (HDPE) wrapping sheets to safeguard your possessions from dust, shock, and moisture.</p>
 
         <div class="ptbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and heavy-duty corrugated packaging materials" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and heavy-duty corrugated packaging materials" width="580" height="387" loading="lazy">
             <div class="ptbg-image-caption">Custom multi-layer protective packaging engineered for delicate glassware, electronics, and furniture.</div>
         </div>
 
@@ -686,7 +686,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Prior to loading at your Patna residence (such as Boring Road, Bailey Road, Kankarbagh, or Danapur), our certified vehicle technicians conduct a thorough 25-point visual inspection. We log existing exterior scratches, record fuel levels, note odometer readings, and photograph the vehicle from all angles. A signed digital copy of this inspection report is handed to you immediately.</p>
 
         <div class="ptbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Secure enclosed motorcycle and automobile carrier transport service" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Secure enclosed motorcycle and automobile carrier transport service" width="580" height="387" loading="lazy">
             <div class="ptbg-image-caption">Heavy-duty double-deck carrier designed for scratch-proof two-wheeler and passenger car shipping.</div>
         </div>
 
@@ -710,7 +710,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our Bangalore field crew takes charge of all destination-side arrangements. We unpack boxes, reassemble modular furniture, position heavy appliances, and remove all used cardboard cartons and wrapping debris on the day of delivery, leaving your new home clean and functional.</p>
 
         <div class="ptbg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking, furniture assembly and debris cleanup at destination" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking, furniture assembly and debris cleanup at destination" width="580" height="387" loading="lazy">
             <div class="ptbg-image-caption">Trained destination crew reassembling furniture and placing household items systematically in Bangalore.</div>
         </div>
 
@@ -766,7 +766,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="ptbg-cta-box">
         <h3>Plan Your Patna to Bangalore Move with Confidence</h3>
         <p>Speak directly with our interstate relocation specialists. Get a customized, itemized moving proposal with verified packaging specifications, live GPS container booking, and comprehensive insurance coverage.</p>
-        <a href="tel:+919334812341" class="ptbg-cta-btn">Call +91 9334812341 for Free Quote</a>
+        <a href="tel:+919835565233" class="ptbg-cta-btn">Call +91 9835565233 for Free Quote</a>
     </section>
 </main>
 

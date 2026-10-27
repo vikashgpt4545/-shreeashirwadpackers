@@ -667,7 +667,7 @@ require_once __DIR__ . '/includes/header.php';
 
       <div class="col-lg-6">
         <div class="simdega-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Simdega Packers and Movers Container Fleet">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Simdega Packers and Movers Container Fleet">
           <div class="simdega-media-caption">
             Figure 1: Dedicated closed container trucks navigating the NH-143 Ranchi-Torpa-Kolebira-Simdega highway corridor with zero exterior moisture intrusion.
           </div>
@@ -859,7 +859,7 @@ require_once __DIR__ . '/includes/header.php';
     <div class="row align-items-center">
       <div class="col-lg-6 mb-4">
         <div class="simdega-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Ranchi to Simdega Shifting">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Ranchi to Simdega Shifting">
           <div class="simdega-media-caption">
             Figure 2: Multi-layer foam padding and corrugated wrap shielding polished teakwood furniture against scratches and friction during NH-143 transport.
           </div>
@@ -868,7 +868,7 @@ require_once __DIR__ . '/includes/header.php';
 
       <div class="col-lg-6 mb-4">
         <div class="simdega-media-box">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Appliances Protective Cover for Simdega Transit">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Appliances Protective Cover for Simdega Transit">
           <div class="simdega-media-caption">
             Figure 3: Heavy-duty tailored padded covers securing double-door refrigerators and automatic washing machines against transit shocks.
           </div>
@@ -1078,7 +1078,7 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="simdega-media-box">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Arriving in Simdega">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Arriving in Simdega">
       <div class="simdega-media-caption">
         Figure 4: Direct door-to-door delivery truck arriving at Simdega residential colonies, ensuring zero intermediate transshipment or handling delays.
       </div>

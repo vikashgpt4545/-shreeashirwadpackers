@@ -698,7 +698,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-giridih-packers-
             </div>
             <div>
                 <div class="dum2gir-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dumka to Giridih Packers and Movers container transit truck" title="Container truck on Dumka to Giridih relocation route">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dumka to Giridih Packers and Movers container transit truck" title="Container truck on Dumka to Giridih relocation route">
                     <div class="dum2gir-img-caption">
                         <strong>Figure 1:</strong> Closed-body dedicated container truck transporting household goods safely from Dumka to Giridih.
                     </div>
@@ -755,13 +755,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-giridih-packers-
     <div class="container">
         <div class="dum2gir-grid-2">
             <div class="dum2gir-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging by packers and movers Dumka to Giridih" title="5-layer household packaging for Dumka to Giridih move">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging by packers and movers Dumka to Giridih" title="5-layer household packaging for Dumka to Giridih move">
                 <div class="dum2gir-img-caption">
                     <strong>Figure 2:</strong> Systematic 5-layer protective packing for furniture and electronics before loading into the container.
                 </div>
             </div>
             <div class="dum2gir-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transportation carrier loading for Dumka to Giridih" title="Safe vehicle carrier transit Dumka to Giridih">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transportation carrier loading for Dumka to Giridih" title="Safe vehicle carrier transit Dumka to Giridih">
                 <div class="dum2gir-img-caption">
                     <strong>Figure 3:</strong> Professional loading of motor vehicles and cars using hydraulic ramps and heavy-duty wheel chocks.
                 </div>
@@ -876,7 +876,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-giridih-packers-
             </div>
             <div>
                 <div class="dum2gir-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Giridih" title="Careful unloading and arrangement in Giridih">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and setup service in Giridih" title="Careful unloading and arrangement in Giridih">
                     <div class="dum2gir-img-caption">
                         <strong>Figure 4:</strong> Dedicated moving staff executing careful unloading, unpacking, and room-wise placement at the destination.
                     </div>

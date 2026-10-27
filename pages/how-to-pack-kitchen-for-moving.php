@@ -15,8 +15,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Pack Kitchen for Moving: Crockery & Appliance Guide | Call 9708579999</title>
-    <meta name="description" content="Expert guide on how to pack kitchen items for moving in Ranchi. Call 9708579999 for verified bubble wrapping, glassware box crating, rates & free quote.">
+    <title>How to Pack Kitchen for Moving: Crockery & Appliance Guide | Call 9835565233</title>
+    <meta name="description" content="Expert guide on how to pack kitchen items for moving in Ranchi. Call 9835565233 for verified bubble wrapping, glassware box crating, rates & free quote.">
     <meta name="keywords" content="how to pack kitchen for moving, kitchen crockery packing ranchi, glassware packing tips movers ranchi, moving kitchen appliances ranchi, fragile kitchen packing guide, packers and movers kitchen shifting">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/how-to-pack-kitchen-for-moving">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/how-to-pack-kitchen-for-moving",
-        "telephone": "+91-9708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -224,8 +224,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>How to Pack Kitchen for Moving: Complete Guide</h1>
                 <p>The kitchen is universally acknowledged as the most challenging room to pack. From fragile bone china crockery and delicate stemware to heavy spice jars, mixer grinders, and cooking oils, here is the professional blueprint to eliminate transit breakage entirely.</p>
                 <div class="hpkm-cta-group">
-                    <a href="tel:+919708579999" class="hpkm-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20kitchen%20packing%20advice%20and%20a%20quote%20for%20Ranchi" class="hpkm-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
+                    <a href="tel:+919835565233" class="hpkm-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20kitchen%20packing%20advice%20and%20a%20quote%20for%20Ranchi" class="hpkm-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -244,7 +244,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="hpkm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate porcelain and glass kitchen crockery being wrapped in bubble film by professional packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate porcelain and glass kitchen crockery being wrapped in bubble film by professional packers in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -322,7 +322,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>The Proven "Box-in-Box" Technique for Fragile Stemware</h2>
                 <div class="hpkm-grid-2">
                     <div class="hpkm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Cellular honeycomb partitioned carton for fragile glassware and dinner sets in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Cellular honeycomb partitioned carton for fragile glassware and dinner sets in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <h3>Double-Shell Armor for Zero Vibration Transmission</h3>
@@ -399,7 +399,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="hpkm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High-grade corrugated cardboard sheets and heavy-duty packing rolls in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High-grade corrugated cardboard sheets and heavy-duty packing rolls in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -409,7 +409,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Transporting Kitchen Consignments on Jharkhand Highways</h2>
                 <div class="hpkm-grid-2">
                     <div class="hpkm-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Once kitchen boxes are sealed, highway transit safety determines whether your dinnerware arrives intact. Road vibrations on routes between Ranchi, Hazaribagh, Dhanbad, and Jamshedpur test every box's durability.</p>

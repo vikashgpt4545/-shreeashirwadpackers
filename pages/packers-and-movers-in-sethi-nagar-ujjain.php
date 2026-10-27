@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Sethi Nagar Ujjain",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-sethi-nagar-ujjain",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -420,7 +420,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="stn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Sethi Nagar Ujjain Premium Home Relocation" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Sethi Nagar Ujjain Premium Home Relocation" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -458,7 +458,7 @@ $state_name = 'Madhya Pradesh';
       <p>Our experienced technicians utilize specialized rubber-wheeled furniture dollies, hydraulic furniture lifters, and heavy-duty load straps that distribute weight evenly, ensuring zero point-pressure damage on sensitive tiled or hardwood surfaces. Every heavy appliance, from double-door French refrigerators to front-loading washing machines, is elevated onto cushioned platform jacks before movement.</p>
 
       <div class="stn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Sethi Nagar Ujjain" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping in Sethi Nagar Ujjain" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -542,7 +542,7 @@ $state_name = 'Madhya Pradesh';
         </div>
         <div>
           <div class="stn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Sethi Nagar Ujjain" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Sethi Nagar Ujjain" width="580" height="380" loading="lazy">
           </div>
         </div>
       </div>
@@ -630,7 +630,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="stn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Sethi Nagar Ujjain" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Sethi Nagar Ujjain" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -696,7 +696,7 @@ $state_name = 'Madhya Pradesh';
     <div class="stn-cta-bar">
       <h3>Ready for a Seamless Move in Sethi Nagar Ujjain?</h3>
       <p>Connect with our expert relocation specialists today for an instant pre-move survey, transparent quotation, and complete moving support.</p>
-      <a href="tel:+919334484001" class="stn-cta-btn">Call +91 9334484001</a>
+      <a href="tel:+919835565233" class="stn-cta-btn">Call +91 9835565233</a>
     </div>
 
   </div>

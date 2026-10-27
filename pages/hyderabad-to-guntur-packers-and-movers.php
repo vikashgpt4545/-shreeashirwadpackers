@@ -56,7 +56,7 @@ $page_keywords = "packers and movers hyderabad to guntur, hyderabad guntur house
         "name": "Shree Ashirwad Packers and Movers Hyderabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334421111",
+        "telephone": "+91 9835565233",
         "priceRange": "₹6,500 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -205,7 +205,7 @@ $page_keywords = "packers and movers hyderabad to guntur, hyderabad guntur house
             <p>The standard transit corridor covers approximately 275 km, running along NH65 through Choutuppal, Suryapet, and Kodad, and branching southward via Miryalaguda or via the Vijayawada bypass into Guntur. Given this manageable driving distance of 6 to 9 hours, dedicated container consignments dispatched in the early morning arrive at your Guntur doorstep for evening unloading on the exact same day.</p>
             
             <div class="hdg-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on Hyderabad to Guntur highway corridor" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck on Hyderabad to Guntur highway corridor" width="580" height="340" loading="lazy">
             </div>
             
             <p>We also operate daily reverse logistics from Andhra Pradesh to Telangana through our dedicated <a href="<?php echo SITE_BASE_URL; ?>/guntur-to-hyderabad-packers-and-movers">Guntur to Hyderabad packers and movers service</a>, assuring consistent standards and reciprocal fleet availability.</p>
@@ -321,7 +321,7 @@ $page_keywords = "packers and movers hyderabad to guntur, hyderabad guntur house
             <p>Our crews use only virgin multi-ply corrugated paper, heavy-density air-bubble wraps, expandable stretch films, and edge angle protectors. For glassware, pooja mandir brassware, and fragile ceramics, we create individualized honeycomb compartments cushioned with tissue shreds.</p>
             
             <div class="hdg-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy box packaging for Hyderabad household shifting" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and sturdy box packaging for Hyderabad household shifting" width="580" height="340" loading="lazy">
             </div>
             
             <div class="hdg-grid-2">
@@ -357,7 +357,7 @@ $page_keywords = "packers and movers hyderabad to guntur, hyderabad guntur house
             <p>Every vehicle undergoes a formal gate check-in where odometer readings, exterior cosmetic condition, and fuel quantities are noted on a digital manifest. We disconnect battery leads, tape headlamps and turn indicators with scratch guards, and secure the chassis using high-strength wheel-locking belts.</p>
             
             <div class="hdg-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Hyderabad to Guntur vehicle relocation" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Hyderabad to Guntur vehicle relocation" width="580" height="340" loading="lazy">
             </div>
 
             <div class="hdg-grid-3">
@@ -427,7 +427,7 @@ $page_keywords = "packers and movers hyderabad to guntur, hyderabad guntur house
             <p>We reassemble bed frames, fix modular dining sets, reinstall television wall mounts upon request, and position heavy refrigerators and washing machines in their designated utility niches. Once setup is finalized, we clean up and discard all bubble sheets, corrugated boxes, and plastic wraps, leaving your home spotless.</p>
             
             <div class="hdg-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Guntur home" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Guntur home" width="580" height="340" loading="lazy">
             </div>
 
             <p>All items are tallied against your original consignment note to ensure zero missing packages or unchecked cartons, giving you total peace of mind on shifting day.</p>
@@ -544,7 +544,7 @@ $page_keywords = "packers and movers hyderabad to guntur, hyderabad guntur house
     <section class="hdg-cta">
         <h2>Schedule Your Hyderabad to Guntur Relocation Today</h2>
         <p>Connect with our expert relocation planners for prompt moving quotes, specialized vehicle container slots, and hassle-free door-to-door shifting.</p>
-        <p><strong>Call 24/7 Helpline: +91-9334421111 | Email: support@shreeashirwadpackers.com</strong></p>
+        <p><strong>Call 24/7 Helpline: +91 9835565233 | Email: support@shreeashirwadpackers.com</strong></p>
     </section>
 </main>
 

@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Jamshedpur to Phusro",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹8,000 - ₹36,000",
         "address": {
             "@type": "PostalAddress",
@@ -632,7 +632,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <p class="hero-lead">Professional intercity household relocation, industrial moving, vehicle parcel, and corporate transfers from the Steel City to the Phusro, Bermo, and Kargali coal basin.</p>
             <div class="hero-cta-group">
                 <a href="#quick-quote" class="btn-primary-hero"><i class="fa-solid fa-calculator"></i> Get Free Instant Quote</a>
-                <a href="tel:+919334800840" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91-9334800840</a>
+                <a href="tel:+919835565233" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91 9835565233</a>
             </div>
         </div>
         <div class="hero-form-card" id="quick-quote">
@@ -687,7 +687,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 1 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Loading household cargo in Jamshedpur for transit to Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Loading household cargo in Jamshedpur for transit to Phusro" loading="lazy">
                     <div class="photo-caption">Figure 1: Safe packing and loading operations inside specialized closed container vehicles in Jamshedpur for highway dispatch to Phusro.</div>
                 </div>
 
@@ -717,7 +717,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 2 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Multi-layer appliance packing for Jamshedpur to Phusro shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Multi-layer appliance packing for Jamshedpur to Phusro shifting" loading="lazy">
                     <div class="photo-caption">Figure 2: Multi-layer cushioning and protective wrap applied to electronic appliances and furniture to prevent in-transit abrasions.</div>
                 </div>
 
@@ -788,7 +788,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 3 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle parcel service from Jamshedpur to Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle parcel service from Jamshedpur to Phusro" loading="lazy">
                     <div class="photo-caption">Figure 3: Secure motorcycle parcel transportation featuring customized foam wrapping, fuel draining, and chassis strapping.</div>
                 </div>
 
@@ -814,7 +814,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 4 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks on Jamshedpur to Phusro route" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks on Jamshedpur to Phusro route" loading="lazy">
                     <div class="photo-caption">Figure 4: GPS-tracked, sealed container vehicles ensuring safe transit across Jharkhand national highways.</div>
                 </div>
 
@@ -882,7 +882,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
 
                 <h2>Book Your Jamshedpur to Phusro Relocation Today</h2>
-                <p>Experience an efficient, stress-free relocation from Jamshedpur to Phusro with Shree Ashirwad Packers and Movers. Our coordinators assist you at every step, ensuring punctuality, cargo safety, and seamless customer service. Call <strong>+91-9334800840</strong> today or fill out our online form for a free, personalized quote.</p>
+                <p>Experience an efficient, stress-free relocation from Jamshedpur to Phusro with Shree Ashirwad Packers and Movers. Our coordinators assist you at every step, ensuring punctuality, cargo safety, and seamless customer service. Call <strong>+91 9835565233</strong> today or fill out our online form for a free, personalized quote.</p>
 
                 <h2>Connected Phusro Relocation Corridors</h2>
                 <p>We provide regular containerized moving services connecting Phusro to major national and regional hubs:</p>

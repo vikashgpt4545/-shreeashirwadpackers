@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Lanka Varanasi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -494,7 +494,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="lnk-hero-title">Packers and Movers in Lanka Varanasi</h1>
         <p class="lnk-hero-subtitle">Dedicated Academic and Residential Relocation Across Lanka, BHU Campus Quarters, Assi Ghat, Sankat Mochan, and South Varanasi</p>
         <div class="lnk-cta-group">
-            <a href="tel:+919334404050" class="lnk-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="lnk-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="lnk-btn-secondary">Check Shifting Rates</a>
         </div>
     </section>
@@ -507,7 +507,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="lnk-intro-p">At Shree Ashirwad Packers and Movers, we bring over 15 years of specialized logistics experience directly to Lanka. Relocating within this academic belt presents distinct requirements: coordinating gate clearances and speed regulations inside the BHU campus, maneuvering around vibrant student markets along Lanka Chauraha, safely packing extensive academic book libraries and scientific instruments, and navigating tight residential lanes leading toward Assi Ghat. Our experienced moving crews utilize 5-ply export-quality cartons, virgin air-bubble wrapping, and compact container trucks designed for effortless urban passage.</p>
 
         <div class="lnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Lanka Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Lanka Varanasi" width="580" height="380" loading="lazy">
             <p class="lnk-image-caption">Shree Ashirwad crew carrying out systematic loading operations in Lanka near the BHU campus.</p>
         </div>
 
@@ -582,7 +582,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="lnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging for Academic and Household Goods in Lanka Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging for Academic and Household Goods in Lanka Varanasi" width="580" height="380" loading="lazy">
             <p class="lnk-image-caption">High-density bubble wrapping and edge-reinforced corrugated box packaging for fragile household goods in Lanka.</p>
         </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="lnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly by Expert Carpenters in Lanka Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular Furniture Dismantling and Assembly by Expert Carpenters in Lanka Varanasi" width="580" height="380" loading="lazy">
             <p class="lnk-image-caption">Trained carpenters systematically dismantling and wrapping wooden bed components before transit in Lanka.</p>
         </div>
     </section>
@@ -700,7 +700,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="lnk-intro-p">For interstate relocations heading toward Delhi, Noida, and Lucknow, our containerized vehicles travel directly along the multi-lane Purvanchal Expressway and NH-19, ensuring swift transit durations under 12 to 16 hours. Eastbound consignments bound for Bihar and Jharkhand—connecting to Patna, Gaya, Dhanbad, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>—travel seamlessly along the pristine NH-19 highway corridor.</p>
 
         <div class="lnk-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep Delivery Fleet and Closed Container Transit in Lanka Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep Delivery Fleet and Closed Container Transit in Lanka Varanasi" width="580" height="380" loading="lazy">
             <p class="lnk-image-caption">All-weather container vehicles providing direct interstate transit connections from Lanka to pan-India destinations.</p>
         </div>
 
@@ -765,7 +765,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Reliable Move in Lanka Varanasi</h3>
         <p>Connect with our Lanka relocation team today for a free doorstep survey, itemized estimate, and damage-free moving experience.</p>
         <div class="lnk-cta-group">
-            <a href="tel:+919334404050" class="lnk-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="lnk-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="lnk-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

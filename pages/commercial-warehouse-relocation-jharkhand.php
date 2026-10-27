@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Commercial Warehouse Relocation in Jharkhand
 $page_title = "Commercial Warehouse Relocation in Jharkhand | Godown & Logistics Shifting";
-$page_description = "Turnkey commercial warehouse & godown relocation in Jharkhand. Heavy pallet racking dismantling, forklift handling, inventory cataloging & minimum downtime shifting in Ranchi, Jamshedpur & Dhanbad. Call +91 9334812833.";
+$page_description = "Turnkey commercial warehouse & godown relocation in Jharkhand. Heavy pallet racking dismantling, forklift handling, inventory cataloging & minimum downtime shifting in Ranchi, Jamshedpur & Dhanbad. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/commercial-warehouse-relocation-jharkhand";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/commercial-warehouse-relocati
         "name": "Shree Ashirwad Packers and Movers - Warehouse & Commercial Logistics Division",
         "image": "https://shreeashirwadpackers.com/images/commercial-goods-storage-warehouse-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹25,000 - ₹5,50,000",
         "address": {
             "@type": "PostalAddress",
@@ -358,7 +358,7 @@ $canonical_url = "https://shreeashirwadpackers.com/commercial-warehouse-relocati
     <section class="cwr-hero-banner">
         <h1 class="cwr-hero-title">Commercial Warehouse Relocation in Jharkhand</h1>
         <p class="cwr-hero-subtitle">Turnkey Godown Shifting, Heavy Pallet Racking Dismantling, Forklift Handling & Barcode Inventory Tracking. Zero-Downtime Logistics for Ranchi, Jamshedpur & Dhanbad.</p>
-        <a href="tel:+919334812833" class="cwr-cta-btn">Schedule Warehouse Audit: +91 9334812833</a>
+        <a href="tel:+919835565233" class="cwr-cta-btn">Schedule Warehouse Audit: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -374,7 +374,7 @@ $canonical_url = "https://shreeashirwadpackers.com/commercial-warehouse-relocati
             </div>
             <div>
                 <div class="cwr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehouse storage and godown relocation in Jharkhand" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehouse storage and godown relocation in Jharkhand" width="580" height="387">
                     <div class="cwr-caption">Modern palletized warehouse storage and inventory staging facility</div>
                 </div>
             </div>
@@ -460,7 +460,7 @@ $canonical_url = "https://shreeashirwadpackers.com/commercial-warehouse-relocati
         <div class="cwr-grid-2">
             <div>
                 <div class="cwr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Industrial pallet shrink wrapping and corrugated packing in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Industrial pallet shrink wrapping and corrugated packing in Ranchi" width="580" height="387">
                     <div class="cwr-caption">Industrial-grade stretch wrapping and corrugated box reinforcement</div>
                 </div>
             </div>
@@ -492,7 +492,7 @@ $canonical_url = "https://shreeashirwadpackers.com/commercial-warehouse-relocati
             </div>
             <div>
                 <div class="cwr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container trucks for warehouse stock transit in Jharkhand" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container trucks for warehouse stock transit in Jharkhand" width="580" height="387">
                     <div class="cwr-caption">Sealed containerized fleets preventing pilferage and weather damage</div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ $canonical_url = "https://shreeashirwadpackers.com/commercial-warehouse-relocati
         <div class="cwr-grid-2">
             <div>
                 <div class="cwr-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Commercial logistics and warehouse loading crew in Jharkhand" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Commercial logistics and warehouse loading crew in Jharkhand" width="580" height="387">
                     <div class="cwr-caption">Trained warehouse labor force equipped with safety gear and pallet jacks</div>
                 </div>
             </div>

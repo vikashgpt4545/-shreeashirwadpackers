@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>At Shree Ashirwad Packers and Movers, our dedicated baggage transport network is built specifically for heavy parcels. We accommodate sturdy steel trunks, oversized travel duffels, 7-ply book cartons, and large Samsonite or American Tourister hardshell trolleys. Every consignment is digitally weighed, wrapped in heavy-duty tamper-evident film, barcoded, and transported inside closed, weatherproof container fleet trucks.</p>
 
         <div class="ldbt-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Heavy duty sealed cardboard luggage cartons for student baggage transport" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Heavy duty sealed cardboard luggage cartons for student baggage transport" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 2: User Segments Served -->
@@ -555,7 +555,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ldbt-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for fast express luggage courier across India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for fast express luggage courier across India" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Stage Moving Protocol -->
@@ -591,7 +591,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ldbt-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap for luggage and heavy baggage parcels" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap for luggage and heavy baggage parcels" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -713,7 +713,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ldbt-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks for all-weather luggage and excess baggage courier" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks for all-weather luggage and excess baggage courier" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 6: Packing Tips -->

@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Machilipatnam",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-machilipatnam",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>The city's vibrant residential community encompasses established neighborhoods including Chilakalapudi, Paraspet, Rustumbada, Buttayapet, Inugudurupet, and Godugupet, connecting toward Noble Colony, the District Collectorate Complex, and the coastal beach roads. Port construction engineers, marine consultants, textile master craftsmen, jewelry factory entrepreneurs, and administrative civil servants depend on certified moving services capable of delivering white-glove household packing and industrial logistics with equal dedication.</p>
 
     <div class="mcp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Machilipatnam Andhra Pradesh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Machilipatnam Andhra Pradesh" loading="lazy">
       <p class="mcp-image-caption">Disciplined residential quarter shifting and systematic loading operations in Machilipatnam.</p>
     </div>
 
@@ -595,7 +595,7 @@
     </div>
 
     <div class="mcp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Machilipatnam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Machilipatnam" loading="lazy">
       <p class="mcp-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Machilipatnam.</p>
     </div>
 
@@ -627,7 +627,7 @@
     </div>
 
     <div class="mcp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Machilipatnam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Machilipatnam" loading="lazy">
       <p class="mcp-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -641,7 +641,7 @@
     <p>Our local dispatchers coordinate moves during early morning hours (6:30 AM to 8:30 AM) to circumvent commercial traffic near Chilakalapudi and Paraspet. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="mcp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Machilipatnam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Machilipatnam" loading="lazy">
       <p class="mcp-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -731,7 +731,7 @@
   <section class="mcp-cta-banner">
     <h3>Plan Your Stress-Free Move in Machilipatnam Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="mcp-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="mcp-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

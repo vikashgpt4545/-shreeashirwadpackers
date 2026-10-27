@@ -32,7 +32,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Mehsana",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-mehsana",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,900 - ₹44,000",
     "address": {
       "@type": "PostalAddress",
@@ -361,7 +361,7 @@ $state_name = 'Gujarat';
   <div class="mhs-hero">
     <h1>Packers and Movers in Mehsana</h1>
     <p>Professional Relocation Specialists for ONGC Western Asset, Dudhsagar Dairy, and North Gujarat Industrial Corridors</p>
-    <a href="tel:+919334484001" class="mhs-hero-btn">Call +91 9334484001 For Free Quote</a>
+    <a href="tel:+919835565233" class="mhs-hero-btn">Call +91 9835565233 For Free Quote</a>
   </div>
 
   <div class="mhs-container">
@@ -376,7 +376,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="mhs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Mehsana Gujarat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Mehsana Gujarat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -412,7 +412,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="mhs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Mehsana" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Mehsana" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -576,7 +576,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="mhs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Mehsana" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Mehsana" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -612,7 +612,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="mhs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Mehsana" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Mehsana" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -651,7 +651,7 @@ $state_name = 'Gujarat';
     <div class="mhs-cta-bar">
       <h3>Plan Your Smooth Relocation in Mehsana Today</h3>
       <p>Contact our Mehsana moving coordinators for an instant free home survey and transparent, competitive quotation.</p>
-      <a href="tel:+919334484001" class="mhs-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="mhs-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="mhs-section">

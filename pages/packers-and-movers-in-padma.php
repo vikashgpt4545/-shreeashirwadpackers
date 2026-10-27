@@ -247,7 +247,7 @@ require_once __DIR__ . '/includes/seo.php';
             <div class="col-lg-6">
                 <!-- Whitelisted Image 1 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Packers and Movers in Padma Hazaribagh" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Packers and Movers in Padma Hazaribagh" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -415,7 +415,7 @@ require_once __DIR__ . '/includes/seo.php';
             <div class="col-lg-6 order-lg-2">
                 <!-- Whitelisted Image 2 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packing Materials in Padma Hazaribagh" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packing Materials in Padma Hazaribagh" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
             </div>
             <div class="col-lg-6 order-lg-1">
@@ -543,7 +543,7 @@ require_once __DIR__ . '/includes/seo.php';
             <div class="col-lg-6">
                 <!-- Whitelisted Image 3 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Transport in Padma Hazaribagh" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car and Bike Transport in Padma Hazaribagh" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -711,7 +711,7 @@ require_once __DIR__ . '/includes/seo.php';
             <div class="col-lg-6 order-lg-2">
                 <!-- Whitelisted Image 4 in 3:4 container -->
                 <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Warehouse Storage Facility for Padma" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Warehouse Storage Facility for Padma" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
             </div>
             <div class="col-lg-6 order-lg-1">

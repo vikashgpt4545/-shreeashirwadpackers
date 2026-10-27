@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jharkhand 24 Districts Coverage & Highway Logistics Guide | Call 9708579999</title>
-    <meta name="description" content="Comprehensive highway logistics and moving coverage guide across all 24 districts of Jharkhand. NH-33, NH-19, and regional route transit times by Shree Ashirwad Packers. Call 9708579999.">
+    <title>Jharkhand 24 Districts Coverage & Highway Logistics Guide | Call 9835565233</title>
+    <meta name="description" content="Comprehensive highway logistics and moving coverage guide across all 24 districts of Jharkhand. NH-33, NH-19, and regional route transit times by Shree Ashirwad Packers. Call 9835565233.">
     <meta name="keywords" content="jharkhand 24 districts logistics, packers and movers jharkhand all districts, highway shifting ranchi, nh 33 moving trucks, tata dhanbad bokaro transport, shree ashirwad packers network">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/jharkhand-24-districts-coverage-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jharkhand State Logistics",
         "image": "<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/jharkhand-24-districts-coverage-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>Whether you are a government official transferring between district collectorates, an engineer moving between steel plants, or a doctor relocating to a regional medical college, our centralized dispatch center in Ranchi provides reliable, door-to-door transit to every corner of the state.</p>
                 </div>
                 <div class="jdcg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Shree Ashirwad moving truck operating on Jharkhand highway routes" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Shree Ashirwad moving truck operating on Jharkhand highway routes" loading="lazy">
                 </div>
             </div>
 
@@ -425,7 +425,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Ghat Safety Protocols: Chutupalu & Koderma Corridors</h2>
             <div class="jdcg-grid-2">
                 <div class="jdcg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck maneuvering Jharkhand highway ghat sections" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck maneuvering Jharkhand highway ghat sections" loading="lazy">
                 </div>
                 <div>
                     <p>Jharkhand's scenic plateau topography means that key highway routes feature dramatic elevation changes. The most critical freight bottlenecks are the <strong>Ramgarh Ghat (Chutupalu Valley)</strong> along NH-20 connecting Ranchi to Hazaribagh, and the <strong>Koderma Ghat</strong> descending towards Bihar.</p>
@@ -486,7 +486,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </ul>
                 </div>
                 <div class="jdcg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehousing and secure storage facilities in Ranchi Jharkhand" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial warehousing and secure storage facilities in Ranchi Jharkhand" loading="lazy">
                 </div>
             </div>
         </section>

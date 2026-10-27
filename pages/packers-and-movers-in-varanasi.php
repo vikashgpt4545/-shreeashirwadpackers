@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Varanasi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -488,7 +488,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="vns-hero-title">Packers and Movers in Varanasi</h1>
         <p class="vns-hero-subtitle">Comprehensive Household Shifting, Academic Transfers, Commercial Relocation, and Dedicated Safe Transit Across the Cultural Capital of India</p>
         <div class="vns-cta-group">
-            <a href="tel:+919334404050" class="vns-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vns-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vns-btn-secondary">Check Shifting Rates</a>
         </div>
     </section>
@@ -501,7 +501,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="vns-intro-p">At Shree Ashirwad Packers and Movers, we bring over 15 years of tested logistics experience directly to residents and business owners throughout Varanasi. Shifting homes within this ancient city entails distinct challenges: navigating ancient, narrow alleyways (galis) near the sacred ghats, coordinating traffic around Godowlia and Maidagin, negotiating multi-story family builder houses with winding staircases, and safely transporting fragile religious brassware, temple artifacts, and delicate handloom Banarasi silk looms. We overcome these complexities using specialized vehicle fleets, including nimble shuttle mini-vans, motorized stair-climbing dollies, and trained local crews.</p>
 
         <div class="vns-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Shree Ashirwad Packers and Movers Loading Household Goods in Varanasi" width="580" height="380" loading="lazy">
             <p class="vns-image-caption">Shree Ashirwad packing crew carefully loading boxed household goods into closed container vehicles in Varanasi.</p>
         </div>
 
@@ -576,7 +576,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="vns-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging for Household Items in Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi Layer Protective Packaging for Household Items in Varanasi" width="580" height="380" loading="lazy">
             <p class="vns-image-caption">High-density bubble wrapping and reinforced corrugated carton packaging for delicate items in Varanasi.</p>
         </div>
 
@@ -681,7 +681,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="vns-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling by Expert Carpenters in Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling by Expert Carpenters in Varanasi" width="580" height="380" loading="lazy">
             <p class="vns-image-caption">Trained carpenters systematically dismantling and wrapping wooden bed components before transit in Varanasi.</p>
         </div>
     </section>
@@ -694,7 +694,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="vns-intro-p">For interstate relocations heading toward Delhi NCR and Lucknow, our containerized vehicles travel directly along the multi-lane Purvanchal Expressway and NH-19, ensuring swift transit durations under 12 to 18 hours. Southbound consignments bound for Jharkhand—connecting to Hazaribagh, Bokaro, Ramgarh, and our company headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>—travel along NH-19 and NH-22 with direct door-to-door transit completed in under 24 hours.</p>
 
         <div class="vns-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep Delivery Fleet and Closed Container Transit in Varanasi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep Delivery Fleet and Closed Container Transit in Varanasi" width="580" height="380" loading="lazy">
             <p class="vns-image-caption">All-weather container vehicles providing direct interstate transit connections from Varanasi to pan-India destinations.</p>
         </div>
 
@@ -759,7 +759,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Stress-Free Move in Varanasi</h3>
         <p>Connect with our Varanasi relocation specialists today for a free on-site survey, customized price quotation, and safe, damage-free shifting.</p>
         <div class="vns-cta-group">
-            <a href="tel:+919334404050" class="vns-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vns-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vns-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

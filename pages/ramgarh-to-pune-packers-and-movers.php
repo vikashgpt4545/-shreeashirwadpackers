@@ -684,7 +684,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-pune-packers-a
                 </div>
                 <div>
                     <div class="ram2pun-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Ramgarh to Pune relocation" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck for Ramgarh to Pune relocation" width="600" height="400" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -758,7 +758,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-pune-packers-a
             <div class="ram2pun-grid-2">
                 <div>
                     <div class="ram2pun-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5 layer packing process for Ramgarh to Pune household shifting" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5 layer packing process for Ramgarh to Pune household shifting" width="600" height="400" loading="lazy">
                     </div>
                 </div>
                 <div>
@@ -874,7 +874,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-pune-packers-a
                 </div>
                 <div>
                     <div class="ram2pun-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ramgarh to Pune" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ramgarh to Pune" width="600" height="400" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -924,7 +924,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-pune-packers-a
             <div class="ram2pun-grid-2">
                 <div>
                     <div class="ram2pun-img-wrapper">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service in Pune" width="600" height="400" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service in Pune" width="600" height="400" loading="lazy">
                     </div>
                 </div>
                 <div>

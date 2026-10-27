@@ -946,7 +946,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="pu2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Pune to Ranchi Packers and Movers - Closed linehaul container truck on NH-53">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Pune to Ranchi Packers and Movers - Closed linehaul container truck on NH-53">
         <div class="pu2r-image-caption">
           Heavy-duty 1,500-km interstate linehaul container truck operating the Pune to Ranchi cross-country corridor.
         </div>
@@ -1112,7 +1112,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="pu2r-content-grid-2col">
       <div class="pu2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Pune to Ranchi Packers and Movers - Furniture protective wrapping">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Pune to Ranchi Packers and Movers - Furniture protective wrapping">
         <div class="pu2r-image-caption">
           Multi-layer foam wrapping, corner angle guards, and heavy stretch film applied to wooden workstations and study desks.
         </div>
@@ -1151,7 +1151,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="pu2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Pune to Ranchi Packers and Movers - Heavy appliance protective jackets">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Pune to Ranchi Packers and Movers - Heavy appliance protective jackets">
         <div class="pu2r-image-caption">
           Heavy quilted protective padding and corner guards applied to home appliances before loading.
         </div>
@@ -1285,7 +1285,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="pu2r-content-grid-2col">
       <div class="pu2r-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Pune to Ranchi Packers and Movers - Motorcycle and bike parcel packing">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Pune to Ranchi Packers and Movers - Motorcycle and bike parcel packing">
         <div class="pu2r-image-caption">
           Custom multi-layer motorcycle packing with fork sleeves, padded foam, and heavy floor ratchet tie-downs.
         </div>

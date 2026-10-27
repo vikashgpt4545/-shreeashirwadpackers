@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Aluva Kochi",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-aluva-kochi",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>Executing relocations in Aluva requires specialized logistical capability. The presence of sprawling independent waterfront villas along the Periyar, heavy commercial vehicular movement on National Highway 544, and active chemical and engineering industries in Edayar necessitates moving teams who understand both delicate residential handling and heavy industrial logistics. Our operations team maintains dedicated coordination with residential associations and local authorities across Aluva to secure early morning loading permits, avoiding bridge traffic and daytime congestion.</p>
 
     <div class="alv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Moving in Aluva Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Moving in Aluva Kochi" loading="lazy">
       <p class="alv-image-caption">Disciplined residential moving and systematic container loading along NH 544 in Aluva.</p>
     </div>
 
@@ -600,7 +600,7 @@
     </div>
 
     <div class="alv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Aluva" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Aluva" loading="lazy">
       <p class="alv-image-caption">Organized packing and secure cartoning for commercial electronics and merchandise in Aluva.</p>
     </div>
 
@@ -632,7 +632,7 @@
     </div>
 
     <div class="alv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Aluva Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Aluva Kochi" loading="lazy">
       <p class="alv-image-caption">Protective multi-layer corrugated padding shielding polished wooden furniture during transit.</p>
     </div>
 
@@ -646,7 +646,7 @@
     <p>Our logistics managers schedule truck arrivals and departures during early morning or midday off-peak windows to bypass heavy traffic bottlenecks. Furthermore, our drivers are well-versed in navigating narrow residential interior lanes connecting Desom, Thottakkattukara, and UC College Road. We maintain specialized intermediate transport carriers and electric lift trollies to bridge transit when large container vehicles cannot enter narrow gated colony cul-de-sacs.</p>
 
     <div class="alv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Aluva" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Aluva" loading="lazy">
       <p class="alv-image-caption">Weatherproof closed container trucks ensuring complete cargo security during monsoon transit.</p>
     </div>
 
@@ -736,7 +736,7 @@
   <section class="alv-cta-banner">
     <h3>Book Your Stress-Free Move in Aluva Today!</h3>
     <p>Contact our dedicated Aluva relocation specialists for a free on-site survey, customized moving estimate, and guaranteed on-time door-to-door delivery across Kerala and India.</p>
-    <a class="alv-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="alv-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

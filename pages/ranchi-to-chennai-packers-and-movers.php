@@ -76,7 +76,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -495,7 +495,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- First Verified Image: Constrained as required -->
   <div style="text-align: center; margin: 0 auto 35px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Ranchi to Chennai Packers and Movers - Sealed Container Loading" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Ranchi to Chennai Packers and Movers - Sealed Container Loading" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Heavy-duty all-weather container fleet deployed for 1,600 km linehaul interstate transit between Ranchi and Chennai.</p>
   </div>
 
@@ -690,7 +690,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3>Relocating from Ranchi to Chennai? Experience Seamless Interstate Moving!</h3>
     <p>Enjoy direct sealed container linehaul, 4-layer defensive packing, GPS tracking, and complete IBA-approved corporate reimbursement support.</p>
     <a href="tel:+918409531615" class="cta-btn-gold">📞 Call Now: +91 8409531615</a>
-    <p style="font-size: 0.9rem; margin-top: 15px; color: #e0aaff;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834001</p>
+    <p style="font-size: 0.9rem; margin-top: 15px; color: #e0aaff;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</p>
   </div>
 
   <!-- Cluster Internal Linking Grid -->

@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -156,7 +156,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-
                 "name": "How can I obtain a customized relocation quotation for Pimpri shifting?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "You can contact our customer support team at +91 93344 04050 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing."
+                    "text": "You can contact our customer support team at +91 9835565233 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing."
                 }
             }
         ]
@@ -396,7 +396,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-
         <h1>Packers and Movers in Pimpri Pune</h1>
         <p>Reliable household shifting, industrial employee relocations, and professional packing services across PCMC, Morwadi, Finolex Chowk, and the Old Mumbai-Pune Highway corridor.</p>
         <div class="pmp-btn-wrap">
-            <a href="tel:+919334404050" class="pmp-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="pmp-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pmp-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -417,7 +417,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-
         <p>Our deep local operational experience in PCMC allows us to navigate highway traffic, loading dock permits, and society regulations effortlessly. We coordinate directly with estate management offices, verify basement clearance heights for our covered container trucks, and utilize protective floor runners and padded lift blankets during moving operations.</p>
 
         <div class="pmp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Pimpri Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Pimpri Pune">
             <p class="pmp-image-caption">Professional moving crews packing and loading household goods into covered container trucks in Pimpri.</p>
         </div>
 
@@ -459,7 +459,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-
         </div>
 
         <div class="pmp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Pimpri Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Pimpri Pune">
             <p class="pmp-image-caption">Premium five-ply corrugated boxes, air-bubble cushioning, and stretch wrap securing household valuables.</p>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-
         </div>
 
         <div class="pmp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Pimpri">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Pimpri">
             <p class="pmp-image-caption">Expert carpenter dismantling modular double bed frames for safe apartment relocation in Pimpri.</p>
         </div>
 
@@ -609,7 +609,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-
         </div>
 
         <div class="pmp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Pimpri">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Pimpri">
             <p class="pmp-image-caption">Reliable covered container vehicles delivering safe door-to-door household shifting across Pimpri.</p>
         </div>
 
@@ -678,7 +678,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-pimpri-
 
         <div class="pmp-faq-item">
             <h3>How can I obtain a customized relocation quotation for Pimpri shifting?</h3>
-            <p>You can contact our customer support team at +91 93344 04050 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing.</p>
+            <p>You can contact our customer support team at +91 9835565233 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing.</p>
         </div>
     </section>
 

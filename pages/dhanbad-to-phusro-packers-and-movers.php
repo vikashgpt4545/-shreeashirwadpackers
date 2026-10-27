@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Dhanbad to Phusro",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹6,000 - ₹29,000",
         "address": {
             "@type": "PostalAddress",
@@ -632,7 +632,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <p class="hero-lead">Swift, secure household shifting, BCCL/CCL colliery staff relocation, car parcel, and bike transport from Dhanbad to Phusro, Bermo, and Kargali colliery basin.</p>
             <div class="hero-cta-group">
                 <a href="#quick-quote" class="btn-primary-hero"><i class="fa-solid fa-calculator"></i> Get Free Instant Quote</a>
-                <a href="tel:+919334800840" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91-9334800840</a>
+                <a href="tel:+919835565233" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91 9835565233</a>
             </div>
         </div>
         <div class="hero-form-card" id="quick-quote">
@@ -687,7 +687,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 1 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Loading household goods in Dhanbad for transit to Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Loading household goods in Dhanbad for transit to Phusro" loading="lazy">
                     <div class="photo-caption">Figure 1: Systematic loading of packed household inventory into closed weather-sealed container trucks in Dhanbad for transit to Phusro.</div>
                 </div>
 
@@ -717,7 +717,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 2 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="5-layer appliance packing for Dhanbad to Phusro shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="5-layer appliance packing for Dhanbad to Phusro shifting" loading="lazy">
                     <div class="photo-caption">Figure 2: Professional cushioning and scratch-resistant wrapping applied to refrigerators and washing machines for safe transport.</div>
                 </div>
 
@@ -788,7 +788,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 3 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler bike transport from Dhanbad to Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler bike transport from Dhanbad to Phusro" loading="lazy">
                     <div class="photo-caption">Figure 3: Specialized two-wheeler carrier protection ensuring mirror safety, zero tank scratches, and secure road anchoring.</div>
                 </div>
 
@@ -805,7 +805,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 4 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Dhanbad to Phusro transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Dhanbad to Phusro transit" loading="lazy">
                     <div class="photo-caption">Figure 4: Enclosed weatherproof container trucks ensuring zero exposure to rain or coalfield road dust.</div>
                 </div>
 
@@ -873,7 +873,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
 
                 <h2>Schedule Your Dhanbad to Phusro Move with Confidence</h2>
-                <p>Enjoy a hassle-free, smooth move between Dhanbad and Phusro. Our experienced supervisors handle every detail from preliminary packing to final furniture positioning at your new residence. Contact our 24x7 helpdesk today at <strong>+91-9334800840</strong> or complete the quick quote form above for an accurate, complimentary estimate.</p>
+                <p>Enjoy a hassle-free, smooth move between Dhanbad and Phusro. Our experienced supervisors handle every detail from preliminary packing to final furniture positioning at your new residence. Contact our 24x7 helpdesk today at <strong>+91 9835565233</strong> or complete the quick quote form above for an accurate, complimentary estimate.</p>
 
                 <h2>Connected Phusro Relocation Corridors</h2>
                 <p>We provide regular containerized moving services connecting Phusro to major national and regional hubs:</p>

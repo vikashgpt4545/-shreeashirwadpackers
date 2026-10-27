@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Indirapuram Ghaziabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -472,7 +472,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="indg-hero-title">Packers and Movers in Indirapuram Ghaziabad</h1>
         <p class="indg-hero-subtitle">Specialized high-rise condominium relocations, builder floor shifting across Ahinsa, Vaibhav, Niti & Nyay Khand, furniture carpentry, and inter-state logistics.</p>
         <div class="indg-cta-group">
-            <a href="tel:+919334404050" class="indg-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="indg-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="indg-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="indg-intro-p">Organized into distinct sectors known as "Khands"—Ahinsa Khand 1 & 2, Vaibhav Khand, Niti Khand 1, 2 & 3, and Nyay Khand 1, 2 & 3—Indirapuram features a vibrant mix of luxury high-rise condominium complexes such as Shipra Suncity, ATS Advantage, Windsor Park, and Orange County, alongside hundreds of private multi-storey builder floors. Surrounded by premium shopping malls like Shipra Mall and Aditya City Centre, lush recreation at Swarna Jayanti Park, and top schools like DPS Indirapuram, the area is home to thousands of corporate professionals and families.</p>
 
         <div class="indg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Indirapuram Ghaziabad container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Indirapuram Ghaziabad container truck" width="580" height="386" loading="lazy">
             <p class="indg-image-caption">Systematic loading and protective padding of residential goods in Indirapuram Ghaziabad.</p>
         </div>
 
@@ -525,7 +525,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="indg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Indirapuram Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Indirapuram Ghaziabad" width="580" height="386" loading="lazy">
             <p class="indg-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="indg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Indirapuram Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Indirapuram Ghaziabad" width="580" height="386" loading="lazy">
             <p class="indg-image-caption">Precision furniture disassembly and wrapped timber protection for Indirapuram homes.</p>
         </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="indg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Indirapuram Ghaziabad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Indirapuram Ghaziabad" width="580" height="386" loading="lazy">
             <p class="indg-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

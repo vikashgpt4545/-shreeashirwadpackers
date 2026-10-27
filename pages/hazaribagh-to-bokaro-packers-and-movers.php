@@ -359,7 +359,7 @@ $meta_keywords = "hazaribagh to bokaro packers and movers, packers and movers ha
           </div>
           <div>
             <div style="position:relative; border-radius:16px; overflow:hidden; box-shadow:0 12px 35px rgba(15,34,61,0.15); border:1px solid #e2e8f0;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping for Bokaro relocation" style="width:100%; height:320px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping for Bokaro relocation" style="width:100%; height:320px; object-fit:cover; display:block;">
               <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0) 100%); padding:24px 20px 16px; color:#ffffff;">
                 <div style="font-size:1.1rem; font-weight:700; margin-bottom:4px;">Protective Furniture Packaging</div>
                 <div style="font-size:0.88rem; color:#cbd5e1;">Multi-layer padding for safe transit between Hazaribagh and Bokaro Steel City</div>
@@ -457,14 +457,14 @@ $meta_keywords = "hazaribagh to bokaro packers and movers, packers and movers ha
         <!-- 2 Visual Proof Cards -->
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading and elevator logistics" style="width:100%; height:240px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading and elevator logistics" style="width:100%; height:240px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Elevator &amp; Multistory Loading Expertise</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">Our crews safely handle high-rise societies in Chas and Bokaro Steel City quarters with specialized furniture trollies and stair-climbing gear.</p>
             </div>
           </div>
           <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.08); border:1px solid #e2e8f0; background:#ffffff;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading for Hazaribagh to Bokaro" style="width:100%; height:240px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading for Hazaribagh to Bokaro" style="width:100%; height:240px; object-fit:cover; display:block;">
             <div style="padding:18px 20px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin:0 0 6px;">Dedicated Closed Container Trucks</h3>
               <p style="font-size:0.88rem; color:#64748b; margin:0; line-height:1.6;">All-weather closed metal containers ensure goods travel directly from Hazaribagh to Bokaro without dust or weather exposure.</p>

@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mylapore-chennai";
         "name": "Shree Ashirwad Packers and Movers Mylapore Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mylapore-chennai";
         <p>Unlike newer suburban developments, Mylapore presents distinct architectural and geographical nuances. Many families inhabit historic agraharam homes, ancestral colonial mansions, and vintage apartments along North Mada Street, South Mada Street, Kutchery Road, and Pitchu Pillai Street. These homes house invaluable heirlooms, including century-old Burma teakwood almirahs, intricate Tanjore paintings, brass and bronze temple idols, and hand-carved rosewood dining tables. Shree Ashirwad Packers and Movers provides master craftsmen skilled in safeguarding these irreplaceable treasures.</p>
 
         <div class="mlp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate heirloom art and bronze idol packing in Mylapore Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate heirloom art and bronze idol packing in Mylapore Chennai" width="580" height="387" loading="lazy">
             <div class="mlp-image-caption">Meticulous multi-tier bubble cushioning for fragile heirlooms, Tanjore art, and bronze idols in Mylapore.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mylapore-chennai";
         </div>
 
         <div class="mlp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Antique wooden furniture dismantling in Mylapore Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Antique wooden furniture dismantling in Mylapore Chennai" width="580" height="387" loading="lazy">
             <div class="mlp-image-caption">Traditional joinery and antique bed dismantling executed by master carpenters in Mylapore.</div>
         </div>
 
@@ -597,7 +597,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mylapore-chennai";
         <p>Modern modular furnishings, designer wardrobes, and king-size beds are dismantled with precision using specialized tools. All hinges, screws, and brackets are placed in numbered zip-lock pouches taped directly to furniture panels, guaranteeing rapid and exact reassembly in your new residence.</p>
 
         <div class="mlp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap protection for traditional homes in Mylapore Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap protection for traditional homes in Mylapore Chennai" width="580" height="387" loading="lazy">
             <div class="mlp-image-caption">Heavy-duty five-ply corrugated boxes and bubble wrap protection for household items in Mylapore.</div>
         </div>
 
@@ -723,7 +723,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mylapore-chennai";
         </ol>
 
         <div class="mlp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container transport truck servicing Mylapore Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container transport truck servicing Mylapore Chennai" width="580" height="387" loading="lazy">
             <div class="mlp-image-caption">Weatherproof container trucks engineered for dust-free, secure transit across Chennai.</div>
         </div>
     </section>
@@ -780,7 +780,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mylapore-chennai";
     <div class="mlp-cta-box">
         <h3>Entrust Your Mylapore Move to Heritage Shifting Specialists</h3>
         <p>Get an honest, binding quote with zero hidden fees. Dedicated care for heirloom furniture, classical instruments, and modern residences.</p>
-        <a href="tel:+919334404050" class="mlp-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="mlp-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

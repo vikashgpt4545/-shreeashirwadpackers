@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Professional intercity relocation services from Mysore to Bangalore covering Gokulam, Vijayanagar, Kuvempunagar, and Saraswathipuram with dedicated sealed container trucks.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹7,500 - ₹34,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy closed weatherproof container vehicles fitted with internal cushioning, hydraulic tailgates, and cellular GPS tracking systems. Whether you are moving for career growth in Bangalore's technology corridors, relocating student apartments, or transferring corporate teams, our verified crews ensure punctual same-day shifting with zero handling loss or unexpected delays.</p>
 
         <div class="mybg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Mysore to Bangalore" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Mysore to Bangalore" width="580" height="386">
         </div>
 
         <div class="mybg-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Reaching Bangalore's outskirts near Kengeri, the trucks can branch off directly onto the NICE Road corridor to reach Electronic City, Bannerghatta, Kanakapura Road, or Hosur Road, or proceed through the city towards western and northern localities like Yeshwanthpur, Hebbal, and Yelahanka. Our centralized control room monitors electronic toll clearances at Gananguru and Kaniminike plazas, ensuring zero delay and continuous forward momentum.</p>
 
         <div class="mybg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Mysore to Bangalore relocation" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Mysore to Bangalore relocation" width="580" height="386">
         </div>
 
         <div class="mybg-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every fragile dish, glassware set, and kitchen appliance is wrapped in double-layer air-bubble film and nestled within honeycomb corrugated boxes. High-value flat-screen televisions, glass-top dining sets, and pooja mandirs are encased in custom wooden crates for uncompromising shock absorption.</p>
 
         <div class="mybg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Bangalore" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Bangalore" width="580" height="386">
         </div>
 
         <div class="mybg-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every vehicle undergoes a comprehensive 24-point pre-dispatch inspection. We document fuel levels, existing surface scratches, and odometer readings on a signed consignment receipt prior to loading, giving you complete clarity.</p>
 
         <div class="mybg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
         </div>
 
         <div class="mybg-grid-2">

@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ambattur-chennai";
         "name": "Shree Ashirwad Packers and Movers Ambattur Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ambattur-chennai";
         <p>Beyond its industrial corridors, Ambattur is a dense, flourishing residential metropolis. Localities surrounding Ambattur Old Town (OT), Venkatapuram, Menambedu, Pudur, Kallikuppam, and Vijayalakshmipuram are home to hundreds of thousands of manufacturing professionals, IT specialists, and traditional business families. Relocating within this dual-nature environment demands an adaptable partner capable of maneuvering heavy hydraulic machinery jacks in manufacturing units while delivering delicate multi-layer packing for residential apartments. Shree Ashirwad Packers and Movers delivers proven expertise across every industrial and domestic sector of Ambattur.</p>
 
         <div class="amb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy industrial machinery and corporate shifting in Ambattur Industrial Estate Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy industrial machinery and corporate shifting in Ambattur Industrial Estate Chennai" width="580" height="387" loading="lazy">
             <div class="amb-image-caption">Industrial machinery relocation and precision rigging services in Ambattur Industrial Estate.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ambattur-chennai";
         </div>
 
         <div class="amb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office equipment and IT park shifting in Ambattur Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office equipment and IT park shifting in Ambattur Chennai" width="580" height="387" loading="lazy">
             <div class="amb-image-caption">Enterprise IT equipment packaging and corporate workstation shifting in Ambattur.</div>
         </div>
 
@@ -597,7 +597,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ambattur-chennai";
         <p>Our residential moving crews follow an exacting five-stage packing protocol. We cushion wooden wardrobes, dining tables, and sofa sets with heavy quilted moving blankets, multi-layer air bubble wrap, and moisture-resistant stretch film to prevent scuffs or moisture absorption during transit.</p>
 
         <div class="amb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing and residential moving in Ambattur Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing and residential moving in Ambattur Chennai" width="580" height="387" loading="lazy">
             <div class="amb-image-caption">Standardized heavy-duty carton packing and furniture wrapping for residential moves in Ambattur.</div>
         </div>
 
@@ -723,7 +723,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ambattur-chennai";
         </ol>
 
         <div class="amb-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck transport in Ambattur Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck transport in Ambattur Chennai" width="580" height="387" loading="lazy">
             <div class="amb-image-caption">Weatherproof sealed container carriers engineered for safe transit across North-West Chennai.</div>
         </div>
     </section>
@@ -780,7 +780,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ambattur-chennai";
     <div class="amb-cta-box">
         <h3>Book Your Ambattur Move with Chennai's Trusted Specialists</h3>
         <p>Get a guaranteed fixed-price quote with zero surprise charges. Fully insured, certified packing specialists ready to move your household or factory today.</p>
-        <a href="tel:+919334404050" class="amb-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="amb-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

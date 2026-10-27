@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Gorakhpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -457,7 +457,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Gorakhpur</h1>
         <p>Premium household shifting, North Eastern Railway officer relocations, AIIMS medical transfers, and GIDA industrial freight logistics across Gorakhpur with certified zero damage guarantee.</p>
         <div class="gkp-hero-btn-group">
-            <a href="tel:+919334404050" class="gkp-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gkp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gkp-btn-secondary">Check Tariff Rates</a>
         </div>
     </section>
@@ -470,7 +470,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gkp-intro-p">Over recent years, Gorakhpur has undergone a transformative infrastructure expansion, featuring the landmark All India Institute of Medical Sciences (AIIMS Gorakhpur), premier technical universities like MMMUT, Deen Dayal Upadhyaya Gorakhpur University, the picturesque Ramgarh Tal lakefront, and the thriving Gorakhpur Industrial Development Authority (GIDA). Relocating here demands specialized expertise in managing railway officer transfer dockets, medical diagnostic equipment, and family household belongings with utmost care.</p>
 
         <div class="gkp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Gorakhpur Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Gorakhpur Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="gkp-image-caption">Our professional relocation crew safely loading packed goods into container trucks in Gorakhpur.</p>
         </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gkp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Gorakhpur Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Gorakhpur Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="gkp-image-caption">High-density bubble wrapping and reinforced multi-wall cartons utilized for household goods in Gorakhpur.</p>
         </div>
 
@@ -660,7 +660,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gkp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Gorakhpur" width="580" height="380" loading="lazy">
             <p class="gkp-image-caption">Skilled carpentry team carefully dismantling large wooden bed frames and packing delicate hardware in Gorakhpur.</p>
         </div>
     </section>
@@ -673,7 +673,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gkp-intro-p">Southbound container routes flow easily along National Highway 24 toward Mau and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-varanasi">Varanasi</a> in approximately 4 hours, while eastward highway links connect toward Gopalganj, Muzaffarpur, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna">Patna</a> in 5.5 to 6 hours. Direct expressway links also connect northward toward Kushinagar, Sonauli, and Nepal border trading points.</p>
 
         <div class="gkp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Gorakhpur" width="580" height="380" loading="lazy">
             <p class="gkp-image-caption">Dedicated sealed container truck fleet ensuring clean, weather-protected door-to-door delivery across Gorakhpur.</p>
         </div>
 
@@ -740,7 +740,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Smooth Relocation in Gorakhpur Today</h3>
         <p>Connect with our Gorakhpur relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="gkp-cta-group">
-            <a href="tel:+919334404050" class="gkp-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gkp-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gkp-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

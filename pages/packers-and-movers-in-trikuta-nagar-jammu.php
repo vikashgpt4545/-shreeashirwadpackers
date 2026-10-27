@@ -337,7 +337,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-trikuta-nagar-jammu';
         <p>Shree Ashirwad Packers and Movers delivers prompt, certified moving solutions throughout Trikuta Nagar and neighboring districts. As a core branch of our Jammu network centered at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jammu">Packers and Movers in Jammu</a> and linked to our national headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we combine anti-static technical packing, heavy furniture rigging, and modern containerized highway transport to deliver seamless domestic and interstate shifting.</p>
 
         <div class="tnj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Trikuta Nagar Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Trikuta Nagar Jammu">
             <div class="tnj-caption">Defensive multi-tier packaging for furniture, chinaware, and high-value appliances in Trikuta Nagar</div>
         </div>
 
@@ -358,7 +358,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-trikuta-nagar-jammu';
         </ul>
 
         <div class="tnj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office equipment packing in Trikuta Nagar Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office equipment packing in Trikuta Nagar Jammu">
             <div class="tnj-caption">High-precision anti-static packing for corporate servers, networking hardware, and executive IT workstations</div>
         </div>
     </section>
@@ -421,7 +421,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-trikuta-nagar-jammu';
         </div>
 
         <div class="tnj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container truck in Trikuta Nagar Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container truck in Trikuta Nagar Jammu">
             <div class="tnj-caption">High-capacity weather-sealed container vehicles operating directly from the Trikuta Nagar transport hub</div>
         </div>
     </section>
@@ -529,7 +529,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-trikuta-nagar-jammu';
         </div>
 
         <div class="tnj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Trikuta Nagar Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Trikuta Nagar Jammu">
             <div class="tnj-caption">Systematic room-wise unpacking, furniture reassembly, and debris removal in Trikuta Nagar</div>
         </div>
     </section>
@@ -624,7 +624,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-trikuta-nagar-jammu';
     "name": "Shree Ashirwad Packers and Movers Trikuta Nagar Jammu",
     "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9334812297",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹45,000",
     "address": {
         "@type": "PostalAddress",

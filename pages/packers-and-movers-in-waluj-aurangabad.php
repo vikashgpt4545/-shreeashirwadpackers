@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-waluj-a
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-waluj-aurangabad#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-waluj-aurangabad",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Waluj Aurangabad</h1>
         <p>Premier automotive industrial belt relocation specialists. Professional factory machinery moving, Bajajnagar apartment shifting, auto workforce transfers, and vehicle transport along the Pune-Aurangabad Highway.</p>
         <div class="wlj-btn-wrap">
-            <a href="tel:+919334404050" class="wlj-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="wlj-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="wlj-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring more than fifteen years of seasoned moving proficiency directly to Waluj Aurangabad. Relocating along this industrial corridor demands an experienced moving partner who understands factory shift hours, coordinates gate security permits, and plans linehaul routes to bypass heavy industrial truck traffic along the highway. Our dedicated teams arrive with non-marking floor protective runners, specialized furniture dollies, hydraulic hand lifters, and sealed weatherproof container trucks to ensure an impeccably smooth, worry-free moving experience from start to finish.</p>
 
         <div class="wlj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Waluj Aurangabad" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Waluj Aurangabad" width="580" height="387" loading="lazy">
             <p class="wlj-image-caption">Professional loading crews securing packed household consignments inside our weatherproof container trucks in Waluj Aurangabad.</p>
         </div>
 
@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="wlj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Waluj" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Waluj" width="580" height="387" loading="lazy">
             <p class="wlj-image-caption">High-density air bubble wrap, corrugated sheets, and shrink film applied to protect fragile electronics and chinaware in Waluj.</p>
         </div>
 
@@ -595,7 +595,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Final costs are determined by exact inventory volume, floor elevation, elevator availability, fragile crating requirements, and overall transit distance. For an exact customized quote tailored to your inventory, please view our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a> or speak directly with our Waluj survey executive.</p>
 
         <div class="wlj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Waluj" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Waluj" width="580" height="387" loading="lazy">
             <p class="wlj-image-caption">Skilled carpenters carefully dismantling and wrapping heavy bed frames and wardrobes for safe residential transit in Waluj.</p>
         </div>
 
@@ -640,7 +640,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="wlj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Waluj Aurangabad" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Waluj Aurangabad" width="580" height="387" loading="lazy">
             <p class="wlj-image-caption">Our closed container vehicles ensuring safe, door-to-door delivery across residential sectors and industrial townships throughout Waluj Aurangabad.</p>
         </div>
 

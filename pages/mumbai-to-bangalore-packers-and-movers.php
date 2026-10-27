@@ -36,7 +36,7 @@ $primary_highway = 'NH-48 (Western-Southern National Highway via Pune & Kolhapur
     "name": "Shree Ashirwad Packers and Movers - Mumbai to Bangalore Relocation",
     "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/mumbai-to-bangalore-packers-and-movers",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹16,500 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -512,7 +512,7 @@ $primary_highway = 'NH-48 (Western-Southern National Highway via Pune & Kolhapur
 
 <!-- Quick Action Contact Bar -->
 <div class="mbg-quick-bar">
-  Direct Highway Shifting Helpline: <strong>+91 9334484001 / +91 8409531615</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/919334484001?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Mumbai%20to%20Bangalore%20relocation">Chat on WhatsApp</a>
+  Direct Highway Shifting Helpline: <strong>+91 9835565233 / +91 8409531615</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Mumbai%20to%20Bangalore%20relocation">Chat on WhatsApp</a>
 </div>
 
 <!-- Section 1: Route Overview & Highway Logistics -->
@@ -534,7 +534,7 @@ $primary_highway = 'NH-48 (Western-Southern National Highway via Pune & Kolhapur
     </div>
     <div>
       <div class="mbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck for Mumbai to Bangalore relocation" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck for Mumbai to Bangalore relocation" loading="lazy">
       </div>
     </div>
   </div>
@@ -623,7 +623,7 @@ $primary_highway = 'NH-48 (Western-Southern National Highway via Pune & Kolhapur
   </div>
 
   <div class="mbg-image-container" style="margin-top: 36px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional packing crew preparing furniture and electronics for highway relocation" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional packing crew preparing furniture and electronics for highway relocation" loading="lazy">
   </div>
 </section>
 
@@ -668,7 +668,7 @@ $primary_highway = 'NH-48 (Western-Southern National Highway via Pune & Kolhapur
   <div class="mbg-grid-2">
     <div>
       <div class="mbg-image-container" style="margin: 0 auto;">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Multi-layer shockproof packing for kitchenware, electronics and glassware" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Multi-layer shockproof packing for kitchenware, electronics and glassware" loading="lazy">
       </div>
     </div>
     <div>
@@ -758,7 +758,7 @@ $primary_highway = 'NH-48 (Western-Southern National Highway via Pune & Kolhapur
   </div>
 
   <div class="mbg-image-container" style="margin-top: 36px;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door unloading team delivering household goods in Bangalore" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated door-to-door unloading team delivering household goods in Bangalore" loading="lazy">
   </div>
 </section>
 
@@ -823,7 +823,7 @@ $primary_highway = 'NH-48 (Western-Southern National Highway via Pune & Kolhapur
   <div class="mbg-cta-panel">
     <h3>Ready for a Hassle-Free Move from Mumbai to Bangalore?</h3>
     <p>Get a guaranteed written quote with zero hidden charges. Our logistics coordinator will schedule a free virtual or in-person survey today.</p>
-    <a href="tel:+919334484001" class="mbg-btn-primary">Call Now: +91 9334484001</a>
+    <a href="tel:+919835565233" class="mbg-btn-primary">Call Now: +91 9835565233</a>
   </div>
 </section>
 

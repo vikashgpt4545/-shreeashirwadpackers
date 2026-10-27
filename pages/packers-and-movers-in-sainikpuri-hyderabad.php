@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Sainikpuri",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-sainikpuri-hyderabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -552,7 +552,7 @@
     <p>Our dedicated Sainikpuri branch operates 365 days a year, providing custom weekend shifts and evening loading solutions tailored to defense officers, senior citizens, and growing families requiring zero disruption to daily life.</p>
 
     <div class="skp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Sainikpuri Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Sainikpuri Hyderabad" loading="lazy">
       <p class="skp-image-caption">Careful loading operations and apartment logistics across residential enclaves in Sainikpuri Hyderabad.</p>
     </div>
   </section>
@@ -585,7 +585,7 @@
     <p>Our experienced technicians also take charge of disassembling and reassembling king-size storage beds, multi-door wardrobes, and wall-mounted electronics, freeing customers from the hassle of coordinating outside carpenters or handymen.</p>
 
     <div class="skp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office IT Equipment Packing in Sainikpuri" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office IT Equipment Packing in Sainikpuri" loading="lazy">
       <p class="skp-image-caption">Secure anti-static wrapping and heavy-duty carton packing for commercial IT systems in Sainikpuri.</p>
     </div>
   </section>
@@ -647,7 +647,7 @@
     <p>Our billing structure contains zero hidden fuel surcharges or ambiguous stair-carry fees. Everything is clearly committed in a binding digital quotation before any packing commences.</p>
 
     <div class="skp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Sainikpuri" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Sainikpuri" loading="lazy">
       <p class="skp-image-caption">Reinforced protective wrapping for mahogany wardrobes and designer sofas before transit.</p>
     </div>
   </section>
@@ -723,7 +723,7 @@
     <p>Whether relocating an independent bungalow in Vayupuri or managing an interstate container freight shipment to another defense station, our operations team ensures that all logistics tasks are executed smoothly without unnecessary delays.</p>
 
     <div class="skp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Sainikpuri" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Sainikpuri" loading="lazy">
       <p class="skp-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
   </section>
@@ -808,7 +808,7 @@
   <section class="skp-cta-banner">
     <h3>Book Your Disciplined Move in Sainikpuri Today!</h3>
     <p>Contact our friendly relocation experts for a free pre-move survey, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Hyderabad and India.</p>
-    <a class="skp-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="skp-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

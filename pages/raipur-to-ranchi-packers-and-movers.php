@@ -1165,7 +1165,7 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
 
         <div class="r2r-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container truck navigating Raipur to Ranchi highway corridor">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container truck navigating Raipur to Ranchi highway corridor">
           <div class="r2r-img-caption">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="1" y="3" width="15" height="13"></rect><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></svg>
             Weatherproof Linehaul Container Truck on Raipur-Ambikapur-Gumla Corridor
@@ -1375,15 +1375,15 @@ require_once __DIR__ . '/includes/seo.php';
 
       <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin-top: 40px;">
         <div class="r2r-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapped in multi-layer protective film for Raipur to Ranchi transit">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapped in multi-layer protective film for Raipur to Ranchi transit">
           <div class="r2r-img-caption">Multi-Layer Protective Wrap on Solid Wooden Furniture</div>
         </div>
         <div class="r2r-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Refrigerators and home appliances protected with quilted covers">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Refrigerators and home appliances protected with quilted covers">
           <div class="r2r-img-caption">Quilted Heavy-Duty Covers for Domestic Appliances</div>
         </div>
         <div class="r2r-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate glassware and crockery wrapped in bubble film">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Delicate glassware and crockery wrapped in bubble film">
           <div class="r2r-img-caption">High-Grade Bubble Cushioning for Fragile Glass & Crockery</div>
         </div>
       </div>

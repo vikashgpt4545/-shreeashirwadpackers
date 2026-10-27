@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers DLF Phase 5",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -476,7 +476,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <h1 class="dlf5-hero-title">Packers and Movers in DLF Phase 5 Gurgaon</h1>
         <p class="dlf5-hero-subtitle">White-Glove Household Moving, Luxury Condominium Relocation & Corporate Shifting across Golf Course Road, The Aralias, The Camellias & One Horizon Center.</p>
         <div class="dlf5-cta-group">
-            <a href="tel:+919334404050" class="dlf5-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="dlf5-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dlf5-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -491,7 +491,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="dlf5-intro-p">Whether you are transitioning into a sky villa in The Camellias, shifting between luxury penthouses in DLF Phase 5, or organizing an inter-state corporate transfer to Kolkata, Patna, or our central operations headquarters via our <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> network, Shree Ashirwad guarantees unmatched professionalism, punctuality, and comprehensive transit insurance on every assignment.</p>
 
         <div class="dlf5-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Luxury apartment shifting crew in DLF Phase 5 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Luxury apartment shifting crew in DLF Phase 5 Gurgaon" width="580" height="360">
             <div class="dlf5-image-caption">Dedicated white-glove moving crew staging padded furnishings for seamless luxury condominium relocation in DLF Phase 5</div>
         </div>
     </section>
@@ -546,7 +546,7 @@ include_once ROOT_PATH . '/includes/header.php';
         <p class="dlf5-intro-p">Our operations team coordinates directly with facility managers across Golf Course Road. Whether coordinating parking heights in multi-level basements or maneuvering our specialized 14-foot and 17-foot covered container vehicles through security bollards, we ensure smooth, disruption-free relocation execution.</p>
 
         <div class="dlf5-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium packaging supplies for DLF Phase 5 moves" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium packaging supplies for DLF Phase 5 moves" width="580" height="360">
             <div class="dlf5-image-caption">Multi-layered protective packaging using virgin bubble roll, heavy-duty edge protectors, and corrugated export cartons</div>
         </div>
     </section>
@@ -654,7 +654,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="dlf5-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master carpenter dismantling designer wooden bed in DLF Phase 5" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master carpenter dismantling designer wooden bed in DLF Phase 5" width="580" height="360">
             <div class="dlf5-image-caption">Skilled carpenters carefully disassembling modular king-size beds and luxury wardrobe fittings prior to transit</div>
         </div>
     </section>
@@ -692,7 +692,7 @@ include_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="dlf5-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in DLF Phase 5 Gurgaon" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door relocation truck in DLF Phase 5 Gurgaon" width="580" height="360">
             <div class="dlf5-image-caption">Weatherproof container trucks ensuring dust-free and water-sealed transit across Golf Course Road and interstate routes</div>
         </div>
     </section>

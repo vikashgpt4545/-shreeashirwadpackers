@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Delhi NCR to Pune specializing in household shifting, corporate IT office moves, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹6,200 - ₹73,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 1,440 km arterial corridor between Delhi NCR and Pune, Maharashtra connects two of India's pre-eminent education, research, and IT hubs. Moving from Gurugram's Cyber City, Noida's tech parks, or South Delhi to Pune's Hinjewadi Infotech Park, Magarpatta Cybercity, or Kharadi IT hub involves traveling across Haryana, Rajasthan, Madhya Pradesh, Gujarat, and Maharashtra. Shree Ashirwad Packers and Movers delivers an exemplary relocation experience built upon industrial-grade logistics execution.</p>
     
     <div class="dlp-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Delhi to Pune long distance transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Delhi to Pune long distance transit" loading="lazy">
       <div class="dlp-img-caption">Dedicated sealed container trucks engineered for high-speed, weatherproof transit along NE4 and NH48.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 1,440 km transit across varying elevations and climatic zones demands engineered packaging that resists sustained highway micro-vibrations, thermal shifts, and road shocks along expressways and mountain descents.</p>
 
     <div class="dlp-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular furniture dismantling and protective wrapping for long distance move" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular furniture dismantling and protective wrapping for long distance move" loading="lazy">
       <div class="dlp-img-caption">Careful unbolting and multi-layer protective padding for beds, wardrobes, and modular furniture.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across 1,440 km of national highways can lead to severe physical exhaustion, stone chip damage, and unnecessary mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="dlp-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
       <div class="dlp-img-caption">Covered hydraulic car carriers ensuring damage-free car and motorcycle transport between Delhi and Pune.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dlp-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Specialized glassware packing for safe interstate delivery in Pune" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Specialized glassware packing for safe interstate delivery in Pune" loading="lazy">
       <div class="dlp-img-caption">Fragile glassware box packing with customized cushioning for safe doorstep delivery in Pune.</div>
     </div>
   </section>

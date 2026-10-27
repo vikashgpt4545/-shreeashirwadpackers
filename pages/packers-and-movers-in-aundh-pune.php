@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-aundh-p
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-aundh-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-aundh-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -156,7 +156,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-aundh-p
                 "name": "How can I obtain a customized relocation quotation for Aundh?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "You can call our dedicated Pune customer care desk at +91 93344 04050 or submit our online inquiry form to schedule a free in-home inventory survey and receive a transparent estimate."
+                    "text": "You can call our dedicated Pune customer care desk at +91 9835565233 or submit our online inquiry form to schedule a free in-home inventory survey and receive a transparent estimate."
                 }
             }
         ]
@@ -396,7 +396,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-aundh-p
         <h1>Packers and Movers in Aundh Pune</h1>
         <p>Premium household relocation, luxury villa shifting, and white-glove packing services across ITI Road, Parihar Chowk, Sindh Society, DP Road, and Western Pune's prestigious residential enclaves.</p>
         <div class="aun-btn-wrap">
-            <a href="tel:+919334404050" class="aun-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="aun-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="aun-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -417,7 +417,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-aundh-p
         <p>Our long-standing operational presence in Western Pune enables us to manage complex moving logistics effortlessly. We understand that moves in Aundh frequently involve valuable antique furniture, solid teakwood dining sets, fine porcelain chinaware, imported home entertainment setups, and sensitive home mandirs that require white-glove care, custom crating, and premium packaging materials.</p>
 
         <div class="aun-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Aundh Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Aundh Pune">
             <p class="aun-image-caption">Professional moving crews packing and loading luxury household goods into containerized transport vehicles in Aundh.</p>
         </div>
 
@@ -459,7 +459,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-aundh-p
         </div>
 
         <div class="aun-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Aundh Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Aundh Pune">
             <p class="aun-image-caption">Premium five-ply corrugated boxes, air-bubble cushioning, and stretch wrap securing household valuables.</p>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-aundh-p
         </div>
 
         <div class="aun-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Aundh">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Aundh">
             <p class="aun-image-caption">Expert carpenter dismantling modular double bed frames for safe apartment relocation in Aundh.</p>
         </div>
 
@@ -609,7 +609,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-aundh-p
         </div>
 
         <div class="aun-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Aundh">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Aundh">
             <p class="aun-image-caption">Reliable covered container vehicles delivering safe door-to-door household shifting across Aundh.</p>
         </div>
 
@@ -678,7 +678,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-aundh-p
 
         <div class="aun-faq-item">
             <h3>How can I obtain a customized relocation quotation for Aundh?</h3>
-            <p>You can call our dedicated Pune customer care desk at +91 93344 04050 or submit our online inquiry form to schedule a free in-home inventory survey and receive a transparent estimate.</p>
+            <p>You can call our dedicated Pune customer care desk at +91 9835565233 or submit our online inquiry form to schedule a free in-home inventory survey and receive a transparent estimate.</p>
         </div>
     </section>
 

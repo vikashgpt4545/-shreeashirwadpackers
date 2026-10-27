@@ -634,7 +634,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/gaya-to-hazaribagh-packer
                 <p>Whether you are a university academic transferring between Magadh University and Vinoba Bhave University, a medical professional relocating near Sheikh Bhikhari Medical College, a banking officer, a state government administrator, or a family settling in Hazaribagh, our dedicated same-day relocation service provides flawless execution from doorstep to doorstep.</p>
             </div>
             <div class="gay2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Gaya to Hazaribagh household shifting" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for Gaya to Hazaribagh household shifting" loading="lazy">
                 <div class="gay2hzb-img-caption">Dedicated all-weather sealed container trucks operating daily on the Gaya-Hazaribagh highway route</div>
             </div>
         </div>
@@ -679,7 +679,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/gaya-to-hazaribagh-packer
     <section class="gay2hzb-section">
         <div class="gay2hzb-grid-2">
             <div class="gay2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Gaya to Hazaribagh transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer protective packing for furniture and electronics before Gaya to Hazaribagh transit" loading="lazy">
                 <div class="gay2hzb-img-caption">Multi-layer protective bubble wrap, corrugated sheets, and foam edge guards for furniture and fragile items</div>
             </div>
             <div>
@@ -779,7 +779,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/gaya-to-hazaribagh-packer
                 </ul>
             </div>
             <div class="gay2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Gaya to Hazaribagh vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Gaya to Hazaribagh vehicle relocation" loading="lazy">
                 <div class="gay2hzb-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Gaya and Hazaribagh</div>
             </div>
         </div>
@@ -835,7 +835,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/gaya-to-hazaribagh-packer
     <section class="gay2hzb-section">
         <div class="gay2hzb-grid-2">
             <div class="gay2hzb-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Hazaribagh residence" loading="lazy">
                 <div class="gay2hzb-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Hazaribagh residences</div>
             </div>
             <div>

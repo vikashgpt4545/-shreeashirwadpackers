@@ -707,7 +707,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="rth-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Ranchi to Thane Interstate Container Fleet Loading" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Ranchi to Thane Interstate Container Fleet Loading" loading="lazy">
             </div>
         </div>
     </div>
@@ -831,7 +831,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="rth-container">
         <div class="rth-two-col">
             <div class="rth-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Household Packing for Thane Relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Household Packing for Thane Relocation" loading="lazy">
             </div>
             <div>
                 <span class="rth-tag">Advanced Damage Prevention</span>
@@ -912,7 +912,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </div>
             </div>
             <div class="rth-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Thane High-Rise Doorstep Delivery and Unloading Service" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Thane High-Rise Doorstep Delivery and Unloading Service" loading="lazy">
             </div>
         </div>
     </div>
@@ -923,7 +923,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="rth-container">
         <div class="rth-two-col">
             <div class="rth-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Ranchi to Thane Car Transport Enclosed Hydraulic Carrier" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Ranchi to Thane Car Transport Enclosed Hydraulic Carrier" loading="lazy">
             </div>
             <div>
                 <span class="rth-tag">Automobile Relocation Solutions</span>

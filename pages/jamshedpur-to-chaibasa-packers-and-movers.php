@@ -632,7 +632,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-chaibasa-pa
                 </ul>
             </div>
             <div class="jsr2chb-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Shree Ashirwad closed container truck transporting goods from Jamshedpur to Chaibasa">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Shree Ashirwad closed container truck transporting goods from Jamshedpur to Chaibasa">
             </div>
         </div>
     </div>
@@ -710,7 +710,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-chaibasa-pa
     <div class="container">
         <div class="jsr2chb-grid-2">
             <div class="jsr2chb-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer household packing in Jamshedpur for transit to Chaibasa">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer household packing in Jamshedpur for transit to Chaibasa">
             </div>
             <div>
                 <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.1rem; font-weight: 800; color: var(--jsr2chb-dark); margin-bottom: 20px;">
@@ -812,7 +812,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-chaibasa-pa
                 </ul>
             </div>
             <div class="jsr2chb-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automotive carrier loading car and bike in Jamshedpur for Chaibasa transport">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automotive carrier loading car and bike in Jamshedpur for Chaibasa transport">
             </div>
         </div>
     </div>
@@ -823,7 +823,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-chaibasa-pa
     <div class="container">
         <div class="jsr2chb-grid-2">
             <div class="jsr2chb-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly at residence in Chaibasa Jharkhand">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly at residence in Chaibasa Jharkhand">
             </div>
             <div>
                 <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.1rem; font-weight: 800; color: var(--jsr2chb-dark); margin-bottom: 20px;">

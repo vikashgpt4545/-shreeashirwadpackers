@@ -159,7 +159,7 @@ $meta_keywords = "warehouse services in ranchi, warehouse service in ranchi, sto
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -797,7 +797,7 @@ $meta_keywords = "warehouse services in ranchi, warehouse service in ranchi, sto
             </p>
           </div>
           <div class="wsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage Warehouse in Ranchi - Shree Ashirwad Packers" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage Warehouse in Ranchi - Shree Ashirwad Packers" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
       </div>
@@ -877,7 +877,7 @@ $meta_keywords = "warehouse services in ranchi, warehouse service in ranchi, sto
 
         <div class="wsr-split-row">
           <div class="wsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
           <div>
             <h3 style="font-size: 1.4rem; color: #0f223d; font-weight: 700; margin-bottom: 12px;">1. Elevated Anti-Flood Plinth & Epoxy Flooring</h3>
@@ -905,13 +905,13 @@ $meta_keywords = "warehouse services in ranchi, warehouse service in ranchi, sto
             </ul>
           </div>
           <div class="wsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
 
         <div class="wsr-split-row" style="margin-top: 50px;">
           <div class="wsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
           <div>
             <h3 style="font-size: 1.4rem; color: #0f223d; font-weight: 700; margin-bottom: 12px;">3. 24/7 HD CCTV & Armed Security Shield</h3>
@@ -1147,7 +1147,7 @@ $meta_keywords = "warehouse services in ranchi, warehouse service in ranchi, sto
             </ul>
           </div>
           <div class="wsr-img-frame">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="IBA Approved Door-to-Door Delivery Truck in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="IBA Approved Door-to-Door Delivery Truck in Jharkhand" width="600" height="260" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
           </div>
         </div>
       </div>

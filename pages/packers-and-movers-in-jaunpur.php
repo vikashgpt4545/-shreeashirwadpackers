@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-jaunpur
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-jaunpur#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-jaunpur",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -367,7 +367,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-jaunpur
         <p>Positioned strategically just 60 kilometers northwest of Varanasi and 100 kilometers east of Prayagraj along National Highway 31 (NH-31) and NH-731, Jaunpur provides outstanding road and railway connectivity. Whether you are moving your home within central residential sectors like Civil Lines, Line Bazar, and Olandganj, relocating near the university township along Shahganj Road, or planning an inter-state transfer to Delhi NCR, Bihar, or Jharkhand, Shree Ashirwad Packers and Movers delivers certified packing crews, heavy-duty packing supplies, and reliable covered container transport.</p>
 
         <div class="jnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Jaunpur by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Jaunpur by Shree Ashirwad Packers and Movers">
             <p class="jnp-image-caption">Meticulous truck loading and systematic inventory verification by Shree Ashirwad Packers and Movers in Jaunpur.</p>
         </div>
 
@@ -401,7 +401,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-jaunpur
         <p>Our operational supervisors oversee every single consignment personally. Before a single box is loaded into our container truck, our team compiles an exhaustive inventory manifest detailing the physical state and item description of every package, guaranteeing total transparency upon final delivery.</p>
 
         <div class="jnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging materials deployed in Jaunpur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High grade multi layer packaging materials deployed in Jaunpur">
             <p class="jnp-image-caption">High-density bubble wrap, heavy-duty cartons, and stretch film protecting household belongings in Jaunpur.</p>
         </div>
 
@@ -507,7 +507,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-jaunpur
         <p>Our moving crews include skilled carpentry technicians equipped with power tools to dismantle complex wardrobe sets, hydraulic beds, and wall-mounted shelving without causing damage to fixtures or wood joinery.</p>
 
         <div class="jnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping in Jaunpur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and wrapping in Jaunpur">
             <p class="jnp-image-caption">Trained technicians dismantling modular furniture and securing corners with impact protection.</p>
         </div>
 
@@ -549,7 +549,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-jaunpur
         <p>Our local Jaunpur moving teams are intimately familiar with city traffic schedules, expressway toll plazas, and local municipal entry regulations. Whether navigating central bazaar lanes or accessing high-rise gated societies, our teams arrive prepared with appropriate trolley dollies and floor protectors.</p>
 
         <div class="jnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Jaunpur">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Jaunpur">
             <p class="jnp-image-caption">Reliable covered container vehicles delivering door-to-door relocation across Jaunpur.</p>
         </div>
 
@@ -613,7 +613,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-jaunpur
 
         <div class="jnp-faq-item">
             <h3>How do I receive a written estimate for my move in Jaunpur?</h3>
-            <p>Call our direct customer support at +91 93344 04050 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
+            <p>Call our direct customer support at +91 9835565233 or complete our online inquiry form. We will arrange a free on-site or digital inventory assessment and deliver an immediate itemized quote.</p>
         </div>
 
         <div class="jnp-faq-item">

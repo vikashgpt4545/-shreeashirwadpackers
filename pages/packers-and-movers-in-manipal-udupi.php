@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-manipal-udupi";
         "name": "Shree Ashirwad Packers and Movers Manipal",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹2,800 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -525,7 +525,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-manipal-udupi";
         <h1>Packers and Movers in Manipal (Udupi)</h1>
         <p>Premier Moving & Logistics Partner for MAHE University Campuses, KMC Doctors, MIT Scholars & Executive Residences</p>
         <div class="mnp-btn-wrap">
-            <a href="tel:+919334404050" class="mnp-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="mnp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mnp-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -552,7 +552,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-manipal-udupi";
         </div>
 
         <div class="mnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Student and Household Packing in Manipal Udupi" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Student and Household Packing in Manipal Udupi" width="580" height="380" loading="lazy">
             <p class="mnp-image-caption">Professional packaging of student study materials, laptops, and household goods in Manipal.</p>
         </div>
     </section>
@@ -593,7 +593,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-manipal-udupi";
         </div>
 
         <div class="mnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Packing and Wrapping in Manipal" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Packing and Wrapping in Manipal" width="580" height="380" loading="lazy">
             <p class="mnp-image-caption">Multi-layer bubble wrapping and edge guards applied to student study desks and wooden wardrobes.</p>
         </div>
     </section>
@@ -657,11 +657,11 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-manipal-udupi";
 
         <div class="mnp-highlight-box">
             <h3>Need an Immediate Quote for Your Semester Move?</h3>
-            <p>Our instant tariff calculation tool calculates exact costs based on box count, furniture volume, destination distance, and floor levels. Calculate your customized quote with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or call our dedicated campus relocation desk at +91 9334404050.</p>
+            <p>Our instant tariff calculation tool calculates exact costs based on box count, furniture volume, destination distance, and floor levels. Calculate your customized quote with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or call our dedicated campus relocation desk at +91 9835565233.</p>
         </div>
 
         <div class="mnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Computer and Electronics Packing Manipal" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Computer and Electronics Packing Manipal" width="580" height="380" loading="lazy">
             <p class="mnp-image-caption">Individual item wrapping and shock-absorbing cartons for laboratory glassware and computers in Manipal.</p>
         </div>
     </section>
@@ -702,7 +702,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-manipal-udupi";
         </div>
 
         <div class="mnp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Vehicle in Manipal Karnataka" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Vehicle in Manipal Karnataka" width="580" height="380" loading="lazy">
             <p class="mnp-image-caption">Sealed container transport truck ready for interstate dispatch from Manipal to Bangalore and Pan-India.</p>
         </div>
     </section>

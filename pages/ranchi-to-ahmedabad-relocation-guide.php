@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Ahmedabad Relocation Guide | Gujarat Movers | Call 9708579999</title>
-    <meta name="description" content="Dependable household shifting from Ranchi to Ahmedabad. 36-hour linehaul, GIFT City corporate moves, IIM Ahmedabad faculty transfers, car carriers & full insurance. Call 9708579999.">
+    <title>Ranchi to Ahmedabad Relocation Guide | Gujarat Movers | Call 9835565233</title>
+    <meta name="description" content="Dependable household shifting from Ranchi to Ahmedabad. 36-hour linehaul, GIFT City corporate moves, IIM Ahmedabad faculty transfers, car carriers & full insurance. Call 9835565233.">
     <meta name="keywords" content="ranchi to ahmedabad relocation guide, packers and movers ranchi to ahmedabad, household shifting ranchi to gujarat, gift city corporate shifting ranchi, iim ahmedabad faculty packers, ranchi ahmedabad container truck">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-ahmedabad-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Ranchi to Ahmedabad Express Logistics",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-ahmedabad-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Ahmedabad Relocation Guide: Trans-India Industrial Express</h1>
                 <p>Relocating from Jharkhand to Gujarat's premier economic and financial hub? Experience seamless 36-to-44 hour highway linehaul across national expressways. Benefit from dedicated closed container trucks, specialized solutions for GIFT City executives, IIM Ahmedabad faculty, Sanand auto cluster industrialists, and complete transit insurance.</p>
                 <div class="rahd-cta-group">
-                    <a href="tel:+919708579999" class="rahd-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Ahmedabad" class="rahd-btn-wa" target="_blank" rel="noopener">WhatsApp Ahmedabad Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rahd-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Ahmedabad" class="rahd-btn-wa" target="_blank" rel="noopener">WhatsApp Ahmedabad Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rahd-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Ahmedabad" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Ahmedabad" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -286,7 +286,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Navigating Ahmedabad: SG Highway, GIFT City, IIM, Bopal & Sanand</h2>
                 <div class="rahd-grid-2">
                     <div class="rahd-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Ahmedabad" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Ahmedabad" loading="lazy">
                     </div>
                     <div>
                         <p>Ahmedabad is a vast, planned metropolitan center divided by the Sabarmati River, featuring high-speed ring roads, modern high-rise gated communities, and sprawling industrial complexes. Delivering household consignments requires locality-specific logistical coordination:</p>
@@ -317,7 +317,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rahd-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -389,7 +389,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>White-Glove Unpacking & Furniture Assembly in Ahmedabad</h2>
                 <div class="rahd-grid-2">
                     <div class="rahd-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Ahmedabad residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Ahmedabad residence" loading="lazy">
                     </div>
                     <div>
                         <p>Moving into your new home in Ahmedabad or Gandhinagar is made completely stress-free with our comprehensive destination unpacking and carpenter assistance:</p>

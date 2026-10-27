@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jalandhar",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalandhar",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 59,000",
         "address": {
             "@type": "PostalAddress",
@@ -225,7 +225,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jlr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Shifting Services in Jalandhar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Shifting Services in Jalandhar" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -268,7 +268,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="jlr-grid-2">
             <div>
                 <div class="jlr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment and Defense Relocation Jalandhar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment and Defense Relocation Jalandhar" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>
@@ -334,7 +334,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jlr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Container Moving Trucks in Jalandhar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Container Moving Trucks in Jalandhar" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -441,7 +441,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jlr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Jalandhar Punjab" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Jalandhar Punjab" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>

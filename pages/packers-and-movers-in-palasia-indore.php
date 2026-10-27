@@ -33,7 +33,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Palasia Indore",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-palasia-indore",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -412,7 +412,7 @@ $state_name = 'Madhya Pradesh';
           <p>Whether you are shifting an ancestral bungalow near Manoramaganj, upgrading to a luxury multi-story flat in New Palasia, or transferring an established chartered accountancy firm along the AB Road corporate strip, our dedicated team provides personalized packing, secure transit, dedicated vehicle loading, and courteous unpacking support tailored to your schedule.</p>
         </div>
         <div class="pls-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Palasia Indore" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Palasia Indore" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -454,7 +454,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="pls-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Palasia Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Palasia Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -611,7 +611,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="pls-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Fleet in Palasia Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Fleet in Palasia Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -647,7 +647,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="pls-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Palasia Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Palasia Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -678,7 +678,7 @@ $state_name = 'Madhya Pradesh';
     <div class="pls-cta-bar">
       <h3>Ready for an Effortless Move in Palasia Indore?</h3>
       <p>Contact our local Palasia relocation experts today for a free on-site survey and transparent itemized quote.</p>
-      <a href="tel:+919334484001" class="pls-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="pls-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="pls-section">

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers GIFT City Gandhinagar",
         "image": "https://www.shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-gift-city-gandhinagar",
-        "telephone": "+91 9122114455",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹65,000",
         "address": {
             "@type": "PostalAddress",
@@ -422,7 +422,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we have developed specialized operational capabilities specifically crafted for GIFT City's unique architectural landscape. Unlike traditional urban environments, GIFT City operates with dedicated underground multi-utility tunnels, automated waste collection networks, automated district cooling systems, and rigorous electronic security monitoring. Moving executive furnishings, imported Italian leather lounges, high-end modular workstations, or sensitive financial data systems into towers soaring 25 to 30 stories demands disciplined logistics, custom elevator staging protocols, and immaculate handling.</p>
 
             <div class="gft-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Executive Apartment Moving in GIFT City Gandhinagar">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Executive Apartment Moving in GIFT City Gandhinagar">
                 <div class="gft-image-caption">Disciplined skyscraper loading operations utilizing dedicated service elevators and protective padding in GIFT City.</div>
             </div>
 
@@ -545,7 +545,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
 
             <div class="gft-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Luxury Multi-Layer Packing for Executive Furnishings in GIFT City">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Luxury Multi-Layer Packing for Executive Furnishings in GIFT City">
                 <div class="gft-image-caption">Meticulous multi-layer protective packaging for designer furniture, crystalware, and delicate decor.</div>
             </div>
 
@@ -633,7 +633,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>To guarantee complete safety and total peace of mind for financial leaders and homeowners in GIFT City, our operations adhere to a disciplined six-stage workflow:</p>
 
             <div class="gft-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure Enclosed Container Truck Fleet at GIFT City Gandhinagar">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure Enclosed Container Truck Fleet at GIFT City Gandhinagar">
                 <div class="gft-image-caption">All-weather sealed container fleet ensuring complete cargo privacy, climate defense, and secure transport.</div>
             </div>
 
@@ -665,7 +665,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
 
             <div class="gft-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="White Glove Unpacking and Placement Service in GIFT City Residence">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="White Glove Unpacking and Placement Service in GIFT City Residence">
                 <div class="gft-image-caption">White-glove unpacking, furniture positioning, and waste clearance for effortless move-in experience.</div>
             </div>
         </div>

@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Gomti Nagar Extension Lucknow",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="gne-hero-title">Packers and Movers in Gomti Nagar Extension Lucknow</h1>
         <p class="gne-hero-subtitle">Specialized high-rise society moving, service elevator handling, modular furniture carpentry, and seamless highway relocations along Amar Shaheed Path and Ekana Stadium corridor.</p>
         <div class="gne-cta-group">
-            <a href="tel:+919334404050" class="gne-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gne-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gne-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gne-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we bring specialized equipment and seasoned personnel to Gomti Nagar Extension. Whether you are moving into a luxury flat in Omaxe Residency, transitioning between towers in Rishita Manhattan or Purvanchal Kings Court, or relocating an IT professional's household near HCL IT City, our dedicated moving squads deliver damage-free, punctual solutions.</p>
 
         <div class="gne-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Gomti Nagar Extension Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Gomti Nagar Extension Lucknow" loading="lazy">
             <p class="gne-image-caption">Systematic household loading and basement shuttle operations in Gomti Nagar Extension</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gne-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Gomti Nagar Extension" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Gomti Nagar Extension" loading="lazy">
             <p class="gne-image-caption">Multi-layer shock-absorbent wrapping protects delicate glassware and electronic appliances</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gne-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Lucknow" loading="lazy">
             <p class="gne-image-caption">Professional carpentry dismantling preserves modular furniture joinery and fasteners</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gne-intro-p">Furthermore, the newly inaugurated Kisan Path (Outer Ring Road) and Sultanpur Road interchanges allow our heavy moving vehicles to bypass all city traffic entirely. Whether heading toward Varanasi, Ayodhya, Gorakhpur, or western transit corridors to Delhi NCR and Rajasthan, our freight carriers ensure unmatched transit speed and predictability.</p>
 
         <div class="gne-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck in Gomti Nagar Extension" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck in Gomti Nagar Extension" loading="lazy">
             <p class="gne-image-caption">Closed container linehaul fleet ensures prompt, secure door-to-door deliveries nationwide</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Gomti Nagar Extension Move Today</h3>
         <p>Connect with our expert team for competitive quotes, free pre-move surveys, and customized society shifting plans.</p>
         <div class="gne-cta-group">
-            <a href="tel:+919334404050" class="gne-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gne-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gne-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

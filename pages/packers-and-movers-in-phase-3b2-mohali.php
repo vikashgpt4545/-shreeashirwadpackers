@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Phase 3B2 Mohali",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-phase-3b2-mohali",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,500 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -226,7 +226,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="p3bm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Packing in Phase 3B2 Mohali" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Packing in Phase 3B2 Mohali" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -269,7 +269,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="p3bm-grid-2">
             <div>
                 <div class="p3bm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Moving Phase 3B2 Mohali" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Moving Phase 3B2 Mohali" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>
@@ -335,7 +335,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="p3bm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Enclosed Container Truck in Phase 3B2 Mohali" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Enclosed Container Truck in Phase 3B2 Mohali" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -442,7 +442,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="p3bm-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Phase 3B2 Mohali" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Phase 3B2 Mohali" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>

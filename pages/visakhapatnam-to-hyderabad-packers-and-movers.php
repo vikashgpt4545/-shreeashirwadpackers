@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Visakhapatnam to Hyderabad specializing in household goods relocation, vehicle carrier shipping, corporate moves, and transit insurance.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -434,7 +434,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>At Shree Ashirwad Packers and Movers, we deliver end-to-end relocation management for every kind of consignment. Operating along the 620-kilometer highway crossing the Godavari belt through Vijayawada into Telangana, our experienced crews ensure completely damage-free transit inside sealed, all-weather container trucks.</p>
 
     <div class="vzh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Visakhapatnam to Hyderabad interstate container truck">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Visakhapatnam to Hyderabad interstate container truck">
       <div class="vzh-img-caption">Dedicated closed-body container truck transporting household goods along the Vizag to Hyderabad highway.</div>
     </div>
 
@@ -515,7 +515,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Our experienced packing team utilizes tailored materials specifically rated for intercity transit, safeguarding every single item from kitchen chinaware to large double-door refrigerators:</p>
 
     <div class="vzh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packaging cartons and bubble wrap cushioning">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packaging cartons and bubble wrap cushioning">
       <div class="vzh-img-caption">Multi-layer cushioning utilizing virgin bubble wrap, heavy corrugated paper, and edge guards.</div>
     </div>
 
@@ -601,7 +601,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>For two-wheelers, our bike parcel service provides custom wooden boxing, full bubble wrapping of headlamps, fairings, and mirrors, and hydraulic ramp loading to ensure zero scratches or transit shifts.</p>
 
     <div class="vzh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle parcel and car transport services">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle parcel and car transport services">
       <div class="vzh-img-caption">Hydraulic carrier ramps and shock-absorbing tie-downs for damage-free vehicle relocation.</div>
     </div>
 
@@ -649,7 +649,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Our dedicated Hyderabad destination crew manages the entire offloading process with precision. We safely carry cartons up service elevators, position heavy furniture in designated rooms, reassemble beds and wardrobes, set up appliances, and haul away all used packing materials.</p>
 
     <div class="vzh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup services in Hyderabad">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup services in Hyderabad">
       <div class="vzh-img-caption">Complete destination unpacking, furniture assembly, and clean-up services in Hyderabad.</div>
     </div>
 

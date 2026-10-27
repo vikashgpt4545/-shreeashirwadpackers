@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-habra#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-habra",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -540,7 +540,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="hbr-body-p">Whether you are an established wholesale merchant modernizing commercial inventory along Joygachi or Station Road, a faculty member or sports educator relocating near the prestigious Banipur educational complex, a healthcare officer at Habra State General Hospital, or a commuter family shifting into newly developed residential complexes across Prafullanagar, Hijalpukuria, and Kamarthuba, Shree Ashirwad Packers and Movers delivers fully synchronized, certified, and stress-free moving solutions tailored to the town's unique layout.</p>
 
                 <div class="hbr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Habra transport vehicle" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Habra transport vehicle" width="580" height="380" loading="lazy">
                     <div class="hbr-image-caption">Disciplined stowing and protective cargo lashing inside covered container transport in Habra.</div>
                 </div>
 
@@ -592,7 +592,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="hbr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Habra" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Habra" width="580" height="380" loading="lazy">
                     <div class="hbr-image-caption">High-density air bubble wrap and 5-ply corrugated carton encasement protecting home goods in Habra.</div>
                 </div>
 
@@ -656,7 +656,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="hbr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Habra home" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Habra home" width="580" height="380" loading="lazy">
                     <div class="hbr-image-caption">Professional furniture disassembling and edge protection for modular double beds and wooden wardrobes in Habra.</div>
                 </div>
 
@@ -707,7 +707,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="hbr-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Habra" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Habra" width="580" height="380" loading="lazy">
                     <div class="hbr-image-caption">Punctual arrival and courteous doorstep delivery service by Shree Ashirwad Packers and Movers in Habra.</div>
                 </div>
 
@@ -762,9 +762,9 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="hbr-body-p">Speak directly with our local Habra operations supervisor for an instant price quote and scheduled on-site inspection.</p>
                 <div class="hbr-highlight-box">
                     <div class="hbr-highlight-title">Direct Helpline</div>
-                    <p class="hbr-highlight-desc"><strong>+91 93344 60424</strong><br>Available 7 AM - 9:30 PM Daily</p>
+                    <p class="hbr-highlight-desc"><strong>+91 9835565233</strong><br>Available 7 AM - 9:30 PM Daily</p>
                 </div>
-                <a href="tel:+919334460424" class="hbr-cta-button">Call Now for Free Quote</a>
+                <a href="tel:+919835565233" class="hbr-cta-button">Call Now for Free Quote</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hbr-cta-button" style="background: #1e3a8a; margin-top: 10px;">Calculate Tariff Online</a>
             </div>
 

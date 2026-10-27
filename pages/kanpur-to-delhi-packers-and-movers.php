@@ -56,7 +56,7 @@ $page_keywords = "packers and movers kanpur to delhi, kanpur delhi household shi
         "name": "Shree Ashirwad Packers and Movers Kanpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334421111",
+        "telephone": "+91 9835565233",
         "priceRange": "₹8,500 - ₹46,000",
         "address": {
             "@type": "PostalAddress",
@@ -205,7 +205,7 @@ $page_keywords = "packers and movers kanpur to delhi, kanpur delhi household shi
             <p>The road distance between Kanpur and Delhi spans roughly 470 km. By leveraging the high-speed Agra-Lucknow Expressway and Yamuna Expressway networks, our dedicated closed container fleet bypasses bottlenecked local towns, clocking swift door-to-door transit within 8 to 12 hours. Early morning dispatches reach Delhi NCR destinations on the same evening, ready for smooth unloading and room assembly.</p>
             
             <div class="kpd-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed moving truck on Kanpur to Delhi express highway corridor" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed moving truck on Kanpur to Delhi express highway corridor" width="580" height="340" loading="lazy">
             </div>
             
             <p>We also run scheduled daily container departures from the national capital through our reciprocal <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-kanpur-packers-and-movers">Delhi to Kanpur packers and movers service</a>, providing reliable round-trip logistics and shared container space savings.</p>
@@ -321,7 +321,7 @@ $page_keywords = "packers and movers kanpur to delhi, kanpur delhi household shi
             <p>We deploy virgin multi-ply corrugated paper, heavy-density air-bubble wraps, expandable stretch films, and reinforced edge protectors. Fragile glassware, porcelain kitchenware, and pooja brassware are wrapped individually in tissue before being packed into compartmentalized boxes.</p>
             
             <div class="kpd-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and carton packing for Kanpur household goods" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap and carton packing for Kanpur household goods" width="580" height="340" loading="lazy">
             </div>
             
             <div class="kpd-grid-2">
@@ -357,7 +357,7 @@ $page_keywords = "packers and movers kanpur to delhi, kanpur delhi household shi
             <p>Every vehicle undergoes a formal pre-loading joint inspection. We record existing odometer readings, scratch profiles, and fuel amounts on digital condition sheets. Rearview mirrors are wrapped, battery terminals safely disconnected, and vehicles secured with high-grade synthetic wheel restraints.</p>
             
             <div class="kpd-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Kanpur to Delhi vehicle relocation" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle transport carrier for Kanpur to Delhi vehicle relocation" width="580" height="340" loading="lazy">
             </div>
 
             <div class="kpd-grid-3">
@@ -427,7 +427,7 @@ $page_keywords = "packers and movers kanpur to delhi, kanpur delhi household shi
             <p>We reassemble bed frames, fix modular dining sets, reinstall television wall mounts upon request, and position heavy refrigerators and washing machines in their designated utility niches. Once setup is finalized, we clean up and discard all bubble sheets, corrugated boxes, and plastic wraps, leaving your home spotless.</p>
             
             <div class="kpd-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Delhi residence" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Delhi residence" width="580" height="340" loading="lazy">
             </div>
 
             <p>All items are tallied against your original consignment note to ensure zero missing packages or unchecked cartons, giving you total peace of mind on shifting day.</p>
@@ -544,7 +544,7 @@ $page_keywords = "packers and movers kanpur to delhi, kanpur delhi household shi
     <section class="kpd-cta">
         <h2>Schedule Your Kanpur to Delhi Relocation Today</h2>
         <p>Contact our intercity logistics team for prompt quotations, verified vehicle carrier slots, and reliable closed container transport.</p>
-        <p><strong>Call 24/7 Helpline: +91-9334421111 | Email: support@shreeashirwadpackers.com</strong></p>
+        <p><strong>Call 24/7 Helpline: +91 9835565233 | Email: support@shreeashirwadpackers.com</strong></p>
     </section>
 </main>
 

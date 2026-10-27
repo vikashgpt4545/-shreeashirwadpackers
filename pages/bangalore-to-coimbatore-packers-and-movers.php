@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Expert intercity packers and movers from Bangalore to Coimbatore offering premium household relocation, vehicle transportation, corporate moves, and secure transit insurance via NH44 and NH544.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -434,7 +434,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>At Shree Ashirwad Packers and Movers, we offer an ISO-certified intercity logistics framework built specifically for this 365-kilometer transit. Whether you are transitioning from high-rise residential towers in Electronic City, Whitefield, Koramangala, or HSR Layout to Coimbatore neighborhoods like RS Puram, Gandhipuram, Peelamedu, or Saravanampatti, our crews manage every stage with surgical care.</p>
 
     <div class="bgcb-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Coimbatore interstate container truck">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Coimbatore interstate container truck">
       <div class="bgcb-img-caption">Sealed all-weather container truck transporting household goods along the Bangalore to Coimbatore highway.</div>
     </div>
 
@@ -515,7 +515,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Our experienced packing team utilizes tailored materials specifically rated for intercity transit, safeguarding every single item from kitchen chinaware to large double-door refrigerators:</p>
 
     <div class="bgcb-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective multi-layer bubble wrapping and box packing">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective multi-layer bubble wrapping and box packing">
       <div class="bgcb-img-caption">Standardized 5-layer export wrapping with heavy bubble sheets and edge guards for break-resistant moving.</div>
     </div>
 
@@ -601,7 +601,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>For motorcycle and scooter owners, our two-wheeler parcel service offers unparalleled safety. Each bike is thoroughly inspected, mirrors removed and bubble wrapped, and the frame encased in shock-proof corrugated sheets before being placed into customized wooden cages or strapped securely on dedicated bike decks.</p>
 
     <div class="bgcb-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Bike parcel and motorcycle transport services">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Bike parcel and motorcycle transport services">
       <div class="bgcb-img-caption">Secure two-wheeler crating and enclosed car carrier services linking Bangalore and Coimbatore.</div>
     </div>
 
@@ -649,7 +649,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Our local Coimbatore crew provides white-glove destination delivery services. From carefully carrying sofas up elevators to positioning master beds, assembling wardrobes, placing heavy appliances in kitchens, and clearing away all packing debris, we turn an empty apartment into a warm, comfortable home within hours.</p>
 
     <div class="bgcb-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup services in Coimbatore">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup services in Coimbatore">
       <div class="bgcb-img-caption">Complete destination unpacking, furniture assembly, and carton debris removal services.</div>
     </div>
 

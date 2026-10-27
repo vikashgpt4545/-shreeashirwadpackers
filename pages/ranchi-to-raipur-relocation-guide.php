@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Raipur Relocation Guide | Chhattisgarh Movers | Call 9708579999</title>
-    <meta name="description" content="Seamless household shifting from Ranchi to Raipur. 14-hour linehaul via NH-43/NH-53, Naya Raipur & AIIMS transfers, Bhilai SAIL moves, car carriers & full insurance. Call 9708579999.">
+    <title>Ranchi to Raipur Relocation Guide | Chhattisgarh Movers | Call 9835565233</title>
+    <meta name="description" content="Seamless household shifting from Ranchi to Raipur. 14-hour linehaul via NH-43/NH-53, Naya Raipur & AIIMS transfers, Bhilai SAIL moves, car carriers & full insurance. Call 9835565233.">
     <meta name="keywords" content="ranchi to raipur relocation guide, packers and movers ranchi to raipur, household shifting ranchi to chhattisgarh, bhilai steel plant transfer packers, naya raipur shifting ranchi, ranchi raipur container truck">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-raipur-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Ranchi to Raipur Express Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-raipur-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Raipur Relocation Guide: Steel & Mining Belt Express</h1>
                 <p>Relocating from Jharkhand to Chhattisgarh's dynamic capital? Experience seamless 14-to-18 hour highway linehaul along NH-43 and NH-53. Benefit from dedicated closed container trucks, specialized solutions for Naya Raipur administrative offices, Bhilai Steel Plant (SAIL), AIIMS Raipur, and complete transit insurance.</p>
                 <div class="rrpr-cta-group">
-                    <a href="tel:+919708579999" class="rrpr-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Raipur" class="rrpr-btn-wa" target="_blank" rel="noopener">WhatsApp Raipur Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rrpr-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Raipur" class="rrpr-btn-wa" target="_blank" rel="noopener">WhatsApp Raipur Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rrpr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Raipur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Raipur" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -286,7 +286,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Navigating Raipur: Naya Raipur (Atal Nagar), Shankar Nagar, VIP Road & Bhilai</h2>
                 <div class="rrpr-grid-2">
                     <div class="rrpr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Raipur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Raipur" loading="lazy">
                     </div>
                     <div>
                         <p>Raipur is a blend of bustling commercial zones, premier modern extensions, and high-tech administrative sectors in Naya Raipur. Delivering household consignments requires locality-specific logistical coordination:</p>
@@ -316,7 +316,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rrpr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -388,7 +388,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>White-Glove Unpacking & Furniture Assembly in Raipur</h2>
                 <div class="rrpr-grid-2">
                     <div class="rrpr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Raipur residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Raipur residence" loading="lazy">
                     </div>
                     <div>
                         <p>Moving into your new home in Raipur or Naya Raipur is made completely stress-free with our comprehensive destination unpacking and carpenter assistance:</p>

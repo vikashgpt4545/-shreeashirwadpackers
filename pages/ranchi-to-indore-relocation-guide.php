@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Indore Relocation Guide | MP Express Movers | Call 9708579999</title>
-    <meta name="description" content="Dependable household shifting from Ranchi to Indore. 32-hour linehaul, Super Corridor IT moves, IIT/IIM Indore faculty transfers, car carriers & full insurance. Call 9708579999.">
+    <title>Ranchi to Indore Relocation Guide | MP Express Movers | Call 9835565233</title>
+    <meta name="description" content="Dependable household shifting from Ranchi to Indore. 32-hour linehaul, Super Corridor IT moves, IIT/IIM Indore faculty transfers, car carriers & full insurance. Call 9835565233.">
     <meta name="keywords" content="ranchi to indore relocation guide, packers and movers ranchi to indore, household shifting ranchi to indore, iit indore faculty transfer packers, super corridor indore relocation ranchi, ranchi indore container truck">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-indore-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Ranchi to Indore Logistics Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-indore-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Indore Relocation Guide: Commercial & Tech Corridor Express</h1>
                 <p>Relocating between Jharkhand's capital and Madhya Pradesh's cleanest commercial hub? Experience seamless 30-to-38 hour linehaul transit across national highway networks. Benefit from dedicated closed container trucks, specialized solutions for Super Corridor IT executives, IIT & IIM Indore faculty, Pithampur industrialists, and complete transit insurance.</p>
                 <div class="rind-cta-group">
-                    <a href="tel:+919708579999" class="rind-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Indore" class="rind-btn-wa" target="_blank" rel="noopener">WhatsApp Indore Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rind-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Indore" class="rind-btn-wa" target="_blank" rel="noopener">WhatsApp Indore Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rind-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Indore" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Indore" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -286,7 +286,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Navigating Indore: Super Corridor, IIT Simrol, IIM Rau, Vijay Nagar & Pithampur</h2>
                 <div class="rind-grid-2">
                     <div class="rind-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Indore" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Indore" loading="lazy">
                     </div>
                     <div>
                         <p>Indore is an extraordinarily well-maintained city featuring wide avenues, modern high-rise townships, premier academic campuses, and sprawling industrial suburbs. Delivering household consignments requires locality-specific logistical coordination:</p>
@@ -316,7 +316,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rind-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -388,7 +388,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>White-Glove Unpacking & Furniture Assembly in Indore</h2>
                 <div class="rind-grid-2">
                     <div class="rind-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Indore residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Indore residence" loading="lazy">
                     </div>
                     <div>
                         <p>Moving into your new home in Indore is made completely stress-free with our comprehensive destination unpacking and carpenter assistance:</p>

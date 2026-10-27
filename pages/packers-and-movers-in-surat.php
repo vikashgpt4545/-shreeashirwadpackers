@@ -32,7 +32,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Surat",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-surat",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -392,7 +392,7 @@ $state_name = 'Gujarat';
       <p>Surat’s urban landscape presents unique logistical nuances. The city is bisected by the Tapi River, with extensive daily cross-river vehicular movement linking Adajan, Pal, and Rander with older commercial nodes in Athwa, Ring Road, and Varachha. Navigating large moving container trucks across cable-stayed bridges and bustling flyovers requires strategic timing. Our operations supervisors plan transit schedules to avoid peak morning textile market rushes and evening diamond trading rush hours, ensuring timely delivery without unnecessary highway idling.</p>
 
       <div class="srt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Loading and Relocation in Surat Gujarat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Loading and Relocation in Surat Gujarat" width="580" height="380" loading="lazy">
       </div>
 
       <div class="srt-highlight-box">
@@ -437,7 +437,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="srt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping Services in Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Wrapping Services in Surat" width="580" height="380" loading="lazy">
       </div>
 
       <h3>Advanced Multi-Layer Packing Standards</h3>
@@ -538,7 +538,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="srt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Surat Gujarat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Surat Gujarat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -574,7 +574,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="srt-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Surat" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Surat" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -613,7 +613,7 @@ $state_name = 'Gujarat';
     <div class="srt-cta-bar">
       <h3>Plan Your Smooth Relocation in Surat Today</h3>
       <p>Contact our Surat moving coordinators for an instant free home survey and transparent, competitive quotation.</p>
-      <a href="tel:+919334484001" class="srt-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="srt-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="srt-section">

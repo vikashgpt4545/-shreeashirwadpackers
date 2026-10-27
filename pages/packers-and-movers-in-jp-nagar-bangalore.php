@@ -36,7 +36,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jp-naga
     "name": "Shree Ashirwad Packers and Movers JP Nagar Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+919334404052",
+    "telephone": "+91 9835565233",
     "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
@@ -402,7 +402,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jp-naga
     <div class="jpn-hero-content">
       <h1 class="jpn-hero-title">Packers and Movers in JP Nagar Bangalore</h1>
       <p class="jpn-hero-subtitle">Premium Household &amp; Villa Relocation Across JP Nagar 1st to 9th Phases, Dollar Layout, Puttenahalli, Brigade Millennium &amp; Sarakki</p>
-      <a href="tel:+919334404052" class="jpn-hero-cta">Get Free Instant Quote: +91 9334404052</a>
+      <a href="tel:+919835565233" class="jpn-hero-cta">Get Free Instant Quote: +91 9835565233</a>
     </div>
   </header>
 
@@ -417,7 +417,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jp-naga
       <p class="jpn-p">Relocating a home or commercial establishment across this expansive neighborhood requires specialized logistical knowledge. Shifting a heritage home in 2nd Phase involves different vehicle access requirements and carpentry handling than moving a multi-bedroom penthouse on the 22nd floor of a high-rise condominium in 7th Phase. At Shree Ashirwad Packers and Movers, our dedicated JP Nagar branch coordinates every relocation with pinpoint accuracy, customized packing materials, and seasoned moving professionals.</p>
 
       <div class="jpn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in JP Nagar Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in JP Nagar Bangalore" width="580" height="387" loading="lazy">
         <div class="jpn-image-caption">Systematic truck loading and dedicated container transit engineered for JP Nagar residential phases.</div>
       </div>
 
@@ -453,7 +453,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jp-naga
       </div>
 
       <div class="jpn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective packaging materials in JP Nagar Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective packaging materials in JP Nagar Bangalore" width="580" height="387" loading="lazy">
         <div class="jpn-image-caption">High-density bubble wrapping and heavy-duty corrugated cartons protecting delicate household items.</div>
       </div>
 
@@ -475,7 +475,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jp-naga
       <p class="jpn-p">Furthermore, while main roads in JP Nagar are wide, inner residential lanes in 3rd Phase and Dollar Layout feature mature foliage, speed humps, and restricted turning radiuses. We deploy custom-sized 14-ft to 17-ft closed-container vehicles capable of maneuvering through narrow neighborhood lanes without causing street blockages or brushing against overhead branches.</p>
 
       <div class="jpn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture assembly and packing in JP Nagar Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture assembly and packing in JP Nagar Bangalore" width="580" height="387" loading="lazy">
         <div class="jpn-image-caption">Expert carpenter disassembly of modular wardrobes, bed frames, and study tables for safe transit.</div>
       </div>
 
@@ -543,7 +543,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jp-naga
       <p class="jpn-p">Tariff estimates depend on total cubic volume of items, packaging grade requested, elevator accessibility, and specific distance. For a comprehensive instant price calculation customized to your inventory, check our online <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges calculator</a>.</p>
 
       <div class="jpn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in JP Nagar Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in JP Nagar Bangalore" width="580" height="387" loading="lazy">
         <div class="jpn-image-caption">Dedicated sealed container vehicles guaranteeing secure door-to-door transit across South Bangalore.</div>
       </div>
 

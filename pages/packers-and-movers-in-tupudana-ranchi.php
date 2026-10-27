@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Tupudana Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-tupudana-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -433,7 +433,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Tupudana Ranchi</h1>
         <p>Premier industrial machinery moving, warehouse logistics, commercial godown shifting, and household relocation services across Tupudana Industrial Area, Ranchi Ring Road, Hulhundu, Balalong, Hatia Dam link, and Khunti Road. Professional, equipped, and damage-free moving delivered by Ranchi's leading industrial and domestic movers.</p>
-        <a href="tel:+919334404052" class="hl-tpd-cta-btn">&#128222; Call Now: +91 93344 04052</a>
+        <a href="tel:+919835565233" class="hl-tpd-cta-btn">&#128222; Call Now: +91 9835565233</a>
       </div>
       <div class="hl-tpd-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +441,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Tupudana Industrial Area &amp; Ring Road
         </div>
         <div class="hl-tpd-contact-item">
-          <span>Direct Helpline:</span> +91 93344 04052
+          <span>Direct Helpline:</span> +91 9835565233
         </div>
         <div class="hl-tpd-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -458,7 +458,7 @@ include_once __DIR__ . '/../includes/config.php';
 
   <!-- Constrained Card Image 1 -->
   <div class="hl-tpd-img-card">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Tupudana Industrial Area Ranchi">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck Operating across Tupudana Industrial Area Ranchi">
     <div class="hl-tpd-img-caption">Dedicated heavy-duty container and flatbed transport fleet serving Tupudana Industrial Area and Ring Road.</div>
   </div>
 
@@ -505,7 +505,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 2 -->
     <div class="hl-tpd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Multi-Layer Furniture Wrapping in Tupudana Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Multi-Layer Furniture Wrapping in Tupudana Ranchi">
       <div class="hl-tpd-img-caption">Multi-layer bubble wrap, foam corner guards, and stretch film protecting valuable furniture during transit.</div>
     </div>
 
@@ -587,7 +587,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 3 -->
     <div class="hl-tpd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing in Tupudana Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing in Tupudana Ranchi">
       <div class="hl-tpd-img-caption">Specialized foam wrapping and heavy-duty cargo straps ensuring scratch-free two-wheeler relocation.</div>
     </div>
 
@@ -651,7 +651,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- Constrained Card Image 4 -->
     <div class="hl-tpd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Tupudana Ranchi">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Quality Relocations in Tupudana Ranchi">
       <div class="hl-tpd-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services in Tupudana.</div>
     </div>
 

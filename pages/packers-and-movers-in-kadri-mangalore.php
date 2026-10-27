@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kadri-mangalore";
         "name": "Shree Ashirwad Packers and Movers Kadri Mangalore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -521,7 +521,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Kadri Mangalore</h1>
         <p>Premium residential shifting, heritage furniture crating, luxury apartment relocation, and sacred artifact moving across Kadri, Mallikatte, Kadri Hills, Shivabagh, and Balmatta.</p>
         <div class="kdm-btn-wrap">
-            <a href="tel:+919334404050" class="kdm-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="kdm-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kdm-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -549,7 +549,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="kdm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Kadri Mangalore" title="Household relocation in Kadri Mangalore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Kadri Mangalore" title="Household relocation in Kadri Mangalore">
             <p class="kdm-image-caption">Comprehensive household packing and organized labeling for residential homes in Kadri Mangalore.</p>
         </div>
     </section>
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Ceiling-suspended swing planks and ornate brass chains are carefully dismantled using specialized mechanical tools, wrapped in protective velvet blankets, and stored in padded crates. Upon arrival at your new residence, our senior carpenters assist with ceiling beam load verification and precision re-installation to ensure absolute family safety and historic preservation.</p>
 
         <div class="kdm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Kadri Mangalore" title="Furniture packing in Kadri Mangalore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Kadri Mangalore" title="Furniture packing in Kadri Mangalore">
             <p class="kdm-image-caption">Multi-tier bubble wrapping and edge guards applied to premium furniture in Kadri Mangalore.</p>
         </div>
     </section>
@@ -629,7 +629,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Kadri residents relocating to Bangalore, Mumbai, Pune, or other interstate destinations rely on our dedicated vehicle transit solutions. We pack motorcycles, Royal Enfield bikes, and scooters using dense foam padding on tanks, side mirrors, and exhausts. Vehicles are secured with wheel chocks and heavy-duty ratchet straps inside covered carriers, ensuring scratch-free delivery with full transit insurance coverage.</p>
 
         <div class="kdm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Kadri Mangalore" title="Delicate packing in Kadri Mangalore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Kadri Mangalore" title="Delicate packing in Kadri Mangalore">
             <p class="kdm-image-caption">Individual bubble wrapping and shock-absorbent cell partitioning for glassware and crockery in Kadri.</p>
         </div>
     </section>
@@ -744,7 +744,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="kdm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Kadri Mangalore" title="Safe transit truck in Kadri Mangalore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Kadri Mangalore" title="Safe transit truck in Kadri Mangalore">
             <p class="kdm-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

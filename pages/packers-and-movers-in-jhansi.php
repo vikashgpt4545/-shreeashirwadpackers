@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jhansi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>The historical city is anchored around iconic landmarks including the majestic Jhansi Fort, Rani Mahal, Government Museum, and the vibrant trade nodes of Elite Crossing, Sadar Bazar, and Sipri Bazar. As the headquarters of the Jhansi railway division on the North Central Railway, thousands of railway employees, officers, engineers, and station managers regularly transfer across divisional headquarters. Additionally, academic professionals at Bundelkhand University, researchers at the Indian Grassland and Fodder Research Institute (IGFRI), and medical specialists at Maharani Laxmi Bai Medical College require prompt, scheduled residential relocation services with guaranteed transit protection.</p>
 
         <div class="jhs-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Jhansi by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Jhansi by Shree Ashirwad Packers and Movers">
             <p class="jhs-image-caption">Systematic truck loading and transit safety by Shree Ashirwad Packers and Movers Jhansi.</p>
         </div>
 
@@ -407,7 +407,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="jhs-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and box packing in Jhansi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and box packing in Jhansi">
             <p class="jhs-image-caption">Multi-tier bubble wrapping and reinforced corrugated cartons for delicate household items.</p>
         </div>
 
@@ -499,7 +499,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="jhs-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and protective packing in Jhansi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and protective packing in Jhansi">
             <p class="jhs-image-caption">Careful dismantling and packaging of solid wood beds and modular furniture.</p>
         </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="jhs-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for residential moves in Jhansi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for residential moves in Jhansi">
             <p class="jhs-image-caption">Door-to-door delivery truck ensuring timely arrival and convenient unloading in Jhansi.</p>
         </div>
 
@@ -608,7 +608,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <div class="jhs-faq-item">
             <h3>How do I receive a written estimate for my move in Jhansi?</h3>
-            <p>You can contact our Jhansi relocation helpline at +91 93344 04050 or submit our online inquiry form. Our team will schedule an in-person or video inventory survey and provide a detailed, itemized quotation immediately.</p>
+            <p>You can contact our Jhansi relocation helpline at +91 9835565233 or submit our online inquiry form. Our team will schedule an in-person or video inventory survey and provide a detailed, itemized quotation immediately.</p>
         </div>
 
         <div class="jhs-faq-item">

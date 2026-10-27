@@ -22,7 +22,7 @@ include_once __DIR__ . '/../includes/config.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Professional intercity relocation services from Mangalore to Bangalore covering Kadri, Bejai, Surathkal, Falnir, and Urwa with dedicated sealed container trucks.",
-        "telephone": "+91 9334812677",
+        "telephone": "+91 9835565233",
         "priceRange": "₹11,000 - ₹44,000",
         "address": {
             "@type": "PostalAddress",
@@ -187,7 +187,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>We deploy purpose-built, weather-sealed container vehicles designed to navigate mountain gradients and protect cargo from road moisture and highway vibrations. Whether you are moving for career advancement in Bangalore's tech corridors, transferring university faculty, or shifting family homes to Whitefield, HSR Layout, or Indiranagar, our verified teams ensure punctual arrival and zero handling loss.</p>
 
         <div class="mgbg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Mangalore to Bangalore" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated sealed container vehicle on transit from Mangalore to Bangalore" width="580" height="386">
         </div>
 
         <div class="mgbg-grid-2">
@@ -269,7 +269,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>After crossing the ghat summit, the route flattens into the rolling plateau past Hassan, Channarayapatna, Bellur Cross, and Kunigal. Nearing Bangalore, the expressway bypasses Nelamangala before connecting directly onto the elevated tollway into Yeshwanthpur or the NICE Road corridor towards Electronic City and South Bangalore. Our operations room tracks electronic FASTag toll clearances at Shantigrama and Karjeevanahalli plazas, maintaining steady transit speeds and uninterrupted communications.</p>
 
         <div class="mgbg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Mangalore to Bangalore relocation" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing materials for Mangalore to Bangalore relocation" width="580" height="386">
         </div>
 
         <div class="mgbg-grid-2">
@@ -321,7 +321,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every fragile dish, glassware set, and kitchen appliance is wrapped in double-layer air-bubble film and nestled within honeycomb corrugated boxes. High-value flat-screen televisions, glass-top dining sets, and pooja mandirs are encased in custom wooden crates for uncompromising shock absorption.</p>
 
         <div class="mgbg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Bangalore" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in Bangalore" width="580" height="386">
         </div>
 
         <div class="mgbg-grid-2">
@@ -343,7 +343,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Every vehicle undergoes a comprehensive 24-point pre-dispatch inspection. We document fuel levels, existing surface scratches, and odometer readings on a signed consignment receipt prior to loading, giving you complete clarity.</p>
 
         <div class="mgbg-img-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated motorcycle and scooter transport carrier" width="580" height="386">
         </div>
 
         <div class="mgbg-grid-2">

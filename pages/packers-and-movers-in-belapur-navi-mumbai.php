@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-belapur
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-belapur-navi-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-belapur-navi-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Belapur Navi Mumbai</h1>
         <p>Premier corporate and residential relocation services across CBD Belapur, Sector 15 waterfront, Sector 11, Konkan Bhavan, and Artist Village with 100% damage-free delivery assurance.</p>
         <div class="blp-btn-wrap">
-            <a href="tel:+919334404050" class="blp-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="blp-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="blp-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of specialized relocation expertise directly to CBD Belapur. Relocating within this high-profile administrative district demands an experienced partner capable of coordinating strict society moving protocols, managing underground parking basement heights, and maintaining punctual linehaul schedules along Palm Beach Road, Sion-Panvel Highway, and Uran Road. Our seasoned packing crews arrive fully equipped with floor protection sheets, heavy-duty furniture straps, and weather-tight container trucks to ensure a flawless moving experience from start to finish.</p>
 
         <div class="blp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in CBD Belapur Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in CBD Belapur Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="blp-image-caption">Dedicated loading technicians securing packed household consignments inside our container vehicles in CBD Belapur.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="blp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Belapur" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Belapur" width="580" height="387" loading="lazy">
             <p class="blp-image-caption">High-density air bubble wrap, corrugated sheets, and shrink film applied to protect fragile electronics and chinaware in Belapur.</p>
         </div>
 
@@ -593,7 +593,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Final costs are determined by exact inventory volume, floor elevation, elevator availability, fragile crating requirements, and overall transit distance. For an exact customized quote tailored to your inventory, please view our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a> or speak directly with our Belapur survey executive.</p>
 
         <div class="blp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Belapur" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Belapur" width="580" height="387" loading="lazy">
             <p class="blp-image-caption">Skilled carpenters carefully dismantling and wrapping heavy bed frames and wardrobes for safe residential transit in Belapur.</p>
         </div>
 
@@ -638,7 +638,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="blp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Belapur Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Belapur Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="blp-image-caption">Our closed container vehicles ensuring safe, door-to-door delivery across residential sectors and townships throughout Belapur.</p>
         </div>
 

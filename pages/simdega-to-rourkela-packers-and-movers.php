@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Simdega to Rourkela Relocation Corridor
 $page_title = "Simdega to Rourkela Packers and Movers | Same-Day Shifting & Bike Transport";
-$page_description = "Hire trusted packers and movers from Simdega to Rourkela (Odisha). Same-day household goods shifting, bike transport, 4-layer packing via NH-143 & transit insurance. Call +91 9334812833.";
+$page_description = "Hire trusted packers and movers from Simdega to Rourkela (Odisha). Same-day household goods shifting, bike transport, 4-layer packing via NH-143 & transit insurance. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
         "name": "Shree Ashirwad Packers and Movers - Simdega to Rourkela Division",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹22,000",
         "address": {
             "@type": "PostalAddress",
@@ -364,7 +364,7 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
     <section class="srk-hero-banner">
         <h1 class="srk-hero-title">Simdega to Rourkela Packers and Movers</h1>
         <p class="srk-hero-subtitle">Same-Day Express Relocation Across the Jharkhand-Odisha Border. Swift 2-Hour Transit via NH-143, 4-Layer Packaging & Complete Room Setup in Rourkela.</p>
-        <a href="tel:+919334812833" class="srk-cta-btn">Book Same-Day Shifting: +91 9334812833</a>
+        <a href="tel:+919835565233" class="srk-cta-btn">Book Same-Day Shifting: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -380,7 +380,7 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
             </div>
             <div>
                 <div class="srk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons for Simdega to Rourkela shifting" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons for Simdega to Rourkela shifting" width="580" height="387">
                     <div class="srk-caption">Neatly labeled cartons and bubble wrap ensuring damage-free transit</div>
                 </div>
             </div>
@@ -473,7 +473,7 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
         <div class="dpt-grid-2 srk-grid-2">
             <div>
                 <div class="srk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and wooden furniture packing for Simdega to Rourkela shifting" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and wooden furniture packing for Simdega to Rourkela shifting" width="580" height="387">
                     <div class="srk-caption">Multi-layer fabric blankets and film wrapping protect furniture against abrasion</div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
             </div>
             <div>
                 <div class="srk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Simdega to Rourkela transport" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Simdega to Rourkela transport" width="580" height="387">
                     <div class="srk-caption">Sealed container trucks providing 100% dustproof and waterproof transit</div>
                 </div>
             </div>
@@ -512,7 +512,7 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
         <div class="dpt-grid-2 srk-grid-2">
             <div>
                 <div class="srk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew unloading in Rourkela" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew unloading in Rourkela" width="580" height="387">
                     <div class="srk-caption">Skilled unloading staff positioning heavy furniture in bedrooms and living rooms</div>
                 </div>
             </div>

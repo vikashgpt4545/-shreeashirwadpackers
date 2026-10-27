@@ -395,7 +395,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-delhi",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,800 - ₹65,000",
         "address": {
             "@type": "PostalAddress",
@@ -542,7 +542,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="dlh-body-p">Shree Ashirwad Packers and Movers brings verified metropolitan infrastructure to Delhi. Operating clean, closed container fleets equipped with GPS tracking, we link Delhi seamlessly with sister NCR megacity hubs including <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noida">Noida</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gurgaon">Gurgaon</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-faridabad">Faridabad</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ghaziabad">Ghaziabad</a>, alongside long-distance highway routes connecting to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, Patna, Kolkata, and Mumbai.</p>
 
                 <div class="dlh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Delhi" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Delhi" width="580" height="380" loading="lazy">
                     <div class="dlh-image-caption">Systematic loading and cargo bracing inside closed-body transport fleet in Delhi.</div>
                 </div>
 
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="dlh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Delhi" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Delhi" width="580" height="380" loading="lazy">
                     <div class="dlh-image-caption">Standardized 4-layer packaging utilizing bubble wrap, corrugated sheets, and edge protectors.</div>
                 </div>
 
@@ -674,7 +674,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="dlh-lead-p">Every relocation project in Delhi is executed using disciplined operating procedures honed over years of reliable service across Eastern India, ensuring total security from initial survey to final room placement:</p>
 
                 <div class="dlh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Delhi" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Delhi" width="580" height="380" loading="lazy">
                     <div class="dlh-image-caption">Careful dismantling and packaging of modular bed frames, dining sets, and wardrobes.</div>
                 </div>
 
@@ -734,7 +734,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </ul>
 
                 <div class="dlh-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Delhi" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Delhi" width="580" height="380" loading="lazy">
                     <div class="dlh-image-caption">Dedicated door-to-door delivery vehicles serving Delhi urban sectors and gated high-rise societies.</div>
                 </div>
 
@@ -806,7 +806,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <li>All-India Transit Coverage</li>
                     <li>24/7 Dedicated Move Coordinator</li>
                 </ul>
-                <a href="tel:+919334460424" class="dlh-cta-button">📞 Call: +91 93344 60424</a>
+                <a href="tel:+919835565233" class="dlh-cta-button">📞 Call: +91 9835565233</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="dlh-cta-button" style="margin-top: 10px; background: linear-gradient(135deg, #b45309 0%, #ea580c 100%);">📊 Calculate Charges Online</a>
             </div>
 
@@ -826,7 +826,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="dlh-body-p"><strong>Shree Ashirwad Packers and Movers</strong><br>
                 Corporate HQ: Ashok Nagar, Near Birsa Munda Airport Road, Ranchi, Jharkhand.<br>
                 Regional Delhi Hub: Ring Road Logistics Complex, Near Dhaula Kuan, New Delhi - 110010.<br>
-                Helpline: +91 93344 60424<br>
+                Helpline: +91 9835565233<br>
                 Email: info@shreeashirwadpackers.com</p>
                 <a href="<?php echo SITE_BASE_URL; ?>/" class="dlh-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>

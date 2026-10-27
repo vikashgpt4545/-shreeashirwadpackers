@@ -543,7 +543,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Across Dombivli East and West, our operations span Vishnu Nagar, Subhash Road, Ramnagar, Pendharkar College Road, and Anand Nagar. We also maintain a specialized deployment desk dedicated exclusively to major gated residential complexes such as Lodha Palava City (Casa Bella, Casa Rio, Lakeshore Greens, Downtown), Regency Estate, Runwal MyCity, and high-rise developments along Thakurli and Titwala.</p>
 
         <div class="kdmb-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Kalyan and Dombivli" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Kalyan and Dombivli" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our logistics coordinators carefully time vehicle dispatches to circumvent traffic snarls on the Shilphata highway and Mumbra bypass. By utilizing scheduled non-peak transit windows and obtaining advance society permissions, we safeguard your valuable household items against prolonged road vibrations and transit delays.</p>
@@ -599,7 +599,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="kdmb-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Kalyan Dombivli to pan-India destinations" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Kalyan Dombivli to pan-India destinations" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -635,7 +635,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="kdmb-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Kalyan Dombivli" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Kalyan Dombivli" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -706,7 +706,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="kdmb-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Kalyan Dombivli" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Kalyan Dombivli" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad in KDMC -->

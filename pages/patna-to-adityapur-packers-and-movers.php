@@ -743,7 +743,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="pat-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Cartons Packing for Patna to Adityapur Move" title="Protective Bubble Wrap Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Cartons Packing for Patna to Adityapur Move" title="Protective Bubble Wrap Packing">
                 </div>
             </div>
         </div>
@@ -885,7 +885,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </ul>
                 </div>
                 <div class="pat-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Patna to Adityapur Move" title="Intercity Moving Truck Loading">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Patna to Adityapur Move" title="Intercity Moving Truck Loading">
                 </div>
             </div>
         </div>
@@ -940,14 +940,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="pat-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling for Patna to Adityapur Move" title="Furniture Dismantling and Reassembly">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling for Patna to Adityapur Move" title="Furniture Dismantling and Reassembly">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & BIKE TRANSPORT -->
             <div class="pat-adi-two-col" style="margin-top: 45px;">
                 <div class="pat-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Motorcycle Safe Transit Packing for Adityapur Shifting" title="Scooter and Motorcycle Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Motorcycle Safe Transit Packing for Adityapur Shifting" title="Scooter and Motorcycle Packing">
                 </div>
                 <div class="pat-adi-two-col-text">
                     <h2>Full Doorstep Coverage Across Patna &amp; Adityapur</h2>

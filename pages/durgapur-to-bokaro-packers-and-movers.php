@@ -653,7 +653,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/durgapur-to-bokaro-packer
             </div>
             <div>
                 <div class="d2bko-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck navigating Durgapur to Bokaro highway corridor" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck navigating Durgapur to Bokaro highway corridor" loading="lazy">
                     <div class="d2bko-image-caption">GPS-monitored sealed container vehicles on the Durgapur-Asansol-Bokaro industrial corridor.</div>
                 </div>
             </div>
@@ -755,7 +755,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/durgapur-to-bokaro-packer
         <div class="d2bko-grid-2">
             <div>
                 <div class="d2bko-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packaging for Durgapur to Bokaro shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packaging for Durgapur to Bokaro shifting" loading="lazy">
                     <div class="d2bko-image-caption">High-density EPE foam, virgin bubble wrap, and 7-ply corrugated cartons protecting delicate items.</div>
                 </div>
             </div>
@@ -805,7 +805,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/durgapur-to-bokaro-packer
             </div>
             <div>
                 <div class="d2bko-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading in Durgapur for delivery to Bokaro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed hydraulic car carrier loading in Durgapur for delivery to Bokaro" loading="lazy">
                     <div class="d2bko-image-caption">Specialized hydraulic car trailers protecting personal vehicles during transit to Bokaro Steel City.</div>
                 </div>
             </div>
@@ -878,7 +878,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/durgapur-to-bokaro-packer
             </div>
             <div>
                 <div class="d2bko-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly services in Bokaro Steel City" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly services in Bokaro Steel City" loading="lazy">
                     <div class="d2bko-image-caption">Professional doorstep unpacking, furniture reassembly, and debris clearance in Bokaro residences.</div>
                 </div>
             </div>

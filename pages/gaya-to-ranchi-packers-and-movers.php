@@ -900,7 +900,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2gay-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Sealed Container Truck for Gaya to Ranchi Interstate Relocation" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Sealed Container Truck for Gaya to Ranchi Interstate Relocation" loading="lazy">
         </div>
       </div>
     </div>
@@ -1024,7 +1024,7 @@ require_once __DIR__ . '/includes/header.php';
     <div class="r2gay-container">
       <div class="r2gay-grid-2">
         <div class="r2gay-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-Duty Padded Protective Covers for Appliances Gaya to Ranchi Relocation" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-Duty Padded Protective Covers for Appliances Gaya to Ranchi Relocation" loading="lazy">
         </div>
         <div class="r2gay-content-box">
           <div class="r2gay-sec-badge">Official Claims Ready</div>
@@ -1132,7 +1132,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2gay-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Multi-Layer Wrapping for Gaya to Ranchi Shifting" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Multi-Layer Wrapping for Gaya to Ranchi Shifting" loading="lazy">
         </div>
       </div>
     </div>
@@ -1307,7 +1307,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2gay-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Express Door-to-Door Delivery Truck Arriving in Ranchi" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Express Door-to-Door Delivery Truck Arriving in Ranchi" loading="lazy">
         </div>
       </div>
     </div>

@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-wakad-p
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-wakad-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-wakad-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -156,7 +156,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-wakad-p
                 "name": "How can I obtain a customized relocation quotation for Wakad shifting?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "You can contact our customer support team at +91 93344 04050 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing."
+                    "text": "You can contact our customer support team at +91 9835565233 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing."
                 }
             }
         ]
@@ -396,7 +396,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-wakad-p
         <h1>Packers and Movers in Wakad Pune</h1>
         <p>Premium apartment shifting, corporate employee relocations, and professional packing services across Datta Mandir Road, Kaspate Vasti, Bhumkar Chowk, and the Hinjewadi-Wakad Tech Belt.</p>
         <div class="wkd-btn-wrap">
-            <a href="tel:+919334404050" class="wkd-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="wkd-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="wkd-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -417,7 +417,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-wakad-p
         <p>Our long-standing experience in Western Pune allows us to navigate local society regulations seamlessly. We understand the specific move-in and move-out requirements enforced by premier residential societies in Wakad, including service elevator reservations, designated unloading times, vehicle entry clearance, and common area floor protection protocols.</p>
 
         <div class="wkd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Wakad Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Wakad Pune">
             <p class="wkd-image-caption">Dedicated moving crews loading protective cartons and furniture into containerized trucks in Wakad.</p>
         </div>
 
@@ -459,7 +459,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-wakad-p
         </div>
 
         <div class="wkd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi layer packing materials in Wakad">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi layer packing materials in Wakad">
             <p class="wkd-image-caption">Premium five-ply corrugated cartons and multi-layer bubble wrap protecting household valuables.</p>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-wakad-p
         </div>
 
         <div class="wkd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Wakad">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Wakad">
             <p class="wkd-image-caption">Expert carpenter dismantling hydraulic double bed frames for safe apartment relocation in Wakad.</p>
         </div>
 
@@ -609,7 +609,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-wakad-p
         </div>
 
         <div class="wkd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Wakad">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Wakad">
             <p class="wkd-image-caption">Modern covered container truck delivering safe, door-to-door household relocations across Wakad.</p>
         </div>
 
@@ -678,7 +678,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-wakad-p
 
         <div class="wkd-faq-item">
             <h3>How can I obtain a customized relocation quotation for Wakad shifting?</h3>
-            <p>You can contact our customer support team at +91 93344 04050 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing.</p>
+            <p>You can contact our customer support team at +91 9835565233 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing.</p>
         </div>
     </section>
 

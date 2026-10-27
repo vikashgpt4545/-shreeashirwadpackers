@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-vellore";
         "name": "Shree Ashirwad Packers and Movers Vellore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-vellore";
         <p>Relocating in Vellore demands an adaptable, highly sensitive logistics partner. Moving medical specialists and university professors across serene residential avenues in Gandhi Nagar, Sathuvachari, Bagayam, and Katpadi requires pristine packing protocols, silent handling, and respectful crew demeanors. Conversely, navigating busy commercial arteries near the Old Bus Stand, Long Bazaar, and Katpadi Junction demands sharp local navigation and agile container vehicles. Shree Ashirwad Packers and Movers brings more than 13 years of Vellore expertise, executing flawless relocations for families, medical professionals, faculty members, and industrial commercial enterprises.</p>
 
         <div class="vlr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Vellore Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Vellore Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="vlr-image-caption">Professional household loading and apartment shifting operations in Vellore.</div>
         </div>
 
@@ -583,7 +583,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-vellore";
         </div>
 
         <div class="vlr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Institutional equipment and academic office packing in Vellore Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Institutional equipment and academic office packing in Vellore Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="vlr-image-caption">Institutional office equipment and medical research apparatus relocation by Shree Ashirwad in Vellore.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-vellore";
         <p>Our expert packers implement a robust four-layer defensive wrapping strategy. Polished wooden furniture is first enveloped in breathable soft cotton padding, wrapped in thick high-density air bubble film, reinforced with corrugated corner edge protectors, and encased in weather-resistant stretch wrap. This multilayer shield protects against friction, humidity fluctuations, and expressway vibrations.</p>
 
         <div class="vlr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Vellore Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Vellore Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="vlr-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Vellore.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-vellore";
         </ol>
 
         <div class="vlr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Vellore Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Vellore Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="vlr-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Vellore corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-vellore";
     <div class="vlr-cta-box">
         <h3>Move Safely in Vellore with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero hidden fees. Licensed, fully insured relocation professionals ready to assist your household or institution today.</p>
-        <a href="tel:+919334404050" class="vlr-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="vlr-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

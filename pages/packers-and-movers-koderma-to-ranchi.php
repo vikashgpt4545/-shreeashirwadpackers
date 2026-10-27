@@ -173,7 +173,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -976,7 +976,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
 
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Packers and Movers Koderma to Ranchi Intercity Truck Loading" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Packers and Movers Koderma to Ranchi Intercity Truck Loading" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">GPS-Monitored Highway Transit</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Continuous tracking from Koderma toll gates to Ranchi Ring Road</div>
@@ -1070,7 +1070,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
         <div class="split-grid">
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Protective Packing" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Protective Packing" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Multi-Tier Anti-Shock Cushioning</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Zero damage guarantee for fine bone china, electronics & glass</div>
@@ -1204,7 +1204,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
 
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two Wheeler and Bike Protective Packing Koderma to Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two Wheeler and Bike Protective Packing Koderma to Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Safe Automobile &amp; Bike Transport</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Covered carriers, scratch-resistant wrap, and door-to-door delivery</div>
@@ -1332,7 +1332,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
 
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Complete Room-by-Room Setup</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Furniture reassembled, appliances positioned, packing scrap cleared</div>

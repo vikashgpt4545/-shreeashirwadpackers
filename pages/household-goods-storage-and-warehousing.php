@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Our secure warehousing solutions are engineered specifically for life's in-between phases. Whether you need storage for 2 weeks or 24 months, our facilities offer cost-effective space scaling where you pay only for the volume your goods occupy, with zero lock-in contracts and complete doorstep pickup and redelivery coordination.</p>
 
         <div class="hgsw-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure palletized warehouse floor and commercial storage racks for household furniture" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure palletized warehouse floor and commercial storage racks for household furniture" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 2: Real Life Scenarios -->
@@ -555,7 +555,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hgsw-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading for transport to secure warehouse storage facility" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading for transport to secure warehouse storage facility" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Stage Moving Protocol -->
@@ -591,7 +591,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hgsw-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Heavy corrugated sheets and long-term preservation wrapping for stored household items" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Heavy corrugated sheets and long-term preservation wrapping for stored household items" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -706,7 +706,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="hgsw-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks for all-weather warehouse collection and delivery logistics" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container trucks for all-weather warehouse collection and delivery logistics" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 6: Packing and Warehouse Standards -->

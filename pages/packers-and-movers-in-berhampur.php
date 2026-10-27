@@ -366,7 +366,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -528,7 +528,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bmp-body-p">Whether you are relocating family households in prime residential enclaves like Gandhi Nagar, shifting legal chambers near Courtpeta, moving faculty members to quarters around MKCG Medical College, or transporting commercial freight from Bada Bazar to the Gopalpur Port industrial corridor, Shree Ashirwad Packers and Movers guarantees punctual, damage-free execution.</p>
 
                 <div class="bmp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Berhampur Odisha">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Berhampur Odisha">
                     <div class="bmp-image-caption">Professional loading crew organizing furniture and boxed belongings in Berhampur (Brahmapur)</div>
                 </div>
 
@@ -572,7 +572,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bmp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Berhampur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap Packing in Berhampur">
                     <div class="bmp-image-caption">Multi-layer bubble wrapping and edge guards safeguarding sensitive electronics and furniture</div>
                 </div>
 
@@ -687,7 +687,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bmp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Berhampur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling in Berhampur">
                     <div class="bmp-image-caption">Systematic dismantling and padded wrapping of wooden furniture by trained carpenters</div>
                 </div>
 
@@ -704,7 +704,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bmp-body-p">Our regular container linehaul fleet operates round-the-clock runs connecting Berhampur to capital authority hubs in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar" style="color: #1e3a8a; font-weight: 600;">Bhubaneswar</a> (~170 km), the judicial center of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack" style="color: #1e3a8a; font-weight: 600;">Cuttack</a>, the Western industrial belt of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #1e3a8a; font-weight: 600;">Rourkela</a>, and our central headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600;">Ranchi</a>.</p>
 
                 <div class="bmp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Berhampur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Berhampur">
                     <div class="bmp-image-caption">Weatherproof sealed container vehicle operating interstate highway routes across South Odisha</div>
                 </div>
 
@@ -770,7 +770,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Courtpeta Main Road, Near Gandhi Nagar Square, Berhampur</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bmp-cta-button">Request Free Moving Quote</a>

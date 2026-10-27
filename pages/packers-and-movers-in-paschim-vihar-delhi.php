@@ -297,7 +297,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers Paschim Vihar Delhi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
-        "telephone": "+91 9708323605",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-paschim-vihar-delhi",
         "priceRange": "₹3,500 - ₹52,000",
@@ -502,7 +502,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="psv-hero-cta">
-            <a href="tel:+919708323605" class="psv-btn-primary">Call Relocation Desk: +91 9708323605</a>
+            <a href="tel:+919835565233" class="psv-btn-primary">Call Relocation Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="psv-btn-secondary">Check Live Tariff Calculator</a>
         </div>
     </section>
@@ -517,7 +517,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Relocating in Paschim Vihar involves distinct logistical nuances: managing security gate protocols in private enclaves, hoisting heavy furniture into upper builder floors without lifts, timing dispatches to avoid traffic bottlenecks around Peera Garhi Chowk, and executing seamless moves without disturbing tranquil residential surroundings. Shree Ashirwad Packers and Movers brings more than 16 years of hands-on moving mastery to Paschim Vihar.</p>
 
         <div class="psv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into container truck in Paschim Vihar Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded into container truck in Paschim Vihar Delhi">
             <div class="psv-image-caption">Systematic truck loading operations supervised by certified relocation executives in Paschim Vihar.</div>
         </div>
 
@@ -568,7 +568,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Relocating from multi-level builder floors or walk-up apartments places considerable stress on furniture joints and polished finishes. To counteract friction, moisture, and impact shocks, Shree Ashirwad Packers and Movers implements a standardized 4-layer packaging sequence on all household moves originating in Paschim Vihar.</p>
 
         <div class="psv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-tier bubble wrapping and heavy-duty carton packing in Paschim Vihar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-tier bubble wrapping and heavy-duty carton packing in Paschim Vihar">
             <div class="psv-image-caption">High-density bubble wrap and export-grade corrugated boxes protect delicate belongings during transit.</div>
         </div>
 
@@ -659,7 +659,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="psv-section-subtitle">Skilled technicians ensure flawless dismantling, safe transit, and accurate reassembly of modular interiors.</p>
 
         <div class="psv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed reassembly in Paschim Vihar Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and bed reassembly in Paschim Vihar Delhi">
             <div class="psv-image-caption">Skilled carpenters dismantling and cataloging hardware components before protective wrapping.</div>
         </div>
 
@@ -685,7 +685,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="psv-section-subtitle">From initial survey to final placement, our four-stage moving cycle delivers unmatched peace of mind.</p>
 
         <div class="psv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Paschim Vihar Delhi">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Paschim Vihar Delhi">
             <div class="psv-image-caption">Punctual, GPS-monitored enclosed delivery vehicles stationed across West Delhi.</div>
         </div>
 

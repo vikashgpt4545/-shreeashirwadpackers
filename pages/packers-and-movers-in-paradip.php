@@ -395,7 +395,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-paradip#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-paradip",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -542,7 +542,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="pdp-body-p">Shree Ashirwad Packers and Movers brings dedicated infrastructure and specialized coastal moving teams to Paradip. Operating seamlessly via the Cuttack-Paradip National Highway 53 corridor and the State Highway network, we connect Paradip directly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack">Cuttack</a> (85 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (115 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhadrak">Bhadrak</a> (140 km), and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="pdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Paradip" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Paradip" width="580" height="380" loading="lazy">
                     <div class="pdp-image-caption">Dedicated closed-body container fleet prepared for marine-grade household transit in Paradip.</div>
                 </div>
 
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="pdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Paradip" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Paradip" width="580" height="380" loading="lazy">
                     <div class="pdp-image-caption">Standardized 4-layer packaging incorporating air bubble sheeting, foam wrap, and edge guards.</div>
                 </div>
 
@@ -674,7 +674,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="pdp-lead-p">Every move in Paradip follows our established 5-stage moving protocol designed to deliver maximum peace of mind and complete protection for your family belongings:</p>
 
                 <div class="pdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Paradip" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Paradip" width="580" height="380" loading="lazy">
                     <div class="pdp-image-caption">Professional dismantling and reassembly of king-size beds, modular wardrobes, and office fixtures.</div>
                 </div>
 
@@ -734,7 +734,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </ul>
 
                 <div class="pdp-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Paradip" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Paradip" width="580" height="380" loading="lazy">
                     <div class="pdp-image-caption">Dedicated door-to-door delivery vehicles serving Paradip industrial townships and coastal neighborhoods.</div>
                 </div>
 
@@ -806,7 +806,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <li>All-India Transit Coverage</li>
                     <li>24/7 Dedicated Move Coordinator</li>
                 </ul>
-                <a href="tel:+919334460424" class="pdp-cta-button">📞 Call: +91 93344 60424</a>
+                <a href="tel:+919835565233" class="pdp-cta-button">📞 Call: +91 9835565233</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pdp-cta-button" style="margin-top: 10px; background: linear-gradient(135deg, #c2410c 0%, #ea580c 100%);">📊 Calculate Charges Online</a>
             </div>
 
@@ -826,7 +826,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="pdp-body-p"><strong>Shree Ashirwad Packers and Movers</strong><br>
                 Corporate HQ: Ashok Nagar, Near Birsa Munda Airport Road, Ranchi, Jharkhand.<br>
                 Regional Paradip Hub: Port Expressway, Madhuban Chowk, Paradip, Odisha - 754142.<br>
-                Helpline: +91 93344 60424<br>
+                Helpline: +91 9835565233<br>
                 Email: info@shreeashirwadpackers.com</p>
                 <a href="<?php echo SITE_BASE_URL; ?>/" class="pdp-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>

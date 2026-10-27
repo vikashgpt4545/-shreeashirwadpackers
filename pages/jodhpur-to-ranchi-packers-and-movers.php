@@ -760,7 +760,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Unlike third-party broker networks that shuffle your consignment between multiple transit hubs, Shree Ashirwad Packers and Movers operates a <strong>strict zero-transshipment policy</strong>. Your household goods are loaded into a sealed, weatherproof container in Jodhpur and opened only at your new doorstep in Ranchi.</p>
             </div>
             <div class="jdr-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Jodhpur to Ranchi Packers and Movers container truck transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Jodhpur to Ranchi Packers and Movers container truck transit" loading="lazy">
             </div>
         </div>
     </section>
@@ -853,7 +853,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="jdr-section jdr-section-light">
         <div class="jdr-grid-2">
             <div class="jdr-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for Jodhpur to Ranchi moving" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for Jodhpur to Ranchi moving" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--jdr-blue); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Superior Packaging Engineering</span>
@@ -963,7 +963,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>With comprehensive all-risk vehicle transit insurance and real-time highway GPS tracking, you receive regular location alerts until your automobile is delivered directly to your residential doorstep anywhere in Ranchi.</p>
             </div>
             <div class="jdr-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Jodhpur to Ranchi" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Jodhpur to Ranchi" loading="lazy">
             </div>
         </div>
     </section>
@@ -1012,7 +1012,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="jdr-section jdr-section-light">
         <div class="jdr-grid-2">
             <div class="jdr-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Ranchi Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Ranchi Shree Ashirwad Packers" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--jdr-blue); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Why Clients Trust Us</span>

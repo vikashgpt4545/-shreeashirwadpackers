@@ -37,7 +37,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Green Field Colony Faridabad",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -472,7 +472,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="gfc-hero-title">Packers and Movers in Green Field Colony Faridabad</h1>
         <p class="gfc-hero-subtitle">Specialized household shifting, builder floor relocations, antique furniture carpentry, and rapid South Delhi border logistics across Green Field Blocks A, B, C, and D.</p>
         <div class="gfc-cta-group">
-            <a href="tel:+919334404050" class="gfc-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gfc-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gfc-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="gfc-intro-p">Divided systematically into Blocks A, B, C, and D, Green Field Colony offers peaceful suburban living just minutes away from South Delhi's Badarpur border, Sarita Vihar, and the bustling Mohan Cooperative Industrial Area. Characterized by wide internal avenues, independent multi-storey builder floors, private duplex kothis, and prominent gated entry checkpoints, shifting here requires local expertise in colony gate permissions, builder floor stair navigation, and cross-border transport regulations.</p>
 
         <div class="gfc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Green Field Colony container truck" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Green Field Colony container truck" width="580" height="386" loading="lazy">
             <p class="gfc-image-caption">Systematic loading and protective padding of residential goods in Green Field Colony Faridabad.</p>
         </div>
 
@@ -525,7 +525,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gfc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Green Field Colony" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Five-layer protective bubble wrapping in Green Field Colony" width="580" height="386" loading="lazy">
             <p class="gfc-image-caption">High-density bubble wrapping and foam cushioning for fragile electronics and chinaware.</p>
         </div>
     </section>
@@ -663,7 +663,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gfc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Green Field Colony" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry handling in Green Field Colony" width="580" height="386" loading="lazy">
             <p class="gfc-image-caption">Precision furniture disassembly and wrapped timber protection for Green Field homes.</p>
         </div>
 
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="gfc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Green Field Colony" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Shree Ashirwad door-to-door container delivery truck in Green Field Colony" width="580" height="386" loading="lazy">
             <p class="gfc-image-caption">Dedicated closed-body container fleet ensuring dust-free and weather-protected delivery.</p>
         </div>
     </section>

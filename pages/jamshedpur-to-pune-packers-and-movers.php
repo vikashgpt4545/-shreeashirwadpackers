@@ -879,19 +879,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-pune-packer
 
             <div class="jsr2pun-gallery-grid">
                 <div class="jsr2pun-gallery-item">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Truck for Safe Highway Transit between Jamshedpur and Pune" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Truck for Safe Highway Transit between Jamshedpur and Pune" loading="lazy">
                     <div class="jsr2pun-gallery-caption">All-Weather Closed Container Fleet</div>
                 </div>
                 <div class="jsr2pun-gallery-item">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-Layer Household Packing for Furniture and Electronics" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-Layer Household Packing for Furniture and Electronics" loading="lazy">
                     <div class="jsr2pun-gallery-caption">5-Layer Protective Furniture Packing</div>
                 </div>
                 <div class="jsr2pun-gallery-item">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated Vehicle Carrier for Car and Bike Moving" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated Vehicle Carrier for Car and Bike Moving" loading="lazy">
                     <div class="jsr2pun-gallery-caption">Hydraulic Vehicle Carrier Transit</div>
                 </div>
                 <div class="jsr2pun-gallery-item">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unloading and Furniture Setup in Pune" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unloading and Furniture Setup in Pune" loading="lazy">
                     <div class="jsr2pun-gallery-caption">Room-by-Room Setup in Pune</div>
                 </div>
             </div>

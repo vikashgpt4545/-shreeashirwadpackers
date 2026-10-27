@@ -295,7 +295,7 @@ require_once __DIR__ . '/includes/seo.php';
 
       <!-- Hero Visual Section -->
       <figure style="margin: 0 auto 35px; max-width: 550px; text-align: center;">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Bokaro to Ranchi intercity shifting truck loading" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Bokaro to Ranchi intercity shifting truck loading" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
         <figcaption style="font-size: 0.88rem; color: #64748b; margin-top: 8px; text-align: center;">
           Loading an intercity container truck in Bokaro for express transit to Ranchi along the NH-320 Peterwar-Gola-Ormanjhi route.
         </figcaption>
@@ -421,11 +421,11 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Supporting Visual Section -->
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; margin: 35px 0;">
           <div>
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck between Bokaro and Ranchi" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck between Bokaro and Ranchi" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
             <p style="font-size: 0.9rem; color: #64748b; margin-top: 8px; text-align: center;">Weatherproof container truck for express door-to-door deliveries along the Bokaro-Ranchi corridor.</p>
           </div>
           <div>
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Ranchi" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Ranchi" style="width: 100%; height: 260px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
             <p style="font-size: 0.9rem; color: #64748b; margin-top: 8px; text-align: center;">Doorstep unpacking, bedroom furniture reassembly, and setup service at your Ranchi home.</p>
           </div>
         </div>

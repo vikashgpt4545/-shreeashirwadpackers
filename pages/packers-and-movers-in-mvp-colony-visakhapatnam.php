@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers MVP Colony",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-mvp-colony-visakhapatnam",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>The neighborhood is renowned for housing distinguished families, high-ranking active and retired Eastern Naval Command officers, senior civil servants, Andhra University professors, and leading medical practitioners. Adjacent sectors like Shivaji Palem, Isukathota, AS Raja Grounds, and Tenneti Park coastal avenues comprise sprawling independent bungalows, duplex villas, and premium multistory gated apartments requiring utmost moving discretion and white-glove packing standards.</p>
 
     <div class="mvp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in MVP Colony Visakhapatnam" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in MVP Colony Visakhapatnam" loading="lazy">
       <p class="mvp-image-caption">Disciplined residential quarter shifting and systematic loading operations in MVP Colony.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="mvp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in MVP Colony" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in MVP Colony" loading="lazy">
       <p class="mvp-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in MVP Colony.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="mvp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in MVP Colony" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in MVP Colony" loading="lazy">
       <p class="mvp-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -633,7 +633,7 @@
     <p>Our experienced drivers schedule loading windows in congested commercial areas during early morning hours (6:30 AM to 8:30 AM) to circumvent morning school traffic near Samata College and AS Raja Grounds. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="mvp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in MVP Colony" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in MVP Colony" loading="lazy">
       <p class="mvp-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -723,7 +723,7 @@
   <section class="mvp-cta-banner">
     <h3>Plan Your Stress-Free Move in MVP Colony Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="mvp-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="mvp-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

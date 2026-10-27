@@ -952,7 +952,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2b-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Bilaspur Packers and Movers Weatherproof Container Truck Fleet" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Bilaspur Packers and Movers Weatherproof Container Truck Fleet" width="600" height="400" loading="lazy">
         <div class="r2b-image-caption">
           <span class="r2b-image-tag">Direct Highway Fleet</span>
           <p class="r2b-image-text">Heavy-duty sealed container trucks engineered for smooth transit across the 450-km NH-43 / NH-130 highway corridor from Ranchi to Bilaspur.</p>
@@ -1102,7 +1102,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="r2b-grid-2col reverse">
       <div class="r2b-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Ranchi to Bilaspur Multi-Layer Protective Furniture Wrapping" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Ranchi to Bilaspur Multi-Layer Protective Furniture Wrapping" width="600" height="400" loading="lazy">
         <div class="r2b-image-caption">
           <span class="r2b-image-tag">Engineering-Grade Protection</span>
           <p class="r2b-image-text">Multi-tier corrugated wrapping and corner armor applied to wooden wardrobes and solid-teak dining furniture before container loading.</p>
@@ -1167,7 +1167,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2b-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Ranchi to Bilaspur Padded Electronic Appliance Protective Covers" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Ranchi to Bilaspur Padded Electronic Appliance Protective Covers" width="600" height="400" loading="lazy">
         <div class="r2b-image-caption">
           <span class="r2b-image-tag">Appliance Safety Standards</span>
           <p class="r2b-image-text">Custom thermal-padded jackets and rigid protective covers shielding washing machines and refrigerators from transit abrasions.</p>
@@ -1287,7 +1287,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2b-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Bilaspur Dedicated Door-to-Door Delivery Vehicle" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Ranchi to Bilaspur Dedicated Door-to-Door Delivery Vehicle" width="600" height="400" loading="lazy">
         <div class="r2b-image-caption">
           <span class="r2b-image-tag">Direct Doorstep Placement</span>
           <p class="r2b-image-text">Dedicated container arriving at Bilaspur residential complexes with certified local crews ready for immediate unloading and furniture setup.</p>

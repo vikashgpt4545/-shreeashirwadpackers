@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Purnia",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-purnia-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 13,000 - 58,000",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Harmu Road & Morabadi Logistics Complex",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -529,7 +529,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 1 -->
     <div class="r2pn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Purnia Covered Moving Container Truck" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Purnia Covered Moving Container Truck" loading="lazy">
       <div class="r2pn-caption">Enclosed, GPS-tracked container trucks providing all-weather protection across the 440 km highway to Purnia.</div>
     </div>
   </section>
@@ -606,7 +606,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 2 -->
     <div class="r2pn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Foam and Corrugated Wrapping" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Foam and Corrugated Wrapping" loading="lazy">
       <div class="r2pn-caption">Heavy-duty corrugated cushioning and dense foam corner wraps safeguarding luxury wooden furniture and beds.</div>
     </div>
   </section>
@@ -719,7 +719,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 3 -->
     <div class="r2pn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Transport Packing" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Transport Packing" loading="lazy">
       <div class="r2pn-caption">High-grade motorcycle packing with protective fuel tank covers, mirror cushioning, and wheel lock chocks.</div>
     </div>
   </section>
@@ -751,7 +751,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 4 -->
     <div class="r2pn-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Loading Cargo" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Loading Cargo" loading="lazy">
       <div class="r2pn-caption">Uniformed, background-verified crew members utilizing ergonomic loading ramps and padded hand trucks.</div>
     </div>
   </section>
@@ -846,7 +846,7 @@ include_once __DIR__ . '/../includes/config.php';
     </p>
     <a href="<?php echo SITE_BASE_URL; ?>/contact" class="r2pn-cta-btn" style="background:#fef08a; color:#0f172a;">Get Instant Moving Quote</a>
     <div class="r2pn-call-box">
-      Call Direct: <a href="tel:+919334404052">+91 93344 04052</a> | 24/7 Dedicated Support
+      Call Direct: <a href="tel:+919835565233">+91 9835565233</a> | 24/7 Dedicated Support
     </div>
   </section>
 

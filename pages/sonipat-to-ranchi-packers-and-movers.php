@@ -69,7 +69,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Harmu Road, Near Overbridge",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -580,7 +580,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 1 -->
         <div class="sn2r-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading for Sonipat to Ranchi Relocation" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading for Sonipat to Ranchi Relocation" loading="lazy">
             <div class="sn2r-img-caption">Expert packing crew handling systematic furniture loading for safe interstate transit.</div>
         </div>
 
@@ -695,7 +695,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 2 -->
         <div class="sn2r-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing Sonipat to Ranchi" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing Sonipat to Ranchi" loading="lazy">
             <div class="sn2r-img-caption">Professional furniture dismantling, hardware labeling, and padding by our experienced moving crew.</div>
         </div>
 
@@ -751,7 +751,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 3 -->
         <div class="sn2r-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="LED TV Crating for Safe Transportation Sonipat to Ranchi" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="LED TV Crating for Safe Transportation Sonipat to Ranchi" loading="lazy">
             <div class="sn2r-img-caption">Reinforced wooden crating for large smart TVs and fragile electronics ensuring complete shock insulation.</div>
         </div>
     </section>
@@ -815,7 +815,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 4 -->
         <div class="sn2r-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Ranchi" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Ranchi" loading="lazy">
             <div class="sn2r-img-caption">Door-to-door delivery truck arriving at destination residence in Ranchi with clean unpacked goods.</div>
         </div>
     </section>

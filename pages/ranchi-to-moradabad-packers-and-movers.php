@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Moradabad",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-moradabad-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 19,000 - 80,000",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Harmu Road & Morabadi Logistics Complex",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -479,7 +479,7 @@ include_once __DIR__ . '/../includes/config.php';
     </p>
 
     <div class="r2mb-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Moradabad Covered Moving Container Truck" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Moradabad Covered Moving Container Truck" loading="lazy">
       <div class="r2mb-caption">Covered, GPS-monitored container trucks ensuring zero dust and weather damage on the 960 km transit to Moradabad.</div>
     </div>
   </section>
@@ -534,7 +534,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
 
     <div class="r2mb-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Foam and Corrugated Packaging for Wooden Furniture" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Foam and Corrugated Packaging for Wooden Furniture" loading="lazy">
       <div class="r2mb-caption">Multi-layer protective padding preserving wooden finishes during the 960 km highway haul to Moradabad.</div>
     </div>
   </section>
@@ -633,7 +633,7 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
 
     <div class="r2mb-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Highway Journey to Moradabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Highway Journey to Moradabad" loading="lazy">
       <div class="r2mb-caption">Systematic loading and weight-balancing inside container trucks preventing transit movement on the route to Moradabad.</div>
     </div>
   </section>
@@ -673,7 +673,7 @@ include_once __DIR__ . '/../includes/config.php';
     </ol>
 
     <div class="r2mb-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Handling Cargo Unloading and Assembly" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Handling Cargo Unloading and Assembly" loading="lazy">
       <div class="r2mb-caption">Experienced loading crews ensuring safe handling and zero scratch delivery inside your new Moradabad residence.</div>
     </div>
   </section>
@@ -715,7 +715,7 @@ include_once __DIR__ . '/../includes/config.php';
   <section class="r2mb-cta-banner">
     <h3>Planning a Smooth Move from Ranchi to Moradabad?</h3>
     <p>Contact Shree Ashirwad Packers and Movers today for an instant free quotation and personalized moving plan. Our interstate specialists are ready to assist you!</p>
-    <a href="tel:+919334404052" class="r2mb-btn">Call +91 93344 04052 for Free Quote</a>
+    <a href="tel:+919835565233" class="r2mb-btn">Call +91 9835565233 for Free Quote</a>
   </section>
 
   <section>

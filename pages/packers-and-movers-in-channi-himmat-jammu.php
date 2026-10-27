@@ -337,7 +337,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-channi-himmat-jammu';
         <p>Shree Ashirwad Packers and Movers brings comprehensive packing, loading, and logistics capabilities directly to Channi Himmat. As an integral component of our regional presence under <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jammu">Packers and Movers in Jammu</a> and our corporate headquarters at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, we combine specialized multi-layer packaging, heavy furniture rigging gear, and modern containerized highway carriers to ensure effortless relocations across town and throughout India.</p>
 
         <div class="chj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging in Channi Himmat Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging in Channi Himmat Jammu">
             <div class="chj-caption">High-density bubble wrapping and edge guard reinforcement for luxury residential furniture in Channi Himmat</div>
         </div>
 
@@ -358,7 +358,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-channi-himmat-jammu';
         </ul>
 
         <div class="chj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Home office and electronics packing in Channi Himmat Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Home office and electronics packing in Channi Himmat Jammu">
             <div class="chj-caption">Dedicated anti-static packaging for executive home offices, gaming consoles, and sensitive electronics</div>
         </div>
     </section>
@@ -400,7 +400,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-channi-himmat-jammu';
         </ul>
 
         <div class="chj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container truck in Channi Himmat Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container truck in Channi Himmat Jammu">
             <div class="chj-caption">High-capacity weather-sealed container vehicles operating directly from the Jammu Bypass corridor</div>
         </div>
     </section>
@@ -528,7 +528,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-channi-himmat-jammu';
         </div>
 
         <div class="chj-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Channi Himmat Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Channi Himmat Jammu">
             <div class="chj-caption">Systematic room-wise unpacking, furniture reassembly, and debris removal in Channi Himmat</div>
         </div>
     </section>
@@ -623,7 +623,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-channi-himmat-jammu';
     "name": "Shree Ashirwad Packers and Movers Channi Himmat Jammu",
     "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9334812297",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹44,000",
     "address": {
         "@type": "PostalAddress",

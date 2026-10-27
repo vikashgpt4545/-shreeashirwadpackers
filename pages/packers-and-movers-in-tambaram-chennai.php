@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tambaram-chennai";
         "name": "Shree Ashirwad Packers and Movers Tambaram Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -544,7 +544,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tambaram-chennai";
         <p>The locality is broadly demarcated into East Tambaram and West Tambaram, each possessing its own unique urban characteristics. West Tambaram hosts the massive railway terminus, intercity bus stands, and densely packed commercial markets around Shanmugam Road. In contrast, East Tambaram presents serene, tree-lined residential avenues extending through Camp Road, Selaiyur, and Rajakilpakkam. Shree Ashirwad Packers and Movers brings specialized local operational expertise, deploying appropriate vehicle types and timing schedules to match both commercial and tranquil residential settings.</p>
 
         <div class="tbm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods multi-tier packing in Tambaram Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods multi-tier packing in Tambaram Chennai" width="580" height="387" loading="lazy">
             <div class="tbm-image-caption">Systematic multi-layer corrugated and bubble packing for residential home relocation in Tambaram.</div>
         </div>
 
@@ -581,7 +581,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tambaram-chennai";
         </div>
 
         <div class="tbm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Safe two-wheeler motorcycle transit in Tambaram Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Safe two-wheeler motorcycle transit in Tambaram Chennai" width="580" height="387" loading="lazy">
             <div class="tbm-image-caption">Dedicated two-wheeler transit with steel-caged crating and wheel chocks from Tambaram.</div>
         </div>
 
@@ -597,7 +597,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tambaram-chennai";
         <p>We disassemble complex multi-door wooden wardrobes, modular king-sized bed frames, and study units, carefully cataloging and packaging all hardware screws and brackets in labeled pouches. At the destination, our skilled carpenters reassemble every piece of furniture, ensuring that drawers slide smoothly and doors align perfectly.</p>
 
         <div class="tbm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa furniture wrapping in Tambaram Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective sofa furniture wrapping in Tambaram Chennai" width="580" height="387" loading="lazy">
             <div class="tbm-image-caption">Multi-layer stretch wrap and padded cushioning for upholstery and living room suites in Tambaram.</div>
         </div>
 
@@ -723,7 +723,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tambaram-chennai";
         </ol>
 
         <div class="tbm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure container truck on GST Road Tambaram Chennai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure container truck on GST Road Tambaram Chennai" width="580" height="387" loading="lazy">
             <div class="tbm-image-caption">Weatherproof sealed container trucks providing safe transit across the GST Road corridor.</div>
         </div>
     </section>
@@ -780,7 +780,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tambaram-chennai";
     <div class="tbm-cta-box">
         <h3>Book Your Reliable Tambaram Move Today</h3>
         <p>Get an honest, transparent quotation from South Chennai's trusted packing and moving specialists. Fully insured, trained staff ready to move your household or office.</p>
-        <a href="tel:+919334404050" class="tbm-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="tbm-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

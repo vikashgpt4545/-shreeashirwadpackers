@@ -83,7 +83,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -719,7 +719,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 1 -->
     <div class="img-showcase-lohardaga">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Ranchi to Lohardaga Packers and Movers Container Loading" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Ranchi to Lohardaga Packers and Movers Container Loading" width="580" height="290" loading="lazy">
       <div class="caption">Figure 1: Loading sealed container trucks in Ranchi for 2-hour express linehaul transit to Lohardaga via NH-143A.</div>
     </div>
   </section>
@@ -837,7 +837,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 2 -->
     <div class="img-showcase-lohardaga">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling in Ranchi for Lohardaga Relocation" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling in Ranchi for Lohardaga Relocation" width="580" height="290" loading="lazy">
       <div class="caption">Figure 2: Skilled carpenters dismantling and packing wooden bedroom suites in Ranchi prior to transit to Lohardaga.</div>
     </div>
   </section>
@@ -883,7 +883,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 3 -->
     <div class="img-showcase-lohardaga">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Appliances Protective Covering in Ranchi" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household Appliances Protective Covering in Ranchi" width="580" height="290" loading="lazy">
       <div class="caption">Figure 3: Thermal and shock-absorbing protective wrap applied to home appliances before loading for Lohardaga.</div>
     </div>
   </section>
@@ -967,7 +967,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Verified Image Asset 4 -->
     <div class="img-showcase-lohardaga">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Jharkhand for Lohardaga Shifting" width="580" height="290" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Jharkhand for Lohardaga Shifting" width="580" height="290" loading="lazy">
       <div class="caption">Figure 4: Door-to-door container delivery vehicle arriving at residential quarters in Lohardaga for same-day unloading.</div>
     </div>
   </section>

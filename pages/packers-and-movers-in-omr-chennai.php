@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-omr-chennai";
         "name": "Shree Ashirwad Packers and Movers OMR Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -516,7 +516,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-omr-chennai";
         <h1>Packers and Movers in OMR Chennai | IT Expressway Relocation</h1>
         <p>Premium apartment shifting, corporate IT office moves, high-rise gated society moving, and vehicle shipping across Rajiv Gandhi Salai, Perungudi, Thoraipakkam, and Siruseri.</p>
         <div class="omr-btn-wrap">
-            <a href="tel:+919334404050" class="omr-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="omr-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="omr-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -529,7 +529,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-omr-chennai";
         <p class="omr-intro-p">Relocating in the OMR corridor presents distinct operational conditions. The majority of residences are situated in sprawling multi-tower gated townships that enforce strict Resident Welfare Association (RWA) bylaws, designated moving hours, freight elevator bookings, and subterranean stilt parking height restrictions. At <strong>Shree Ashirwad Packers and Movers</strong>, working in seamless alignment with our parent city hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Packers and Movers in Chennai</a>, we offer customized moving strategies engineered specifically for OMR's tech professionals.</p>
 
         <div class="omr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in OMR Chennai Household Packing" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in OMR Chennai Household Packing" width="580" height="380" loading="lazy">
             <p class="omr-image-caption">Careful multi-layer household wrapping and fragile carton packaging by Shree Ashirwad along OMR Chennai</p>
         </div>
 
@@ -584,7 +584,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-omr-chennai";
         </div>
 
         <div class="omr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection on OMR Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Protection on OMR Chennai" width="580" height="380" loading="lazy">
             <p class="omr-image-caption">Dedicated high-density edge protection and multi-layer bubble wrap for modern furniture along OMR</p>
         </div>
     </section>
@@ -649,7 +649,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-omr-chennai";
 
         <div class="omr-highlight-box">
             <h3>Get Your Guaranteed Moving Quote Today</h3>
-            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our OMR moving desk directly at <strong>+91 9334404050</strong> for a complimentary pre-move assessment.</p>
+            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our OMR moving desk directly at <strong>+91 9835565233</strong> for a complimentary pre-move assessment.</p>
         </div>
     </section>
 
@@ -704,7 +704,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-omr-chennai";
         </div>
 
         <div class="omr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing on OMR" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing on OMR" width="580" height="380" loading="lazy">
             <p class="omr-image-caption">Individual bubble wrapping and compartmentalized cartons for crystal and fine chinaware on OMR</p>
         </div>
     </section>
@@ -742,7 +742,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-omr-chennai";
         </div>
 
         <div class="omr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving on OMR Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving on OMR Chennai" width="580" height="380" loading="lazy">
             <p class="omr-image-caption">Modern enclosed container trucks ensuring weatherproof and secure transit across Chennai and interstate</p>
         </div>
     </section>

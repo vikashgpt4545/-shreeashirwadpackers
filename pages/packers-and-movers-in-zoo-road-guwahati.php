@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Zoo Road Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-zoo-road-guwahati",
     "priceRange": "₹4,000 - ₹60,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="zrg-container">
       <h1>Packers and Movers in Zoo Road Guwahati</h1>
       <p>Premier apartment relocation, commercial retail shifting, furniture dismantling, and nationwide container transit across Zoo Road and RG Baruah Road.</p>
-      <a href="tel:+919334484001" class="zrg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="zrg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Zoo Road, officially designated as Radha Govinda Baruah Road (RG Baruah Road), functions as one of Guwahati's most vital east-west urban connectors, linking the historic cultural node of Chandmari to the bustling commercial hub of Ganeshguri. Renowned across Assam as the home of the Assam State Zoo cum Botanical Garden, Zoo Road is characterized by high-density modern residential apartment complexes, prominent broadcast media houses, multi-specialty medical clinics, trendy restaurants, and bustling retail shopping markets. Relocating a home or commercial establishment along Zoo Road demands skillful navigation of dense traffic flows, elevator handling in modern towers, specialized furniture dismantling, and robust weather-proof packaging.</p>
 
       <div class="zrg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading apartment goods Zoo Road Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading apartment goods Zoo Road Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="zrg-grid-2">
@@ -488,7 +488,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From modern apartment shifts to commercial retail relocations, our comprehensive suite of services delivers unmatched safety and dependability:</p>
 
       <div class="zrg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Zoo Road" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Zoo Road" width="580" height="360" loading="lazy">
       </div>
 
       <div class="zrg-grid-cards">
@@ -525,7 +525,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers adheres to a disciplined operational workflow designed to guarantee complete safety and timeliness:</p>
 
       <div class="zrg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Zoo Road" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Zoo Road" width="580" height="360" loading="lazy">
       </div>
 
       <div class="zrg-grid-cards">
@@ -558,7 +558,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our localized pickup teams operate across every primary residential quarter, commercial sector, and connecting lane of Zoo Road:</p>
 
       <div class="zrg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Zoo Road" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Zoo Road" width="580" height="360" loading="lazy">
       </div>
 
       <div class="zrg-grid-cards">

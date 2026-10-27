@@ -312,7 +312,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
 
                 <div style="flex: 1 1 380px; max-width: 440px; margin: 0 auto;">
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Airtight Protective Bubble Wrapping in Phusro Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Airtight Protective Bubble Wrapping in Phusro Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: 8px;">
                         Certified 5-Layer Coal-Dust-Proof Packing for Household Electronics in Phusro
@@ -439,7 +439,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
             <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
                 <div style="flex: 1 1 380px; max-width: 440px; margin: 0 auto;">
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Transport in Phusro Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two Wheeler Motorcycle Transport in Phusro Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: 8px;">
                         Reinforced Two-Wheeler Protective Packing for Relocating Mining Executives
@@ -577,7 +577,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
         <!-- Image: Car Carrier Transport -->
         <section style="margin-bottom: 50px;">
             <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicle safely for Phusro Bokaro relocations" style="width: 100%; height: 100%; object-fit: cover;">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicle safely for Phusro Bokaro relocations" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
             <p style="font-size: 14px; color: #6c757d; text-align: center; margin-top: 10px; font-style: italic;">
                 Dedicated enclosed car carrier loading in Phusro for interstate and inter-city vehicle transport.
@@ -678,7 +678,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
 
                 <div style="flex: 1 1 380px; max-width: 440px; margin: 0 auto;">
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Closed Container Moving Truck in Phusro Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Closed Container Moving Truck in Phusro Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: 8px;">
                         Heavy-Duty Sealed Container Truck Protecting Goods Across Bermo-Bokaro Coal Belts

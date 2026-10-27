@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kollam",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kollam",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹56,000",
     "address": {
       "@type": "PostalAddress",
@@ -514,7 +514,7 @@
       </div>
       <div>
         <div class="klm-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and packing in Kollam Kerala" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading and packing in Kollam Kerala" width="580" height="380" loading="lazy">
           <p class="klm-image-caption">Systematic residential apartment packing and covered container loading in Kollam</p>
         </div>
       </div>
@@ -559,7 +559,7 @@
     </div>
 
     <div class="klm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Kollam" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Kollam" width="580" height="380" loading="lazy">
       <p class="klm-image-caption">High-density shock-absorbing bubble cushioning and corner guards for teakwood furniture</p>
     </div>
   </div>
@@ -662,7 +662,7 @@
       </div>
       <div>
         <div class="klm-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial and electronic equipment packing in Kollam" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial and electronic equipment packing in Kollam" width="580" height="380" loading="lazy">
           <p class="klm-image-caption">Reinforced carton packing and moisture wrapping for electronic appliances and documents</p>
         </div>
       </div>
@@ -756,7 +756,7 @@
     </div>
 
     <div class="klm-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-weather covered container truck for Kollam Kerala relocations" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-weather covered container truck for Kollam Kerala relocations" width="580" height="380" loading="lazy">
       <p class="klm-image-caption">All-weather sealed container trucks ensuring zero transit damage across Kerala</p>
     </div>
   </div>

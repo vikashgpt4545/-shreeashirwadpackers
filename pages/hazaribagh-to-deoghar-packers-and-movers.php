@@ -727,7 +727,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-deoghar-pac
                 </div>
             </div>
             <div class="hzb2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Hazaribagh to Deoghar Shifting" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck for Hazaribagh to Deoghar Shifting" width="600" height="400" loading="lazy">
                 <div class="hzb2d-img-caption">Sealed container trucks providing dust-proof, rain-safe, and rapid 5 hr highway transit between Hazaribagh and Deoghar.</div>
             </div>
         </div>
@@ -844,7 +844,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-deoghar-pac
     <section class="hzb2d-section" style="background: #ffffff;">
         <div class="hzb2d-grid-2">
             <div class="hzb2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional Household Packaging for Hazaribagh to Deoghar Relocation" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional Household Packaging for Hazaribagh to Deoghar Relocation" width="600" height="400" loading="lazy">
                 <div class="hzb2d-img-caption">5-layer protective packing for fragile books, academic archives, medical lab devices, and delicate crystal ware.</div>
             </div>
             <div>
@@ -915,7 +915,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-deoghar-pac
                 </div>
             </div>
             <div class="hzb2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Hazaribagh to Deoghar" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Hazaribagh to Deoghar" width="600" height="400" loading="lazy">
                 <div class="hzb2d-img-caption">Hydraulic car loading ramp ensuring safe ground clearance and zero chassis scrapings for sedan and SUV relocation.</div>
             </div>
         </div>
@@ -979,7 +979,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-deoghar-pac
                 </div>
             </div>
             <div class="hzb2d-img-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Deoghar" width="600" height="400" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Deoghar" width="600" height="400" loading="lazy">
                 <div class="hzb2d-img-caption">Professional doorstep unpacking, room placement, bed assembly, and packing waste clearance in Deoghar.</div>
             </div>
         </div>

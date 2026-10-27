@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/moving-checklist-pdf-download
         "name": "Shree Ashirwad Packers and Movers - Moving Advisory Desk",
         "image": "https://shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "Free Resource",
         "address": {
             "@type": "PostalAddress",
@@ -408,7 +408,7 @@ $canonical_url = "https://shreeashirwadpackers.com/moving-checklist-pdf-download
             </div>
             <div>
                 <div class="chk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized moving boxes and checklist in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized moving boxes and checklist in Ranchi" width="580" height="387">
                     <div class="chk-caption">Structured packing and room-wise carton labelling ensures zero chaos</div>
                 </div>
             </div>
@@ -478,7 +478,7 @@ $canonical_url = "https://shreeashirwadpackers.com/moving-checklist-pdf-download
         <div class="chk-grid-2">
             <div>
                 <div class="chk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen glassware and crockery packing in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen glassware and crockery packing in Ranchi" width="580" height="387">
                     <div class="chk-caption">Multi-layer bubble wrap protects delicate kitchen crockery from shocks</div>
                 </div>
             </div>
@@ -586,20 +586,20 @@ $canonical_url = "https://shreeashirwadpackers.com/moving-checklist-pdf-download
 
         <div class="chk-highlight-box">
             <h4>Ready to Book Your Verified Moving Team?</h4>
-            <p>Ensure a hassle-free move with Ranchi’s most trusted relocation specialists. Call <a href="tel:+919334812833"><strong>+91 9334812833</strong></a> for a free survey, calculate exact distance tariffs using our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a>, or track active shipments on our <a href="<?php echo SITE_BASE_URL; ?>/track-consignment">Consignment Tracking Portal</a>.</p>
+            <p>Ensure a hassle-free move with Ranchi’s most trusted relocation specialists. Call <a href="tel:+919835565233"><strong>+91 9835565233</strong></a> for a free survey, calculate exact distance tariffs using our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a>, or track active shipments on our <a href="<?php echo SITE_BASE_URL; ?>/track-consignment">Consignment Tracking Portal</a>.</p>
         </div>
 
         <!-- Section 6: Additional Images and Guidance -->
         <div class="chk-grid-2">
             <div>
                 <div class="chk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Furniture padding and protective covers in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Furniture padding and protective covers in Ranchi" width="580" height="387">
                     <div class="chk-caption">Heavy-duty fabric blankets and stretch wrap protect luxury furniture</div>
                 </div>
             </div>
             <div>
                 <div class="chk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Moving truck unloading at new home in Jharkhand" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Moving truck unloading at new home in Jharkhand" width="580" height="387">
                     <div class="chk-caption">Seamless doorstep delivery and room-wise unpacking service</div>
                 </div>
             </div>

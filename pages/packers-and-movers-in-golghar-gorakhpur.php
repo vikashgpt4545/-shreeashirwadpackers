@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Golghar Gorakhpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -463,7 +463,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Golghar Gorakhpur</h1>
         <p>Premium household shifting, retail store inventory relocations, and medical clinic moves across Golghar, Town Hall, Bank Road, and Betiahata with certified zero damage guarantee.</p>
         <div class="ggg-hero-btn-group">
-            <a href="tel:+919334404050" class="ggg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="ggg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ggg-btn-secondary">Check Tariff Rates</a>
         </div>
     </section>
@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ggg-intro-p">Seamlessly adjacent to Betiahata—Gorakhpur’s renowned healthcare and doctor residential corridor—and connected smoothly to Daudpur, Asuran Chowk, and Park Road, Golghar blends energetic shopping avenues with established residential colonies. Relocating in Golghar requires specialized competence in navigating congested downtown bazaar streets, operating within strict municipal daytime commercial parking hours, and handling high-value home installations, antique furnishings, and delicate retail inventories with absolute care.</p>
 
         <div class="ggg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Golghar Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Golghar Gorakhpur" width="580" height="380" loading="lazy">
             <p class="ggg-image-caption">Our professional loading crew carefully handling packed residential goods in Golghar Gorakhpur.</p>
         </div>
 
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ggg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Golghar Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Golghar Gorakhpur" width="580" height="380" loading="lazy">
             <p class="ggg-image-caption">High-density bubble wrapping and reinforced multi-wall cartons utilized for household goods in Golghar Gorakhpur.</p>
         </div>
 
@@ -666,7 +666,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="ggg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Golghar Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Golghar Gorakhpur" width="580" height="380" loading="lazy">
             <p class="ggg-image-caption">Skilled carpenters carefully dismantling wooden beds and securing modular hardware in Golghar Gorakhpur.</p>
         </div>
     </section>
@@ -679,7 +679,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="ggg-intro-p">Heading southward, our GPS-monitored container trucks connect effortlessly via NH-24 toward Mau and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-varanasi">Varanasi</a> in approximately 4 hours. Eastbound routes flow smoothly toward Gopalganj, Muzaffarpur, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna">Patna</a> in 5.5 to 6 hours.</p>
 
         <div class="ggg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Golghar Gorakhpur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Golghar Gorakhpur" width="580" height="380" loading="lazy">
             <p class="ggg-image-caption">Clean, enclosed container trucks delivering household goods safely to residences in Golghar Gorakhpur.</p>
         </div>
 
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Seamless Golghar Move Today</h3>
         <p>Contact our Golghar relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="ggg-cta-group">
-            <a href="tel:+919334404050" class="ggg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="ggg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ggg-btn-secondary">Request Free Quote</a>
         </div>
     </section>

@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Balasore to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/balasore-to-ranchi-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 12,000 - 55,000",
     "address": {
       "@type": "PostalAddress",
@@ -529,7 +529,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 1 -->
     <div class="bl2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Balasore to Ranchi Moving Container Truck" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Balasore to Ranchi Moving Container Truck" loading="lazy">
       <div class="bl2r-caption">Enclosed container trucks providing all-weather protection on the 350 km highway corridor to Ranchi.</div>
     </div>
   </section>
@@ -606,7 +606,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 2 -->
     <div class="bl2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Heavy Corrugated Wrapping" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Heavy Corrugated Wrapping" loading="lazy">
       <div class="r2bl-caption" style="display:none;"></div>
       <div class="bl2r-caption">Dense corrugated sheets and cushioned wrapping protecting luxury wooden beds, dining sets, and showcases.</div>
     </div>
@@ -720,7 +720,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 3 -->
     <div class="bl2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Motorcycle Packing" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Motorcycle Packing" loading="lazy">
       <div class="bl2r-caption">Specialized two-wheeler packaging with scratch-resistant tank wrapping, mirror cushioning, and wheel lashings.</div>
     </div>
   </section>
@@ -752,7 +752,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 4 -->
     <div class="bl2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Uniformed Loading Crew at Work" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Uniformed Loading Crew at Work" loading="lazy">
       <div class="bl2r-caption">Experienced loading crew utilizing heavy-duty lifting harnesses and rubberized ramps for safe loading.</div>
     </div>
   </section>
@@ -847,7 +847,7 @@ include_once __DIR__ . '/../includes/config.php';
     </p>
     <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bl2r-cta-btn" style="background:#fef08a; color:#0f172a;">Get Instant Moving Quote</a>
     <div class="bl2r-call-box">
-      Call Direct: <a href="tel:+919334404052">+91 93344 04052</a> | 24/7 Dedicated Support
+      Call Direct: <a href="tel:+919835565233">+91 9835565233</a> | 24/7 Dedicated Support
     </div>
   </section>
 

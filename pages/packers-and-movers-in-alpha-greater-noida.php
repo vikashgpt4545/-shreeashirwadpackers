@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="alp-intro-p">The residential landscape of Sector Alpha is uniquely distinguished by its plotted kothis, duplex bungalows, and builder floors across Blocks A, B, C, D, E, and F (with plot sizes ranging from 120 square meters to 500 square meters). Relocating within plotted residential sectors presents logistical characteristics distinct from high-rise towers. Rather than relying on service elevators, movers must safely navigate multi-story interior staircases, wide balconies, heavy teak wood furnishings, rooftop water filter units, and delicate terrace garden plants. Furthermore, the thriving Alpha 1 Commercial Centre houses bustling banks, corporate branch offices, coaching centers, and retail showrooms that require organized, time-sensitive commercial relocation services. Shree Ashirwad Packers and Movers brings over a decade of verified local expertise, dedicated furniture carpenters, and specialized lifting gear to execute seamless moves across Sector Alpha.</p>
 
         <div class="alp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Sector Alpha Greater Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Sector Alpha Greater Noida" width="580" height="360">
             <div class="alp-image-caption">Careful loading and cargo securing inside covered container trucks in Sector Alpha Greater Noida</div>
         </div>
 
@@ -575,7 +575,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="alp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Sector Alpha homes" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Sector Alpha homes" width="580" height="360">
             <div class="alp-image-caption">Multi-layer bubble wrap, foam corner protectors, and 5-ply cartons safeguard glassware and furniture</div>
         </div>
 
@@ -642,7 +642,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="alp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Sector Alpha" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Sector Alpha" width="580" height="360">
             <div class="alp-image-caption">Skilled carpenters disassembling hydraulic double beds and wardrobes for scratch-free transit</div>
         </div>
 
@@ -699,7 +699,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="alp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Sector Alpha" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Sector Alpha" width="580" height="360">
             <div class="alp-image-caption">Covered container fleet providing prompt, scratch-free delivery across Greater Noida</div>
         </div>
     </section>

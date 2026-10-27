@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Mohali",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mohali",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,500 - 64,000",
         "address": {
             "@type": "PostalAddress",
@@ -225,7 +225,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="mhl-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Shifting Services in Mohali" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing and Shifting Services in Mohali" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -268,7 +268,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="mhl-grid-2">
             <div>
                 <div class="mhl-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate Office and IT Equipment Moving Mohali" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate Office and IT Equipment Moving Mohali" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>
@@ -334,7 +334,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="mhl-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Enclosed Container Truck in Mohali" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Enclosed Container Truck in Mohali" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -440,7 +440,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="mhl-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Mohali" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Mohali" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>

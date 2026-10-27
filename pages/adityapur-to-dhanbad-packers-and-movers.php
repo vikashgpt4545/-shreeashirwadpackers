@@ -736,7 +736,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-dhn-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial and Commercial Goods Shifting Adityapur to Dhanbad" title="Industrial Machinery and Household Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial and Commercial Goods Shifting Adityapur to Dhanbad" title="Industrial Machinery and Household Packing">
                 </div>
             </div>
         </div>
@@ -865,7 +865,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKING PROCESS -->
             <div class="adi-dhn-two-col">
                 <div class="adi-dhn-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile Kitchenware Bubble Packing for Highway Transit" title="5-Layer Crockery Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile Kitchenware Bubble Packing for Highway Transit" title="5-Layer Crockery Packing">
                 </div>
                 <div class="adi-dhn-two-col-text">
                     <h2>Advanced 5-Layer Defensive Packaging for Highway Transit</h2>
@@ -936,14 +936,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-dhn-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier and Bike Shifting Adityapur to Dhanbad" title="Automobile Relocation Services">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier and Bike Shifting Adityapur to Dhanbad" title="Automobile Relocation Services">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: RESIDENTIAL LOCALITY COVERAGE & CREW HANDLING (IMAGE 4) -->
             <div class="adi-dhn-two-col" style="margin-top: 45px;">
                 <div class="adi-dhn-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Handling Relocation from Adityapur to Dhanbad" title="Trained Packing and Loading Crew">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Handling Relocation from Adityapur to Dhanbad" title="Trained Packing and Loading Crew">
                 </div>
                 <div class="adi-dhn-two-col-text">
                     <h2>End-to-End Localities Served in Adityapur and Dhanbad</h2>

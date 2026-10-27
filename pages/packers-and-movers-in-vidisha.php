@@ -32,7 +32,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Vidisha",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-vidisha",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -402,7 +402,7 @@ $state_name = 'Madhya Pradesh';
     <p>Additionally, our local fleet is specifically structured to handle rapid transit along the bustling railway feeder networks and state highways. Families relocating from multi-storey residential projects in Puranpura or government housing quarters near Civil Lines benefit from our trained moving personnel who manage everything from delicate glassware packing to hydraulic double bed dismantling with absolute professional care.</p>
 
     <div class="vds-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Loading Household Consignments in Vidisha Madhya Pradesh" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Loading Household Consignments in Vidisha Madhya Pradesh" loading="lazy">
       <div class="vds-image-caption">Careful loading of family household goods in Vidisha residential societies</div>
     </div>
 
@@ -456,7 +456,7 @@ $state_name = 'Madhya Pradesh';
     </div>
 
     <div class="vds-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-Layer Household Packing in Vidisha" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-Layer Household Packing in Vidisha" loading="lazy">
       <div class="vds-image-caption">Meticulous protective packaging for modular furniture, kitchenware, and luxury home decor</div>
     </div>
 
@@ -490,7 +490,7 @@ $state_name = 'Madhya Pradesh';
     </div>
 
     <div class="vds-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Transport in Vidisha" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Transport in Vidisha" loading="lazy">
       <div class="vds-image-caption">All-weather closed container fleet ensuring dust-free and zero-damage highway transit</div>
     </div>
 
@@ -563,7 +563,7 @@ $state_name = 'Madhya Pradesh';
     <p>Moving is stressful enough without having to live among endless unopened boxes for weeks. Our comprehensive relocation package includes hands-on destination setup support, ensuring your new home in Vidisha or your destination city is fully functional from day one.</p>
 
     <div class="vds-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Vidisha" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Services in Vidisha" loading="lazy">
       <div class="vds-image-caption">Systematic unboxing, modular furniture assembly, and complete room arrangement</div>
     </div>
 

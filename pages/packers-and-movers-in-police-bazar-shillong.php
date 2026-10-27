@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Police Bazar Shillong",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-police-bazar-shillong",
     "priceRange": "₹4,000 - ₹62,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="pbs-container">
       <h1>Packers and Movers in Police Bazar Shillong</h1>
       <p>Premier Khyndailad commercial shifting, Centre Point hotel sector moving, Keating Road apartment relocation, and nationwide container transit in Police Bazar.</p>
-      <a href="tel:+919334484001" class="pbs-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="pbs-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Police Bazar (known locally as Khyndailad) serves as the vibrant commercial heartbeat, hospitality nucleus, and primary high-street retail destination of Shillong. Centered around the iconic traffic circle of Centre Point and radiating along Keating Road, Jail Road, Thana Road, and the terminus of the historic GS Road, Police Bazar is an intricate tapestry of bustling retail showrooms, multi-storey hotels, bank regional headquarters, artisan handicraft emporiums, and established residential apartments. Home to commercial merchants, corporate managers, hoteliers, and downtown residents, Police Bazar experiences constant relocation mobility. Successfully executing a relocation in Police Bazar demands exceptional logistical competence to navigate dense pedestrian movement, strict municipal vehicle timing regulations, narrow one-way streets, and intense mountain rainfall.</p>
 
       <div class="pbs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Police Bazar Shillong" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Police Bazar Shillong" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pbs-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Police Bazar operational unit delivers tailored relocation services designed to address the diverse needs of hoteliers, retail merchants, corporate professionals, and downtown residents:</p>
 
       <div class="pbs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Police Bazar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Police Bazar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pbs-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Police Bazar follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="pbs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Police Bazar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Police Bazar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pbs-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Police Bazar:</p>
 
       <div class="pbs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Police Bazar" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Police Bazar" width="580" height="360" loading="lazy">
       </div>
 
       <div class="pbs-grid-cards">

@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Delhi NCR to Kolkata specializing in household goods relocation, corporate moves, enclosed car carriers, two-wheeler transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹5,500 - ₹75,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Departing from Delhi via the Yamuna Expressway into Uttar Pradesh, our sealed container trucks connect to National Highway 19, traversing Kanpur, Prayagraj, and Varanasi before passing through Bihar and Jharkhand into West Bengal.</p>
 
     <div class="dtk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Delhi to Kolkata interstate container truck" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Delhi to Kolkata interstate container truck" width="580" height="380" loading="lazy">
       <div class="dtk-img-caption">Dedicated sealed container trucks operating on the Delhi to Kolkata interstate highway route.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dtk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Delhi to Kolkata moves" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Delhi to Kolkata moves" width="580" height="380" loading="lazy">
       <div class="dtk-img-caption">Multi-layer protective packaging engineered for long-haul stability across the 1,500 km Delhi-Kolkata corridor.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dtk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated two-wheeler carrier packing for Delhi to Kolkata move" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated two-wheeler carrier packing for Delhi to Kolkata move" width="580" height="380" loading="lazy">
       <div class="dtk-img-caption">Specialized two-wheeler carrier packing ensuring scratch-free motorcycle transit to Kolkata.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dtk-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Kolkata" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Kolkata" width="580" height="380" loading="lazy">
       <div class="dtk-img-caption">Complete destination unpacking, furniture reassembly, and debris clearance service in Kolkata.</div>
     </div>
   </section>

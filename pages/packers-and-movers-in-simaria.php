@@ -943,7 +943,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
                 <!-- Image 1 -->
                 <div class="showcase-image-card">
                     <div class="image-container-3-4" style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Serving Simaria Chatra" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Serving Simaria Chatra" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div class="image-card-caption">
                         <h4>Closed Container Fleet</h4>
@@ -954,7 +954,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
                 <!-- Image 2 -->
                 <div class="showcase-image-card">
                     <div class="image-container-3-4" style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Bubble Wrap and Heavy Cartons for Household Packing in Simaria" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Bubble Wrap and Heavy Cartons for Household Packing in Simaria" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div class="image-card-caption">
                         <h4>5-Layer Protective Wrapping</h4>
@@ -965,7 +965,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
                 <!-- Image 3 -->
                 <div class="showcase-image-card">
                     <div class="image-container-3-4" style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-Wheeler Motorcycle Transportation Service in Simaria" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two-Wheeler Motorcycle Transportation Service in Simaria" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div class="image-card-caption">
                         <h4>Specialized Motorcycle Carrier</h4>
@@ -976,7 +976,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sim
                 <!-- Image 4 -->
                 <div class="showcase-image-card">
                     <div class="image-container-3-4" style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12); background: #e2e8f0;">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure Transit Container Vehicle for Long Distance Moving from Simaria" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Secure Transit Container Vehicle for Long Distance Moving from Simaria" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
                     </div>
                     <div class="image-card-caption">
                         <h4>Long-Distance Container Vehicles</h4>

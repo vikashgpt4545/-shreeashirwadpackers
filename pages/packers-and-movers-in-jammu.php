@@ -337,7 +337,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-jammu';
         <p>Whether you are shifting within Jammu city or coordinating an inter-state movement down to Punjab, Delhi NCR, or our headquarters network via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our experienced fleet and trained technicians ensure hassle-free execution. We integrate premium packaging materials, specialized equipment for heavy electronics, and weather-sealed container vehicles to safeguard your household and commercial valuables from transit stress.</p>
 
         <div class="jmu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing by Packers and Movers in Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing by Packers and Movers in Jammu">
             <div class="jmu-caption">Multi-layered defensive packing for household furniture and delicate glass items in Jammu</div>
         </div>
 
@@ -386,7 +386,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-jammu';
         <p>Our dedicated defense relocation cell provides IBA-approved invoice formats, stamped consignment notes, comprehensive weight slips, and insurance certificates required by defense audit units for prompt claim reimbursement. Whether you are transferring to or from Jammu to Pathankot, Jalandhar, Ambala, Meerut, Pune, or eastern commands, our crew understands cantonment security entry protocols, restricted gate timings, and disciplined material movement procedures.</p>
         
         <div class="jmu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and military electronics packing in Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and military electronics packing in Jammu">
             <div class="jmu-caption">Dedicated high-security electronics and records packaging for administrative and defense installations in Jammu</div>
         </div>
 
@@ -408,7 +408,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-jammu';
         </ul>
 
         <div class="jmu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container transport in Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container transport in Jammu">
             <div class="jmu-caption">Heavy-duty weather-sealed containerized vehicles built to negotiate steep mountain highways safely</div>
         </div>
     </section>
@@ -515,7 +515,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-jammu';
         </div>
 
         <div class="jmu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup in Jammu">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup in Jammu">
             <div class="jmu-caption">Systematic unpacking, furniture reassembly, and debris removal at the destination residence</div>
         </div>
     </section>
@@ -586,7 +586,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-jammu';
     "name": "Shree Ashirwad Packers and Movers Jammu",
     "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9334812297",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹45,000",
     "address": {
         "@type": "PostalAddress",

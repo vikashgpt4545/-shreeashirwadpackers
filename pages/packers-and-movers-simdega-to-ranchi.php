@@ -174,7 +174,7 @@ $meta_keywords = "packers and movers simdega to ranchi, simdega to ranchi packer
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -975,7 +975,7 @@ $meta_keywords = "packers and movers simdega to ranchi, simdega to ranchi packer
 
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Packers and Movers Simdega to Ranchi Container Delivery Truck" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Packers and Movers Simdega to Ranchi Container Delivery Truck" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Weatherproof Sealed Container Fleets</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Continuous GPS telematics from Simdega blocks to Ranchi Ring Road</div>
@@ -1069,7 +1069,7 @@ $meta_keywords = "packers and movers simdega to ranchi, simdega to ranchi packer
         <div class="split-grid">
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="5-Layer Defensive Packaging for Simdega to Ranchi Move" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="5-Layer Defensive Packaging for Simdega to Ranchi Move" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Multi-Tier Anti-Shock Cushioning</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Zero damage guarantee for furniture, electronics, and delicate glassware</div>
@@ -1203,7 +1203,7 @@ $meta_keywords = "packers and movers simdega to ranchi, simdega to ranchi packer
 
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile Car and Bike Transport from Simdega to Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile Car and Bike Transport from Simdega to Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Safe Automobile &amp; Bike Transport</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Covered carriers, scratch-resistant wrap, and door-to-door delivery</div>
@@ -1331,7 +1331,7 @@ $meta_keywords = "packers and movers simdega to ranchi, simdega to ranchi packer
 
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Complete Room-by-Room Setup</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Furniture reassembled, appliances positioned, packing scrap cleared</div>

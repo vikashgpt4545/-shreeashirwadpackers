@@ -743,7 +743,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="dhn-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial and Mining Equipment Moving Dhanbad to Adityapur" title="Heavy Machinery and Office Shifting">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial and Mining Equipment Moving Dhanbad to Adityapur" title="Heavy Machinery and Office Shifting">
                 </div>
             </div>
         </div>
@@ -872,7 +872,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKAGING DEFENSE -->
             <div class="dhn-adi-two-col">
                 <div class="dhn-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons Packing for Dhanbad to Adityapur Move" title="Residential Cartons Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons Packing for Dhanbad to Adityapur Move" title="Residential Cartons Packing">
                 </div>
                 <div class="dhn-adi-two-col-text">
                     <h2>Engineered 5-Layer Defensive Packaging Standards</h2>
@@ -940,14 +940,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="dhn-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Dhanbad to Adityapur Move" title="Protective Sofa and Furniture Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Dhanbad to Adityapur Move" title="Protective Sofa and Furniture Packing">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & CARRIER VEHICLE -->
             <div class="dhn-adi-two-col" style="margin-top: 45px;">
                 <div class="dhn-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Dhanbad to Adityapur Relocation" title="Car Carrier Transport">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Dhanbad to Adityapur Relocation" title="Car Carrier Transport">
                 </div>
                 <div class="dhn-adi-two-col-text">
                     <h2>Full Hyper-Local Coverage in Dhanbad &amp; Adityapur</h2>

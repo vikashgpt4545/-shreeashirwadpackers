@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Godda to Bhagalpur Relocation Corridor
 $page_title = "Godda to Bhagalpur Packers and Movers | Same-Day Shifting & Vehicle Transport";
-$page_description = "Affordable packers and movers from Godda to Bhagalpur. Same-day household goods delivery, vehicle transport, 4-layer packaging & transit insurance via NH-133. Call +91 9334812833 for free quote.";
+$page_description = "Affordable packers and movers from Godda to Bhagalpur. Same-day household goods delivery, vehicle transport, 4-layer packaging & transit insurance via NH-133. Call +91 9835565233for free quote.";
 $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
         "name": "Shree Ashirwad Packers and Movers - Godda to Bhagalpur Service",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹24,000",
         "address": {
             "@type": "PostalAddress",
@@ -364,7 +364,7 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
     <section class="gbh-hero-banner">
         <h1 class="gbh-hero-title">Godda to Bhagalpur Packers and Movers</h1>
         <p class="gbh-hero-subtitle">Same-Day Express Relocation Connecting Santhal Pargana with Silk City Bhagalpur. Reliable Household Shifting, Power Plant Transfers & Doorstep Unpacking.</p>
-        <a href="tel:+919334812833" class="gbh-cta-btn">Book Same-Day Shifting: +91 9334812833</a>
+        <a href="tel:+919835565233" class="gbh-cta-btn">Book Same-Day Shifting: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -380,7 +380,7 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
             </div>
             <div>
                 <div class="gbh-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing for Godda to Bhagalpur shifting" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing for Godda to Bhagalpur shifting" width="580" height="387">
                     <div class="gbh-caption">Multi-layer protective packing for domestic furniture and appliances</div>
                 </div>
             </div>
@@ -473,7 +473,7 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
         <div class="gbh-grid-2">
             <div>
                 <div class="gbh-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and crockery packing for Godda to Bhagalpur move" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and crockery packing for Godda to Bhagalpur move" width="580" height="387">
                     <div class="gbh-caption">Secure bubble wrap and compartmentalized boxing for kitchen crockery</div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
             </div>
             <div>
                 <div class="gbh-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Godda to Bhagalpur transport" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Godda to Bhagalpur transport" width="580" height="387">
                     <div class="gbh-caption">Clean, covered container trucks protecting personal items from road dirt</div>
                 </div>
             </div>
@@ -512,7 +512,7 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
         <div class="dpt-grid-2 gbh-grid-2">
             <div>
                 <div class="gbh-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bhagalpur" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bhagalpur" width="580" height="387">
                     <div class="gbh-caption">Prompt doorstep unloading and room setup across all Bhagalpur localities</div>
                 </div>
             </div>

@@ -37,7 +37,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-whitefi
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-whitefield-bangalore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-whitefield-bangalore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -469,7 +469,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Whitefield Bangalore</h1>
         <p>Prime IT corridor and luxury high-rise condominium relocation specialists. Premium home shifting, corporate tech park moves, and secure transport across ITPL, EPIP Zone, Hope Farm, Prestige Shantiniketan, and Varthur Road.</p>
         <div class="whf-btn-wrap">
-            <a href="tel:+919334404050" class="whf-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="whf-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="whf-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -496,7 +496,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we provide customized relocation solutions designed specifically for the discerning residents and tech enterprises of Whitefield. Our crews arrive with heavy-duty corrugated cartons, high-density air bubble wrap, non-marking rubber dollies, and padded furniture blankets to guarantee maximum protection for your cherished furnishings and delicate electronics.</p>
 
         <div class="whf-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Whitefield Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Whitefield Bangalore" width="580" height="387" loading="lazy">
             <p class="whf-image-caption">Dedicated loading crews systematically stowing packed household cartons and furniture inside our closed container trucks in Whitefield.</p>
         </div>
 
@@ -530,7 +530,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="whf-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Whitefield Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Whitefield Bangalore" width="580" height="387" loading="lazy">
             <p class="whf-image-caption">Premium air bubble wrap, edge guards, and stretch film applied to safeguard fragile glassware, kitchen appliances, and LED screens in Whitefield.</p>
         </div>
 
@@ -596,7 +596,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Shifting costs depend on inventory volume, elevator access, high-rise floor level, fragile packing requirements, and distance. For an exact customized quote tailored to your inventory, please view our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a> or request an on-site survey from our Whitefield field coordinator.</p>
 
         <div class="whf-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Whitefield Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Whitefield Bangalore" width="580" height="387" loading="lazy">
             <p class="whf-image-caption">Experienced furniture carpenters dismantling and wrapping modular king-size beds and wardrobes for safe transit in Whitefield.</p>
         </div>
 
@@ -641,7 +641,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="whf-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Whitefield Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Whitefield Bangalore" width="580" height="387" loading="lazy">
             <p class="whf-image-caption">Our closed container vehicles ensuring safe, door-to-door delivery across residential societies and tech corridors throughout Whitefield.</p>
         </div>
 

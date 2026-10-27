@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Modipuram Meerut",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -463,7 +463,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Modipuram Meerut</h1>
         <p>Reliable household shifting, agricultural research campus moves, and industrial freight logistics across Modipuram, NH-58 Delhi-Dehradun Highway, and Ansal Town with zero damage assurance.</p>
         <div class="mpm-hero-btn-group">
-            <a href="tel:+919334404050" class="mpm-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mpm-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mpm-btn-secondary">Check Tariff</a>
         </div>
     </section>
@@ -476,7 +476,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mpm-intro-p">Alongside its academic and research stature, Modipuram has experienced phenomenal residential expansion through premier integrated townships like Ansal Town, Supertech Palm Green, and upscale plotted housing colonies. Its direct highway access makes it an ideal home for research scientists, university professors, corporate executives, industrial engineers, and defense professionals seeking spacious, modern living.</p>
 
         <div class="mpm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Modipuram Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Modipuram Meerut" width="580" height="380" loading="lazy">
             <p class="mpm-image-caption">Our professional relocation crew safely loading packed goods into container trucks in Modipuram Meerut.</p>
         </div>
 
@@ -556,7 +556,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mpm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Modipuram Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Quality Packaging Materials in Modipuram Meerut" width="580" height="380" loading="lazy">
             <p class="mpm-image-caption">High-density bubble wrap and reinforced corrugated cartons used for safe household packing in Modipuram Meerut.</p>
         </div>
 
@@ -666,7 +666,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mpm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Modipuram Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing in Modipuram Meerut" width="580" height="380" loading="lazy">
             <p class="mpm-image-caption">Skilled carpenters carefully dismantling wooden beds and securing modular hardware in Modipuram Meerut.</p>
         </div>
     </section>
@@ -679,7 +679,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mpm-intro-p">Heading southward, Modipuram connects rapidly to the Delhi-Meerut Expressway (NE-3) and Eastern Peripheral Expressway (KGP Expressway), allowing swift container movements toward Noida, Ghaziabad, Delhi, and Faridabad in just over an hour. Strategic bypass roads also facilitate rapid access eastward toward Moradabad, Bareilly, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a>.</p>
 
         <div class="mpm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Modipuram Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Dedicated Delivery Fleet in Modipuram Meerut" width="580" height="380" loading="lazy">
             <p class="mpm-image-caption">Clean, enclosed container trucks delivering household goods safely to residences in Modipuram Meerut.</p>
         </div>
 
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Book Your Stress-Free Modipuram Move Today</h3>
         <p>Get in touch with our Modipuram relocation specialists today for a personalized on-site survey, customized packaging schedule, and transparent price quotation.</p>
         <div class="mpm-cta-group">
-            <a href="tel:+919334404050" class="mpm-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mpm-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mpm-btn-secondary">Request Free Quote</a>
         </div>
     </section>

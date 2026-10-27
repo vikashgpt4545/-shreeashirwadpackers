@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-gokul-road-hubli";
         "name": "Shree Ashirwad Packers and Movers Gokul Road Hubli",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -521,7 +521,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Gokul Road Hubli</h1>
         <p>Expert household shifting, industrial cargo logistics, airport corridor warehousing, and car transportation across Gokul Road, Akshay Colony, Shanti Nagar, and Tarihal Industrial Area.</p>
         <div class="gkh-btn-wrap">
-            <a href="tel:+919334404050" class="gkh-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="gkh-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="gkh-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -549,7 +549,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gkh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing on Gokul Road Hubli" title="Household relocation on Gokul Road">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing on Gokul Road Hubli" title="Household relocation on Gokul Road">
             <p class="gkh-image-caption">Systematic room-by-room packing and protective cushioning for residential moves on Gokul Road Hubli.</p>
         </div>
     </section>
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Automobile spare parts, wholesale goods, and commercial merchandise are organized into uniform palletized cartons, secured with heavy-duty polyester strapping, and loaded into sealed container vehicles equipped with hydraulic tailgates for prompt dispatch across Karnataka and western India.</p>
 
         <div class="gkh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Gokul Road Hubli" title="Furniture packing in Gokul Road Hubli">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Gokul Road Hubli" title="Furniture packing in Gokul Road Hubli">
             <p class="gkh-image-caption">High-density bubble wrapping and corrugated corner buffers protecting furniture on Gokul Road Hubli.</p>
         </div>
     </section>
@@ -626,7 +626,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Gokul Road's position near major transport yards makes it our primary staging hub for car and two-wheeler transport. We utilize specialized multi-tier car carriers equipped with wheel chocks and safety locking harnesses. Your sedan, SUV, or luxury car is inspected, inventoried, and delivered scratch-free to Bangalore, Pune, Mumbai, Delhi, or eastern destinations like Ranchi.</p>
 
         <div class="gkh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing on Gokul Road Hubli" title="Delicate packing on Gokul Road">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing on Gokul Road Hubli" title="Delicate packing on Gokul Road">
             <p class="gkh-image-caption">Custom bubble wrapping and heavy-duty box crating for fragile glassware and delicate kitchenware.</p>
         </div>
     </section>
@@ -741,7 +741,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="gkh-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck on Gokul Road Hubli" title="Safe transit truck on Gokul Road">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck on Gokul Road Hubli" title="Safe transit truck on Gokul Road">
             <p class="gkh-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

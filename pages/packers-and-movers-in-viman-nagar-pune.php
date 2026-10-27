@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-viman-n
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-viman-nagar-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-viman-nagar-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -156,7 +156,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-viman-n
                 "name": "How can I book a pre-move home survey in Viman Nagar Pune?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "You can reach our dedicated Pune support team at +91 93344 04050 or submit our online inquiry form to schedule a free physical or video survey and obtain a transparent written estimate."
+                    "text": "You can reach our dedicated Pune support team at +91 9835565233 or submit our online inquiry form to schedule a free physical or video survey and obtain a transparent written estimate."
                 }
             }
         ]
@@ -396,7 +396,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-viman-n
         <h1>Packers and Movers in Viman Nagar Pune</h1>
         <p>Premium household shifting, corporate executive relocations, and professional packing services across Phoenix Marketcity, Symbiosis International University, Datta Mandir Chowk, and the Pune Airport Corridor.</p>
         <div class="vmn-btn-wrap">
-            <a href="tel:+919334404050" class="vmn-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="vmn-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="vmn-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -417,7 +417,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-viman-n
         <p>Our deep local operational experience in Eastern Pune allows us to navigate high-rise society regulations effortlessly. We coordinate directly with estate management offices, verify basement clearance heights for our covered container trucks, and utilize protective floor runners and padded lift blankets during moving operations.</p>
 
         <div class="vmn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Viman Nagar Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Viman Nagar Pune">
             <p class="vmn-image-caption">Professional moving crews packing and loading household goods into covered container trucks in Viman Nagar.</p>
         </div>
 
@@ -459,7 +459,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-viman-n
         </div>
 
         <div class="vmn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Viman Nagar Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Viman Nagar Pune">
             <p class="vmn-image-caption">Premium five-ply corrugated boxes, air-bubble cushioning, and stretch wrap securing household valuables.</p>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-viman-n
         </div>
 
         <div class="vmn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Viman Nagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Viman Nagar">
             <p class="vmn-image-caption">Expert carpenter dismantling modular double bed frames for safe apartment relocation in Viman Nagar.</p>
         </div>
 
@@ -609,7 +609,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-viman-n
         </div>
 
         <div class="vmn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Viman Nagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Viman Nagar">
             <p class="vmn-image-caption">Reliable covered container vehicles delivering safe door-to-door household shifting across Viman Nagar.</p>
         </div>
 
@@ -678,7 +678,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-viman-n
 
         <div class="vmn-faq-item">
             <h3>How can I book a pre-move home survey in Viman Nagar Pune?</h3>
-            <p>You can reach our dedicated Pune support team at +91 93344 04050 or submit our online inquiry form to schedule a free physical or video survey and obtain a transparent written estimate.</p>
+            <p>You can reach our dedicated Pune support team at +91 9835565233 or submit our online inquiry form to schedule a free physical or video survey and obtain a transparent written estimate.</p>
         </div>
     </section>
 

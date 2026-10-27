@@ -620,19 +620,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/kolkata-to-jamtara-packer
         <!-- 4 Verified Images Display -->
         <div class="kol2jam-img-grid">
             <div class="kol2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Kolkata to Jamtara inter-state transit">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Kolkata to Jamtara inter-state transit">
                 <div class="kol2jam-img-caption">Dedicated GPS-monitored closed container fleet ensuring rain and dust proof transit.</div>
             </div>
             <div class="kol2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials for fragile household goods shifting">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer packing materials for fragile household goods shifting">
                 <div class="kol2jam-img-caption">Heavy-duty 5-layer bubble wrap, edge guards, and corrugated boxes for glassware.</div>
             </div>
             <div class="kol2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury vehicles for Kolkata to Jamtara transport">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Hydraulic car carrier loading luxury vehicles for Kolkata to Jamtara transport">
                 <div class="kol2jam-img-caption">Specialized covered car carrier service with wheel lock straps and safety ramps.</div>
             </div>
             <div class="kol2jam-img-card">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service at Jamtara residence">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service at Jamtara residence">
                 <div class="kol2jam-img-caption">Full destination unpacking, bed re-assembly, electrical unmounting, and setup support.</div>
             </div>
         </div>

@@ -32,7 +32,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Shivpuri",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-shivpuri",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -401,7 +401,7 @@ $state_name = 'Madhya Pradesh';
     <p>Furthermore, Shivpuri serves as a major commercial transit point connecting the Gwalior Chambal belt with the Malwa plateau and Rajasthan. Our centralized fleet coordination guarantees that whether a family is transferring from a government bungalow in the Civil Lines or a multi-storey apartment near Pohari Bypass, every item is handled by trained packaging technicians who employ custom padding, specialized crate structures, and modern mechanical lifting equipment to eliminate transit vibration and structural wear.</p>
 
     <div class="svp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Loading Apartment Consignments in Shivpuri MP" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Loading Apartment Consignments in Shivpuri MP" loading="lazy">
       <div class="svp-image-caption">Systematic goods handling and ramp loading in Shivpuri residential enclaves</div>
     </div>
 
@@ -455,7 +455,7 @@ $state_name = 'Madhya Pradesh';
     </div>
 
     <div class="svp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-Layer Furniture and Electronics Packing in Shivpuri" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-Layer Furniture and Electronics Packing in Shivpuri" loading="lazy">
       <div class="svp-image-caption">Multi-tier bubble wrapping and edge-board casing for glassware, LED TVs, and hardwood furniture</div>
     </div>
 
@@ -489,7 +489,7 @@ $state_name = 'Madhya Pradesh';
     </div>
 
     <div class="svp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered Container Truck Moving Household Goods in Shivpuri MP" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered Container Truck Moving Household Goods in Shivpuri MP" loading="lazy">
       <div class="svp-image-caption">All-weather sealed metal container vehicles engineered for safe highway transport</div>
     </div>
 
@@ -562,7 +562,7 @@ $state_name = 'Madhya Pradesh';
     <p>A true relocation is only complete when your new residence feels like home. At Shree Ashirwad Packers and Movers, our responsibility extends well past the threshold. Once our container truck arrives at your destination in Shivpuri or beyond, our skilled destination crew carries out careful unboxing, furniture reassembly, and debris removal.</p>
 
     <div class="svp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional Unpacking and Furniture Assembly in Shivpuri" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional Unpacking and Furniture Assembly in Shivpuri" loading="lazy">
       <div class="svp-image-caption">Comprehensive unboxing, modular furniture reassembly, and debris clearance</div>
     </div>
 

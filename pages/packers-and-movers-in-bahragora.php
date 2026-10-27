@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Bahragora (Jharkhand-Bengal-Odisha Tri-Junction Gateway)
 $page_title = "Packers and Movers in Bahragora | Safe Tri-State Home & Vehicle Shifting";
-$page_description = "Top packers and movers in Bahragora, East Singhbhum. Safe home shifting, commercial logistics, car & bike transport across Jharkhand, Bengal & Odisha. Call +91 9334812833.";
+$page_description = "Top packers and movers in Bahragora, East Singhbhum. Safe home shifting, commercial logistics, car & bike transport across Jharkhand, Bengal & Odisha. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahragora";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
         "name": "Shree Ashirwad Packers and Movers - Bahragora Branch",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹34,000",
         "address": {
             "@type": "PostalAddress",
@@ -382,7 +382,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
     <section class="bhg-hero-banner">
         <h1 class="bhg-hero-title">Packers and Movers in Bahragora</h1>
         <p class="bhg-hero-subtitle">Specialized Tri-State Relocation & Logistics Connecting Jharkhand, West Bengal & Odisha. Sealed Weatherproof Containers, 4-Layer Heavy Packing & IBA Approved Billing.</p>
-        <a href="tel:+919334812833" class="bhg-cta-btn">Book Move in Bahragora: +91 9334812833</a>
+        <a href="tel:+919835565233" class="bhg-cta-btn">Book Move in Bahragora: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -398,7 +398,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
             </div>
             <div>
                 <div class="bhg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Bahragora" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Bahragora" width="580" height="387">
                     <div class="dvz-caption" style="display:none;"></div>
                     <div class="bhg-caption">Multi-layer protective packing for furniture and electronics in Bahragora</div>
                 </div>
@@ -485,7 +485,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
         <div class="bhg-grid-2">
             <div>
                 <div class="bhg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Bahragora" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Bahragora" width="580" height="387">
                     <div class="bhg-caption">Protective bubble wrapping and pallet crating for bike transport in Bahragora</div>
                 </div>
             </div>
@@ -499,7 +499,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
 
         <!-- Section 4B: Highway Fleet Visual -->
         <div class="bhg-image-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Bahragora relocation" width="580" height="387">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Bahragora relocation" width="580" height="387">
             <div class="bhg-caption">Sealed containerized vehicle fleet providing dust-free transit from Bahragora</div>
         </div>
 
@@ -544,7 +544,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
             </div>
             <div>
                 <div class="bhg-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glassware packaging" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glassware packaging" width="580" height="387">
                     <div class="bhg-caption">Carefully padded fragile glassware packed in heavy-duty corrugated cartons</div>
                 </div>
             </div>

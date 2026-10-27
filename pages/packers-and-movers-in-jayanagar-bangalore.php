@@ -36,7 +36,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jayanag
     "name": "Shree Ashirwad Packers and Movers Jayanagar Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+919334404052",
+    "telephone": "+91 9835565233",
     "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
@@ -402,7 +402,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jayanag
     <div class="jyn-hero-content">
       <h1 class="jyn-hero-title">Packers and Movers in Jayanagar Bangalore</h1>
       <p class="jyn-hero-subtitle">Premium Residential Relocations Across Jayanagar 1st to 9th Blocks, Ashoka Pillar, South End Circle &amp; Adjoining South Bangalore Enclaves</p>
-      <a href="tel:+919334404052" class="jyn-hero-cta">Get Free Instant Quote: +91 9334404052</a>
+      <a href="tel:+919835565233" class="jyn-hero-cta">Get Free Instant Quote: +91 9835565233</a>
     </div>
   </header>
 
@@ -417,7 +417,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jayanag
       <p class="jyn-p">Whether you are transitioning from an ancestral family bungalow in 3rd Block to a high-end luxury apartment in 7th Block, moving a growing medical clinic near Tilaknagar, or shifting household goods from South End Circle to other tech epicenters like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-whitefield-bangalore">Whitefield</a> or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-electronic-city-bangalore">Electronic City</a>, our certified moving professionals guarantee flawless packing, careful transit, and end-to-end peace of mind.</p>
 
       <div class="jyn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Jayanagar Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Jayanagar Bangalore" width="580" height="387" loading="lazy">
         <div class="jyn-image-caption">Careful household loading and secure containerized transit tailored for Jayanagar residential boulevards.</div>
       </div>
 
@@ -453,7 +453,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jayanag
       </div>
 
       <div class="jyn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrapping in Jayanagar Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrapping in Jayanagar Bangalore" width="580" height="387" loading="lazy">
         <div class="jyn-image-caption">High-density bubble wrapping and heavy-duty corrugated cartons protecting delicate household items.</div>
       </div>
 
@@ -473,7 +473,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jayanag
       <p class="jyn-p">Furthermore, neighborhood landmarks like Ashoka Pillar, South End Circle, Madhavan Park, and the Nanda Talkies junction experience high traffic during peak shopping hours and school transit intervals. Our operations managers schedule loading operations during early-morning windows between 6:30 AM and 9:30 AM, completing major loading milestones before retail and school activity peaks around 4th Block BDA complex and 10th Main Road.</p>
 
       <div class="jyn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Jayanagar Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Jayanagar Bangalore" width="580" height="387" loading="lazy">
         <div class="jyn-image-caption">Professional dismantling of king-size wooden furniture and careful labeling for rapid reassembly.</div>
       </div>
 
@@ -539,7 +539,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-jayanag
       <p class="jyn-p">Rates vary depending on specific floor height, availability of heavy-duty service elevators, volume of delicate breakables requiring custom wooden crating, and overall transit distance. For an exact customized quote, explore our transparent online <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges calculator</a>.</p>
 
       <div class="jyn-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Jayanagar Bangalore relocation" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Jayanagar Bangalore relocation" width="580" height="387" loading="lazy">
         <div class="jyn-image-caption">Dedicated sealed container vehicle providing door-to-door relocation safety across South Bangalore.</div>
       </div>
 

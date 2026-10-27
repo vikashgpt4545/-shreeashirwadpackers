@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Premier intercity relocation services from Hyderabad to Vijayawada offering household shifting, vehicle shipping, corporate moving, and comprehensive transit insurance via NH65.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -434,7 +434,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>At Shree Ashirwad Packers and Movers, we operate a specialized express relocation service on this corridor. Whether moving from high-rise residential complexes in Kukatpally, Gachibowli, Miyapur, or Madhapur to Vijayawada neighborhoods like Benz Circle, Moghalrajpuram, Governorpet, or Kanuru, our crews manage every stage with surgical care.</p>
 
     <div class="hdvj-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Hyderabad to Vijayawada interstate container truck">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Hyderabad to Vijayawada interstate container truck">
       <div class="hdvj-img-caption">Dedicated all-weather container truck transporting household goods along the Hyderabad to Vijayawada NH65 expressway.</div>
     </div>
 
@@ -515,7 +515,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Our experienced packing team utilizes tailored materials specifically rated for intercity transit, safeguarding every single item from kitchen chinaware to large double-door refrigerators:</p>
 
     <div class="hdvj-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective multi-layer bubble wrapping and box packing">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective multi-layer bubble wrapping and box packing">
       <div class="hdvj-img-caption">Standardized 5-layer export wrapping with heavy bubble sheets and edge guards for break-resistant moving.</div>
     </div>
 
@@ -601,7 +601,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>For motorcycle and scooter owners, our two-wheeler parcel service offers unparalleled safety. Each bike is thoroughly inspected, mirrors removed and bubble wrapped, and the frame encased in shock-proof corrugated sheets before being placed into customized wooden cages or strapped securely on dedicated bike decks.</p>
 
     <div class="hdvj-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Bike parcel and motorcycle transport services">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Bike parcel and motorcycle transport services">
       <div class="hdvj-img-caption">Secure two-wheeler crating and enclosed car carrier services linking Hyderabad and Vijayawada.</div>
     </div>
 
@@ -649,7 +649,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Our local Vijayawada crew provides white-glove destination delivery services. From carefully carrying sofas up elevators to positioning master beds, assembling wardrobes, placing heavy appliances in kitchens, and clearing away all packing debris, we turn an empty apartment into a warm, comfortable home within hours.</p>
 
     <div class="hdvj-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup services in Vijayawada">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup services in Vijayawada">
       <div class="hdvj-img-caption">Complete destination unpacking, furniture assembly, and carton debris removal services.</div>
     </div>
 

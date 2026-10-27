@@ -32,7 +32,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Ahmedabad",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-ahmedabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -410,7 +410,7 @@ $state_name = 'Gujarat';
           <p>Shree Ashirwad Packers and Movers brings over 16 years of certified industry leadership to Ahmedabad. Our professional crews combine localized neighborhood knowledge with international multi-layer packaging standards, ensuring that your valuable furniture, fragile kitchenware, luxury electronic equipment, and vehicles reach their destination in impeccable condition. With our primary network rooted in national logistics corridors, we connect Ahmedabad seamlessly to Mumbai, Delhi NCR, Bangalore, Kolkata, and our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f766e; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>.</p>
         </div>
         <div class="ahm-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High Rise Apartment Household Shifting in Ahmedabad" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High Rise Apartment Household Shifting in Ahmedabad" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -452,7 +452,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="ahm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional Household Packing Materials in Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional Household Packing Materials in Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -609,7 +609,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="ahm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -645,7 +645,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="ahm-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup Services in Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -676,7 +676,7 @@ $state_name = 'Gujarat';
     <div class="ahm-cta-bar">
       <h3>Ready for a Smooth, Professional Move in Ahmedabad?</h3>
       <p>Contact our certified relocation specialists today for an instant free home survey and transparent quote.</p>
-      <a href="tel:+919334484001" class="ahm-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="ahm-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="ahm-section">

@@ -336,7 +336,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 1 -->
           <div style="margin: 30px auto; max-width: 550px; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" 
                  alt="Professional packing crew preparing household goods for shifting in Bokaro" 
                  style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;"
                  loading="lazy">
@@ -437,7 +437,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 2 -->
           <div style="margin: 30px 0; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" 
                  alt="Residential relocation labeled cartons organized for loading in Bokaro" 
                  style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
                  loading="lazy">
@@ -595,7 +595,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 3 -->
           <div style="margin: 30px 0; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" 
                  alt="Kitchen crockery bubble packing and delicate glassware crating" 
                  style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
                  loading="lazy">

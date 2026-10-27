@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Asansol to Bagodar",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹8,500 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -602,8 +602,8 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             </div>
 
             <div class="asn2bag-cta-group">
-                <a href="tel:+919334800840" class="asn2bag-btn-primary"><i class="fa-solid fa-phone"></i> Call 9334800840</a>
-                <a href="https://wa.me/919334800840?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Asansol%20to%20Bagodar%20shifting" class="asn2bag-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
+                <a href="tel:+919835565233" class="asn2bag-btn-primary"><i class="fa-solid fa-phone"></i> Call 9835565233</a>
+                <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Asansol%20to%20Bagodar%20shifting" class="asn2bag-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
             </div>
         </div>
     </header>
@@ -619,7 +619,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     <p>Our fleet consists of dedicated, weatherproof container vehicles built to absorb highway vibrations. With trained loaders, skilled carpenters, and experienced drivers who know inter-state border check-posts and local Bagodar road access, your entire move is completed seamlessly on the very same day.</p>
                 </div>
                 <div class="asn2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Asansol to Bagodar direct GT Road intercity shifting truck loading goods" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Asansol to Bagodar direct GT Road intercity shifting truck loading goods" loading="lazy">
                 </div>
             </div>
         </div>
@@ -676,7 +676,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="asn2bag-container">
             <div class="asn2bag-two-col">
                 <div class="asn2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover and foam padding in Asansol" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover and foam padding in Asansol" loading="lazy">
                 </div>
                 <div>
                     <h2 class="asn2bag-section-title" style="text-align: left;">Engineered 5-Layer Packaging for Fragile &amp; Heavy Cargo</h2>
@@ -773,7 +773,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     <p>Our transport crews maintain dedicated transit logs and GPS communication throughout the journey from Asansol to Bagodar, ensuring zero jolts to your automobile or crated household cargo.</p>
                 </div>
                 <div class="asn2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service from Asansol" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service from Asansol" loading="lazy">
                 </div>
             </div>
         </div>
@@ -784,7 +784,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="asn2bag-container">
             <div class="asn2bag-two-col">
                 <div class="asn2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit to Bagodar" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit to Bagodar" loading="lazy">
                 </div>
                 <div>
                     <h2 class="asn2bag-section-title" style="text-align: left;">SAIL, ECL &amp; Railway Transfer Support</h2>
@@ -859,7 +859,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             <div class="asn2bag-cta">
                 <h3>Ready for a Hassle-Free Asansol to Bagodar Move?</h3>
                 <p>Contact GT Road's most trusted intercity relocation company today. Get an honest price quote, guaranteed transit timings, and complete peace of mind.</p>
-                <a href="tel:+919334800840" class="asn2bag-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 9334800840 / 8409531615</a>
+                <a href="tel:+919835565233" class="asn2bag-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 9835565233 / 8409531615</a>
             </div>
         </div>
     </section>

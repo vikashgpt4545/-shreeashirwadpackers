@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Bhavanipuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bhavanipuram-vijayawada",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -488,7 +488,7 @@
     <p>The neighborhood is renowned for its vibrant commercial trading community, hosting extensive wholesale grain markets, iron and steel trading yards, timber merchants, and hardware suppliers along with established residential sectors including HB Colony Bhavanipuram, Swathi Road, Rotary Nagar, Sitara Junction, and Joji Nagar. Thousands of trading families and suburban homeowners rely on professional moving services that navigate commercial wholesale yards and residential lanes with equal skill.</p>
 
     <div class="bvp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Bhavanipuram Vijayawada" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Bhavanipuram Vijayawada" loading="lazy">
       <p class="bvp-image-caption">Disciplined residential quarter shifting and systematic loading operations in Bhavanipuram.</p>
     </div>
 
@@ -587,7 +587,7 @@
     </div>
 
     <div class="bvp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Bhavanipuram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Bhavanipuram" loading="lazy">
       <p class="bvp-image-caption">Specialized packing and shock-proof boxing for IT workstations and office hardware in Bhavanipuram.</p>
     </div>
 
@@ -619,7 +619,7 @@
     </div>
 
     <div class="bvp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Bhavanipuram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Bhavanipuram" loading="lazy">
       <p class="bvp-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -633,7 +633,7 @@
     <p>Our experienced drivers schedule loading windows in congested commercial areas during early morning hours (6:30 AM to 8:30 AM) to circumvent wholesale truck arrivals near Gollapudi market. For tight residential lanes, we deploy agile 14-foot and 17-foot covered container vehicles that easily access gated apartment complexes and duplex driveways without disruption.</p>
 
     <div class="bvp-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Bhavanipuram" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Bhavanipuram" loading="lazy">
       <p class="bvp-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -723,7 +723,7 @@
   <section class="bvp-cta-banner">
     <h3>Plan Your Stress-Free Move in Bhavanipuram Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Andhra Pradesh and India.</p>
-    <a class="bvp-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="bvp-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

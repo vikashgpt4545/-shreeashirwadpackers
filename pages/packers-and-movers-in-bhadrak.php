@@ -395,7 +395,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhadrak#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhadrak",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -542,7 +542,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bdk-body-p">Shree Ashirwad Packers and Movers delivers decades of operational excellence to Bhadrak. Through our extensive regional logistics network, we offer high-frequency express corridors connecting Bhadrak to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-balasore">Balasore</a> (70 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cuttack">Cuttack</a> (105 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (135 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-baripada">Baripada</a> (125 km), alongside cross-state links to Kolkata and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="bdk-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Bhadrak" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Bhadrak" width="580" height="380" loading="lazy">
                     <div class="bdk-image-caption">Systematic loading and cargo bracing inside closed-body container fleet in Bhadrak.</div>
                 </div>
 
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bdk-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Bhadrak" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Bhadrak" width="580" height="380" loading="lazy">
                     <div class="bdk-image-caption">Standardized 4-layer packaging utilizing bubble wrap, corrugated sheets, and edge protectors.</div>
                 </div>
 
@@ -674,7 +674,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bdk-lead-p">Every relocation project in Bhadrak is executed using disciplined operating procedures honed over years of reliable service across Eastern India, ensuring total security from initial survey to final room placement:</p>
 
                 <div class="bdk-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Bhadrak" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Bhadrak" width="580" height="380" loading="lazy">
                     <div class="bdk-image-caption">Skilled dismantling of modular wardrobes, king-size beds, and office furniture.</div>
                 </div>
 
@@ -734,7 +734,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </ul>
 
                 <div class="bdk-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Bhadrak" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Bhadrak" width="580" height="380" loading="lazy">
                     <div class="bdk-image-caption">Dedicated door-to-door delivery vehicles serving Bhadrak urban sectors and coastal port routes.</div>
                 </div>
 
@@ -806,7 +806,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <li>Nationwide Door-to-Door Service</li>
                     <li>24/7 Dedicated Shipment Tracking</li>
                 </ul>
-                <a href="tel:+919334460424" class="bdk-cta-button">📞 Call: +91 93344 60424</a>
+                <a href="tel:+919835565233" class="bdk-cta-button">📞 Call: +91 9835565233</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bdk-cta-button" style="margin-top: 10px; background: linear-gradient(135deg, #c2410c 0%, #ea580c 100%);">📊 Calculate Charges Online</a>
             </div>
 
@@ -826,7 +826,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bdk-body-p"><strong>Shree Ashirwad Packers and Movers</strong><br>
                 Corporate HQ: Ashok Nagar, Near Birsa Munda Airport Road, Ranchi, Jharkhand.<br>
                 Regional Bhadrak Hub: NH-16 Bypass, Bonth Chhak, Bhadrak, Odisha - 756100.<br>
-                Helpline: +91 93344 60424<br>
+                Helpline: +91 9835565233<br>
                 Email: info@shreeashirwadpackers.com</p>
                 <a href="<?php echo SITE_BASE_URL; ?>/" class="bdk-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>

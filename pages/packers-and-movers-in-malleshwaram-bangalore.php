@@ -39,7 +39,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-mallesh
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-malleshwaram-bangalore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-malleshwaram-bangalore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹35,000",
         "address": {
             "@type": "PostalAddress",
@@ -520,7 +520,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Malleshwaram Bangalore</h1>
         <p>Heritage neighborhood packing, antique furniture handling, and specialized household relocation specialists across Sampige Road, Margosa Road, 8th Cross, 18th Cross, and Sankey Tank.</p>
         <div class="mlw-btn-wrap">
-            <a href="tel:+919334404050" class="mlw-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mlw-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mlw-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -545,7 +545,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mlw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Malleshwaram Bangalore" title="Careful household goods loading in Malleshwaram">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in Malleshwaram Bangalore" title="Careful household goods loading in Malleshwaram">
             <p class="mlw-image-caption">Careful loading and strapping of household cartons and furniture in Malleshwaram Bangalore.</p>
         </div>
     </section>
@@ -575,7 +575,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Our packaging supplies represent the gold standard in cargo protection. We utilize high-density five-ply export grade cartons, customized corrugated corner protectors for wooden armoires, and anti-static wrapping for computer monitors, home theater setups, and sound systems. Every carton is systematically color-coded and labeled by room—such as Master Bedroom, Pooja Room, Kitchen, and Study—streamlining the destination arrangement and ensuring that no essentials are misplaced during the transition.</p>
 
         <div class="mlw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture dismantling and wrapping in Malleshwaram Bangalore" title="Precision furniture protection in Malleshwaram">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture dismantling and wrapping in Malleshwaram Bangalore" title="Precision furniture protection in Malleshwaram">
             <p class="mlw-image-caption">Professional foam and bubble padding for valuable wooden furniture pieces in Malleshwaram homes.</p>
         </div>
     </section>
@@ -666,7 +666,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Want to calculate live transit costs based on your specific inventory and destination? Visit our transparent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rates Calculator</a> to get instant, accurate rate breakdowns for interstate and local relocations.</p>
 
         <div class="mlw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile kitchen crockery bubble packing in Malleshwaram" title="Multi-layer fragile packing in Malleshwaram">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile kitchen crockery bubble packing in Malleshwaram" title="Multi-layer fragile packing in Malleshwaram">
             <p class="mlw-image-caption">Individual bubble-wrapping and corrugated cell dividers for fine chinaware, crockery, and glass items.</p>
         </div>
     </section>
@@ -719,7 +719,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mlw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered container truck for Malleshwaram Bangalore moving" title="GPS container truck in Malleshwaram">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Covered container truck for Malleshwaram Bangalore moving" title="GPS container truck in Malleshwaram">
             <p class="mlw-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Bangalore.</p>
         </div>
     </section>

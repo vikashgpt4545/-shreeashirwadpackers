@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Plant and Pet Relocation Services in Ranchi
 $page_title = "Plant & Pet Relocation Services in Ranchi | Safe Garden & Pet Transport";
-$page_description = "Specialized plant and pet relocation in Ranchi. Safe nursery & balcony garden shifting, ventilated crates, root protection, and pet-friendly travel assistance. Call +91 9334812833 for consultation.";
+$page_description = "Specialized plant and pet relocation in Ranchi. Safe nursery & balcony garden shifting, ventilated crates, root protection, and pet-friendly travel assistance. Call +91 9835565233 for consultation.";
 $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-services-ranchi";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
         "name": "Shree Ashirwad Packers and Movers - Botanical & Pet Care Division",
         "image": "https://shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹1,200 - ₹18,000",
         "address": {
             "@type": "PostalAddress",
@@ -358,7 +358,7 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
     <section class="pet-hero-banner">
         <h1 class="pet-hero-title">Plant & Pet Relocation Services in Ranchi</h1>
         <p class="pet-hero-subtitle">Specialized Care for Your Greenery & Four-Legged Family Members. Ventilated Crating, Soil Moisture Retention & Compassionate Pet Transit Assistance.</p>
-        <a href="tel:+919334812833" class="pet-cta-btn">Consult Our Experts: +91 9334812833</a>
+        <a href="tel:+919835565233" class="pet-cta-btn">Consult Our Experts: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -374,7 +374,7 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
             </div>
             <div>
                 <div class="pet-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Specialized ventilated plant crating and moving boxes in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Specialized ventilated plant crating and moving boxes in Ranchi" width="580" height="387">
                     <div class="pet-caption">Custom ventilated crates and protective wrapping for indoor and balcony plants</div>
                 </div>
             </div>
@@ -467,7 +467,7 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
         <div class="sit-grid-2 pet-grid-2">
             <div>
                 <div class="pet-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated transport vehicles for pet and plant logistics in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated transport vehicles for pet and plant logistics in Ranchi" width="580" height="387">
                     <div class="pet-caption">Clean, climate-monitored vehicles ensuring comfortable animal transport</div>
                 </div>
             </div>
@@ -496,7 +496,7 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
             </div>
             <div>
                 <div class="pet-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew handling plant pots in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew handling plant pots in Ranchi" width="580" height="387">
                     <div class="pet-caption">Specialized handlers using rubber-wheeled dollies for heavy ceramic planters</div>
                 </div>
             </div>
@@ -506,7 +506,7 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
         <div class="sit-grid-2 pet-grid-2">
             <div>
                 <div class="pet-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door plant and pet transport vehicle in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door plant and pet transport vehicle in Ranchi" width="580" height="387">
                     <div class="pet-caption">Prompt doorstep pickup and delivery across all Ranchi neighborhoods</div>
                 </div>
             </div>

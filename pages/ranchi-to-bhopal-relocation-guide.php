@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Bhopal Relocation Guide | MP Capital Movers | Call 9708579999</title>
-    <meta name="description" content="Expert household shifting from Ranchi to Bhopal. 28-hour linehaul via NH-45, BHEL & AIIMS Bhopal transfers, IISER faculty moves, car carriers & full insurance. Call 9708579999.">
+    <title>Ranchi to Bhopal Relocation Guide | MP Capital Movers | Call 9835565233</title>
+    <meta name="description" content="Expert household shifting from Ranchi to Bhopal. 28-hour linehaul via NH-45, BHEL & AIIMS Bhopal transfers, IISER faculty moves, car carriers & full insurance. Call 9835565233.">
     <meta name="keywords" content="ranchi to bhopal relocation guide, packers and movers ranchi to bhopal, household shifting ranchi to bhopal, bhel bhopal employee shifting ranchi, aiims bhopal faculty packers, ranchi bhopal container truck">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Ranchi to Bhopal Express Logistics",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Bhopal Relocation Guide: Capital Expressway Route</h1>
                 <p>Relocating between Jharkhand and Madhya Pradesh's City of Lakes? Experience dependable 26-to-34 hour linehaul transit along NH-45. Benefit from dedicated closed container trucking, specialized moves for BHEL engineering staff, AIIMS Bhopal, IISER faculty, West Central Railway officers, and complete transit insurance.</p>
                 <div class="rbhp-cta-group">
-                    <a href="tel:+919708579999" class="rbhp-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Bhopal" class="rbhp-btn-wa" target="_blank" rel="noopener">WhatsApp Bhopal Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rbhp-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Bhopal" class="rbhp-btn-wa" target="_blank" rel="noopener">WhatsApp Bhopal Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rbhp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Bhopal" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating from Ranchi to Bhopal" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -286,7 +286,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Navigating Bhopal: BHEL Township, AIIMS, IISER, Railway Quarters & Arera Colony</h2>
                 <div class="rbhp-grid-2">
                     <div class="rbhp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Bhopal" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons ready for delivery in Bhopal" loading="lazy">
                     </div>
                     <div>
                         <p>Bhopal is a scenic capital city divided between the historic old city around the Upper and Lower Lakes, and modern, spacious planned sectors in the south and east. Delivering household consignments requires locality-specific logistical coordination:</p>
@@ -317,7 +317,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rbhp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and home appliances with protective materials" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -389,7 +389,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>White-Glove Unpacking & Furniture Assembly in Bhopal</h2>
                 <div class="rbhp-grid-2">
                     <div class="rbhp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Bhopal residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated moving crew unpacking and setting up furniture in customer Bhopal residence" loading="lazy">
                     </div>
                     <div>
                         <p>Moving into your new home in Bhopal is made completely stress-free with our comprehensive destination unpacking and carpenter assistance:</p>

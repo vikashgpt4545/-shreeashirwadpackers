@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
     "description": "Premier interstate relocation services from Delhi NCR to Mumbai specializing in household shifting, corporate office transfers, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹5,800 - ₹70,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 1,420 km arterial corridor between Delhi NCR and Mumbai, Maharashtra represents one of India's most critical interstate relocation lifelines. Connecting the national political and administrative capital to the commercial powerhouse involves crossing Haryana, Rajasthan, Gujarat, and Maharashtra. Whether you are executing a corporate transfer from Gurugram's Cyber City or Connaught Place to Bandra-Kurla Complex (BKC) or moving your family home from South Delhi, Dwarka, or Noida to Powai, Andheri, or Thane, Shree Ashirwad Packers and Movers delivers an exemplary relocation experience.</p>
     
     <div class="dlm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Delhi to Mumbai transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Delhi to Mumbai transit" loading="lazy">
       <div class="dlm-img-caption">Company-owned sealed container fleets guaranteeing weatherproof transit from Delhi to Mumbai along NE4 and NH48.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 1,420 km transit across varying weather conditions—from Delhi's dry northern climate through Rajasthan to Mumbai's humid coastal air—demands engineered packaging that resists thermal fluctuations, road vibrations, and micro-abrasions.</p>
 
     <div class="dlm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for interstate goods" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for interstate goods" loading="lazy">
       <div class="dlm-img-caption">Heavy-duty bubble wrap and reinforced kraft cartons ensuring zero abrasions during long highway transit.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across 1,420 km of national highways can lead to severe physical exhaustion, stone chip damage, and unnecessary mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="dlm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle secure carrier loading for interstate transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle secure carrier loading for interstate transit" loading="lazy">
       <div class="dlm-img-caption">Motorcycle transport carriers equipped with wheel-chock clamps and four-point nylon tie-down straps.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dlm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service at Mumbai residence" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service at Mumbai residence" loading="lazy">
       <div class="dlm-img-caption">Complete destination unpacking and furniture reassembly service at your new Mumbai residence.</div>
     </div>
   </section>

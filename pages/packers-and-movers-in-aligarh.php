@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Aligarh",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -457,7 +457,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1>Packers and Movers in Aligarh</h1>
         <p>Reliable household shifting, AMU university faculty moves, and Tala Nagari industrial cargo transport across Aligarh, Civil Lines, Centre Point, and Marris Road with certified zero damage guarantee.</p>
         <div class="alg-hero-btn-group">
-            <a href="tel:+919334404050" class="alg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="alg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="alg-btn-secondary">Check Tariff Rates</a>
         </div>
     </section>
@@ -470,7 +470,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="alg-intro-p">The city is characterized by a vibrant cultural and economic landscape. It houses extensive academic research faculties, university hospitals like Jawaharlal Nehru Medical College (JNMC), bustling commercial districts like Centre Point and Railway Road, and thriving manufacturing clusters in Tala Nagari Industrial Area and Pala Sahibabad. Relocating in Aligarh requires specialized competence in handling delicate academic libraries, antique brassware, precision metal hardware, and upscale household furnishings.</p>
 
         <div class="alg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Aligarh Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Aligarh Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="alg-image-caption">Our professional relocation crew safely loading packed goods into container trucks in Aligarh.</p>
         </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="alg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Aligarh Uttar Pradesh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging Materials in Aligarh Uttar Pradesh" width="580" height="380" loading="lazy">
             <p class="alg-image-caption">High-density bubble wrapping and reinforced multi-wall cartons utilized for household goods in Aligarh.</p>
         </div>
 
@@ -660,7 +660,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="alg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Aligarh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Aligarh" width="580" height="380" loading="lazy">
             <p class="alg-image-caption">Skilled carpentry team carefully dismantling large wooden bed frames and packing delicate hardware in Aligarh.</p>
         </div>
     </section>
@@ -673,7 +673,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="alg-intro-p">Southeast routes link quickly via NH-34 toward Etah, Kanpur, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a>, while state expressways provide direct links to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-mathura">Mathura</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-agra">Agra</a>, and Yamuna Expressway within 60 to 90 minutes. Eastbound links via Bareilly Road connect seamlessly toward Moradabad and Rohilkhand.</p>
 
         <div class="alg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Aligarh" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Aligarh" width="580" height="380" loading="lazy">
             <p class="alg-image-caption">Dedicated sealed container truck fleet ensuring clean, weather-protected door-to-door delivery across Aligarh.</p>
         </div>
 
@@ -740,7 +740,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Smooth Relocation in Aligarh Today</h3>
         <p>Connect with our Aligarh relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="alg-cta-group">
-            <a href="tel:+919334404050" class="alg-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="alg-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="alg-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

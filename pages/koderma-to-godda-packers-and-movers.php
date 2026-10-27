@@ -347,7 +347,7 @@ $page_description = "Reliable packers and movers from Koderma to Godda covering 
         <p class="kod2god-hero-subtitle">
             Reliable relocation services connecting Koderma &amp; Jhumri Telaiya with Godda, Mahagama, and Lalmatia mining areas. Trusted by families, energy sector engineers, mining executives, and government employees for damage-free transit and seamless door-to-door delivery.
         </p>
-        <a href="tel:+919534499994" class="kod2god-cta-btn"><i class="fas fa-phone-alt"></i> Request Free Godda Quote: +91 95344 99994</a>
+        <a href="tel:+919835565233" class="kod2god-cta-btn"><i class="fas fa-phone-alt"></i> Request Free Godda Quote: +91 98355 65233</a>
     </section>
 
     <!-- Quick Route Specs Bar -->
@@ -693,7 +693,7 @@ $page_description = "Reliable packers and movers from Koderma to Godda covering 
             <p style="font-size: 1.05rem; max-width: 680px; margin: 0 auto 24px; color: #cbd5e1;">
                 Get in touch with Shree Ashirwad Packers and Movers today for an upfront, competitive quotation with zero hidden fees and end-to-end relocation support.
             </p>
-            <a href="tel:+919534499994" class="kod2god-cta-btn"><i class="fas fa-phone-alt"></i> Call Now: +91 95344 99994</a>
+            <a href="tel:+919835565233" class="kod2god-cta-btn"><i class="fas fa-phone-alt"></i> Call Now: +91 98355 65233</a>
         </div>
     </section>
 </div>
@@ -707,7 +707,7 @@ $page_description = "Reliable packers and movers from Koderma to Godda covering 
   "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
   "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
   "url": "https://www.shreeashirwadpackers.com",
-  "telephone": "+919534499994",
+  "telephone": "+91 9835565233",
   "priceRange": "₹₹",
   "address": {
     "@type": "PostalAddress",

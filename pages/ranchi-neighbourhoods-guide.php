@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi Neighbourhoods Guide | Best Residential Localities to Live | Call 9708579999</title>
-    <meta name="description" content="Discover the best residential localities in Ranchi. Detailed guide to Morabadi, Kanke Road, Harmu, Ashok Nagar, Bariatu, rental rates, amenities & shifting advice. Call 9708579999.">
+    <title>Ranchi Neighbourhoods Guide | Best Residential Localities to Live | Call 9835565233</title>
+    <meta name="description" content="Discover the best residential localities in Ranchi. Detailed guide to Morabadi, Kanke Road, Harmu, Ashok Nagar, Bariatu, rental rates, amenities & shifting advice. Call 9835565233.">
     <meta name="keywords" content="ranchi neighbourhoods guide, best residential areas ranchi, where to live in ranchi, morabadi vs kanke road rent, ranchi locality review shifting">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-neighbourhoods-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Local Shifting Advisory Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-neighbourhoods-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi Neighbourhoods Guide: Best Residential Localities to Live</h1>
                 <p>Looking for the ideal place to rent or buy a home in Ranchi? Explore an exhaustive insider profile of the city's finest residential colonies—evaluating lifestyle vibes, rental price brackets, educational institutions, healthcare access, and neighborhood shifting logistics.</p>
                 <div class="rnbh-cta-group">
-                    <a href="tel:+919708579999" class="rnbh-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20moving%20within%20Ranchi%20and%20need%20a%20local%20neighbourhood%20shifting%20quote" class="rnbh-btn-wa" target="_blank" rel="noopener">WhatsApp Local Moving Quote</a>
+                    <a href="tel:+919835565233" class="rnbh-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20moving%20within%20Ranchi%20and%20need%20a%20local%20neighbourhood%20shifting%20quote" class="rnbh-btn-wa" target="_blank" rel="noopener">WhatsApp Local Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rnbh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons and furniture setup in Ranchi apartment" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized residential relocation cartons and furniture setup in Ranchi apartment" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -389,7 +389,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Gated Society Logistics: Elevators, Gate Passes & Parking</h2>
                 <div class="rnbh-grid-2">
                     <div class="rnbh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Moving into a modern gated apartment complex in Kanke Road, Morabadi, or Bariatu involves specific society regulations that must be accounted for in advance:</p>
@@ -415,7 +415,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rnbh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers handling local shifting in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew of Shree Ashirwad Packers handling local shifting in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -425,7 +425,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Why Ranchi Families Trust Shree Ashirwad for Local Shifting</h2>
                 <div class="rnbh-grid-2">
                     <div class="rnbh-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and furniture reassembly service by Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and furniture reassembly service by Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Moving within the same city can feel deceptively simple, but carrying heavy furniture through narrow staircases, navigating tight parking gates, and protecting fragile kitchen crockery requires seasoned professionals:</p>

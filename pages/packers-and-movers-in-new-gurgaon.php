@@ -544,7 +544,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Across Sectors 84, 85, 86, 89, and 90, our coverage includes SS The Leaf, Orris Carnation, DLF New Town Heights, DLF Regal Gardens, and Shree Vardhman Flora. In the outer sectors towards Pataudi Road (Sectors 91, 92, 93, 95), we manage relocations across Sare Homes, Bestech Park View Sanskruti, Signature Global Roselia, and ROF Ananda. We also maintain seamless daily transit connecting New Gurgaon with Cyber City, Golf Course Extension Road, and IMT Manesar.</p>
 
         <div class="nwgg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across New Gurgaon townships" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across New Gurgaon townships" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our transport coordinators strategically schedule vehicle dispatches to circumvent traffic choke points at Kherki Daula and the Manesar toll plaza. By utilizing the CPR link and Dwarka Expressway access, we ensure rapid highway connectivity and punctual destination arrival.</p>
@@ -600,7 +600,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="nwgg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from New Gurgaon to Bangalore, Mumbai and pan-India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from New Gurgaon to Bangalore, Mumbai and pan-India" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -636,7 +636,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="nwgg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in New Gurgaon" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in New Gurgaon" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -707,7 +707,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="nwgg-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in New Gurgaon" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in New Gurgaon" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad in New Gurgaon -->

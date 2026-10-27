@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Jodhpur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jodhpur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 65,000",
         "address": {
             "@type": "PostalAddress",
@@ -236,7 +236,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jdh-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Jodhpur Rajasthan" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dedicated Household Shifting in Jodhpur Rajasthan" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -261,7 +261,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="jdh-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Jodhpur Rajasthan" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Jodhpur Rajasthan" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -429,7 +429,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="jdh-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Jodhpur Rajasthan" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Packing in Jodhpur Rajasthan" width="580" height="380" loading="lazy">
                 </div>
                 <div class="jdh-highlight" style="margin-top: 24px;">
                     <strong>Highway Transit Hub:</strong> Positioned at the crossroads of NH 62 and NH 25, our long-distance container carriers reach Ahmedabad, Jaipur, Delhi NCR, and Mumbai with rapid highway turnarounds.
@@ -464,7 +464,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="jdh-grid-2">
             <div>
                 <div class="jdh-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Jodhpur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Secure Enclosed Container Shifting Fleet Jodhpur" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>

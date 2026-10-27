@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Kanpur Relocation Guide | NH-19 Movers | Call 9708579999</title>
-    <meta name="description" content="Expert household shifting from Ranchi to Kanpur. 16-hour express transit via NH-19, IIT Kanpur faculty moves, defense packing, vehicle carriers & full insurance. Call 9708579999.">
+    <title>Ranchi to Kanpur Relocation Guide | NH-19 Movers | Call 9835565233</title>
+    <meta name="description" content="Expert household shifting from Ranchi to Kanpur. 16-hour express transit via NH-19, IIT Kanpur faculty moves, defense packing, vehicle carriers & full insurance. Call 9835565233.">
     <meta name="keywords" content="ranchi to kanpur relocation guide, packers and movers ranchi to kanpur, household shifting ranchi to kanpur, iit kanpur faculty transfer packers, chakeri airforce shifting ranchi, ranchi kanpur container truck">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kanpur-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Ranchi to Kanpur Logistics Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-kanpur-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Ranchi to Kanpur Relocation Guide: Grand Trunk Highway Corridor</h1>
                 <p>Relocating from Ranchi to Uttar Pradesh's prime industrial and educational heartland? Experience reliable 16-to-22 hour linehaul transit along NH-19. Discover specialized packing for IIT Kanpur faculty quarters, Defense & Ordnance transfers, sealed container trucking, and full transit insurance.</p>
                 <div class="rknp-cta-group">
-                    <a href="tel:+919708579999" class="rknp-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Kanpur" class="rknp-btn-wa" target="_blank" rel="noopener">WhatsApp Kanpur Shifting Quote</a>
+                    <a href="tel:+919835565233" class="rknp-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Kanpur" class="rknp-btn-wa" target="_blank" rel="noopener">WhatsApp Kanpur Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="rknp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating to Kanpur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container moving truck of Shree Ashirwad Packers operating to Kanpur" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -286,7 +286,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Specialized Moves: IIT Kanpur, Defense Quarters & Industrial Relocations</h2>
                 <div class="rknp-grid-2">
                     <div class="rknp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Securely labeled residential moving cartons prepared for transit to Kanpur" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Securely labeled residential moving cartons prepared for transit to Kanpur" loading="lazy">
                     </div>
                     <div>
                         <p>Moving to Kanpur often involves specialized academic campuses, defense cantts, and industrial complexes with unique entry and documentation requirements:</p>
@@ -315,7 +315,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="rknp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and heavy appliances with protective materials" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew wrapping furniture and heavy appliances with protective materials" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -387,7 +387,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>White-Glove Unpacking & Furniture Assembly in Kanpur</h2>
                 <div class="rknp-grid-2">
                     <div class="rknp-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated crew unpacking and positioning furniture in customer residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Dedicated crew unpacking and positioning furniture in customer residence" loading="lazy">
                     </div>
                     <div>
                         <p>Arriving after a long interstate journey can be exhausting for families. Our white-glove destination setup team ensures your home is liveable on day one:</p>

@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Koderma to Patna Relocation Corridor
 $page_title = "Koderma to Patna Packers and Movers | Same-Day Shifting & Vehicle Transport";
-$page_description = "Hire trusted packers and movers from Koderma (Jhumri Telaiya) to Patna. Same-day household goods shifting via NH-20 / NH-31, bike transport, 4-layer packaging & transit insurance. Call +91 9334812833.";
+$page_description = "Hire trusted packers and movers from Koderma (Jhumri Telaiya) to Patna. Same-day household goods shifting via NH-20 / NH-31, bike transport, 4-layer packaging & transit insurance. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-
         "name": "Shree Ashirwad Packers and Movers - Koderma to Patna Division",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹6,000 - ₹28,000",
         "address": {
             "@type": "PostalAddress",
@@ -364,7 +364,7 @@ $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-
     <section class="kpt-hero-banner">
         <h1 class="kpt-hero-title">Koderma to Patna Packers and Movers</h1>
         <p class="kpt-hero-subtitle">Express Same-Day Relocation Connecting Jhumri Telaiya & Koderma with Patna. Swift 4-Hour Transit via 4-Lane NH-20 Expressway, 4-Layer Packaging & Complete Room Setup.</p>
-        <a href="tel:+919334812833" class="kpt-cta-btn">Book Free Route Survey: +91 9334812833</a>
+        <a href="tel:+919835565233" class="kpt-cta-btn">Book Free Route Survey: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -380,7 +380,7 @@ $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-
             </div>
             <div>
                 <div class="kpt-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing for Koderma to Patna relocation" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing for Koderma to Patna relocation" width="580" height="387">
                     <div class="kpt-caption">Thorough multi-layer packing protecting goods against expressway transit</div>
                 </div>
             </div>
@@ -473,7 +473,7 @@ $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-
         <div class="dpt-grid-2 kpt-grid-2">
             <div>
                 <div class="kpt-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery packing for Koderma to Patna transit" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery packing for Koderma to Patna transit" width="580" height="387">
                     <div class="kpt-caption">Cushioned bubble wrap and partition cartons protecting fragile kitchenware</div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-
             </div>
             <div>
                 <div class="kpt-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Koderma to Patna transport" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Koderma to Patna transport" width="580" height="387">
                     <div class="kpt-caption">Sealed container trucks providing 100% dustproof and waterproof transit</div>
                 </div>
             </div>
@@ -512,7 +512,7 @@ $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-
         <div class="dpt-grid-2 kpt-grid-2">
             <div>
                 <div class="kpt-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck arriving in Patna" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck arriving in Patna" width="580" height="387">
                     <div class="kpt-caption">Doorstep unloading and setup service across all Patna residential areas</div>
                 </div>
             </div>

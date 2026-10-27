@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Lucknow",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="lko-hero-title">Packers and Movers in Lucknow</h1>
         <p class="lko-hero-subtitle">Premier residential shifting, high-rise apartment relocations across Gomti Nagar and Shaheed Path, corporate moving, and nationwide highway logistics across the capital of Uttar Pradesh.</p>
         <div class="lko-cta-group">
-            <a href="tel:+919334404050" class="lko-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="lko-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="lko-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="lko-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we deliver dependable, white-glove relocation services across every sector of Lucknow. Whether you are transitioning to an upscale apartment in Gomti Nagar, moving an administrative household in Hazratganj or Civil Lines, settling into a new society along Shaheed Path, or transferring across state borders, our certified packing squads guarantee zero-stress execution.</p>
 
         <div class="lko-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Lucknow Uttar Pradesh" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Lucknow Uttar Pradesh" loading="lazy">
             <p class="lko-image-caption">Dedicated household loading and container transport operations across Lucknow metro</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="lko-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile goods in Lucknow" loading="lazy">
             <p class="lko-image-caption">Shock-absorbent bubble wrapping and foam corner cushioning protect fragile electronics and chinaware</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="lko-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Modular double bed dismantling by carpentry technician in Lucknow" loading="lazy">
             <p class="lko-image-caption">Certified carpentry technicians carefully dismantle modular double beds and sliding wardrobes</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="lko-intro-p">Our container fleet also leverages the newly developed Ring Road network, linking Sitapur Road (NH-24), Hardoi Road, and Kanpur Road (NH-27) seamlessly. This enables our inter-city drivers to navigate around dense urban traffic, ensuring prompt departures and predictable arrival schedules for cross-country consignments moving between northern, central, and eastern India.</p>
 
         <div class="lko-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck in Lucknow Uttar Pradesh" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery container truck in Lucknow Uttar Pradesh" loading="lazy">
             <p class="lko-image-caption">Weatherproof enclosed container trucks guarantee secure, timely door-to-door deliveries nationwide</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Lucknow Relocation Today</h3>
         <p>Contact our experienced moving specialists for a transparent estimate, free home survey, and seamless shifting experience across Lucknow.</p>
         <div class="lko-cta-group">
-            <a href="tel:+919334404050" class="lko-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="lko-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="lko-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -203,7 +203,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>At <strong>Shree Ashirwad Packers and Movers</strong>, our corporate relocation desk in Ranchi specializes in government and bank employee relocations. We eliminate the frustration of rejected transfer claims by generating perfectly audit-compliant paperwork accepted by <strong>State Bank of India (SBI)</strong>, <strong>Punjab National Bank (PNB)</strong>, <strong>Bank of India (BOI)</strong>, <strong>Canara Bank</strong>, <strong>Central Coalfields Limited (CCL)</strong>, <strong>CMPDI</strong>, <strong>SAIL</strong>, and <strong>MECON</strong>. Plan your budget in advance using our interactive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="iba-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="IBA Approved Packers and Movers in Ranchi - Professional Loading Crew" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="IBA Approved Packers and Movers in Ranchi - Professional Loading Crew" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -232,7 +232,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="iba-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons - IBA Compliant Inventory" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons - IBA Compliant Inventory" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -293,7 +293,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="iba-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Corporate Relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Corporate Relocation" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -322,7 +322,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="iba-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - IBA Approved Corporate Relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - IBA Approved Corporate Relocation" width="580" height="387" loading="lazy">
         </div>
     </section>
 

@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Hanamkonda",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-hanamkonda-warangal",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -551,7 +551,7 @@
     <p>Our dedicated Hanamkonda team operates 365 days a year, providing custom weekend shifts and evening loading solutions tailored to faculty, government officers, commercial business owners, and families requiring zero disruption to their schedules.</p>
 
     <div class="hnk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Hanamkonda Warangal" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Hanamkonda Warangal" loading="lazy">
       <p class="hnk-image-caption">Careful loading operations and apartment logistics across residential communities in Hanamkonda Warangal.</p>
     </div>
   </section>
@@ -584,7 +584,7 @@
     <p>Our experienced technicians also take charge of disassembling and reassembling king-size storage beds, multi-door wardrobes, and wall-mounted electronics, freeing customers from the hassle of coordinating outside carpenters or handymen.</p>
 
     <div class="hnk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office IT Equipment Packing in Hanamkonda" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office IT Equipment Packing in Hanamkonda" loading="lazy">
       <p class="hnk-image-caption">Secure anti-static wrapping and heavy-duty carton packing for commercial IT systems in Hanamkonda.</p>
     </div>
   </section>
@@ -646,7 +646,7 @@
     <p>Our billing structure contains zero hidden fuel surcharges or ambiguous stair-carry fees. Everything is clearly committed in a binding digital quotation before any packing commences.</p>
 
     <div class="hnk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Hanamkonda" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Hanamkonda" loading="lazy">
       <p class="hnk-image-caption">Reinforced protective wrapping for mahogany wardrobes and designer sofas before transit.</p>
     </div>
   </section>
@@ -722,7 +722,7 @@
     <p>Whether relocating a quiet apartment near Waddepally Lake or coordinating an intercity move to Hyderabad or Bangalore, our operations team ensures that all logistics tasks are executed smoothly without unnecessary delays.</p>
 
     <div class="hnk-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Hanamkonda" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Hanamkonda" loading="lazy">
       <p class="hnk-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
   </section>
@@ -807,7 +807,7 @@
   <section class="hnk-cta-banner">
     <h3>Book Your Stress-Free Move in Hanamkonda Today!</h3>
     <p>Contact our friendly relocation experts for a free pre-move survey, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Telangana and India.</p>
-    <a class="hnk-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="hnk-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

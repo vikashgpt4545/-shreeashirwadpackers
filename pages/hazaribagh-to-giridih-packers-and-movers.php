@@ -630,7 +630,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-giridih-pac
                 <p>Our dedicated moving network guarantees morning loading in Hazaribagh neighborhoods like Matwari, Canary Hill Road, Korrah, or Hurhuru, with arrival, careful unloading, and customized room setup in your Giridih home on the very same afternoon within 2.5 to 3 hours of highway driving. We deploy closed weatherproof container vehicles that protect your valued furnishings and electronic appliances from highway gravel, monsoon rains, and industrial grit.</p>
             </div>
             <div class="h2grd-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container moving truck for Hazaribagh to Giridih packers and movers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container moving truck for Hazaribagh to Giridih packers and movers" loading="lazy">
                 <div class="h2grd-img-caption">All-weather sealed container trucks operating along the Hazaribagh-Bagodar-Giridih route</div>
             </div>
         </div>
@@ -675,7 +675,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-giridih-pac
     <section class="h2grd-section">
         <div class="h2grd-grid-2">
             <div class="h2grd-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packing materials used by Shree Ashirwad Packers and Movers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer household packing materials used by Shree Ashirwad Packers and Movers" loading="lazy">
                 <div class="h2grd-img-caption">Multi-layer defense system: EPE foam, bubble wrap, corner guards, and rigid 7-ply cartons</div>
             </div>
             <div>
@@ -775,7 +775,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-giridih-pac
                 </ul>
             </div>
             <div class="h2grd-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Hazaribagh to Giridih vehicle relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car transport carrier for Hazaribagh to Giridih vehicle relocation" loading="lazy">
                 <div class="h2grd-img-caption">Hydraulic enclosed car carrier securing vehicles for safe transit between Hazaribagh and Giridih</div>
             </div>
         </div>
@@ -831,7 +831,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-giridih-pac
     <section class="h2grd-section">
         <div class="h2grd-grid-2">
             <div class="h2grd-feature-img">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Giridih residence" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture room setup service in Giridih residence" loading="lazy">
                 <div class="h2grd-img-caption">Dedicated room setup, furniture reassembly, and debris removal in Giridih residences</div>
             </div>
             <div>

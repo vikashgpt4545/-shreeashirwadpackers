@@ -172,7 +172,7 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -1169,21 +1169,21 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
         <!-- Visual Image Showcase -->
         <div class="rtj-image-showcase">
           <div class="rtj-image-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Ranchi to Jamshedpur Packers and Movers Secure Packing Crew" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Ranchi to Jamshedpur Packers and Movers Secure Packing Crew" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
             <div class="rtj-image-info">
               <div class="rtj-image-title">Secure Five-Layer Household Wrapping</div>
               <p class="rtj-image-desc">Our experienced moving crew applying high-grade thermocol, bubble film, and corrugated corner guards for zero-damage transit.</p>
             </div>
           </div>
           <div class="rtj-image-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Jamshedpur Container Truck Loading" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Jamshedpur Container Truck Loading" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
             <div class="rtj-image-info">
               <div class="rtj-image-title">Weather-Sealed Container Truck Loading</div>
               <p class="rtj-image-desc">Center-of-gravity balanced truck loading in Ranchi, ensuring complete stability when navigating the Bundu Ghat hairpin turns.</p>
             </div>
           </div>
           <div class="rtj-image-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Bike and Motorcycle Parcel Ranchi to Jamshedpur" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Bike and Motorcycle Parcel Ranchi to Jamshedpur" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
             <div class="rtj-image-info">
               <div class="rtj-image-title">Two-Wheeler Wheel-Chock Container Transit</div>
               <p class="rtj-image-desc">Motorcycles and scooters secured with specialized wheel-lock chocks and bubble-wrapped handle controls for safe delivery to Tatanagar.</p>

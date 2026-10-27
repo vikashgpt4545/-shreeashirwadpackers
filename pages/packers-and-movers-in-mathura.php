@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Mathura",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,200 - ₹48,000",
         "address": {
             "@type": "PostalAddress",
@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Relocating within Mathura requires experienced handling that addresses both the historical lanes near Janmabhoomi and Chowk and the spacious gated colonies of Krishna Nagar, Dampier Nagar, BSA College Road, and IOCL Refinery Township. Shree Ashirwad Packers and Movers deploys certified moving crews equipped with specialized tools, heavy-duty packing materials, and versatile transport vehicles designed to maneuver smoothly through all residential zones.</p>
 
         <div class="mth-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Mathura by Shree Ashirwad Packers and Movers">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Mathura by Shree Ashirwad Packers and Movers">
             <p class="mth-image-caption">Secure truck loading and itemized inventory handling by Shree Ashirwad Packers and Movers Mathura.</p>
         </div>
 
@@ -409,7 +409,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p>Each service is overseen by an experienced relocation supervisor who maintains real-time communication throughout the packing and loading stages. Our dedicated Mathura operations center coordinates with drivers and destination handlers, guaranteeing smooth transit across national highways and city roads.</p>
 
         <div class="mth-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Mathura">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging in Mathura">
             <p class="mth-image-caption">Multi-tier bubble wrapping and reinforced corrugated cartons for delicate items.</p>
         </div>
 
@@ -503,7 +503,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mth-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and packing in Mathura">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and packing in Mathura">
             <p class="mth-image-caption">Careful dismantling and packaging of solid wood beds and modular furniture.</p>
         </div>
 
@@ -550,7 +550,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mth-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mathura">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mathura">
             <p class="mth-image-caption">Dedicated door-to-door delivery truck ensuring complete safety in Mathura.</p>
         </div>
 
@@ -614,7 +614,7 @@ require_once ROOT_PATH . '/includes/config.php';
 
         <div class="mth-faq-item">
             <h3>How can I get an accurate moving quote in Mathura?</h3>
-            <p>Call our Mathura helpline at +91 93344 04050 or complete the online quote form on our website. Our coordinator will arrange an in-person or virtual inventory survey to generate a customized quote.</p>
+            <p>Call our Mathura helpline at +91 9835565233 or complete the online quote form on our website. Our coordinator will arrange an in-person or virtual inventory survey to generate a customized quote.</p>
         </div>
 
         <div class="mth-faq-item">

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Imphal",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-imphal",
     "priceRange": "₹4,500 - ₹75,000",
     "address": {
@@ -356,7 +356,7 @@ require_once __DIR__ . '/../includes/config.php';
   <div class="imp-hero">
     <h1>Packers and Movers in Imphal Manipur</h1>
     <p>Premier Relocation Specialist in the Jewel of India. Certified Household Shifting, Defense Moving, Medical Faculty Relocation, and Highway Transit.</p>
-    <a href="tel:+919334484001" class="imp-hero-btn">Get Instant Moving Quote: +91 93344 84001</a>
+    <a href="tel:+919835565233" class="imp-hero-btn">Get Instant Moving Quote: +91 9835565233</a>
   </div>
 
   <div class="imp-container">
@@ -371,7 +371,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
         <div>
           <div class="imp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Goods Loading in Imphal Manipur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers Goods Loading in Imphal Manipur" loading="lazy">
           </div>
         </div>
       </div>
@@ -441,7 +441,7 @@ require_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="imp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Furniture Wrapping in Imphal Manipur" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective Furniture Wrapping in Imphal Manipur" loading="lazy">
       </div>
     </div>
 
@@ -535,7 +535,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
         <div>
           <div class="imp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving Truck Loading in Imphal Manipur" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Moving Truck Loading in Imphal Manipur" loading="lazy">
           </div>
         </div>
       </div>
@@ -570,7 +570,7 @@ require_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="imp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Imphal Manipur" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Imphal Manipur" loading="lazy">
       </div>
     </div>
 

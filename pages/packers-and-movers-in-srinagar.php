@@ -337,7 +337,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-srinagar';
         <p>Whether you are shifting within Srinagar municipal boundaries or arranging an inter-state move down to Delhi NCR, Punjab, or our pan-India headquarters via <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>, our experienced packing teams and rugged containerized vehicles ensure complete safety. We combine premium shock-absorbent packing materials, specialized weather barriers against Himalayan snow and rain, and strict convoy scheduling through the newly engineered Banihal-Qazigund Navyug Tunnel to safeguard your prized assets.</p>
 
         <div class="srn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing by Packers and Movers in Srinagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing by Packers and Movers in Srinagar">
             <div class="srn-caption">Multi-layered defensive packing for carved walnut wood furniture, Kashmiri carpets, and home appliances</div>
         </div>
 
@@ -371,7 +371,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-srinagar';
         </div>
 
         <div class="srn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office and IT equipment packing in Srinagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office and IT equipment packing in Srinagar">
             <div class="srn-caption">Dedicated anti-static packaging for servers, telecommunications equipment, and IT workstations in Rangreth Srinagar</div>
         </div>
     </section>
@@ -390,7 +390,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-srinagar';
         </ul>
 
         <div class="srn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container transport along Srinagar Jammu highway">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weather-sealed container transport along Srinagar Jammu highway">
             <div class="srn-caption">Heavy-duty weather-sealed containerized vehicles built to negotiate steep mountain highways safely</div>
         </div>
     </section>
@@ -518,7 +518,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-srinagar';
         </div>
 
         <div class="srn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Srinagar">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly in Srinagar">
             <div class="srn-caption">Systematic room-by-room unpacking, furniture assembly, and placement at destination residence</div>
         </div>
     </section>
@@ -602,7 +602,7 @@ $canonical_url = SITE_BASE_URL . '/packers-and-movers-in-srinagar';
     "name": "Shree Ashirwad Packers and Movers Srinagar",
     "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9334812297",
+    "telephone": "+91 9835565233",
     "priceRange": "₹5,000 - ₹48,000",
     "address": {
         "@type": "PostalAddress",

@@ -278,7 +278,7 @@ function render_seo_tags($page_identifier = 'home') {
         }
       ],
       "sameAs": [
-        "https://share.google/ThfGaS541NwFKVsQZ",
+        "https://www.google.com/maps?cid=17894179374492933119",
         "https://shreeashirwadpackersandmovers.com/",
         "<?php echo SOCIAL_FACEBOOK; ?>",
         "<?php echo SOCIAL_TWITTER; ?>",
@@ -291,8 +291,8 @@ function render_seo_tags($page_identifier = 'home') {
         "ratingValue": "4.9",
         "bestRating": "5",
         "worstRating": "1",
-        "ratingCount": "664",
-        "reviewCount": "664"
+        "ratingCount": "703",
+        "reviewCount": "703"
       },
       "review": [
         {

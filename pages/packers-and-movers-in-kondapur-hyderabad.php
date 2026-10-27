@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kondapur-hyderabad";
         "name": "Shree Ashirwad Packers and Movers Kondapur",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹54,000",
         "address": {
             "@type": "PostalAddress",
@@ -513,7 +513,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kondapur-hyderabad";
         <h1>Packers and Movers in Kondapur Hyderabad</h1>
         <p>Certified ISO 9001:2015 relocation services, luxury apartment moving, corporate shifting & vehicle carrier services near Botanical Garden, Sarath City Capital Mall & Gachibowli junction.</p>
         <div class="kdp-btn-wrap">
-            <a href="tel:+919334404050" class="kdp-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="kdp-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kdp-btn-secondary">Check Rate Calculator</a>
         </div>
     </header>
@@ -535,7 +535,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kondapur-hyderabad";
         </div>
 
         <div class="kdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Kondapur Hyderabad loading high-rise apartment items" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in Kondapur Hyderabad loading high-rise apartment items" width="580" height="380" loading="lazy">
             <div class="kdp-image-caption">Figure 1: High-rise apartment goods loading and common area protective padding in Kondapur, Hyderabad.</div>
         </div>
 
@@ -585,7 +585,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kondapur-hyderabad";
         </div>
 
         <div class="kdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office workstation and IT equipment packing in Kondapur Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office workstation and IT equipment packing in Kondapur Hyderabad" width="580" height="380" loading="lazy">
             <div class="kdp-image-caption">Figure 2: Systematic IT equipment labeling and workstation protective wrapping in Kondapur.</div>
         </div>
     </section>
@@ -646,7 +646,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kondapur-hyderabad";
         </table>
 
         <div class="kdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture packing and corner padding in Kondapur Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture packing and corner padding in Kondapur Hyderabad" width="580" height="380" loading="lazy">
             <div class="kdp-image-caption">Figure 3: High-density protective foam padding and stretch wrap applied to fine wooden furniture.</div>
         </div>
     </section>
@@ -690,7 +690,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kondapur-hyderabad";
         </div>
 
         <div class="kdp-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Kondapur Hyderabad" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container transport truck for long distance moving from Kondapur Hyderabad" width="580" height="380" loading="lazy">
             <div class="kdp-image-caption">Figure 4: GPS-tracked, sealed container trucks ensuring safe inter-state transit from Kondapur.</div>
         </div>
     </section>
@@ -778,7 +778,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kondapur-hyderabad";
         <h3>Book Your Kondapur Relocation with Verified Experts</h3>
         <p>Contact Shree Ashirwad Packers and Movers today for a free on-site survey and transparent, guaranteed moving quote with zero hidden surprises.</p>
         <div class="kdp-btn-wrap">
-            <a href="tel:+919334404050" class="kdp-btn-primary">Call Desk: +91 9334404050</a>
+            <a href="tel:+919835565233" class="kdp-btn-primary">Call Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="kdp-btn-secondary">Check Rate Calculator</a>
         </div>
     </section>

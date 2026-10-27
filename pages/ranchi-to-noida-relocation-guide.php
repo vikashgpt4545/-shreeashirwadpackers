@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Noida Relocation Guide | Gated Society Movers | Call 9708579999</title>
-    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Noida & Greater Noida. High-rise RWA protocols, Yamuna Expressway route, rates, and packaging by Shree Ashirwad Packers. Call 9708579999.">
+    <title>Ranchi to Noida Relocation Guide | Gated Society Movers | Call 9835565233</title>
+    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Noida & Greater Noida. High-rise RWA protocols, Yamuna Expressway route, rates, and packaging by Shree Ashirwad Packers. Call 9835565233.">
     <meta name="keywords" content="ranchi to noida packers and movers, moving from ranchi to noida, household shifting ranchi to greater noida, yamuna expressway packers ranchi noida, cost of movers ranchi noida, shree ashirwad packers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-noida-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers NCR Expressway Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-noida-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>Crucially for relocating families, moving to Noida from the east bypasses Delhi city borders completely. Exiting the Yamuna Expressway at Pari Chowk or the Knowledge Park interchange brings our trucks directly into Noida and Greater Noida residential sectors via the Noida-Greater Noida Expressway, cutting journey times down to a swift 34 to 42 hours with zero MCD Green Tax friction.</p>
                 </div>
                 <div class="rnrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck delivering household goods from Ranchi to Noida" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container truck delivering household goods from Ranchi to Noida" loading="lazy">
                 </div>
             </div>
 
@@ -279,7 +279,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Mastering Noida High-Rise Gated Society Move-In Protocols</h2>
             <div class="rnrg-grid-2">
                 <div class="rnrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High rise apartment moving crew loading residential cargo for Noida gated societies" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High rise apartment moving crew loading residential cargo for Noida gated societies" loading="lazy">
                 </div>
                 <div>
                     <p>Unlike traditional independent houses, Noida and Greater Noida's residential landscape is dominated by high-rise gated societies housing hundreds of families per tower. Resident Welfare Associations (RWAs) and Facility Management Companies enforce strict move-in guidelines:</p>
@@ -399,7 +399,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </ul>
                 </div>
                 <div class="rnrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons delivered safely to Noida high rise apartment" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons delivered safely to Noida high rise apartment" loading="lazy">
                 </div>
             </div>
         </section>

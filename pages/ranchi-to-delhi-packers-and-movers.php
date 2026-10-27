@@ -169,7 +169,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -993,7 +993,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
 
           <!-- Verified Image Banner 1 -->
           <div style="margin: 30px auto; max-width: 820px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Delhi Packers and Movers Sealed Container Truck on Highway" style="width: 100%; max-height: 380px; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Delhi Packers and Movers Sealed Container Truck on Highway" style="width: 100%; max-height: 380px; object-fit: cover; display: block;" loading="lazy">
             <div style="background: #0f223d; color: #cbd5e1; padding: 12px 20px; font-size: 0.88rem; text-align: center;">
               Shree Ashirwad Dedicated Heavy-Gauge Closed Container Fleet Operating Daily on Ranchi &rarr; Delhi Grand Trunk Corridor
             </div>
@@ -1149,7 +1149,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
 
           <!-- Verified Image Banner 2 -->
           <div style="margin: 30px auto; max-width: 820px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading for Ranchi to Delhi NCR Relocation" style="width: 100%; max-height: 380px; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading for Ranchi to Delhi NCR Relocation" style="width: 100%; max-height: 380px; object-fit: cover; display: block;" loading="lazy">
             <div style="background: #0f223d; color: #cbd5e1; padding: 12px 20px; font-size: 0.88rem; text-align: center;">
               Enclosed Hydraulic Multi-Car Carrier Loading Hatchbacks, Sedans & SUVs from Ranchi for Delhi NCR Delivery
             </div>

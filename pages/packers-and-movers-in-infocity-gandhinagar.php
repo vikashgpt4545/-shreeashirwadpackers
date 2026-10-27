@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Infocity Gandhinagar",
         "image": "https://www.shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-infocity-gandhinagar",
-        "telephone": "+91 9122114455",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -422,7 +422,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we have engineered dedicated moving protocols tailored specifically to the requirements of the IT sector. Relocating technology professionals and enterprise offices involves distinct operational challenges that generic movers are ill-equipped to manage. Sensitive high-end computing equipment, enterprise server racks, dual-monitor workstations, specialized ergonomic chairs, and expensive home automation systems require anti-static packaging materials, shock-dampening cushioning, and rigorous asset tagging to guarantee flawless physical and operational integrity.</p>
 
             <div class="ifc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Corporate and Residential Shifting in Infocity Gandhinagar">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Corporate and Residential Shifting in Infocity Gandhinagar">
                 <div class="ifc-image-caption">Disciplined corporate and residential goods handling at Infocity commercial towers and residential complexes.</div>
             </div>
 
@@ -545,7 +545,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
 
             <div class="ifc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Anti-Static IT and Household Electronics Packing at Infocity">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Anti-Static IT and Household Electronics Packing at Infocity">
                 <div class="ifc-image-caption">Meticulous anti-static multi-layer packaging for electronics, monitors, and fragile household items.</div>
             </div>
 
@@ -633,7 +633,7 @@ require_once __DIR__ . '/../includes/config.php';
             <p>Every home and corporate move in Infocity follows our proven six-stage moving framework to ensure complete safety, minimal fatigue, and total operational reliability:</p>
 
             <div class="ifc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Container Fleet for Tech Shifting in Infocity Gandhinagar">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Container Fleet for Tech Shifting in Infocity Gandhinagar">
                 <div class="ifc-image-caption">Dedicated sealed all-weather container fleet ensuring secure transit for computing hardware and household goods.</div>
             </div>
 
@@ -665,7 +665,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
 
             <div class="ifc-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Complete System Setup and Furniture Unpacking in Infocity Residence">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Complete System Setup and Furniture Unpacking in Infocity Residence">
                 <div class="ifc-image-caption">Systematic unpacking, furniture reassembly, and debris clearing for instant functionality.</div>
             </div>
         </div>

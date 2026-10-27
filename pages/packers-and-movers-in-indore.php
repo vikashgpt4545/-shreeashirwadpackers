@@ -32,7 +32,7 @@ $state_name = 'Madhya Pradesh';
     "name": "Shree Ashirwad Packers and Movers Indore",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-indore",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -410,7 +410,7 @@ $state_name = 'Madhya Pradesh';
           <p>Shree Ashirwad Packers and Movers brings over 16 years of certified industry leadership to Indore. Our trained relocation specialists combine deep street-level expertise across all 85 municipal wards of Indore with international standard 6-tier defensive packaging methods. Whether shifting high-value electronics, fragile glassware, modular wooden furniture, or private motor vehicles, we ensure complete protection and on-time delivery. Connected via our central network linking national transit corridors, we link Indore seamlessly to Mumbai, Delhi NCR, Ahmedabad, Pune, and our corporate headquarters via <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338ca; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a>.</p>
         </div>
         <div class="ind-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High Rise Apartment Loading in Indore" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High Rise Apartment Loading in Indore" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -452,7 +452,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="ind-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Certified Household Packaging in Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Certified Household Packaging in Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -609,7 +609,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="ind-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Fleet in Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Fleet in Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -645,7 +645,7 @@ $state_name = 'Madhya Pradesh';
       </div>
 
       <div class="ind-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Indore" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Indore" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -676,7 +676,7 @@ $state_name = 'Madhya Pradesh';
     <div class="ind-cta-bar">
       <h3>Ready for a Seamless Moving Experience in Indore?</h3>
       <p>Contact our certified Indore relocation team today for a complimentary on-site survey and transparent itemized quote.</p>
-      <a href="tel:+919334484001" class="ind-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="ind-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="ind-section">

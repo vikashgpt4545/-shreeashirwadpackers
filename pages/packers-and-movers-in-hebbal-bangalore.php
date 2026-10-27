@@ -36,7 +36,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-hebbal-
     "name": "Shree Ashirwad Packers and Movers Hebbal Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+919334404052",
+    "telephone": "+91 9835565233",
     "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
@@ -402,7 +402,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-hebbal-
     <div class="hbl-hero-content">
       <h1 class="hbl-hero-title">Packers and Movers in Hebbal Bangalore</h1>
       <p class="hbl-hero-subtitle">Premium Condominium, Villa &amp; Corporate Relocation Across Hebbal Lake, Bellary Road, Godrej Woodsman &amp; Manyata Tech Park</p>
-      <a href="tel:+919334404052" class="hbl-hero-cta">Get Free Instant Quote: +91 9334404052</a>
+      <a href="tel:+919835565233" class="hbl-hero-cta">Get Free Instant Quote: +91 9835565233</a>
     </div>
   </header>
 
@@ -417,7 +417,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-hebbal-
       <p class="hbl-p">Managing household shifting in Hebbal requires exceptional logistical coordination. The intersection of Bellary Road and Outer Ring Road creates intense vehicular circulation, while luxury high-rise condominium complexes impose stringent moving guidelines governing security clearance, freight elevator reservations, and loading dock access. At Shree Ashirwad Packers and Movers, our dedicated Hebbal relocation unit provides tailored shifting services engineered to meet these exacting standards.</p>
 
       <div class="hbl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Hebbal Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Hebbal Bangalore" width="580" height="387" loading="lazy">
         <div class="hbl-image-caption">Systematic truck loading and dedicated container transit engineered for Hebbal luxury condominiums.</div>
       </div>
 
@@ -453,7 +453,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-hebbal-
       </div>
 
       <div class="hbl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrapping for Hebbal apartment relocation" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective bubble wrapping for Hebbal apartment relocation" width="580" height="387" loading="lazy">
         <div class="hbl-image-caption">High-density bubble wrapping and heavy-duty corrugated cartons protecting delicate household items.</div>
       </div>
 
@@ -477,7 +477,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-hebbal-
       <p class="hbl-p">For gated developments situated along internal arterial roads such as Hebbal Kempapura, Thanisandra Main Road, and Coffee Board Layout, we deploy specialized 14-ft to 17-ft medium closed container trucks equipped with hydraulic tail lifts, allowing smooth entry into basement ramps and parking bays without blocking resident car lanes.</p>
 
       <div class="hbl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture assembly and packing in Hebbal Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture assembly and packing in Hebbal Bangalore" width="580" height="387" loading="lazy">
         <div class="hbl-image-caption">Expert carpenter disassembly of modular wardrobes, bed frames, and study tables for safe transit.</div>
       </div>
 
@@ -547,7 +547,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-hebbal-
       <p class="hbl-p">Moving costs are calculated based on overall item volume, packaging materials used, floor level accessibility, and total travel distance. For an instant verified estimate customized to your specific inventory, explore our online <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">packers and movers charges calculator</a>.</p>
 
       <div class="hbl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hebbal Bangalore" width="580" height="387" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hebbal Bangalore" width="580" height="387" loading="lazy">
         <div class="hbl-image-caption">Dedicated sealed container vehicles guaranteeing secure door-to-door transit for Hebbal residents.</div>
       </div>
 

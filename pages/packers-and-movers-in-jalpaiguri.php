@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalpaiguri",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -540,7 +540,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="jpg-body-p">Whether you are a judicial officer transferring to the High Court Circuit Bench, an engineering professor relocating near Mohitnagar, a tea garden superintendent moving between estate bungalows in the Dooars corridor, or a family transitioning between residential neighborhoods near Kadamtala and DBC Road, Shree Ashirwad Packers and Movers delivers fully synchronized, safe, and stress-free relocation solutions tailored to the town's distinct topography.</p>
 
                 <div class="jpg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Jalpaiguri transport vehicle" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Jalpaiguri transport vehicle" width="580" height="380" loading="lazy">
                     <div class="jpg-image-caption">Systematic loading and cargo lashing in covered container vehicles by Shree Ashirwad Packers in Jalpaiguri.</div>
                 </div>
 
@@ -592,7 +592,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="jpg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Jalpaiguri" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Jalpaiguri" width="580" height="380" loading="lazy">
                     <div class="jpg-image-caption">High-density air bubble wraps and 5-ply corrugated carton encasement protecting delicate home goods in Jalpaiguri.</div>
                 </div>
 
@@ -656,7 +656,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="jpg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Jalpaiguri home" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Jalpaiguri home" width="580" height="380" loading="lazy">
                     <div class="jpg-image-caption">Professional furniture disassembling and edge protection for modular double beds and wooden wardrobes in Jalpaiguri.</div>
                 </div>
 
@@ -707,7 +707,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="jpg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Jalpaiguri" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Jalpaiguri" width="580" height="380" loading="lazy">
                     <div class="jpg-image-caption">Punctual arrival and courteous doorstep delivery service by Shree Ashirwad Packers and Movers in Jalpaiguri.</div>
                 </div>
 
@@ -762,9 +762,9 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="jpg-body-p">Speak directly with our local Jalpaiguri operations supervisor for an instant price quote and scheduled on-site inspection.</p>
                 <div class="jpg-highlight-box">
                     <div class="jpg-highlight-title">Direct Helpline</div>
-                    <p class="jpg-highlight-desc"><strong>+91 93344 60424</strong><br>Available 7 AM - 9:30 PM Daily</p>
+                    <p class="jpg-highlight-desc"><strong>+91 9835565233</strong><br>Available 7 AM - 9:30 PM Daily</p>
                 </div>
-                <a href="tel:+919334460424" class="jpg-cta-button">Call Now for Free Quote</a>
+                <a href="tel:+919835565233" class="jpg-cta-button">Call Now for Free Quote</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jpg-cta-button" style="background: #1e3a8a; margin-top: 10px;">Calculate Tariff Online</a>
             </div>
 

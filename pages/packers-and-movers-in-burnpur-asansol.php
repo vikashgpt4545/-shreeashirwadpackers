@@ -285,7 +285,7 @@
         "name": "Shree Ashirwad Packers and Movers Burnpur Asansol",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-burnpur-asansol",
-        "telephone": "+91 9334812300",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -510,7 +510,7 @@
 
     <!-- Visual Image 1 -->
     <div class="bnp-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded professionally into covered container truck in Burnpur Asansol">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded professionally into covered container truck in Burnpur Asansol">
         <div class="bnp-img-caption">Figure 1: Dedicated containerized loading operations for residential and industrial relocations across Burnpur.</div>
     </div>
 
@@ -558,7 +558,7 @@
 
     <!-- Visual Image 2 -->
     <div class="bnp-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Airtight multi-layer bubble wrap and sturdy box packaging for delicate household goods in Burnpur">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Airtight multi-layer bubble wrap and sturdy box packaging for delicate household goods in Burnpur">
         <div class="bnp-img-caption">Figure 2: Multi-layer protective packaging for fragile glassware, electronics, kitchen appliances, and furniture.</div>
     </div>
 
@@ -611,7 +611,7 @@
 
     <!-- Visual Image 3 -->
     <div class="bnp-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert carpenters dismantling double bed and wooden furniture in Burnpur">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert carpenters dismantling double bed and wooden furniture in Burnpur">
         <div class="bnp-img-caption">Figure 3: Professional carpentry technicians disassembling modular wooden furniture for scratch-resistant transport.</div>
     </div>
 
@@ -683,7 +683,7 @@
 
     <!-- Visual Image 4 -->
     <div class="bnp-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
         <div class="bnp-img-caption">Figure 4: Punctual door-to-door delivery and room placement service conducted by our trained handling staff.</div>
     </div>
 

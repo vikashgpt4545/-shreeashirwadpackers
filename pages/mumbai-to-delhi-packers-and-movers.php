@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Premier interstate relocation services from Mumbai to Delhi NCR specializing in household shifting, corporate office transfers, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹6,000 - ₹72,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 1,420 km arterial corridor between Mumbai, Maharashtra and Delhi NCR represents one of India's most critical interstate relocation lifelines. Connecting the country's commercial capital to the national political and administrative capital involves crossing four major states: Maharashtra, Gujarat, Rajasthan, and Haryana, before arriving in Delhi. Whether you are executing a corporate transfer from Bandra-Kurla Complex (BKC) to Gurugram's Cyber City or moving your family home from Powai or Andheri to South Delhi or Noida, Shree Ashirwad Packers and Movers delivers an exemplary relocation experience.</p>
     
     <div class="mbd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck for Mumbai to Delhi long distance transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck for Mumbai to Delhi long distance transit" loading="lazy">
       <div class="mbd-img-caption">Dedicated sealed container trucks engineered for high-speed, dustproof transit along NE4 and NH48.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>A 1,420 km transit across varying weather conditions—from Mumbai's humid coastal climate through dry arid expanses of Rajasthan to northern temperatures—demands engineered packaging that resists thermal fluctuations, road vibrations, and micro-abrasions.</p>
 
     <div class="mbd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for long distance interstate transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer protective packing for long distance interstate transit" loading="lazy">
       <div class="mbd-img-caption">Multi-layer protective packing ensuring zero scratches or transit damage across 1,420 km.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal car or motorcycle across 1,420 km of national highways can lead to severe physical exhaustion, stone chip damage, and unnecessary mechanical wear. Our dedicated vehicle shipping services provide a secure, cost-effective alternative.</p>
 
     <div class="mbd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Covered hydraulic car carrier for interstate vehicle transport" loading="lazy">
       <div class="mbd-img-caption">Covered hydraulic car carriers ensuring damage-free car and motorcycle transport between Mumbai and Delhi.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="mbd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Specialized glassware packing for safe interstate delivery" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Specialized glassware packing for safe interstate delivery" loading="lazy">
       <div class="mbd-img-caption">Fragile glassware box packing with customized cushioning for safe doorstep delivery in Delhi NCR.</div>
     </div>
   </section>

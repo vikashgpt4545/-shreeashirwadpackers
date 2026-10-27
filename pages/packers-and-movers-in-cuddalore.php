@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-cuddalore";
         "name": "Shree Ashirwad Packers and Movers Cuddalore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-cuddalore";
         <p>Relocating in Cuddalore requires specialized coastal logistics engineering. The maritime environment demands humidity-proof and anti-saline wrapping materials to safeguard electronics, home appliances, and antique woodwork from corrosive sea breezes. Furthermore, serving heritage residential streets in Thirupathiripuliyur, Cuddalore Old Town (OT), Semmandalam, and Manjakuppam (the district administrative centre) demands agile, compact vehicles alongside experienced moving personnel. Shree Ashirwad Packers and Movers brings more than 13 years of regional expertise, delivering flawless, zero-damage relocations for coastal residents, chemical plant executives, and trading enterprises.</p>
 
         <div class="cdl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Cuddalore Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Cuddalore Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="cdl-image-caption">Professional household loading and apartment shifting operations in Cuddalore.</div>
         </div>
 
@@ -583,7 +583,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-cuddalore";
         </div>
 
         <div class="cdl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Cuddalore Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Cuddalore Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="cdl-image-caption">Corporate office equipment and commercial apparatus relocation by Shree Ashirwad in Cuddalore.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-cuddalore";
         <p>Our moving teams employ a comprehensive four-tier coastal defense system. Polished teak and rosewood articles are first wrapped in breathable cotton blankets, encased in heavy-gauge air bubble film, reinforced with corrugated edge corner protectors, and sealed with waterproof stretch film. In addition, moisture-absorbing silica gel pouches are placed inside electronics and metal goods cartons to prevent saline corrosion.</p>
 
         <div class="cdl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Cuddalore Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Cuddalore Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="cdl-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Cuddalore.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-cuddalore";
         </ol>
 
         <div class="cdl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Cuddalore Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Cuddalore Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="cdl-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Cuddalore corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-cuddalore";
     <div class="cdl-cta-box">
         <h3>Move Safely in Cuddalore with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero hidden fees. Licensed, fully insured relocation professionals ready to assist your household or enterprise today.</p>
-        <a href="tel:+919334404050" class="cdl-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="cdl-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

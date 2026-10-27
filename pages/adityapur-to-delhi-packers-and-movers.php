@@ -747,7 +747,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-del-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Adityapur to Delhi Relocation" title="Intercity Moving Truck Loading">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading for Adityapur to Delhi Relocation" title="Intercity Moving Truck Loading">
                 </div>
             </div>
         </div>
@@ -876,7 +876,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKAGING DEFENSE -->
             <div class="adi-del-two-col">
                 <div class="adi-del-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Cartons Packing for Adityapur to Delhi Shifting" title="Protective Bubble Wrap Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Cartons Packing for Adityapur to Delhi Shifting" title="Protective Bubble Wrap Packing">
                 </div>
                 <div class="adi-del-two-col-text">
                     <h2>Advanced 5-Layer Defensive Packaging Standards</h2>
@@ -944,14 +944,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-del-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling for Adityapur to Delhi Move" title="Furniture Dismantling and Reassembly">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double Bed Furniture Dismantling for Adityapur to Delhi Move" title="Furniture Dismantling and Reassembly">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & CARRIER VEHICLE -->
             <div class="adi-del-two-col" style="margin-top: 45px;">
                 <div class="adi-del-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Adityapur to Delhi Shifting" title="Car Carrier Transport">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Adityapur to Delhi Shifting" title="Car Carrier Transport">
                 </div>
                 <div class="adi-del-two-col-text">
                     <h2>Full Doorstep Coverage Across Adityapur &amp; Delhi NCR</h2>

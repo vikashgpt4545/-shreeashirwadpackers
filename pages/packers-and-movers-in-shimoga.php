@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-shimoga";
         "name": "Shree Ashirwad Packers and Movers Shimoga",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -515,7 +515,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Shimoga (Shivamogga)</h1>
         <p>Premium residential shifting, Bhadravati industrial logistics, Malnad plantation transfers, and automobile carrier across Vinoba Nagar, Gopala Gowda Extension, Vidyanagar, and VISL Township.</p>
         <div class="smg-btn-wrap">
-            <a href="tel:+919334404050" class="smg-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="smg-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="smg-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -543,7 +543,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="smg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Shimoga" title="Household relocation in Shimoga">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Shimoga" title="Household relocation in Shimoga">
             <p class="smg-image-caption">Comprehensive household packing and organized labeling for residential homes in Shimoga (Shivamogga).</p>
         </div>
     </section>
@@ -579,7 +579,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Large household electronics—including double-door frost-free refrigerators, curved smart televisions, and front-load washing machines—are secured with internal drum transit locks, thick quilted moving blankets, and heavy-gauge shrink wrap, ensuring 100% operational safety upon arrival.</p>
 
         <div class="smg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Shimoga" title="Furniture packing in Shimoga">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Shimoga" title="Furniture packing in Shimoga">
             <p class="smg-image-caption">Multi-tier bubble wrapping and edge guards applied to premium furniture in Shimoga.</p>
         </div>
     </section>
@@ -620,7 +620,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Shimoga residents and students transferring to Bangalore, Mysore, Pune, or other interstate destinations rely on our dedicated vehicle transit solutions. We pack motorcycles, Royal Enfield bikes, and scooters using dense foam padding on fuel tanks, side mirrors, and exhausts. Vehicles are secured with wheel chocks and heavy-duty ratchet straps inside covered carriers, ensuring scratch-free delivery with full transit insurance coverage.</p>
 
         <div class="smg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Shimoga" title="Delicate packing in Shimoga">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Shimoga" title="Delicate packing in Shimoga">
             <p class="smg-image-caption">Custom bubble wrapping and heavy-duty box crating for fragile glassware and delicate kitchenware.</p>
         </div>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="smg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Shimoga" title="Safe transit truck in Shimoga">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck in Shimoga" title="Safe transit truck in Shimoga">
             <p class="smg-image-caption">Weatherproof sealed container vehicles ensuring safe, dust-free, and rain-protected transit across Karnataka.</p>
         </div>
     </section>

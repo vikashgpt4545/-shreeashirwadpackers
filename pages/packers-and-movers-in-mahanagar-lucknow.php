@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Mahanagar Lucknow",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="mhg-hero-title">Packers and Movers in Mahanagar Lucknow</h1>
         <p class="mhg-hero-subtitle">Bespoke residential shifting across Sectors A, B, C, Mandir Marg, and Gole Market. Expert handling for luxury bungalows, antique wooden furniture, and express interstate logistics.</p>
         <div class="mhg-cta-group">
-            <a href="tel:+919334404050" class="mhg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mhg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mhg-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mhg-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we have earned the trust of Mahanagar residents over a decade of distinguished service. Moving in Mahanagar requires exceptional delicacy: large ancestral bungalows often house heavy handcrafted sheesham and teakwood furniture, delicate Awadhi chandeliers, valuable art collections, and multi-appliance kitchens. Our elite relocation crew treats every household item with the utmost precision and care.</p>
 
         <div class="mhg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Mahanagar Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Mahanagar Lucknow" loading="lazy">
             <p class="mhg-image-caption">Dedicated residential loading and bungalow shifting operations across Mahanagar sectors</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mhg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap packing in Mahanagar Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap packing in Mahanagar Lucknow" loading="lazy">
             <p class="mhg-image-caption">Three-layer bubble wrap and heavy corrugated sheets protect fragile electronics and chinaware</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mhg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling double bed in Mahanagar Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Carpenters dismantling double bed in Mahanagar Lucknow" loading="lazy">
             <p class="mhg-image-caption">Certified carpenters safely dismantle and reassemble modular double beds and heavy cabinetry</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mhg-intro-p">Furthermore, easy access via the University Road and IT Chauraha leads directly to Sitapur Road (NH-24) and the trans-Gomti Ring Road network. This advantageous road positioning enables our linehaul container trucks to bypass central commercial congestion and hit national highway corridors within minutes of dispatch.</p>
 
         <div class="mhg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mahanagar Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Mahanagar Lucknow" loading="lazy">
             <p class="mhg-image-caption">Weatherproof enclosed container trucks guarantee reliable, timely door-to-door deliveries</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Experience Premier Shifting in Mahanagar</h3>
         <p>Contact our Mahanagar relocation specialists today for an upfront quote, personalized survey, and damage-free moving service.</p>
         <div class="mhg-cta-group">
-            <a href="tel:+919334404050" class="mhg-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mhg-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mhg-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

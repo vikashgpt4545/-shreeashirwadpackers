@@ -28,7 +28,7 @@ require_once __DIR__ . '/../includes/config.php';
         "description": "Licensed long-distance household packing, tech corporate shifting, and vehicle transportation from Bengaluru, Karnataka to Noida, Uttar Pradesh.",
         "url": "<?php echo SITE_BASE_URL; ?>/bangalore-to-noida-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
@@ -336,7 +336,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our dedicated transport network navigates the premier national transport corridors connecting South India with the National Capital Region via National Highway 44 (NH44) and the Yamuna Expressway. Traversing Andhra Pradesh, Telangana, Maharashtra, Madhya Pradesh, and Uttar Pradesh, our sealed container trucks ensure that household consignments and vehicles arrive safely at their destination without mid-route handling or weather exposure.</p>
 
         <div class="bgnd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Noida Container Truck Transit" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Noida Container Truck Transit" width="580" height="387" loading="lazy">
             <div class="bgnd-img-caption">Sealed container trucks providing weatherproof protection across the 2,150 km Bangalore-Noida corridor.</div>
         </div>
 
@@ -359,7 +359,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>From fragile dining glassware, bone china crockery, and luxury art pieces to heavy modular wardrobes and expensive IT workstations, every item is packed according to strict international relocation standards before loading into our specialized container fleet.</p>
 
         <div class="bgnd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Packing for Bangalore to Noida Move" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household Packing for Bangalore to Noida Move" width="580" height="387" loading="lazy">
             <div class="bgnd-img-caption">Heavy-duty bubble wrap, foam corner guards, and 5-ply cartons ensure zero scratch transit.</div>
         </div>
 
@@ -446,7 +446,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Prior to loading in Bengaluru, our automotive inspection specialist performs a 20-point digital inspection documenting odometer readings, fuel levels, and current exterior condition. The vehicle is secured onto specialized wheel-chock tracks using high-tensile ratchet straps, preventing any lateral movement throughout the interstate journey.</p>
 
         <div class="bgnd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Bangalore to Noida" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Vehicle Carrier Bangalore to Noida" width="580" height="387" loading="lazy">
             <div class="bgnd-img-caption">Hydraulic enclosed carriers ensure secure, scratch-free automobile and motorcycle transit.</div>
         </div>
 
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="bgnd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Noida" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Noida" width="580" height="387" loading="lazy">
             <div class="bgnd-img-caption">Complete destination unloading, room-specific placement, furniture assembly, and packing waste clearance.</div>
         </div>
     </section>

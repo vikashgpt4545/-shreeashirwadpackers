@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Hinoo Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-hinoo-ranchi",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -538,8 +538,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Packers and Movers in Hinoo Ranchi</h1>
         <p>Premium household shifting, corporate executive relocations, aviation staff moves, and automobile transport in Hinoo, Ranchi. Expert multi-layer packaging, modern enclosed pickup fleet, and trained material handlers serving Shukla Colony, Birsa Chowk, Indira Palace, Airport Road, and Hinoo Bridge with prompt, guaranteed service.</p>
         <div class="hl-hno-cta-btns">
-          <a href="tel:+919431170366" class="hl-hno-btn-primary">Call Now: +91 94311 70366</a>
-          <a href="https://api.whatsapp.com/send?phone=919431170366&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Hinoo%20Ranchi." class="hl-hno-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:+919835565233" class="hl-hno-btn-primary">Call Now: +91 98355 65233</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Hinoo%20Ranchi." class="hl-hno-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="hl-hno-quote-card">
@@ -584,7 +584,7 @@ include_once __DIR__ . '/../includes/config.php';
       <p>Due to its strategic location, Hinoo is home to a dynamic population of commercial airline pilots, aviation officials, senior corporate executives, defense and paramilitary officers, medical consultants, and established business families. Moving residence in Hinoo demands superior punctuality, flexible round-the-clock scheduling, and defensive packaging standards that match the fast-paced lifestyle of its residents. As Ranchi's most trusted <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers Ranchi</a>, Shree Ashirwad Packers and Movers operates a dedicated logistics center within Hinoo, ensuring rapid on-site surveys, premium packaging materials, and swift zero-damage transportation.</p>
 
       <div class="hl-hno-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Moving Truck Serving Hinoo Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Moving Truck Serving Hinoo Ranchi">
         <div class="hl-hno-img-caption">Dedicated enclosed fleet providing fast and secure household shifting across Hinoo and Ranchi city.</div>
       </div>
 
@@ -699,7 +699,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="hl-hno-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Packaging for Hinoo Ranchi Home Shifting">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Packaging for Hinoo Ranchi Home Shifting">
         <div class="hl-hno-img-caption">Multi-tier protective wrapping of fine furniture to prevent scratches and moisture penetration.</div>
       </div>
     </article>
@@ -738,7 +738,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="hl-hno-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Safe Transport in Hinoo Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Safe Transport in Hinoo Ranchi">
         <div class="hl-hno-img-caption">Custom shock-resistant packing and crating for motorcycles and scooters in Hinoo.</div>
       </div>
     </article>
@@ -778,7 +778,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="hl-hno-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading Crew Handling Relocations in Hinoo Ranchi">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Experienced Loading Crew Handling Relocations in Hinoo Ranchi">
         <div class="hl-hno-img-caption">Dedicated trained material handlers delivering scratch-free, punctual relocation services in Hinoo.</div>
       </div>
     </article>

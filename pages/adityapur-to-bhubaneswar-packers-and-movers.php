@@ -743,7 +743,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-bhu-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing for Adityapur to Bhubaneswar Move" title="Complete Household Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing for Adityapur to Bhubaneswar Move" title="Complete Household Packing">
                 </div>
             </div>
         </div>
@@ -885,7 +885,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </ul>
                 </div>
                 <div class="adi-bhu-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing for Adityapur to Bhubaneswar Move" title="Fragile Glassware Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing for Adityapur to Bhubaneswar Move" title="Fragile Glassware Packing">
                 </div>
             </div>
         </div>
@@ -928,7 +928,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: TRUCK LOADING & SUPERVISION -->
             <div class="adi-bhu-two-col" style="margin-top: 45px;">
                 <div class="adi-bhu-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck for Adityapur to Bhubaneswar Shifting" title="Door-to-Door Delivery Truck">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck for Adityapur to Bhubaneswar Shifting" title="Door-to-Door Delivery Truck">
                 </div>
                 <div class="adi-bhu-two-col-text">
                     <h2>Containerized Interstate Fleet &amp; Cargo Supervision</h2>
@@ -962,7 +962,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-bhu-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Motorcycle Safe Transit Packing for Bhubaneswar Move" title="Scooter and Motorcycle Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Motorcycle Safe Transit Packing for Bhubaneswar Move" title="Scooter and Motorcycle Packing">
                 </div>
             </div>
         </div>

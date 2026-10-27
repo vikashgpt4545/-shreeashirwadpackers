@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bidar";
         "name": "Shree Ashirwad Packers and Movers Bidar",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹50,000",
         "address": {
             "@type": "PostalAddress",
@@ -519,7 +519,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bidar";
         <h1>Packers and Movers in Bidar</h1>
         <p>Trusted Relocation Partner for Karnataka's Crown City, Indian Air Force Station Bidar, Naubad Industrial Zone & Tri-Junction Highway Corridors</p>
         <div class="bid-btn-wrap">
-            <a href="tel:+919334404050" class="bid-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="bid-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bid-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bidar";
         </div>
 
         <div class="bid-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Bidar Karnataka" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household Packing Services in Bidar Karnataka" width="580" height="380" loading="lazy">
             <p class="bid-image-caption">Certified packaging team packing household goods with export-grade materials in Bidar.</p>
         </div>
     </section>
@@ -587,7 +587,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bidar";
         </div>
 
         <div class="bid-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Bidar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping and Packing in Bidar" width="580" height="380" loading="lazy">
             <p class="bid-image-caption">Heavy wooden furniture padded with corrugated corner guards and shrink film to prevent scratches.</p>
         </div>
     </section>
@@ -651,11 +651,11 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bidar";
 
         <div class="bid-highlight-box">
             <h3>Calculate Your Exact Moving Tariff</h3>
-            <p>Our online calculation system calculates real-time shifting tariffs based on consignment volume, floor elevation, distance, and crating needs. Visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or contact our customer support team at +91 9334404050.</p>
+            <p>Our online calculation system calculates real-time shifting tariffs based on consignment volume, floor elevation, distance, and crating needs. Visit our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Shifting Tariff Calculator</a> or contact our customer support team at +91 9835565233.</p>
         </div>
 
         <div class="bid-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Bidriware Packing Bidar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Bidriware Packing Bidar" width="580" height="380" loading="lazy">
             <p class="bid-image-caption">Individual item wrapping and shock-absorbing cartons for delicate glassware and metal handicrafts in Bidar.</p>
         </div>
     </section>
@@ -696,7 +696,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-bidar";
         </div>
 
         <div class="bid-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Truck for Long-Haul Moves in Bidar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Truck for Long-Haul Moves in Bidar" width="580" height="380" loading="lazy">
             <p class="bid-image-caption">Weatherproof sealed container vehicle providing complete protection against dust and rain during transit.</p>
         </div>
     </section>

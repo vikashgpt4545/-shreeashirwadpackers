@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Karnal",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-karnal",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -460,7 +460,7 @@
       </div>
       <div>
         <div class="knl-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading in Karnal Haryana" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading in Karnal Haryana" width="580" height="386" loading="lazy">
           <p class="knl-image-caption">Systematic apartment loading and furniture cushioning in Karnal Smart City.</p>
         </div>
       </div>
@@ -556,7 +556,7 @@
       </div>
     </div>
     <div class="knl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover in Karnal Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Household appliances protective cover in Karnal Haryana" width="580" height="386" loading="lazy">
       <p class="knl-image-caption">Protective foam padding and heavy shrink wrap for home appliances in Karnal.</p>
     </div>
   </section>
@@ -592,7 +592,7 @@
       </div>
     </div>
     <div class="knl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Bike packing and vehicle shipping in Karnal Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Bike packing and vehicle shipping in Karnal Haryana" width="580" height="386" loading="lazy">
       <p class="knl-image-caption">Secure two-wheeler packaging and wheel stabilization for interstate transport from Karnal.</p>
     </div>
   </section>
@@ -628,7 +628,7 @@
       </div>
     </div>
     <div class="knl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container truck loading in Karnal Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Waterproof container truck loading in Karnal Haryana" width="580" height="386" loading="lazy">
       <p class="knl-image-caption">Heavy waterproof container trucks providing 100% weather-protected transit for Karnal cargo.</p>
     </div>
   </section>

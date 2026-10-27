@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Single Item and Luggage Transport in Ranchi
 $page_title = "Single Item & Luggage Transport in Ranchi | Affordable Mini Move from ₹499";
-$page_description = "Looking to move a single refrigerator, sofa, washing machine, bed, or luggage suitcases in Ranchi? Shree Ashirwad Packers offers quick, affordable single-item shifting & shared mini-truck transport. Call +91 9334812833.";
+$page_description = "Looking to move a single refrigerator, sofa, washing machine, bed, or luggage suitcases in Ranchi? Shree Ashirwad Packers offers quick, affordable single-item shifting & shared mini-truck transport. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-transport-ranchi";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
         "name": "Shree Ashirwad Packers and Movers - Small Move & Luggage Division",
         "image": "https://shreeashirwadpackers.com/images/household-appliances-protective-cover-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹499 - ₹3,500",
         "address": {
             "@type": "PostalAddress",
@@ -358,7 +358,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
     <section class="sit-hero-banner">
         <h1 class="sit-hero-title">Single Item & Luggage Transport in Ranchi</h1>
         <p class="sit-hero-subtitle">Fast, Low-Cost Shifting for Individual Appliances, Single Furniture, Baggage & Trunks. Local Doorstep Delivery within Ranchi & Shared Intercity Consignments.</p>
-        <a href="tel:+919334812833" class="sit-cta-btn">Book Small Move: +91 9334812833</a>
+        <a href="tel:+919835565233" class="sit-cta-btn">Book Small Move: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -374,7 +374,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
             </div>
             <div>
                 <div class="sit-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for single home appliances in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective packing for single home appliances in Ranchi" width="580" height="387">
                     <div class="sit-caption">Multi-layer protective bubble wrap and foam cushioning for single appliances</div>
                 </div>
             </div>
@@ -474,7 +474,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
         <div class="sit-grid-2">
             <div>
                 <div class="sit-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture wrapping for single-item relocation in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture wrapping for single-item relocation in Ranchi" width="580" height="387">
                     <div class="sit-caption">Thick protective stretch wrap and edge pads preventing furniture scratches</div>
                 </div>
             </div>
@@ -505,7 +505,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
             </div>
             <div>
                 <div class="sit-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Part-load shared truck container loading for luggage in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Part-load shared truck container loading for luggage in Ranchi" width="580" height="387">
                     <div class="sit-caption">Barcoded part-load consolidation ensuring zero mix-ups during transit</div>
                 </div>
             </div>
@@ -515,7 +515,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
         <div class="sit-grid-2">
             <div>
                 <div class="sit-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for small moves in Ranchi" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for small moves in Ranchi" width="580" height="387">
                     <div class="sit-caption">Prompt doorstep pickup and delivery across all Ranchi neighborhoods</div>
                 </div>
             </div>

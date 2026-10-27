@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Panipat",
     "image": "https://shreeashirwadpackers.com/images/professional-loading-crew-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-panipat",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹62,000",
     "address": {
       "@type": "PostalAddress",
@@ -460,7 +460,7 @@
       </div>
       <div>
         <div class="ppt-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Panipat Haryana" width="580" height="386" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional loading crew in Panipat Haryana" width="580" height="386" loading="lazy">
           <p class="ppt-image-caption">Trained loading crew executing systematic cargo handling in Panipat Haryana.</p>
         </div>
       </div>
@@ -556,7 +556,7 @@
       </div>
     </div>
     <div class="ppt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons in Panipat Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential relocation cartons in Panipat Haryana" width="580" height="386" loading="lazy">
       <p class="ppt-image-caption">Heavy-duty corrugated boxes and protective padding for Panipat household relocations.</p>
     </div>
   </section>
@@ -592,7 +592,7 @@
       </div>
     </div>
     <div class="ppt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial machinery and office shifting in Panipat Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial machinery and office shifting in Panipat Haryana" width="580" height="386" loading="lazy">
       <p class="ppt-image-caption">Specialized equipment rigging and industrial machinery handling in Panipat industrial zones.</p>
     </div>
   </section>
@@ -628,7 +628,7 @@
       </div>
     </div>
     <div class="ppt-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified moving truck in Panipat Haryana" width="580" height="386" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified moving truck in Panipat Haryana" width="580" height="386" loading="lazy">
       <p class="ppt-image-caption">Modern, GPS-enabled container truck fleet serving Panipat and GT Road interstate corridors.</p>
     </div>
   </section>

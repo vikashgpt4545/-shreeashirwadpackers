@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madurai";
         "name": "Shree Ashirwad Packers and Movers Madurai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madurai";
         <p>Relocating in Madurai requires deep geographic understanding and operational agility. Moving through the dense, vibrant lanes of the central temple precinct demands specialized compact feeder transport and handcart coordination during non-crowded hours. Conversely, servicing sprawling high-rise residential projects and commercial developments along the Ring Road, Mattuthavani, KK Nagar, and Anna Nagar requires heavy closed-container transport with hydraulic loading ramps. Shree Ashirwad Packers and Movers combines local street knowledge with enterprise-grade moving standards to deliver flawless relocation services across every sector of Madurai.</p>
 
         <div class="mdu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household relocation and goods loading in Madurai Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household relocation and goods loading in Madurai Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="mdu-image-caption">Professional household loading and apartment shifting operations in Madurai.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madurai";
         </div>
 
         <div class="mdu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate IT office equipment and workstation packing in Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate IT office equipment and workstation packing in Madurai" width="580" height="387" loading="lazy">
             <div class="mdu-image-caption">Corporate server rack protection and office equipment relocation by Shree Ashirwad in Madurai.</div>
         </div>
 
@@ -594,7 +594,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madurai";
         <p>Our expert moving crews utilize multi-tier defensive packing. Polished wood surfaces are first shielded with breathable soft cotton padding, wrapped in high-density air bubble wrap, reinforced with thick corrugated corner edge boards, and enveloped in tear-resistant stretch wrap. This four-layer defense protects against scratches, humidity fluctuations, and highway transit vibrations.</p>
 
         <div class="mdu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Madurai Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Madurai Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="mdu-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Madurai.</div>
         </div>
 
@@ -720,7 +720,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madurai";
         </ol>
 
         <div class="mdu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Madurai Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Madurai Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="mdu-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Madurai corridors.</div>
         </div>
     </section>
@@ -777,7 +777,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-madurai";
     <div class="mdu-cta-box">
         <h3>Move Safely in Madurai with Proven Moving Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero surprise costs. Licensed, fully insured moving specialists ready to assist your household or office relocation today.</p>
-        <a href="tel:+919334404050" class="mdu-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="mdu-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

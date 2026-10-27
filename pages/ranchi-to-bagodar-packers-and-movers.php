@@ -491,7 +491,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     <p>Our fleet consists of dedicated, weatherproof container vehicles built to absorb road bumps and vibrations. With trained loaders, skilled carpenters, and experienced drivers who know local entry permits and rural road navigation in Bagodar, your entire shifting process is completed on schedule within a single working day.</p>
                 </div>
                 <div class="ran2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading goods in Ranchi for Bagodar transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading goods in Ranchi for Bagodar transit" loading="lazy">
                 </div>
             </div>
         </div>
@@ -548,7 +548,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="ran2bag-container">
             <div class="ran2bag-two-col">
                 <div class="ran2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading and stacking in Ranchi" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading and stacking in Ranchi" loading="lazy">
                 </div>
                 <div>
                     <h2 class="ran2bag-section-title" style="text-align: left;">Engineered 5-Layer Packaging for Fragile &amp; Heavy Cargo</h2>
@@ -645,7 +645,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     <p>Our transport drivers are well-versed in navigating both high-speed expressway corridors and narrower village roads in Bagodar block, guaranteeing smooth and prompt vehicle delivery without delays.</p>
                 </div>
                 <div class="ran2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
                 </div>
             </div>
         </div>
@@ -656,7 +656,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="ran2bag-container">
             <div class="ran2bag-two-col">
                 <div class="ran2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
                 </div>
                 <div>
                     <h2 class="ran2bag-section-title" style="text-align: left;">Government, Banking &amp; Administrative Transfer Support</h2>
@@ -793,7 +793,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             "streetAddress": "Ranchi Main Road",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {

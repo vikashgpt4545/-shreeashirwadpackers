@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-panvel-
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-panvel-navi-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-panvel-navi-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Panvel Navi Mumbai</h1>
         <p>Expert residential shifting, mega township relocation, careful furniture crating, and insured car transport across New Panvel, Old Panvel, Khandeshwar, and the Navi Mumbai International Airport corridor.</p>
         <div class="pnv-btn-wrap">
-            <a href="tel:+919334404050" class="pnv-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="pnv-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pnv-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we deliver dependable and stress-free moving solutions across all residential neighborhoods in Panvel. Our seasoned team understands the diverse logistical challenges of moving in this bustling region, from navigating heavy commuter traffic along the Sion-Panvel Highway to adhering to stringent gated community moving windows. Whether you are transitioning to a newly completed high-rise apartment in New Panvel East Sector 19, upgrading within Khandeshwar, settling in Sukhapur or Karanjade, or moving your corporate inventory near Orion Mall and Panvel Station, we provide end-to-end relocation management that guarantees your household belongings remain in pristine condition throughout the move.</p>
 
         <div class="pnv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Panvel Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Panvel Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="pnv-image-caption">Experienced loading crews securing packed household consignments inside our weatherproof container trucks in Panvel.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="pnv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Panvel" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Panvel" width="580" height="387" loading="lazy">
             <p class="pnv-image-caption">High-density bubble wrap, sturdy cartons, and waterproof stretch film applied to safeguard fragile appliances and electronics.</p>
         </div>
 
@@ -593,7 +593,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Final costs are determined by exact inventory volume, floor elevation, elevator availability, fragile crating requirements, and overall transit distance. For an exact customized quote tailored to your inventory, please view our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a> or speak directly with our Panvel survey executive.</p>
 
         <div class="pnv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Panvel" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Panvel" width="580" height="387" loading="lazy">
             <p class="pnv-image-caption">Skilled carpenters carefully dismantling and wrapping heavy bed frames and wardrobes for safe residential transit in Panvel.</p>
         </div>
 
@@ -638,7 +638,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="pnv-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Panvel Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Panvel Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="pnv-image-caption">Our closed container vehicles ensuring safe, door-to-door delivery across residential sectors and townships throughout Panvel.</p>
         </div>
 

@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-hubli";
         "name": "Shree Ashirwad Packers and Movers Hubli",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -521,7 +521,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Hubli Dharwad</h1>
         <p>Premium household shifting, corporate office relocation, industrial cargo transport, and secure warehousing across Vidyanagar, Gokul Road, Unkal, Navanagar, and Tarihal.</p>
         <div class="hbd-btn-wrap">
-            <a href="tel:+919334404050" class="hbd-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="hbd-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hbd-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -549,7 +549,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="hbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Hubli Dharwad" title="Household packing services in Hubli">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing in Hubli Dharwad" title="Household packing services in Hubli">
             <p class="hbd-image-caption">Systematic multi-layer packing and inventory management for residential homes in Hubli-Dharwad.</p>
         </div>
     </section>
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Families relocating from railway quarters in Club Road, Keshwapur, and Railway Colony benefit from our full-cycle packing solutions. Our teams safely pack heavy teak wood furniture, extensive home book collections, brass puja mandirs, and bulky kitchen appliances, coordinating scheduled pickup and prompt delivery to employee quarters at new postings.</p>
 
         <div class="hbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Hubli" title="Protective furniture wrapping in Hubli">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture protective wrapping in Hubli" title="Protective furniture wrapping in Hubli">
             <p class="hbd-image-caption">Multi-tier bubble cushioning and corrugated corner guards protecting valuable furniture in Hubli.</p>
         </div>
     </section>
@@ -628,7 +628,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Equipped with hydraulic lifters, heavy rigging tools, flatbed trucks, and weatherproof 20ft and 32ft container trucks, we ensure the safe, damage-free transfer of engineering inventory, raw materials, electrical control panels, and heavy factory equipment across North Karnataka and interstate trade routes.</p>
 
         <div class="hbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing and crating services in Hubli" title="Fragile packing in Hubli Dharwad">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing and crating services in Hubli" title="Fragile packing in Hubli Dharwad">
             <p class="hbd-image-caption">Custom bubble cushioning and heavy-duty box crating for fragile items and delicate laboratory gear.</p>
         </div>
     </section>
@@ -743,7 +743,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="hbd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck for Hubli shifting" title="Weatherproof transit truck in Hubli">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck for Hubli shifting" title="Weatherproof transit truck in Hubli">
             <p class="hbd-image-caption">Heavy-duty weatherproof container trucks providing safe, damage-free transit across Karnataka and pan-India routes.</p>
         </div>
     </section>

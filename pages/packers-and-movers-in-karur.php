@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-karur";
         "name": "Shree Ashirwad Packers and Movers Karur",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-karur";
         <p>Relocating in Karur involves distinct logistical requirements. Maneuvering through dense commercial streets and textile markets like Jawahar Bazaar, Sengunthapuram, and Vengamedu requires agile transport and coordinated loading schedules. Concurrently, servicing high-end villas and residential communities along Covai Road (Coimbatore Road), Gandhigramam, and Thanthonimalai (near the District Collectorate) demands immaculate multi-layered packing materials and polite moving staff. Shree Ashirwad Packers and Movers brings over 14 years of regional mastery, ensuring completely safeguarded relocations for both residential families and enterprise corporations.</p>
 
         <div class="krr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Karur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Karur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="krr-image-caption">Professional household loading and apartment shifting operations in Karur.</div>
         </div>
 
@@ -583,7 +583,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-karur";
         </div>
 
         <div class="krr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial equipment and corporate office packing in Karur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial equipment and corporate office packing in Karur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="krr-image-caption">Corporate office equipment and precision apparatus relocation by Shree Ashirwad in Karur.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-karur";
         <p>Our moving teams employ a comprehensive four-tier defense system. Polished teak and rosewood articles are first wrapped in breathable cotton blankets, encased in heavy-gauge air bubble film, reinforced with corrugated edge corner protectors, and sealed with waterproof stretch film. This robust shield safeguards delicate surfaces against abrasion, humidity changes, and highway vibrations.</p>
 
         <div class="krr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Karur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Karur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="krr-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Karur.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-karur";
         </ol>
 
         <div class="krr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Karur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Karur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="krr-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Karur corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-karur";
     <div class="krr-cta-box">
         <h3>Move Safely in Karur with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero hidden fees. Licensed, fully insured relocation professionals ready to assist your household or enterprise today.</p>
-        <a href="tel:+919334404050" class="krr-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="krr-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

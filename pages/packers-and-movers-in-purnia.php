@@ -598,7 +598,7 @@
             </div>
             <div>
                 <div class="prn-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Purnia Bihar" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Purnia Bihar" loading="lazy">
                     <p class="prn-image-caption">Systematic loading and protective strapping of household goods for residences in Purnia, Bihar.</p>
                 </div>
                 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
@@ -672,7 +672,7 @@
         <div class="prn-grid-2">
             <div>
                 <div class="prn-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes deployed in Purnia Bihar" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated boxes deployed in Purnia Bihar" loading="lazy">
                     <p class="prn-image-caption">High-density bubble wrap, corner bumpers, and corrugated boxes deployed for household packing in Purnia.</p>
                 </div>
             </div>
@@ -788,7 +788,7 @@
             </div>
             <div>
                 <div class="prn-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled carpenter dismantling modular bed in Purnia" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Skilled carpenter dismantling modular bed in Purnia" loading="lazy">
                     <p class="prn-image-caption">Professional carpentry team carefully dismantling modular furniture before packaging in Purnia.</p>
                 </div>
             </div>
@@ -847,7 +847,7 @@
         <div class="prn-grid-2">
             <div>
                 <div class="prn-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Covered container delivery truck delivering goods in Purnia" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Covered container delivery truck delivering goods in Purnia" loading="lazy">
                     <p class="prn-image-caption">Dedicated enclosed container truck executing doorstep delivery in Purnia, Bihar.</p>
                 </div>
             </div>

@@ -173,7 +173,7 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -666,7 +666,7 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
 
           <div>
             <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:16px; padding:16px; box-shadow:0 10px 30px rgba(0,0,0,0.06);">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office computer and IT equipment secure packing by Shree Ashirwad Packers" style="width:100%; height:260px; max-height:300px; border-radius:12px; display:block; object-fit:cover;" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office computer and IT equipment secure packing by Shree Ashirwad Packers" style="width:100%; height:260px; max-height:300px; border-radius:12px; display:block; object-fit:cover;" loading="lazy">
               <div style="padding:18px 12px 6px;">
                 <div style="font-weight:700; color:#0f223d; font-size:1.05rem; margin-bottom:4px;">IT Equipment & Server Rack Relocation in Ranchi</div>
                 <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Our specialized technical crew categorizing, anti-static wrapping, and serial-coding IT server systems, desktop monitors, and modular cubicles for zero-downtime office migration.</p>
@@ -991,7 +991,7 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
 
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:20px;">
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy office equipment and furniture relocation in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Heavy office equipment and furniture relocation in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Heavy Machinery & Safe Rigging</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Hydraulic machinery skates and dollies safely maneuver 500kg+ commercial safes without floor scratch.</p>
@@ -999,7 +999,7 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Conference room digital display and TV crating in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Conference room digital display and TV crating in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Conference Display Crating</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">75-inch conference room LED screens and interactive whiteboards receive foam cushioning and wooden crating.</p>
@@ -1007,7 +1007,7 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Commercial grade packing materials for office shifting in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Commercial grade packing materials for office shifting in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Commercial Grade Packing Supplies</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Heavy 5-ply cartons, corrugated rolls, anti-static bubble wrap, and stretch film protect company assets.</p>
@@ -1015,7 +1015,7 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional office moving crew in Ranchi by Shree Ashirwad Packers" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional office moving crew in Ranchi by Shree Ashirwad Packers" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Trained Corporate Moving Crew</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Uniformed, background-verified full-time technicians trained in high-rise building freight elevator protocols.</p>

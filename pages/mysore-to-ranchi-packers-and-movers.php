@@ -69,7 +69,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Harmu Road, Near Overbridge",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -577,7 +577,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 1 -->
         <div class="mysr-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing for Mysore to Ranchi Relocation" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing for Mysore to Ranchi Relocation" loading="lazy">
             <div class="mysr-img-caption">Expert packing technicians preparing furniture and household appliances for 1,980 km highway transit.</div>
         </div>
 
@@ -685,7 +685,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 2 -->
         <div class="mysr-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Delicate Box Packing - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Delicate Box Packing - Shree Ashirwad Packers" loading="lazy">
             <div class="mysr-img-caption">Individual bubble wrapping and compartmentalized cellular boxing for fragile chinaware, crystal, and handicrafts.</div>
         </div>
 
@@ -738,7 +738,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 3 -->
         <div class="mysr-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Container Truck - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in Container Truck - Shree Ashirwad Packers" loading="lazy">
             <div class="mysr-img-caption">Systematic loading inside all-weather container trucks with load balancing and ratchet tie-downs.</div>
         </div>
     </section>
@@ -804,7 +804,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 4 -->
         <div class="mysr-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Shree Ashirwad Packers and Movers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew Shree Ashirwad Packers and Movers" loading="lazy">
             <div class="mysr-img-caption">Trained, uniformed, and verified relocation crew ensuring smooth unloading and assembly at your Ranchi residence.</div>
         </div>
     </section>

@@ -148,7 +148,7 @@ $meta_keywords = "jamtara to ranchi packers and movers, packers and movers jamta
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -470,7 +470,7 @@ $meta_keywords = "jamtara to ranchi packers and movers, packers and movers jamta
           <!-- Image Card with Floating Badge & Caption -->
           <div style="position: relative;">
             <div style="border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; position: relative;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Jamtara to Ranchi Packers and Movers Shree Ashirwad Moving Truck" title="Jamtara to Ranchi Relocation Service - Verified Moving Truck" width="560" height="380" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Jamtara to Ranchi Packers and Movers Shree Ashirwad Moving Truck" title="Jamtara to Ranchi Relocation Service - Verified Moving Truck" width="560" height="380" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;" loading="lazy">
               <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0.6) 65%, transparent 100%); padding: 22px; color: #ffffff;">
                 <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 4px;">Direct Closed-Container Intercity Fleet</div>
                 <div style="font-size: 0.84rem; color: #cbd5e1;">Pneumatic suspension trucks connecting Jamtara & Mihijam to Ranchi residences in under 8 hours</div>
@@ -875,7 +875,7 @@ $meta_keywords = "jamtara to ranchi packers and movers, packers and movers jamta
           <!-- Image Card -->
           <div style="order: 2;">
             <div style="border-radius: 16px; overflow: hidden; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; position: relative;">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Jamtara to Ranchi Moving" title="Heavy Furniture Protective Packaging - Shree Ashirwad Packers" width="560" height="380" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Jamtara to Ranchi Moving" title="Heavy Furniture Protective Packaging - Shree Ashirwad Packers" width="560" height="380" style="width: 100%; height: 260px; max-height: 300px; display: block; object-fit: cover;" loading="lazy">
               <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(15,34,61,0.92) 0%, rgba(15,34,61,0.6) 65%, transparent 100%); padding: 22px; color: #ffffff;">
                 <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 4px;">100% Genuine IBA Approved Documentation</div>
                 <div style="font-size: 0.84rem; color: #cbd5e1;">Official moving documentation compliant with Jharkhand Government & Railway claim norms</div>

@@ -668,7 +668,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="vpr-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Vapi to Ranchi Interstate Container Fleet Delivery" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Vapi to Ranchi Interstate Container Fleet Delivery" loading="lazy">
             </div>
         </div>
     </div>
@@ -792,7 +792,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="vpr-container">
         <div class="vpr-two-col">
             <div class="vpr-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Protective Packaging for Vapi to Ranchi Relocation" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Protective Packaging for Vapi to Ranchi Relocation" loading="lazy">
             </div>
             <div>
                 <span class="vpr-tag">Damage-Free Guarantee</span>
@@ -877,7 +877,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </div>
             </div>
             <div class="vpr-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi Destination Delivery and Unloading by Shree Ashirwad Fleet" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi Destination Delivery and Unloading by Shree Ashirwad Fleet" loading="lazy">
             </div>
         </div>
     </div>
@@ -888,7 +888,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="vpr-container">
         <div class="vpr-two-col">
             <div class="vpr-img-frame">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vapi to Ranchi Enclosed Car Transport and Bike Carrier Loading" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Vapi to Ranchi Enclosed Car Transport and Bike Carrier Loading" loading="lazy">
             </div>
             <div>
                 <span class="vpr-tag">Vehicle Logistics Excellence</span>

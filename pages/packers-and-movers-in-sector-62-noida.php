@@ -546,7 +546,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s62-intro-p">Relocating within or out of Sector 62 requires specialized operational expertise. The neighborhood balances bustling commercial IT parks with gated cooperative group housing societies (CGHS) that enforce strict moving rules, mandatory security clearances, designated service elevator schedules, and tight vehicle movement hours. Shree Ashirwad Packers and Movers brings more than a decade of proven logistical prowess to Sector 62, executing seamless home relocations, fragile electronic shipments, and corporate workstation transfers with dedicated precision.</p>
 
         <div class="s62-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Sector 62 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Sector 62 Noida" width="580" height="360">
             <div class="s62-image-caption">Systematic truck loading with hydraulic ramp and corner edge protection in Sector 62 Noida</div>
         </div>
 
@@ -589,7 +589,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s62-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packing materials for Sector 62 Noida household shifting" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packing materials for Sector 62 Noida household shifting" width="580" height="360">
             <div class="s62-image-caption">Multi-layer bubble wrap, edge guards, and virgin carton boxing in Sector 62 Noida</div>
         </div>
     </section>
@@ -705,7 +705,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="s62-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Sector 62 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in Sector 62 Noida" width="580" height="360">
             <div class="s62-image-caption">Expert carpentry teams dismantling modular furniture and king-size beds in Sector 62 Noida</div>
         </div>
     </section>
@@ -741,7 +741,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="s62-intro-p">For long-distance relocations connecting from Noida to our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0d9488; font-weight: 700; text-decoration: underline;">Ranchi</a>, Jharkhand, or eastern corridors including Patna and Jamshedpur, our vehicles access the Eastern Peripheral Expressway (EPE) via NH-9 in under 20 minutes, avoiding inner Delhi transit congestion entirely.</p>
 
         <div class="s62-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Container truck delivering household goods in Sector 62 Noida" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Container truck delivering household goods in Sector 62 Noida" width="580" height="360">
             <div class="s62-image-caption">Door-to-door container fleet serving Sector 62 Noida and surrounding Delhi NCR hubs</div>
         </div>
     </section>

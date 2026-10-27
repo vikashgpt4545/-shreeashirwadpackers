@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Office Relocation Planning Ranchi | Zero Downtime Moving | Call 9708579999</title>
-    <meta name="description" content="Strategic office shifting guide in Ranchi. Zero-downtime weekend cutovers, server rack migration, modular workstation setup, and confidential document transit. Call 9708579999.">
+    <title>Office Relocation Planning Ranchi | Zero Downtime Moving | Call 9835565233</title>
+    <meta name="description" content="Strategic office shifting guide in Ranchi. Zero-downtime weekend cutovers, server rack migration, modular workstation setup, and confidential document transit. Call 9835565233.">
     <meta name="keywords" content="office relocation planning ranchi, corporate shifting ranchi, commercial packers and movers ranchi, server room moving ranchi, workstation shifting company ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/office-relocation-planning-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Commercial Relocation Services Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/office-relocation-planning-ranchi",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Office Relocation Planning in Ranchi: Zero-Downtime Blueprint</h1>
                 <p>Relocating an active business requires flawless precision. Minimize commercial interruption, safeguard critical IT server architecture, protect confidential records, and reassemble executive workstations over a single seamless weekend cutover in Ranchi.</p>
                 <div class="orpr-cta-group">
-                    <a href="tel:+919708579999" class="orpr-btn-call">Corporate Desk: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20our%20company%20is%20planning%20an%20office%20relocation%20in%20Ranchi%20and%20needs%20a%20zero-downtime%20commercial%20quote" class="orpr-btn-wa" target="_blank" rel="noopener">WhatsApp Corporate Relocation Quote</a>
+                    <a href="tel:+919835565233" class="orpr-btn-call">Corporate Desk: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20our%20company%20is%20planning%20an%20office%20relocation%20in%20Ranchi%20and%20needs%20a%20zero-downtime%20commercial%20quote" class="orpr-btn-wa" target="_blank" rel="noopener">WhatsApp Corporate Relocation Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="orpr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Organized commercial goods and corporate asset storage in Shree Ashirwad warehouse Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Organized commercial goods and corporate asset storage in Shree Ashirwad warehouse Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -273,7 +273,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>IT Infrastructure & Server Room Relocation Architecture</h2>
                 <div class="orpr-grid-2">
                     <div class="orpr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated air-cushioned container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated air-cushioned container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>The electronic heart of any modern enterprise is its data center and desktop IT infrastructure. Mishandling delicate server chassis or crushing fiber-optic jumper cables causes catastrophic data outages. Our IT moving protocol includes:</p>
@@ -302,7 +302,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="orpr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Commercial moving crew handling modular office workstation disassembly in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Commercial moving crew handling modular office workstation disassembly in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -361,7 +361,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Confidential Record Transit & Commercial Warehousing Solutions</h2>
                 <div class="orpr-grid-2">
                     <div class="orpr-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Organized document setup and commercial file unboxing in Ranchi office" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Organized document setup and commercial file unboxing in Ranchi office" loading="lazy">
                     </div>
                     <div>
                         <p>Enterprise moves frequently involve decades of statutory tax records, legal litigation dossiers, employee personnel files, and banking documents that demand strict physical chain of custody:</p>

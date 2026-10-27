@@ -342,7 +342,7 @@ $meta_keywords = "bike transport in dhanbad, bike parcel service dhanbad, two wh
         
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle 4-layer packaging in Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle 4-layer packaging in Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">4-Layer Protective Cushioning</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Fuel tank bubble film, corrugated body armor, mirror foam sleeves, and water-resistant stretch wrap sealing.</p>
@@ -350,7 +350,7 @@ $meta_keywords = "bike transport in dhanbad, bike parcel service dhanbad, two wh
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler enclosed motorcycle carrier loading Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler enclosed motorcycle carrier loading Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Specialized Enclosed Bike Carriers</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Dedicated interior wheel slots, high-tensile ratchet tie-down straps, and rubberized buffer mounts preventing contact.</p>
@@ -358,7 +358,7 @@ $meta_keywords = "bike transport in dhanbad, bike parcel service dhanbad, two wh
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and bike safe transit crating Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and bike safe transit crating Dhanbad" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Scooty & EV Two-Wheeler Handling</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Gentle strapping for delicate ABS plastic panels, battery protection protocols, and secure ramp-based loading.</p>

@@ -174,7 +174,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -975,7 +975,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
 
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck on Pakur to Ranchi Route" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck on Pakur to Ranchi Route" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">All-Weather Enclosed Transit</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Zero moisture seepage and GPS tracking from Pakur to Ranchi</div>
@@ -1069,7 +1069,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
         <div class="split-grid">
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Protective Packaging for Pakur to Ranchi Move" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-Layer Protective Packaging for Pakur to Ranchi Move" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Multi-Stage Protective Armor</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Moisture barriers, heavy bubble cushioning, and rigid corrugated boxing</div>
@@ -1203,7 +1203,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
 
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile Car Transport from Pakur to Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile Car Transport from Pakur to Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Covered Automobile Carrier Services</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Safe long-distance car & motorcycle transport to Ranchi</div>
@@ -1331,7 +1331,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
 
           <div>
             <div class="split-image-card">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Ranchi" loading="lazy" style="width:100%; height:260px; max-height:300px; object-fit:cover; display:block;">
               <div class="split-image-caption">
                 <div style="font-size: 1.05rem; font-weight: 700;">Complete Room-by-Room Setup</div>
                 <div style="font-size: 0.85rem; color: #cbd5e1;">Furniture reassembled, appliances positioned, packing scrap cleared</div>

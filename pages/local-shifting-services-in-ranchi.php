@@ -180,7 +180,7 @@ $meta_keywords = "local shifting services in ranchi, local packers and movers in
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -673,7 +673,7 @@ $meta_keywords = "local shifting services in ranchi, local packers and movers in
 
           <div>
             <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:16px; padding:16px; box-shadow:0 10px 30px rgba(0,0,0,0.06);">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment household shifting in Ranchi by Shree Ashirwad Packers" style="width:100%; height:260px; max-height:300px; border-radius:12px; display:block; object-fit:cover;" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment household shifting in Ranchi by Shree Ashirwad Packers" style="width:100%; height:260px; max-height:300px; border-radius:12px; display:block; object-fit:cover;" loading="lazy">
               <div style="padding:18px 12px 6px;">
                 <div style="font-weight:700; color:#0f223d; font-size:1.05rem; margin-bottom:4px;">Gated High-Rise & Colony Shifting in Ranchi</div>
                 <p style="color:#64748b; font-size:0.9rem; line-height:1.6; margin:0;">Our specialized moving crews navigating apartment elevators, basement parking bays, and narrow society gates across Kanke Road, Morabadi, Harmu, and Ashok Nagar.</p>
@@ -1046,7 +1046,7 @@ $meta_keywords = "local shifting services in ranchi, local packers and movers in
 
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:20px;">
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective packing for local shifting in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective packing for local shifting in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Sofa & Upholstery Multi-Wrap</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Stretch film and heavy quilted moving blankets prevent dust, scuffs, and dirt stains during staircase maneuvers.</p>
@@ -1054,7 +1054,7 @@ $meta_keywords = "local shifting services in ranchi, local packers and movers in
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and reassembly in Ranchi by Shree Ashirwad" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Double bed furniture dismantling and reassembly in Ranchi by Shree Ashirwad" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Carpenter Dismantle & Assembly</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">Trained in-house carpenters carefully dismantle king-size hydraulic beds and reassemble them at your new home.</p>
@@ -1062,7 +1062,7 @@ $meta_keywords = "local shifting services in ranchi, local packers and movers in
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery bubble packing for safe local transit in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery bubble packing for safe local transit in Ranchi" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Fragile Kitchenware Bubble Boxing</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">High-density virgin air-bubble sheets and cellular partitioned cartons protect chinaware, bone china, and glassware.</p>
@@ -1070,7 +1070,7 @@ $meta_keywords = "local shifting services in ranchi, local packers and movers in
           </div>
 
           <div style="background:#ffffff; border-radius:10px; overflow:hidden; border:1px solid #e2e8f0; box-shadow:0 4px 12px rgba(0,0,0,0.04);">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup service in Ranchi by Shree Ashirwad Packers" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture setup service in Ranchi by Shree Ashirwad Packers" style="width:100%; height:200px; object-fit:cover; display:block;" loading="lazy">
             <div style="padding:14px;">
               <h4 style="font-size:1rem; font-weight:700; color:#0f223d; margin:0 0 6px;">Complete Unpacking & Room Setup</h4>
               <p style="font-size:0.85rem; color:#64748b; margin:0; line-height:1.5;">We unbox cartons, position heavy furniture in designated rooms, and remove discarded corrugated waste.</p>

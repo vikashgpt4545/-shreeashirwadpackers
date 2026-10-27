@@ -739,7 +739,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Packing Adityapur to Jamshedpur" title="Professional Packing Crew in Adityapur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Packing Adityapur to Jamshedpur" title="Professional Packing Crew in Adityapur">
                 </div>
             </div>
         </div>
@@ -861,7 +861,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKING PROCESS -->
             <div class="adi-two-col">
                 <div class="adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="5-Layer Protective Sofa Packing" title="Protective Packing for Adityapur to Jamshedpur Relocation">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="5-Layer Protective Sofa Packing" title="Protective Packing for Adityapur to Jamshedpur Relocation">
                 </div>
                 <div class="adi-two-col-text">
                     <h2>Our 5-Layer Defensive Packing Methodology</h2>
@@ -945,7 +945,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Apartment Household Loading Adityapur to Jamshedpur" title="Multi-Story Apartment Shifting in Adityapur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-Rise Apartment Household Loading Adityapur to Jamshedpur" title="Multi-Story Apartment Shifting in Adityapur">
                 </div>
             </div>
         </div>
@@ -971,7 +971,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Loading Crew Transporting Furniture Across Kharkai Bridge" title="Professional Moving Operations Adityapur to Jamshedpur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Loading Crew Transporting Furniture Across Kharkai Bridge" title="Professional Moving Operations Adityapur to Jamshedpur">
                 </div>
             </div>
         </div>

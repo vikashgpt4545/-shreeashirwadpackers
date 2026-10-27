@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kanchipuram";
         "name": "Shree Ashirwad Packers and Movers Kanchipuram",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -546,7 +546,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kanchipuram";
         <p>Relocating in Kanchipuram demands distinct logistical capabilities. Maneuvering through traditional temple streets and weavers' quarters like Pillaiyarpalayam, Ennaikaran Street, and Gandhi Road requires agile light vehicles and sensitive manual handling. Simultaneously, protecting valuable silk textiles, temple pooja paraphernalia, and ancestral rosewood furnishings from humidity and dust necessitates specialized packing protocols. In contrast, serving executive communities near the Sriperumbudur industrial belt requires prompt, professional corporate moving standards. Shree Ashirwad Packers and Movers brings more than 14 years of regional mastery, ensuring completely safeguarded relocations for families and enterprise corporations.</p>
 
         <div class="kpm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Kanchipuram Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Kanchipuram Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="kpm-image-caption">Professional household loading and apartment shifting operations in Kanchipuram.</div>
         </div>
 
@@ -583,7 +583,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kanchipuram";
         </div>
 
         <div class="kpm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Kanchipuram Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Industrial equipment and corporate office packing in Kanchipuram Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="cdl-image-caption">Corporate office equipment and commercial apparatus relocation by Shree Ashirwad in Kanchipuram.</div>
         </div>
 
@@ -599,7 +599,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kanchipuram";
         <p>Our expert moving crews utilize a four-layer defensive packing system. Polished teak and rosewood furniture are first padded with breathable soft cotton quilts, wrapped in high-density air bubble wrap, reinforced with thick corrugated corner edge boards, and enveloped in tear-resistant stretch wrap. This protects against scratches, humidity fluctuations, and highway transit vibrations.</p>
 
         <div class="kpm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Kanchipuram Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Kanchipuram Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="kpm-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Kanchipuram.</div>
         </div>
 
@@ -725,7 +725,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kanchipuram";
         </ol>
 
         <div class="kpm-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Kanchipuram Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Kanchipuram Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="kpm-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Kanchipuram corridors.</div>
         </div>
     </section>
@@ -782,7 +782,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-kanchipuram";
     <div class="kpm-cta-box">
         <h3>Move Safely in Kanchipuram with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero surprise costs. Licensed, fully insured moving specialists ready to assist your household or enterprise today.</p>
-        <a href="tel:+919334404050" class="kpm-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="kpm-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

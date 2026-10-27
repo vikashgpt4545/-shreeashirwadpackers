@@ -69,7 +69,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Harmu Road, Near Overbridge",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -577,7 +577,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 1 -->
         <div class="rhub-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Hubli Intercity Shifting Truck Loading - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Ranchi to Hubli Intercity Shifting Truck Loading - Shree Ashirwad Packers" loading="lazy">
             <div class="rhub-img-caption">Dedicated company-owned container truck loading household goods for 1,780 km transit from Ranchi to Hubli-Dharwad.</div>
         </div>
 
@@ -698,7 +698,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 2 -->
         <div class="rhub-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing Ranchi to Hubli - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Packing Ranchi to Hubli - Shree Ashirwad Packers" loading="lazy">
             <div class="rhub-img-caption">Professional carpenters systematically dismantling wooden double beds and modular wardrobes for secure flat-pack transport.</div>
         </div>
 
@@ -754,7 +754,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 3 -->
         <div class="rhub-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Delicate Box Packing - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Delicate Box Packing - Shree Ashirwad Packers" loading="lazy">
             <div class="rhub-img-caption">Individual bubble wrapping and compartmentalized cellular boxing for delicate kitchenware and ceramics.</div>
         </div>
     </section>
@@ -785,7 +785,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
         <!-- Image 4 -->
         <div class="rhub-img-block">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Jharkhand - Shree Ashirwad Packers" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Jharkhand - Shree Ashirwad Packers" loading="lazy">
             <div class="rhub-img-caption">Safe loading of private vehicles onto hydraulic car carriers equipped with wheel lashings for intercity transport.</div>
         </div>
     </section>

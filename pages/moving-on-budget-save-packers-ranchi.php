@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moving on a Budget in Ranchi | How to Save 30-50% on Packers | Call 9708579999</title>
-    <meta name="description" content="Discover proven strategies to reduce your home shifting costs in Ranchi by 30% to 50%. Learn decluttering economics, smart timing, shared truckloads, and DIY packing hacks. Call 9708579999.">
+    <title>Moving on a Budget in Ranchi | How to Save 30-50% on Packers | Call 9835565233</title>
+    <meta name="description" content="Discover proven strategies to reduce your home shifting costs in Ranchi by 30% to 50%. Learn decluttering economics, smart timing, shared truckloads, and DIY packing hacks. Call 9835565233.">
     <meta name="keywords" content="moving on a budget ranchi, save on packers and movers ranchi, cheap shifting tricks ranchi, reduce home relocation cost jharkhand, budget packers movers ranchi, shree ashirwad packers discounts">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/moving-on-budget-save-packers-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Budget Relocation",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/moving-on-budget-save-packers-ranchi",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -210,8 +210,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Moving on a Budget in Ranchi: 10 Smart Ways to Cut Moving Costs</h1>
                 <p>Relocating across Ranchi doesn't have to drain your bank account. Discover authentic, practical strategies to reduce your home shifting bill by 30% to 50% without compromising on the safety of your furniture, electronics, or personal valuables.</p>
                 <div class="mobs-cta-group">
-                    <a href="tel:+919708579999" class="mobs-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20looking%20for%20a%20budget%20friendly%20home%20shifting%20quote%20in%20Ranchi" class="mobs-btn-wa" target="_blank" rel="noopener">WhatsApp Budget Shifting Quote</a>
+                    <a href="tel:+919835565233" class="mobs-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20looking%20for%20a%20budget%20friendly%20home%20shifting%20quote%20in%20Ranchi" class="mobs-btn-wa" target="_blank" rel="noopener">WhatsApp Budget Shifting Quote</a>
                 </div>
             </div>
         </section>
@@ -231,7 +231,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="mobs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized household relocation cartons for budget shifting in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized household relocation cartons for budget shifting in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -290,7 +290,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Smart Packaging Material Management: Where to Save & Where to Spend</h2>
                 <div class="mobs-grid-2">
                     <div class="mobs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Industrial corrugated sheets and protective materials for budget relocation in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Industrial corrugated sheets and protective materials for budget relocation in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>A common budget mistake is saving money on the wrong materials. Cutting corners on fragile glassware or 55-inch LED TV packing often leads to thousands of rupees in irreparable damage:</p>
@@ -372,7 +372,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="mobs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Right-sized closed container truck loading in Ranchi for budget relocation" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Right-sized closed container truck loading in Ranchi for budget relocation" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -382,7 +382,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Optimizing Crew Sizing for Faster, Economical Loading</h2>
                 <div class="mobs-grid-2">
                     <div class="mobs-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Trained moving crew of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Trained moving crew of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>Having too many workers on site increases your bill, while having too few workers causes exhaustion, overtime penalties, and dropped items. Smart crew sizing matches the job footprint:</p>

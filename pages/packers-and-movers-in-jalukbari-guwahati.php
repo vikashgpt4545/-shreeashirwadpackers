@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Jalukbari Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jalukbari-guwahati",
     "priceRange": "₹4,000 - ₹60,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="jkg-container">
       <h1>Packers and Movers in Jalukbari Guwahati</h1>
       <p>Premier Gauhati University faculty shifting, academic institution relocation, Saraighat bridge highway logistics, and nationwide container transit in Jalukbari.</p>
-      <a href="tel:+919334484001" class="jkg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="jkg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Jalukbari serves as the monumental western gateway, historic river crossing, and premier academic citadel of Guwahati. Anchored by the sprawling campus of Gauhati University—the oldest and most prestigious university in Northeast India—and Assam Engineering College (AEC), Jalukbari is revered as the resting place of music legend Dr. Bhupen Hazarika at the majestic Samadhi Kshetra. Geographically, Jalukbari marks the vital confluence where National Highway 27 and National Highway 17 converge before traversing the iconic Saraighat Bridge over the Brahmaputra River. Moving residences or academic departments in Jalukbari requires a deep appreciation of university campus protocols, bridge transit scheduling, heavy academic book crating, and weather-proof packaging.</p>
 
       <div class="jkg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Jalukbari Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Jalukbari Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="jkg-grid-2">
@@ -488,7 +488,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From university faculty residences to student moves and long-distance transport, our specialized services cover every relocation requirement:</p>
 
       <div class="jkg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Jalukbari" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household sofa Jalukbari" width="580" height="360" loading="lazy">
       </div>
 
       <div class="jkg-grid-cards">
@@ -525,7 +525,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation managed by Shree Ashirwad Packers and Movers adheres to a disciplined operational workflow designed to guarantee complete safety and timeliness:</p>
 
       <div class="jkg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Jalukbari" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Jalukbari" width="580" height="360" loading="lazy">
       </div>
 
       <div class="jkg-grid-cards">
@@ -558,7 +558,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all major quarters and residential extensions of Jalukbari:</p>
 
       <div class="jkg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Jalukbari" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Jalukbari" width="580" height="360" loading="lazy">
       </div>
 
       <div class="jkg-grid-cards">

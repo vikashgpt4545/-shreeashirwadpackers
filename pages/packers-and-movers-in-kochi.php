@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kochi",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kochi",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>From prestigious waterfront condominiums along Marine Drive and Panampilly Nagar to bustling IT communities in Kakkanad, vibrant commercial corridors along Edappally Bypass, and riverside residential villas in Aluva, the city demands moving services of extraordinary reliability. Moving in Kochi requires acute understanding of coastal weather patterns, high humidity levels, heavy monsoon precipitation, and dense urban traffic arteries governed by the Kochi Metro Rail system.</p>
 
     <div class="kch-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Kochi Kerala" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Organized Apartment Moving in Kochi Kerala" loading="lazy">
       <p class="kch-image-caption">Disciplined residential apartment shifting and systematic container loading in Kochi.</p>
     </div>
 
@@ -602,7 +602,7 @@
     </div>
 
     <div class="kch-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="IT Hardware Packing in Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="IT Hardware Packing in Kochi" loading="lazy">
       <p class="kch-image-caption">Specialized anti-static packaging and secure boxing for IT workstations and servers in Kochi Infopark.</p>
     </div>
 
@@ -634,7 +634,7 @@
     </div>
 
     <div class="kch-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Kochi" loading="lazy">
       <p class="kch-image-caption">Heavy-duty foam and corrugated board wrapping safeguarding fine wooden furniture during transit.</p>
     </div>
 
@@ -648,7 +648,7 @@
     <p>The city's urban flow is enhanced by the Kochi Metro Rail stretching from Aluva to Thrippunithura, and the innovative Water Metro connecting mainland Ernakulam with Vypin, Bolgatty, and Mattancherry. Navigating these dense urban corridors requires intimate knowledge of local traffic restrictions, morning school-hour congestion, bridge bottlenecks, and strict municipal parking regulations.</p>
 
     <div class="kch-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Fleet in Kochi" loading="lazy">
       <p class="kch-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -738,7 +738,7 @@
   <section class="kch-cta-banner">
     <h3>Plan Your Seamless Relocation in Kochi Today!</h3>
     <p>Contact our experienced relocation specialists for a free pre-move consultation, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Kerala and India.</p>
-    <a class="kch-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="kch-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

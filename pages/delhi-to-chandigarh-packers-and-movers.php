@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Premier interstate relocation services from Delhi NCR to Chandigarh Tricity specializing in home shifting, commercial moves, enclosed car transport, motorcycle parcel delivery, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,000 - ₹45,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>The 245-kilometer highway journey follows National Highway 44 past Sonipat, Panipat, Karnal, Kurukshetra, and Ambala Cantt into Zirakpur and Chandigarh. High-speed highway conditions demand engineered weight balancing, weather-sealed container bodies, and internal cargo lashing to guarantee damage-free transit.</p>
 
     <div class="dtc-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Delhi to Chandigarh interstate moving container truck" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Delhi to Chandigarh interstate moving container truck" width="580" height="380" loading="lazy">
       <div class="dtc-img-caption">Dedicated sealed container trucks operating on the Delhi to Chandigarh NH44 expressway corridor.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dtc-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Delhi to Chandigarh moves" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Delhi to Chandigarh moves" width="580" height="380" loading="lazy">
       <div class="dtc-img-caption">Multi-layer protective packaging engineered for highway stability across the 245 km Delhi-Chandigarh corridor.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dtc-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Delhi to Chandigarh relocation" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading for Delhi to Chandigarh relocation" width="580" height="380" loading="lazy">
       <div class="dtc-img-caption">Dedicated closed automobile carriers ensuring secure, scratch-free transport from Delhi to Chandigarh.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="dtc-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Chandigarh" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Chandigarh" width="580" height="380" loading="lazy">
       <div class="dtc-img-caption">Complete destination unpacking, furniture reassembly, and debris clearance service in Chandigarh.</div>
     </div>
   </section>

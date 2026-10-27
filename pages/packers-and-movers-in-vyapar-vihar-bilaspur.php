@@ -25,7 +25,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Vyapar Vihar Bilaspur",
         "description": "Certified packers and movers providing residential shifting, wholesale trade and commercial relocations, corporate moving, and nationwide car transportation in Vyapar Vihar, Bilaspur, Chhattisgarh.",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-vyapar-vihar-bilaspur",
-        "telephone": "+91-9334812304",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹34,000",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "address": {
@@ -435,7 +435,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="vvb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Commercial and residential relocation in Vyapar Vihar Bilaspur by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Commercial and residential relocation in Vyapar Vihar Bilaspur by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="vvb-grid-2">
             <div>
                 <div class="vvb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Furniture packaging and sofa protective wrapping for Vyapar Vihar shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Furniture packaging and sofa protective wrapping for Vyapar Vihar shifting" loading="lazy">
                 </div>
             </div>
             <div>
@@ -574,7 +574,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="vvb-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Container truck loading and cargo securing in Vyapar Vihar Bilaspur" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Container truck loading and cargo securing in Vyapar Vihar Bilaspur" loading="lazy">
                 </div>
             </div>
         </div>
@@ -604,7 +604,7 @@ require_once __DIR__ . '/../includes/config.php';
 
         <div style="margin-top: 25px;">
             <div class="vvb-image-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading operations in Vyapar Vihar Bilaspur by Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment goods loading operations in Vyapar Vihar Bilaspur by Shree Ashirwad Packers" loading="lazy">
             </div>
         </div>
     </section>
@@ -648,7 +648,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="vvb-cta">
         <h2>Planning a Move in Vyapar Vihar Bilaspur?</h2>
         <p>Contact Bilaspur’s trusted shifting experts today for a free on-site survey and guaranteed transparent pricing.</p>
-        <a class="vvb-cta-btn" href="tel:+919334812304">Call Now: +91-9334812304</a>
+        <a class="vvb-cta-btn" href="tel:+919835565233">Call Now: +91 9835565233</a>
     </section>
 
 </main>

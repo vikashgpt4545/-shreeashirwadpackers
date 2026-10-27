@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -505,7 +505,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="bbs-body-p">At Shree Ashirwad Packers and Movers, we deliver exceptional relocation services engineered specifically for Bhubaneswar's fast-paced urban lifestyle. Whether moving your apartment across Chandrasekharpur, relocating administrative office equipment near Sachivalaya Marg, or executing an interstate transfer to Jharkhand or West Bengal, our experienced team ensures total peace of mind. Collaborating seamlessly with our regional logistics network through <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kolkata">Packers and Movers in Kolkata</a>, we guarantee swift, safe, and transparent relocations.</p>
 
                 <div class="bbs-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Bhubaneswar">
                     <div class="bbs-image-caption">Systematic loading of palletized household cartons and heavy appliances in Bhubaneswar.</div>
                 </div>
 
@@ -544,7 +544,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bbs-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile items in Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap packing for fragile items in Bhubaneswar">
                     <div class="bbs-image-caption">5-layer packaging using virgin air-bubble sheets and edge protectors in Bhubaneswar.</div>
                 </div>
 
@@ -668,7 +668,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bbs-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Bed furniture dismantling and modular packing in Bhubaneswar">
                     <div class="bbs-image-caption">Professional furniture dismantling, hardware tagging, and protective wrapping in Bhubaneswar.</div>
                 </div>
 
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="bbs-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bhubaneswar">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bhubaneswar">
                     <div class="bbs-image-caption">Dedicated closed-body container truck arriving for doorstep delivery in Bhubaneswar.</div>
                 </div>
 
@@ -765,7 +765,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Janpath Road, Near Saheed Nagar, Bhubaneswar</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bbs-cta-button">Request Free Moving Quote</a>

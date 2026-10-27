@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>We deploy compact shuttle vehicles to navigate winding village roads in coastal pockets like Calangute, Baga, and Anjuna where heavy multiaxle freight trucks cannot enter. Goods are smoothly transshipped into long-distance container carriers at our primary logistics hub, eliminating delays and property friction.</p>
 
         <div class="goah-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck navigating coastal routes across Goa" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck navigating coastal routes across Goa" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our transport coordinators are intimately familiar with specific local vehicular movement windows across Goa, including the heavy vehicle restrictions on the Atal Setu and Zuari Bridge, access timings in Panaji's heritage Latin quarter (Fontainhas), and maritime ferry schedules for island settlements like Divar and Chorao. Every shipment is mapped with contingency routing to bypass seasonal high-tide causeways and coastal tourist bottlenecks.</p>
@@ -557,7 +557,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="goah-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation connecting Goa to Mumbai, Pune and Bangalore" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation connecting Goa to Mumbai, Pune and Bangalore" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Stage Moving Protocol -->
@@ -593,7 +593,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="goah-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Goa" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Goa" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -664,7 +664,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="goah-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for luxury villa moving in Goa" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for luxury villa moving in Goa" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Shree Ashirwad in Goa -->

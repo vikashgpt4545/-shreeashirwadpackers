@@ -1128,14 +1128,14 @@ require_once __DIR__ . '/includes/seo.php';
       <!-- Verified Images Feature Grid 1 & 2 -->
       <div class="i2r-image-grid">
         <div class="i2r-image-card">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Indore to Ranchi Safe Sealed Container Transit Truck">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Indore to Ranchi Safe Sealed Container Transit Truck">
           <div class="i2r-image-caption">
             <strong>Dedicated All-Weather Container Fleet</strong>
             Our heavy-duty, sealed steel container trucks provide 100% dust-proof, moisture-shielded direct linehaul transit along the 1,150-km highway from Indore to Ranchi.
           </div>
         </div>
         <div class="i2r-image-card">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="High-End IT Workstation and LED TV Wooden Crating">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="High-End IT Workstation and LED TV Wooden Crating">
           <div class="i2r-image-caption">
             <strong>Engineered Crating for IT & Laboratory Electronics</strong>
             Custom shock-absorbing wooden crates, anti-static foam wraps, and edge corner protectors designed for Super Corridor IT gear and sensitive equipment.
@@ -1349,14 +1349,14 @@ require_once __DIR__ . '/includes/seo.php';
       <!-- Verified Images Feature Grid 3 & 4 -->
       <div class="i2r-image-grid">
         <div class="i2r-image-card">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated Two-Wheeler Motorcycle Carrier Loading">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated Two-Wheeler Motorcycle Carrier Loading">
           <div class="i2r-image-caption">
             <strong>Dedicated Two-Wheeler Motorcycle Transport</strong>
             Multi-layer protective wrapping, handlebar cushioning, mirror removal, and wheel anchoring for secure bike transport from Indore to Ranchi.
           </div>
         </div>
         <div class="i2r-image-card">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking and Furniture Reassembly in Ranchi">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking and Furniture Reassembly in Ranchi">
           <div class="i2r-image-caption">
             <strong>Doorstep Setup & Room Placement in Ranchi</strong>
             Professional unpacking crew reassembling beds, arranging heavy wardrobes, positioning appliances, and clearing discarded packing debris.

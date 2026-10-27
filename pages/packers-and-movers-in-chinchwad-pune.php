@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-chinchw
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-chinchwad-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-chinchwad-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -156,7 +156,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-chinchw
                 "name": "How can I obtain a customized relocation quotation for Chinchwad shifting?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "You can contact our customer support team at +91 93344 04050 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing."
+                    "text": "You can contact our customer support team at +91 9835565233 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing."
                 }
             }
         ]
@@ -396,7 +396,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-chinchw
         <h1>Packers and Movers in Chinchwad Pune</h1>
         <p>Reliable household shifting, automotive employee relocations, and professional packing services across Empire Estate, Thergaon, Chaphekar Chowk, and the Old Mumbai-Pune Highway corridor.</p>
         <div class="chw-btn-wrap">
-            <a href="tel:+919334404050" class="chw-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="chw-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="chw-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -417,7 +417,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-chinchw
         <p>Our deep local operational experience in PCMC allows us to navigate highway traffic, loading dock permits, and society regulations effortlessly. We coordinate directly with estate management offices, verify basement clearance heights for our covered container trucks, and utilize protective floor runners and padded lift blankets during moving operations.</p>
 
         <div class="chw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Chinchwad Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods truck loading in Chinchwad Pune">
             <p class="chw-image-caption">Professional moving crews packing and loading household goods into covered container trucks in Chinchwad.</p>
         </div>
 
@@ -459,7 +459,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-chinchw
         </div>
 
         <div class="chw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Chinchwad Pune">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials in Chinchwad Pune">
             <p class="chw-image-caption">Premium five-ply corrugated boxes, air-bubble cushioning, and stretch wrap securing household valuables.</p>
         </div>
 
@@ -575,7 +575,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-chinchw
         </div>
 
         <div class="chw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Chinchwad">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Chinchwad">
             <p class="chw-image-caption">Expert carpenter dismantling modular double bed frames for safe apartment relocation in Chinchwad.</p>
         </div>
 
@@ -609,7 +609,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-chinchw
         </div>
 
         <div class="chw-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Chinchwad">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Chinchwad">
             <p class="chw-image-caption">Reliable covered container vehicles delivering safe door-to-door household shifting across Chinchwad.</p>
         </div>
 
@@ -678,7 +678,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-chinchw
 
         <div class="chw-faq-item">
             <h3>How can I obtain a customized relocation quotation for Chinchwad shifting?</h3>
-            <p>You can contact our customer support team at +91 93344 04050 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing.</p>
+            <p>You can contact our customer support team at +91 9835565233 or submit our online form for a rapid digital or in-home survey and guaranteed transparent pricing.</p>
         </div>
     </section>
 

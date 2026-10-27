@@ -285,7 +285,7 @@
         "name": "Shree Ashirwad Packers and Movers City Centre Durgapur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-city-centre-durgapur",
-        "telephone": "+91 9334812300",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -509,7 +509,7 @@
 
     <!-- Visual Image 1 -->
     <div class="ccd-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded professionally into covered container truck in City Centre Durgapur">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loaded professionally into covered container truck in City Centre Durgapur">
         <div class="ccd-img-caption">Figure 1: Specialized containerized loading operations for residential and corporate relocations across City Centre Durgapur.</div>
     </div>
 
@@ -557,7 +557,7 @@
 
     <!-- Visual Image 2 -->
     <div class="ccd-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Airtight multi-layer bubble wrap and sturdy box packaging for delicate household goods in City Centre Durgapur">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Airtight multi-layer bubble wrap and sturdy box packaging for delicate household goods in City Centre Durgapur">
         <div class="ccd-img-caption">Figure 2: Multi-layer protective packaging for fragile glassware, electronics, kitchen appliances, and furniture.</div>
     </div>
 
@@ -610,7 +610,7 @@
 
     <!-- Visual Image 3 -->
     <div class="ccd-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert carpenters dismantling double bed and wooden furniture in City Centre Durgapur">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Expert carpenters dismantling double bed and wooden furniture in City Centre Durgapur">
         <div class="ccd-img-caption">Figure 3: Professional carpentry technicians disassembling modular wooden furniture for scratch-resistant transport.</div>
     </div>
 
@@ -682,7 +682,7 @@
 
     <!-- Visual Image 4 -->
     <div class="ccd-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck delivering packed goods in residential area">
         <div class="ccd-img-caption">Figure 4: Punctual door-to-door delivery and room placement service conducted by our trained handling staff.</div>
     </div>
 

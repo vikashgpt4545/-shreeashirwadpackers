@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Hatigaon Guwahati",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hatigaon-guwahati",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="htg-container">
       <h1>Packers and Movers in Hatigaon Guwahati</h1>
       <p>Premier residential apartment shifting, Assam Secretariat staff transfer relocation, Sijubari home moving, and nationwide container transit in Hatigaon.</p>
-      <a href="tel:+919334484001" class="htg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="htg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Hatigaon represents one of the largest, most vibrant residential and administrative feeder districts of South Guwahati, located immediately adjacent to the Assam State Secretariat complex at Dispur. Extending from the lively intersection of Hatigaon Chariali through the rapidly developing residential enclaves of Sijubari, Notboma, Bhetapara link, and Little Flower School road, Hatigaon is characterized by a tranquil blend of modern multistory housing societies, executive duplex villas, and dedicated government employees' residential colonies. Home to civil service officers, educators, healthcare professionals, and multi-generational families, Hatigaon experiences constant residential mobility. Successfully managing a move in Hatigaon requires an experienced moving team that knows how to navigate narrow residential by-lanes, manage multi-level stairways, and safeguard delicate goods against humid weather conditions.</p>
 
       <div class="htg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Hatigaon Guwahati" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Hatigaon Guwahati" width="580" height="360" loading="lazy">
       </div>
 
       <div class="htg-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Hatigaon operational unit delivers tailored relocation services designed to address the diverse needs of government employees, educators, families, and local merchants:</p>
 
       <div class="htg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Hatigaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Hatigaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="htg-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Hatigaon follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="htg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Hatigaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Hatigaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="htg-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Hatigaon:</p>
 
       <div class="htg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Hatigaon" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Hatigaon" width="580" height="360" loading="lazy">
       </div>
 
       <div class="htg-grid-cards">

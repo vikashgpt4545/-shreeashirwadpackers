@@ -754,7 +754,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Shree Ashirwad Packers and Movers maintains an unyielding <strong>zero-transshipment commitment</strong>. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--rmd-rose); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, we also manage high-frequency reciprocal return relocations on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/madurai-to-ranchi-packers-and-movers" style="color: var(--rmd-rose); font-weight: 600; text-decoration: underline;">Madurai to Ranchi packers and movers</a> corridor with equal dedication. Your shipment is sealed inside an exclusive, locked metal container in Ranchi and opened only at your final address in Madurai, eliminating the danger of midway transit damages.</p>
             </div>
             <div class="rmd-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Madurai Packers and Movers container truck transit" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Madurai Packers and Movers container truck transit" loading="lazy">
             </div>
         </div>
     </section>
@@ -847,7 +847,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rmd-section rmd-section-light">
         <div class="rmd-grid-2">
             <div class="rmd-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing for Ranchi to Madurai moving" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Heavy duty multi-layer packing for Ranchi to Madurai moving" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rmd-rose); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Robust Packaging Engineering</span>
@@ -957,7 +957,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Whether delivering to KK Nagar, Anna Nagar, or SS Colony, we provide convenient doorstep drop-off, ensuring your car or bike arrives clean, scratch-free, and ready to drive.</p>
             </div>
             <div class="rmd-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Madurai" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading from Ranchi to Madurai" loading="lazy">
             </div>
         </div>
     </section>
@@ -1006,7 +1006,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <section class="rmd-section rmd-section-light">
         <div class="rmd-grid-2">
             <div class="rmd-image-container">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Madurai Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck Madurai Shree Ashirwad Packers" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--rmd-rose); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 0.05em;">Why Trust Shree Ashirwad</span>

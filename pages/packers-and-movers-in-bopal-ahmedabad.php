@@ -33,7 +33,7 @@ $state_name = 'Gujarat';
     "name": "Shree Ashirwad Packers and Movers Bopal Ahmedabad",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bopal-ahmedabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -411,7 +411,7 @@ $state_name = 'Gujarat';
           <p>Shree Ashirwad Packers and Movers brings over 16 years of certified industry leadership to Bopal. Whether you are upgrading from a 2 BHK apartment in Sun City to a sprawling duplex in Gala Aria or moving out of state from Shela, our experienced packing crews deliver white-glove packing, seamless modular furniture dismantling, and reliable transport. We connect Bopal seamlessly with all city sectors via our parent <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ahmedabad" style="color: #047857; font-weight: 700; text-decoration: underline;">packers and movers in Ahmedabad</a> authority network and national hubs.</p>
         </div>
         <div class="bpl-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High Rise Apartment Moving in Bopal Ahmedabad" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High Rise Apartment Moving in Bopal Ahmedabad" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -453,7 +453,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="bpl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Bopal Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Bopal Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -596,7 +596,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="bpl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Bopal Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Bopal Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -632,7 +632,7 @@ $state_name = 'Gujarat';
       </div>
 
       <div class="bpl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Bopal Ahmedabad" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Bopal Ahmedabad" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -663,7 +663,7 @@ $state_name = 'Gujarat';
     <div class="bpl-cta-bar">
       <h3>Plan Your Stress-Free Move in Bopal Today!</h3>
       <p>Connect with our Bopal relocation specialists for a free on-site survey and guaranteed transparent quotation.</p>
-      <a href="tel:+919334484001" class="bpl-cta-btn">Call Now: +91 9334484001</a>
+      <a href="tel:+919835565233" class="bpl-cta-btn">Call Now: +91 9835565233</a>
     </div>
 
     <section class="bpl-section">

@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-mangalore";
         "name": "Shree Ashirwad Packers and Movers Mangalore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -515,7 +515,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Mangalore</h1>
         <p>Premium household shifting, port cargo logistics, corporate office relocation, and automobile transport across Kadri, Bejai, Surathkal, Hampankatta, and Baikampady.</p>
         <div class="mng-btn-wrap">
-            <a href="tel:+919334404050" class="mng-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mng-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mng-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -543,7 +543,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mng-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Mangalore" title="Household relocation in Mangalore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packing in Mangalore" title="Household relocation in Mangalore">
             <p class="mng-image-caption">Systematic room-by-room packing and moisture-proof wrapping for residential homes in Mangalore.</p>
         </div>
     </section>
@@ -579,7 +579,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Sensitive electronic appliances—including smart televisions, double-door inverter refrigerators, and automatic washing machines—are secured with internal drum transit locks, thick quilted moving blankets, and heavy-gauge shrink wrap, ensuring 100% operational safety upon arrival.</p>
 
         <div class="mng-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Mangalore" title="Furniture packing in Mangalore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Mangalore" title="Furniture packing in Mangalore">
             <p class="mng-image-caption">High-density bubble wrap and corrugated edge buffers shielding valuable furniture in Mangalore.</p>
         </div>
     </section>
@@ -620,7 +620,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Mangalore's strategic location along National Highway 66 (connecting Mumbai, Goa, and Kerala) makes it an active hub for vehicle transit. We operate specialized covered car carrier trucks and enclosed bike parcel containers. Your car or motorcycle is inspected, safely tied down with wheel chocks and heavy-duty ratchet straps, and delivered scratch-free with full transit insurance protection.</p>
 
         <div class="mng-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Mangalore" title="Delicate packing in Mangalore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile packing services in Mangalore" title="Delicate packing in Mangalore">
             <p class="mng-image-caption">Individual bubble wrapping and shock-absorbent cell partitioning for glassware and crockery in Mangalore.</p>
         </div>
     </section>
@@ -735,7 +735,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="mng-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck in Mangalore" title="Safe transit truck in Mangalore">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed container truck in Mangalore" title="Safe transit truck in Mangalore">
             <p class="mng-image-caption">Heavy-duty weatherproof container trucks providing safe, moisture-protected transit across Karnataka and pan-India routes.</p>
         </div>
     </section>

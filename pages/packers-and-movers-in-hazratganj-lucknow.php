@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Hazratganj Lucknow",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -485,7 +485,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="hzg-hero-title">Packers and Movers in Hazratganj Lucknow</h1>
         <p class="hzg-hero-subtitle">Downtown city center relocation specialists. Expert handling for vintage homes, Secretariat quarters, Janpath retail stores, antique furnishings, and night-shift transport.</p>
         <div class="hzg-cta-group">
-            <a href="tel:+919334404050" class="hzg-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="hzg-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hzg-btn-secondary">Check Moving Charges</a>
         </div>
     </section>
@@ -498,7 +498,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="hzg-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we possess over a decade of specialized experience navigating Hazratganj's unique logistical landscape. Downtown relocations require acute precision: daytime heavy-vehicle traffic limitations, narrow heritage service lanes behind colonial buildings, and multi-storey classic apartments without freight elevators. Our specialized moving teams operate with surgical care to protect your prized possessions.</p>
 
         <div class="hzg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Hazratganj Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading truck in Hazratganj Lucknow" loading="lazy">
             <p class="hzg-image-caption">Precision residential loading and heritage apartment relocations in central Hazratganj Lucknow</p>
         </div>
 
@@ -578,7 +578,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="hzg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective packing for fragile valuables in Hazratganj Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Protective packing for fragile valuables in Hazratganj Lucknow" loading="lazy">
             <p class="hzg-image-caption">Multi-tier shock cushioning protects delicate glassware, porcelain, and crystal lighting</p>
         </div>
     </section>
@@ -680,7 +680,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="hzg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by carpenters in Hazratganj" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling by carpenters in Hazratganj" loading="lazy">
             <p class="hzg-image-caption">Expert carpentry technicians disassemble complex beds and wooden cabinetry safely</p>
         </div>
     </section>
@@ -695,7 +695,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="hzg-intro-p">Furthermore, our transport dispatchers utilize Ashok Marg and the Gomti Barrage route to seamlessly transfer goods to the Shaheed Path bypass during permitted moving windows. This enables smooth connectivity onto the Agra-Lucknow Expressway and national transit routes without passing through crowded commercial bottlenecks around Kaiserbagh or Aminabad.</p>
 
         <div class="hzg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hazratganj Lucknow" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Hazratganj Lucknow" loading="lazy">
             <p class="hzg-image-caption">Dedicated enclosed container trucks ensure secure, punctual door-to-door deliveries</p>
         </div>
     </section>
@@ -758,7 +758,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Experience Seamless Moving in Hazratganj</h3>
         <p>Contact our downtown moving team today for an upfront quotation, bespoke survey, and damage-free relocation in Hazratganj Lucknow.</p>
         <div class="hzg-cta-group">
-            <a href="tel:+919334404050" class="hzg-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="hzg-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hzg-btn-secondary">Get Free Estimate</a>
         </div>
     </section>

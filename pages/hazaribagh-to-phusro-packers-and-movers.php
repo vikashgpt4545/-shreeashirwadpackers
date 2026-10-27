@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Hazaribagh to Phusro",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334800840",
+        "telephone": "+91 9835565233",
         "priceRange": "₹6,800 - ₹32,000",
         "address": {
             "@type": "PostalAddress",
@@ -632,7 +632,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <p class="hero-lead">Fast, dependable household relocation, CCL colliery staff transfers, car parcel, and bike transport from Hazaribagh to Phusro, Bermo, and DVC coalfield belt.</p>
             <div class="hero-cta-group">
                 <a href="#quick-quote" class="btn-primary-hero"><i class="fa-solid fa-calculator"></i> Get Free Instant Quote</a>
-                <a href="tel:+919334800840" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91-9334800840</a>
+                <a href="tel:+919835565233" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91 9835565233</a>
             </div>
         </div>
         <div class="hero-form-card" id="quick-quote">
@@ -687,7 +687,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 1 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Loading household cargo in Hazaribagh for Phusro transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Loading household cargo in Hazaribagh for Phusro transit" loading="lazy">
                     <div class="photo-caption">Figure 1: Professional loading of household furniture and boxed inventory inside weather-sealed container vehicles in Hazaribagh.</div>
                 </div>
 
@@ -717,7 +717,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 2 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective appliance packing for Hazaribagh to Phusro transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Protective appliance packing for Hazaribagh to Phusro transit" loading="lazy">
                     <div class="photo-caption">Figure 2: Multi-layer protective cushioning applied to washing machines, microwaves, and delicate electronics before transit.</div>
                 </div>
 
@@ -788,7 +788,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 3 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle parcel from Hazaribagh to Phusro" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle parcel from Hazaribagh to Phusro" loading="lazy">
                     <div class="photo-caption">Figure 3: Specialized two-wheeler carrier protection ensuring mirror safety, zero tank scratches, and secure road anchoring.</div>
                 </div>
 
@@ -814,7 +814,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
                 <!-- Photographic Asset 4 -->
                 <div class="photo-card">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for Hazaribagh to Phusro transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed container trucks for Hazaribagh to Phusro transit" loading="lazy">
                     <div class="photo-caption">Figure 4: Enclosed weatherproof container trucks ensuring zero exposure to rain or road grime during intercity transit.</div>
                 </div>
 
@@ -882,7 +882,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
 
                 <h2>Schedule Your Hazaribagh to Phusro Move Today</h2>
-                <p>Relocating between Hazaribagh and Phusro is smooth and worry-free with Shree Ashirwad Packers and Movers. Our coordinators assist you from pre-move survey to final delivery. Contact our team today at <strong>+91-9334800840</strong> or fill out our online quote form above to secure your move date.</p>
+                <p>Relocating between Hazaribagh and Phusro is smooth and worry-free with Shree Ashirwad Packers and Movers. Our coordinators assist you from pre-move survey to final delivery. Contact our team today at <strong>+91 9835565233</strong> or fill out our online quote form above to secure your move date.</p>
 
                 <h2>Connected Phusro Relocation Corridors</h2>
                 <p>We provide regular containerized moving services connecting Phusro to major national and regional hubs:</p>

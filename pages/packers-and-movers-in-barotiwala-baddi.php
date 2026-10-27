@@ -268,7 +268,7 @@ $state_name = 'Himachal Pradesh';
         "logo": "https://shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "description": "Licensed and insured packers and movers in Barotiwala Baddi offering professional corporate employee relocations, industrial packaging, residential shifting, and nationwide container transit.",
-        "telephone": "+91-9334800375",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
@@ -440,7 +440,7 @@ $state_name = 'Himachal Pradesh';
           <p>With over 16 years of certified industry leadership across the region, Shree Ashirwad Packers and Movers is the preferred moving company for corporate enterprises and private residents in Barotiwala Baddi. Our comprehensive services include verified computerized claim documentation, specialized closed containerized fleets, and an uncompromising commitment to punctual, zero-damage delivery.</p>
         </div>
         <div class="btw-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Barotiwala Baddi" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Barotiwala Baddi" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -482,7 +482,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="btw-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Barotiwala Baddi" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Barotiwala Baddi" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -575,7 +575,7 @@ $state_name = 'Himachal Pradesh';
       </table>
 
       <div class="btw-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Barotiwala Baddi" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Barotiwala Baddi" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -611,7 +611,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="btw-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Barotiwala Baddi" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Barotiwala Baddi" width="580" height="380" loading="lazy">
       </div>
     </section>
 

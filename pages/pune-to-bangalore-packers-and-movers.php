@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
     "description": "Professional interstate relocation services from Pune to Bangalore specializing in household shifting, corporate IT relocations, car and bike carrier transport, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,800 - ₹60,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating across the 840 km interstate expanse between Pune, Maharashtra and Bangalore, Karnataka represents one of India's most significant technology and industrial corridors. Whether transferring your tech career from Hinjewadi, Wakad, or Magarpatta to Bangalore's Whitefield, Electronic City, or Outer Ring Road, moving your family household across state borders requires meticulous planning and industrial-grade logistics execution.</p>
     
     <div class="pnbg-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Pune to Bangalore transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified company owned container truck for Pune to Bangalore transit" loading="lazy">
       <div class="pnbg-img-caption">Company-owned sealed container fleets guaranteeing weatherproof transit from Pune to Bangalore along NH48.</div>
     </div>
 
@@ -461,7 +461,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>The 840 km Golden Quadrilateral corridor involves high cruising speeds and varying terrain gradients across the Western Ghats approaches near Satara and Kolhapur. To prevent vibration-induced scuffs or structural loosening, we enforce a stringent 4-layer packaging standard.</p>
 
     <div class="pnbg-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and wooden furniture protective wrapping for long distance move" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and wooden furniture protective wrapping for long distance move" loading="lazy">
       <div class="pnbg-img-caption">Specialized sofa and upholstery protective wrapping preventing dust and fabric scuffs.</div>
     </div>
 
@@ -491,7 +491,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your personal vehicle across 840 km of national highways can lead to extreme driver exhaustion, mechanical wear, and exposure to highway gravel chips. Our dedicated vehicle shipping services provide a secure, stress-free alternative.</p>
 
     <div class="pnbg-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile kitchen crockery bubble packing for safe highway travel" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Fragile kitchen crockery bubble packing for safe highway travel" loading="lazy">
       <div class="pnbg-img-caption">Multi-layer bubble wrapping and cell packing ensuring delicate items arrive without a single hairline crack.</div>
     </div>
 
@@ -652,7 +652,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="pnbg-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination" loading="lazy">
       <div class="pnbg-img-caption">Doorstep delivery fleet reaching high-rise apartments and residential colonies across Bangalore.</div>
     </div>
   </section>

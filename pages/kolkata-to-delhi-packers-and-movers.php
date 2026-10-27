@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Top-rated interstate relocation services from Kolkata to Delhi NCR specializing in household goods relocation, corporate shifting, enclosed car carriers, motorcycle transport, and long-term warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹5,500 - ₹75,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>The journey links West Bengal, Jharkhand, Bihar, and Uttar Pradesh before terminating in the National Capital Region. Long-distance transit over diverse road conditions demands superior cargo balancing, heavy-duty vehicle suspension, and tight interior lashing inside waterproof steel containers.</p>
 
     <div class="ktd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Kolkata to Delhi interstate container truck loading" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Kolkata to Delhi interstate container truck loading" width="580" height="380" loading="lazy">
       <div class="ktd-img-caption">Sealed heavy-duty container trucks operating on the Kolkata-Delhi NH19 Golden Quadrilateral.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="ktd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Kolkata to Delhi shifting" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Kolkata to Delhi shifting" width="580" height="380" loading="lazy">
       <div class="ktd-img-caption">Multi-layer protective packaging engineered for long-haul stability across the 1,500 km Kolkata-Delhi corridor.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="ktd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier transport from Kolkata to Delhi" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier transport from Kolkata to Delhi" width="580" height="380" loading="lazy">
       <div class="ktd-img-caption">Dedicated closed automobile carriers ensuring secure, scratch-free transport from Kolkata to Delhi NCR.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="ktd-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Delhi NCR" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Delhi NCR" width="580" height="380" loading="lazy">
       <div class="ktd-img-caption">Complete destination unpacking, furniture reassembly, and debris clearance service in Delhi NCR.</div>
     </div>
   </section>

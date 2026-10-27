@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-bavdhan
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-bavdhan-pune#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-bavdhan-pune",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Bavdhan Pune</h1>
         <p>Premium residential packing, hillside villa moving, corporate employee transfer, and secure vehicle transportation connecting Bavdhan Khurd, Bavdhan Budruk, Chandani Chowk, and NDA Road with zero transit stress.</p>
         <div class="bvd-btn-wrap">
-            <a href="tel:+919334404050" class="bvd-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="bvd-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bvd-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Relocating across Bavdhan presents unique logistical dynamics requiring customized planning. The suburb features a harmonious blend of high-rise gated communities, sprawling row-house enclaves, and hillside villa societies developed across varying elevations. Handling furniture dismantling, heavy appliance crating, and multi-layer packaging demands specialized moving equipment such as hydraulic tailgates, heavy-duty furniture sliders, specialized multi-strand packing ropes, and weather-shielded closed-body transport carriers.</p>
 
         <div class="bvd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers team loading household goods truck in Bavdhan Pune" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers team loading household goods truck in Bavdhan Pune" width="580" height="387" loading="lazy">
             <p class="bvd-image-caption">Professional loading and tie-down of household goods into our specialized container vehicles serving Bavdhan Pune.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bvd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap and carton packaging for fragile items in Bavdhan" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Premium bubble wrap and carton packaging for fragile items in Bavdhan" width="580" height="387" loading="lazy">
             <p class="bvd-image-caption">Multi-layer protective bubble wrap and heavy-gauge carton packaging engineered for fragile household shifting in Bavdhan.</p>
         </div>
 
@@ -617,7 +617,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bvd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and protective wrapping in Bavdhan Pune" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and protective wrapping in Bavdhan Pune" width="580" height="387" loading="lazy">
             <p class="bvd-image-caption">Carpentry specialists systematically dismantling and cushioning modular bed panels before transit from Bavdhan.</p>
         </div>
 
@@ -665,7 +665,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="bvd-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household relocation in Bavdhan Pune" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household relocation in Bavdhan Pune" width="580" height="387" loading="lazy">
             <p class="bvd-image-caption">Door-to-door enclosed transport container parked for residential delivery in Bavdhan, Pune.</p>
         </div>
 
@@ -746,7 +746,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <div class="bvd-highlight-box" style="margin-top: 30px; text-align: center;">
             <h3 style="color: #0f172a;">Ready to Relocate In or Out of Bavdhan Pune?</h3>
             <p style="margin-bottom: 15px; color: #475569;">Connect with our experienced shifting coordinators today for an obligation-free doorstep quotation and customized moving schedule.</p>
-            <a href="tel:+919334404050" class="bvd-btn-primary" style="display: inline-block;">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="bvd-btn-primary" style="display: inline-block;">Call Now: +91 9835565233</a>
         </div>
     </section>
 

@@ -280,7 +280,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
                 <div style="background: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0; padding: 12px;">
                     <!-- Whitelisted Image 1 in 3:4 container -->
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Pakuria Jharkhand" style="width: 100%; height: 100%; object-fit: cover;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck in Pakuria Jharkhand" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div style="padding: 16px 4px 4px;">
                         <h4 style="font-size: 16px; font-weight: 700; color: #0b2545; margin-bottom: 6px;">Door-to-Door Delivery Fleet</h4>
@@ -291,7 +291,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
                 <div style="background: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0; padding: 12px;">
                     <!-- Whitelisted Image 2 in 3:4 container -->
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Household Cartons Packing in Pakuria" style="width: 100%; height: 100%; object-fit: cover;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Household Cartons Packing in Pakuria" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div style="padding: 16px 4px 4px;">
                         <h4 style="font-size: 16px; font-weight: 700; color: #0b2545; margin-bottom: 6px;">Multi-Layered Packing Supplies</h4>
@@ -302,7 +302,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
                 <div style="background: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0; padding: 12px;">
                     <!-- Whitelisted Image 3 in 3:4 container -->
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Services in Pakuria" style="width: 100%; height: 100%; object-fit: cover;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading Services in Pakuria" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div style="padding: 16px 4px 4px;">
                         <h4 style="font-size: 16px; font-weight: 700; color: #0b2545; margin-bottom: 6px;">Specialized Vehicle Carriers</h4>
@@ -313,7 +313,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pak
                 <div style="background: #ffffff; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0; padding: 12px;">
                     <!-- Whitelisted Image 4 in 3:4 container -->
                     <div style="max-width: 420px; margin: 0 auto; aspect-ratio: 3/4; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.12);">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Warehouse Facilities" style="width: 100%; height: 100%; object-fit: cover;">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial Goods Storage and Warehouse Facilities" style="width: 100%; height: 100%; object-fit: cover;">
                     </div>
                     <div style="padding: 16px 4px 4px;">
                         <h4 style="font-size: 16px; font-weight: 700; color: #0b2545; margin-bottom: 6px;">Secure Warehousing & Storage</h4>

@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruppur";
         "name": "Shree Ashirwad Packers and Movers Tiruppur",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,400 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruppur";
         <p>Relocating in Tiruppur demands an energetic and versatile moving partner. Navigating the dense commercial districts of Kumaran Road, Rayapuram, and Court Street requires agile feeder transport and compact vehicle handling during factory shift intervals. Conversely, servicing sprawling industrialist villas and gated communities along Avinashi Road, Kangeyam Road, and Palladam Road requires heavy closed-container trucks equipped with hydraulic tailgates and multi-layer packaging defense. Shree Ashirwad Packers and Movers delivers tailored relocation services designed to meet the dynamic needs of Tiruppur's residents and export houses.</p>
 
         <div class="tpr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Tiruppur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Household goods loading and apartment shifting in Tiruppur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tpr-image-caption">Professional household loading and apartment shifting operations in Tiruppur.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruppur";
         </div>
 
         <div class="tpr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office equipment and computer packing in Tiruppur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate office equipment and computer packing in Tiruppur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tpr-image-caption">Corporate server rack protection and office equipment relocation by Shree Ashirwad in Tiruppur.</div>
         </div>
 
@@ -594,7 +594,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruppur";
         <p>Our expert moving crews utilize a four-layer defensive packing system. Polished teak and rosewood furniture are first padded with breathable soft cotton quilts, wrapped in high-density air bubble wrap, reinforced with thick corrugated corner edge boards, and enveloped in tear-resistant stretch wrap. This protects against scratches, humidity fluctuations, and highway transit vibrations.</p>
 
         <div class="tpr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Tiruppur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective wooden furniture wrapping in Tiruppur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tpr-image-caption">Multi-tier bubble cushioning and edge protection for wooden furniture in Tiruppur.</div>
         </div>
 
@@ -720,7 +720,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruppur";
         </ol>
 
         <div class="tpr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Tiruppur Tamil Nadu" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in Tiruppur Tamil Nadu" width="580" height="387" loading="lazy">
             <div class="tpr-image-caption">Weatherproof sealed container vehicles engineered for safe transit across Tiruppur corridors.</div>
         </div>
     </section>
@@ -777,7 +777,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-tiruppur";
     <div class="tpr-cta-box">
         <h3>Move Safely in Tiruppur with Proven Logistics Experts</h3>
         <p>Get a guaranteed fixed-rate quotation with zero surprise costs. Licensed, fully insured moving specialists ready to assist your household or office relocation today.</p>
-        <a href="tel:+919334404050" class="tpr-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="tpr-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-krishnanagar#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-krishnanagar",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -540,7 +540,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="ksn-body-p">Whether you are an administrative officer transferring through the Nadia District Collectorate or District Court, a medical specialist stationed at Krishnanagar Government Medical College and Hospital, a college professor at Krishnagar Government College or Dwijendralal College, an artisan exporter dispatching fragile terracotta decor, or a resident moving between heritage neighborhoods around Rajbari, Post Office More, and Nediarpara, Shree Ashirwad Packers and Movers delivers fully synchronized, certified, and stress-free moving solutions tailored to the town's unique layout.</p>
 
                 <div class="ksn-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Krishnanagar transport vehicle" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading household goods and furniture in Krishnanagar transport vehicle" width="580" height="380" loading="lazy">
                     <div class="ksn-image-caption">Disciplined stowing and protective cargo lashing inside covered container transport in Krishnanagar.</div>
                 </div>
 
@@ -593,7 +593,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="ksn-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Krishnanagar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer packaging of electronics and kitchenware in Krishnanagar" width="580" height="380" loading="lazy">
                     <div class="ksn-image-caption">High-density air bubble wrap and 5-ply corrugated carton encasement protecting home goods in Krishnanagar.</div>
                 </div>
 
@@ -657,7 +657,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="ksn-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Krishnanagar home" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Disassembling wooden wardrobe and double bed in Krishnanagar home" width="580" height="380" loading="lazy">
                     <div class="ksn-image-caption">Professional furniture disassembling and edge protection for modular double beds and wooden wardrobes in Krishnanagar.</div>
                 </div>
 
@@ -708,7 +708,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="ksn-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Krishnanagar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Safe doorstep delivery and unloading of household items in Krishnanagar" width="580" height="380" loading="lazy">
                     <div class="ksn-image-caption">Punctual arrival and courteous doorstep delivery service by Shree Ashirwad Packers and Movers in Krishnanagar.</div>
                 </div>
 
@@ -763,9 +763,9 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="ksn-body-p">Speak directly with our local Krishnanagar operations supervisor for an instant price quote and scheduled on-site inspection.</p>
                 <div class="ksn-highlight-box">
                     <div class="ksn-highlight-title">Direct Helpline</div>
-                    <p class="ksn-highlight-desc"><strong>+91 93344 60424</strong><br>Available 7 AM - 9:30 PM Daily</p>
+                    <p class="ksn-highlight-desc"><strong>+91 9835565233</strong><br>Available 7 AM - 9:30 PM Daily</p>
                 </div>
-                <a href="tel:+919334460424" class="ksn-cta-button">Call Now for Free Quote</a>
+                <a href="tel:+919835565233" class="ksn-cta-button">Call Now for Free Quote</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ksn-cta-button" style="background: #1e3a8a; margin-top: 10px;">Calculate Tariff Online</a>
             </div>
 

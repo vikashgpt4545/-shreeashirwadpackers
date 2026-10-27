@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers - Vijayawada to Bangalore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo SITE_BASE_URL; ?>/vijayawada-to-bangalore-packers-and-movers",
-        "telephone": "+91 9334455806",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 13000 - 44000",
         "address": {
             "@type": "PostalAddress",
@@ -408,7 +408,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="vjbg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Vijayawada to Bangalore interstate safe container truck" width="580" height="386" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Vijayawada to Bangalore interstate safe container truck" width="580" height="386" loading="lazy">
                 </div>
             </div>
         </div>
@@ -475,7 +475,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="vjbg-grid-2">
             <div>
                 <div class="vjbg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials for Vijayawada to Bangalore shifting" width="580" height="386" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials for Vijayawada to Bangalore shifting" width="580" height="386" loading="lazy">
                 </div>
             </div>
             <div>
@@ -572,7 +572,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="vjbg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Interstate bike and car transport Vijayawada to Bangalore" width="580" height="386" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Interstate bike and car transport Vijayawada to Bangalore" width="580" height="386" loading="lazy">
                 </div>
             </div>
         </div>
@@ -614,7 +614,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="vjbg-grid-2">
             <div>
                 <div class="vjbg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Destination home unpacking and furniture setup in Bangalore" width="580" height="386" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Destination home unpacking and furniture setup in Bangalore" width="580" height="386" loading="lazy">
                 </div>
             </div>
             <div>

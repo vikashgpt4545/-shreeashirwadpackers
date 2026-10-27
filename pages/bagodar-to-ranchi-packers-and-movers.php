@@ -498,7 +498,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     <p>Our fleet comprises purpose-built, weather-sealed container vehicles equipped with hydraulic tailgates and internal restraint straps to eliminate shifting or friction during highway transit. Every consignment is supervised by full-time relocation specialists who ensure on-schedule delivery within 3.5 to 4.5 hours of departure.</p>
                 </div>
                 <div class="bag2ran-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging by Shree Ashirwad Packers for Bagodar to Ranchi relocation" title="Professional packing standards for Bagodar to Ranchi shifting" width="550" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household packaging by Shree Ashirwad Packers for Bagodar to Ranchi relocation" title="Professional packing standards for Bagodar to Ranchi shifting" width="550" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -569,7 +569,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         <div class="bag2ran-container">
             <div class="bag2ran-two-col">
                 <div class="bag2ran-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading by Shree Ashirwad Packers" title="Car and bike transportation from Bagodar to Ranchi" width="550" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated car carrier loading by Shree Ashirwad Packers" title="Car and bike transportation from Bagodar to Ranchi" width="550" height="380" loading="lazy">
                 </div>
                 <div class="bag2ran-col-text">
                     <h3>High-Grade 5-Layer Packing &amp; Safe Vehicle Parcel</h3>
@@ -633,7 +633,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     <p>Heavy electrical appliances such as washing machines, double-door refrigerators, and air conditioning units are anchored securely using anti-vibration rubber pads inside our container vehicles to guarantee complete mechanical and electronic integrity.</p>
                 </div>
                 <div class="bag2ran-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry by Shree Ashirwad Packers" title="Skilled furniture assembly for Bagodar to Ranchi shifting" width="550" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry by Shree Ashirwad Packers" title="Skilled furniture assembly for Bagodar to Ranchi shifting" width="550" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -644,7 +644,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         <div class="bag2ran-container">
             <div class="bag2ran-two-col">
                 <div class="bag2ran-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure household goods storage and warehouse facility by Shree Ashirwad Packers" title="Safe warehousing and storage for Bagodar to Ranchi shifting" width="550" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Secure household goods storage and warehouse facility by Shree Ashirwad Packers" title="Safe warehousing and storage for Bagodar to Ranchi shifting" width="550" height="380" loading="lazy">
                 </div>
                 <div class="bag2ran-col-text">
                     <h3>Flexible Warehouse Storage &amp; Complete Transit Insurance</h3>

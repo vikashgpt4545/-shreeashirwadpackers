@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Shillong",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-shillong-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 22,000 - 68,000",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Harmu Road & Morabadi Logistics Center",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -544,8 +544,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Ranchi to Shillong Packers and Movers</h1>
         <p>Premium interstate relocation from Ranchi to Shillong, Meghalaya. Tailored shifting solutions for military officers posted to Eastern Air Command and Assam Regimental Centre, faculty at NEHU &amp; IIM Shillong, and government families moving to the Scotland of the East. Insured mountain transit across NH-27 and NH-6.</p>
         <div class="r2shl-cta-btns">
-          <a href="tel:+919431170366" class="r2shl-btn-primary">Call Now: +91 94311 70366</a>
-          <a href="https://api.whatsapp.com/send?phone=919431170366&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Shillong." class="r2shl-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:+919835565233" class="r2shl-btn-primary">Call Now: +91 98355 65233</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Shillong." class="r2shl-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="r2shl-quote-card">
@@ -590,7 +590,7 @@ include_once __DIR__ . '/../includes/config.php';
       <p>Because of Shillong's unique hilly geography, steep narrow streets, and exceptionally high annual precipitation, relocations to this region cannot be entrusted to ordinary domestic movers. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings specialized hill logistics competence, while also operating reliable return transit for <a href="<?php echo SITE_BASE_URL; ?>/shillong-to-ranchi-packers-and-movers" style="color: #1e3a8a; font-weight: 600; text-decoration: underline;">packers and movers from Shillong to Ranchi</a>. Using all-weather, sealed containerized vehicles and heavy-duty moisture-proof packaging materials designed specifically to endure mountain transport, we ensure that your valuable furniture, kitchenware, high-end electronics, and personal memorabilia reach your new Shillong doorstep in mint condition.</p>
 
       <div class="r2shl-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof Containerized Cargo Carrier for Ranchi to Shillong Move">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Waterproof Containerized Cargo Carrier for Ranchi to Shillong Move">
         <div class="r2shl-img-caption">Sealed all-weather container trucks engineered for moisture-proof transit to Meghalaya hill stations.</div>
       </div>
 
@@ -705,7 +705,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="r2shl-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Moisture-Resistant Furniture Wrapping for Shillong Transit">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Moisture-Resistant Furniture Wrapping for Shillong Transit">
         <div class="r2shl-img-caption">Multi-tier protective wrapping of fine furniture to prevent scratches and moisture penetration.</div>
       </div>
     </article>
@@ -744,7 +744,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="r2shl-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Transport from Ranchi to Shillong">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Packaging for Transport from Ranchi to Shillong">
         <div class="r2shl-img-caption">Custom shock-resistant packing and crating for motorcycles and scooters bound for Shillong.</div>
       </div>
     </article>
@@ -784,7 +784,7 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
 
       <div class="r2shl-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Goods in Shillong">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Loading Crew Delivering Goods in Shillong">
         <div class="r2shl-img-caption">Expert material handlers providing zero-damage loading and unloading across hill stations.</div>
       </div>
     </article>

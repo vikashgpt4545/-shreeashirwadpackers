@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Dibrugarh",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dibrugarh",
     "priceRange": "₹4,000 - ₹65,000",
     "address": {
@@ -369,7 +369,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="dbg-container">
       <h1>Packers and Movers in Dibrugarh Assam</h1>
       <p>Pinnacle Tea City relocation services, Assam Medical College doctor shifting, Dibrugarh University faculty moves, BCPL Lepetkata transfers, and Bogibeel bridge container transit.</p>
-      <a href="tel:+919334484001" class="dbg-hero-btn">Call +91 9334484001 for Immediate Booking</a>
+      <a href="tel:+919835565233" class="dbg-hero-btn">Call +91 9835565233 for Immediate Booking</a>
     </div>
   </section>
 
@@ -380,7 +380,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Dibrugarh holds an iconic stature as the "Tea City of India", the historical gateway to Upper Assam, and the undisputed administrative, medical, and higher educational capital of the eastern Brahmaputra valley. Sprawled along the southern embankment of the mighty Brahmaputra River, Dibrugarh is home to legendary institutions including the Assam Medical College (AMC, established in 1947 as the premier medical teaching hospital of the Northeast), Dibrugarh University, the mega Brahmaputra Cracker and Polymer Limited (BCPL) petrochemical complex at Lepetkata, Mohanbari Airport, and lush heritage tea estates including Jalan and Mancotta. With the historic opening of the Bogibeel Bridge &mdash; India's longest rail-cum-road bridge spanning the Brahmaputra &mdash; Dibrugarh has transformed into a strategic multimodal logistics junction connecting Assam directly with Dhemaji, Lakhimpur, and the frontier state of Arunachal Pradesh. Relocating in Dibrugarh demands nuanced knowledge of riverbank soil conditions, monsoon rain protection, and specialized petrochemical transfer compliance.</p>
 
       <div class="dbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Dibrugarh Assam" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading goods Dibrugarh Assam" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dbg-grid-2">
@@ -487,7 +487,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our Dibrugarh operational unit delivers tailored relocation services designed to address the diverse needs of healthcare specialists, university faculty, petrochemical engineers, and plantation managers:</p>
 
       <div class="dbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Dibrugarh" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for household furniture Dibrugarh" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dbg-grid-cards">
@@ -524,7 +524,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every relocation handled by Shree Ashirwad Packers and Movers in Dibrugarh follows a disciplined operational process engineered to ensure maximum safety, transparency, and speed:</p>
 
       <div class="dbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Dibrugarh" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading goods in container truck Dibrugarh" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dbg-grid-cards">
@@ -557,7 +557,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized operations teams manage daily pickup and delivery schedules across all prominent residential neighborhoods and commercial areas in and around Dibrugarh:</p>
 
       <div class="dbg-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Dibrugarh" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete packing materials household moving Dibrugarh" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dbg-grid-cards">

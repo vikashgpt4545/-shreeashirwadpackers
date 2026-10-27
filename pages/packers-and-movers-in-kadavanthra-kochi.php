@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kadavanthra Kochi",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kadavanthra-kochi",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>Executing smooth relocations in Kadavanthra requires exceptional care and logistical precision. The neighborhood is characterized by high-value multistory waterfront apartments, luxury duplex penthouses, and gated community villas where residents possess delicate antique woodwork, valuable paintings, imported crystal chandeliers, and cutting-edge home entertainment systems. Our moving operations are tailored to handle these delicate belongings with white-glove packaging methods, custom wooden crating, and strict compliance with apartment resident association protocols.</p>
 
     <div class="kdv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Kadavanthra Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Goods Loading in Kadavanthra Kochi" loading="lazy">
       <p class="kdv-image-caption">Disciplined apartment goods handling and elevator transit along SA Road in Kadavanthra.</p>
     </div>
 
@@ -600,7 +600,7 @@
     </div>
 
     <div class="kdv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Kadavanthra" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial Equipment Packing in Kadavanthra" loading="lazy">
       <p class="kdv-image-caption">Systematic packing and secure strapping of corporate electronics and delicate servers in Kadavanthra.</p>
     </div>
 
@@ -632,7 +632,7 @@
     </div>
 
     <div class="kdv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Kadavanthra Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Wrapping in Kadavanthra Kochi" loading="lazy">
       <p class="kdv-image-caption">Precision multi-layer corrugated padding shielding high-grade wooden furniture during transit.</p>
     </div>
 
@@ -646,7 +646,7 @@
     <p>Our operations dispatch team schedules container vehicles during early morning windows (between 6:30 AM and 9:00 AM) or mid-afternoons to avoid peak commute congestion. In the peaceful residential bylanes of Elamkulam, Giri Nagar, and Panampilly Nagar periphery, we deploy compact feeder vehicles that can easily navigate narrower streetscapes without causing any blockage or inconvenience to neighbors.</p>
 
     <div class="kdv-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Kadavanthra" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Kadavanthra" loading="lazy">
       <p class="kdv-image-caption">Weatherproof closed container trucks ensuring complete cargo security during monsoon transit.</p>
     </div>
 
@@ -736,7 +736,7 @@
   <section class="kdv-cta-banner">
     <h3>Book Your Premium Move in Kadavanthra Today!</h3>
     <p>Contact our dedicated Kadavanthra relocation managers for a complimentary on-site survey, detailed quotation, and guaranteed on-time door-to-door moving across Kerala and India.</p>
-    <a class="kdv-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="kdv-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

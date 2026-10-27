@@ -491,7 +491,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
                     <p>Our experienced packing team handles every step: dismantling heavy double beds, packing fragile glassware in bubble sheets, loading everything safely into weather-sealed container vehicles, and unloading into your chosen rooms in Bagodar—all completed comfortably within a single day.</p>
                 </div>
                 <div class="gir2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing and loading for Giridih to Bagodar move" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing and loading for Giridih to Bagodar move" loading="lazy">
                 </div>
             </div>
         </div>
@@ -548,7 +548,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
         <div class="gir2bag-container">
             <div class="gir2bag-two-col">
                 <div class="gir2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware packing in protective padded boxes" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware packing in protective padded boxes" loading="lazy">
                 </div>
                 <div>
                     <h2 class="gir2bag-section-title" style="text-align: left;">Engineered 5-Layer Packaging for Fragile &amp; Heavy Cargo</h2>
@@ -645,7 +645,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
                     <p>Our transport crews maintain dedicated transit logs throughout the journey from Giridih to Bagodar, ensuring zero jolts to your automobile or crated household cargo.</p>
                 </div>
                 <div class="gir2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Two wheeler motorcycle packing and carrier transport service" loading="lazy">
                 </div>
             </div>
         </div>
@@ -656,7 +656,7 @@ $og_image = SITE_BASE_URL . "/images/complete-household-packing-dhanbad.jpg";
         <div class="gir2bag-container">
             <div class="gir2bag-two-col">
                 <div class="gir2bag-img-wrap">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe transit container truck navigating highway transit" loading="lazy">
                 </div>
                 <div>
                     <h2 class="gir2bag-section-title" style="text-align: left;">Government, Judicial &amp; Administrative Transfer Support</h2>

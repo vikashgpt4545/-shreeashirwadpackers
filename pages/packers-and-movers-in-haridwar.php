@@ -267,7 +267,7 @@ $state_name = 'Uttarakhand';
     "name": "Shree Ashirwad Packers and Movers Haridwar",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9835155555",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 52,000",
     "address": {
       "@type": "PostalAddress",
@@ -399,7 +399,7 @@ $state_name = 'Uttarakhand';
           <p>Shree Ashirwad Packers and Movers brings over 16 years of certified industry leadership to Haridwar. Our specialized relocation teams combine deep local knowledge of Haridwar's routes with ISO-certified packing standards, providing complete turnkey shifting services from meticulous packing to safe placement in your new home. Whether you are moving across town from BHEL Ranipur to Shivalik Nagar or relocating across states to Delhi NCR, Pune, or Bengaluru, we guarantee smooth transit and complete peace of mind.</p>
         </div>
         <div class="hdw-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Haridwar" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Haridwar" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -441,7 +441,7 @@ $state_name = 'Uttarakhand';
       </div>
 
       <div class="hdw-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Haridwar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Haridwar" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -534,7 +534,7 @@ $state_name = 'Uttarakhand';
       </table>
 
       <div class="hdw-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Haridwar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Haridwar" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -570,7 +570,7 @@ $state_name = 'Uttarakhand';
       </div>
 
       <div class="hdw-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Haridwar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Haridwar" width="580" height="380" loading="lazy">
       </div>
     </section>
 

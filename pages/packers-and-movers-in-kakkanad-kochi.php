@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Kakkanad Kochi",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-kakkanad-kochi",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,000 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -495,7 +495,7 @@
     <p>Relocating software professionals and corporate infrastructure within Kakkanad demands exceptional precision. From coordinating with high-rise security desks and managing tight service elevator schedules to ensuring zero-downtime weekend workstation migrations, our relocation teams understand the fast-paced expectations of tech enterprises and modern homeowners. We coordinate closely with property facility managers across DLF Riverside, Trinity World, Purva Eternity, and asset townships to ensure seamless entry permits and organized parking.</p>
 
     <div class="kkn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Shifting in Kakkanad Kochi" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Apartment Shifting in Kakkanad Kochi" loading="lazy">
       <p class="kkn-image-caption">Dedicated high-rise apartment shifting and structured loading along Seaport-Airport Road Kakkanad.</p>
     </div>
 
@@ -600,7 +600,7 @@
     </div>
 
     <div class="kkn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="IT Office Equipment Packing in Kakkanad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="IT Office Equipment Packing in Kakkanad" loading="lazy">
       <p class="kkn-image-caption">Advanced anti-static packaging and heavy-duty boxing for server hardware and office electronics in Infopark Kakkanad.</p>
     </div>
 
@@ -632,7 +632,7 @@
     </div>
 
     <div class="kkn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Protection in Kakkanad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Protection in Kakkanad" loading="lazy">
       <p class="kkn-image-caption">Multi-layer protective padding and corrugated edge guards safeguarding high-value wooden furniture during transit.</p>
     </div>
 
@@ -646,7 +646,7 @@
     <p>Our dispatch teams plan vehicle movements during off-peak morning and mid-afternoon windows to avoid commuter congestion. Furthermore, our drivers are highly experienced in navigating the hilly residential terrain and narrow approach roads around Thrikkakara, Vazhakkala, and Padamughal, ensuring safe, timely delivery to any residential tower or villa enclave.</p>
 
     <div class="kkn-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Kakkanad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Kakkanad" loading="lazy">
       <p class="kkn-image-caption">All-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
 
@@ -736,7 +736,7 @@
   <section class="kkn-cta-banner">
     <h3>Book Your Seamless Move in Kakkanad Today!</h3>
     <p>Contact our Kakkanad relocation specialists for a free on-site or virtual survey, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Kerala and India.</p>
-    <a class="kkn-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="kkn-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

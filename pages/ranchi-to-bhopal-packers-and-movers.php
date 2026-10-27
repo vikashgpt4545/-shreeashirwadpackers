@@ -952,7 +952,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2bp-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Bhopal Packers and Movers Weatherproof Container Truck Fleet" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Bhopal Packers and Movers Weatherproof Container Truck Fleet" width="600" height="400" loading="lazy">
         <div class="r2bp-image-caption">
           <span class="r2bp-image-tag">Direct Linehaul Express</span>
           <p class="r2bp-image-text">Heavy-duty sealed container trucks equipped for uninterrupted long-haul highway transit along the 980-km corridor from Ranchi to Bhopal.</p>
@@ -1102,7 +1102,7 @@ require_once __DIR__ . '/includes/seo.php';
 
     <div class="r2bp-grid-2col reverse">
       <div class="r2bp-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Ranchi to Bhopal Multi-Layer Protective Furniture Wrapping" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Ranchi to Bhopal Multi-Layer Protective Furniture Wrapping" width="600" height="400" loading="lazy">
         <div class="r2bp-image-caption">
           <span class="r2bp-image-tag">Engineering-Grade Protection</span>
           <p class="r2bp-image-text">Multi-layer corrugated wrapping and edge armor applied to wooden wardrobes and study furniture before long-haul container loading.</p>
@@ -1167,7 +1167,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2bp-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Ranchi to Bhopal Fragile Glassware and Delicate Item Packing" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Ranchi to Bhopal Fragile Glassware and Delicate Item Packing" width="600" height="400" loading="lazy">
         <div class="r2bp-image-caption">
           <span class="r2bp-image-tag">Delicate Artifact Care</span>
           <p class="r2bp-image-text">Reinforced partitioned carton boxes and shock-absorbent bubble wrapping safeguarding glassware and sacred artifacts throughout the 980-km transit.</p>
@@ -1178,7 +1178,7 @@ require_once __DIR__ . '/includes/seo.php';
     <!-- Electronics & Appliance Care -->
     <div class="r2bp-grid-2col reverse" style="margin-top: 50px;">
       <div class="r2bp-image-wrapper">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Ranchi to Bhopal Padded Electronic Appliance Protective Covers" width="600" height="400" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Ranchi to Bhopal Padded Electronic Appliance Protective Covers" width="600" height="400" loading="lazy">
         <div class="r2bp-image-caption">
           <span class="r2bp-image-tag">Appliance Safety Standards</span>
           <p class="r2bp-image-text">Custom thermal-padded jackets and rigid protective covers shielding washing machines and refrigerators from transit abrasions.</p>

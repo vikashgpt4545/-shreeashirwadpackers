@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -308,7 +308,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Whether you are relocating your car from Ranchi or Jamshedpur to New Delhi, Bangalore, Kolkata, Patna, Pune, or Hyderabad, our transparent rate chart gives you immediate budget clarity. You can also calculate complete two-wheeler costs using our <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-charges-calculator" style="color: #ff6a28; font-weight: 700;">Bike Transport Charges Calculator</a> or master household rates with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="ctc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading - Shree Ashirwad Packers Jharkhand" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Transport Carrier Loading - Shree Ashirwad Packers Jharkhand" width="580" height="387" loading="lazy">
         </div>
 
         <div class="ctc-table-wrap">
@@ -388,7 +388,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ctc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Automobile Transport" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Automobile Transport" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -417,7 +417,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ctc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck - Shree Ashirwad Packers" width="580" height="387" loading="lazy">
         </div>
     </section>
 

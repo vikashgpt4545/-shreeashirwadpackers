@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional intercity packers and movers services from Chennai to Hyderabad specializing in household shifting, corporate relocations, vehicle transport, and warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,500 - ₹56,000",
     "address": {
       "@type": "PostalAddress",
@@ -379,7 +379,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Relocating between two major southern economic powerhouses requires rigorous operational discipline and specialized interstate moving logistics. Moving your household or office from Chennai, Tamil Nadu to Hyderabad, Telangana spans approximately 630 kilometers via National Highway 16 through Nellore, Ongole, and Guntur, branching toward Suryapet and Hyderabad along NH65. Whether you are transferring corporate headquarters from Chennai's OMR IT corridor to Hyderabad's HITEC City or shifting your ancestral residence from Mylapore to Banjara Hills, Shree Ashirwad Packers and Movers delivers an unmatched relocation experience.</p>
     
     <div class="cnh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Chennai to Hyderabad transit" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed weatherproof container truck for Chennai to Hyderabad transit" loading="lazy">
       <div class="cnh-img-caption">Sealed container fleets guaranteeing weatherproof transit from Chennai to Hyderabad across NH16.</div>
     </div>
 
@@ -462,7 +462,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>The 630 km journey along NH16 traverses diverse road conditions, including coastal moisture stretches through Andhra Pradesh and high-speed multi-lane expressways. To ensure that not a single piece of glass chips or wooden surface scratches, we enforce an uncompromising 5-step packing protocol.</p>
 
     <div class="cnh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer furniture and household packing for long distance move" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-layer furniture and household packing for long distance move" loading="lazy">
       <div class="cnh-img-caption">Multi-layer protective packing for furniture and electronics ensuring safe interstate transit.</div>
     </div>
 
@@ -492,7 +492,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Driving your private vehicle across interstate highways amidst heavy multi-axle freight traffic can cause unnecessary tire wear, engine fatigue, and personal stress. Our dedicated vehicle shipping services provide an effortless, economical alternative.</p>
 
     <div class="cnh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Specialized hydraulic car carrier loading for vehicle transportation" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Specialized hydraulic car carrier loading for vehicle transportation" loading="lazy">
       <div class="cnh-img-caption">Hydraulic car carriers ensuring damage-free car and two-wheeler transport between Chennai and Hyderabad.</div>
     </div>
 
@@ -627,7 +627,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="cnh-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck reaching customer destination" loading="lazy">
       <div class="cnh-img-caption">Doorstep delivery fleet reaching gated communities and high-rises across Hyderabad.</div>
     </div>
   </section>

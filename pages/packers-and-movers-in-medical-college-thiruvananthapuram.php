@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Medical College Thiruvananthapuram",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-medical-college-thiruvananthapuram",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹4,200 - ₹50,000",
     "address": {
       "@type": "PostalAddress",
@@ -434,7 +434,7 @@
       </div>
       <div>
         <div class="mct-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading goods in Medical College Thiruvananthapuram" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers loading goods in Medical College Thiruvananthapuram" width="580" height="380" loading="lazy">
         </div>
       </div>
     </div>
@@ -471,7 +471,7 @@
     </div>
 
     <div class="mct-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture wrapping and edge protection for residential homes in Medical College Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture wrapping and edge protection for residential homes in Medical College Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
 
     <p>Our packaging protocol utilizes 5-ply corrugated sheets, thick bubble cushioning, heavy-gauge stretch film, and water-repellent sealing tapes to protect wooden cots, dining tables, sofa sets, and modular work desks from moisture and accidental surface scratches.</p>
@@ -563,7 +563,7 @@
     </table>
 
     <div class="mct-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packing computers, reference books, and delicate equipment in Medical College Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Packing computers, reference books, and delicate equipment in Medical College Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
 
     <p>All quotes include multi-layer protective packaging, professional handling by uniformed personnel, transport in enclosed weather-sealed container vehicles, unloading, and basic furniture assembly at your new home.</p>
@@ -665,7 +665,7 @@
     </ol>
 
     <div class="mct-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed container trucks for secure all-weather furniture transit in Medical College Thiruvananthapuram" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed container trucks for secure all-weather furniture transit in Medical College Thiruvananthapuram" width="580" height="380" loading="lazy">
     </div>
   </section>
 

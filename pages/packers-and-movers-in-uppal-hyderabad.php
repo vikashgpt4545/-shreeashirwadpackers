@@ -22,7 +22,7 @@
     "name": "Shree Ashirwad Packers and Movers Uppal",
     "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/packers-and-movers-in-uppal-hyderabad",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹3,500 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
@@ -551,7 +551,7 @@
     <p>Our dedicated Uppal branch operates 365 days a year, providing custom weekend shifts and evening loading solutions tailored to families, tech professionals, and industrial manufacturing plants requiring zero disruption to operational timelines.</p>
 
     <div class="upl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Uppal Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Goods Loading in Residential Apartments in Uppal Hyderabad" loading="lazy">
       <p class="upl-image-caption">Systematic loading and freight elevator management in residential communities across Uppal Hyderabad.</p>
     </div>
   </section>
@@ -584,7 +584,7 @@
     <p>Additionally, our on-site technicians handle full dismantling and reassembly for modular beds, complex wardrobe systems, and office modular cubicles, relieving clients of tedious handyman coordination on moving day.</p>
 
     <div class="upl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate Office Packing in Uppal Hyderabad" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Corporate Office Packing in Uppal Hyderabad" loading="lazy">
       <p class="upl-image-caption">Heavy-duty anti-static packing and custom crate boxing for corporate IT hardware in Uppal.</p>
     </div>
   </section>
@@ -646,7 +646,7 @@
     <p>Our billing structure contains zero hidden fuel surcharges or ambiguous stair-carry fees. Everything is clearly committed in a binding digital quotation before any packing commences.</p>
 
     <div class="upl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Uppal" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping in Uppal" loading="lazy">
       <p class="upl-image-caption">Reinforced protective wrapping for mahogany wardrobes and designer sofas before transit.</p>
     </div>
   </section>
@@ -722,7 +722,7 @@
     <p>Whether relocating a quiet apartment near Ramanthapur or a large commercial facility in IDA Uppal, our operations team ensures that all logistics tasks are executed smoothly without unnecessary delays.</p>
 
     <div class="upl-image-container">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Uppal" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Sealed Transit Truck in Uppal" loading="lazy">
       <p class="upl-image-caption">Dedicated all-weather closed container fleet ensuring dust and moisture protection for long-distance transport.</p>
     </div>
   </section>
@@ -807,7 +807,7 @@
   <section class="upl-cta-banner">
     <h3>Book Your Stress-Free Move in Uppal Today!</h3>
     <p>Contact our friendly relocation experts for a free pre-move survey, transparent fixed-price estimate, and guaranteed on-time door-to-door delivery across Hyderabad and India.</p>
-    <a class="upl-cta-btn" href="tel:+919334484001">📞 Call +91 9334484001 for Immediate Booking</a>
+    <a class="upl-cta-btn" href="tel:+919835565233">📞 Call +91 9835565233 for Immediate Booking</a>
   </section>
 
 </main>

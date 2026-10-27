@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Amritsar",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-amritsar",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 58,000",
         "address": {
             "@type": "PostalAddress",
@@ -226,7 +226,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="asr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional Household Packing in Amritsar Punjab" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Professional Household Packing in Amritsar Punjab" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -269,7 +269,7 @@ require_once BASE_PATH . '/includes/config.php';
         <div class="asr-grid-2">
             <div>
                 <div class="asr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Defense Equipment and Household Packing in Amritsar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Defense Equipment and Household Packing in Amritsar" width="580" height="380" loading="lazy">
                 </div>
             </div>
             <div>
@@ -335,7 +335,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="asr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Amritsar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Closed Container Moving Truck in Amritsar" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -441,7 +441,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="asr-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup in Amritsar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Furniture Setup in Amritsar" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>

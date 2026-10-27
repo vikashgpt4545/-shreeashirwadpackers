@@ -75,7 +75,7 @@ require_once __DIR__ . '/includes/seo.php';
       "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834001",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -557,7 +557,7 @@ require_once __DIR__ . '/includes/seo.php';
   </div>
 
   <!-- Primary Featured Image (Strictly Constrained) -->
-  <img src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Ranchi to Chandigarh Packers and Movers - Safe Linehaul Shifting" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
+  <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Ranchi to Chandigarh Packers and Movers - Safe Linehaul Shifting" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
 
   <h2>Navigating the 1,350 km Highway Corridor to Chandigarh Tricity</h2>
   <p>The road journey connecting Ranchi to Chandigarh follows India’s premier logistics arteries, linking the historic Grand Trunk Road (NH-19) with modern bypass expressways and the high-speed NH-44 highway into Punjab and Haryana. Our logistics planners coordinate transit timing around peak metropolitan traffic to ensure smooth, punctual delivery.</p>
@@ -685,7 +685,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Secondary Contextual Image -->
   <div style="margin: 2rem 0; text-align: center;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Truck for Ranchi to Chandigarh Relocation" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Closed Container Truck for Ranchi to Chandigarh Relocation" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Heavy-duty all-weather sealed container trucks ensure zero dust, moisture, or transit damage across the 1,350 km Ranchi to Chandigarh highway.</p>
   </div>
 
@@ -711,7 +711,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Third Contextual Image -->
   <div style="margin: 2rem 0; text-align: center;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Premium 4-Layer Packing Cartons for Ranchi to Chandigarh Shifting" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Premium 4-Layer Packing Cartons for Ranchi to Chandigarh Shifting" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Multi-layer corrugated cartons, high-density bubble cushioning, and custom wooden crating safeguard glassware and electronics.</p>
   </div>
 
@@ -751,7 +751,7 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Fourth Contextual Image -->
   <div style="margin: 2rem 0; text-align: center;">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Interstate Linehaul Container Loading for Ranchi to Chandigarh Relocation" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Interstate Linehaul Container Loading for Ranchi to Chandigarh Relocation" style="max-width: 600px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);" loading="lazy">
     <p style="font-size: 0.88rem; color: #64748b; margin-top: 8px;">Systematic container loading ensures heavy base cargo stability and shockproof top-tier placement of fragile boxes.</p>
   </div>
 

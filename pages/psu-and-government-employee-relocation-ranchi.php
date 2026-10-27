@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -203,7 +203,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we have maintained a dedicated institutional relocation desk in Ranchi for over a decade. We understand that government officers cannot afford administrative delays, rejected invoices, or discrepancies in weight slabs. We take complete responsibility for on-time pickup, certified 5-ply packaging, digital weighbridge documentation, and audit-cleared billing. Calculate your estimated entitlement cost with our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #ff6a28; font-weight: 700;">Packers and Movers Cost Calculator</a>.</p>
 
         <div class="psu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="PSU and Government Employee Relocation Ranchi - Loading Crew" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="PSU and Government Employee Relocation Ranchi - Loading Crew" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -232,7 +232,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="psu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons - PSU Packing" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential Relocation Cartons - PSU Packing" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -275,7 +275,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="psu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated PSU Shifting" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated PSU Shifting" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -304,7 +304,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="psu-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - PSU Relocation Setup" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - PSU Relocation Setup" width="580" height="387" loading="lazy">
         </div>
     </section>
 

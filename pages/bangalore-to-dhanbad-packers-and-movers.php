@@ -603,7 +603,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-dhanbad-pack
                 </ul>
             </div>
             <div class="blr2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Dhanbad Interstate Container Moving" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Dhanbad Interstate Container Moving" loading="lazy">
             </div>
         </div>
     </div>
@@ -671,7 +671,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-dhanbad-pack
     <div class="container">
         <div class="blr2dhn-grid-2">
             <div class="blr2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Five-Layer Interstate Household Packing Bangalore to Dhanbad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Five-Layer Interstate Household Packing Bangalore to Dhanbad" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--blr2dhn-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Export Quality Packaging</span>
@@ -792,7 +792,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-dhanbad-pack
                 </ul>
             </div>
             <div class="blr2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Bangalore to Dhanbad Car Carrier Transport" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Bangalore to Dhanbad Car Carrier Transport" loading="lazy">
             </div>
         </div>
     </div>
@@ -839,7 +839,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-dhanbad-pack
     <div class="container">
         <div class="blr2dhn-grid-2">
             <div class="blr2dhn-img-wrap">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Dhanbad" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Dhanbad" loading="lazy">
             </div>
             <div>
                 <span style="color: var(--blr2dhn-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Turnkey Destination Service</span>

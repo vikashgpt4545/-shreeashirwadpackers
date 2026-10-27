@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="next-intro-p">Shifting residences within or out of Noida Extension presents distinct logistical realities. The vast majority of societies here—including iconic mega-projects like Gaur City’s multiple avenues (11th, 12th, 14th, 16th), Cherry County, Supertech Eco Village (Phases I, II, III), Nirala Estate, Arihant Arden, Ace City, Panchsheel Hynish, Ajnara Le Garden, RG Luxury Homes, and Stellar Jeevan—consist of towering 20 to 32-story high-rise buildings. Relocations demand intricate coordination with Resident Welfare Associations, advance booking of service freight elevators, strict compliance with restricted shifting hours (typically 9:00 AM to 5:00 PM), and navigating underground basement ceiling height limitations. Shree Ashirwad Packers and Movers has mastered these localized complexities through years of continuous, verified service across Greater Noida West.</p>
 
         <div class="next-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Noida Extension" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods loading in container truck in Noida Extension" width="580" height="360">
             <div class="next-image-caption">Dedicated high-rise loading operations and cargo stacking for apartment relocations in Noida Extension</div>
         </div>
 
@@ -574,7 +574,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="next-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Noida Extension apartments" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packaging for Noida Extension apartments" width="580" height="360">
             <div class="next-image-caption">Industrial-grade bubble film and reinforced corrugated boxes protect sensitive appliances from vibrations</div>
         </div>
 
@@ -641,7 +641,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="next-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Noida Extension" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry in Noida Extension" width="580" height="360">
             <div class="next-image-caption">Skilled carpenters disassembling hydraulic double beds and wardrobes for safe elevator transit</div>
         </div>
 
@@ -697,7 +697,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="next-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Noida Extension" width="580" height="360">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Noida Extension" width="580" height="360">
             <div class="next-image-caption">Weatherproof covered container fleet providing prompt, scratch-free delivery across Greater Noida West</div>
         </div>
     </section>

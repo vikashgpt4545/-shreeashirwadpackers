@@ -791,7 +791,7 @@ require_once __DIR__ . '/includes/header.php';
 
     <div class="ck2r-grid-4">
       <div class="ck2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Weatherproof closed container truck for Chakradharpur to Ranchi NH-20 corridor linehaul" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Weatherproof closed container truck for Chakradharpur to Ranchi NH-20 corridor linehaul" loading="lazy">
         <div class="ck2r-img-content">
           <h3 class="ck2r-img-title">Sealed NH-20 Fleet</h3>
           <p class="ck2r-img-desc">Heavy-duty closed container trucks shielding home belongings from road dust, sudden rain, and highway vibrations during the 125 km linehaul.</p>
@@ -799,7 +799,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="ck2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom padded wooden crating and bubble protection for LED TVs and home appliances from railway quarters" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom padded wooden crating and bubble protection for LED TVs and home appliances from railway quarters" loading="lazy">
         <div class="ck2r-img-content">
           <h3 class="ck2r-img-title">LED TV &amp; Appliance Crating</h3>
           <p class="ck2r-img-desc">Custom padded wooden crating and triple bubble wrap securing LED televisions, monitors, microwaves, and delicate electronics from vibration damage.</p>
@@ -807,7 +807,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="ck2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler packaging with foam wrap and nylon lashings for commuter motorcycle transport" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler packaging with foam wrap and nylon lashings for commuter motorcycle transport" loading="lazy">
         <div class="ck2r-img-content">
           <h3 class="ck2r-img-title">Bike &amp; Scooter Transport</h3>
           <p class="ck2r-img-desc">Foam sheet masking, mirror demounting, corrugated layering, and tire wheel locks ensuring zero scratches or mirror damage during highway transit.</p>
@@ -815,7 +815,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="ck2r-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking, furniture assembly, and room setup at Ranchi residential destinations" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep unpacking, furniture assembly, and room setup at Ranchi residential destinations" loading="lazy">
         <div class="ck2r-img-content">
           <h3 class="ck2r-img-title">Complete Room Placement</h3>
           <p class="ck2r-img-desc">Unpacking of cartons, reassembly of bed frames, modular study desks, wardrobes, and systematic placement in your new Ranchi home.</p>

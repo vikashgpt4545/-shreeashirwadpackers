@@ -743,7 +743,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="bhu-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Cartons Packing for Bhubaneswar to Adityapur Move" title="Protective Bubble Wrap Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble Wrap and Cartons Packing for Bhubaneswar to Adityapur Move" title="Protective Bubble Wrap Packing">
                 </div>
             </div>
         </div>
@@ -872,7 +872,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKAGING DEFENSE -->
             <div class="bhu-adi-two-col">
                 <div class="bhu-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Goods Inspection and Quality Packaging for Bhubaneswar to Adityapur Move" title="Intercity Goods Inspection">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Goods Inspection and Quality Packaging for Bhubaneswar to Adityapur Move" title="Intercity Goods Inspection">
                 </div>
                 <div class="bhu-adi-two-col-text">
                     <h2>Advanced 5-Layer Defensive Packaging Standards</h2>
@@ -940,14 +940,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="bhu-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Bhubaneswar to Adityapur Move" title="Protective Sofa and Furniture Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and Furniture Protective Packing for Bhubaneswar to Adityapur Move" title="Protective Sofa and Furniture Packing">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: LOCALITIES & CARRIER VEHICLE -->
             <div class="bhu-adi-two-col" style="margin-top: 45px;">
                 <div class="bhu-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Bhubaneswar to Adityapur Shifting" title="Car Carrier Transport">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car Carrier Transport Loading for Bhubaneswar to Adityapur Shifting" title="Car Carrier Transport">
                 </div>
                 <div class="bhu-adi-two-col-text">
                     <h2>Full Doorstep Coverage Across Bhubaneswar &amp; Adityapur</h2>

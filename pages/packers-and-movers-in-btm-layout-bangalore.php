@@ -36,7 +36,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-btm-lay
     "name": "Shree Ashirwad Packers and Movers BTM Layout Bangalore",
     "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+919334404052",
+    "telephone": "+91 9835565233",
     "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
@@ -403,7 +403,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-btm-lay
     <div class="btl-hero-content">
       <h1 class="btl-hero-title">Packers and Movers in BTM Layout Bangalore</h1>
       <p class="btl-hero-subtitle">Comprehensive home relocation, student mini-moves, premium apartment transfers, and intercity container shifting across BTM 1st Stage, 2nd Stage, and Bannerghatta Road.</p>
-      <a href="tel:+919334404052" class="btl-hero-cta">Request Free Moving Estimate: +91 93344 04052</a>
+      <a href="tel:+919835565233" class="btl-hero-cta">Request Free Moving Estimate: +91 9835565233</a>
     </div>
   </header>
 
@@ -418,7 +418,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-btm-lay
       <p class="btl-p">In BTM 1st Stage, vibrant student colonies, private hostels, and rental apartments near Tavarekere and Madiwala Lake create regular demand for quick, budget-friendly room and apartment shifting. Conversely, BTM 2nd Stage around 16th Main Road, Udupi Garden signal, and Lake Road features peaceful residential layouts, multi-storey gated communities, and luxury independent villas requiring meticulous, white-glove packing. Shree Ashirwad Packers and Movers delivers tailored shifting capabilities fine-tuned to each specific residential environment.</p>
 
       <div class="btl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in BTM Layout Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household items in BTM Layout Bangalore" loading="lazy" width="580" height="387">
         <p class="btl-image-caption">Dedicated packing crews organizing household goods into specialized container trucks in BTM Layout.</p>
       </div>
 
@@ -459,7 +459,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-btm-lay
       </div>
 
       <div class="btl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packing for electronics in BTM Layout Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Bubble wrap and carton packing for electronics in BTM Layout Bangalore" loading="lazy" width="580" height="387">
         <p class="btl-image-caption">Multi-layer protective bubble wrapping and corner guards for electronic appliances in BTM Layout residences.</p>
       </div>
 
@@ -531,7 +531,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-btm-lay
       </div>
 
       <div class="btl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in BTM Layout Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and packing in BTM Layout Bangalore" loading="lazy" width="580" height="387">
         <p class="btl-image-caption">Skilled carpenters carefully disassembling modular beds, wardrobes, and dining tables in BTM 2nd Stage.</p>
       </div>
 
@@ -569,7 +569,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-btm-lay
       <p class="btl-p">To guarantee zero disruption in dense residential communities near Udupi Garden and Tavarekere, we deploy specialized rubberized hand trolleys and stair-climbing gear for buildings without elevators. Our packing crews handle heavy wooden furniture, washing machines, and double-door refrigerators down multiple flights of stairs without scratching hallway walls or damaging staircase railings.</p>
 
       <div class="btl-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck in BTM Layout Bangalore" loading="lazy" width="580" height="387">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck in BTM Layout Bangalore" loading="lazy" width="580" height="387">
         <p class="btl-image-caption">Enclosed weatherproof container vehicles ensuring dust-proof, moisture-protected shifting in BTM Layout.</p>
       </div>
 

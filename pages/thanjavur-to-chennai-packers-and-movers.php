@@ -56,7 +56,7 @@ $page_keywords = "packers and movers thanjavur to chennai, thanjavur chennai hou
         "name": "Shree Ashirwad Packers and Movers Thanjavur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9334421111",
+        "telephone": "+91 9835565233",
         "priceRange": "₹7,500 - ₹43,000",
         "address": {
             "@type": "PostalAddress",
@@ -213,7 +213,7 @@ $page_keywords = "packers and movers thanjavur to chennai, thanjavur chennai hou
             <p>The standard transport route spans approximately 345 km, progressing via NH32 through Kumbakonam, Panruti, and Vikravandi, or alternately connecting via Tiruchirappalli and NH45 (GST Road) traversing Villupuram, Tindivanam, Chengalpattu, and Tambaram into Chennai. Our closed container fleet shields your household valuables from coastal humidity, tropical rains, and highway dust throughout the journey.</p>
             
             <div class="tjc-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Thanjavur to Chennai sealed container vehicle on highway transit" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Thanjavur to Chennai sealed container vehicle on highway transit" width="580" height="340" loading="lazy">
             </div>
             
             <p>For individuals shifting on the reciprocal corridor, we also run regular daily container runs through our <a href="<?php echo SITE_BASE_URL; ?>/chennai-to-thanjavur-packers-and-movers">Chennai to Thanjavur packers and movers service</a>, providing reliable return logistics with matching premium packing protocols.</p>
@@ -329,7 +329,7 @@ $page_keywords = "packers and movers thanjavur to chennai, thanjavur chennai hou
             <p>Our dedicated packaging teams execute multi-layered protection specifically crafted for heritage goods: wrapping surfaces in acid-free tissue to protect gilded work, enveloping pieces in dense air-cushion bubble wraps, anchoring corners with high-density edge runners, and encasing the entire unit in custom pine-wood crates.</p>
             
             <div class="tjc-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap carton packaging for Thanjavur domestic consignments" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrap carton packaging for Thanjavur domestic consignments" width="580" height="340" loading="lazy">
             </div>
             
             <div class="tjc-grid-2">
@@ -365,7 +365,7 @@ $page_keywords = "packers and movers thanjavur to chennai, thanjavur chennai hou
             <p>Before loading, every two-wheeler and four-wheeler undergoes an extensive multi-point inspection. We note down fuel levels, capture exterior scratch and dent records on digital inspection slips, isolate the battery terminals, and wrap all painted and chrome panels in thick protective foam padding.</p>
             
             <div class="tjc-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Specialized vehicle carrier transport for Thanjavur to Chennai relocation" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Specialized vehicle carrier transport for Thanjavur to Chennai relocation" width="580" height="340" loading="lazy">
             </div>
 
             <div class="tjc-grid-3">
@@ -423,7 +423,7 @@ $page_keywords = "packers and movers thanjavur to chennai, thanjavur chennai hou
             <p>Chennai apartments often present vertical access challenges, including restricted elevator usage, basement ramps, and stairwell turns. Our crew arrives prepared with heavy furniture dollies, protective floor mats, and lifting belts to ensure flawless placement in high-rise residences across OMR, Porur, or Anna Nagar without touching walls or elevator gates.</p>
             
             <div class="tjc-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Chennai residence" width="580" height="340" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Chennai residence" width="580" height="340" loading="lazy">
             </div>
 
             <p>We assemble modular beds, dining tables, study units, and mount electronics back into position. All shredded carton scraps, stretch wraps, and bubble debris are gathered and removed, leaving your new Chennai home ready for comfortable living on moving day itself.</p>
@@ -540,7 +540,7 @@ $page_keywords = "packers and movers thanjavur to chennai, thanjavur chennai hou
     <section class="tjc-cta">
         <h2>Plan Your Thanjavur to Chennai Relocation Today</h2>
         <p>Contact our Tamil Nadu logistics coordinators for transparent quotes, customized wooden crating, and reliable closed container transport.</p>
-        <p><strong>Call 24/7 Helpline: +91-9334421111 | Email: support@shreeashirwadpackers.com</strong></p>
+        <p><strong>Call 24/7 Helpline: +91 9835565233 | Email: support@shreeashirwadpackers.com</strong></p>
     </section>
 </main>
 

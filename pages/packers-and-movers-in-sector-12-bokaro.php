@@ -1,7 +1,7 @@
 <?php
 // Dynamic SEO Configuration for Sector 12, Bokaro Steel City (High-Density Residential Township)
 $page_title = "Packers and Movers in Sector 12 Bokaro | Safe Home Shifting & Vehicle Courier";
-$page_description = "Top packers and movers in Sector 12 Bokaro Steel City by Shree Ashirwad Packers. Safe residential apartment shifting, bike courier, car carrier & IBA approved bills. Call +91 9334812833.";
+$page_description = "Top packers and movers in Sector 12 Bokaro Steel City by Shree Ashirwad Packers. Safe residential apartment shifting, bike courier, car carrier & IBA approved bills. Call +91 9835565233.";
 $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-12-bokaro";
 ?>
 <!DOCTYPE html>
@@ -23,7 +23,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
         "name": "Shree Ashirwad Packers and Movers - Sector 12 Bokaro",
         "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334812833",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,000 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -382,7 +382,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
     <section class="s12-hero-banner">
         <h1 class="s12-hero-title">Packers and Movers in Sector 12 Bokaro</h1>
         <p class="s12-hero-subtitle">Trusted Home Relocation & Vehicle Transport in Bokaro's Largest Residential Township. Safe Quarters Shifting, Multi-Floor Handling, Car & Bike Courier with IBA Approved Bills.</p>
-        <a href="tel:+919334812833" class="s12-cta-btn">Book Move in Sector 12: +91 9334812833</a>
+        <a href="tel:+919835565233" class="s12-cta-btn">Book Move in Sector 12: +91 9835565233</a>
     </section>
 
     <!-- Main Container -->
@@ -399,7 +399,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
             </div>
             <div>
                 <div class="s12-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Sector 12 Bokaro" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Household goods packaging in Sector 12 Bokaro" width="580" height="387">
                     <div class="s12-caption">Carefully wrapped furniture and boxed household goods in Sector 12 Bokaro</div>
                 </div>
             </div>
@@ -485,7 +485,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
         <div class="s12-grid-2">
             <div>
                 <div class="s12-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Sector 12 Bokaro" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler bike transport in Sector 12 Bokaro" width="580" height="387">
                     <div class="s12-caption">Protective bubble wrap and wooden pallet packaging for two-wheeler transport</div>
                 </div>
             </div>
@@ -499,7 +499,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
 
         <!-- Section 4B: Highway Fleet Visual -->
         <div class="s12-image-box">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Sector 12 Bokaro relocation" width="580" height="387">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Container truck for Sector 12 Bokaro relocation" width="580" height="387">
             <div class="s12-caption">Weatherproof container truck fleet stationed for Bokaro Steel City relocations</div>
         </div>
 
@@ -544,7 +544,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
             </div>
             <div>
                 <div class="s12-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Home appliances protective covers in Bokaro" width="580" height="387">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Home appliances protective covers in Bokaro" width="580" height="387">
                     <div class="s12-caption">Protective quilted covers safeguarding home appliances during transit</div>
                 </div>
             </div>

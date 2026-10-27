@@ -15,8 +15,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>New House Shifting Guide Ranchi: Griha Pravesh & Setup | Call 9708579999</title>
-    <meta name="description" content="Essential new house shifting guide for Ranchi. Call 9708579999 for verified Griha Pravesh relocation, apartment elevator protocols, utility setup & free quote.">
+    <title>New House Shifting Guide Ranchi: Griha Pravesh & Setup | Call 9835565233</title>
+    <meta name="description" content="Essential new house shifting guide for Ranchi. Call 9835565233 for verified Griha Pravesh relocation, apartment elevator protocols, utility setup & free quote.">
     <meta name="keywords" content="new house shifting guide ranchi, griha pravesh shifting ranchi, moving into new house ranchi, packers and movers ranchi new home, apartment shifting rules ranchi, house warming movers ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/new-house-shifting-guide-ranchi",
-        "telephone": "+91-9708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -227,8 +227,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>New House Shifting Guide Ranchi: Griha Pravesh & Setup</h1>
                 <p>Stepping into your dream flat, bungalow, or renovated home in Ranchi? From coordinating sacred Griha Pravesh muhurats to managing strict apartment association gate passes and immediate appliance setup, here is your definitive operational relocation manual.</p>
                 <div class="nhsg-cta-group">
-                    <a href="tel:+919708579999" class="nhsg-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20quote%20for%20new%20house%20shifting%20in%20Ranchi" class="nhsg-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
+                    <a href="tel:+919835565233" class="nhsg-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20quote%20for%20new%20house%20shifting%20in%20Ranchi" class="nhsg-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -248,7 +248,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="nhsg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment relocation in Ranchi with dedicated service elevator transit" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High-rise apartment relocation in Ranchi with dedicated service elevator transit" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -320,7 +320,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Protecting Custom Woodwork & New Interior Finishes</h2>
                 <div class="nhsg-grid-2">
                     <div class="nhsg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective bubble and corrugated wrapping on polished wooden almirah in Jharkhand" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer protective bubble and corrugated wrapping on polished wooden almirah in Jharkhand" loading="lazy">
                     </div>
                     <div>
                         <h3>Multi-Layer Armor for Delicate Veneers</h3>
@@ -398,7 +398,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="nhsg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Premium fabric sofa wrapped in multi-layer protective film for transit in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Premium fabric sofa wrapped in multi-layer protective film for transit in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -408,7 +408,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Post-Move Unpacking & White-Glove Handover</h2>
                 <div class="nhsg-grid-2">
                     <div class="nhsg-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in newly shifted Ranchi residence" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and room setup service in newly shifted Ranchi residence" loading="lazy">
                     </div>
                     <div>
                         <p>Moving is not complete when boxes are piled into your living room. The true value of a professional moving partner is turning a house into a functional, comfortable home on moving day itself.</p>

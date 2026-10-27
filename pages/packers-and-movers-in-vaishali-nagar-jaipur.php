@@ -30,7 +30,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Vaishali Nagar Jaipur",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-vaishali-nagar-jaipur",
-        "telephone": "+91-9334812330",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 4,200 - 65,000",
         "address": {
             "@type": "PostalAddress",
@@ -237,7 +237,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="vsn-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Luxury Villa Household Packing in Vaishali Nagar Jaipur" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Luxury Villa Household Packing in Vaishali Nagar Jaipur" width="580" height="380" loading="lazy">
                 </div>
             </div>
         </div>
@@ -262,7 +262,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="vsn-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Trained Professional Movers in Vaishali Nagar Jaipur" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Trained Professional Movers in Vaishali Nagar Jaipur" width="580" height="380" loading="lazy">
         </div>
     </section>
 
@@ -427,7 +427,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
             <div>
                 <div class="vsn-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Porcelain Packing in Vaishali Nagar" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Porcelain Packing in Vaishali Nagar" width="580" height="380" loading="lazy">
                 </div>
                 <div class="vsn-highlight" style="margin-top: 24px;">
                     <strong>Chitrakoot & Amrapali Moving Convenience:</strong> We maintain excellent local rapport with gated communities across Chitrakoot and Gandhi Path, ensuring pre-approved visitor passes and silent morning shifts that respect your neighbors' peace.
@@ -455,7 +455,7 @@ require_once BASE_PATH . '/includes/config.php';
             </div>
         </div>
         <div class="vsn-img-box" style="margin-top: 28px;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading Household Furniture into Covered Moving Truck in Vaishali Nagar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading Household Furniture into Covered Moving Truck in Vaishali Nagar" width="580" height="380" loading="lazy">
         </div>
     </section>
 

@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Common Moving Mistakes & How to Avoid Them | Ranchi Guide | Call 9708579999</title>
-    <meta name="description" content="Avoid the 10 most common home shifting blunders in Ranchi. Learn how to prevent damaged goods, mover scams, hidden fees, and packing errors. Call 9708579999.">
+    <title>Common Moving Mistakes & How to Avoid Them | Ranchi Guide | Call 9835565233</title>
+    <meta name="description" content="Avoid the 10 most common home shifting blunders in Ranchi. Learn how to prevent damaged goods, mover scams, hidden fees, and packing errors. Call 9835565233.">
     <meta name="keywords" content="common moving mistakes, home shifting blunders ranchi, avoid packer and mover fraud ranchi, packing mistakes house moving, cheap mover risks ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/common-moving-mistakes">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Relocation Advisory",
         "image": "<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/common-moving-mistakes",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -209,8 +209,8 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>10 Common Moving Mistakes and How to Avoid Them in Ranchi</h1>
                 <p>Relocating your home or office shouldn't turn into a nightmare of damaged heirlooms, surprise hidden invoices, or moving-day chaos. Discover the most frequent mistakes made during residential shifting in Ranchi and practical strategies to ensure a seamless relocation experience.</p>
                 <div class="cmma-cta-group">
-                    <a href="tel:+919708579999" class="cmma-btn-call">Direct Call: +91 9708579999</a>
-                    <a href="https://wa.me/919708579999?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20want%20to%20avoid%20moving%20mistakes%20and%20need%20a%20professional%20shifting%20quote%20for%20Ranchi" class="cmma-btn-wa" target="_blank" rel="noopener">WhatsApp Verified Moving Quote</a>
+                    <a href="tel:+919835565233" class="cmma-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20want%20to%20avoid%20moving%20mistakes%20and%20need%20a%20professional%20shifting%20quote%20for%20Ranchi" class="cmma-btn-wa" target="_blank" rel="noopener">WhatsApp Verified Moving Quote</a>
                 </div>
             </div>
         </section>
@@ -230,7 +230,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </div>
                     </div>
                     <div class="cmma-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Professional kitchen crockery packing with virgin bubble wrap by Shree Ashirwad Packers Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Professional kitchen crockery packing with virgin bubble wrap by Shree Ashirwad Packers Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -285,7 +285,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Rogue Operators vs. Professional Fleet Infrastructure</h2>
                 <div class="cmma-grid-2">
                     <div class="cmma-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated weather-sealed closed container moving truck of Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>The unorganized logistics sector in Jharkhand is saturated with middlemen who lack physical trucks, warehouses, or permanent employees. These fly-by-night operators act as digital booking brokers who sell your moving contract to unvetted daily-wage laborers and open pickup drivers.</p>
@@ -314,7 +314,7 @@ require_once BASE_PATH . '/includes/config.php';
                         </ul>
                     </div>
                     <div class="cmma-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized room-by-room labeled residential relocation cartons in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Organized room-by-room labeled residential relocation cartons in Ranchi" loading="lazy">
                     </div>
                 </div>
             </section>
@@ -379,7 +379,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h2>Destination Arrival & Unpacking: Avoiding Post-Move Stress</h2>
                 <div class="cmma-grid-2">
                     <div class="cmma-img-box">
-                        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and furniture reassembly service by Shree Ashirwad Packers in Ranchi" loading="lazy">
+                        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Professional unpacking and furniture reassembly service by Shree Ashirwad Packers in Ranchi" loading="lazy">
                     </div>
                     <div>
                         <p>The journey doesn't end when the container truck arrives at your new apartment. Avoid these final-stage mistakes to settle in smoothly:</p>

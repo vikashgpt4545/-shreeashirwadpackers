@@ -37,7 +37,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-hsr-lay
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-hsr-layout-bangalore#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-hsr-layout-bangalore",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -469,7 +469,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in HSR Layout Bangalore</h1>
         <p>Startup capital of India and premier residential layout moving specialists. Expert home shifting, co-working tech office relocations, and luxury apartment logistics across Sectors 1 to 7, 27th Main Road, and Outer Ring Road.</p>
         <div class="hsr-btn-wrap">
-            <a href="tel:+919334404050" class="hsr-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="hsr-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="hsr-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -496,7 +496,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring over fifteen years of proven logistics mastery to HSR Layout. Moving tech founders, engineers, and corporate families demands an experienced team capable of respecting gated community bylaws, coordinating multi-axle container fleets, and ensuring absolute goods safety. Our crews arrive with heavy-duty corrugated cartons, dense bubble wrap, non-marking floor runners, and padded moving blankets to ensure an impeccably smooth moving experience.</p>
 
         <div class="hsr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in HSR Layout Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in HSR Layout Bangalore" width="580" height="387" loading="lazy">
             <p class="hsr-image-caption">Dedicated loading crews systematically stowing packed household cartons and furniture inside our closed container trucks in HSR Layout.</p>
         </div>
 
@@ -530,7 +530,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="hsr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in HSR Layout Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in HSR Layout Bangalore" width="580" height="387" loading="lazy">
             <p class="hsr-image-caption">High-density air bubble wrap, corrugated sheets, and shrink film applied to protect fragile electronics and chinaware in HSR Layout.</p>
         </div>
 
@@ -596,7 +596,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Final costs are determined by exact inventory volume, floor elevation, elevator availability, fragile crating requirements, and overall transit distance. For an exact customized quote tailored to your inventory, please view our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a> or speak directly with our HSR Layout survey executive.</p>
 
         <div class="hsr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in HSR Layout Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in HSR Layout Bangalore" width="580" height="387" loading="lazy">
             <p class="hsr-image-caption">Skilled carpenters carefully dismantling and wrapping heavy bed frames and wardrobes for safe residential transit in HSR Layout.</p>
         </div>
 
@@ -641,7 +641,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="hsr-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in HSR Layout Bangalore" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in HSR Layout Bangalore" width="580" height="387" loading="lazy">
             <p class="hsr-image-caption">Our closed container vehicles ensuring safe, door-to-door delivery across residential sectors and startup corridors throughout HSR Layout.</p>
         </div>
 

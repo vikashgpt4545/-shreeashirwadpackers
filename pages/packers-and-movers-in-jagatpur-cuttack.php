@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jagatpur-cuttack#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jagatpur-cuttack",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹62,000",
         "address": {
             "@type": "PostalAddress",
@@ -522,7 +522,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="jgt-body-p">The industrial estate, developed systematically under IDCO across Phase 1, Phase 2, and the New Industrial Area, borders the vital Choudwar manufacturing belt and Tangi highway junction. Alongside these sprawling industrial zones, Jagatpur is home to established residential colonies, plant executive quarters, and commercial markets serving engineers, managers, technicians, and trading families. Relocations here demand a sophisticated dual competency: heavy industrial rigging expertise for plant equipment alongside delicate white-glove care for residential households.</p>
 
                 <div class="jgt-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Industrial and Household Goods Loading Jagatpur Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Industrial and Household Goods Loading Jagatpur Cuttack">
                     <div class="jgt-image-caption">Dedicated heavy container truck loading consignment at Jagatpur Industrial Estate Cuttack</div>
                 </div>
 
@@ -561,7 +561,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="jgt-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Industrial and Domestic Packaging Cartons Jagatpur Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Industrial and Domestic Packaging Cartons Jagatpur Cuttack">
                     <div class="jgt-image-caption">Industrial-grade 7-ply corrugated cartons, heavy bubble wrap, and weather-barrier film used in Jagatpur</div>
                 </div>
 
@@ -682,7 +682,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="jgt-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly Jagatpur Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly Jagatpur Cuttack">
                     <div class="jgt-image-caption">Expert carpenters carefully dismantling and wrapping master bedroom furniture in an executive home in Jagatpur</div>
                 </div>
 
@@ -717,7 +717,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="jgt-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Jagatpur Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Jagatpur Cuttack">
                     <div class="jgt-image-caption">All-weather container delivery vehicles ensuring seamless door-to-door transit across Jagatpur Cuttack</div>
                 </div>
 
@@ -780,7 +780,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Desk Address:</strong> Phase II Main Road, Jagatpur Industrial Estate, Cuttack</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="jgt-cta-button">Request Free Moving Quote</a>

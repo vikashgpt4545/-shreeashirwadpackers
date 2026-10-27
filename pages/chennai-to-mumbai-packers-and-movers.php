@@ -29,7 +29,7 @@ require_once __DIR__ . '/../includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation services from Chennai to Mumbai specializing in household goods relocation, corporate moves, enclosed vehicle carriers, two-wheeler parcel shipping, and secure warehousing.",
-    "telephone": "+91-9334812674",
+    "telephone": "+91 9835565233",
     "priceRange": "₹5,500 - ₹75,000",
     "address": {
       "@type": "PostalAddress",
@@ -445,7 +445,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <p>Traversing Tamil Nadu, Karnataka, and Maharashtra via Bangalore, Hubballi, Belgaum, and Pune, our sealed container trucks travel along the well-developed 6-lane National Highway 48. Long-haul highway travel requires scientific weight distribution, weather-sealed container bodies, and internal cargo lashing to guarantee damage-free transit.</p>
 
     <div class="cnm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Chennai to Mumbai interstate moving container truck" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Chennai to Mumbai interstate moving container truck" width="580" height="380" loading="lazy">
       <div class="cnm-img-caption">Dedicated sealed container trucks operating on the Chennai to Mumbai NH48 highway corridor.</div>
     </div>
   </section>
@@ -536,7 +536,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="cnm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Chennai to Mumbai moves" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer protective bubble wrap and cartons for Chennai to Mumbai moves" width="580" height="380" loading="lazy">
       <div class="cnm-img-caption">Multi-layer protective packaging engineered for long-haul stability across the 1,340 km Chennai-Mumbai corridor.</div>
     </div>
 
@@ -568,7 +568,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="cnm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated bike carrier loading for Chennai to Mumbai move" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Dedicated bike carrier loading for Chennai to Mumbai move" width="580" height="380" loading="lazy">
       <div class="cnm-img-caption">Specialized two-wheeler carrier packing ensuring scratch-free motorcycle transit to Mumbai.</div>
     </div>
 
@@ -666,7 +666,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 
     <div class="cnm-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Mumbai" width="580" height="380" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and furniture assembly service in Mumbai" width="580" height="380" loading="lazy">
       <div class="cnm-img-caption">Complete destination unpacking, furniture reassembly, and debris clearance service in Mumbai.</div>
     </div>
   </section>

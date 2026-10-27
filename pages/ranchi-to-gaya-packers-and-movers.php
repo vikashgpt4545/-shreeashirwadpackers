@@ -792,7 +792,7 @@ require_once __DIR__ . '/includes/header.php';
 
     <div class="r2g-grid-4">
       <div class="r2g-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof closed container truck for Ranchi to Gaya NH-20/NH-22 corridor linehaul" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof closed container truck for Ranchi to Gaya NH-20/NH-22 corridor linehaul" loading="lazy">
         <div class="r2g-img-content">
           <h3 class="r2g-img-title">Sealed Interstate Fleet</h3>
           <p class="r2g-img-desc">Heavy-duty closed container trucks shielding home belongings from road dust, sudden rain, and highway vibrations during the 220 km linehaul.</p>
@@ -800,7 +800,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="r2g-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer corrugated and foam protection for wooden furniture during highway transit" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer corrugated and foam protection for wooden furniture during highway transit" loading="lazy">
         <div class="r2g-img-content">
           <h3 class="r2g-img-title">Wooden Furniture Armor</h3>
           <p class="r2g-img-desc">Multi-layer corrugated cardboard and dense foam wrap securing wooden almirahs, dining sets, and bed frames from friction marks or scratches.</p>
@@ -808,7 +808,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="r2g-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty padded covers for refrigerators, washing machines, and electronic appliances" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg" alt="Heavy-duty padded covers for refrigerators, washing machines, and electronic appliances" loading="lazy">
         <div class="r2g-img-content">
           <h3 class="r2g-img-title">Appliance Heavy Quilting</h3>
           <p class="r2g-img-desc">Padded quilted covers safeguarding refrigerators, front-load washing machines, microwave ovens, and electronics against highway transit shocks.</p>
@@ -816,7 +816,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="r2g-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler packaging with foam wrap and nylon lashings for commuter motorcycle transport" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-wheeler packaging with foam wrap and nylon lashings for commuter motorcycle transport" loading="lazy">
         <div class="r2g-img-content">
           <h3 class="r2g-img-title">Bike &amp; Scooter Transport</h3>
           <p class="r2g-img-desc">Foam sheet masking, mirror demounting, corrugated layering, and tire wheel locks ensuring zero scratches or mirror damage during highway transit.</p>

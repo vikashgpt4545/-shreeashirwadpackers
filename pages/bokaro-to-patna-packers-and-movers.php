@@ -331,7 +331,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 1 -->
           <div style="margin: 30px auto; max-width: 550px; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" 
                  alt="Intercity shifting truck loading goods in Bokaro for Patna delivery" 
                  style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;"
                  loading="lazy">
@@ -404,7 +404,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 2 -->
           <div style="margin: 30px 0; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
                  alt="Door-to-door delivery truck navigating residential neighborhoods in Patna" 
                  style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
                  loading="lazy">
@@ -534,7 +534,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 3 -->
           <div style="margin: 30px 0; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" 
                  alt="Two wheeler safe transit packing for Bokaro to Patna move" 
                  style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
                  loading="lazy">
@@ -620,7 +620,7 @@ require_once __DIR__ . '/includes/seo.php';
 
           <!-- Verified Image Asset 4 -->
           <div style="margin: 30px 0; text-align: center;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" 
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" 
                  alt="Furniture dismantling and assembly services for Bokaro to Patna move" 
                  style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
                  loading="lazy">

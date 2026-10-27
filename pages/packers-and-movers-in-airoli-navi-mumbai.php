@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-airoli-
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-airoli-navi-mumbai#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-airoli-navi-mumbai",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers Airoli Navi Mumbai</h1>
         <p>Expert residential shifting, IT workforce apartment moves, modular furniture installation, and protected vehicle transit across Mindspace SEZ, Sector 8, Sector 19, and the Mulund-Airoli Bridge corridor.</p>
         <div class="arl-btn-wrap">
-            <a href="tel:+919334404050" class="arl-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="arl-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="arl-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -493,7 +493,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring more than fifteen years of seasoned moving proficiency directly to Airoli. Relocating in this fast-paced tech suburb requires an experienced moving partner who respects strict gated society timings, manages tight parking basement clearance heights, and plans linehaul routes to bypass heavy commuter traffic along the Thane-Belapur corridor and Airoli toll plaza. Our dedicated teams arrive with non-marking floor protective runners, specialized furniture dollies, hydraulic hand lifters, and sealed weatherproof container trucks to ensure an impeccably smooth, worry-free moving experience from start to finish.</p>
 
         <div class="arl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Airoli Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Airoli Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="arl-image-caption">Professional loading crews securing packed household consignments inside our weatherproof container trucks in Airoli.</p>
         </div>
 
@@ -527,7 +527,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="arl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Airoli" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Airoli" width="580" height="387" loading="lazy">
             <p class="arl-image-caption">High-density air bubble wrap, corrugated sheets, and shrink film applied to protect fragile electronics and chinaware in Airoli.</p>
         </div>
 
@@ -593,7 +593,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Final costs are determined by exact inventory volume, floor elevation, elevator availability, fragile crating requirements, and overall transit distance. For an exact customized quote tailored to your inventory, please view our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a> or speak directly with our Airoli survey executive.</p>
 
         <div class="arl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Airoli" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Airoli" width="580" height="387" loading="lazy">
             <p class="arl-image-caption">Skilled carpenters carefully dismantling and wrapping heavy bed frames and wardrobes for safe residential transit in Airoli.</p>
         </div>
 
@@ -638,7 +638,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="arl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Airoli Navi Mumbai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Airoli Navi Mumbai" width="580" height="387" loading="lazy">
             <p class="arl-image-caption">Our closed container vehicles ensuring safe, door-to-door delivery across residential sectors and townships throughout Airoli.</p>
         </div>
 

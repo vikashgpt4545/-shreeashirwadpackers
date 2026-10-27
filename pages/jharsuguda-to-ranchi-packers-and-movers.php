@@ -26,7 +26,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Jharsuguda to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/jharsuguda-to-ranchi-packers-and-movers",
-    "telephone": "+91 93344 04052",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 11,000 - 52,000",
     "address": {
       "@type": "PostalAddress",
@@ -529,7 +529,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 1 -->
     <div class="jg2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Jharsuguda to Ranchi Covered Container Shifting Truck" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Jharsuguda to Ranchi Covered Container Shifting Truck" loading="lazy">
       <div class="jg2r-caption">Modern enclosed container trucks delivering safe, weatherproof transit across the 290 km corridor to Ranchi.</div>
     </div>
   </section>
@@ -606,7 +606,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 2 -->
     <div class="jg2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Multi-Layer Wrapping" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Furniture Multi-Layer Wrapping" loading="lazy">
       <div class="jg2r-caption">Heavy-duty corrugated cushioning and edge wraps protecting delicate wooden wardrobes and modular furniture.</div>
     </div>
   </section>
@@ -719,7 +719,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 3 -->
     <div class="jg2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Vehicle Packing" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Two-Wheeler Vehicle Packing" loading="lazy">
       <div class="jg2r-caption">Specialized motorcycle packaging with fuel tank cushioning, mirror wrapping, and rigid frame bracing.</div>
     </div>
   </section>
@@ -751,7 +751,7 @@ include_once __DIR__ . '/../includes/config.php';
 
     <!-- IMAGE CARD 4 -->
     <div class="jg2r-img-card">
-      <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Action" loading="lazy">
+      <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Moving Crew in Action" loading="lazy">
       <div class="jg2r-caption">Uniformed, background-verified moving staff ensuring safe handling of heavy domestic and office cargo.</div>
     </div>
   </section>
@@ -846,7 +846,7 @@ include_once __DIR__ . '/../includes/config.php';
     </p>
     <a href="<?php echo SITE_BASE_URL; ?>/contact" class="jg2r-cta-btn" style="background:#fef08a; color:#0f172a;">Get Instant Moving Quote</a>
     <div class="jg2r-call-box">
-      Call Direct: <a href="tel:+919334404052">+91 93344 04052</a> | 24/7 Dedicated Support
+      Call Direct: <a href="tel:+919835565233">+91 9835565233</a> | 24/7 Dedicated Support
     </div>
   </section>
 

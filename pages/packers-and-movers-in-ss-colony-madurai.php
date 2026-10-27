@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ss-colony-madurai";
         "name": "Shree Ashirwad Packers and Movers SS Colony Madurai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -541,7 +541,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ss-colony-madurai";
         <p>The architectural character of SS Colony features grand independent family bungalows with expansive courtyards, well-maintained row villas, and contemporary multi-storey apartments. Residents in this prestigious neighborhood value careful handling, respectful crew etiquette, and complete safeguarding of family possessions. Shree Ashirwad Packers and Movers has spent over twelve years delivering bespoke relocation services that cater specifically to the high standards of SS Colony families.</p>
 
         <div class="ssc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Residential moving and goods loading in SS Colony Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Residential moving and goods loading in SS Colony Madurai" width="580" height="387" loading="lazy">
             <div class="ssc-image-caption">Apartment freight handling and professional residential loading operations in SS Colony Madurai.</div>
         </div>
 
@@ -578,7 +578,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ss-colony-madurai";
         </div>
 
         <div class="ssc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Ancestral wooden furniture protective wrapping in SS Colony Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Ancestral wooden furniture protective wrapping in SS Colony Madurai" width="580" height="387" loading="lazy">
             <div class="ssc-image-caption">Expert padding and protective stretch wrapping for heirloom wooden furniture in SS Colony.</div>
         </div>
 
@@ -594,7 +594,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ss-colony-madurai";
         <p>Our commercial moving division provides planned office relocations executed during scheduled evening slots or weekend windows. We dismantle modular workstations, pack computers in antistatic ESD wrap, and transport office files in tamper-evident security bins, allowing your company to resume work smoothly on Monday morning.</p>
 
         <div class="ssc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in SS Colony Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Commercial office equipment and computer packing in SS Colony Madurai" width="580" height="387" loading="lazy">
             <div class="ssc-image-caption">Corporate IT equipment and office furniture relocation handled securely in SS Colony.</div>
         </div>
 
@@ -718,7 +718,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ss-colony-madurai";
         </ol>
 
         <div class="ssc-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in SS Colony Madurai" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof sealed container truck in SS Colony Madurai" width="580" height="387" loading="lazy">
             <div class="ssc-image-caption">Weatherproof sealed container carriers engineered for safe transit across Madurai corridors.</div>
         </div>
     </section>
@@ -775,7 +775,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ss-colony-madurai";
     <div class="ssc-cta-box">
         <h3>Move Safely in SS Colony with Proven Specialists</h3>
         <p>Get a fixed-price written quotation backed by our zero-damage guarantee. Fully licensed, insured, and experienced professionals ready to assist your relocation.</p>
-        <a href="tel:+919334404050" class="ssc-cta-btn">Call +91 9334404050 for Free Survey</a>
+        <a href="tel:+919835565233" class="ssc-cta-btn">Call +91 9835565233 for Free Survey</a>
     </div>
 
     <!-- Connected Cluster Module -->

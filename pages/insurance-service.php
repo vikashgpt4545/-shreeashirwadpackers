@@ -134,14 +134,14 @@ require_once __DIR__ . '/includes/seo.php';
           
           <div class="about-images-wrapper">
             <div class="about-image-main">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck with Comprehensive Insurance in Ranchi - Shree Ashirwad Packers" title="Shree Ashirwad Packers Insured Transit Container Fleet" width="560" height="380" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck with Comprehensive Insurance in Ranchi - Shree Ashirwad Packers" title="Shree Ashirwad Packers Insured Transit Container Fleet" width="560" height="380" loading="lazy">
               <div class="about-badge-floating">
                 <span class="badge-num">100%</span>
                 <span class="badge-txt">Covered Claims</span>
               </div>
             </div>
             <div class="about-image-sub">
-              <img src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading with Transit Insurance in Jharkhand - Shree Ashirwad Packers" title="Insured Highway Relocation Truck Loading" width="280" height="190" loading="lazy">
+              <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity Moving Truck Loading with Transit Insurance in Jharkhand - Shree Ashirwad Packers" title="Insured Highway Relocation Truck Loading" width="280" height="190" loading="lazy">
             </div>
           </div>
 
@@ -275,7 +275,7 @@ require_once __DIR__ . '/includes/seo.php';
         <div class="room-packing-grid">
           
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Wooden Furniture Protective Wrapping for Insured Transit in Bokaro - Shree Ashirwad Packers" title="Solid Wood Furniture Insured Transit Wrapping" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Wooden Furniture Protective Wrapping for Insured Transit in Bokaro - Shree Ashirwad Packers" title="Solid Wood Furniture Insured Transit Wrapping" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Heavy Furniture & Modular Woodwork</h3>
               <p class="room-pack-text">
@@ -290,7 +290,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics LED TV Crating with Transit Insurance in Jharkhand - Shree Ashirwad Packers" title="Insured LED TV Wooden Crating" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics LED TV Crating with Transit Insurance in Jharkhand - Shree Ashirwad Packers" title="Insured LED TV Wooden Crating" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Home Entertainment & Smart Appliances</h3>
               <p class="room-pack-text">
@@ -305,7 +305,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Insured Moving Truck in Jharkhand - Shree Ashirwad Packers" title="Insured Doorstep Moving Truck Fleet" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Insured Moving Truck in Jharkhand - Shree Ashirwad Packers" title="Insured Doorstep Moving Truck Fleet" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Two-Wheelers & Passenger Automobiles</h3>
               <p class="room-pack-text">
@@ -320,7 +320,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="room-pack-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets for Moving Insurance in Ranchi - Shree Ashirwad Packers" title="High Quality Packing Materials for Insured Transit" class="room-pack-img" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="Packing Materials and Corrugated Sheets for Moving Insurance in Ranchi - Shree Ashirwad Packers" title="High Quality Packing Materials for Insured Transit" class="room-pack-img" width="400" height="260" loading="lazy">
             <div class="room-pack-body">
               <h3 class="room-pack-title">Standard Excluded Perils & Items</h3>
               <p class="room-pack-text">
@@ -514,16 +514,16 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Infrastructure & Fleet Visual Showcase -->
         <div class="infra-images-grid" style="margin-top: 36px;">
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Insured Moving Truck in Jharkhand - Shree Ashirwad Packers" title="Shree Ashirwad IBA Approved Insured Moving Fleet" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg" alt="Verified Insured Moving Truck in Jharkhand - Shree Ashirwad Packers" title="Shree Ashirwad IBA Approved Insured Moving Fleet" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Insured Safe Transit Container Truck in Ranchi - Shree Ashirwad Packers" title="Closed Container Fleet with Transit Insurance" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Insured Safe Transit Container Truck in Ranchi - Shree Ashirwad Packers" title="Closed Container Fleet with Transit Insurance" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Wooden Furniture Protective Wrapping in Bokaro - Shree Ashirwad Packers" title="Furniture Multi-Layer Shock Protection Before Transit" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Heavy Wooden Furniture Protective Wrapping in Bokaro - Shree Ashirwad Packers" title="Furniture Multi-Layer Shock Protection Before Transit" width="400" height="260" loading="lazy">
           </div>
           <div class="infra-img-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Insured Commercial Goods Storage Warehouse in Ranchi - Shree Ashirwad Packers" title="Insured Warehousing and Storage Facility" width="400" height="260" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Insured Commercial Goods Storage Warehouse in Ranchi - Shree Ashirwad Packers" title="Insured Warehousing and Storage Facility" width="400" height="260" loading="lazy">
           </div>
         </div>
 

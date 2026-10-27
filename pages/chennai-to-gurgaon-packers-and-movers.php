@@ -28,7 +28,7 @@ require_once __DIR__ . '/../includes/config.php';
         "description": "High-standard interstate household packing, corporate shifting, and vehicle transport between Chennai, Tamil Nadu and Gurgaon, Haryana.",
         "url": "<?php echo SITE_BASE_URL; ?>/chennai-to-gurgaon-packers-and-movers",
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
-        "telephone": "+91-9334812328",
+        "telephone": "+91 9835565233",
         "email": "info@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
@@ -336,7 +336,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Our long-haul fleet navigates the primary freight spine connecting Southern India with the National Capital Region via National Highway 44 (NH44) and National Highway 48 (NH48), traversing Andhra Pradesh, Telangana, Maharashtra, Madhya Pradesh, and Rajasthan before touching down safely in Gurugram. Every consignment travels under active real-time GPS tracking with verified drivers experienced in inter-state transport protocols.</p>
 
         <div class="cngg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Chennai to Gurgaon Container Truck Transit" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Chennai to Gurgaon Container Truck Transit" width="580" height="387" loading="lazy">
             <div class="cngg-img-caption">All-weather sealed container trucks ensuring safe freight transit from Chennai to Gurgaon.</div>
         </div>
 
@@ -359,7 +359,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>From heavy teak wood dining sets common in traditional Chennai homes to sophisticated home office setups and multi-screen workstation equipment, every individual piece receives specialized protective treatment before loading into the container truck.</p>
 
         <div class="cngg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Grade Packing Materials for Chennai Gurgaon Relocation" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Grade Packing Materials for Chennai Gurgaon Relocation" width="580" height="387" loading="lazy">
             <div class="cngg-img-caption">Multi-tier bubble wrapping and reinforced corrugated boxes protect valuables across interstate journeys.</div>
         </div>
 
@@ -446,7 +446,7 @@ require_once __DIR__ . '/../includes/config.php';
         <p>Each vehicle undergoes a detailed digital condition audit at the time of pickup in Chennai. We inspect fluid levels, document existing exterior condition with date-stamped photos, secure tires with industrial nylon tie-downs inside our closed-body car carriers, and issue an official transit consignment note.</p>
 
         <div class="cngg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and Car Transport Chennai to Gurgaon" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Motorcycle and Car Transport Chennai to Gurgaon" width="580" height="387" loading="lazy">
             <div class="cngg-img-caption">Specialized tie-downs and enclosed carrier decks ensure scratch-free two-wheeler and automobile relocation.</div>
         </div>
 
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/config.php';
         </div>
 
         <div class="cngg-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Gurgaon" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup in Gurgaon" width="580" height="387" loading="lazy">
             <div class="cngg-img-caption">Professional destination unboxing, furniture reassembly, and debris removal in your new Gurgaon home.</div>
         </div>
     </section>

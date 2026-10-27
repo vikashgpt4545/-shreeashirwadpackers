@@ -608,7 +608,7 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="dnp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High rise apartment and cantonment shifting by Shree Ashirwad Packers in Danapur Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="High rise apartment and cantonment shifting by Shree Ashirwad Packers in Danapur Patna" loading="lazy">
                     <p class="dnp-image-caption">Careful handling of furniture and household goods at modern residential towers and defense quarters in Danapur, Patna.</p>
                 </div>
             </div>
@@ -676,7 +676,7 @@ require_once __DIR__ . '/../includes/seo.php';
         <div class="dnp-grid-2">
             <div>
                 <div class="dnp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated cartons deployed for Danapur relocations" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated cartons deployed for Danapur relocations" loading="lazy">
                     <p class="dnp-image-caption">Sturdy 5-ply cartons, shock-absorbing bubble wrap, and moisture-resistant stretch film for Danapur moves.</p>
                 </div>
             </div>
@@ -802,11 +802,11 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
             <div>
                 <div class="dnp-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Two wheeler bike packing and transportation in Danapur Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Two wheeler bike packing and transportation in Danapur Patna" loading="lazy">
                     <p class="dnp-image-caption">Dedicated two-wheeler packing with heavy bubble wrapping and handlebar bracing for Danapur residents.</p>
                 </div>
                 <div class="dnp-image-box" style="margin-top: 24px;">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Weatherproof container truck for door to door delivery in Danapur Patna" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Weatherproof container truck for door to door delivery in Danapur Patna" loading="lazy">
                     <p class="dnp-image-caption">Weather-sealed container vehicles engineered for secure urban and long-distance relocations.</p>
                 </div>
             </div>

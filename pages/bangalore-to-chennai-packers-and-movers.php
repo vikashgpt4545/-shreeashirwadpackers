@@ -36,7 +36,7 @@ $primary_highway = 'NH-48 (Bangalore-Chennai Highway via Hosur, Krishnagiri & Ve
     "name": "Shree Ashirwad Packers and Movers - Bangalore to Chennai Route",
     "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://shreeashirwadpackers.com/bangalore-to-chennai-packers-and-movers",
-    "telephone": "+91 9334484001",
+    "telephone": "+91 9835565233",
     "priceRange": "₹9,500 - ₹42,000",
     "address": {
       "@type": "PostalAddress",
@@ -507,7 +507,7 @@ $primary_highway = 'NH-48 (Bangalore-Chennai Highway via Hosur, Krishnagiri & Ve
 
 <!-- Quick Action Contact Bar -->
 <div class="bnc-quick-bar">
-  Bangalore to Chennai Relocation Helpdesk: <strong>+91 9334484001 / +91 8409531615</strong> | Instant Quotes & Booking: <a href="https://wa.me/919334484001?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Bangalore%20to%20Chennai%20relocation">Chat on WhatsApp</a>
+  Bangalore to Chennai Relocation Helpdesk: <strong>+91 9835565233 / +91 8409531615</strong> | Instant Quotes & Booking: <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Bangalore%20to%20Chennai%20relocation">Chat on WhatsApp</a>
 </div>
 
 <!-- Section 1: Route Overview & Highway Logistics -->
@@ -531,7 +531,7 @@ $primary_highway = 'NH-48 (Bangalore-Chennai Highway via Hosur, Krishnagiri & Ve
     </div>
     <div>
       <div class="bnc-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Chennai dedicated container truck loading" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Bangalore to Chennai dedicated container truck loading" loading="lazy">
       </div>
     </div>
   </div>
@@ -582,7 +582,7 @@ $primary_highway = 'NH-48 (Bangalore-Chennai Highway via Hosur, Krishnagiri & Ve
     </div>
   </div>
   <div class="bnc-image-container">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing and crating for Bangalore to Chennai move" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing and crating for Bangalore to Chennai move" loading="lazy">
   </div>
 </section>
 
@@ -726,7 +726,7 @@ $primary_highway = 'NH-48 (Bangalore-Chennai Highway via Hosur, Krishnagiri & Ve
     </div>
   </div>
   <div class="bnc-image-container">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glass packing for Bangalore to Chennai relocation" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glass packing for Bangalore to Chennai relocation" loading="lazy">
   </div>
 </section>
 
@@ -755,7 +755,7 @@ $primary_highway = 'NH-48 (Bangalore-Chennai Highway via Hosur, Krishnagiri & Ve
     </div>
   </div>
   <div class="bnc-image-container">
-    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck for interstate moves" loading="lazy">
+    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Doorstep delivery truck for interstate moves" loading="lazy">
   </div>
 </section>
 
@@ -791,7 +791,7 @@ $primary_highway = 'NH-48 (Bangalore-Chennai Highway via Hosur, Krishnagiri & Ve
 <section class="bnc-cta-box">
   <h3>Planning Your Move from Bangalore to Chennai?</h3>
   <p>Get a guaranteed flat-rate estimate with zero hidden costs, free pre-move video survey, same-day delivery, and premium 5-layer protective packing.</p>
-  <a href="tel:+919334484001" class="bnc-btn-primary">Call Relocation Desk: +91 9334484001</a>
+  <a href="tel:+919835565233" class="bnc-btn-primary">Call Relocation Desk: +91 9835565233</a>
 </section>
 
 <!-- Section 7: Interconnected Corridor Network -->

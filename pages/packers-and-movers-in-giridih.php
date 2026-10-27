@@ -365,7 +365,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gir
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Truck Loading Giridih Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Truck Loading Giridih Jharkhand" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Verified Moving Fleet</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Giridih Professional Shifting Crew</p>
@@ -510,7 +510,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gir
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center; order: 2;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Proven Protection</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Complete 5-Layer Packing Standard</p>
@@ -800,7 +800,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gir
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Furniture Protection</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Solid Wood Cushioning & Wrapping</p>
@@ -820,7 +820,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gir
         <!-- Responsive 3:4 Image Container -->
         <div style="display: flex; justify-content: center; order: 2;">
           <div style="width: 100%; max-width: 400px; aspect-ratio: 3/4; overflow: hidden; border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,0.12); position: relative;">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Scooter and Bike Safe Transit Packing Giridih" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(13, 27, 42, 0.85) 0%, transparent 100%); padding: 20px; color: #ffffff;">
               <p style="font-size: 13px; font-weight: 600; margin: 0; text-transform: uppercase; letter-spacing: 0.5px; color: #f39c12;">Two-Wheeler Armor</p>
               <p style="font-size: 15px; font-weight: 700; margin: 4px 0 0;">Motorcycle & Scooter Packing Standard</p>

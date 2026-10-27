@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -501,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Shree Ashirwad operates specialized multi-tier vehicle container trucks equipped with internal recessed cargo tracking. Every motorcycle or scooter is driven onto the vehicle using a low-angle hydraulic loading ramp, guided into a heavy rubber-lined wheel chock that locks the front tire upright, and anchored at four separate frame points using rubber-coated high-tensile ratchet straps. The bike's suspension is compressed by 20% to absorb road shocks, ensuring zero movement even during emergency highway braking.</p>
 
         <div class="ibpc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Multi-layer scratch-proof bubble wrapping for motorcycle body panels and exhaust" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" alt="Multi-layer scratch-proof bubble wrapping for motorcycle body panels and exhaust" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 2: Two-Wheeler Categories Handled -->
@@ -555,7 +555,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ibpc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Hydraulic ramp loading and wheel-chock ratcheting for motorcycle transport" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Hydraulic ramp loading and wheel-chock ratcheting for motorcycle transport" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Stage Moving Protocol -->
@@ -591,7 +591,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ibpc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Full motorcycle protective bubble wrap and corrugated padding packaging process" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Full motorcycle protective bubble wrap and corrugated padding packaging process" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -700,7 +700,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="ibpc-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed containerized vehicles for all-weather interstate two-wheeler and bike transport" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed containerized vehicles for all-weather interstate two-wheeler and bike transport" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 6: Documents & Preparation -->

@@ -395,7 +395,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rayagada#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rayagada",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,300 - ₹56,000",
         "address": {
             "@type": "PostalAddress",
@@ -542,7 +542,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="ryg-body-p">Shree Ashirwad Packers and Movers brings verified logistical infrastructure to Rayagada. Whether shifting homes inside modern townships like Jaykaypur, Raniguda Farm, and Sai Priya Nagar or coordinating long-distance highway transit, our specialized teams link Rayagada seamlessly to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-berhampur">Berhampur</a> (200 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sambalpur">Sambalpur</a> (280 km), <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhubaneswar">Bhubaneswar</a> (360 km), Visakhapatnam, Raipur, and our corporate headquarters in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
                 <div class="ryg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods container loading in Rayagada" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household goods container loading in Rayagada" width="580" height="380" loading="lazy">
                     <div class="ryg-image-caption">Systematic loading and cargo bracing inside closed-body transport fleet in Rayagada.</div>
                 </div>
 
@@ -585,7 +585,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="ryg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Rayagada" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="4-layer bubble packaging for household cartons in Rayagada" width="580" height="380" loading="lazy">
                     <div class="ryg-image-caption">Standardized 4-layer packaging utilizing bubble wrap, corrugated sheets, and edge protectors.</div>
                 </div>
 
@@ -674,7 +674,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="ryg-lead-p">Every relocation project in Rayagada is executed using disciplined operating procedures honed over years of reliable service across Eastern India, ensuring total security from initial survey to final room placement:</p>
 
                 <div class="ryg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Rayagada" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and assembly in Rayagada" width="580" height="380" loading="lazy">
                     <div class="ryg-image-caption">Careful dismantling and packaging of modular bed frames, dining sets, and wardrobes.</div>
                 </div>
 
@@ -734,7 +734,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </ul>
 
                 <div class="ryg-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Rayagada" width="580" height="380" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for household goods in Rayagada" width="580" height="380" loading="lazy">
                     <div class="ryg-image-caption">Dedicated door-to-door delivery vehicles serving Rayagada urban townships and industrial colonies.</div>
                 </div>
 
@@ -806,7 +806,7 @@ require_once ROOT_PATH . '/includes/config.php';
                     <li>All-India Transit Coverage</li>
                     <li>24/7 Dedicated Move Coordinator</li>
                 </ul>
-                <a href="tel:+919334460424" class="ryg-cta-button">📞 Call: +91 93344 60424</a>
+                <a href="tel:+919835565233" class="ryg-cta-button">📞 Call: +91 9835565233</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ryg-cta-button" style="margin-top: 10px; background: linear-gradient(135deg, #b45309 0%, #ea580c 100%);">📊 Calculate Charges Online</a>
             </div>
 
@@ -826,7 +826,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="ryg-body-p"><strong>Shree Ashirwad Packers and Movers</strong><br>
                 Corporate HQ: Ashok Nagar, Near Birsa Munda Airport Road, Ranchi, Jharkhand.<br>
                 Regional Rayagada Hub: NH-326 Bypass, Raniguda Farm, Rayagada, Odisha - 765001.<br>
-                Helpline: +91 93344 60424<br>
+                Helpline: +91 9835565233<br>
                 Email: info@shreeashirwadpackers.com</p>
                 <a href="<?php echo SITE_BASE_URL; ?>/" class="ryg-cluster-link" style="text-align: center;">View Ranchi Authority Hub</a>
             </div>

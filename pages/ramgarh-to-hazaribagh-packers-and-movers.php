@@ -662,7 +662,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-pac
                 <p>The four-lane NH-20 bypasses urban congestion, allowing our dedicated container trucks to cover the distance in just over an hour. With our full-service offering, your entire home can be packed in Ramgarh after breakfast and completely reassembled in Hazaribagh before evening tea.</p>
             </div>
             <div class="r2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Ramgarh to Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated container moving truck transporting household goods from Ramgarh to Hazaribagh" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -734,7 +734,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-pac
     <div class="r2hzb-container">
         <div class="r2hzb-grid-2col">
             <div class="r2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Ramgarh to Hazaribagh move" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-layer scientific protective packing for Ramgarh to Hazaribagh move" loading="lazy" width="600" height="400">
             </div>
             <div class="r2hzb-content-box">
                 <span class="r2hzb-tag">Uncompromising Care</span>
@@ -765,7 +765,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-pac
                 <p>For sedans, hatchbacks, and SUVs, our car carrier services include photographic pre-loading inspections, four-wheel locking chocks, and comprehensive transit insurance cover. We offer doorstep pickup in Ramgarh Cantt, Nai Sarai, or Barkakana and direct delivery to your Hazaribagh residence.</p>
             </div>
             <div class="r2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicles from Ramgarh for transit to Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading vehicles from Ramgarh for transit to Hazaribagh" loading="lazy" width="600" height="400">
             </div>
         </div>
     </div>
@@ -776,7 +776,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-pac
     <div class="r2hzb-container">
         <div class="r2hzb-grid-2col">
             <div class="r2hzb-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service at destination in Hazaribagh" loading="lazy" width="600" height="400">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and home setup service at destination in Hazaribagh" loading="lazy" width="600" height="400">
             </div>
             <div class="r2hzb-content-box">
                 <span class="r2hzb-tag">Full-Service Guarantee</span>

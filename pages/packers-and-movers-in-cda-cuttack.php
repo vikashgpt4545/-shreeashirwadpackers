@@ -360,7 +360,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "@id": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cda-cuttack#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cda-cuttack",
-        "telephone": "+919334460424",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,000 - ₹52,000",
         "address": {
             "@type": "PostalAddress",
@@ -522,7 +522,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <p class="cda-body-p">Home to senior judicial officers of the Orissa High Court, prominent advocates, doctors from premier healthcare establishments, engineering executives, and modern business families, CDA demands an elevated standard of relocation services. Moving homes here requires clean, punctual, and highly organized crews accustomed to dealing with modern multi-story gated apartments, duplexes, and independent bungalows.</p>
 
                 <div class="cda-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in CDA Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading in CDA Cuttack">
                     <div class="cda-image-caption">Dedicated crew loading household consignments in a residential society of CDA Sector 9 Cuttack</div>
                 </div>
 
@@ -561,7 +561,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="cda-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Quality Packaging Materials CDA Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High Quality Packaging Materials CDA Cuttack">
                     <div class="cda-image-caption">Multi-layer bubble wrap, corner buffers, and heavy-duty boxes used for delicate household articles in CDA</div>
                 </div>
 
@@ -682,7 +682,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="cda-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly in CDA Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture Dismantling and Reassembly in CDA Cuttack">
                     <div class="cda-image-caption">Expert carpenter reassembling a luxury bed frame in a residential duplex in CDA Sector 10 Cuttack</div>
                 </div>
 
@@ -717,7 +717,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 </div>
 
                 <div class="cda-image-container">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck CDA Cuttack">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck CDA Cuttack">
                     <div class="cda-image-caption">Weatherproof container trucks delivering household goods directly to residential societies across CDA Cuttack</div>
                 </div>
 
@@ -780,7 +780,7 @@ require_once ROOT_PATH . '/includes/config.php';
                 <ul style="padding-left: 20px; margin-bottom: 15px; font-size: 0.93rem; color: #334155;">
                     <li><strong>Local Desk:</strong> Sector 6 Commercial Complex, CDA Cuttack</li>
                     <li><strong>Service Hours:</strong> 6:00 AM - 10:00 PM (Daily)</li>
-                    <li><strong>Helpline:</strong> +91 9334460424</li>
+                    <li><strong>Helpline:</strong> +91 9835565233</li>
                     <li><strong>Email:</strong> info@shreeashirwadpackers.com</li>
                 </ul>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="cda-cta-button">Request Free Moving Quote</a>

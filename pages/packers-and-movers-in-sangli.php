@@ -36,7 +36,7 @@ $canonical_url = 'https://shreeashirwadpackers.com/packers-and-movers-in-sangli'
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "https://shreeashirwadpackers.com/packers-and-movers-in-sangli#company",
         "url": "https://shreeashirwadpackers.com/packers-and-movers-in-sangli",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -468,7 +468,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <h1>Packers and Movers in Sangli</h1>
         <p>Western Maharashtra's turmeric and healthcare capital relocation specialists. Professional home shifting, agro-industry machine moving, medical professional transfers, and vehicle transport across Vishrambag, Miraj, and Kupwad MIDC.</p>
         <div class="sgl-btn-wrap">
-            <a href="tel:+919334404050" class="sgl-btn-primary">Call +91 93344 04050</a>
+            <a href="tel:+919835565233" class="sgl-btn-primary">Call +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="sgl-btn-secondary">Check Tariff Rates</a>
         </div>
     </header>
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>At Shree Ashirwad Packers and Movers, we bring more than fifteen years of nationwide relocation mastery directly to Sangli. Relocating in this expanding commercial center requires an experienced moving partner capable of coordinating gated community guidelines, navigating highway connectivity, and deploying weather-tight container fleets. Our dedicated teams arrive with non-marking floor protection runners, specialized furniture dollies, hydraulic tail-lifts, and trained technicians to ensure an impeccably smooth moving experience from start to finish.</p>
 
         <div class="sgl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Sangli" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading container truck in Sangli" width="580" height="387" loading="lazy">
             <p class="sgl-image-caption">Experienced loading crews securing packed household consignments inside our weatherproof container trucks in Sangli.</p>
         </div>
 
@@ -529,7 +529,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="sgl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Sangli" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-layer bubble wrapping and packing materials in Sangli" width="580" height="387" loading="lazy">
             <p class="sgl-image-caption">High-density air bubble wrap, corrugated sheets, and shrink film applied to protect fragile electronics and chinaware in Sangli.</p>
         </div>
 
@@ -595,7 +595,7 @@ require_once ROOT_PATH . '/includes/header.php';
         <p>Final costs are determined by exact inventory volume, floor elevation, elevator availability, fragile crating requirements, and overall transit distance. For an exact customized quote tailored to your inventory, please view our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Rate Calculator</a> or speak directly with our Sangli survey executive.</p>
 
         <div class="sgl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Sangli" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and carpentry services in Sangli" width="580" height="387" loading="lazy">
             <p class="sgl-image-caption">Skilled carpenters carefully dismantling and wrapping heavy bed frames and wardrobes for safe residential transit in Sangli.</p>
         </div>
 
@@ -640,7 +640,7 @@ require_once ROOT_PATH . '/includes/header.php';
         </div>
 
         <div class="sgl-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Sangli" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Sangli" width="580" height="387" loading="lazy">
             <p class="sgl-image-caption">Our closed container vehicles ensuring safe, door-to-door delivery across residential sectors and industrial townships throughout Sangli.</p>
         </div>
 

@@ -25,7 +25,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers BALCO Nagar Korba",
         "description": "Certified packers and movers providing residential township shifting, Bharat Aluminium corporate executive transfers, industrial household moving, and car carrier services in BALCO Nagar, Korba, Chhattisgarh.",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-balco-nagar-korba",
-        "telephone": "+91-9334812304",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,600 - ₹36,000",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "address": {
@@ -435,7 +435,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="blk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Industrial township moving in BALCO Nagar Korba by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Industrial township moving in BALCO Nagar Korba by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -489,7 +489,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="blk-grid-2">
             <div>
                 <div class="blk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for BALCO Nagar Korba township shifting" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective furniture wrapping for BALCO Nagar Korba township shifting" loading="lazy">
                 </div>
             </div>
             <div>
@@ -574,7 +574,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="blk-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated container truck loading in BALCO Nagar Korba by Shree Ashirwad Packers" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated container truck loading in BALCO Nagar Korba by Shree Ashirwad Packers" loading="lazy">
                 </div>
             </div>
         </div>
@@ -604,7 +604,7 @@ require_once __DIR__ . '/../includes/config.php';
 
         <div style="margin-top: 25px;">
             <div class="blk-image-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Quarter goods loading operations in BALCO Nagar Korba by Shree Ashirwad Packers" loading="lazy">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Quarter goods loading operations in BALCO Nagar Korba by Shree Ashirwad Packers" loading="lazy">
             </div>
         </div>
     </section>
@@ -649,7 +649,7 @@ require_once __DIR__ . '/../includes/config.php';
     <section class="blk-cta">
         <h2>Planning a Move in BALCO Nagar Korba?</h2>
         <p>Contact Korba’s trusted industrial township and executive relocation specialists today for a free on-site survey and transparent pricing.</p>
-        <a class="blk-cta-btn" href="tel:+919334812304">Call Now: +91-9334812304</a>
+        <a class="blk-cta-btn" href="tel:+919835565233">Call Now: +91 9835565233</a>
     </section>
 
 </main>

@@ -791,7 +791,7 @@ require_once __DIR__ . '/includes/header.php';
 
     <div class="r2k-grid-4">
       <div class="r2k-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof closed container truck for Ranchi to Kanpur NH-20/NH-19 corridor linehaul" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof closed container truck for Ranchi to Kanpur NH-20/NH-19 corridor linehaul" loading="lazy">
         <div class="r2k-img-content">
           <h3 class="r2k-img-title">Sealed Interstate Fleet</h3>
           <p class="r2k-img-desc">Heavy-duty closed container trucks shielding home belongings from road dust, sudden rain, and highway vibrations during the 700 km linehaul.</p>
@@ -799,7 +799,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="r2k-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer corrugated and foam protection for wooden furniture during interstate transit" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Multi-layer corrugated and foam protection for wooden furniture during interstate transit" loading="lazy">
         <div class="r2k-img-content">
           <h3 class="r2k-img-title">Wooden Furniture Armor</h3>
           <p class="r2k-img-desc">Multi-layer corrugated cardboard and dense foam wrap securing wooden almirahs, dining sets, and bed frames from friction marks or scratches.</p>
@@ -807,7 +807,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="r2k-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom padded wooden crating and bubble protection for LED TVs and delicate appliances" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Custom padded wooden crating and bubble protection for LED TVs and delicate appliances" loading="lazy">
         <div class="r2k-img-content">
           <h3 class="r2k-img-title">LED TV &amp; Appliance Crating</h3>
           <p class="r2k-img-desc">Custom padded wooden crating and triple bubble wrap securing LED televisions, monitors, microwaves, and delicate electronics from vibration damage.</p>
@@ -815,7 +815,7 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="r2k-img-card">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated hydraulic car carrier loading and intercity vehicle transport" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Dedicated hydraulic car carrier loading and intercity vehicle transport" loading="lazy">
         <div class="r2k-img-content">
           <h3 class="r2k-img-title">Car &amp; SUV Carrier Transport</h3>
           <p class="r2k-img-desc">Specialized enclosed car carriers with hydraulic wheel locks transporting sedans and SUVs safely to Kanpur with zero odometer increase.</p>

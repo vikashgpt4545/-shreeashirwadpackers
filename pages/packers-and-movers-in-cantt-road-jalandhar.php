@@ -268,7 +268,7 @@ $state_name = 'Punjab';
     "name": "Shree Ashirwad Packers and Movers Cantt Road Jalandhar",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "url": "<?php echo $canonical_url; ?>",
-    "telephone": "+91-9835155555",
+    "telephone": "+91 9835565233",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -400,7 +400,7 @@ $state_name = 'Punjab';
           <p>Shree Ashirwad Packers and Movers brings over 16 years of direct experience serving armed forces officers, junior commissioned officers, civilian defense employees, and families living along the Cantt Road corridor. We offer end-to-end relocation services executed with military-grade discipline, using certified packing materials, closed waterproof container trucks, and prompt pan-India door-to-door delivery.</p>
         </div>
         <div class="crj-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Cantt Road Jalandhar" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Cantt Road Jalandhar" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -454,7 +454,7 @@ $state_name = 'Punjab';
       </div>
 
       <div class="crj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Cantt Road Jalandhar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Cantt Road Jalandhar" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -547,7 +547,7 @@ $state_name = 'Punjab';
       </table>
 
       <div class="crj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Cantt Road Jalandhar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Cantt Road Jalandhar" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -583,7 +583,7 @@ $state_name = 'Punjab';
       </div>
 
       <div class="crj-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Cantt Road Jalandhar" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Cantt Road Jalandhar" width="580" height="380" loading="lazy">
       </div>
     </section>
 

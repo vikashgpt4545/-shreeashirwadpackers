@@ -172,7 +172,7 @@ $meta_keywords = "ranchi to kolkata packers and movers, packers and movers ranch
         "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
-        "postalCode": "834001",
+        "postalCode": "834002",
         "addressCountry": "IN"
       }
     },
@@ -1157,21 +1157,21 @@ $meta_keywords = "ranchi to kolkata packers and movers, packers and movers ranch
         <!-- Visual Image Showcase -->
         <div class="rtk-image-showcase">
           <div class="rtk-image-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Kolkata Packers and Movers Dedicated Container Truck" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Ranchi to Kolkata Packers and Movers Dedicated Container Truck" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
             <div class="rtk-image-info">
               <div class="rtk-image-title">Dedicated Closed Steel Container Truck</div>
               <p class="rtk-image-desc">All-weather sealed containers ensuring total security and zero water intrusion along the 410 km NH-19 corridor to Kolkata.</p>
             </div>
           </div>
           <div class="rtk-image-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and LED TV Crating for Kolkata Transit" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" alt="Electronics and LED TV Crating for Kolkata Transit" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
             <div class="rtk-image-info">
               <div class="rtk-image-title">Custom Crating for Delicate Smart TVs</div>
               <p class="rtk-image-desc">Multi-layer air bubble wrap and heavy-gauge wooden frame casing protecting OLED displays on interstate highway journeys.</p>
             </div>
           </div>
           <div class="rtk-image-card">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Car Carrier Loading Ranchi to Kolkata" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed Car Carrier Loading Ranchi to Kolkata" loading="lazy" style="width:100%; height:240px; max-height:280px; object-fit:cover; display:block;">
             <div class="rtk-image-info">
               <div class="rtk-image-title">Hydraulic Enclosed Car Carrier Loading</div>
               <p class="rtk-image-desc">Safe interstate car transport from Ranchi to Kolkata with wheel-lock clamps, pre-move inspection reports, and transit insurance.</p>

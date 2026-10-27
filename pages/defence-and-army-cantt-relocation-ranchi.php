@@ -36,7 +36,7 @@ require_once BASE_PATH . '/includes/config.php';
             "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -220,7 +220,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="def-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Defence and Army Cantt Relocation Ranchi - Disciplined Moving Crew" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Defence and Army Cantt Relocation Ranchi - Disciplined Moving Crew" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -249,7 +249,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="def-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Military Freight" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Container Truck - Dedicated Military Freight" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -304,7 +304,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="def-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck - Defence Relocation Service" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck - Defence Relocation Service" width="580" height="387" loading="lazy">
         </div>
     </section>
 
@@ -333,7 +333,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="def-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Defence Relocation Setup" width="580" height="387" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service - Defence Relocation Setup" width="580" height="387" loading="lazy">
         </div>
     </section>
 

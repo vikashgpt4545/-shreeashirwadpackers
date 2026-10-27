@@ -82,7 +82,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "streetAddress": "Ranchi Central Hub, Near Overbridge, Main Road",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834001",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "aggregateRating": {
@@ -663,7 +663,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="ran-khu-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated Sealed Container Truck Loading for Same-Day Ranchi to Khunti Move" title="Ranchi to Khunti Household Shifting">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Dedicated Sealed Container Truck Loading for Same-Day Ranchi to Khunti Move" title="Ranchi to Khunti Household Shifting">
             </div>
         </div>
     </div>
@@ -745,7 +745,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="ran-khu-container">
         <div class="ran-khu-two-col">
             <div class="ran-khu-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Crew Packing Fragile Home Appliances and Furniture" title="Expert Packing Crew in Action">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional Crew Packing Fragile Home Appliances and Furniture" title="Expert Packing Crew in Action">
             </div>
             <div class="ran-khu-two-col-text">
                 <h2>5-Layer Protective Packaging for Short-Haul Transit</h2>
@@ -807,7 +807,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 </p>
             </div>
             <div class="ran-khu-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Enclosed Motorcycle Transport for Ranchi to Khunti Move" title="Motorcycle Parcel to Khunti">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Enclosed Motorcycle Transport for Ranchi to Khunti Move" title="Motorcycle Parcel to Khunti">
             </div>
         </div>
     </div>
@@ -818,7 +818,7 @@ require_once __DIR__ . '/../includes/seo.php';
     <div class="ran-khu-container">
         <div class="ran-khu-two-col">
             <div class="ran-khu-img-box">
-                <img src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Storage and Operational Warehouse Facility for Relocation Cargo" title="Clean Moving and Storage Hub">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Storage and Operational Warehouse Facility for Relocation Cargo" title="Clean Moving and Storage Hub">
             </div>
             <div class="ran-khu-two-col-text">
                 <h2>100% Audit-Approved Bills for Govt &amp; Judicial Transfers</h2>

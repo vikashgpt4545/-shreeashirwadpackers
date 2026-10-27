@@ -267,7 +267,7 @@ $state_name = 'Himachal Pradesh';
         "logo": "https://shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg",
         "description": "Licensed and insured packers and movers in Dharamshala Himachal Pradesh offering expert household shifting, McLeod Ganj relocations, Tapovan assembly staff moves, 4-tier packaging, and pan-India transit.",
-        "telephone": "+91-9334800375",
+        "telephone": "+91 9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
@@ -439,7 +439,7 @@ $state_name = 'Himachal Pradesh';
           <p>With over 16 years of certified industry leadership across Himachal Pradesh, Shree Ashirwad Packers and Movers has established itself as the trusted moving company for Dharamshala residents, expatriates, and civil servants. Our specialized closed containerized trucks, ISO-certified 4-tier packaging architecture, and transparent claim documentation guarantee a seamless, zero-damage relocation experience across North India.</p>
         </div>
         <div class="dhs-image-container">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Dharamshala Himachal Pradesh" width="580" height="380" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete Household Packing in Dharamshala Himachal Pradesh" width="580" height="380" loading="lazy">
         </div>
       </div>
 
@@ -481,7 +481,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="dhs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Dharamshala Himachal Pradesh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg" alt="Office and Household Equipment Packing in Dharamshala Himachal Pradesh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -574,7 +574,7 @@ $state_name = 'Himachal Pradesh';
       </table>
 
       <div class="dhs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Dharamshala Himachal Pradesh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Safe Transit Closed Container Truck in Dharamshala Himachal Pradesh" width="580" height="380" loading="lazy">
       </div>
     </section>
 
@@ -610,7 +610,7 @@ $state_name = 'Himachal Pradesh';
       </div>
 
       <div class="dhs-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Dharamshala Himachal Pradesh" width="580" height="380" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service in Dharamshala Himachal Pradesh" width="580" height="380" loading="lazy">
       </div>
     </section>
 

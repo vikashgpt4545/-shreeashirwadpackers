@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-adyar-chennai";
         "name": "Shree Ashirwad Packers and Movers Adyar Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -516,7 +516,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-adyar-chennai";
         <h1>Packers and Movers in Adyar Chennai | Professional Relocation</h1>
         <p>Expert household shifting, coastal humidity packaging, academic faculty relocation, and vehicle transport across Gandhi Nagar, Kasturba Nagar, Indira Nagar, and IIT Madras perimeter.</p>
         <div class="ady-btn-wrap">
-            <a href="tel:+919334404050" class="ady-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="ady-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="ady-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -529,7 +529,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-adyar-chennai";
         <p class="ady-intro-p">Relocating within this refined coastal sector demands a specialized touch that accounts for both architectural sophistication and coastal climatic conditions. At <strong>Shree Ashirwad Packers and Movers</strong>, working in close harmony with our central metropolitan hub at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chennai">Packers and Movers in Chennai</a>, we offer white-glove relocation services tailored to Adyar's distinguished residents, research faculty, and creative artists.</p>
 
         <div class="ady-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Adyar Chennai Household Packing" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Adyar Chennai Household Packing" width="580" height="380" loading="lazy">
             <p class="ady-image-caption">Careful multi-layer household wrapping and fragile carton packaging by Shree Ashirwad in Adyar</p>
         </div>
 
@@ -584,7 +584,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-adyar-chennai";
         </div>
 
         <div class="ady-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Teakwood Furniture Wrapping in Adyar Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Teakwood Furniture Wrapping in Adyar Chennai" width="580" height="380" loading="lazy">
             <p class="ady-image-caption">Dedicated high-density edge protection and multi-layer bubble wrap for luxury furniture in Adyar</p>
         </div>
     </section>
@@ -649,7 +649,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-adyar-chennai";
 
         <div class="ady-highlight-box">
             <h3>Get Your Guaranteed Moving Quote Today</h3>
-            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Adyar moving desk directly at <strong>+91 9334404050</strong> for a complimentary pre-move assessment.</p>
+            <p>Our pricing is tailored to your exact inventory, staircase elevation, and packing requirements. Utilize our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or contact our Adyar moving desk directly at <strong>+91 9835565233</strong> for a complimentary pre-move assessment.</p>
         </div>
     </section>
 
@@ -704,7 +704,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-adyar-chennai";
         </div>
 
         <div class="ady-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Adyar" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Delicate Glassware and Crockery Boxing in Adyar" width="580" height="380" loading="lazy">
             <p class="ady-image-caption">Individual bubble wrapping and compartmentalized cartons for crystal and fine chinaware in Adyar</p>
         </div>
     </section>
@@ -742,7 +742,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-adyar-chennai";
         </div>
 
         <div class="ady-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Adyar Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed Container Truck Moving in Adyar Chennai" width="580" height="380" loading="lazy">
             <p class="ady-image-caption">Modern enclosed container trucks ensuring weatherproof and secure transit across Chennai and interstate</p>
         </div>
     </section>

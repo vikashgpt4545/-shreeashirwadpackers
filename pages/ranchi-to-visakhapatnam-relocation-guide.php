@@ -12,8 +12,8 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ranchi to Visakhapatnam Relocation Guide | Vizag Port Movers | Call 9708579999</title>
-    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Visakhapatnam (Vizag) via NH-20 and NH-16. Naval base protocols, steel plant moves, rates, and packaging by Shree Ashirwad Packers. Call 9708579999.">
+    <title>Ranchi to Visakhapatnam Relocation Guide | Vizag Port Movers | Call 9835565233</title>
+    <meta name="description" content="Comprehensive relocation manual for moving from Ranchi to Visakhapatnam (Vizag) via NH-20 and NH-16. Naval base protocols, steel plant moves, rates, and packaging by Shree Ashirwad Packers. Call 9835565233.">
     <meta name="keywords" content="ranchi to visakhapatnam packers and movers, moving from ranchi to vizag, naval transfer packers ranchi vizag, nh 16 movers ranchi visakhapatnam, steel plant shifting vizag, shree ashirwad packers">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/ranchi-to-visakhapatnam-relocation-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,7 +26,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Coastal Naval Corridor Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/ranchi-to-visakhapatnam-relocation-guide",
-        "telephone": "+919708579999",
+        "telephone": "+91 9835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -227,7 +227,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>Cruising southwest past Cuttack, Bhubaneswar, Khurda, and Berhampur, the highway crosses the picturesque Chilika Lake basin before entering Andhra Pradesh through Srikakulam. The entire 780 km journey is completed in approximately 22 to 28 hours of disciplined highway transit under continuous GPS telematics.</p>
                 </div>
                 <div class="rvrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating between Ranchi and Visakhapatnam" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Sealed interstate container truck operating between Ranchi and Visakhapatnam" loading="lazy">
                 </div>
             </div>
 
@@ -279,7 +279,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Marine Saline Corrosion Defense for Coastal Vizag Air</h2>
             <div class="rvrg-grid-2">
                 <div class="rvrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck navigating coastal highway routes to Visakhapatnam" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck navigating coastal highway routes to Visakhapatnam" loading="lazy">
                 </div>
                 <div>
                     <p>Visakhapatnam's oceanfront geography creates high concentrations of airborne saline aerosols and coastal relative humidity. When domestic goods transfer from the dry Chota Nagpur Plateau to coastal Andhra Pradesh, unprotected metallic surfaces, electronic circuitry, and timber finishes are highly vulnerable to salt corrosion.</p>
@@ -305,7 +305,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <p>Because Visakhapatnam is a coastal port city with elevated salt-spray air, delicate metal electronics, fitness equipment, brass idols, and bicycle chrome require specialized anti-corrosion VCI (Volatile Corrosion Inhibitor) paper wrapping and multi-layer stretch shrink encapsulation to prevent oxidation pitting.</p>
                 </div>
                 <div class="rvrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade multi tier corrugated packaging materials and moisture barrier sheets for Vizag move" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg" alt="High grade multi tier corrugated packaging materials and moisture barrier sheets for Vizag move" loading="lazy">
                 </div>
             </div>
 
@@ -393,7 +393,7 @@ require_once BASE_PATH . '/includes/config.php';
 
             <div class="rvrg-grid-2" style="margin-top:28px;">
                 <div class="rvrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile loading on specialized hydraulic car carrier from Ranchi to Visakhapatnam" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Automobile loading on specialized hydraulic car carrier from Ranchi to Visakhapatnam" loading="lazy">
                 </div>
                 <div>
                     <h3>Car & Two-Wheeler Interstate Carrier Logistics</h3>
@@ -422,7 +422,7 @@ require_once BASE_PATH . '/includes/config.php';
                     </ul>
                 </div>
                 <div class="rvrg-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Residential moving unpacking and furniture setup delivered safely to Visakhapatnam coastal home" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Residential moving unpacking and furniture setup delivered safely to Visakhapatnam coastal home" loading="lazy">
                 </div>
             </div>
         </section>

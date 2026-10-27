@@ -900,7 +900,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2ctk-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Sealed Container Truck for Cuttack to Ranchi Interstate Relocation" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="All-Weather Sealed Container Truck for Cuttack to Ranchi Interstate Relocation" loading="lazy">
         </div>
       </div>
     </div>
@@ -1024,7 +1024,7 @@ require_once __DIR__ . '/includes/header.php';
     <div class="r2ctk-container">
       <div class="r2ctk-grid-2">
         <div class="r2ctk-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-Layer Defensive Household Packing for Cuttack to Ranchi Transit" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Multi-Layer Defensive Household Packing for Cuttack to Ranchi Transit" loading="lazy">
         </div>
         <div class="r2ctk-content-box">
           <div class="r2ctk-sec-badge">Official Claims Ready</div>
@@ -1132,7 +1132,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2ctk-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle Multi-Layer Packing and Safe Two-Wheeler Parcel Cuttack to Ranchi" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle Multi-Layer Packing and Safe Two-Wheeler Parcel Cuttack to Ranchi" loading="lazy">
         </div>
       </div>
     </div>
@@ -1307,7 +1307,7 @@ require_once __DIR__ . '/includes/header.php';
           </ul>
         </div>
         <div class="r2ctk-img-frame">
-          <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking, Furniture Assembly and Room Setup in Ranchi" loading="lazy">
+          <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Doorstep Unpacking, Furniture Assembly and Room Setup in Ranchi" loading="lazy">
         </div>
       </div>
     </div>

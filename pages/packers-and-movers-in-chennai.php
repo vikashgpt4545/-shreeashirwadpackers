@@ -35,7 +35,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chennai";
         "name": "Shree Ashirwad Packers and Movers Chennai",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919334404050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹3,200 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -516,7 +516,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chennai";
         <h1>Packers and Movers in Chennai | Professional Relocation Services</h1>
         <p>Premium household packing, corporate office shifting, car-bike carriers, and climate-safe warehousing across Greater Chennai, OMR IT Expressway, Anna Nagar, Adyar, and South Industrial Belts.</p>
         <div class="chn-btn-wrap">
-            <a href="tel:+919334404050" class="chn-btn-primary">Call Now: +91 9334404050</a>
+            <a href="tel:+919835565233" class="chn-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="chn-btn-secondary">Check Tariff Calculator</a>
         </div>
     </header>
@@ -529,7 +529,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chennai";
         <p class="chn-intro-p">At <strong>Shree Ashirwad Packers and Movers</strong>, we deliver bespoke, engineering-grade relocation solutions tailored specifically to Chennai's diverse landscape. Whether you are transitioning between upscale high-rise apartments in Anna Nagar, moving corporate workstations along the Rajiv Gandhi Salai IT Expressway, relocating an industrial workshop in Ambattur, or executing an interstate transfer from Chennai back to eastern India or northern states, our certified moving crews ensure your belongings travel securely with zero risk of damage or in-transit delay.</p>
 
         <div class="chn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Chennai Household Packing" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Packers and Movers in Chennai Household Packing" width="580" height="380" loading="lazy">
             <p class="chn-image-caption">Systematic multi-layer household wrapping and fragile carton packaging by Shree Ashirwad in Chennai</p>
         </div>
 
@@ -580,7 +580,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chennai";
         </div>
 
         <div class="chn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Furniture Wrapping in Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Protective Furniture Wrapping in Chennai" width="580" height="380" loading="lazy">
             <p class="chn-image-caption">Precision furniture edge guards and multi-layer film packaging for safe transit across Chennai</p>
         </div>
     </section>
@@ -641,7 +641,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chennai";
 
         <div class="chn-highlight-box">
             <h3>Need an Exact Itemized Quote for Your Move?</h3>
-            <p>Pricing varies based on actual inventory volume, floor elevation, availability of service elevators, packing complexity for antiques, and specific toll routes. Access our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or call our Chennai customer desk at <strong>+91 9334404050</strong> for a complimentary pre-move survey.</p>
+            <p>Pricing varies based on actual inventory volume, floor elevation, availability of service elevators, packing complexity for antiques, and specific toll routes. Access our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a> or call our Chennai customer desk at <strong>+91 9835565233</strong> for a complimentary pre-move survey.</p>
         </div>
     </section>
 
@@ -696,7 +696,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chennai";
         </div>
 
         <div class="chn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Packing in Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Packing in Chennai" width="580" height="380" loading="lazy">
             <p class="chn-image-caption">Dedicated honeycomb partitions and individual bubble wrap for delicate chinaware and glassware</p>
         </div>
     </section>
@@ -734,7 +734,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chennai";
         </div>
 
         <div class="chn-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Truck Logistics in Chennai" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Enclosed Container Truck Logistics in Chennai" width="580" height="380" loading="lazy">
             <p class="chn-image-caption">Heavy-duty weather-sealed container linehaul trucks ensuring zero-transshipment transit from Chennai</p>
         </div>
     </section>

@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
         "name": "Shree Ashirwad Packers and Movers - Pune to Indore",
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "url": "<?php echo SITE_BASE_URL; ?>/pune-to-indore-packers-and-movers",
-        "telephone": "+91 9334455806",
+        "telephone": "+91 9835565233",
         "priceRange": "INR 12000 - 42000",
         "address": {
             "@type": "PostalAddress",
@@ -408,7 +408,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="pni-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Pune to Indore interstate safe container truck" width="580" height="386" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Pune to Indore interstate safe container truck" width="580" height="386" loading="lazy">
                 </div>
             </div>
         </div>
@@ -475,7 +475,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="pni-grid-2">
             <div>
                 <div class="pni-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials for Pune to Indore shifting" width="580" height="386" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Packaging materials for Pune to Indore shifting" width="580" height="386" loading="lazy">
                 </div>
             </div>
             <div>
@@ -564,7 +564,7 @@ require_once __DIR__ . '/../includes/config.php';
             </div>
             <div>
                 <div class="pni-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Interstate bike and car transport Pune to Indore" width="580" height="386" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/two-wheeler-motorcycle-carrier-jharkhand.jpg" alt="Interstate bike and car transport Pune to Indore" width="580" height="386" loading="lazy">
                 </div>
             </div>
         </div>
@@ -606,7 +606,7 @@ require_once __DIR__ . '/../includes/config.php';
         <div class="pni-grid-2">
             <div>
                 <div class="pni-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Destination home unpacking and furniture setup in Indore" width="580" height="386" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Destination home unpacking and furniture setup in Indore" width="580" height="386" loading="lazy">
                 </div>
             </div>
             <div>

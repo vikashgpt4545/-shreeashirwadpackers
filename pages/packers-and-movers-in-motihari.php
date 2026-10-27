@@ -615,7 +615,7 @@
             </div>
             <div>
                 <div class="mth-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Motihari Bihar" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Packers and Movers loading household goods in Motihari Bihar" loading="lazy">
                     <p class="mth-image-caption">Systematic loading and protective strapping of household goods for residences in Motihari, Bihar.</p>
                 </div>
                 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.04);">
@@ -689,7 +689,7 @@
         <div class="mth-grid-2">
             <div>
                 <div class="mth-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer packing materials and corrugated cartons in Motihari" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="5-layer packing materials and corrugated cartons in Motihari" loading="lazy">
                     <p class="mth-image-caption">High-density bubble wrapping and double-walled cartons protecting fragile valuables in Motihari.</p>
                 </div>
             </div>
@@ -805,7 +805,7 @@
             </div>
             <div>
                 <div class="mth-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and protective wrapping in Motihari" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Furniture dismantling and protective wrapping in Motihari" loading="lazy">
                     <p class="mth-image-caption">Professional dismantling, hardware labeling, and wrapping of double beds in Motihari.</p>
                 </div>
             </div>
@@ -864,7 +864,7 @@
         <div class="mth-grid-2">
             <div>
                 <div class="mth-image-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck fleet serving Motihari" loading="lazy">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck fleet serving Motihari" loading="lazy">
                     <p class="mth-image-caption">Dedicated all-weather closed container fleet ensuring safe transit along NH-27 East-West corridors.</p>
                 </div>
             </div>

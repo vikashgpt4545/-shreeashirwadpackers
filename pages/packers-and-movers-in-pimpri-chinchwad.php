@@ -544,7 +544,7 @@ require_once BASE_PATH . '/includes/config.php';
         <p>Across eastern and northern PCMC, our services extend through Bhosari, Moshi (including the Pune International Exhibition and Convention Centre vicinity), Dighi, Charholi, and direct industrial logistics lines into the Chakan auto manufacturing belt. We also serve established residential enclaves along the Pavana River corridor, including Pimple Saudagar, Pimple Gurav, Pimple Nilakh, and Sangvi.</p>
 
         <div class="pmch-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Pimpri Chinchwad PCMC" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck managing household shifting across Pimpri Chinchwad PCMC" width="580" height="386" loading="lazy">
         </div>
 
         <p>Our logistics coordinators strategically optimize vehicle departures around peak traffic congestion at Nashik Phata, Bhakti Shakti chowk, and the Dehu Road bypass. By timing moves outside peak commuter hours and coordinating gate passes with society facility managers, we ensure zero roadside delays and swift, seamless transitions.</p>
@@ -600,7 +600,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmch-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Pimpri Chinchwad to Mumbai, Bangalore and pan-India" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for intercity relocation from Pimpri Chinchwad to Mumbai, Bangalore and pan-India" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 3: 5-Step Relocation Architecture -->
@@ -636,7 +636,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmch-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Pimpri Chinchwad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="High density bubble wrap and corrugated carton packaging for household moving in Pimpri Chinchwad" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 4: Transparent Pricing Table -->
@@ -707,7 +707,7 @@ require_once BASE_PATH . '/includes/config.php';
         </div>
 
         <div class="pmch-img-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Pimpri Chinchwad" width="580" height="386" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa furniture protective wrapping and edge padding for home relocation in Pimpri Chinchwad" width="580" height="386" loading="lazy">
         </div>
 
         <!-- Section 5: Why Choose Shree Ashirwad in PCMC -->

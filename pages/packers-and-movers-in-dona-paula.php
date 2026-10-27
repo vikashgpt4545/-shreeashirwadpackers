@@ -24,7 +24,7 @@ require_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Dona Paula",
     "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
-    "telephone": "+919334484001",
+    "telephone": "+91 9835565233",
     "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dona-paula",
     "priceRange": "₹4,500 - ₹65,000",
     "address": {
@@ -365,7 +365,7 @@ require_once __DIR__ . '/../includes/config.php';
     <div class="dnp-container">
       <h1>Packers and Movers in Dona Paula Goa</h1>
       <p>Elite white-glove luxury moving, cliffside penthouse relocation, academic faculty transfers (NIO, Goa University), and fine art crating in Dona Paula and Taleigao.</p>
-      <a href="tel:+919334484001" class="dnp-hero-btn">Call +91 9334484001 for White-Glove Moving</a>
+      <a href="tel:+919835565233" class="dnp-hero-btn">Call +91 9835565233 for White-Glove Moving</a>
     </div>
   </section>
 
@@ -376,7 +376,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Dona Paula represents the pinnacle of luxury coastal living, intellectual prestige, and diplomatic prominence in Goa. Poised dramatically on a rocky headland where the Mandovi and Zuari rivers merge with the boundless waters of the Arabian Sea, this upscale enclave is home to the historic Raj Bhavan (Governor's Palace), the prestigious National Institute of Oceanography (NIO), and the sprawling campus of Goa University atop the adjoining Taleigao Plateau. Lined with multi-storey sea-facing penthouses, grand Portuguese-influenced private mansions, and elite gated residential enclaves, Dona Paula is sought after by corporate dignitaries, scientists, artists, and prominent expatriates. Moving into or out of Dona Paula requires extreme care, discreet white-glove service, and specialized handling of steep hillside grades and coastal weather conditions.</p>
 
       <div class="dnp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading luxury goods Dona Paula" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and movers loading luxury goods Dona Paula" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dnp-grid-2">
@@ -490,7 +490,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>From prestigious cliffside villas to academic researcher transfers, our full range of moving services caters to discerning residents across Dona Paula:</p>
 
       <div class="dnp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for sofa and furniture Dona Paula" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Protective packing for sofa and furniture Dona Paula" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dnp-grid-cards">
@@ -527,7 +527,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Every assignment in Dona Paula is executed with rigorous planning, personalized oversight, and seamless execution:</p>
 
       <div class="dnp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading luxury household goods in truck Dona Paula" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Loading luxury household goods in truck Dona Paula" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dnp-grid-cards">
@@ -560,7 +560,7 @@ require_once __DIR__ . '/../includes/config.php';
       <p>Our specialized teams operate daily across all elite residential quarters and academic zones in Dona Paula and the greater Panaji promontory:</p>
 
       <div class="dnp-image-container">
-        <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing Dona Paula Goa" width="580" height="360" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing Dona Paula Goa" width="580" height="360" loading="lazy">
       </div>
 
       <div class="dnp-grid-cards">

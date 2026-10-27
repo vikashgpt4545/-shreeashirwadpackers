@@ -745,7 +745,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="bok-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Shifting from Bokaro to Adityapur" title="Protective Furniture Wrapping">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden Furniture Wrapping for Shifting from Bokaro to Adityapur" title="Protective Furniture Wrapping">
                 </div>
             </div>
         </div>
@@ -874,7 +874,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <!-- TWO COLUMN STORY: PACKAGING DEFENSE -->
             <div class="bok-adi-two-col">
                 <div class="bok-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing for Adityapur Transit" title="Fragile Glassware Packing">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile Glassware and Crockery Box Packing for Adityapur Transit" title="Fragile Glassware Packing">
                 </div>
                 <div class="bok-adi-two-col-text">
                     <h2>Engineered 5-Layer Defensive Packaging Standards</h2>
@@ -945,14 +945,14 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     </p>
                 </div>
                 <div class="bok-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Shifting Household Goods in Adityapur" title="Doorstep Delivery Truck in Adityapur">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to Door Delivery Truck Shifting Household Goods in Adityapur" title="Doorstep Delivery Truck in Adityapur">
                 </div>
             </div>
 
             <!-- TWO COLUMN STORY: BIKE PARCEL -->
             <div class="bok-adi-two-col" style="margin-top: 45px;">
                 <div class="bok-adi-img-box">
-                    <img src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing for Bokaro to Adityapur Move" title="Bike Packing and Shifting Services">
+                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bike-packing-shree-ashirwad-packers-jharkhand.jpg" alt="Motorcycle and Scooter Safe Packing for Bokaro to Adityapur Move" title="Bike Packing and Shifting Services">
                 </div>
                 <div class="bok-adi-two-col-text">
                     <h2>Safe Motorcycle &amp; Scooter Parcel Services</h2>

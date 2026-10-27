@@ -36,7 +36,7 @@ require_once ROOT_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Meerut",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 93344 04050",
+        "telephone": "+91 9835565233",
         "priceRange": "₹4,500 - ₹55,000",
         "address": {
             "@type": "PostalAddress",
@@ -495,7 +495,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h1 class="mrt-hero-title">Packers and Movers in Meerut</h1>
         <p class="mrt-hero-subtitle">Sports Goods City Relocation, Defense Cantonment Moving, High-Rise Apartment Shifting &amp; Express Delhi-NCR Transit Across Meerut</p>
         <div class="mrt-cta-group">
-            <a href="tel:+919334404050" class="mrt-btn-primary">Call Now: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mrt-btn-primary">Call Now: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mrt-btn-secondary">Check Tariff Calculator</a>
         </div>
     </section>
@@ -508,7 +508,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mrt-intro-p">With the operationalization of the 14-lane Delhi-Meerut Expressway (National Expressway 3) and India’s first semi-high-speed Regional Rapid Transit System (Namo Bharat RRTS corridor), Meerut has seamlessly integrated with the National Capital Region. The demand for professional relocations has surged across diverse sectors—from defense personnel transferring into or out of Meerut Cantonment and corporate executives relocating to upscale communities in Shastri Nagar, to university professors in Ganga Nagar and industrial manufacturers shifting machinery in Modipuram. Shree Ashirwad Packers and Movers delivers a polished, dependable moving service equipped with modern covered container vehicles and certified moving crews.</p>
 
         <div class="mrt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Professional Household Loading in Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Professional Household Loading in Meerut" width="580" height="380" loading="lazy">
             <p class="mrt-image-caption">Our experienced crew executing systematic household and cargo loading with premium protective blankets in Meerut.</p>
         </div>
 
@@ -588,7 +588,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mrt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-Layer Household Packaging in Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Multi-Layer Household Packaging in Meerut" width="580" height="380" loading="lazy">
             <p class="mrt-image-caption">Multi-tier bubble cushioning, corner edge protectors, and heavy-duty 5-ply cartons ensuring 100% damage-free transit in Meerut.</p>
         </div>
     </section>
@@ -688,7 +688,7 @@ require_once ROOT_PATH . '/includes/config.php';
         </div>
 
         <div class="mrt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" alt="Master Carpentry and Bed Dismantling in Meerut" width="580" height="380" loading="lazy">
             <p class="mrt-image-caption">Skilled carpentry team carefully dismantling large wooden bed frames and packing delicate hardware in Meerut.</p>
         </div>
     </section>
@@ -701,7 +701,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <p class="mrt-intro-p">Northbound consignments reach Muzaffarnagar, Roorkee, Haridwar, and Dehradun smoothly via National Highway 58 and the Delhi-Dehradun Expressway corridor. Eastbound shipments bound for central Uttar Pradesh connect via the Hapur bypass toward Moradabad and Bareilly, or link through the Upper Ganga Canal expressway toward <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lucknow">Lucknow</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanpur">Kanpur</a>, and our central hub in <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>.</p>
 
         <div class="mrt-image-container">
-            <img src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Meerut" width="580" height="380" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="All Weather Closed Container Fleet in Meerut" width="580" height="380" loading="lazy">
             <p class="mrt-image-caption">Dedicated sealed container truck fleet ensuring clean, weather-protected door-to-door delivery across Meerut.</p>
         </div>
 
@@ -768,7 +768,7 @@ require_once ROOT_PATH . '/includes/config.php';
         <h3>Plan Your Smooth Relocation in Meerut Today</h3>
         <p>Connect with our Meerut relocation specialists today for a transparent quote, tailored packing schedule, and flawless doorstep shifting experience.</p>
         <div class="mrt-cta-group">
-            <a href="tel:+919334404050" class="mrt-btn-primary">Call: +91 93344 04050</a>
+            <a href="tel:+919835565233" class="mrt-btn-primary">Call: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="mrt-btn-secondary">Get Free Estimate</a>
         </div>
     </section>
