@@ -446,6 +446,42 @@ include_once __DIR__ . '/../includes/config.php';
       .br2r-section-title { font-size: 1.5rem; }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -465,7 +501,12 @@ include_once __DIR__ . '/../includes/config.php';
   </div>
 </header>
 
-<main class="br2r-container">
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
+    
+    <main class="br2r-container">
 
   <section>
     <h2 class="br2r-section-title">Reliable Relocation from Bareilly to Ranchi</h2>

@@ -13,7 +13,7 @@
 
 // Define page-specific metadata
 $page_title = "Kanpur to Ranchi Packers & Movers | Shree Ashirwad Packers";
-$page_description = "Top Kanpur to Ranchi packers and movers by Shree Ashirwad. Fast 24-hr transit via NH-19, IIT & defense bills, 5-layer packing, car carrier. Call 8409531615.";
+$page_description = "Top Kanpur to Ranchi packers and movers by Shree Ashirwad. Fast 24-hr transit via NH-19, IIT & defense bills, 5-layer packing, car carrier. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/kanpur-to-ranchi-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -72,7 +72,7 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional inbound interstate relocation, defense transfer moving, and vehicle transport from Kanpur, Uttar Pradesh to Ranchi, Jharkhand via NH-19.",
-    "telephone": "+91-8409531615",
+    "telephone": "+91-9835565233",
     "alternatePhone": "+91-9835565233",
     "email": "support@shreeashirwadpackers.com",
     "priceRange": "₹15,500 - ₹54,000",
@@ -909,6 +909,42 @@ require_once __DIR__ . '/includes/seo.php';
       }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -954,6 +990,10 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
   <!-- ACTION & BOOKING BAR -->
   <div class="r2knp-container">
     <div class="r2knp-action-bar">
@@ -962,17 +1002,18 @@ require_once __DIR__ . '/includes/header.php';
         <p>Get a prompt, transparent quote with zero hidden charges and free doorstep pre-move survey.</p>
       </div>
       <div class="r2knp-action-buttons">
-        <a href="tel:+918409531615" class="r2knp-btn-call">
-          <span>📞</span> Call 8409531615
+        <a href="tel:+919835565233" class="r2knp-btn-call">
+          <span>📞</span> Call 9835565233
         </a>
-        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Kanpur%20to%20Ranchi%20relocation." target="_blank" rel="noopener noreferrer" class="r2knp-btn-whatsapp">
+        <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Kanpur%20to%20Ranchi%20relocation." target="_blank" rel="noopener noreferrer" class="r2knp-btn-whatsapp">
           <span>💬</span> WhatsApp Estimate
         </a>
       </div>
     </div>
   </div>
 
-  <!-- SECTION 1: ROUTE LOGISTICS & HIGHWAY CORRIDOR -->
+      
+    <!-- SECTION 1: ROUTE LOGISTICS & HIGHWAY CORRIDOR -->
   <section class="r2knp-section">
     <div class="r2knp-container">
       <div class="r2knp-corridor-grid">

@@ -12,7 +12,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Jabalpur Packers & Movers | Shree Ashirwad";
-$page_description = "Top Ranchi to Jabalpur packers and movers by Shree Ashirwad. Express 16-hr transit via NH-43, defense & WCR bills, 5-layer packing. Call 8409531615.";
+$page_description = "Top Ranchi to Jabalpur packers and movers by Shree Ashirwad. Express 16-hr transit via NH-43, defense & WCR bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jabalpur-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -69,7 +69,7 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ranchi",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-8409531615",
+    "telephone": "+91-9835565233",
     "email": "support@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,500 - ₹62,000",
@@ -911,6 +911,42 @@ require_once __DIR__ . '/includes/seo.php';
       }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -939,8 +975,8 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2jab-hero-actions">
-        <a href="tel:+918409531615" class="r2jab-btn-primary">
-          <span>📞 Instant Moving Quote: 8409531615</span>
+        <a href="tel:+919835565233" class="r2jab-btn-primary">
+          <span>📞 Instant Moving Quote: 9835565233</span>
         </a>
         <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" class="r2jab-btn-secondary">
           <span>💬 WhatsApp Digital Survey: 9835565233</span>
@@ -948,6 +984,10 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
     </div>
   </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
 
   <!-- Trust Floating Strip -->
   <aside class="r2jab-trust-strip">
@@ -975,7 +1015,8 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </aside>
 
-  <!-- Section 1: Corridor Logistics & Roadway Analysis -->
+      
+    <!-- Section 1: Corridor Logistics & Roadway Analysis -->
   <section class="r2jab-content-section">
     <div class="r2jab-section-header">
       <span class="r2jab-section-kicker">Corridor Engineering & Navigation</span>

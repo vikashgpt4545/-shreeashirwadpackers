@@ -2,8 +2,8 @@
 require_once __DIR__ . '/includes/config.php';
 
 // Define page-specific variables
-$page_title = "Packers and Movers in Sonahatu - 8409531615";
-$page_description = "Reliable packers and movers in Sonahatu, Ranchi by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, household & bike shifting. Call 8409531615.";
+$page_title = "Packers and Movers in Sonahatu - 9835565233";
+$page_description = "Reliable packers and movers in Sonahatu, Ranchi by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, household & bike shifting. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sonahatu";
 ?>
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-son
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Packers and Movers in Sonahatu - 8409531615</title>
+    <title>Packers and Movers in Sonahatu - 9835565233</title>
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="packers and movers in sonahatu, movers and packers sonahatu ranchi, sonahatu bundu movers, silli sonahatu packers, house shifting sonahatu jharkhand, household relocation sonahatu, car bike parcel sonahatu, iba approved packers in sonahatu, shree ashirwad packers sonahatu">
     <link rel="canonical" href="https://www.shreeashirwadpackers.com/packers-and-movers-in-sonahatu">
@@ -34,7 +34,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-son
       "image": "https://www.shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
       "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-sonahatu",
       "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-sonahatu",
-      "telephone": "+918409531615",
+      "telephone": "+919835565233",
       "priceRange": "₹3,200 - ₹50,000",
         "keywords": "packers and movers in sonahatu, movers and packers sonahatu ranchi, sonahatu bundu movers, silli sonahatu packers, house shifting sonahatu jharkhand, household relocation sonahatu, car bike parcel sonahatu, iba approved packers in sonahatu, shree ashirwad packers sonahatu",
       "address": {
@@ -230,8 +230,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-son
                     </div>
                 </div>
                 <div class="hero-actions" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                    <a href="tel:8409531615" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
-                        <i class="fa-solid fa-phone-volume"></i> Call Now: 8409531615
+                    <a href="tel:9835565233" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+                        <i class="fa-solid fa-phone-volume"></i> Call Now: 9835565233
                     </a>
                     <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
                         <i class="fa-solid fa-calculator"></i> Get Free Moving Estimate
@@ -249,7 +249,49 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-son
                 <div><i class="fas fa-shield-alt" style="color: #10b981; margin-right: 8px;"></i> <strong>100% Transit</strong> Insurance</div>
                 <div><i class="fas fa-box" style="color: #38bdf8; margin-right: 8px;"></i> <strong>5-Layer Multi-Pack</strong> Protection</div>
                 <div><i class="fas fa-truck-moving" style="color: #eab308; margin-right: 8px;"></i> <strong>Enclosed Weatherproof</strong> Fleet</div>
-                <div><i class="fas fa-headset" style="color: #ec4899; margin-right: 8px;"></i> <strong>24x7 Direct Helpline</strong> (8409531615)</div>
+                <div><i class="fas fa-headset" style="color: #ec4899; margin-right: 8px;"></i> <strong>24x7 Direct Helpline</strong> (9835565233)</div>
+            </div>
+        </div>
+    </section>
+
+
+            <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Sonahatu
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Sonahatu</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Sonahatu and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Sonahatu</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Sonahatu Bazar, BDO Colony, Kanchi River Basin, Bundu route, Silli border link, and Purulia highway connections for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Sonahatu</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Sonahatu</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Sonahatu</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Sonahatu</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Sonahatu</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Sonahatu</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
             </div>
         </div>
     </section>
@@ -587,7 +629,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-son
                 </div>
             </div>
             <p style="font-size: 13px; color: #94a3b8; margin-top: 14px; text-align: center;">
-                * Note: Final shifting rates depend on exact location, inventory volume, packing grade, and optional all-risk insurance coverage. Call 8409531615 for a customized quote.
+                * Note: Final shifting rates depend on exact location, inventory volume, packing grade, and optional all-risk insurance coverage. Call 9835565233 for a customized quote.
             </p>
         </div>
     </section>
@@ -744,7 +786,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-son
                 </div>
                 <div>
                     <span style="font-size: 14px; color: #64748b;">Direct Booking & Helpline:</span>
-                    <p style="font-size: 15px; font-weight: 700; color: #059669; margin: 4px 0 0;"><a href="tel:+918409531615" style="color: inherit; text-decoration: none;"><i class="fas fa-phone-alt"></i> +91 8409531615</a></p>
+                    <p style="font-size: 15px; font-weight: 700; color: #059669; margin: 4px 0 0;"><a href="tel:+919835565233" style="color: inherit; text-decoration: none;"><i class="fas fa-phone-alt"></i> +91 9835565233</a></p>
                 </div>
                 <div>
                     <span style="font-size: 14px; color: #64748b;">Working Hours:</span>
@@ -874,8 +916,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-son
                 Get in touch with Shree Ashirwad Packers and Movers today for genuine IBA-approved billing, transparent rates, and 100% damage-free shifting across Jharkhand and nationwide.
             </p>
             <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-                <a href="tel:+918409531615" style="background: #f97316; color: #ffffff; padding: 16px 36px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 18px;">
-                    <i class="fas fa-phone-alt"></i> Call Now: 8409531615
+                <a href="tel:+919835565233" style="background: #f97316; color: #ffffff; padding: 16px 36px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 18px;">
+                    <i class="fas fa-phone-alt"></i> Call Now: 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" style="background: #ffffff; color: #065f46; padding: 16px 36px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 18px;">
                     <i class="fas fa-envelope"></i> Request Moving Quote

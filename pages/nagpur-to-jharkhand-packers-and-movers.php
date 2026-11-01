@@ -422,6 +422,42 @@ require_once __DIR__ . '/../includes/config.php';
       .njh-image-container img { height: 240px; }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <?php require_once __DIR__ . '/../includes/header.php'; ?>
@@ -439,12 +475,17 @@ require_once __DIR__ . '/../includes/config.php';
   </div>
 </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Quick Action Contact Bar -->
 <div class="njh-quick-bar">
-  Direct Highway Logistics Helpline: <strong>+91 9835565233 / +91 8409531615</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Nagpur%20to%20Jharkhand%20relocation">Chat on WhatsApp</a>
+  Direct Highway Logistics Helpline: <strong>+91 9835565233 / +91 9835565233</strong> | Instant Quotes & Container Booking: <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Nagpur%20to%20Jharkhand%20relocation">Chat on WhatsApp</a>
 </div>
 
-<!-- Section 1: Route Overview & Highway Logistics -->
+    
+    <!-- Section 1: Route Overview & Highway Logistics -->
 <section class="njh-section">
   <div class="njh-grid-2">
     <div>

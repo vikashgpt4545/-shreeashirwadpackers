@@ -11,9 +11,9 @@ include_once __DIR__ . '/../includes/config.php';
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Agartala to Ranchi Packers and Movers | Safe Tripura to Jharkhand Shifting</title>
-  <meta name="description" content="Best Agartala to Ranchi packers and movers. Reputable household shifting, ONGC &amp; defense personnel relocations, bike &amp; car transport from Agartala to Ranchi with GPS container trucks.">
-  <meta name="keywords" content="agartala to ranchi packers and movers, packers and movers agartala to ranchi, tripura to ranchi household shifting, vehicle transport agartala to ranchi, tripura to jharkhand movers">
+  <title>Agartala to Ranchi Packers and Movers | Best Shifting Services - Shree Ashirwad</title>
+  <meta name="description" content="Looking for the best packers and movers from Agartala to Ranchi? Shree Ashirwad Packers offers reliable household shifting, ONGC employee relocations, bike &amp; car transport with GPS container trucks. Call +91 9835565233.">
+  <meta name="keywords" content="agartala to ranchi packers and movers, packers and movers agartala to ranchi, best packers and movers for agartala to ranchi, household shifting services, bike transport, car carrier services, iba approved bill, transit insurance, movers and packers near me in ranchi, tripura to ranchi household shifting, tripura to jharkhand movers">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.shreeashirwadpackers.com/agartala-to-ranchi-packers-and-movers">
@@ -527,11 +527,48 @@ include_once __DIR__ . '/../includes/config.php';
     }
   }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
-<main class="agt2r-wrapper">
+    
+    <main class="agt2r-wrapper">
   <!-- Hero Section -->
   <section class="agt2r-hero-section">
     <div class="agt2r-hero-container">
@@ -545,7 +582,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p>Expert interstate relocation services for households, corporate executives, ONGC personnel, and defense officers moving from Agartala, Tripura to Ranchi, Jharkhand. Comprehensive packing, dedicated all-weather container trucks, and door-to-door transit insurance coverage via NH-8, NH-6, and NH-27.</p>
         <div class="agt2r-cta-btns">
           <a href="tel:+919835565233" class="agt2r-btn-primary">Call Now: +91 98355 65233</a>
-          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Agartala%20to%20Ranchi." class="agt2r-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hi%2C%20I%20need%20a%20relocation%20quote%20from%20Agartala%20to%20Ranchi." class="agt2r-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="agt2r-quote-card">
@@ -580,6 +617,52 @@ include_once __DIR__ . '/../includes/config.php';
     </div>
   </section>
 
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Agartala to Ranchi
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Agartala to Ranchi</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Agartala and Ranchi with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Agartala</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Agartala and Ranchi along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Agartala</strong>, intercity relocation to Ranchi, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Agartala to Ranchi</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Agartala to Ranchi</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Agartala to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Agartala to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Agartala to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
   <div class="agt2r-main-container">
 
     <!-- Overview Section -->
@@ -605,7 +688,7 @@ include_once __DIR__ . '/../includes/config.php';
         <li><strong>North Bengal to Jharkhand (NH-12 / NH-19 / NH-33):</strong> Moving south from Siliguri through Dalkhola and Malda onto the Grand Trunk highway at Asansol and Dhanbad, before climbing the Ramgarh ghats directly into Ranchi.</li>
       </ul>
       <p>Throughout the 6 to 9 day transit window, our 24/7 central dispatch monitoring team provides daily status reports, giving you total peace of mind while you travel comfortably by flight or train to your new home in Jharkhand.</p>
-    </article>
+</article>
 
     <!-- Pricing Table -->
     <article class="agt2r-section">

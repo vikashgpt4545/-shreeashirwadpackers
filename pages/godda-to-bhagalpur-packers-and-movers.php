@@ -1,33 +1,383 @@
 <?php
-// Dynamic SEO Configuration for Godda to Bhagalpur Relocation Corridor
-$page_title = "Godda to Bhagalpur Packers and Movers | Same-Day Shifting & Vehicle Transport";
-$page_description = "Affordable packers and movers from Godda to Bhagalpur. Same-day household goods delivery, vehicle transport, 4-layer packaging & transit insurance via NH-133. Call +91 9835565233for free quote.";
-$canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-and-movers";
+/**
+ * Page Name: Godda to Bhagalpur Packers and Movers
+ * Route Slug: godda-to-bhagalpur-packers-and-movers
+ * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Godda to Bhagalpur.
+ * Focus Keywords: godda to bhagalpur packers and movers, packers and movers godda to bhagalpur, house shifting godda to bhagalpur, car carrier godda to bhagalpur, bike transport godda to bhagalpur, household moving godda bhagalpur
+ */
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/includes/config.php';
+}
+
+$page_title = "Godda to Bhagalpur Packers and Movers | Reliable Shifting Services";
+$page_desc = "Safe Godda to Bhagalpur packers and movers. 70 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
+$canonical_url = "https://www.shreeashirwadpackers.com/godda-to-bhagalpur-packers-and-movers";
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $page_title; ?></title>
-    <meta name="description" content="<?php echo $page_description; ?>">
-    <meta name="keywords" content="godda to bhagalpur packers and movers, packers and movers from godda to bhagalpur, godda to bhagalpur home shifting, luggage transport godda to bhagalpur, bike transport godda to bhagalpur">
+    <title><?php echo htmlspecialchars($page_title); ?></title>
+    <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="godda to bhagalpur packers and movers, packers and movers godda to bhagalpur, house shifting godda to bhagalpur, car carrier godda to bhagalpur, bike transport godda to bhagalpur, household moving godda bhagalpur">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <meta name="robots" content="index, follow">
+    <meta name="geo.region" content="IN-JH">
+    <meta name="geo.placename" content="Godda">
+
+    <!-- Open Graph Metadata -->
+    <meta property="og:type" content="business.business">
+    <meta property="og:title" content="<?php echo htmlspecialchars($page_title); ?>">
+    <meta property="og:description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta property="og:url" content="<?php echo $canonical_url; ?>">
+    <meta property="og:image" content="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg">
+    <meta property="og:site_name" content="Shree Ashirwad Packers and Movers">
+    <meta property="og:locale" content="en_IN">
+
+    <!-- Twitter Card Metadata -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo htmlspecialchars($page_title); ?>">
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="twitter:image" content="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg">
+
+    <!-- Favicon & Stylesheets -->
+    <link rel="icon" type="image/png" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
+    <link rel="shortcut icon" href="<?php echo SITE_BASE_URL; ?>/favicon.ico">
+    <link rel="apple-touch-icon" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
+
+    <!-- Scoped CSS for Godda to Bhagalpur -->
+    <style>
+        :root {
+            --c_god_bha-primary: #1e3a8a;
+            --c_god_bha-secondary: #0284c7;
+            --c_god_bha-accent: #0284c7;
+            --c_god_bha-accent-light: #e0f2fe;
+            --c_god_bha-dark: #0f172a;
+            --c_god_bha-gray-bg: #f8fafc;
+            --c_god_bha-border: #e2e8f0;
+            --c_god_bha-shadow: 0 10px 25px -5px rgba(30, 58, 138, 0.08), 0 8px 10px -6px rgba(30, 58, 138, 0.04);
+        }
+
+        .c_god_bha-hero {
+            background: linear-gradient(135deg, rgba(15, 23, 42, 0.94) 0%, rgba(30, 58, 138, 0.90) 100%),
+                        url('<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg') center/cover no-repeat;
+            color: #ffffff;
+            padding: 85px 0 65px;
+            position: relative;
+        }
+
+        .c_god_bha-hero h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.75rem;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 20px;
+        }
+
+        .c_god_bha-hero p.lead {
+            font-size: 1.15rem;
+            line-height: 1.7;
+            color: #e2e8f0;
+            max-width: 820px;
+            margin-bottom: 28px;
+        }
+
+        .c_god_bha-badge-strip {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 30px;
+        }
+
+        .c_god_bha-badge {
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.22);
+            color: #ffffff;
+            padding: 7px 16px;
+            border-radius: 9999px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .c_god_bha-cta-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            align-items: center;
+        }
+
+        .c_god_bha-btn-primary {
+            background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+            color: #ffffff;
+            font-weight: 700;
+            padding: 14px 32px;
+            border-radius: 10px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            box-shadow: 0 4px 14px rgba(2, 132, 199, 0.35);
+            transition: all 0.3s ease;
+        }
+
+        .c_god_bha-btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(2, 132, 199, 0.45);
+            color: #ffffff;
+        }
+
+        .c_god_bha-btn-secondary {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(6px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: #ffffff;
+            font-weight: 600;
+            padding: 14px 28px;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .c_god_bha-btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.25);
+            color: #ffffff;
+        }
+
+        .c_god_bha-section {
+            padding: 70px 0;
+        }
+
+        .c_god_bha-section-gray {
+            background-color: var(--c_god_bha-gray-bg);
+        }
+
+        .c_god_bha-heading-center {
+            text-align: center;
+            max-width: 820px;
+            margin: 0 auto 50px;
+        }
+
+        .c_god_bha-heading-center h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.25rem;
+            font-weight: 800;
+            color: var(--c_god_bha-dark);
+            margin-bottom: 14px;
+        }
+
+        .c_god_bha-heading-center p {
+            font-size: 1.05rem;
+            color: #64748b;
+            line-height: 1.65;
+        }
+
+        .c_god_bha-grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 28px;
+        }
+
+        .c_god_bha-grid-2 {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 36px;
+            align-items: center;
+        }
+
+        .c_god_bha-card {
+            background: #ffffff;
+            border-radius: 14px;
+            border: 1px solid var(--c_god_bha-border);
+            padding: 30px;
+            box-shadow: var(--c_god_bha-shadow);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .c_god_bha-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 15px 30px -5px rgba(30, 58, 138, 0.12);
+        }
+
+        .c_god_bha-card-icon {
+            width: 54px;
+            height: 54px;
+            border-radius: 12px;
+            background: var(--c_god_bha-accent-light);
+            color: var(--c_god_bha-accent);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        .c_god_bha-card h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: var(--c_god_bha-dark);
+            margin-bottom: 12px;
+        }
+
+        .c_god_bha-card p {
+            color: #475569;
+            font-size: 0.96rem;
+            line-height: 1.65;
+        }
+
+        .c_god_bha-table-container {
+            background: #ffffff;
+            border-radius: 14px;
+            border: 1px solid var(--c_god_bha-border);
+            overflow-x: auto;
+            box-shadow: var(--c_god_bha-shadow);
+            margin: 35px 0;
+        }
+
+        .c_god_bha-table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        .c_god_bha-table th {
+            background: #0f172a;
+            color: #ffffff;
+            font-weight: 700;
+            padding: 16px 20px;
+            font-size: 0.98rem;
+        }
+
+        .c_god_bha-table td {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--c_god_bha-border);
+            color: #334155;
+            font-size: 0.95rem;
+        }
+
+        .c_god_bha-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .c_god_bha-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        .c_god_bha-checklist {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0;
+        }
+
+        .c_god_bha-checklist li {
+            position: relative;
+            padding-left: 28px;
+            margin-bottom: 12px;
+            color: #334155;
+            font-size: 0.98rem;
+            line-height: 1.6;
+        }
+
+        .c_god_bha-checklist li::before {
+            content: "\2713";
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #10b981;
+            font-weight: 800;
+            font-size: 1.1rem;
+        }
+
+        .c_god_bha-img-wrap {
+            border-radius: 14px;
+            overflow: hidden;
+            box-shadow: var(--c_god_bha-shadow);
+        }
+
+        .c_god_bha-img-wrap img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.4s ease;
+        }
+
+        .c_god_bha-img-wrap:hover img {
+            transform: scale(1.03);
+        }
+
+        .c_god_bha-faq-item {
+            background: #ffffff;
+            border-radius: 12px;
+            border: 1px solid var(--c_god_bha-border);
+            padding: 24px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        }
+
+        .c_god_bha-faq-item h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--c_god_bha-dark);
+            margin-bottom: 10px;
+        }
+
+        .c_god_bha-faq-item p {
+            color: #475569;
+            font-size: 0.96rem;
+            line-height: 1.65;
+            margin: 0;
+        }
+
+        @media (max-width: 991px) {
+            .c_god_bha-grid-3 {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .c_god_bha-grid-2 {
+                grid-template-columns: 1fr;
+            }
+            .c_god_bha-hero h1 {
+                font-size: 2.2rem;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .c_god_bha-grid-3 {
+                grid-template-columns: 1fr;
+            }
+            .c_god_bha-hero {
+                padding: 60px 0 45px;
+            }
+            .c_god_bha-hero h1 {
+                font-size: 1.85rem;
+            }
+        }
+    </style>
 
     <!-- Schema 1: MovingCompany -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Godda to Bhagalpur Service",
-        "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "name": "Shree Ashirwad Packers and Movers - Godda to Bhagalpur",
+        "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+        "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
-        "priceRange": "₹4,500 - ₹24,000",
+        "telephone": "+919835565233",
+        "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Kargil Chowk, Pirpainti Road",
+            "streetAddress": "Kargil Chowk Main Road",
             "addressLocality": "Godda",
             "addressRegion": "Jharkhand",
             "postalCode": "814133",
@@ -36,54 +386,7 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
         "geo": {
             "@type": "GeoCoordinates",
             "latitude": 24.8267,
-            "longitude": 87.2133
-        },
-        "openingHoursSpecification": {
-            "@type": "OpeningHoursSpecification",
-            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-            "opens": "07:00",
-            "closes": "21:00"
-        }
-    }
-    </script>
-
-    <!-- Schema 2: BreadcrumbList -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
-            },
-            {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Packers and Movers in Godda",
-                "item": "https://shreeashirwadpackers.com/packers-and-movers-in-godda"
-            },
-            {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "Godda to Bhagalpur",
-                "item": "<?php echo $canonical_url; ?>"
-            }
-        ]
-    }
-    </script>
-
-    <!-- Schema 3: Service -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Godda to Bhagalpur Regional Shifting Service",
-        "provider": {
-            "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "longitude": 87.2131
         },
         "areaServed": [
             {
@@ -95,7 +398,92 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
                 "name": "Bhagalpur"
             }
         ],
-        "description": "Same-day express household and commercial goods relocation between Godda (Santhal Pargana) and Bhagalpur (Bihar) via NH-133 with multi-layer bubble wrap, skilled labor, and transit insurance."
+        "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+        }
+    }
+    </script>
+
+    <!-- Schema 2: Service -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Interstate Relocation & Household Shifting",
+        "provider": {
+            "@type": "MovingCompany",
+            "name": "Shree Ashirwad Packers and Movers"
+        },
+        "areaServed": {
+            "@type": "City",
+            "name": "Bhagalpur, Bihar"
+        },
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Godda to Bhagalpur Moving Packages",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Godda to Bhagalpur Household Shifting"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Godda to Bhagalpur Car Carrier & Bike Transport"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Corporate & Industrial Relocation Billing"
+                    }
+                }
+            ]
+        }
+    }
+    </script>
+
+    <!-- Schema 3: BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "<?php echo SITE_BASE_URL; ?>/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Interstate Relocation",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Godda to Bhagalpur Shifting",
+                "item": "<?php echo $canonical_url; ?>"
+            }
+        ]
     }
     </script>
 
@@ -107,468 +495,627 @@ $canonical_url = "https://shreeashirwadpackers.com/godda-to-bhagalpur-packers-an
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "How much time does shifting take from Godda to Bhagalpur?",
+                "name": "What is the road distance and transit duration from Godda to Bhagalpur?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The highway distance between Godda and Bhagalpur is only about 75 km via NH-133 (via Hansdiha and Punsia). We offer guaranteed same-day delivery: loading in the morning and complete setup in Bhagalpur by afternoon."
+                    "text": "The highway distance between Godda and Bhagalpur is approximately 70 km via National Highway Corridor. Dedicated closed container trucks typically complete this transit in 3 - 5 hours."
                 }
             },
             {
                 "@type": "Question",
-                "name": "What are the moving charges from Godda to Bhagalpur?",
+                "name": "What are the shifting charges from Godda to Bhagalpur?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Local corridor rates start at ₹4,500 to ₹7,500 for a 1 BHK; ₹8,000 to ₹14,000 for a 2 BHK flat; and ₹14,000 to ₹24,000 for a complete 3 BHK home, including packing materials, vehicle transport, and unloading."
+                    "text": "Estimated costs range from Rs 10,300 - 14,935 for 1 BHK apartments, Rs 15,000 - 21,750 for 2 BHK homes, and Rs 21,500 - 31,175 for 3 BHK residences, covering 5-layer packing, container freight, tolls, and doorstep unloading."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Do you provide moving services for Adani Power plant employees in Godda?",
+                "name": "Do you provide claimable GST invoices for corporate and government transfers?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, we regularly handle corporate and residential relocations for executives and engineers working at the Adani Power Plant in Motia, Godda, providing GST billing and corporate transfer claim documents."
+                    "text": "Yes, Shree Ashirwad Packers and Movers provides 100% authentic GST invoices, detailed itemized inventories, consignment notes (bilty), and IBA-compliant receipts recognized across corporate, public sector, and defense organizations."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Can you transport two-wheelers and scooters from Godda to Bhagalpur?",
+                "name": "How are cars and motorcycles transported from Godda to Bhagalpur?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, we transport motorcycles and scooters safely wrapped with bubble wrap and secured with ratchet belts. Delivery to Bhagalpur is completed within 6 to 12 hours."
+                    "text": "Vehicles are safely transported in enclosed hydraulic car carrier trailers and custom wooden motorcycle crates with wheel chocks, security harness straps, and comprehensive transit insurance."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which areas in Godda and Bhagalpur do you cover?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In Godda, we cover Kargil Chowk, Gandhi Nagar, Court Road, Main Market and Rautara, Asanbani, Sikatiya, Mohanpur. In Bhagalpur, we deliver across Station Road, Sujaganj, Khalifabag Chowk, Tilkamanjhi and Adampur, Mayaganj, Khanjarpur, Barari."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is transit insurance available for Godda to Bhagalpur moves?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we provide comprehensive transit risk insurance covering unexpected highway accidents, external impacts, and adverse weather conditions with hassle-free claim settlement."
                 }
             }
         ]
     }
     </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"], .c_god_bha-img-wrap {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
 
-    <style>
-        .gbh-page-wrap {
-            color: #2c3e50;
-            line-height: 1.7;
-            font-family: inherit;
-        }
-        .gbh-hero-banner {
-            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-            color: #ffffff;
-            padding: 60px 20px;
-            text-align: center;
-        }
-        .gbh-hero-title {
-            font-size: 2.3rem;
-            font-weight: 800;
-            margin-bottom: 16px;
-            line-height: 1.25;
-            color: #ffffff;
-        }
-        .gbh-hero-subtitle {
-            font-size: 1.15rem;
-            max-width: 850px;
-            margin: 0 auto 24px;
-            color: #e0e7ff;
-        }
-        .gbh-cta-btn {
-            display: inline-block;
-            background: #e67e22;
-            color: #ffffff;
-            padding: 13px 30px;
-            font-size: 1.05rem;
-            font-weight: 700;
-            border-radius: 6px;
-            text-decoration: none;
-            transition: background 0.3s ease;
-        }
-        .gbh-cta-btn:hover {
-            background: #d35400;
-        }
-        .gbh-container {
-            max-width: 1140px;
-            margin: 0 auto;
-            padding: 40px 20px;
-        }
-        .gbh-grid-2 {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 36px;
-            align-items: center;
-            margin-bottom: 40px;
-        }
-        @media (max-width: 768px) {
-            .gbh-grid-2 {
-                grid-template-columns: 1fr;
-            }
-            .gbh-hero-title {
-                font-size: 1.8rem;
-            }
-        }
-        .gbh-image-box {
-            max-width: 580px;
-            margin: 24px auto;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-        }
-        .gbh-image-box img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-        .gbh-caption {
-            font-size: 0.88rem;
-            color: #64748b;
-            text-align: center;
-            padding: 8px 12px;
-            background: #f8fafc;
-        }
-        .gbh-section-title {
-            font-size: 1.85rem;
-            font-weight: 700;
-            color: #1e3c72;
-            margin-bottom: 20px;
-            position: relative;
-            padding-bottom: 10px;
-        }
-        .gbh-section-title::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 60px;
-            height: 4px;
-            background: #e67e22;
-            border-radius: 2px;
-        }
-        .gbh-table-wrap {
-            overflow-x: auto;
-            margin: 28px 0;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.06);
-            border-radius: 8px;
-        }
-        .gbh-table {
-            width: 100%;
-            border-collapse: collapse;
-            background: #ffffff;
-            text-align: left;
-        }
-        .gbh-table th {
-            background: #1e3c72;
-            color: #ffffff;
-            padding: 14px 16px;
-            font-size: 0.95rem;
-        }
-        .gbh-table td {
-            padding: 12px 16px;
-            border-bottom: 1px solid #e2e8f0;
-            font-size: 0.92rem;
-        }
-        .gbh-table tr:nth-child(even) {
-            background: #f8fafc;
-        }
-        .gbh-card-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 22px;
-            margin: 30px 0;
-        }
-        .gbh-card {
-            background: #ffffff;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            padding: 24px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-            border-top: 4px solid #1e3c72;
-        }
-        .gbh-card h3 {
-            font-size: 1.18rem;
-            color: #1e3c72;
-            margin-bottom: 12px;
-            font-weight: 700;
-        }
-        .gbh-card p {
-            font-size: 0.92rem;
-            color: #4a5568;
-            margin: 0;
-        }
-        .gbh-highlight-box {
-            background: #eef2ff;
-            border-left: 5px solid #4338ca;
-            padding: 22px;
-            border-radius: 0 8px 8px 0;
-            margin: 28px 0;
-        }
-        .gbh-highlight-box h4 {
-            margin-top: 0;
-            color: #312e81;
-            font-size: 1.15rem;
-            margin-bottom: 10px;
-        }
-        .gbh-faq-wrap {
-            margin-top: 40px;
-        }
-        .gbh-faq-item {
-            background: #ffffff;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            margin-bottom: 16px;
-            padding: 20px;
-        }
-        .gbh-faq-item h4 {
-            font-size: 1.1rem;
-            color: #1e3c72;
-            margin-top: 0;
-            margin-bottom: 8px;
-        }
-        .gbh-faq-item p {
-            margin: 0;
-            color: #4a5568;
-            font-size: 0.94rem;
-        }
-        .gbh-cluster-links {
-            background: #f8fafc;
-            border: 1px solid #cbd5e1;
-            border-radius: 8px;
-            padding: 24px;
-            margin-top: 40px;
-        }
-        .gbh-cluster-links h4 {
-            font-size: 1.2rem;
-            color: #1e3c72;
-            margin-top: 0;
-            margin-bottom: 16px;
-        }
-        .gbh-cluster-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 12px;
-        }
-        .gbh-cluster-grid a {
-            color: #1e3c72;
-            text-decoration: none;
-            font-size: 0.92rem;
-            font-weight: 600;
-            padding: 6px 0;
-            display: block;
-        }
-        .gbh-cluster-grid a:hover {
-            color: #e67e22;
-            text-decoration: underline;
-        }
-    </style>
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img, .c_god_bha-img-wrap img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"], .c_god_bha-img-wrap {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img, .c_god_bha-img-wrap img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include __DIR__ . '/includes/header.php'; ?>
 
-<div class="gbh-page-wrap">
+<!-- Hero Section -->
+<section class="c_god_bha-hero">
+    <div class="container">
+        <div class="c_god_bha-badge-strip">
+            <span class="c_god_bha-badge">&#9733; 70 KM Express Interstate Corridor</span>
+            <span class="c_god_bha-badge">&#128666; Sealed All-Weather Closed Containers</span>
+            <span class="c_god_bha-badge">&#128196; Corporate &amp; PSU Claim Invoices</span>
+            <span class="c_god_bha-badge">&#128338; Fast 3 - 5 Hour Transit Delivery</span>
+        </div>
+        <h1>Packers and Movers from Godda to Bhagalpur</h1>
+        <p class="lead">
+            Dependable, insured, and professional household shifting, vehicle transport, and corporate relocation services connecting Godda to Bhagalpur. Experience 5-layer protective packaging, dedicated closed container trucks, and seamless doorstep delivery.
+        </p>
+        <div class="c_god_bha-cta-group">
+            <a href="tel:+919835565233" class="c_god_bha-btn-primary">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                Call Hotline: 084095 31615
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="c_god_bha-btn-secondary">
+                Request Express Moving Quote &rarr;
+            </a>
+        </div>
+    </div>
+</section>
 
-    <!-- Hero Section -->
-    <section class="gbh-hero-banner">
-        <h1 class="gbh-hero-title">Godda to Bhagalpur Packers and Movers</h1>
-        <p class="gbh-hero-subtitle">Same-Day Express Relocation Connecting Santhal Pargana with Silk City Bhagalpur. Reliable Household Shifting, Power Plant Transfers & Doorstep Unpacking.</p>
-        <a href="tel:+919835565233" class="gbh-cta-btn">Book Same-Day Shifting: +91 9835565233</a>
-    </section>
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+            <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                Packers and Movers from Godda to Bhagalpur
+            </h3>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Looking for the <strong>best packers and movers from Godda to Bhagalpur</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Godda and Bhagalpur with timely delivery support.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                As one of the <strong>top-rated packers and movers near Godda</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                We cover major localities in Godda and Bhagalpur along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Whether you need <strong>local shifting in Godda</strong>, intercity relocation to Bhagalpur, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Customers choose our <strong>movers and packers service from Godda to Bhagalpur</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Godda to Bhagalpur</strong> delivers affordable, safe, and stress-free relocation services.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                If you are searching for reliable <strong>movers and packers near me from Godda to Bhagalpur</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                Our <strong>professional packers and movers service from Godda to Bhagalpur</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Godda to Bhagalpur</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+            </p>
+        </div>
+    </div>
+</section>
 
-    <!-- Main Container -->
-    <div class="gbh-container">
-
-        <!-- Section 1: Introduction & Local Significance -->
-        <div class="gbh-grid-2">
+<!-- Route Overview Section -->
+<section class="c_god_bha-section">
+    <div class="container">
+        <div class="c_god_bha-grid-2">
             <div>
-                <h2 class="gbh-section-title">The Essential Santhal Pargana to Bhagalpur Lifeline</h2>
-                <p>The 75-kilometer interstate corridor between Godda (Jharkhand) and Bhagalpur (Bihar) is one of eastern India’s most active commercial and residential routes. Bhagalpur serves as the primary medical, higher educational, and railway junction hub for residents across Godda, Mahagama, and the broader Santhal Pargana region.</p>
-                <p>With major industrial installations like the <strong>Adani Ultra-Supercritical Thermal Power Plant</strong> in Motia, Godda and active coal operations under Eastern Coalfields Limited (ECL), hundreds of corporate professionals, government employees, doctors, and families frequently relocate between Godda and Bhagalpur.</p>
-                <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we offer dedicated, same-day relocation services on this route. We load your home in Godda in the morning and ensure your furniture is safely positioned, unpacked, and assembled in Bhagalpur by the afternoon, eliminating the stress and expense of overnight hotel stays.</p>
+                <span style="color: var(--c_god_bha-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Connecting Godda with Bhagalpur</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_god_bha-dark); margin: 10px 0 20px;">
+                    Express 70 KM Interstate Moving from Godda to Bhagalpur
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    Relocating between Godda and Bhagalpur connects Jharkhand&rsquo;s commercial centers with Bihar&rsquo;s premier industrial and administrative hubs. Direct highway transit along National Highway Corridor connecting Godda across Jharkhand with Bhagalpur in Bihar, traversing monitored toll checkpoints.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    At <strong>Shree Ashirwad Packers and Movers</strong>, we execute this high-demand transit route with exceptional reliability. Our dedicated closed container vehicles operate on scheduled departures from Godda, navigating directly along national highway corridors to deliver your household possessions safely in Bhagalpur within 3 - 5 hours.
+                </p>
+                <ul class="c_god_bha-checklist">
+                    <li>Doorstep pickup across all Godda neighborhoods with specialized packing crews</li>
+                    <li>Advanced 5-layer protective packaging safeguarding furniture, glassware, and electronics</li>
+                    <li>Direct container transit via National Highway Corridor with guaranteed delivery schedules</li>
+                    <li>Complete room setup, furniture reassembly, and packaging debris collection in Bhagalpur</li>
+                </ul>
             </div>
-            <div>
-                <div class="gbh-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing for Godda to Bhagalpur shifting" width="580" height="387">
-                    <div class="gbh-caption">Multi-layer protective packing for domestic furniture and appliances</div>
-                </div>
+            <div class="c_god_bha-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Godda to Bhagalpur Container Truck Relocation">
             </div>
         </div>
+    </div>
+</section>
 
-        <!-- Section 2: Core Highlights -->
-        <h2 class="gbh-section-title">Why Relocating Families Prefer Our Service</h2>
-        <p>Our dedicated operations on the NH-133 corridor guarantee maximum speed, safety, and transparency:</p>
-
-        <div class="gbh-card-grid">
-            <div class="gbh-card">
-                <h3>Guaranteed Same-Day Delivery</h3>
-                <p>With an average driving transit time of just 2.5 to 3 hours, your entire home is packed, transported, and set up in Bhagalpur on the very same day.</p>
-            </div>
-            <div class="gbh-card">
-                <h3>Adani & ECL Transfer Billing</h3>
-                <p>Official 100% compliant IBA-format packing lists, consignment notes, and GST invoices accepted by corporate accounts and HR departments.</p>
-            </div>
-            <div class="gbh-card">
-                <h3>Multi-Layer Bubble & Foam Wrap</h3>
-                <p>We protect delicate glassware, LED televisions, and modular wooden furniture with high-density EPE foam, bubble wrap, and stretch film.</p>
-            </div>
-            <div class="gbh-card">
-                <h3>Closed Waterproof Trucks</h3>
-                <p>All items travel inside closed-body mini trucks and containers, fully sheltered from seasonal dust and unpredictable rain.</p>
-            </div>
+<!-- Core Shifting Services Grid -->
+<section class="c_god_bha-section c_god_bha-section-gray">
+    <div class="container">
+        <div class="c_god_bha-heading-center">
+            <h2>Comprehensive Shifting Services: Godda to Bhagalpur</h2>
+            <p>
+                Engineered for corporate executives, public sector employees, industrial managers, and residential families.
+            </p>
         </div>
 
-        <!-- Section 3: Tariff Schedule -->
-        <h2 class="gbh-section-title">Godda to Bhagalpur Shifting Tariff Schedule</h2>
-        <p>Transparent rates customized for local interstate short-distance transit:</p>
+        <div class="c_god_bha-grid-3">
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#127968;</div>
+                <h3>Complete Home Relocation</h3>
+                <p>
+                    Full packing of furniture, appliances, crockery, wardrobes, and electronics using heavy-gauge cartons and multi-ply bubble wrap. Safely delivered to your new residence in Bhagalpur.
+                </p>
+            </div>
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#128663;</div>
+                <h3>Enclosed Car Transport</h3>
+                <p>
+                    Enclosed car trailers designed to transfer hatchbacks, sedans, and SUVs from Godda to Bhagalpur safely without adding highway miles or risking gravel chips.
+                </p>
+            </div>
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#127949;</div>
+                <h3>Two-Wheeler Bike Shipping</h3>
+                <p>
+                    Specialized motorcycle transit utilizing multi-layer bubble wrap, handle padding, wheel chocks, and nylon harness belts to guarantee scratch-free delivery.
+                </p>
+            </div>
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#128188;</div>
+                <h3>Corporate &amp; PSU Billing</h3>
+                <p>
+                    100% authentic GST invoices, detailed item inventories, consignment notes (bilty), and IBA-approved documentation compliant with corporate and government reimbursement policies.
+                </p>
+            </div>
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#128230;</div>
+                <h3>Part Load &amp; Single Room Moves</h3>
+                <p>
+                    Affordable sharing and single-room relocation options for students and working professionals relocating with minimal luggage along this corridor.
+                </p>
+            </div>
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#128737;</div>
+                <h3>Transit Risk Insurance</h3>
+                <p>
+                    Comprehensive optional transit insurance policy covering accidental damages, road perils, and external impacts with transparent claim settlement support.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        <div class="gbh-table-wrap">
-            <table class="gbh-table">
+<!-- Visual Feature Strip: Packaging Standards -->
+<section class="c_god_bha-section">
+    <div class="container">
+        <div class="c_god_bha-grid-2">
+            <div class="c_god_bha-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Packing Godda to Bhagalpur">
+            </div>
+            <div>
+                <span style="color: var(--c_god_bha-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Engineered Defensive Packaging</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_god_bha-dark); margin: 10px 0 20px;">
+                    Five-Layer Protective Packaging for National Highway Corridor Highway Transit
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    The 70 km highway route across National Highway Corridor features varied highway speeds and road conditions. Flawless packaging is essential to absorb mechanical vibration and protect delicate finishes against abrasions.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    Our certified packing team enforces rigorous material standards:
+                </p>
+                <ul class="c_god_bha-checklist">
+                    <li><strong>Cling Film Barrier:</strong> Non-static stretch wrap shielding wood finishes, leather upholstery, and fabrics against dirt and humidity.</li>
+                    <li><strong>Bubble Cushioning:</strong> Multi-ply air bubble sheets wrapped tightly around LED screens, audio equipment, and kitchen electronics.</li>
+                    <li><strong>Edge Reinforcement:</strong> Heavy corrugated corner pads preventing abrasions and chipping on polished dining tables and wardrobe doors.</li>
+                    <li><strong>7-Ply Master Cartons:</strong> Heavy-duty corrugated boxes designed to bear stack weight during transport without buckling.</li>
+                    <li><strong>Color-Coded Labeling:</strong> Clear identification tags on every box specifying room allocation and handling cautions.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Shifting Rates Table -->
+<section class="c_god_bha-section c_god_bha-section-gray">
+    <div class="container">
+        <div class="c_god_bha-heading-center">
+            <h2>Godda to Bhagalpur Moving Rates &amp; Price Estimates</h2>
+            <p>
+                Upfront, transparent quotes without hidden fuel surcharges or last-minute loading fees.
+            </p>
+        </div>
+
+        <div class="c_god_bha-table-container">
+            <table class="c_god_bha-table">
                 <thead>
                     <tr>
-                        <th>Apartment Configuration</th>
-                        <th>Packing Standards & Materials</th>
-                        <th>Labor & Loading Handlers</th>
-                        <th>Estimated Tariff Range</th>
-                        <th>Expected Delivery Window</th>
+                        <th>Move Type / Household Size</th>
+                        <th>Packing Material &amp; Labor</th>
+                        <th>Transport / Container Cost</th>
+                        <th>Estimated Total (&#8377;)</th>
+                        <th>Transit Time</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td><strong>1 BHK Apartment</strong></td>
-                        <td>Standard Bubble + Corrugated Boxes</td>
-                        <td>2 Packers + 2 Handlers</td>
-                        <td>₹4,500 - ₹7,500</td>
-                        <td>Same Day (4 - 6 Hours)</td>
+                        <td><strong>1 RK / Studio Setup</strong></td>
+                        <td>&#8377; 2,500 - 3,750</td>
+                        <td>&#8377; 4,500 - 6,525</td>
+                        <td><strong>&#8377; 7,000 - 10,150</strong></td>
+                        <td>3 - 5 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>2 BHK Apartment</strong></td>
-                        <td>5-Ply Heavy Cartons + Foam Sheets</td>
-                        <td>3 Packers + 3 Handlers</td>
-                        <td>₹8,000 - ₹14,000</td>
-                        <td>Same Day (6 - 8 Hours)</td>
+                        <td><strong>1 BHK Complete Home</strong></td>
+                        <td>&#8377; 3,800 - 5,890</td>
+                        <td>&#8377; 6,500 - 9,425</td>
+                        <td><strong>&#8377; 10,300 - 14,935</strong></td>
+                        <td>3 - 5 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>3 BHK / Independent House</strong></td>
-                        <td>Multi-Layer Corrugated + Wooden Crates</td>
-                        <td>4 Packers + 4 Handlers</td>
-                        <td>₹14,000 - ₹24,000</td>
-                        <td>Same Day Doorstep Setup</td>
+                        <td><strong>2 BHK Residential Flat</strong></td>
+                        <td>&#8377; 5,500 - 8,800</td>
+                        <td>&#8377; 9,500 - 13,775</td>
+                        <td><strong>&#8377; 15,000 - 21,750</strong></td>
+                        <td>3 - 5 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>Bike / Two-Wheeler Moving</strong></td>
-                        <td>Foam Padding + Mirror Protection</td>
-                        <td>Trained Handlers</td>
-                        <td>₹1,500 - ₹2,500</td>
-                        <td>Within 6 Hours</td>
+                        <td><strong>3 BHK Independent Home</strong></td>
+                        <td>&#8377; 8,000 - 12,800</td>
+                        <td>&#8377; 13,500 - 19,575</td>
+                        <td><strong>&#8377; 21,500 - 31,175</strong></td>
+                        <td>3 - 5 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>Small Luggage / Student Parcels</strong></td>
-                        <td>Heavy Tape + Plastic Sealing</td>
-                        <td>Shared Tata Ace</td>
-                        <td>₹999 - ₹1,800</td>
-                        <td>Same Day Evening</td>
+                        <td><strong>Two-Wheeler (Bike / Scooter)</strong></td>
+                        <td>&#8377; 900 - 1,500</td>
+                        <td>&#8377; 2,500 - 4,000</td>
+                        <td><strong>&#8377; 3,400 - 5,500</strong></td>
+                        <td>2 - 4 Days</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Car Transport (Sedan / SUV)</strong></td>
+                        <td>&#8377; 1,500 - 2,800</td>
+                        <td>&#8377; 7,500 - 12,000</td>
+                        <td><strong>&#8377; 9,000 - 14,800</strong></td>
+                        <td>2 - 4 Days</td>
                     </tr>
                 </tbody>
             </table>
         </div>
+        <p style="text-align: center; color: #64748b; font-size: 0.92rem; margin-top: -10px;">
+            * Estimates reflect standard moving scopes. Final quotes depend on exact item count, floor levels, elevator access, and optional insurance choice.
+        </p>
+    </div>
+</section>
 
-        <div class="gbh-highlight-box">
-            <h4>Planning a Larger Regional Move?</h4>
-            <p>Calculate exact freight tariffs across all distances with our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a> or consult the <a href="<?php echo SITE_BASE_URL; ?>/tempo-service-in-ranchi">Tempo Service Ranchi</a> page for mini-truck bookings.</p>
+<!-- Visual Feature Strip: Vehicle Carrier -->
+<section class="c_god_bha-section">
+    <div class="container">
+        <div class="c_god_bha-grid-2">
+            <div>
+                <span style="color: var(--c_god_bha-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Secure Automobile Transit</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_god_bha-dark); margin: 10px 0 20px;">
+                    Enclosed Car Carrier &amp; Safe Bike Transportation
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    Avoid heavy highway traffic, toll queues, and unnecessary vehicle depreciation across the 70 km journey by utilizing our closed car and bike transit solutions between Godda and Bhagalpur.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    Each vehicle undergoes an inspection audit prior to dispatch from Godda, documenting body panels, existing paint status, and fuel levels:
+                </p>
+                <ul class="c_god_bha-checklist">
+                    <li>Specialized wheel stops and hydraulic deck locks to prevent vehicle movement inside carriers</li>
+                    <li>Individual foam cushioning on motorcycle handles, headlamps, mirrors, and exhaust pipes</li>
+                    <li>Comprehensive vehicle transit insurance for total financial peace of mind</li>
+                    <li>Prompt collection in Godda and direct delivery to your doorstep in Bhagalpur</li>
+                </ul>
+            </div>
+            <div class="c_god_bha-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Godda to Bhagalpur Vehicle Transport Carrier">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Highway Logistics Section -->
+<section class="c_god_bha-section c_god_bha-section-gray">
+    <div class="container">
+        <div class="c_god_bha-heading-center">
+            <h2>Godda to Bhagalpur Highway Logistics &amp; Travel Corridor</h2>
+            <p>
+                Proven highway routing along National Highway Corridor guarantees punctual, monitored transit across states.
+            </p>
         </div>
 
-        <!-- Section 4: Highway Route and Operational Logistics -->
-        <div class="gbh-grid-2">
-            <div>
-                <div class="gbh-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile glassware and crockery packing for Godda to Bhagalpur move" width="580" height="387">
-                    <div class="gbh-caption">Secure bubble wrap and compartmentalized boxing for kitchen crockery</div>
-                </div>
+        <div class="c_god_bha-grid-3">
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#128506;</div>
+                <h3>Primary Route via National Highway Corridor</h3>
+                <p>
+                    Direct highway transit along National Highway Corridor connecting Godda across Jharkhand with Bhagalpur in Bihar, traversing monitored toll checkpoints. Total highway distance is approximately 70 km traversed in 3 - 5 hours with scheduled transit stops.
+                </p>
+            </div>
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#128678;</div>
+                <h3>Dual-Driver Crews &amp; Transit Schedules</h3>
+                <p>
+                    For long highway corridors, our operations team deploys experienced two-driver crews operating in rotating shifts to maintain continuous transit without driver fatigue.
+                </p>
+            </div>
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#128667;</div>
+                <h3>GPS-Monitored Closed Containers</h3>
+                <p>
+                    All containerized trucks feature real-time satellite GPS tracking. Our customer support desk provides updates at major highway toll checkpoints along the route.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Visual Feature Strip: Destination Setup -->
+<section class="c_god_bha-section">
+    <div class="container">
+        <div class="c_god_bha-grid-2">
+            <div class="c_god_bha-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Godda to Bhagalpur">
             </div>
             <div>
-                <h2 class="gbh-section-title">Highway Route Architecture via NH-133</h2>
-                <p>The journey from Godda to Bhagalpur traverses scenic agricultural terrain along NH-133:</p>
-                <ul>
-                    <li><strong>Origin Route:</strong> Departs Godda via Kargil Chowk &rarr; Pirpainti Road or Hansdiha junction.</li>
-                    <li><strong>Transit Points:</strong> Enters Banka district via Punsia, Rajaun, and Amarpur.</li>
-                    <li><strong>Bhagalpur Entry:</strong> Connects to Mirjanhat, Aliganj, and Tilkamanjhi directly into central Bhagalpur.</li>
-                    <li><strong>Rapid Clearance:</strong> Pre-cleared toll and commercial transport documentation ensures zero roadside delays.</li>
+                <span style="color: var(--c_god_bha-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Turnkey Destination Service</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_god_bha-dark); margin: 10px 0 20px;">
+                    Careful Unloading, Furniture Assembly &amp; Debris Disposal
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    A truly satisfying relocation experience means waking up in a clean, fully functional home in Bhagalpur. Our skilled destination crew unloads every piece of furniture, reassembles dismounted frames, and handles all heavy lifting.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    We carefully place each box into its designated room based on your guidance:
+                </p>
+                <ul class="c_god_bha-checklist">
+                    <li>Assembly of wooden beds, wardrobes, study tables, and dining furniture</li>
+                    <li>Placement of refrigerators, washing machines, and heavy home appliances</li>
+                    <li>Inspection of all glassware and fragile items in your presence</li>
+                    <li>Collection and disposal of used packing cardboard, plastics, and tapes</li>
                 </ul>
             </div>
         </div>
-
-        <!-- Section 5: Student and Healthcare Assistance -->
-        <div class="dpt-grid-2 gbh-grid-2">
-            <div>
-                <h2 class="gbh-section-title">Support for Students, Doctors & Hospital Relocations</h2>
-                <p>Bhagalpur is eastern Bihar’s medical and coaching center, with institutions like Jawaharlal Nehru Medical College & Hospital (JLNMCH) and Tilka Manjhi Bhagalpur University (TMBU). Many students and doctors move between Godda and Bhagalpur.</p>
-                <p>We provide specialized student mini-move packages with 15% student discounts upon presenting valid ID cards. For doctors moving their clinics or residential quarters, we provide flexible night and holiday moving slots.</p>
-                <div class="gbh-highlight-box">
-                    <h4>Student Shifting Guidelines</h4>
-                    <p>Read about our student discount programs on the <a href="<?php echo SITE_BASE_URL; ?>/student-relocation-services-ranchi">Student Relocation Services</a> guide.</p>
-                </div>
-            </div>
-            <div>
-                <div class="gbh-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Godda to Bhagalpur transport" width="580" height="387">
-                    <div class="gbh-caption">Clean, covered container trucks protecting personal items from road dirt</div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Section 6: Local Delivery and Coverage -->
-        <div class="dpt-grid-2 gbh-grid-2">
-            <div>
-                <div class="gbh-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck in Bhagalpur" width="580" height="387">
-                    <div class="gbh-caption">Prompt doorstep unloading and room setup across all Bhagalpur localities</div>
-                </div>
-            </div>
-            <div>
-                <h2 class="gbh-section-title">Complete Coverage in Godda & Bhagalpur</h2>
-                <p>We serve all major localities across both endpoints:</p>
-                <p><strong>Godda Pickup Points:</strong> Kargil Chowk, Pirpainti Road, Asanbani, Bhatdiha, Motia (Adani Power Plant township), and Mahagama.</p>
-                <p><strong>Bhagalpur Delivery Zones:</strong> Tilkamanjhi, Adampur, Zero Mile, Barari, Mirjanhat, Aliganj, Nathnagar, Khanjarpur, and University Road.</p>
-                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-godda">Packers and Movers in Godda</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
-            </div>
-        </div>
-
-        <!-- Section 7: FAQs -->
-        <div class="gbh-faq-wrap">
-            <h2 class="gbh-section-title">Frequently Asked Questions: Godda to Bhagalpur</h2>
-
-            <div class="gbh-faq-item">
-                <h4>How much time does shifting take from Godda to Bhagalpur?</h4>
-                <p>The highway distance between Godda and Bhagalpur is only about 75 km via NH-133 (via Hansdiha and Punsia). We offer guaranteed same-day delivery: loading in the morning and complete setup in Bhagalpur by afternoon.</p>
-            </div>
-
-            <div class="gbh-faq-item">
-                <h4>What are the moving charges from Godda to Bhagalpur?</h4>
-                <p>Local corridor rates start at ₹4,500 to ₹7,500 for a 1 BHK; ₹8,000 to ₹14,000 for a 2 BHK flat; and ₹14,000 to ₹24,000 for a complete 3 BHK home, including packing materials, vehicle transport, and unloading.</p>
-            </div>
-
-            <div class="gbh-faq-item">
-                <h4>Do you provide moving services for Adani Power plant employees in Godda?</h4>
-                <p>Yes, we regularly handle corporate and residential relocations for executives and engineers working at the Adani Power Plant in Motia, Godda, providing GST billing and corporate transfer claim documents.</p>
-            </div>
-
-            <div class="gbh-faq-item">
-                <h4>Can you transport two-wheelers and scooters from Godda to Bhagalpur?</h4>
-                <p>Yes, we transport motorcycles and scooters safely wrapped with bubble wrap and secured with ratchet belts. Delivery to Bhagalpur is completed within 6 to 12 hours.</p>
-            </div>
-        </div>
-
-        <!-- Section 8: Connected Cluster Modules -->
-        <div class="gbh-cluster-links">
-            <h4>Explore Related Regional Corridors & Services</h4>
-            <div class="gbh-cluster-grid">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-godda">Packers and Movers Godda</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-deoghar">Packers and Movers Deoghar</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/track-consignment">Track Your Consignment</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/moving-checklist-pdf-download">Moving Checklist PDF</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Matrix</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/single-item-and-luggage-transport-ranchi">Single Item Transport</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers</a>
-            </div>
-        </div>
-
     </div>
-</div>
+</section>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<!-- Corporate & Industrial Relocation Protocol -->
+<section class="c_god_bha-section c_god_bha-section-gray">
+    <div class="container">
+        <div class="c_god_bha-heading-center">
+            <h2>Corporate, Industrial &amp; PSU Relocation Specialization</h2>
+            <p>
+                Tailored moving procedures for corporate managers, government officials, and banking professionals.
+            </p>
+        </div>
 
+        <div class="c_god_bha-grid-3">
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#9874;</div>
+                <h3>Industrial Belt &amp; Manufacturing Moves</h3>
+                <p>
+                    Connecting Adani Power 1600 MW Ultra Supercritical Thermal Plant, Eastern Coalfields Limited (ECL) Lalmatia, and agriculture with Tussar silk weaving (Silk City), agro-processing, river port trade, and educational universities, we manage executive and technician relocations with end-to-end documentation.
+                </p>
+            </div>
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#128646;</div>
+                <h3>Corporate &amp; Public Sector Transfers</h3>
+                <p>
+                    Managing employee relocations, executive transfers, and industrial supply chain support between Godda and Bhagalpur. We provide itemized packing lists, consignment notes, and GST invoices fully compliant with company claim policies.
+                </p>
+            </div>
+            <div class="c_god_bha-card">
+                <div class="c_god_bha-card-icon">&#127891;</div>
+                <h3>Academic &amp; Institutional Moves</h3>
+                <p>
+                    We provide smooth household and library relocation services for professors, researchers, and students transferring between universities and institutions in Godda and Bhagalpur.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Local Coverage Grid -->
+<section class="c_god_bha-section">
+    <div class="container">
+        <div class="c_god_bha-heading-center">
+            <h2>Full Pickup in Godda &amp; Doorstep Delivery Across Bhagalpur</h2>
+            <p>
+                Our comprehensive moving operations extend across every neighborhood in Godda and Bhagalpur.
+            </p>
+        </div>
+
+        <div class="c_god_bha-grid-3">
+            <div class="c_god_bha-card">
+                <h3>Godda Pickup Localities</h3>
+                <p>
+                    Prompt doorstep survey and packaging across all sectors of Godda:
+                </p>
+                <ul class="c_god_bha-checklist">
+                    <li><strong>Central Core:</strong> Kargil Chowk, Gandhi Nagar, Court Road, Main Market</li>
+                    <li><strong>Residential Townships:</strong> Rautara, Asanbani, Sikatiya, Mohanpur</li>
+                    <li><strong>Thermal & Mining Hub:</strong> Adani Ultra Supercritical Power Plant Township, Motia</li>
+                    <li><strong>Suburban Extensions:</strong> Mahagama, Lalmatia ECL Mining Zone, Boarijor</li>
+                </ul>
+            </div>
+
+            <div class="c_god_bha-card">
+                <h3>Bhagalpur Delivery Coverage</h3>
+                <p>
+                    Unloading, room placement, and setup across all Bhagalpur neighborhoods:
+                </p>
+                <ul class="c_god_bha-checklist">
+                    <li><strong>Commercial Center:</strong> Station Road, Sujaganj, Khalifabag Chowk, Tilkamanjhi</li>
+                    <li><strong>Academic & Residential:</strong> Adampur, Mayaganj, Khanjarpur, Barari</li>
+                    <li><strong>Suburban Zones:</strong> Nathnagar, Sabour Agriculture University, Aliganj</li>
+                    <li><strong>Industrial Pockets:</strong> Zero Mile, Mirjanhat, Industrial Area Barari</li>
+                </ul>
+            </div>
+
+            <div class="c_god_bha-card">
+                <h3>Why Choose Shree Ashirwad?</h3>
+                <p>
+                    Trusted by hundreds of families and businesses moving across India:
+                </p>
+                <ul class="c_god_bha-checklist">
+                    <li>Company-owned weatherproof container vehicles</li>
+                    <li>Experienced, background-verified full-time crew</li>
+                    <li>Genuine GST invoices for government and PSU transfer claims</li>
+                    <li>Fast 3 - 5-hour highway transit with scheduled doorstep delivery</li>
+                    <li>Transparent pricing with zero hidden surcharges</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Frequently Asked Questions -->
+<section class="c_god_bha-section c_god_bha-section-gray">
+    <div class="container">
+        <div class="c_god_bha-heading-center">
+            <h2>Frequently Asked Questions: Godda to Bhagalpur Shifting</h2>
+            <p>
+                Essential information on pricing, transit times, packing materials, and claim documentation.
+            </p>
+        </div>
+
+        <div style="max-width: 900px; margin: 0 auto;">
+            <div class="c_god_bha-faq-item">
+                <h3>What is the road distance and transit duration from Godda to Bhagalpur?</h3>
+                <p>
+                    The highway distance between Godda and Bhagalpur is approximately 70 km via National Highway Corridor. Dedicated container trucks complete this journey in 3 - 5 hours with scheduled doorstep delivery.
+                </p>
+            </div>
+
+            <div class="c_god_bha-faq-item">
+                <h3>What are the shifting charges from Godda to Bhagalpur?</h3>
+                <p>
+                    Estimated costs range from Rs 10,300 - 14,935 for 1 BHK apartments, Rs 15,000 - 21,750 for 2 BHK homes, and Rs 21,500 - 31,175 for 3 BHK residences, covering 5-layer packing, container freight, toll charges, loading, and unloading.
+                </p>
+            </div>
+
+            <div class="c_god_bha-faq-item">
+                <h3>Do you provide claimable GST invoices for corporate and government transfers?</h3>
+                <p>
+                    Yes, Shree Ashirwad Packers and Movers provides 100% authentic GST invoices, detailed item inventories, consignment notes (bilty), and IBA-approved receipts compliant with corporate and government reimbursement policies.
+                </p>
+            </div>
+
+            <div class="c_god_bha-faq-item">
+                <h3>How are personal cars and motorcycles transported to Bhagalpur?</h3>
+                <p>
+                    Vehicles are safely transported in enclosed hydraulic car carrier trailers and custom wooden motorcycle crates with wheel chocks, security straps, and comprehensive transit risk insurance.
+                </p>
+            </div>
+
+            <div class="c_god_bha-faq-item">
+                <h3>Which areas in Godda and Bhagalpur do you cover?</h3>
+                <p>
+                    In Godda, we cover Kargil Chowk, Gandhi Nagar, Court Road, Main Market and Rautara, Asanbani, Sikatiya, Mohanpur. In Bhagalpur, we deliver across Station Road, Sujaganj, Khalifabag Chowk, Tilkamanjhi and Adampur, Mayaganj, Khanjarpur, Barari.
+                </p>
+            </div>
+
+            <div class="c_god_bha-faq-item">
+                <h3>Is transit insurance available for Godda to Bhagalpur moves?</h3>
+                <p>
+                    Yes, we provide comprehensive transit risk insurance covering unexpected highway accidents, external impacts, and adverse weather conditions with hassle-free claim settlement.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Banner -->
+<section style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: #ffffff; padding: 65px 0; text-align: center;">
+    <div class="container">
+        <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; margin-bottom: 16px;">
+            Book Your Godda to Bhagalpur Move Today
+        </h2>
+        <p style="font-size: 1.1rem; color: #cbd5e1; max-width: 720px; margin: 0 auto 30px;">
+            Contact our moving experts for an accurate written estimate, complimentary pre-move assessment, and scheduled delivery.
+        </p>
+        <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
+            <a href="tel:+919835565233" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                Call Hotline: 084095 31615
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
+                Request Express Quote &rarr;
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Connected Shifting Resources Module -->
+<section class="c_god_bha-section" style="padding: 40px 0; background: #f8fafc;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 30px; box-shadow: var(--c_god_bha-shadow);">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.35rem; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 12px;">Connected Interstate Moving Corridors &amp; Authority Hubs</h3>
+            <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, tariff calculators, and reciprocal return corridors:</p>
+            <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ranchi (HQ)</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bhagalpur" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Bhagalpur</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Charges &amp; Tariff Calculator</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/bhagalpur-to-godda-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Return Route: Bhagalpur to Godda</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<?php include __DIR__ . '/includes/footer.php'; ?>
 </body>
 </html>

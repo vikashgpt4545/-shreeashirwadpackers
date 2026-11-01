@@ -8,8 +8,8 @@
  */
 
 // Define page-specific metadata
-$page_title = "Bokaro to Patna Packers and Movers | Express Shifting - Shree Ashirwad";
-$page_description = "Reliable Bokaro to Patna packers and movers by Shree Ashirwad Packers. Express 330 km transit via NH-19/NH-22, Rajauli ghati safety, 5-layer packing & IBA approved bills. Call 8409531615.";
+$page_title = "Packers and Movers Bokaro to Patna | Best Moving Company - 9835565233";
+$page_description = "Looking for the best packers and movers from Bokaro to Patna? Shree Ashirwad Packers offers express 330 km household shifting, car carrier, bike courier & IBA claim bills. Call +91 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-patna-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -23,7 +23,7 @@ require_once __DIR__ . '/includes/seo.php';
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?php echo htmlspecialchars($page_title); ?></title>
   <meta name="description" content="<?php echo htmlspecialchars($page_description); ?>">
-  <meta name="keywords" content="bokaro to patna packers and movers, packers and movers bokaro to patna, movers and packers bokaro to patna, house shifting bokaro to patna, furniture transport bokaro to patna, car transport bokaro to patna, bike courier bokaro to patna, movers and packers chas to patna">
+  <meta name="keywords" content="bokaro to patna packers and movers, best packers and movers from bokaro to patna, movers and packers bokaro to patna, household shifting bokaro to patna, top-rated packers and movers near bokaro, reliable movers and packers near me, house shifting bokaro to patna, furniture transport bokaro to patna, car transport bokaro to patna, bike courier bokaro to patna, packing and moving company, iba approved packers bokaro to patna">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
 
   <!-- Open Graph -->
@@ -69,7 +69,7 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg",
     "description": "Specialized intercity and interstate relocation service connecting Bokaro Steel City & Chas to Patna, Bihar. Features dedicated container trucks, Rajauli ghati transit safety, 5-layer packing, e-Way bill compliance, and IBA approved bills.",
-    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "telephone": "+919835565233",
     "priceRange": "₹2,500 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -243,6 +243,42 @@ require_once __DIR__ . '/includes/seo.php';
     ]
   }
   </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
   <!-- Global Header Navigation -->
@@ -277,10 +313,10 @@ require_once __DIR__ . '/includes/seo.php';
           330 KM INTERSTATE BIHAR-JHARKHAND CORRIDOR &bull; SAME-DAY &amp; OVERNIGHT DELIVERY
         </div>
         <h1 style="font-size: 2.35rem; color: #0f223d; font-weight: 800; line-height: 1.25; margin-bottom: 16px;">
-          Bokaro to Patna Packers and Movers - Safe Intercity Shifting Services
+          Bokaro to Patna Packers and Movers
         </h1>
         <p style="font-size: 1.15rem; color: #475569; line-height: 1.7; max-width: 1050px;">
-          Relocating from Bokaro Steel City or Chas to Patna? <strong>Shree Ashirwad Packers and Movers</strong> offers direct, dedicated container transport and cost-effective shared moving solutions between Jharkhand's steel hub and Bihar's administrative capital. Backed by 10+ years of operational experience traversing the Rajauli Ghati highway corridor, 5-layer shockproof packing standards, full GST e-Way bill compliance, and 100% IBA-approved billing for corporate and government transfers, we ensure your household treasures arrive intact and on schedule.
+          Looking for the <strong>best packers and movers from Bokaro to Patna</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting, office relocation, bike courier, and car carrier services</strong> across the 330 km Bihar-Jharkhand highway corridor via Rajauli Ghati, Nawada, and Bakhtiyarpur. As one of the top-rated movers and packers near Bokaro, our expert moving crew offers 5-layer shockproof packing, dedicated closed container trucks, official SAIL and government transfer bills, transparent pricing, floor-to-floor handling, and guaranteed 10–14 hour express doorstep delivery across Patna with 100% in-transit protection.
         </p>
 
         <!-- Quick Trust Signals Bar -->
@@ -304,10 +340,15 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
       </header>
 
-      <!-- Main Body Text Sections -->
+      
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+<!-- Main Body Text Sections -->
       <div style="font-size: 1.05rem; line-height: 1.8; color: #334155;">
 
-        <!-- Section 1: Overview of the Bokaro to Patna Corridor -->
+            
+    <!-- Section 1: Overview of the Bokaro to Patna Corridor -->
         <section style="margin-bottom: 40px;">
           <h2 style="font-size: 1.85rem; color: #0f223d; font-weight: 700; margin-bottom: 16px;">
             The Strategic Bokaro to Patna Shifting Corridor: Overview &amp; Demand
@@ -725,8 +766,8 @@ require_once __DIR__ . '/includes/seo.php';
             Enjoy specialized Rajauli ghati transit safety, 5-layer anti-vibration packaging, same-day/overnight delivery, full transit insurance, and hassle-free IBA claim documentation.
           </p>
           <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
-              Call Dispatch: 8409531615
+            <a href="tel:+919835565233" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
+              Call Dispatch: +91 9835565233
             </a>
             <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 600; text-decoration: none;">
               Get Instant WhatsApp Estimate &rarr;

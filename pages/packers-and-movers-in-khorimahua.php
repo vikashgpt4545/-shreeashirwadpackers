@@ -7,15 +7,15 @@ require_once "includes/config.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Packers and Movers in Khorimahua - 8409531615</title>
-    <meta name="description" content="Looking for trusted packers and movers in Khorimahua, Giridih? Shree Ashirwad Packers offers 100% safe household shifting, car & bike transport, office moving, and warehouse storage in Khorimahua & Rajdhanwar at affordable rates. Call 8409531615.">
-    <meta name="keywords" content="packers and movers in khorimahua, movers and packers khorimahua giridih, packers and movers rajdhanwar, household shifting khorimahua, car bike transport khorimahua jharkhand, shree ashirwad packers and movers">
+    <title>Packers and Movers in Khorimahua | Best Shifting Services Rajdhanwar - Shree Ashirwad</title>
+    <meta name="description" content="Looking for the best packers and movers in Khorimahua? Shree Ashirwad Packers offers Rajdhanwar, Court Road, home shifting & car transport. Call +91 9835565233.">
+    <meta name="keywords" content="packers and movers in khorimahua, best movers and packers khorimahua, movers and packers near me in khorimahua, movers and packers khorimahua giridih, packers and movers rajdhanwar, household shifting khorimahua, car bike transport khorimahua jharkhand, dhanwar station packers, sub divisional court shifting, packing and moving company in khorimahua, local shifting in khorimahua, shree ashirwad packers and movers">
     <link rel="canonical" href="https://www.shreeashirwadpackers.com/packers-and-movers-in-khorimahua">
     <meta name="robots" content="index, follow">
 
     <!-- Open Graph Tags -->
     <meta property="og:title" content="Packers and Movers in Khorimahua Giridih | Shree Ashirwad Packers & Movers">
-    <meta property="og:description" content="Certified, safe, and affordable household shifting, judicial and civil staff transfers, and vehicle transport services in Khorimahua, Giridih. Call 8409531615 for an instant moving quote.">
+    <meta property="og:description" content="Certified, safe, and affordable household shifting, judicial and civil staff transfers, and vehicle transport services in Khorimahua, Giridih. Call 9835565233 for an instant moving quote.">
     <meta property="og:url" content="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-khorimahua">
     <meta property="og:type" content="business.business">
     <meta property="og:image" content="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg">
@@ -41,7 +41,7 @@ require_once "includes/config.php";
                 "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-khorimahua",
                 "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
                 "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
-                "telephone": "+91-8409531615",
+                "telephone": "+919835565233",
                 "email": "info@shreeashirwadpackers.com",
                 "description": "Leading packing and moving company in Khorimahua sub-division and Rajdhanwar, Giridih district providing home shifting, vehicle transportation, official transfers, and secure storage solutions across Jharkhand.",
                 "priceRange": "₹₹",
@@ -199,11 +199,11 @@ require_once "includes/config.php";
                 Top Packers and Movers in Khorimahua (Giridih)
             </h1>
             <p style="font-size: 1.25rem; line-height: 1.6; color: #e2e8f0; margin-bottom: 30px;">
-                Giridih district's most dependable relocation specialists serving Khorimahua & Rajdhanwar. Flawless household shifting, civil court & administrative staff transfers, car & bike carrier transport, and secure warehousing with zero transit damage.
+                Looking for the best packers and movers in Khorimahua? <strong>Shree Ashirwad Packers and Movers</strong> provides trusted household shifting, judicial and civil staff transfers, bike transport, car transport, and complete moving solutions at affordable prices across Khorimahua and Rajdhanwar sub-division. As one of the top-rated packers and movers near Khorimahua, we help SDM office personnel, civil court officers, traders, and families relocate locally and across Jharkhand without hassle. We cover major localities including Rajdhanwar, Dhanwar Bazar, Sub-Divisional Court Campus, Dhanwar Railway Station, Jamua More, and Birni Link for fast and reliable shifting services. Whether you need local shifting in Khorimahua, intercity relocation to Giridih town, Koderma, Ranchi, or Patna, office moving, or vehicle transportation, our trained staff ensures secure handling, pincode-based scheduling (PIN: 825412), same-day shifting assistance, floor-to-floor handling, and dependable relocation planning.
             </p>
             <div class="hero-cta-group" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-                <a href="tel:+918409531615" class="btn-primary-custom" style="background: #ff6b00; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; box-shadow: 0 4px 15px rgba(255,107,0,0.4);">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: 8409531615
+                <a href="tel:+919835565233" class="btn-primary-custom" style="background: #ff6b00; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; box-shadow: 0 4px 15px rgba(255,107,0,0.4);">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn-secondary-custom" style="background: transparent; color: #ffffff; border: 2px solid #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-calculator"></i> Get Free Moving Estimate
@@ -231,7 +231,47 @@ require_once "includes/config.php";
     </div>
 </section>
 
-<!-- Main Content Section -->
+    <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Khorimahua
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Khorimahua</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Khorimahua and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Khorimahua</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Rajdhanwar, Dhanwar Bazar, Sub-Divisional Court Campus, Dhanwar Railway Station, Jamua More, and Birni Link for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Khorimahua</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Khorimahua</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Khorimahua</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Khorimahua</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Khorimahua</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Khorimahua</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- Main Content Section -->
 <section class="main-content-section" style="padding: 70px 0; background-color: #f8fafc;">
     <div class="site-container">
         <div class="content-wrapper" style="display: grid; grid-template-columns: 1fr; gap: 40px; max-width: 1000px; margin: 0 auto;">
@@ -251,6 +291,18 @@ require_once "includes/config.php";
                 <p>
                     At <strong>Shree Ashirwad Packers and Movers</strong>, we bring more than eighteen years of specialized relocation excellence to Khorimahua and Rajdhanwar. Whether you are a judicial magistrate or police inspector transferring to another district, a bank manager joining a regional branch, a wholesale merchant relocating inventory, or a family moving into a newly built home, our seasoned moving crews deliver prompt, secure, and stress-free service from start to finish.
                 </p>
+
+                <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #ff6b00; padding: 22px; border-radius: 8px; margin: 24px 0;">
+                    <h3 style="font-family: 'Outfit', sans-serif; font-size: 19px; font-weight: 700; color: #0f172a; margin-bottom: 10px;">
+                        <i class="fa-solid fa-map-location-dot" style="color: #ff6b00; margin-right: 8px;"></i> Top-Rated Moving & Packing Solutions in Khorimahua & Rajdhanwar
+                    </h3>
+                    <p style="margin-bottom: 8px; font-size: 15px; line-height: 1.6; color: #334155;">
+                        Customers choose our movers and packers service in Khorimahua for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning. We provide nearby packers and movers support with pincode-based scheduling (PIN: 825412), same-day shifting assistance, floor-to-floor handling, and flexible moving options across the Sub-Divisional Court complex, Rajdhanwar, and Dhanwar station.
+                    </p>
+                    <p style="margin-bottom: 0; font-size: 15px; line-height: 1.6; color: #334155;">
+                        From administrative staff quarters and civil court personnel homes to merchant residences in Dhanwar Bazar and Jamua More, our packing and moving company in Khorimahua delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Khorimahua, our local team is available 24/7 at <strong>+91 9835565233</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
+                    </p>
+                </div>
 
                 <!-- First Feature Image: 3:4 Responsive Container -->
                 <div class="content-image-wrapper" style="max-width: 420px; margin: 35px auto; text-align: center;">
@@ -745,8 +797,8 @@ require_once "includes/config.php";
                         Trust Jharkhand’s most recommended packers and movers for a prompt, safe, and completely damage-free moving experience in Khorimahua, Rajdhanwar, Giridih, and beyond. Call us now for an immediate free moving quote.
                     </p>
                     <div class="hero-cta-group" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-                        <a href="tel:+918409531615" class="btn-primary-custom" style="background: #ff6b00; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
-                            <i class="fa-solid fa-phone"></i> Call +91 8409531615
+                        <a href="tel:+919835565233" class="btn-primary-custom" style="background: #ff6b00; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+                            <i class="fa-solid fa-phone"></i> Call +91 9835565233
                         </a>
                         <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn-secondary-custom" style="background: transparent; color: #ffffff; border: 2px solid #ff6b00; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
                             <i class="fa-solid fa-calendar-check"></i> Book Free Pre-Move Survey

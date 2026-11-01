@@ -2,8 +2,8 @@
 require_once __DIR__ . '/includes/config.php';
 
 // Define page-specific variables
-$page_title = "Packers and Movers in Patratu - 8409531615";
-$page_description = "Hire verified packers and movers in Patratu & Ramgarh by Shree Ashirwad Packers. IBA approved bills, PVUNL NTPC quarter shifting, car & bike parcel. Call 8409531615.";
+$page_title = "Packers and Movers in Patratu - 9835565233";
+$page_description = "Hire verified packers and movers in Patratu & Ramgarh by Shree Ashirwad Packers. IBA approved bills, PVUNL NTPC quarter shifting, car & bike parcel. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-patratu";
 ?>
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pat
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Packers and Movers in Patratu - 8409531615</title>
+    <title>Packers and Movers in Patratu - 9835565233</title>
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="packers and movers in patratu, movers and packers patratu, packers and movers in pvunl patratu, household shifting patratu ramgarh, house relocation patratu jharkhand, best packers and movers patratu, car transportation patratu, bike parcel patratu, iba approved packers in patratu, shree ashirwad packers ramgarh">
     <link rel="canonical" href="https://www.shreeashirwadpackers.com/packers-and-movers-in-patratu">
@@ -34,7 +34,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pat
       "image": "https://www.shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
       "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-patratu",
       "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-patratu",
-      "telephone": "+918409531615",
+      "telephone": "+919835565233",
       "priceRange": "₹3,500 - ₹55,000",
         "keywords": "packers and movers in patratu, movers and packers patratu, packers and movers in pvunl patratu, household shifting patratu ramgarh, house relocation patratu jharkhand, best packers and movers patratu, car transportation patratu, bike parcel patratu, iba approved packers in patratu, shree ashirwad packers ramgarh",
       "address": {
@@ -223,8 +223,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pat
                 </div>
             </div>
             <div class="hero-actions" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:8409531615" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: 8409531615
+                <a href="tel:9835565233" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-calculator"></i> Get Free Moving Estimate
@@ -273,6 +273,47 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pat
 <!-- Main Body Content -->
 <main style="padding: 50px 0; background: #ffffff;">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+
+                <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Patratu
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Patratu</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Patratu and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Patratu</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including PVUNL NTPC Township, PTPS Colony, JSPL Complex, Patratu Dam &amp; Resort area, Sounda, Sayal, Balkudra, and the Patratu Valley Ghat road corridor for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Patratu</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Patratu</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Patratu</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Patratu</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Patratu</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Patratu</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
 
         <!-- Overview Section with Feature Pills -->
         <section class="intro-section" style="margin-bottom: 50px;">
@@ -951,8 +992,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pat
                 Partner with Patratu's premier moving and packing specialists. Benefit from IBA-approved billing, damage-free container transit, and dedicated relocation support across Jharkhand.
             </p>
             <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-                <a href="tel:+918409531615" style="background: #ffb703; color: #000814; padding: 14px 30px; border-radius: 6px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 16px;">
-                    <i class="fa-solid fa-phone"></i> Call Now: +91 8409531615
+                <a href="tel:+919835565233" style="background: #ffb703; color: #000814; padding: 14px 30px; border-radius: 6px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 16px;">
+                    <i class="fa-solid fa-phone"></i> Call Now: +91 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" style="background: transparent; color: #ffffff; border: 2px solid #ffffff; padding: 12px 28px; border-radius: 6px; font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 16px;">
                     <i class="fa-solid fa-calendar-check"></i> Book Free Survey

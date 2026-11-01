@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Mysore Packers and Movers | Safe 1,980 km Household & Vehicle Relocation";
-$page_description = "Reliable Ranchi to Mysore (Mysuru) packers and movers. Verified household shifting, Infosys IT moves, car carriers & transit insurance. Direct container fleet. Call 8409531615.";
+$page_description = "Reliable Ranchi to Mysore (Mysuru) packers and movers. Verified household shifting, Infosys IT moves, car carriers & transit insurance. Direct container fleet. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-mysore-packers-and-movers";
 $page_keywords = "ranchi to mysore packers and movers, packers and movers ranchi to mysore, household shifting ranchi to mysore, car transport ranchi to mysuru, bike courier ranchi to mysore, infosys mysore movers from ranchi, hebbal mysore relocation, kuvempunagar packers";
 
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
         "description": "Professional intercity packers and movers service from Ranchi (Jharkhand) to Mysore / Mysuru (Karnataka). Secure household shifting, car carriers, IT corporate transfers, and transit insurance.",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
@@ -523,6 +523,42 @@ require_once __DIR__ . '/../includes/seo.php';
             .rmys-btn-primary, .rmys-btn-secondary { text-align: center; }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -555,16 +591,21 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
         </div>
         <div class="rmys-cta-bar">
-            <a href="tel:+918409531615" class="rmys-btn-primary">Call Booking Desk: +91 8409531615</a>
+            <a href="tel:+919835565233" class="rmys-btn-primary">Call Booking Desk: +91 9835565233</a>
             <a href="tel:+919835565233" class="rmys-btn-secondary">Alternate Line: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rmys-btn-secondary">Request Free Survey & Quotation</a>
         </div>
     </div>
 </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Main Container -->
 <main class="rmys-content-wrap">
 
+        
     <!-- Section 1: Overview & Strategic Corridor -->
     <section class="rmys-section">
         <h2 class="rmys-section-title">Strategic Relocation Logistics from Ranchi to Mysore (Mysuru)</h2>
@@ -1008,7 +1049,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Experience seamless, stress-free intercity relocation backed by certified packing professionals, direct GPS-enabled container fleets, and comprehensive insurance coverage across 1,980 km.
         </p>
         <div class="rmys-cta-bar" style="justify-content: center;">
-            <a href="tel:+918409531615" class="rmys-btn-primary">Call Now: +91 8409531615</a>
+            <a href="tel:+919835565233" class="rmys-btn-primary">Call Now: +91 9835565233</a>
             <a href="tel:+919835565233" class="rmys-btn-secondary">Mobile: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rmys-btn-secondary">Book Free Pre-Move Survey</a>
         </div>

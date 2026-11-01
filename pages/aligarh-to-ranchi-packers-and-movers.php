@@ -11,9 +11,9 @@ include_once __DIR__ . '/../includes/config.php';
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Aligarh to Ranchi Packers and Movers | Reliable Relocation Services</title>
-  <meta name="description" content="Expert Aligarh to Ranchi packers and movers. Safe household shifting, AMU faculty relocation, vehicle transport, and comprehensive insured moving across NH19.">
-  <meta name="keywords" content="aligarh to ranchi packers and movers, packers and movers aligarh to ranchi, household shifting aligarh to ranchi, car transport aligarh to ranchi, amu relocation aligarh to ranchi">
+  <title>Aligarh to Ranchi Packers and Movers | Best Shifting Services - Shree Ashirwad</title>
+  <meta name="description" content="Looking for the best packers and movers from Aligarh to Ranchi? Shree Ashirwad Packers offers reliable household shifting, AMU faculty moves, bike transport & car carriers via NH19. Call +91 9835565233.">
+  <meta name="keywords" content="aligarh to ranchi packers and movers, packers and movers aligarh to ranchi, best packers and movers for aligarh to ranchi, household shifting services, bike transport, car carrier services, iba approved bill, transit insurance, movers and packers near me in ranchi, household shifting aligarh to ranchi, car transport aligarh to ranchi, amu relocation aligarh to ranchi">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://www.shreeashirwadpackers.com/aligarh-to-ranchi-packers-and-movers">
@@ -448,6 +448,42 @@ include_once __DIR__ . '/../includes/config.php';
       .al2r-section-title { font-size: 1.5rem; }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -467,7 +503,12 @@ include_once __DIR__ . '/../includes/config.php';
   </div>
 </header>
 
-<main class="al2r-container">
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
+    
+    <main class="al2r-container">
 
   <section>
     <h2 class="al2r-section-title">Professional Inbound Relocation from Aligarh to Ranchi</h2>
@@ -477,8 +518,7 @@ include_once __DIR__ . '/../includes/config.php';
     <p class="al2r-text">
       Shree Ashirwad Packers and Movers delivers specialized, end-to-end relocation services designed to eliminate the logistical complexities of this cross-state move. Whether you are an academic professor or healthcare specialist transitioning from AMU or JNMC to Ranchi's premier institutions like BIT Mesra, IIM Ranchi, Central University of Jharkhand, or RIMS; an engineer relocating from the Harduaganj Thermal Power Plant to Jharkhand's power and mining installations; an entrepreneur expanding brassware distribution to eastern markets; or a family returning to native roots in Ranchi—our seasoned moving crew ensures total safety, complete punctuality, and zero damage.
     </p>
-
-    <div class="al2r-img-card">
+<div class="al2r-img-card">
       <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg" alt="Household Goods Loading for Long Distance Transit to Ranchi" loading="lazy">
       <div class="r2al-caption">Carefully organized loading and stacking inside heavy-duty container trucks ensuring zero transit movement.</div>
     </div>

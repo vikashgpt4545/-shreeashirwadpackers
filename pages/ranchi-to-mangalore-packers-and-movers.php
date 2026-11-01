@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Mangalore Packers and Movers | Safe 1,990 km Coastal Relocation";
-$page_description = "Certified Ranchi to Mangalore (Mangaluru) packers and movers. Verified household shifting, NITK/MRPL transfers, car carriers & transit insurance. Direct container fleet. Call 8409531615.";
+$page_description = "Certified Ranchi to Mangalore (Mangaluru) packers and movers. Verified household shifting, NITK/MRPL transfers, car carriers & transit insurance. Direct container fleet. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-mangalore-packers-and-movers";
 $page_keywords = "ranchi to mangalore packers and movers, packers and movers ranchi to mangaluru, household shifting ranchi to mangalore, car transport ranchi to mangalore, bike courier ranchi to mangalore, nitk surathkal movers, mrpl mangalore relocation, bejai kadri packers";
 
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg",
         "description": "Premium intercity relocation service connecting Ranchi (Jharkhand) to Mangalore / Mangaluru (Karnataka). Secure residential shifting, automobile transportation, industrial transfers, and comprehensive all-risk transit insurance.",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
@@ -523,6 +523,42 @@ require_once __DIR__ . '/../includes/seo.php';
             .rmng-btn-primary, .rmng-btn-secondary { text-align: center; }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -555,16 +591,21 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
         </div>
         <div class="rmng-cta-bar">
-            <a href="tel:+918409531615" class="rmng-btn-primary">Call Booking Desk: +91 8409531615</a>
+            <a href="tel:+919835565233" class="rmng-btn-primary">Call Booking Desk: +91 9835565233</a>
             <a href="tel:+919835565233" class="rmng-btn-secondary">Alternate Line: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rmng-btn-secondary">Request Free Survey & Estimate</a>
         </div>
     </div>
 </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Main Container -->
 <main class="rmng-content-wrap">
 
+        
     <!-- Section 1: Overview & Strategic Corridor -->
     <section class="rmng-section">
         <h2 class="rmng-section-title">Professional Intercity Relocation from Ranchi to Mangalore (Mangaluru)</h2>
@@ -958,7 +999,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Experience damage-free relocation with trained packing professionals, GPS-monitored container trucks, and all-risk transit protection tailored for coastal Karnataka moves.
         </p>
         <div class="rmng-cta-bar" style="justify-content: center;">
-            <a href="tel:+918409531615" class="rmng-btn-primary">Call Now: +91 8409531615</a>
+            <a href="tel:+919835565233" class="rmng-btn-primary">Call Now: +91 9835565233</a>
             <a href="tel:+919835565233" class="rmng-btn-secondary">Mobile: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rmng-btn-secondary">Book Free Pre-Move Survey</a>
         </div>

@@ -2,16 +2,16 @@
 /**
  * Packers and Movers in Chakulia - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9835565233
+ * Contact: +91 9835565233 / +91 9835565233
  * Office: Serving Chakulia, Ghatshila, East Singhbhum, Jharkhand
  */
 
 require_once __DIR__ . '/includes/config.php';
 
 // Page-specific variables
-$page_title = "Packers and Movers in Chakulia - 8409531615 | Shree Ashirwad Packers";
-$page_description = "Trusted packers and movers in Chakulia (East Singhbhum). Safe household shifting, vehicle transportation, rice mill & commercial relocation, full transit insurance. Call 8409531615.";
-$page_keywords = "packers and movers in chakulia, best movers and packers chakulia, household shifting chakulia east singhbhum, car transport chakulia, bike courier chakulia, commercial shifting chakulia, shree ashirwad packers chakulia";
+$page_title = "Packers and Movers in Chakulia | Best Shifting Services East Singhbhum - Shree Ashirwad";
+$page_description = "Looking for the best packers and movers in Chakulia? Shree Ashirwad Packers offers trusted household shifting, bike/car transport, rice mill & commercial moving. Call +91 9835565233.";
+$page_keywords = "packers and movers in chakulia, best movers and packers chakulia, movers and packers near me in chakulia, household shifting chakulia, car transport chakulia, bike courier chakulia, packing and moving company in chakulia, local shifting in chakulia, rice mill relocation chakulia, intercity shifting chakulia";
 $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
 ?>
 <!DOCTYPE html>
@@ -69,7 +69,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
       "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
       "@id": "<?php echo $canonical_url; ?>#movingcompany",
       "url": "<?php echo $canonical_url; ?>",
-      "telephone": "+918409531615",
+      "telephone": "+919835565233",
       "keywords": "packers and movers in chakulia, packers and movers chakulia, best packers and movers in chakulia, household shifting chakulia, car transport chakulia, bike parcel chakulia, iba approved packers chakulia, local shifting chakulia",
       "priceRange": "INR 3500 - 50000",
       "address": {
@@ -201,7 +201,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
           "name": "How can I get an accurate cost quotation for my move in Chakulia?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Call our customer service team at +91 8409531615 or WhatsApp us at +91 9835565233. We provide free doorstep physical surveys in Chakulia or swift video estimates with transparent, fixed-rate pricing."
+            "text": "Call our customer service team at +91 9835565233 or WhatsApp us at +91 9835565233. We provide free doorstep physical surveys in Chakulia or swift video estimates with transparent, fixed-rate pricing."
           }
         }
       ]
@@ -222,14 +222,17 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                 <h1 style="font-size: clamp(32px, 4.5vw, 48px); font-weight: 800; line-height: 1.2; margin-bottom: 20px; font-family: 'Outfit', sans-serif;">
                     Professional Packers and Movers in <span style="color: #60a5fa;">Chakulia</span>
                 </h1>
-                <p style="font-size: 17px; line-height: 1.65; color: #e2e8f0; margin-bottom: 28px;">
-                    Planning a home relocation, vehicle transport, or commercial shifting in Chakulia? Shree Ashirwad Packers and Movers provides top-tier, zero-damage shifting services across East Singhbhum. Positioned right near the Jharkhand-Bengal-Odisha border, we offer flawless connectivity to Jamshedpur, Ranchi, Kharagpur, Kolkata, and Baripada with premium multi-layer packing and verified transit insurance.
+                <p style="font-size: 17px; line-height: 1.65; color: #e2e8f0; margin-bottom: 16px;">
+                    Looking for the <strong>best packers and movers in Chakulia</strong>? We provide trusted household shifting, office relocation, bike transport, car transport, and complete moving solutions at affordable prices across Chakulia, Ghatshila, and the tri-border region.
+                </p>
+                <p style="font-size: 15.5px; line-height: 1.65; color: #cbd5e1; margin-bottom: 24px;">
+                    Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Chakulia and nearby areas with timely delivery support. As one of the top-rated movers and packers near Chakulia, we help families, traders, and rice mill businesses relocate locally and across Jharkhand without hassle.
                 </p>
                 <div class="hero-cta-group" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-                    <a href="tel:8409531615" class="btn-primary" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(239, 68, 68, 0.3); transition: all 0.3s ease;">
-                        <i class="fa-solid fa-phone-volume"></i> Call 8409531615
+                    <a href="tel:+919835565233" class="btn-primary" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(239, 68, 68, 0.3); transition: all 0.3s ease;">
+                        <i class="fa-solid fa-phone-volume"></i> Call +91 9835565233
                     </a>
-                    <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20moving%20in%20Chakulia" target="_blank" class="btn-whatsapp" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(34, 197, 94, 0.3); transition: all 0.3s ease;">
+                    <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20moving%20in%20Chakulia" target="_blank" class="btn-whatsapp" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(34, 197, 94, 0.3); transition: all 0.3s ease;">
                         <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
                     </a>
                 </div>
@@ -272,7 +275,47 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
         <div class="row" style="display: flex; flex-wrap: wrap; gap: 40px;">
             <div class="main-column" style="flex: 1 1 760px;">
                 
-                <!-- Section 1: Overview & Strategic Tri-State Connectivity -->
+                    <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Chakulia
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Chakulia</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Chakulia and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Chakulia</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Key Moving Recommendations for Chakulia:, Agricultural & Rice Mill Logistics Support:, Interstate Border & E-Way Bill Compliance:, Airfield Area & Suburban Expansion Coverage: along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Chakulia</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Chakulia</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Chakulia</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Chakulia</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Chakulia</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Chakulia</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- Section 1: Overview & Strategic Tri-State Connectivity -->
                 <article class="article-block" style="margin-bottom: 50px;">
                     <h2 style="font-size: 28px; font-weight: 700; color: #0f172a; margin-bottom: 20px; font-family: 'Outfit', sans-serif;">
                         Chakulia's Leading Packers and Movers for Seamless Transitions
@@ -297,10 +340,26 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                         </div>
                     </div>
 
-                    <div class="highlight-quote-box" style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 20px 24px; border-radius: 0 8px 8px 0; margin-bottom: 30px;">
+                    <div class="highlight-quote-box" style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 20px 24px; border-radius: 0 8px 8px 0; margin-bottom: 24px;">
                         <p style="margin: 0; font-size: 15px; font-style: italic; color: #1e3a8a; line-height: 1.7;">
                             "In border towns like Chakulia, relocation requires more than standard tempos. It demands reliable multi-state permits, resilient packaging against river humidity, and respectful customer service. Shree Ashirwad Packers delivers excellence at every milestone of your journey."
                         </p>
+                    </div>
+
+                    <div style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 22px; margin: 26px 0; border-radius: 0 8px 8px 0; border: 1px solid #dbeafe; border-left: 4px solid #2563eb;">
+                      <h3 style="font-size: 18px; font-weight: 700; color: #1e3a8a; margin-top: 0; margin-bottom: 12px;">Top-Rated Moving & Packing Solutions in Chakulia</h3>
+                      <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+                        We cover major localities including <strong>Station Road, Main Bazar, Puranabasti, Airfield Area, Kankrashol, Lodhasholi, Ghatshila Road, Bidi Colony, and the Rice Mill Industrial Cluster</strong> along with nearby residential and commercial zones for fast and reliable shifting services.
+                      </p>
+                      <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+                        Whether you need local shifting in Chakulia, intercity relocation to Ghatshila, Jamshedpur, Kharagpur, Kolkata, or Baripada, office moving, or vehicle transportation, our trained staff ensures secure handling and professional support. Customers choose our <strong>movers and packers service in Chakulia</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                      </p>
+                      <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+                        We also provide nearby packers and movers support with pincode-based scheduling (PIN 832301), same-day shifting assistance, floor-to-floor handling, and flexible moving options. From small apartments to large commercial setups, our <strong>packing and moving company in Chakulia</strong> delivers affordable, safe, and stress-free relocation services.
+                      </p>
+                      <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 0;">
+                        If you are searching for reliable <strong>movers and packers near me in Chakulia</strong>, our local team is available 24/7 for home shifting, storage, transport, and complete relocation assistance across East Singhbhum and interstate border routes.
+                      </p>
                     </div>
                 </article>
 
@@ -774,7 +833,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                                 <i class="fa-solid fa-circle-question" style="color: #2563eb; margin-right: 8px;"></i> How can I get an accurate cost quotation for my move in Chakulia?
                             </h3>
                             <p style="font-size: 15px; line-height: 1.75; color: #334155; margin: 0;">
-                                Call our customer service team at +91 8409531615 or WhatsApp us at +91 9835565233. We provide free doorstep physical surveys in Chakulia or swift video estimates with transparent, fixed-rate pricing.
+                                Call our customer service team at +91 9835565233 or WhatsApp us at +91 9835565233. We provide free doorstep physical surveys in Chakulia or swift video estimates with transparent, fixed-rate pricing.
                             </p>
                         </div>
                     </div>
@@ -795,13 +854,13 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
                             Relocating in or from Chakulia? Connect with our senior East Singhbhum relocation manager today.
                         </p>
                         <div style="display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px;">
-                            <a href="tel:8409531615" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
-                                <i class="fa-solid fa-phone"></i> +91 8409531615
+                            <a href="tel:9835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
+                                <i class="fa-solid fa-phone"></i> +91 9835565233
                             </a>
                             <a href="tel:+919835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #1e3a8a; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
                                 <i class="fa-solid fa-phone"></i> +91 9835565233
                             </a>
-                            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chakulia" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
+                            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chakulia" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
                                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
                             </a>
                         </div>
@@ -860,10 +919,10 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chakulia";
             Reach out to Shree Ashirwad Packers and Movers today for a free pre-move survey and customized price estimate. Experience smooth, professional relocations with East Singhbhum’s top-rated logistics team.
         </p>
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-            <a href="tel:8409531615" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(239, 68, 68, 0.35);">
-                <i class="fa-solid fa-phone-volume"></i> Call +91 8409531615
+            <a href="tel:9835565233" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(239, 68, 68, 0.35);">
+                <i class="fa-solid fa-phone-volume"></i> Call +91 9835565233
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20me%20a%20quote%20for%20Chakulia" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(34, 197, 94, 0.35);">
+            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20me%20a%20quote%20for%20Chakulia" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(34, 197, 94, 0.35);">
                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>

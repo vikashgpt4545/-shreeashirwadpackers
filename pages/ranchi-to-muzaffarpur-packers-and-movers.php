@@ -11,7 +11,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Muzaffarpur Packers & Movers | Shree Ashirwad";
-$page_description = "Top Ranchi to Muzaffarpur packers and movers by Shree Ashirwad. 24-hr express transit via NH-22, BRABU & Govt transfer bills, 5-layer packing. Call 8409531615.";
+$page_description = "Top Ranchi to Muzaffarpur packers and movers by Shree Ashirwad. 24-hr express transit via NH-22, BRABU & Govt transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-muzaffarpur-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -663,7 +663,7 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate packers and movers relocation service from Ranchi, Jharkhand to Muzaffarpur, Bihar. Comprehensive 24-hr express transit via NH-20 and NH-22 corridor, 5-layer defensive packaging, BRABU university faculty shifting, NTPC Kanti power plant transfers, and zero-transshipment sealed container fleets.",
-    "telephone": "+91-8409531615",
+    "telephone": "+91-9835565233",
     "email": "support@shreeashirwadpackers.com",
     "priceRange": "₹11,500 - ₹44,000",
     "address": {
@@ -741,7 +741,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+91-8409531615",
+      "telephone": "+91-9835565233",
       "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": {
@@ -847,6 +847,42 @@ require_once __DIR__ . '/includes/seo.php';
     ]
   }
   </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 
 <body>
@@ -873,7 +909,7 @@ require_once __DIR__ . '/includes/seo.php';
           </div>
 
           <div class="r2m-action-bar">
-            <a href="tel:+918409531615" class="r2m-btn-primary">
+            <a href="tel:+919835565233" class="r2m-btn-primary">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
               <span>Instant Call: 084095 31615</span>
             </a>
@@ -882,6 +918,10 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
       </div>
     </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
 
     <!-- Key Specs Banner -->
     <div class="r2m-container">
@@ -907,6 +947,7 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
     </div>
 
+        
     <!-- Section 1: Route Logistics Overview -->
     <section class="r2m-section">
       <div class="r2m-container">

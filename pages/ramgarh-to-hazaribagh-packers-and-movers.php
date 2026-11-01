@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Ramgarh to Hazaribagh Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Fast Ramgarh to Hazaribagh packers and movers by Shree Ashirwad. Express 1 hr transit via NH-20, army & CCL transfer bills, 5-layer packing. Call 8409531615.";
+$page_desc = "Fast Ramgarh to Hazaribagh packers and movers by Shree Ashirwad. Express 1 hr transit via NH-20, army & CCL transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -447,7 +447,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-pac
         "name": "Shree Ashirwad Packers and Movers - Ramgarh to Hazaribagh Route Division",
         "description": "Premier intercity moving and logistics agency facilitating rapid household, defense, CCL, and vehicle relocation from Ramgarh to Hazaribagh via NH-20.",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹4,500 - ₹19,000",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
@@ -487,7 +487,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-pac
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-8409531615"
+            "telephone": "+91-9835565233"
         },
         "areaServed": [
             {
@@ -595,6 +595,42 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-pac
         ]
     }
     </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <?php include __DIR__ . '/../includes/header.php'; ?>
@@ -615,7 +651,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-pac
         <h1 class="r2hzb-title">Fast &amp; Reliable Ramgarh to Hazaribagh Packers and Movers</h1>
         <p class="r2hzb-subtitle">Stress-free home shifting, vehicle transportation, and institutional transfer relocations from Ramgarh Cantt, Patratu, and Barkakana to Hazaribagh. 50 km four-lane NH-20 transit with 5-layer packing, guaranteed zero damage, and complete corporate billing.</p>
         <div class="r2hzb-hero-cta">
-            <a href="tel:+918409531615" class="r2hzb-btn-primary">&#9742; Call 8409531615</a>
+            <a href="tel:+919835565233" class="r2hzb-btn-primary">&#9742; Call 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="r2hzb-btn-outline">Get Instant Quote</a>
         </div>
     </div>
@@ -649,6 +685,47 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-hazaribagh-pac
         </div>
     </div>
 </section>
+    <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Ramgarh to Hazaribagh
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Ramgarh to Hazaribagh</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Ramgarh and Hazaribagh with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Ramgarh</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Ramgarh and Hazaribagh along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Ramgarh</strong>, intercity relocation to Hazaribagh, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Ramgarh to Hazaribagh</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Ramgarh to Hazaribagh</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Ramgarh to Hazaribagh</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Ramgarh to Hazaribagh</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ramgarh to Hazaribagh</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
 
 <!-- Route Overview & Regional Context -->
 <section class="r2hzb-section">

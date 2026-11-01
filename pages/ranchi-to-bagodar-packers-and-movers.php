@@ -474,11 +474,53 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             </div>
 
             <div class="ran2bag-cta-group">
-                <a href="tel:+918409531615" class="ran2bag-btn-primary"><i class="fa-solid fa-phone"></i> Call 8409531615</a>
-                <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Bagodar%20shifting" class="ran2bag-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
+                <a href="tel:+919835565233" class="ran2bag-btn-primary"><i class="fa-solid fa-phone"></i> Call 9835565233</a>
+                <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Bagodar%20shifting" class="ran2bag-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
             </div>
         </div>
     </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Ranchi to Bagodar
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the best packers and movers from Ranchi to Bagodar? Shree Ashirwad Packers and Movers provides trusted household shifting, commercial office relocation, bike transport service, car carrier transportation, and complete door-to-door moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Ranchi and Bagodar with guaranteed on-time delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the top-rated packers and movers near Ranchi, we help families, defense personnel, corporate executives, and businesses relocate intercity without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major pickup hubs in Ranchi (including Harmu Housing Colony, Lalpur, Doranda) along with nearby residential sectors and industrial zones for fast, secure, and reliable shifting services to Bagodar.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need local shifting, intercity relocation, express office moving, luggage transport, or specialized vehicle transportation, our trained staff ensures secure handling and transit insurance support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our movers and packers service for transparent pricing, zero hidden charges, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide nearby packers and movers support with pincode-based scheduling, same-day packing assistance, floor-to-floor handling, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From 1 BHK / 2 BHK flat relocations to large corporate setups, our packing and moving company delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable movers and packers near me from Ranchi to Bagodar, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                </p>
+            </div>
+        </div>
+    </section>
+
 
     <!-- Overview Section with Image 1 -->
     <section class="ran2bag-section">
@@ -731,7 +773,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             <div class="ran2bag-cta">
                 <h3>Ready for a Hassle-Free Ranchi to Bagodar Move?</h3>
                 <p>Contact Jharkhand's most trusted intercity relocation company today. Get an honest price quote, guaranteed transit timings, and complete peace of mind.</p>
-                <a href="tel:+918409531615" class="ran2bag-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 8409531615 / 9835565233</a>
+                <a href="tel:+919835565233" class="ran2bag-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 9835565233 / 9835565233</a>
             </div>
         </div>
     </section>
@@ -770,7 +812,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
 
                 <div class="ran2bag-faq-item">
                     <h4 class="ran2bag-faq-q">How do I book my moving date with Shree Ashirwad Packers?</h4>
-                    <p class="ran2bag-faq-a">You can confirm your booking by calling our logistics hotline at 8409531615 or 9835565233. We recommend booking 2 to 3 days in advance to reserve your preferred moving date and dedicated container vehicle.</p>
+                    <p class="ran2bag-faq-a">You can confirm your booking by calling our logistics hotline at 9835565233 or 9835565233. We recommend booking 2 to 3 days in advance to reserve your preferred moving date and dedicated container vehicle.</p>
                 </div>
             </div>
         </div>
@@ -786,7 +828,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "image": "<?php echo $og_image; ?>",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+918409531615",
+        "telephone": "+919835565233",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
@@ -943,7 +985,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                 "name": "How do I book my moving date with Shree Ashirwad Packers?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "You can confirm your booking by calling our logistics hotline at 8409531615 or 9835565233. We recommend booking 2 to 3 days in advance to reserve your preferred moving date and dedicated container vehicle."
+                    "text": "You can confirm your booking by calling our logistics hotline at 9835565233 or 9835565233. We recommend booking 2 to 3 days in advance to reserve your preferred moving date and dedicated container vehicle."
                 }
             }
         ]

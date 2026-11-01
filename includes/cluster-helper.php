@@ -12,7 +12,7 @@
 $jharkhand_district_clusters = [
     'ranchi' => [
         'name' => 'Ranchi',
-        'url' => '/',
+        'url' => '/packers-and-movers-in-ranchi',
         'children' => [
             'angada' => [
                 'name' => 'Angada',

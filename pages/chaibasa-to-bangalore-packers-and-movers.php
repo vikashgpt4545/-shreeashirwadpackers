@@ -1,33 +1,383 @@
 <?php
-// Dynamic SEO Configuration for Chaibasa to Bangalore Relocation Corridor
-$page_title = "Chaibasa to Bangalore Packers and Movers | Safe Interstate Household & Vehicle Shifting";
-$page_description = "Reliable packers and movers from Chaibasa to Bangalore. 100% safe household goods shifting, car & bike transport, multi-layer packing, GPS tracking & transit insurance. Call +91 9835565233for free survey.";
-$canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers-and-movers";
+/**
+ * Page Name: Chaibasa to Bangalore Packers and Movers
+ * Route Slug: chaibasa-to-bangalore-packers-and-movers
+ * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Chaibasa to Bangalore.
+ * Focus Keywords: chaibasa to bangalore packers and movers, packers and movers chaibasa to bangalore, house shifting chaibasa to bangalore, car carrier chaibasa to bangalore, bike transport chaibasa to bangalore, household moving chaibasa bangalore
+ */
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/includes/config.php';
+}
+
+$page_title = "Chaibasa to Bangalore Packers and Movers | Reliable Shifting Services";
+$page_desc = "Safe Chaibasa to Bangalore packers and movers. 1760 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
+$canonical_url = "https://www.shreeashirwadpackers.com/chaibasa-to-bangalore-packers-and-movers";
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $page_title; ?></title>
-    <meta name="description" content="<?php echo $page_description; ?>">
-    <meta name="keywords" content="chaibasa to bangalore packers and movers, packers and movers from chaibasa to bangalore, chaibasa to bengaluru luggage shifting, bike transport chaibasa to bangalore, household shifting chaibasa to bangalore">
+    <title><?php echo htmlspecialchars($page_title); ?></title>
+    <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="chaibasa to bangalore packers and movers, packers and movers chaibasa to bangalore, house shifting chaibasa to bangalore, car carrier chaibasa to bangalore, bike transport chaibasa to bangalore, household moving chaibasa bangalore">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <meta name="robots" content="index, follow">
+    <meta name="geo.region" content="IN-JH">
+    <meta name="geo.placename" content="Chaibasa">
+
+    <!-- Open Graph Metadata -->
+    <meta property="og:type" content="business.business">
+    <meta property="og:title" content="<?php echo htmlspecialchars($page_title); ?>">
+    <meta property="og:description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta property="og:url" content="<?php echo $canonical_url; ?>">
+    <meta property="og:image" content="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg">
+    <meta property="og:site_name" content="Shree Ashirwad Packers and Movers">
+    <meta property="og:locale" content="en_IN">
+
+    <!-- Twitter Card Metadata -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo htmlspecialchars($page_title); ?>">
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="twitter:image" content="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg">
+
+    <!-- Favicon & Stylesheets -->
+    <link rel="icon" type="image/png" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
+    <link rel="shortcut icon" href="<?php echo SITE_BASE_URL; ?>/favicon.ico">
+    <link rel="apple-touch-icon" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
+
+    <!-- Scoped CSS for Chaibasa to Bangalore -->
+    <style>
+        :root {
+            --c_cha_ban-primary: #1e3a8a;
+            --c_cha_ban-secondary: #0284c7;
+            --c_cha_ban-accent: #0284c7;
+            --c_cha_ban-accent-light: #e0f2fe;
+            --c_cha_ban-dark: #0f172a;
+            --c_cha_ban-gray-bg: #f8fafc;
+            --c_cha_ban-border: #e2e8f0;
+            --c_cha_ban-shadow: 0 10px 25px -5px rgba(30, 58, 138, 0.08), 0 8px 10px -6px rgba(30, 58, 138, 0.04);
+        }
+
+        .c_cha_ban-hero {
+            background: linear-gradient(135deg, rgba(15, 23, 42, 0.94) 0%, rgba(30, 58, 138, 0.90) 100%),
+                        url('<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg') center/cover no-repeat;
+            color: #ffffff;
+            padding: 85px 0 65px;
+            position: relative;
+        }
+
+        .c_cha_ban-hero h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.75rem;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 20px;
+        }
+
+        .c_cha_ban-hero p.lead {
+            font-size: 1.15rem;
+            line-height: 1.7;
+            color: #e2e8f0;
+            max-width: 820px;
+            margin-bottom: 28px;
+        }
+
+        .c_cha_ban-badge-strip {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 30px;
+        }
+
+        .c_cha_ban-badge {
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.22);
+            color: #ffffff;
+            padding: 7px 16px;
+            border-radius: 9999px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .c_cha_ban-cta-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            align-items: center;
+        }
+
+        .c_cha_ban-btn-primary {
+            background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+            color: #ffffff;
+            font-weight: 700;
+            padding: 14px 32px;
+            border-radius: 10px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            box-shadow: 0 4px 14px rgba(2, 132, 199, 0.35);
+            transition: all 0.3s ease;
+        }
+
+        .c_cha_ban-btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(2, 132, 199, 0.45);
+            color: #ffffff;
+        }
+
+        .c_cha_ban-btn-secondary {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(6px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: #ffffff;
+            font-weight: 600;
+            padding: 14px 28px;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .c_cha_ban-btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.25);
+            color: #ffffff;
+        }
+
+        .c_cha_ban-section {
+            padding: 70px 0;
+        }
+
+        .c_cha_ban-section-gray {
+            background-color: var(--c_cha_ban-gray-bg);
+        }
+
+        .c_cha_ban-heading-center {
+            text-align: center;
+            max-width: 820px;
+            margin: 0 auto 50px;
+        }
+
+        .c_cha_ban-heading-center h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.25rem;
+            font-weight: 800;
+            color: var(--c_cha_ban-dark);
+            margin-bottom: 14px;
+        }
+
+        .c_cha_ban-heading-center p {
+            font-size: 1.05rem;
+            color: #64748b;
+            line-height: 1.65;
+        }
+
+        .c_cha_ban-grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 28px;
+        }
+
+        .c_cha_ban-grid-2 {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 36px;
+            align-items: center;
+        }
+
+        .c_cha_ban-card {
+            background: #ffffff;
+            border-radius: 14px;
+            border: 1px solid var(--c_cha_ban-border);
+            padding: 30px;
+            box-shadow: var(--c_cha_ban-shadow);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .c_cha_ban-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 15px 30px -5px rgba(30, 58, 138, 0.12);
+        }
+
+        .c_cha_ban-card-icon {
+            width: 54px;
+            height: 54px;
+            border-radius: 12px;
+            background: var(--c_cha_ban-accent-light);
+            color: var(--c_cha_ban-accent);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        .c_cha_ban-card h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: var(--c_cha_ban-dark);
+            margin-bottom: 12px;
+        }
+
+        .c_cha_ban-card p {
+            color: #475569;
+            font-size: 0.96rem;
+            line-height: 1.65;
+        }
+
+        .c_cha_ban-table-container {
+            background: #ffffff;
+            border-radius: 14px;
+            border: 1px solid var(--c_cha_ban-border);
+            overflow-x: auto;
+            box-shadow: var(--c_cha_ban-shadow);
+            margin: 35px 0;
+        }
+
+        .c_cha_ban-table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        .c_cha_ban-table th {
+            background: #0f172a;
+            color: #ffffff;
+            font-weight: 700;
+            padding: 16px 20px;
+            font-size: 0.98rem;
+        }
+
+        .c_cha_ban-table td {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--c_cha_ban-border);
+            color: #334155;
+            font-size: 0.95rem;
+        }
+
+        .c_cha_ban-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .c_cha_ban-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        .c_cha_ban-checklist {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0;
+        }
+
+        .c_cha_ban-checklist li {
+            position: relative;
+            padding-left: 28px;
+            margin-bottom: 12px;
+            color: #334155;
+            font-size: 0.98rem;
+            line-height: 1.6;
+        }
+
+        .c_cha_ban-checklist li::before {
+            content: "\2713";
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #10b981;
+            font-weight: 800;
+            font-size: 1.1rem;
+        }
+
+        .c_cha_ban-img-wrap {
+            border-radius: 14px;
+            overflow: hidden;
+            box-shadow: var(--c_cha_ban-shadow);
+        }
+
+        .c_cha_ban-img-wrap img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.4s ease;
+        }
+
+        .c_cha_ban-img-wrap:hover img {
+            transform: scale(1.03);
+        }
+
+        .c_cha_ban-faq-item {
+            background: #ffffff;
+            border-radius: 12px;
+            border: 1px solid var(--c_cha_ban-border);
+            padding: 24px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        }
+
+        .c_cha_ban-faq-item h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--c_cha_ban-dark);
+            margin-bottom: 10px;
+        }
+
+        .c_cha_ban-faq-item p {
+            color: #475569;
+            font-size: 0.96rem;
+            line-height: 1.65;
+            margin: 0;
+        }
+
+        @media (max-width: 991px) {
+            .c_cha_ban-grid-3 {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .c_cha_ban-grid-2 {
+                grid-template-columns: 1fr;
+            }
+            .c_cha_ban-hero h1 {
+                font-size: 2.2rem;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .c_cha_ban-grid-3 {
+                grid-template-columns: 1fr;
+            }
+            .c_cha_ban-hero {
+                padding: 60px 0 45px;
+            }
+            .c_cha_ban-hero h1 {
+                font-size: 1.85rem;
+            }
+        }
+    </style>
 
     <!-- Schema 1: MovingCompany -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Chaibasa to Bangalore Service",
-        "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "name": "Shree Ashirwad Packers and Movers - Chaibasa to Bangalore",
+        "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+        "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
-        "priceRange": "₹16,500 - ₹58,000",
+        "telephone": "+919835565233",
+        "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Main Road, Near Sadar Hospital Chowk",
+            "streetAddress": "Sadar Bazar Main Road",
             "addressLocality": "Chaibasa",
             "addressRegion": "Jharkhand",
             "postalCode": "833201",
@@ -35,55 +385,8 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 22.5517,
+            "latitude": 22.5539,
             "longitude": 85.8078
-        },
-        "openingHoursSpecification": {
-            "@type": "OpeningHoursSpecification",
-            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-            "opens": "07:00",
-            "closes": "22:00"
-        }
-    }
-    </script>
-
-    <!-- Schema 2: BreadcrumbList -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
-            },
-            {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Packers and Movers in Chaibasa",
-                "item": "https://shreeashirwadpackers.com/packers-and-movers-in-chaibasa"
-            },
-            {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "Chaibasa to Bangalore",
-                "item": "<?php echo $canonical_url; ?>"
-            }
-        ]
-    }
-    </script>
-
-    <!-- Schema 3: Service -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Interstate Relocation from Chaibasa to Bangalore",
-        "provider": {
-            "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
         },
         "areaServed": [
             {
@@ -95,7 +398,92 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
                 "name": "Bangalore"
             }
         ],
-        "description": "Comprehensive long-distance moving service connecting Chaibasa (West Singhbhum) to Bangalore with sealed container trucks, multi-layer furniture packaging, car carriers, and transit insurance."
+        "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+        }
+    }
+    </script>
+
+    <!-- Schema 2: Service -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Interstate Relocation & Household Shifting",
+        "provider": {
+            "@type": "MovingCompany",
+            "name": "Shree Ashirwad Packers and Movers"
+        },
+        "areaServed": {
+            "@type": "City",
+            "name": "Bangalore, Karnataka"
+        },
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Chaibasa to Bangalore Moving Packages",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Chaibasa to Bangalore Household Shifting"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Chaibasa to Bangalore Car Carrier & Bike Transport"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Corporate & Industrial Relocation Billing"
+                    }
+                }
+            ]
+        }
+    }
+    </script>
+
+    <!-- Schema 3: BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "<?php echo SITE_BASE_URL; ?>/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Interstate Relocation",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Chaibasa to Bangalore Shifting",
+                "item": "<?php echo $canonical_url; ?>"
+            }
+        ]
     }
     </script>
 
@@ -107,468 +495,627 @@ $canonical_url = "https://shreeashirwadpackers.com/chaibasa-to-bangalore-packers
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is the transit time for household shifting from Chaibasa to Bangalore?",
+                "name": "What is the road distance and transit duration from Chaibasa to Bangalore?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The highway transit distance between Chaibasa and Bangalore is approximately 1,650 km via NH-16 / NH-44. A dedicated container truck takes 4 to 6 days, while shared part-load consignments are typically delivered within 6 to 8 days."
+                    "text": "The highway distance between Chaibasa and Bangalore is approximately 1760 km via National Highway Corridor. Dedicated closed container trucks typically complete this transit in 44 - 56 hours."
                 }
             },
             {
                 "@type": "Question",
-                "name": "How much does it cost to move household goods from Chaibasa to Bangalore?",
+                "name": "What are the shifting charges from Chaibasa to Bangalore?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Shifting costs vary by volume: 1 BHK flat ranges between ₹16,500 and ₹26,000; a standard 2 BHK costs ₹24,000 to ₹38,000; and a 3 BHK household move ranges from ₹34,000 to ₹58,000, including packing labor, transport, and doorstep delivery."
+                    "text": "Estimated costs range from Rs 24,040 - 34,858 for 1 BHK apartments, Rs 32,780 - 47,531 for 2 BHK homes, and Rs 44,080 - 63,916 for 3 BHK residences, covering 5-layer packing, container freight, tolls, and doorstep unloading."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Do you provide car and two-wheeler transport from Chaibasa to Bangalore?",
+                "name": "Do you provide claimable GST invoices for corporate and government transfers?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, we provide enclosed hydraulic car carriers and customized two-wheeler crating services from Chaibasa to all tech corridors in Bangalore including Whitefield, Electronic City, Sarjapur, and HSR Layout."
+                    "text": "Yes, Shree Ashirwad Packers and Movers provides 100% authentic GST invoices, detailed itemized inventories, consignment notes (bilty), and IBA-compliant receipts recognized across corporate, public sector, and defense organizations."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Is transit insurance mandatory for the Chaibasa to Bangalore route?",
+                "name": "How are cars and motorcycles transported from Chaibasa to Bangalore?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "While optional, we strongly recommend comprehensive 100% all-risk transit insurance given the long 1,650 km highway journey. Our policy covers road accidents, theft, and natural perils at an economical premium of 3% of declared value."
+                    "text": "Vehicles are safely transported in enclosed hydraulic car carrier trailers and custom wooden motorcycle crates with wheel chocks, security harness straps, and comprehensive transit insurance."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which areas in Chaibasa and Bangalore do you cover?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In Chaibasa, we cover Sadar Bazar, Court Road, Collectorate Campus, Post Office Chowk and Nimdih, Gandhi Tola, Tungri, Mahulsai. In Bangalore, we deliver across Whitefield, Electronic City, Outer Ring Road, Marathahalli, Bellandur and Indiranagar, Koramangala, HSR Layout, Jayanagar, JP Nagar."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is transit insurance available for Chaibasa to Bangalore moves?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we provide comprehensive transit risk insurance covering unexpected highway accidents, external impacts, and adverse weather conditions with hassle-free claim settlement."
                 }
             }
         ]
     }
     </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"], .c_cha_ban-img-wrap {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
 
-    <style>
-        .cbg-page-wrap {
-            color: #2c3e50;
-            line-height: 1.7;
-            font-family: inherit;
-        }
-        .cbg-hero-banner {
-            background: linear-gradient(135deg, #1b3a4b 0%, #006466 100%);
-            color: #ffffff;
-            padding: 60px 20px;
-            text-align: center;
-        }
-        .cbg-hero-title {
-            font-size: 2.3rem;
-            font-weight: 800;
-            margin-bottom: 16px;
-            line-height: 1.25;
-            color: #ffffff;
-        }
-        .cbg-hero-subtitle {
-            font-size: 1.15rem;
-            max-width: 850px;
-            margin: 0 auto 24px;
-            color: #e0f2f1;
-        }
-        .cbg-cta-btn {
-            display: inline-block;
-            background: #e76f51;
-            color: #ffffff;
-            padding: 13px 30px;
-            font-size: 1.05rem;
-            font-weight: 700;
-            border-radius: 6px;
-            text-decoration: none;
-            transition: background 0.3s ease;
-        }
-        .cbg-cta-btn:hover {
-            background: #d45d40;
-        }
-        .cbg-container {
-            max-width: 1140px;
-            margin: 0 auto;
-            padding: 40px 20px;
-        }
-        .cbg-grid-2 {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 36px;
-            align-items: center;
-            margin-bottom: 40px;
-        }
-        @media (max-width: 768px) {
-            .cbg-grid-2 {
-                grid-template-columns: 1fr;
-            }
-            .cbg-hero-title {
-                font-size: 1.8rem;
-            }
-        }
-        .cbg-image-box {
-            max-width: 580px;
-            margin: 24px auto;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-        }
-        .cbg-image-box img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-        .cbg-caption {
-            font-size: 0.88rem;
-            color: #64748b;
-            text-align: center;
-            padding: 8px 12px;
-            background: #f8fafc;
-        }
-        .cbg-section-title {
-            font-size: 1.85rem;
-            font-weight: 700;
-            color: #1b3a4b;
-            margin-bottom: 20px;
-            position: relative;
-            padding-bottom: 10px;
-        }
-        .cbg-section-title::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 60px;
-            height: 4px;
-            background: #e76f51;
-            border-radius: 2px;
-        }
-        .cbg-table-wrap {
-            overflow-x: auto;
-            margin: 28px 0;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.06);
-            border-radius: 8px;
-        }
-        .cbg-table {
-            width: 100%;
-            border-collapse: collapse;
-            background: #ffffff;
-            text-align: left;
-        }
-        .cbg-table th {
-            background: #1b3a4b;
-            color: #ffffff;
-            padding: 14px 16px;
-            font-size: 0.95rem;
-        }
-        .cbg-table td {
-            padding: 12px 16px;
-            border-bottom: 1px solid #e2e8f0;
-            font-size: 0.92rem;
-        }
-        .cbg-table tr:nth-child(even) {
-            background: #f8fafc;
-        }
-        .cbg-card-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 22px;
-            margin: 30px 0;
-        }
-        .cbg-card {
-            background: #ffffff;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            padding: 24px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-            border-top: 4px solid #1b3a4b;
-        }
-        .cbg-card h3 {
-            font-size: 1.18rem;
-            color: #1b3a4b;
-            margin-bottom: 12px;
-            font-weight: 700;
-        }
-        .cbg-card p {
-            font-size: 0.92rem;
-            color: #4a5568;
-            margin: 0;
-        }
-        .cbg-highlight-box {
-            background: #e0f2f1;
-            border-left: 5px solid #006466;
-            padding: 22px;
-            border-radius: 0 8px 8px 0;
-            margin: 28px 0;
-        }
-        .cbg-highlight-box h4 {
-            margin-top: 0;
-            color: #0b525b;
-            font-size: 1.15rem;
-            margin-bottom: 10px;
-        }
-        .cbg-faq-wrap {
-            margin-top: 40px;
-        }
-        .cbg-faq-item {
-            background: #ffffff;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            margin-bottom: 16px;
-            padding: 20px;
-        }
-        .cbg-faq-item h4 {
-            font-size: 1.1rem;
-            color: #1b3a4b;
-            margin-top: 0;
-            margin-bottom: 8px;
-        }
-        .cbg-faq-item p {
-            margin: 0;
-            color: #4a5568;
-            font-size: 0.94rem;
-        }
-        .cbg-cluster-links {
-            background: #f8fafc;
-            border: 1px solid #cbd5e1;
-            border-radius: 8px;
-            padding: 24px;
-            margin-top: 40px;
-        }
-        .cbg-cluster-links h4 {
-            font-size: 1.2rem;
-            color: #1b3a4b;
-            margin-top: 0;
-            margin-bottom: 16px;
-        }
-        .cbg-cluster-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 12px;
-        }
-        .cbg-cluster-grid a {
-            color: #1b3a4b;
-            text-decoration: none;
-            font-size: 0.92rem;
-            font-weight: 600;
-            padding: 6px 0;
-            display: block;
-        }
-        .cbg-cluster-grid a:hover {
-            color: #e76f51;
-            text-decoration: underline;
-        }
-    </style>
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img, .c_cha_ban-img-wrap img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"], .c_cha_ban-img-wrap {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img, .c_cha_ban-img-wrap img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include __DIR__ . '/includes/header.php'; ?>
 
-<div class="cbg-page-wrap">
+<!-- Hero Section -->
+<section class="c_cha_ban-hero">
+    <div class="container">
+        <div class="c_cha_ban-badge-strip">
+            <span class="c_cha_ban-badge">&#9733; 1760 KM Express Interstate Corridor</span>
+            <span class="c_cha_ban-badge">&#128666; Sealed All-Weather Closed Containers</span>
+            <span class="c_cha_ban-badge">&#128196; Corporate &amp; PSU Claim Invoices</span>
+            <span class="c_cha_ban-badge">&#128338; Fast 44 - 56 Hour Transit Delivery</span>
+        </div>
+        <h1>Packers and Movers from Chaibasa to Bangalore</h1>
+        <p class="lead">
+            Dependable, insured, and professional household shifting, vehicle transport, and corporate relocation services connecting Chaibasa to Bangalore. Experience 5-layer protective packaging, dedicated closed container trucks, and seamless doorstep delivery.
+        </p>
+        <div class="c_cha_ban-cta-group">
+            <a href="tel:+919835565233" class="c_cha_ban-btn-primary">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                Call Hotline: 084095 31615
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="c_cha_ban-btn-secondary">
+                Request Express Moving Quote &rarr;
+            </a>
+        </div>
+    </div>
+</section>
 
-    <!-- Hero Section -->
-    <section class="cbg-hero-banner">
-        <h1 class="cbg-hero-title">Chaibasa to Bangalore Packers and Movers</h1>
-        <p class="cbg-hero-subtitle">Specialized Long-Distance Relocation Connecting West Singhbhum with India's Silicon Valley. Sealed Weatherproof Containers, 4-Layer Packaging, GPS Tracking & Doorstep Delivery.</p>
-        <a href="tel:+919835565233" class="cbg-cta-btn">Get Free Route Estimate: +91 9835565233</a>
-    </section>
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+            <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                Packers and Movers from Chaibasa to Bangalore
+            </h3>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Looking for the <strong>best packers and movers from Chaibasa to Bangalore</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Chaibasa and Bangalore with timely delivery support.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                As one of the <strong>top-rated packers and movers near Chaibasa</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                We cover major localities in Chaibasa and Bangalore along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Whether you need <strong>local shifting in Chaibasa</strong>, intercity relocation to Bangalore, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Customers choose our <strong>movers and packers service from Chaibasa to Bangalore</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Chaibasa to Bangalore</strong> delivers affordable, safe, and stress-free relocation services.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                If you are searching for reliable <strong>movers and packers near me from Chaibasa to Bangalore</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                Our <strong>professional packers and movers service from Chaibasa to Bangalore</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Chaibasa to Bangalore</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+            </p>
+        </div>
+    </div>
+</section>
 
-    <!-- Main Container -->
-    <div class="cbg-container">
-
-        <!-- Section 1: Introduction & Corridor Overview -->
-        <div class="cbg-grid-2">
+<!-- Route Overview Section -->
+<section class="c_cha_ban-section">
+    <div class="container">
+        <div class="c_cha_ban-grid-2">
             <div>
-                <h2 class="cbg-section-title">Reliable Relocation from Chaibasa to Bengaluru</h2>
-                <p>Relocating across a 1,650-kilometer interstate highway from Chaibasa (the administrative headquarters of West Singhbhum) to Bangalore demands experienced logistics management, robust packaging engineering, and dependable long-haul container trucks. Whether you are an engineer or corporate professional moving to Bangalore’s IT technology corridors (Whitefield, Electronic City, Bellandur, Marathahalli), a mining officer transferring from West Singhbhum, or a student heading to southern universities, our service ensures a seamless journey.</p>
-                <p><strong>Shree Ashirwad Packers and Movers</strong> has operated on the Jharkhand-to-Karnataka interstate corridor for more than 16 years. We understand the specific terrain challenges of moving from Kolhan’s hilly hinterlands across the Eastern Ghats into Bangalore’s bustling tech hubs.</p>
-                <p>We provide complete turnkey support: pre-move packing at your Chaibasa residence, heavy double-corrugated crating, loading using hydraulic equipment, seamless interstate RTO checkpost documentation, GPS highway telemetry, and doorstep unpacking in Bangalore.</p>
+                <span style="color: var(--c_cha_ban-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Connecting Chaibasa with Bangalore</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_cha_ban-dark); margin: 10px 0 20px;">
+                    Express 1760 KM Interstate Moving from Chaibasa to Bangalore
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    Relocating between Chaibasa and Bangalore connects Jharkhand&rsquo;s commercial centers with Karnataka&rsquo;s premier industrial and administrative hubs. Direct highway transit along National Highway Corridor connecting Chaibasa across Jharkhand with Bangalore in Karnataka, traversing monitored toll checkpoints.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    At <strong>Shree Ashirwad Packers and Movers</strong>, we execute this high-demand transit route with exceptional reliability. Our dedicated closed container vehicles operate on scheduled departures from Chaibasa, navigating directly along national highway corridors to deliver your household possessions safely in Bangalore within 44 - 56 hours.
+                </p>
+                <ul class="c_cha_ban-checklist">
+                    <li>Doorstep pickup across all Chaibasa neighborhoods with specialized packing crews</li>
+                    <li>Advanced 5-layer protective packaging safeguarding furniture, glassware, and electronics</li>
+                    <li>Direct container transit via National Highway Corridor with guaranteed delivery schedules</li>
+                    <li>Complete room setup, furniture reassembly, and packaging debris collection in Bangalore</li>
+                </ul>
             </div>
-            <div>
-                <div class="cbg-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Chaibasa to Bangalore relocation" width="580" height="387">
-                    <div class="cbg-caption">Sealed containerized trucks engineered for 1,650 km interstate highway transit</div>
-                </div>
+            <div class="c_cha_ban-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Chaibasa to Bangalore Container Truck Relocation">
             </div>
         </div>
+    </div>
+</section>
 
-        <!-- Section 2: Key Corridor Features -->
-        <h2 class="cbg-section-title">Why Trust Shree Ashirwad for Chaibasa to Bangalore</h2>
-        <p>A 1,650 km move requires superior safeguards compared to local intra-city shifts:</p>
-
-        <div class="cbg-card-grid">
-            <div class="cbg-card">
-                <h3>Heavy-Duty 4-Layer Packing</h3>
-                <p>We use virgin air-bubble film, 80 GSM foam padding, corrugated corner guards, and water-resistant shrink wrap to prevent highway vibration damage.</p>
-            </div>
-            <div class="cbg-card">
-                <h3>Dedicated & Shared Truck Options</h3>
-                <p>Choose exclusive full-truck containers for express 4-day delivery, or economical part-load shared transit for smaller 1 BHK apartments and luggage.</p>
-            </div>
-            <div class="cbg-card">
-                <h3>Live GPS Telemetry Updates</h3>
-                <p>Track your shipment's progress across Odisha, Andhra Pradesh, and Karnataka highways with 24/7 coordinates and scheduled checkpost pings.</p>
-            </div>
-            <div class="cbg-card">
-                <h3>Tech Corridor Doorstep Delivery</h3>
-                <p>Direct delivery across all Bangalore zones: Whitefield, HSR Layout, Koramangala, Indiranagar, Electronic City, Yelahanka, and Hebbal.</p>
-            </div>
+<!-- Core Shifting Services Grid -->
+<section class="c_cha_ban-section c_cha_ban-section-gray">
+    <div class="container">
+        <div class="c_cha_ban-heading-center">
+            <h2>Comprehensive Shifting Services: Chaibasa to Bangalore</h2>
+            <p>
+                Engineered for corporate executives, public sector employees, industrial managers, and residential families.
+            </p>
         </div>
 
-        <!-- Section 3: Tariff Matrix -->
-        <h2 class="cbg-section-title">Chaibasa to Bangalore Shifting Cost Estimate</h2>
-        <p>Transparent pricing schedule with clear breakdown of packing, freight, and optional insurance:</p>
+        <div class="c_cha_ban-grid-3">
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#127968;</div>
+                <h3>Complete Home Relocation</h3>
+                <p>
+                    Full packing of furniture, appliances, crockery, wardrobes, and electronics using heavy-gauge cartons and multi-ply bubble wrap. Safely delivered to your new residence in Bangalore.
+                </p>
+            </div>
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#128663;</div>
+                <h3>Enclosed Car Transport</h3>
+                <p>
+                    Enclosed car trailers designed to transfer hatchbacks, sedans, and SUVs from Chaibasa to Bangalore safely without adding highway miles or risking gravel chips.
+                </p>
+            </div>
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#127949;</div>
+                <h3>Two-Wheeler Bike Shipping</h3>
+                <p>
+                    Specialized motorcycle transit utilizing multi-layer bubble wrap, handle padding, wheel chocks, and nylon harness belts to guarantee scratch-free delivery.
+                </p>
+            </div>
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#128188;</div>
+                <h3>Corporate &amp; PSU Billing</h3>
+                <p>
+                    100% authentic GST invoices, detailed item inventories, consignment notes (bilty), and IBA-approved documentation compliant with corporate and government reimbursement policies.
+                </p>
+            </div>
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#128230;</div>
+                <h3>Part Load &amp; Single Room Moves</h3>
+                <p>
+                    Affordable sharing and single-room relocation options for students and working professionals relocating with minimal luggage along this corridor.
+                </p>
+            </div>
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#128737;</div>
+                <h3>Transit Risk Insurance</h3>
+                <p>
+                    Comprehensive optional transit insurance policy covering accidental damages, road perils, and external impacts with transparent claim settlement support.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        <div class="cbg-table-wrap">
-            <table class="cbg-table">
+<!-- Visual Feature Strip: Packaging Standards -->
+<section class="c_cha_ban-section">
+    <div class="container">
+        <div class="c_cha_ban-grid-2">
+            <div class="c_cha_ban-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Packing Chaibasa to Bangalore">
+            </div>
+            <div>
+                <span style="color: var(--c_cha_ban-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Engineered Defensive Packaging</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_cha_ban-dark); margin: 10px 0 20px;">
+                    Five-Layer Protective Packaging for National Highway Corridor Highway Transit
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    The 1760 km highway route across National Highway Corridor features varied highway speeds and road conditions. Flawless packaging is essential to absorb mechanical vibration and protect delicate finishes against abrasions.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    Our certified packing team enforces rigorous material standards:
+                </p>
+                <ul class="c_cha_ban-checklist">
+                    <li><strong>Cling Film Barrier:</strong> Non-static stretch wrap shielding wood finishes, leather upholstery, and fabrics against dirt and humidity.</li>
+                    <li><strong>Bubble Cushioning:</strong> Multi-ply air bubble sheets wrapped tightly around LED screens, audio equipment, and kitchen electronics.</li>
+                    <li><strong>Edge Reinforcement:</strong> Heavy corrugated corner pads preventing abrasions and chipping on polished dining tables and wardrobe doors.</li>
+                    <li><strong>7-Ply Master Cartons:</strong> Heavy-duty corrugated boxes designed to bear stack weight during transport without buckling.</li>
+                    <li><strong>Color-Coded Labeling:</strong> Clear identification tags on every box specifying room allocation and handling cautions.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Shifting Rates Table -->
+<section class="c_cha_ban-section c_cha_ban-section-gray">
+    <div class="container">
+        <div class="c_cha_ban-heading-center">
+            <h2>Chaibasa to Bangalore Moving Rates &amp; Price Estimates</h2>
+            <p>
+                Upfront, transparent quotes without hidden fuel surcharges or last-minute loading fees.
+            </p>
+        </div>
+
+        <div class="c_cha_ban-table-container">
+            <table class="c_cha_ban-table">
                 <thead>
                     <tr>
-                        <th>Move Size / Requirement</th>
-                        <th>Packaging Materials Used</th>
-                        <th>Crew & Loading Handlers</th>
-                        <th>Shared Truck (Part-Load)</th>
-                        <th>Dedicated Truck (Full Load)</th>
+                        <th>Move Type / Household Size</th>
+                        <th>Packing Material &amp; Labor</th>
+                        <th>Transport / Container Cost</th>
+                        <th>Estimated Total (&#8377;)</th>
+                        <th>Transit Time</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td><strong>1 BHK Apartment</strong></td>
-                        <td>3-Ply & 5-Ply Cartons + Bubble Wrap</td>
-                        <td>2 Packers + 2 Handlers</td>
-                        <td>₹16,500 - ₹22,000</td>
-                        <td>₹26,000 - ₹34,000</td>
+                        <td><strong>1 RK / Studio Setup</strong></td>
+                        <td>&#8377; 2,500 - 3,750</td>
+                        <td>&#8377; 14,960 - 21,692</td>
+                        <td><strong>&#8377; 17,460 - 25,317</strong></td>
+                        <td>44 - 56 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>2 BHK Apartment</strong></td>
-                        <td>Heavy Corrugated Sheets + Foam Wrap</td>
-                        <td>3 Packers + 3 Handlers</td>
-                        <td>₹24,000 - ₹32,000</td>
-                        <td>₹36,000 - ₹46,000</td>
+                        <td><strong>1 BHK Complete Home</strong></td>
+                        <td>&#8377; 3,800 - 5,890</td>
+                        <td>&#8377; 20,240 - 29,348</td>
+                        <td><strong>&#8377; 24,040 - 34,858</strong></td>
+                        <td>44 - 56 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>3 BHK / Villa</strong></td>
-                        <td>Custom Wooden Crates + Double Bubble</td>
-                        <td>4 Packers + 4 Handlers</td>
-                        <td>₹34,000 - ₹44,000</td>
-                        <td>₹48,000 - ₹62,000</td>
+                        <td><strong>2 BHK Residential Flat</strong></td>
+                        <td>&#8377; 5,500 - 8,800</td>
+                        <td>&#8377; 27,280 - 39,556</td>
+                        <td><strong>&#8377; 32,780 - 47,531</strong></td>
+                        <td>44 - 56 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>Bike / Two-Wheeler Transport</strong></td>
-                        <td>Tyre Protectors + Foam Blanket Wrap</td>
-                        <td>Specialized Bike Dolly</td>
-                        <td>₹4,500 - ₹7,500</td>
-                        <td>Included in House Move</td>
+                        <td><strong>3 BHK Independent Home</strong></td>
+                        <td>&#8377; 8,000 - 12,800</td>
+                        <td>&#8377; 36,080 - 52,316</td>
+                        <td><strong>&#8377; 44,080 - 63,916</strong></td>
+                        <td>44 - 56 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>Car Transportation (Hatchback/SUV)</strong></td>
-                        <td>Enclosed Car Carrier + Wheel Chocks</td>
-                        <td>Professional Car Transporter</td>
-                        <td>₹14,500 - ₹22,000</td>
-                        <td>Dedicated Carrier Slot</td>
+                        <td><strong>Two-Wheeler (Bike / Scooter)</strong></td>
+                        <td>&#8377; 900 - 1,500</td>
+                        <td>&#8377; 6,688 - 9,856</td>
+                        <td><strong>&#8377; 7,744 - 11,968</strong></td>
+                        <td>2 - 4 Days</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Car Transport (Sedan / SUV)</strong></td>
+                        <td>&#8377; 1,500 - 2,800</td>
+                        <td>&#8377; 16,720 - 25,520</td>
+                        <td><strong>&#8377; 19,008 - 29,040</strong></td>
+                        <td>2 - 4 Days</td>
                     </tr>
                 </tbody>
             </table>
         </div>
+        <p style="text-align: center; color: #64748b; font-size: 0.92rem; margin-top: -10px;">
+            * Estimates reflect standard moving scopes. Final quotes depend on exact item count, floor levels, elevator access, and optional insurance choice.
+        </p>
+    </div>
+</section>
 
-        <div class="cbg-highlight-box">
-            <h4>Need to Calculate Exact Distance Freight Charges?</h4>
-            <p>Use our interactive <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Packers and Movers Cost Calculator</a> or inspect standard per-kilometer rates on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Guide</a>.</p>
+<!-- Visual Feature Strip: Vehicle Carrier -->
+<section class="c_cha_ban-section">
+    <div class="container">
+        <div class="c_cha_ban-grid-2">
+            <div>
+                <span style="color: var(--c_cha_ban-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Secure Automobile Transit</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_cha_ban-dark); margin: 10px 0 20px;">
+                    Enclosed Car Carrier &amp; Safe Bike Transportation
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    Avoid heavy highway traffic, toll queues, and unnecessary vehicle depreciation across the 1760 km journey by utilizing our closed car and bike transit solutions between Chaibasa and Bangalore.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    Each vehicle undergoes an inspection audit prior to dispatch from Chaibasa, documenting body panels, existing paint status, and fuel levels:
+                </p>
+                <ul class="c_cha_ban-checklist">
+                    <li>Specialized wheel stops and hydraulic deck locks to prevent vehicle movement inside carriers</li>
+                    <li>Individual foam cushioning on motorcycle handles, headlamps, mirrors, and exhaust pipes</li>
+                    <li>Comprehensive vehicle transit insurance for total financial peace of mind</li>
+                    <li>Prompt collection in Chaibasa and direct delivery to your doorstep in Bangalore</li>
+                </ul>
+            </div>
+            <div class="c_cha_ban-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Chaibasa to Bangalore Vehicle Transport Carrier">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Highway Logistics Section -->
+<section class="c_cha_ban-section c_cha_ban-section-gray">
+    <div class="container">
+        <div class="c_cha_ban-heading-center">
+            <h2>Chaibasa to Bangalore Highway Logistics &amp; Travel Corridor</h2>
+            <p>
+                Proven highway routing along National Highway Corridor guarantees punctual, monitored transit across states.
+            </p>
         </div>
 
-        <!-- Section 4: Highway Route and Operational Logistics -->
-        <div class="cbg-grid-2">
-            <div>
-                <div class="cbg-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity truck loading for Chaibasa to Bangalore shifting" width="580" height="387">
-                    <div class="cbg-caption">Systematic loading and cargo weight distribution for safe highway stability</div>
-                </div>
+        <div class="c_cha_ban-grid-3">
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#128506;</div>
+                <h3>Primary Route via National Highway Corridor</h3>
+                <p>
+                    Direct highway transit along National Highway Corridor connecting Chaibasa across Jharkhand with Bangalore in Karnataka, traversing monitored toll checkpoints. Total highway distance is approximately 1760 km traversed in 44 - 56 hours with scheduled transit stops.
+                </p>
+            </div>
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#128678;</div>
+                <h3>Dual-Driver Crews &amp; Transit Schedules</h3>
+                <p>
+                    For long highway corridors, our operations team deploys experienced two-driver crews operating in rotating shifts to maintain continuous transit without driver fatigue.
+                </p>
+            </div>
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#128667;</div>
+                <h3>GPS-Monitored Closed Containers</h3>
+                <p>
+                    All containerized trucks feature real-time satellite GPS tracking. Our customer support desk provides updates at major highway toll checkpoints along the route.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Visual Feature Strip: Destination Setup -->
+<section class="c_cha_ban-section">
+    <div class="container">
+        <div class="c_cha_ban-grid-2">
+            <div class="c_cha_ban-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Chaibasa to Bangalore">
             </div>
             <div>
-                <h2 class="cbg-section-title">Highway Route Architecture & Transit Schedule</h2>
-                <p>Our long-haul vehicles navigate the most secure, multi-lane national highway corridors to minimize transit vibration and avoid congested bypasses:</p>
-                <ul>
-                    <li><strong>Origin Route:</strong> Chaibasa &rarr; Jaitgarh / Baharagora &rarr; Baripada (Odisha border).</li>
-                    <li><strong>Coastal Highway Transit:</strong> NH-16 via Balasore &rarr; Cuttack &rarr; Bhubaneswar &rarr; Brahmapur &rarr; Visakhapatnam.</li>
-                    <li><strong>Peninsular Expressway:</strong> NH-16 down to Vijayawada / Tirupati &rarr; NH-44 / NH-75 directly into East Bangalore (Hoskote / KR Puram).</li>
-                    <li><strong>Mandatory Driver Rotation:</strong> Two licensed commercial highway drivers operate every long-haul truck to prevent driver fatigue.</li>
+                <span style="color: var(--c_cha_ban-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Turnkey Destination Service</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_cha_ban-dark); margin: 10px 0 20px;">
+                    Careful Unloading, Furniture Assembly &amp; Debris Disposal
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    A truly satisfying relocation experience means waking up in a clean, fully functional home in Bangalore. Our skilled destination crew unloads every piece of furniture, reassembles dismounted frames, and handles all heavy lifting.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    We carefully place each box into its designated room based on your guidance:
+                </p>
+                <ul class="c_cha_ban-checklist">
+                    <li>Assembly of wooden beds, wardrobes, study tables, and dining furniture</li>
+                    <li>Placement of refrigerators, washing machines, and heavy home appliances</li>
+                    <li>Inspection of all glassware and fragile items in your presence</li>
+                    <li>Collection and disposal of used packing cardboard, plastics, and tapes</li>
                 </ul>
             </div>
         </div>
-
-        <!-- Section 5: Vehicle Transportation & Specialized Handling -->
-        <div class="cbg-grid-2">
-            <div>
-                <h2 class="cbg-section-title">Car & Two-Wheeler Shipping to Bangalore</h2>
-                <p>Driving a car or motorcycle 1,650 km over 4 states exposes your vehicle to significant engine wear, highway potholes, and fatigue. Our enclosed car carrier service transports your personal vehicle safely:</p>
-                <p>Before loading, we perform a detailed 24-point photographic condition inspection. Two-wheelers have their mirrors, indicators, and fuel tanks wrapped in dense EPE foam, while cars are secured inside specialized auto carriers with wheel chocks and tension straps.</p>
-                <div class="cbg-highlight-box">
-                    <h4>Two-Wheeler Shipping Rates</h4>
-                    <p>Learn more about our dedicated two-wheeler relocation on our <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-charges-calculator">Bike Transport Charges Calculator</a> and <a href="<?php echo SITE_BASE_URL; ?>/car-transportation-cost-calculator">Car Transport Cost Calculator</a>.</p>
-                </div>
-            </div>
-            <div>
-                <div class="cbg-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Enclosed car carrier loading for Chaibasa to Bangalore transport" width="580" height="387">
-                    <div class="cbg-caption">Hydraulic ramp car carrier ensuring safe ground clearance during loading</div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Section 6: Local Delivery and Coverage -->
-        <div class="cbg-grid-2">
-            <div>
-                <div class="cbg-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck for Chaibasa to Bangalore moves" width="580" height="387">
-                    <div class="cbg-caption">Doorstep unloading and setup service across all Bangalore residential areas</div>
-                </div>
-            </div>
-            <div>
-                <h2 class="cbg-section-title">Complete Chaibasa & Bangalore Coverage</h2>
-                <p>We provide doorstep pickup across all West Singhbhum localities:</p>
-                <p><strong>Chaibasa Catchment:</strong> Sadar Bazaar, Gandhi Tola, Nimdih, Post Office Chowk, Tambo Chowk, and nearby mining residential townships in Noamundi, Gua, Kiriburu, and Chakradharpur.</p>
-                <p><strong>Bangalore Destination Hubs:</strong> Koramangala, Indiranagar, HSR Layout, Whitefield, Electronic City, Marathahalli, Bellandur, Sarjapur Road, Jayanagar, JP Nagar, Banashankari, and North Bangalore (Hebbal, Yelahanka).</p>
-                <p>For more about our local West Singhbhum operations, explore our authority page on <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chaibasa">Packers and Movers in Chaibasa</a> or our main <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
-            </div>
-        </div>
-
-        <!-- Section 7: FAQs -->
-        <div class="cbg-faq-wrap">
-            <h2 class="cbg-section-title">Frequently Asked Questions: Chaibasa to Bangalore</h2>
-
-            <div class="cbg-faq-item">
-                <h4>What is the transit time for household shifting from Chaibasa to Bangalore?</h4>
-                <p>The highway transit distance between Chaibasa and Bangalore is approximately 1,650 km via NH-16 / NH-44. A dedicated container truck takes 4 to 6 days, while shared part-load consignments are typically delivered within 6 to 8 days.</p>
-            </div>
-
-            <div class="cbg-faq-item">
-                <h4>How much does it cost to move household goods from Chaibasa to Bangalore?</h4>
-                <p>Shifting costs vary by volume: 1 BHK flat ranges between ₹16,500 and ₹26,000; a standard 2 BHK costs ₹24,000 to ₹38,000; and a 3 BHK household move ranges from ₹34,000 to ₹58,000, including packing labor, transport, and doorstep delivery.</p>
-            </div>
-
-            <div class="cbg-faq-item">
-                <h4>Do you provide car and two-wheeler transport from Chaibasa to Bangalore?</h4>
-                <p>Yes, we provide enclosed hydraulic car carriers and customized two-wheeler crating services from Chaibasa to all tech corridors in Bangalore including Whitefield, Electronic City, Sarjapur, and HSR Layout.</p>
-            </div>
-
-            <div class="cbg-faq-item">
-                <h4>Is transit insurance mandatory for the Chaibasa to Bangalore route?</h4>
-                <p>While optional, we strongly recommend comprehensive 100% all-risk transit insurance given the long 1,650 km highway journey. Our policy covers road accidents, theft, and natural perils at an economical premium of 3% of declared value.</p>
-            </div>
-        </div>
-
-        <!-- Section 8: Connected Cluster Modules -->
-        <div class="cbg-cluster-links">
-            <h4>Explore Related Relocation Corridors & Regional Services</h4>
-            <div class="cbg-cluster-grid">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chaibasa">Packers and Movers in Chaibasa</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur">Packers and Movers Jamshedpur</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bangalore-packers-and-movers">Ranchi to Bangalore Shifting</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/track-consignment">Track Your Consignment</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/moving-checklist-pdf-download">Moving Checklist PDF</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Matrix</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers</a>
-            </div>
-        </div>
-
     </div>
-</div>
+</section>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<!-- Corporate & Industrial Relocation Protocol -->
+<section class="c_cha_ban-section c_cha_ban-section-gray">
+    <div class="container">
+        <div class="c_cha_ban-heading-center">
+            <h2>Corporate, Industrial &amp; PSU Relocation Specialization</h2>
+            <p>
+                Tailored moving procedures for corporate managers, government officials, and banking professionals.
+            </p>
+        </div>
 
+        <div class="c_cha_ban-grid-3">
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#9874;</div>
+                <h3>Industrial Belt &amp; Manufacturing Moves</h3>
+                <p>
+                    Connecting District administrative headquarters of West Singhbhum, ACC Jhinkpani cement, iron ore logistics, and forestry with Software technology parks, biotechnology, aerospace (HAL/ISRO), and corporate headquarters, we manage executive and technician relocations with end-to-end documentation.
+                </p>
+            </div>
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#128646;</div>
+                <h3>Corporate &amp; Public Sector Transfers</h3>
+                <p>
+                    Managing employee relocations, executive transfers, and industrial supply chain support between Chaibasa and Bangalore. We provide itemized packing lists, consignment notes, and GST invoices fully compliant with company claim policies.
+                </p>
+            </div>
+            <div class="c_cha_ban-card">
+                <div class="c_cha_ban-card-icon">&#127891;</div>
+                <h3>Academic &amp; Institutional Moves</h3>
+                <p>
+                    We provide smooth household and library relocation services for professors, researchers, and students transferring between universities and institutions in Chaibasa and Bangalore.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Local Coverage Grid -->
+<section class="c_cha_ban-section">
+    <div class="container">
+        <div class="c_cha_ban-heading-center">
+            <h2>Full Pickup in Chaibasa &amp; Doorstep Delivery Across Bangalore</h2>
+            <p>
+                Our comprehensive moving operations extend across every neighborhood in Chaibasa and Bangalore.
+            </p>
+        </div>
+
+        <div class="c_cha_ban-grid-3">
+            <div class="c_cha_ban-card">
+                <h3>Chaibasa Pickup Localities</h3>
+                <p>
+                    Prompt doorstep survey and packaging across all sectors of Chaibasa:
+                </p>
+                <ul class="c_cha_ban-checklist">
+                    <li><strong>District Admin & Civil:</strong> Sadar Bazar, Court Road, Collectorate Campus, Post Office Chowk</li>
+                    <li><strong>Prime Residential:</strong> Nimdih, Gandhi Tola, Tungri, Mahulsai</li>
+                    <li><strong>Commercial & Transport:</strong> Bus Stand Road, Tata Road, Station Road, Matkamhatu</li>
+                    <li><strong>Mining & Industrial Border:</strong> Jhinkpani Cement Belt, Noamundi Route, Lupungutu</li>
+                </ul>
+            </div>
+
+            <div class="c_cha_ban-card">
+                <h3>Bangalore Delivery Coverage</h3>
+                <p>
+                    Unloading, room placement, and setup across all Bangalore neighborhoods:
+                </p>
+                <ul class="c_cha_ban-checklist">
+                    <li><strong>IT & Tech Corridors:</strong> Whitefield, Electronic City, Outer Ring Road, Marathahalli, Bellandur</li>
+                    <li><strong>Prime Residential:</strong> Indiranagar, Koramangala, HSR Layout, Jayanagar, JP Nagar</li>
+                    <li><strong>North Bangalore:</strong> Hebbal, Yelahanka, Manyata Tech Park, Sahakara Nagar</li>
+                    <li><strong>West & Industrial:</strong> Malleshwaram, Rajajinagar, Peenya Industrial Area, Yeshwanthpur</li>
+                </ul>
+            </div>
+
+            <div class="c_cha_ban-card">
+                <h3>Why Choose Shree Ashirwad?</h3>
+                <p>
+                    Trusted by hundreds of families and businesses moving across India:
+                </p>
+                <ul class="c_cha_ban-checklist">
+                    <li>Company-owned weatherproof container vehicles</li>
+                    <li>Experienced, background-verified full-time crew</li>
+                    <li>Genuine GST invoices for government and PSU transfer claims</li>
+                    <li>Fast 44 - 56-hour highway transit with scheduled doorstep delivery</li>
+                    <li>Transparent pricing with zero hidden surcharges</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Frequently Asked Questions -->
+<section class="c_cha_ban-section c_cha_ban-section-gray">
+    <div class="container">
+        <div class="c_cha_ban-heading-center">
+            <h2>Frequently Asked Questions: Chaibasa to Bangalore Shifting</h2>
+            <p>
+                Essential information on pricing, transit times, packing materials, and claim documentation.
+            </p>
+        </div>
+
+        <div style="max-width: 900px; margin: 0 auto;">
+            <div class="c_cha_ban-faq-item">
+                <h3>What is the road distance and transit duration from Chaibasa to Bangalore?</h3>
+                <p>
+                    The highway distance between Chaibasa and Bangalore is approximately 1760 km via National Highway Corridor. Dedicated container trucks complete this journey in 44 - 56 hours with scheduled doorstep delivery.
+                </p>
+            </div>
+
+            <div class="c_cha_ban-faq-item">
+                <h3>What are the shifting charges from Chaibasa to Bangalore?</h3>
+                <p>
+                    Estimated costs range from Rs 24,040 - 34,858 for 1 BHK apartments, Rs 32,780 - 47,531 for 2 BHK homes, and Rs 44,080 - 63,916 for 3 BHK residences, covering 5-layer packing, container freight, toll charges, loading, and unloading.
+                </p>
+            </div>
+
+            <div class="c_cha_ban-faq-item">
+                <h3>Do you provide claimable GST invoices for corporate and government transfers?</h3>
+                <p>
+                    Yes, Shree Ashirwad Packers and Movers provides 100% authentic GST invoices, detailed item inventories, consignment notes (bilty), and IBA-approved receipts compliant with corporate and government reimbursement policies.
+                </p>
+            </div>
+
+            <div class="c_cha_ban-faq-item">
+                <h3>How are personal cars and motorcycles transported to Bangalore?</h3>
+                <p>
+                    Vehicles are safely transported in enclosed hydraulic car carrier trailers and custom wooden motorcycle crates with wheel chocks, security straps, and comprehensive transit risk insurance.
+                </p>
+            </div>
+
+            <div class="c_cha_ban-faq-item">
+                <h3>Which areas in Chaibasa and Bangalore do you cover?</h3>
+                <p>
+                    In Chaibasa, we cover Sadar Bazar, Court Road, Collectorate Campus, Post Office Chowk and Nimdih, Gandhi Tola, Tungri, Mahulsai. In Bangalore, we deliver across Whitefield, Electronic City, Outer Ring Road, Marathahalli, Bellandur and Indiranagar, Koramangala, HSR Layout, Jayanagar, JP Nagar.
+                </p>
+            </div>
+
+            <div class="c_cha_ban-faq-item">
+                <h3>Is transit insurance available for Chaibasa to Bangalore moves?</h3>
+                <p>
+                    Yes, we provide comprehensive transit risk insurance covering unexpected highway accidents, external impacts, and adverse weather conditions with hassle-free claim settlement.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Banner -->
+<section style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: #ffffff; padding: 65px 0; text-align: center;">
+    <div class="container">
+        <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; margin-bottom: 16px;">
+            Book Your Chaibasa to Bangalore Move Today
+        </h2>
+        <p style="font-size: 1.1rem; color: #cbd5e1; max-width: 720px; margin: 0 auto 30px;">
+            Contact our moving experts for an accurate written estimate, complimentary pre-move assessment, and scheduled delivery.
+        </p>
+        <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
+            <a href="tel:+919835565233" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                Call Hotline: 084095 31615
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
+                Request Express Quote &rarr;
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Connected Shifting Resources Module -->
+<section class="c_cha_ban-section" style="padding: 40px 0; background: #f8fafc;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 30px; box-shadow: var(--c_cha_ban-shadow);">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.35rem; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 12px;">Connected Interstate Moving Corridors &amp; Authority Hubs</h3>
+            <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, tariff calculators, and reciprocal return corridors:</p>
+            <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ranchi (HQ)</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bangalore" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Bangalore</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Charges &amp; Tariff Calculator</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-chaibasa-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Return Route: Bangalore to Chaibasa</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<?php include __DIR__ . '/includes/footer.php'; ?>
 </body>
 </html>

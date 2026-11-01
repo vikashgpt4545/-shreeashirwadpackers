@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Hazaribagh to Asansol Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Fast Hazaribagh to Asansol packers and movers. Express 4 hr GT Road transit, SAIL IISCO & ECL bills, 5-layer packing, car carrier. Call 8409531615.";
+$page_desc = "Fast Hazaribagh to Asansol packers and movers. Express 4 hr GT Road transit, SAIL IISCO & ECL bills, 5-layer packing, car carrier. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-asansol-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -447,7 +447,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-asansol-pac
         "name": "Shree Ashirwad Packers and Movers - Hazaribagh to Asansol Division",
         "description": "Licensed inter-state moving and logistics agency operating daily dedicated transport between Hazaribagh (Jharkhand) and Asansol / Burnpur (West Bengal). Complete household shifting, car carrier shipping, and corporate billing.",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹7,000 - ₹30,000",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
@@ -487,7 +487,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-asansol-pac
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-8409531615"
+            "telephone": "+91-9835565233"
         },
         "areaServed": [
             {
@@ -595,6 +595,42 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-asansol-pac
         ]
     }
     </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <?php include __DIR__ . '/../includes/header.php'; ?>
@@ -615,11 +651,17 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-asansol-pac
         <h1 class="h2asn-title">Reliable Hazaribagh to Asansol Packers and Movers</h1>
         <p class="h2asn-subtitle">Fast household shifting, SAIL IISCO steel plant transfers, and vehicle transport from Hazaribagh to Asansol &amp; Burnpur. 185 km direct highway transit via GT Road (NH-19) with 5-layer packing, guaranteed zero-damage, and 100% claimable billing.</p>
         <div class="h2asn-hero-cta">
-            <a href="tel:+918409531615" class="h2asn-btn-primary">&#9742; Call 8409531615</a>
+            <a href="tel:+919835565233" class="h2asn-btn-primary">&#9742; Call 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="h2asn-btn-outline">Request Route Quote</a>
         </div>
     </div>
 </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+    
+
+
 
 <!-- Quick Stats Bar -->
 <section class="h2asn-section h2asn-section-alt">

@@ -12,7 +12,7 @@
 
 // Define page-specific metadata
 $page_title = "Hyderabad to Ranchi Packers & Movers | Shree Ashirwad";
-$page_description = "Top Hyderabad to Ranchi packers and movers by Shree Ashirwad. Express 48-60 hr transit via NH-44/53, HITEC City tech bills, 5-layer packing. Call 8409531615.";
+$page_description = "Top Hyderabad to Ranchi packers and movers by Shree Ashirwad. Express 48-60 hr transit via NH-44/53, HITEC City tech bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/hyderabad-to-ranchi-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -69,7 +69,7 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-8409531615",
+    "telephone": "+91-9835565233",
     "email": "support@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,500 - ₹75,000",
@@ -157,7 +157,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+91-8409531615",
+      "telephone": "+91-9835565233",
       "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": [
@@ -876,6 +876,42 @@ require_once __DIR__ . '/includes/seo.php';
       .h2r-locality-list { grid-template-columns: 1fr; }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body class="h2r-wrapper">
 
@@ -901,11 +937,15 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
 
     <div class="h2r-hero-actions">
-      <a href="tel:+918409531615" class="h2r-btn h2r-btn-primary">📞 Call Now: 084095 31615</a>
-      <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20relocation%20from%20Hyderabad%20to%20Ranchi" class="h2r-btn h2r-btn-outline" target="_blank" rel="noopener">💬 WhatsApp Free Instant Quote</a>
+      <a href="tel:+919835565233" class="h2r-btn h2r-btn-primary">📞 Call Now: 084095 31615</a>
+      <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20relocation%20from%20Hyderabad%20to%20Ranchi" class="h2r-btn h2r-btn-outline" target="_blank" rel="noopener">💬 WhatsApp Free Instant Quote</a>
     </div>
   </div>
 </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
 
 <!-- Action Call Bar -->
 <aside class="h2r-callbar" aria-label="Quick Contact Callout">
@@ -914,13 +954,14 @@ require_once __DIR__ . '/includes/seo.php';
       <span>📍 <strong>Direct Corridor Operations:</strong> Daily departures connecting HITEC City, Gachibowli, Kondapur, and Secunderabad directly to all Ranchi sectors.</span>
     </div>
     <div class="h2r-callbar-links">
-      <a href="tel:+918409531615" class="h2r-call-link">📱 8409531615</a>
+      <a href="tel:+919835565233" class="h2r-call-link">📱 9835565233</a>
       <a href="tel:+919835565233" class="h2r-call-link">☎️ 9835565233</a>
     </div>
   </div>
 </aside>
 
-<!-- Section 1: Corridor Logistics & Route Anatomy -->
+    
+    <!-- Section 1: Corridor Logistics & Route Anatomy -->
 <section class="h2r-section">
   <div class="h2r-container">
     <div class="h2r-grid-2">
@@ -1305,7 +1346,7 @@ require_once __DIR__ . '/includes/seo.php';
             <span style="color:#0284c7; font-weight:800;">✓</span> Maintain fuel tank at roughly 20-25% capacity for safety during transit
           </li>
         </ul>
-        <a href="tel:+918409531615" class="h2r-btn h2r-btn-primary" style="width:100%; text-align:center;">
+        <a href="tel:+919835565233" class="h2r-btn h2r-btn-primary" style="width:100%; text-align:center;">
           Book Vehicle Carrier: 084095 31615
         </a>
       </div>

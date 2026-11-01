@@ -14,8 +14,8 @@
  */
 
 // Define page-specific metadata
-$page_title = "Amritsar to Ranchi Packers & Movers | Shree Ashirwad Packers";
-$page_description = "Top Amritsar to Ranchi packers and movers by Shree Ashirwad. 55-68 hr transit, Khasa Army bills, 5-layer packing, car carrier. Call 8409531615.";
+$page_title = "Amritsar to Ranchi Packers and Movers | Best Shifting Services - Shree Ashirwad";
+$page_description = "Looking for the best packers and movers from Amritsar to Ranchi? Shree Ashirwad Packers offers 55-68 hr transit, Khasa Army bills, household shifting, car carrier & transit insurance. Call +91 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/amritsar-to-ranchi-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -29,7 +29,7 @@ require_once __DIR__ . '/includes/seo.php';
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?php echo htmlspecialchars($page_title); ?></title>
   <meta name="description" content="<?php echo htmlspecialchars($page_description); ?>">
-  <meta name="keywords" content="amritsar to ranchi packers and movers, packers and movers amritsar to ranchi, house shifting amritsar to ranchi, amritsar to ranchi luggage parcel, amritsar to ranchi car carrier, amritsar to ranchi bike parcel, khasa military shifting ranchi, gndu amritsar to ranchi movers, amritsar packers and movers ranchi">
+  <meta name="keywords" content="amritsar to ranchi packers and movers, packers and movers amritsar to ranchi, best packers and movers for amritsar to ranchi, household shifting services, bike transport, car carrier services, iba approved bill, transit insurance, movers and packers near me in ranchi, house shifting amritsar to ranchi, amritsar to ranchi luggage parcel, amritsar to ranchi car carrier, khasa military shifting ranchi, gndu amritsar to ranchi movers">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
 
   <!-- Favicon -->
@@ -694,7 +694,7 @@ require_once __DIR__ . '/includes/seo.php';
     "name": "Shree Ashirwad Packers and Movers - Amritsar to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/amritsar-to-ranchi-packers-and-movers",
-    "telephone": "+91-8409531615",
+    "telephone": "+919835565233",
     "priceRange": "₹21,000 - ₹62,000",
     "address": {
       "@type": "PostalAddress",
@@ -831,13 +831,50 @@ require_once __DIR__ . '/includes/seo.php';
     ]
   }
   </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 
 <body class="r2a2r-wrapper">
 
 <?php include_once __DIR__ . '/includes/header.php'; ?>
 
-<main>
+    
+    <main>
   <!-- Hero Section -->
   <section class="r2a2r-hero">
     <div class="r2a2r-hero-container">
@@ -873,9 +910,9 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
 
         <div class="r2a2r-hero-cta">
-          <a href="tel:8409531615" class="r2a2r-btn-primary">
+          <a href="tel:+919835565233" class="r2a2r-btn-primary">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Call Now: 8409531615
+            Call Now: +91 9835565233
           </a>
           <a href="#tariff-table" class="r2a2r-btn-secondary">
             View Shifting Rates &rarr;
@@ -885,6 +922,52 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </section>
 
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Amritsar to Ranchi
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Amritsar to Ranchi</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Amritsar and Ranchi with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Amritsar</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Amritsar and Ranchi along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Amritsar</strong>, intercity relocation to Ranchi, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Amritsar to Ranchi</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Amritsar to Ranchi</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Amritsar to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Amritsar to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Amritsar to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
   <!-- Quick Inquiry Strip -->
   <div class="r2a2r-strip">
     <div class="r2a2r-strip-container">
@@ -893,9 +976,9 @@ require_once __DIR__ . '/includes/seo.php';
         <span>Relocating from Ranjit Avenue, Model Town, Lawrence Road, or Khasa Military Station to Ranchi?</span> Express long-haul transit with live GPS tracking!
       </div>
       <div class="r2a2r-strip-actions">
-        <a href="tel:9835565233" class="r2a2r-strip-phone">
+        <a href="tel:+919835565233" class="r2a2r-strip-phone">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-          9835565233
+          +91 9835565233
         </a>
       </div>
     </div>
@@ -953,7 +1036,7 @@ require_once __DIR__ . '/includes/seo.php';
           </p>
         </div>
       </div>
-    </div>
+</div>
   </section>
 
   <!-- Tailored Institutional Relocation Solutions -->

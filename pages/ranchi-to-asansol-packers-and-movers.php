@@ -12,7 +12,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Asansol Packers & Movers | Shree Ashirwad";
-$page_description = "Top Ranchi to Asansol packers and movers by Shree Ashirwad. Same-day 5-hr transit via NH-19, SAIL Burnpur & Railway bills, 5-layer packing. Call 8409531615.";
+$page_description = "Top Ranchi to Asansol packers and movers by Shree Ashirwad. Same-day 5-hr transit via NH-19, SAIL Burnpur & Railway bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-asansol-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -69,7 +69,7 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ranchi",
     "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
-    "telephone": "+91-8409531615",
+    "telephone": "+91-9835565233",
     "email": "support@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹3,500 - ₹48,000",
@@ -123,7 +123,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+91-8409531615",
+      "telephone": "+91-9835565233",
       "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": {
@@ -847,6 +847,42 @@ require_once __DIR__ . '/includes/seo.php';
       }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -887,8 +923,8 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2a-hero-actions">
-        <a href="tel:8409531615" class="r2a-btn-primary">
-          <span>📞 Instant Booking: 8409531615</span>
+        <a href="tel:9835565233" class="r2a-btn-primary">
+          <span>📞 Instant Booking: 9835565233</span>
         </a>
         <a href="#r2a-pricing-section" class="r2a-btn-secondary">
           <span>📊 View Route Tariff Schedule</span>
@@ -896,6 +932,10 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
     </div>
   </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
 
   <!-- Instant Contact Bar -->
   <section class="r2a-contact-bar">
@@ -905,13 +945,14 @@ require_once __DIR__ . '/includes/seo.php';
         <span>Daily Scheduled Dispatches from Ranchi to Asansol & Burnpur</span>
       </div>
       <div class="r2a-contact-links">
-        <a href="tel:8409531615" class="r2a-tel-link">📱 8409531615</a>
+        <a href="tel:9835565233" class="r2a-tel-link">📱 9835565233</a>
         <a href="tel:9835565233" class="r2a-tel-link">📱 9835565233</a>
       </div>
     </div>
   </section>
 
-  <!-- Section 1: Corridor Logistics & Road Infrastructure Analysis -->
+      
+    <!-- Section 1: Corridor Logistics & Road Infrastructure Analysis -->
   <section class="r2a-content-section">
     <div class="r2a-section-header">
       <span class="r2a-section-kicker">Corridor Engineering & Transit Logistics</span>

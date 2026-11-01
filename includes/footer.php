@@ -152,7 +152,7 @@ $base_url = SITE_BASE_URL;
     <div class="container">
       <h4 class="footer-cities-title">Shree Ashirwad Packers and Movers: Serving All Cities in Jharkhand</h4>
       <ul class="footer-cities-grid">
-        <li><a href="<?php echo $base_url; ?>/" title="Packers and Movers in Ranchi">Packers and Movers in Ranchi</a></li>
+        <li><a href="<?php echo $base_url; ?>/packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi">Packers and Movers in Ranchi</a></li>
         <li><a href="<?php echo $base_url; ?>/packers-and-movers-in-hazaribagh" title="Packers and Movers in Hazaribagh">Packers and Movers in Hazaribagh</a></li>
         <li><a href="<?php echo $base_url; ?>/packers-and-movers-in-dhanbad" title="Packers and Movers in Dhanbad">Packers and Movers in Dhanbad</a></li>
         <li><a href="<?php echo $base_url; ?>/packers-and-movers-in-jamshedpur" title="Packers and Movers in Jamshedpur">Packers and Movers in Jamshedpur</a></li>

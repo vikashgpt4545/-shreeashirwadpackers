@@ -2,16 +2,16 @@
 /**
  * Packers and Movers in Chandil - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9835565233
+ * Contact: +91 9835565233 / +91 9835565233
  * Office: Serving Chandil, Chowka, Kandra, Saraikela & Jamshedpur, Jharkhand
  */
 
 require_once __DIR__ . '/includes/config.php';
 
 // Page-specific variables
-$page_title = "Packers and Movers in Chandil - 8409531615 | Shree Ashirwad Packers";
-$page_description = "Top packers and movers in Chandil (Saraikela Kharsawan). Safe home relocation, vehicle transport, industrial shifting, Chandil Dam belt services, full transit insurance. Call 8409531615.";
-$page_keywords = "packers and movers in chandil, best movers and packers chandil, household shifting chandil saraikela, car transport chandil, bike courier chandil, chowka packers and movers, shree ashirwad packers chandil";
+$page_title = "Packers and Movers in Chandil | Best Shifting Services Saraikela - Shree Ashirwad";
+$page_description = "Looking for the best packers and movers in Chandil? Shree Ashirwad Packers offers trusted household shifting, bike/car transport, industrial moving & Chandil Dam belt services. Call +91 9835565233.";
+$page_keywords = "packers and movers in chandil, best movers and packers chandil, movers and packers near me in chandil, household shifting chandil, car transport chandil, bike courier chandil, packing and moving company in chandil, local shifting in chandil, chowka packers and movers, kandra industrial shifting";
 $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandil";
 ?>
 <!DOCTYPE html>
@@ -69,7 +69,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandil";
       "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
       "@id": "<?php echo $canonical_url; ?>#movingcompany",
       "url": "<?php echo $canonical_url; ?>",
-      "telephone": "+918409531615",
+      "telephone": "+919835565233",
       "keywords": "packers and movers in chandil, packers and movers chandil, best packers and movers in chandil, household shifting chandil, car transport chandil, bike parcel chandil, iba approved packers chandil, local shifting chandil",
       "priceRange": "INR 3500 - 52000",
       "address": {
@@ -201,7 +201,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandil";
           "name": "How can I schedule a pre-move inspection or get an accurate quotation in Chandil?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Call our 24x7 customer support hotline at +91 8409531615 or WhatsApp us at +91 9835565233. Our local survey supervisor will provide a free physical home visit or video survey with transparent, guaranteed fixed pricing."
+            "text": "Call our 24x7 customer support hotline at +91 9835565233 or WhatsApp us at +91 9835565233. Our local survey supervisor will provide a free physical home visit or video survey with transparent, guaranteed fixed pricing."
           }
         }
       ]
@@ -222,14 +222,17 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandil";
                 <h1 style="font-size: clamp(32px, 4.5vw, 48px); font-weight: 800; line-height: 1.2; margin-bottom: 20px; font-family: 'Outfit', sans-serif;">
                     Professional Packers and Movers in <span style="color: #60a5fa;">Chandil</span>
                 </h1>
-                <p style="font-size: 17px; line-height: 1.65; color: #e2e8f0; margin-bottom: 28px;">
-                    Relocating your household, industrial office, or vehicle in Chandil, Saraikela Kharsawan? Shree Ashirwad Packers and Movers delivers premium, zero-damage shifting services across the Chandil Dam corridor, Chowka, and Kandra. Positioned centrally on NH-33 between Jamshedpur and Ranchi, we provide multi-layer dust-proof packing, IBA-approved documentation, and dedicated container transit for completely stress-free moving.
+                <p style="font-size: 17px; line-height: 1.65; color: #e2e8f0; margin-bottom: 16px;">
+                    Looking for the <strong>best packers and movers in Chandil</strong>? We provide trusted household shifting, office relocation, bike transport, car transport, and complete moving solutions at affordable prices across Chandil, Chowka, Kandra, and Saraikela Kharsawan.
+                </p>
+                <p style="font-size: 15.5px; line-height: 1.65; color: #cbd5e1; margin-bottom: 24px;">
+                    Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Chandil and nearby areas with timely delivery support. As one of the top-rated movers and packers near Chandil, we help families, industrial engineers, and dam project staff relocate locally and across Jharkhand without hassle.
                 </p>
                 <div class="hero-cta-group" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-                    <a href="tel:8409531615" class="btn-primary" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(239, 68, 68, 0.3); transition: all 0.3s ease;">
-                        <i class="fa-solid fa-phone-volume"></i> Call 8409531615
+                    <a href="tel:+919835565233" class="btn-primary" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(239, 68, 68, 0.3); transition: all 0.3s ease;">
+                        <i class="fa-solid fa-phone-volume"></i> Call +91 9835565233
                     </a>
-                    <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20moving%20in%20Chandil" target="_blank" class="btn-whatsapp" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(34, 197, 94, 0.3); transition: all 0.3s ease;">
+                    <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20moving%20in%20Chandil" target="_blank" class="btn-whatsapp" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(34, 197, 94, 0.3); transition: all 0.3s ease;">
                         <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
                     </a>
                 </div>
@@ -272,7 +275,47 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandil";
         <div class="row" style="display: flex; flex-wrap: wrap; gap: 40px;">
             <div class="main-column" style="flex: 1 1 760px;">
                 
-                <!-- Section 1: Overview & Strategic Highway Location -->
+                    <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Chandil
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Chandil</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Chandil and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Chandil</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Highway Safety & Timing Advisory for NH-33:, Sponge Iron & Metal Plant Machinery Shifting:, Chandil Dam Tourism Belt Relocations:, Dalma Foothills & Scenic Approach Road Navigation:, Commuter Relocations to Jamshedpur & Adityapur: along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Chandil</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Chandil</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Chandil</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Chandil</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Chandil</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Chandil</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- Section 1: Overview & Strategic Highway Location -->
                 <article class="article-block" style="margin-bottom: 50px;">
                     <h2 style="font-size: 28px; font-weight: 700; color: #0f172a; margin-bottom: 20px; font-family: 'Outfit', sans-serif;">
                         Chandil’s Leading Packers and Movers for Homes & Industrial Relocations
@@ -297,10 +340,26 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandil";
                         </div>
                     </div>
 
-                    <div class="highlight-quote-box" style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 20px 24px; border-radius: 0 8px 8px 0; margin-bottom: 30px;">
+                    <div class="highlight-quote-box" style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 20px 24px; border-radius: 0 8px 8px 0; margin-bottom: 24px;">
                         <p style="margin: 0; font-size: 15px; font-style: italic; color: #1e3a8a; line-height: 1.7;">
                             "In an industrial junction like Chandil, relocation demands punctual scheduling, heavy-duty protective wrapping against highway vibrations, and authentic documentation. Shree Ashirwad Packers guarantees complete transparency and zero-damage shifting across Jharkhand."
                         </p>
+                    </div>
+
+                    <div style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 22px; margin: 26px 0; border-radius: 0 8px 8px 0; border: 1px solid #dbeafe; border-left: 4px solid #2563eb;">
+                      <h3 style="font-size: 18px; font-weight: 700; color: #1e3a8a; margin-top: 0; margin-bottom: 12px;">Top-Rated Moving & Packing Solutions in Chandil</h3>
+                      <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+                        We cover major localities including <strong>Chandil Bazar, NH-33 Ranchi-Tata Highway Corridor, Chandil Dam Environs, Chowka, Kandra Industrial Belt, Chilgu, Station Road, and Subarnarekha River Basin colonies</strong> along with nearby residential and industrial zones for fast and reliable shifting services.
+                      </p>
+                      <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+                        Whether you need local shifting in Chandil, intercity relocation to Jamshedpur (28 km), Ranchi (100 km), Purulia, or Saraikela, office moving, or vehicle transportation, our trained staff ensures secure handling and professional support. Customers choose our <strong>movers and packers service in Chandil</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                      </p>
+                      <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+                        We also provide nearby packers and movers support with pincode-based scheduling (PIN 832401), same-day shifting assistance, floor-to-floor handling, and flexible moving options. From sponge iron employee quarters to lakeside bungalows, our <strong>packing and moving company in Chandil</strong> delivers affordable, safe, and stress-free relocation services.
+                      </p>
+                      <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 0;">
+                        If you are searching for reliable <strong>movers and packers near me in Chandil</strong>, our local team is available 24/7 for home shifting, storage, transport, and complete relocation assistance across Saraikela Kharsawan and the NH-33 corridor.
+                      </p>
                     </div>
                 </article>
 
@@ -801,7 +860,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandil";
                                 <i class="fa-solid fa-circle-question" style="color: #2563eb; margin-right: 8px;"></i> How can I schedule a pre-move inspection or get an accurate quotation in Chandil?
                             </h3>
                             <p style="font-size: 15px; line-height: 1.75; color: #334155; margin: 0;">
-                                Call our 24x7 customer support hotline at +91 8409531615 or WhatsApp us at +91 9835565233. Our local survey supervisor will provide a free physical home visit or video survey with transparent, guaranteed fixed pricing.
+                                Call our 24x7 customer support hotline at +91 9835565233 or WhatsApp us at +91 9835565233. Our local survey supervisor will provide a free physical home visit or video survey with transparent, guaranteed fixed pricing.
                             </p>
                         </div>
                     </div>
@@ -822,13 +881,13 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandil";
                             Moving in or from Chandil? Speak directly with our senior relocation coordinator today.
                         </p>
                         <div style="display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px;">
-                            <a href="tel:8409531615" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
-                                <i class="fa-solid fa-phone"></i> +91 8409531615
+                            <a href="tel:9835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
+                                <i class="fa-solid fa-phone"></i> +91 9835565233
                             </a>
                             <a href="tel:+919835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #1e3a8a; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
                                 <i class="fa-solid fa-phone"></i> +91 9835565233
                             </a>
-                            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chandil" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
+                            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chandil" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
                                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
                             </a>
                         </div>
@@ -887,10 +946,10 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandil";
             Get in touch with Shree Ashirwad Packers and Movers today for a free pre-move consultation and transparent rate quote. Trust Jharkhand’s premier moving team for an effortless, on-time relocation.
         </p>
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-            <a href="tel:8409531615" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(239, 68, 68, 0.35);">
-                <i class="fa-solid fa-phone-volume"></i> Call +91 8409531615
+            <a href="tel:9835565233" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(239, 68, 68, 0.35);">
+                <i class="fa-solid fa-phone-volume"></i> Call +91 9835565233
             </a>
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20me%20a%20quote%20for%20Chandil" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(34, 197, 94, 0.35);">
+            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20me%20a%20quote%20for%20Chandil" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(34, 197, 94, 0.35);">
                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>

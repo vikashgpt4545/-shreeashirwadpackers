@@ -4,7 +4,7 @@
  * Pure Core PHP Implementation
  * 
  * Target URL: https://www.shreeashirwadpackers.com/packers-and-movers-in-anandpur
- * Title: Packers and Movers in Anandpur - 8409531615
+ * Title: Packers and Movers in Anandpur - 9835565233
  * Region: Anandpur (Near Manoharpur, Saranda Forest Border), West Singhbhum, Jharkhand
  * Coordinates: 22.4500° N, 85.1500° E
  */
@@ -12,8 +12,8 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Packers and Movers in Anandpur - 8409531615 | Shree Ashirwad Packers";
-$page_description = "Hire top packers and movers in Anandpur by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, home shifting, car carrier & cross-border moves. Call 8409531615.";
+$page_title = "Packers and Movers in Anandpur | Best Moving Company - 9835565233";
+$page_description = "Looking for the best packers and movers in Anandpur? Shree Ashirwad offers trusted household shifting, mining corridor moves, car & bike transport with 5-layer packing and verified local crews.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-anandpur";
 ?>
 <!DOCTYPE html>
@@ -25,7 +25,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ana
   
   <title><?php echo $page_title; ?></title>
   <meta name="description" content="<?php echo $page_description; ?>">
-  <meta name="keywords" content="packers and movers in anandpur, packers and movers anandpur, best packers and movers in anandpur, packers and movers anandpur west singhbhum, household shifting anandpur, packers and movers near manoharpur, packers and movers anandpur to rourkela, packers and movers anandpur to chaibasa, car transport anandpur, bike parcel anandpur, iba approved packers anandpur">
+  <meta name="keywords" content="packers and movers in anandpur, best packers and movers in anandpur, movers and packers near me in anandpur, household shifting in anandpur, packers and movers anandpur west singhbhum, packers and movers near manoharpur, car transport anandpur, bike parcel anandpur, reliable movers and packers anandpur, packing and moving company in anandpur, iba approved packers anandpur">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
@@ -65,7 +65,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ana
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg",
         "description": "Professional packers and movers in Anandpur, West Singhbhum providing 5-layer protective packing, household shifting, civil transfer moves, mining corridor logistics, and IBA-approved documentation.",
-        "telephone": "+91-8409531615",
+        "telephone": "+919835565233",
         "priceRange": "₹3,000 - ₹50,000",
         "keywords": "packers and movers in anandpur, best packers and movers in anandpur, household shifting in anandpur, house shifting anandpur, packers and movers manoharpur, packers and movers chaibasa, packers and movers anandpur to ranchi, car transport in anandpur, bike parcel anandpur, iba approved packers in anandpur",
         "address": {
@@ -238,7 +238,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ana
             "name": "How can I schedule a moving survey in Anandpur?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "You can schedule a survey by calling us at 8409531615 or messaging us on WhatsApp. We provide prompt physical audits or digital video surveys to give you a transparent, all-inclusive quotation."
+              "text": "You can schedule a survey by calling us at 9835565233 or messaging us on WhatsApp. We provide prompt physical audits or digital video surveys to give you a transparent, all-inclusive quotation."
             }
           }
         ]
@@ -272,17 +272,23 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ana
       <h1 style="font-size: clamp(28px, 4.2vw, 44px); font-weight: 800; line-height: 1.25; margin-bottom: 18px; color: #ffffff;">
         Reliable Packers and Movers in <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Anandpur, Jharkhand</span>
       </h1>
-      <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 28px; max-width: 820px;">
+      <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 16px; max-width: 820px;">
+        Looking for the <strong>best packers and movers in Anandpur</strong>? We provide trusted household shifting, commercial moving, bike transport, car transport, and complete moving solutions at affordable prices across Anandpur, Manoharpur, Chaibasa, and pan-India.
+      </p>
+      <p style="font-size: 15.5px; line-height: 1.7; color: #cbd5e1; margin-bottom: 24px; max-width: 820px;">
+        Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Anandpur and nearby West Singhbhum areas with timely delivery support. As one of the top-rated movers and packers near Anandpur, we help families, government employees, and railway personnel relocate locally and across Jharkhand without hassle.
+      </p>
+      <p style="font-size: 15px; line-height: 1.7; color: #cbd5e1; margin-bottom: 28px; max-width: 820px;">
         Welcome to Shree Ashirwad Packers and Movers in Anandpur — your reliable relocation partner across the lush, mineral-rich expanse of southwestern West Singhbhum. Nestled adjacent to the legendary Saranda Forest and positioned between Manoharpur, Chaibasa, and the industrial hub of Rourkela (Odisha), we provide specialized 5-layer protective packing, IBA-approved documentation, zero-damage handling, and all-weather closed container transit for government officers, mining professionals, railway staff, and local families.
       </p>
 
       <!-- CTAs -->
       <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
-        <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
+        <a href="tel:+919835565233" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-          Call: 8409531615
+          Call: +91 9835565233
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Anandpur" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
+        <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Anandpur" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
           WhatsApp Instant Quote
         </a>
@@ -361,6 +367,46 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ana
   </div>
 </section>
 
+        <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Anandpur
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Anandpur</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Anandpur and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Anandpur</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Anandpur (Near Manoharpur, Saranda Forest Border), West Singhbhum, Jharkhand along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Anandpur</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Anandpur</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Anandpur</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Anandpur</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Anandpur</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Anandpur</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
 <!-- SECTION 1: DETAILED INTRODUCTION & LOCAL EXPERTISE -->
 <section style="padding: 60px 0; background: #ffffff;">
   <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 20px;">
@@ -908,14 +954,14 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ana
         <div style="margin-bottom: 18px;">
           <strong style="display: block; font-size: 13px; color: #64748b; text-transform: uppercase; margin-bottom: 4px;">Phone / 24x7 Helpline:</strong>
           <p style="font-size: 18px; font-weight: 800; color: #1e3a8a; margin: 0;">
-            <a href="tel:+918409531615" style="color: #1e3a8a; text-decoration: none;">+91 8409531615</a>
+            <a href="tel:+919835565233" style="color: #1e3a8a; text-decoration: none;">+91 9835565233</a>
           </p>
         </div>
 
         <div style="margin-bottom: 18px;">
           <strong style="display: block; font-size: 13px; color: #64748b; text-transform: uppercase; margin-bottom: 4px;">WhatsApp Instant Booking:</strong>
           <p style="font-size: 15px; font-weight: 700; color: #16a34a; margin: 0;">
-            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Anandpur" target="_blank" rel="noopener" style="color: #16a34a; text-decoration: none;">+91 8409531615 (Chat Online)</a>
+            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Anandpur" target="_blank" rel="noopener" style="color: #16a34a; text-decoration: none;">+91 9835565233 (Chat Online)</a>
           </p>
         </div>
 
@@ -927,7 +973,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ana
         </div>
 
         <div style="padding-top: 14px; border-top: 1px solid #f1f5f9;">
-          <a href="tel:+918409531615" style="display: inline-block; width: 100%; text-align: center; background: #f39c12; color: #ffffff; font-weight: 700; padding: 12px; border-radius: 8px; text-decoration: none; box-sizing: border-box;">
+          <a href="tel:+919835565233" style="display: inline-block; width: 100%; text-align: center; background: #f39c12; color: #ffffff; font-weight: 700; padding: 12px; border-radius: 8px; text-decoration: none; box-sizing: border-box;">
             Call Now for Free Quotation
           </a>
         </div>
@@ -1047,7 +1093,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ana
           <span style="color: #f39c12; font-size: 18px;">Q8.</span> How can I schedule a moving survey in Anandpur?
         </h3>
         <p style="font-size: 14.5px; color: #475569; margin: 0; line-height: 1.7;">
-          You can schedule a survey by calling us at 8409531615 or messaging us on WhatsApp. We provide prompt physical audits or digital video surveys to give you a transparent, all-inclusive quotation.
+          You can schedule a survey by calling us at 9835565233 or messaging us on WhatsApp. We provide prompt physical audits or digital video surveys to give you a transparent, all-inclusive quotation.
         </p>
       </div>
     </div>
@@ -1090,10 +1136,10 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ana
       Connect with our experienced relocation coordinators today for a free on-site survey and a guaranteed, honest price quote with zero hidden costs.
     </p>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
-      <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 30px; border-radius: 8px; text-decoration: none; font-size: 16px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4);">
-        <i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 8409531615
+      <a href="tel:+919835565233" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 30px; border-radius: 8px; text-decoration: none; font-size: 16px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4);">
+        <i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 9835565233
       </a>
-      <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Anandpur" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 30px; border-radius: 8px; text-decoration: none; font-size: 16px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
+      <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Anandpur" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 30px; border-radius: 8px; text-decoration: none; font-size: 16px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
         <i class="fa-brands fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote
       </a>
     </div>

@@ -11,7 +11,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Latehar Packers and Movers | Shree Ashirwad";
-$page_description = "Best Ranchi to Latehar packers and movers by Shree Ashirwad. Same-day shifting via NH-39, CCL & Govt transfer bills, 5-layer packing. Call 8409531615.";
+$page_description = "Best Ranchi to Latehar packers and movers by Shree Ashirwad. Same-day shifting via NH-39, CCL & Govt transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-latehar-packers-and-movers";
 
 // Common layout variables
@@ -73,7 +73,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "name": "Shree Ashirwad Packers and Movers",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/ranchi-to-latehar-packers-and-movers",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "email": "contact@shreeashirwadpackers.com",
         "priceRange": "₹11,000 - ₹34,000",
         "description": "Leading Ranchi to Latehar packers and movers providing safe household shifting, CCL employee transfer moves, railway staff relocations, and motorcycle transport via NH-39.",
@@ -608,6 +608,42 @@ require_once __DIR__ . '/../includes/seo.php';
             }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -622,7 +658,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Shree Ashirwad Packers and Movers delivers professional same-day household shifting, CCL coalfield executive transfers, railway staff moves, and motorcycle parcel delivery from Ranchi to Latehar. 110 km swift transit via NH-39, 5-layer protective packing, closed container fleet, and 100% audit-approved reimbursement documentation.
         </p>
         <div class="ran-lat-hero-cta">
-            <a href="tel:+918409531615" class="ran-lat-btn-primary"><i class="fa-solid fa-phone"></i> Call 084095 31615</a>
+            <a href="tel:+919835565233" class="ran-lat-btn-primary"><i class="fa-solid fa-phone"></i> Call 084095 31615</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="ran-lat-btn-secondary"><i class="fa-solid fa-file-invoice"></i> Get Instant Quote</a>
         </div>
         <div class="ran-lat-trust-badges">
@@ -634,7 +670,47 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </section>
 
-<!-- SECTION 1: DETAILED ROUTE OVERVIEW -->
+    <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Ranchi to Latehar
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Ranchi to Latehar</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Ranchi and Latehar with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Ranchi</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Ranchi and Latehar along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Ranchi</strong>, intercity relocation to Latehar, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Ranchi to Latehar</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Ranchi to Latehar</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Ranchi to Latehar</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Ranchi to Latehar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Latehar</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- SECTION 1: DETAILED ROUTE OVERVIEW -->
 <section class="ran-lat-section ran-lat-section-white">
     <div class="ran-lat-container">
         <div class="ran-lat-two-col">
@@ -964,8 +1040,8 @@ require_once __DIR__ . '/../includes/seo.php';
             Contact Shree Ashirwad Packers and Movers for a complimentary moving survey, competitive upfront quotes, and professional same-day relocation to Latehar.
         </p>
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-            <a href="tel:+918409531615" class="ran-lat-btn-primary"><i class="fa-solid fa-phone"></i> Call +91-8409531615</a>
-            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Ranchi%20to%20Latehar" class="ran-lat-btn-secondary" style="background: #25D366; border-color: #25D366; color: #ffffff;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</a>
+            <a href="tel:+919835565233" class="ran-lat-btn-primary"><i class="fa-solid fa-phone"></i> Call +91-9835565233</a>
+            <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Ranchi%20to%20Latehar" class="ran-lat-btn-secondary" style="background: #25D366; border-color: #25D366; color: #ffffff;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</a>
         </div>
     </div>
 </section>

@@ -4,7 +4,7 @@
  * Route Slug: jamshedpur-to-adityapur-packers-and-movers
  * Group: Route 6 - Adityapur Industrial Corridor
  * Meta Title: Packers and Movers Jamshedpur to Adityapur | Fast Moving
- * Meta Description: Swift packers and movers from Jamshedpur to Adityapur. Kharkai link, 5-layer packing, household & industrial plant cargo moving. Call 8409531615.
+ * Meta Description: Swift packers and movers from Jamshedpur to Adityapur. Kharkai link, 5-layer packing, household & industrial plant cargo moving. Call 9835565233.
  * Focus Keywords: jamshedpur to adityapur packers and movers, packers and movers jamshedpur to adityapur, house shifting jamshedpur to adityapur, industrial relocation jamshedpur adityapur, bike parcel jamshedpur adityapur, local movers jamshedpur adityapur
  */
 
@@ -13,14 +13,14 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Packers and Movers Jamshedpur to Adityapur | Fast Moving";
-$page_desc = "Swift packers and movers from Jamshedpur to Adityapur. Kharkai link, 5-layer packing, household & industrial plant cargo moving. Call 8409531615.";
+$page_desc = "Swift packers and movers from Jamshedpur to Adityapur. Kharkai link, 5-layer packing, household & industrial plant cargo moving. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-adityapur-packers-and-movers";
 $route_origin = "Jamshedpur";
 $route_destination = "Adityapur";
 
 // Open Graph
 $og_title = "Packers and Movers Jamshedpur to Adityapur | Fast Moving";
-$og_description = "Swift packers and movers from Jamshedpur to Adityapur. Kharkai link, 5-layer packing, household & industrial plant cargo moving. Call 8409531615.";
+$og_description = "Swift packers and movers from Jamshedpur to Adityapur. Kharkai link, 5-layer packing, household & industrial plant cargo moving. Call 9835565233.";
 $og_url = $canonical_url;
 $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg";
 ?>
@@ -67,7 +67,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
         "name": "Shree Ashirwad Packers and Movers Jamshedpur to Adityapur",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+918409531615",
+        "telephone": "+919835565233",
         "priceRange": "₹3,500 - ₹18,000",
         "address": {
             "@type": "PostalAddress",
@@ -651,6 +651,42 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
             }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -676,16 +712,21 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 Flawless, rapid inter-district relocation connecting the planned city of Jamshedpur across the Kharkai River to the industrial boomtown of Adityapur. Specialized household apartment moves, auto-engineering tool carriage, Tata corporate staff transfers, and safe vehicle delivery across Kharkai Bridge and the Adityapur Toll Expressway.
             </p>
             <div class="jsr-adi-cta-row">
-                <a href="tel:+918409531615" class="btn-jsr-adi-call" title="Call Shree Ashirwad Packers Jamshedpur">
+                <a href="tel:+919835565233" class="btn-jsr-adi-call" title="Call Shree Ashirwad Packers Jamshedpur">
                     <i class="fa-solid fa-phone"></i> Call 084095 31615
                 </a>
-                <a href="https://api.whatsapp.com/send?phone=918409531615&amp;text=Hi%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jamshedpur%20to%20Adityapur%20shifting." class="btn-jsr-adi-wa" target="_blank" rel="noopener" title="Get Instant WhatsApp Quote">
+                <a href="https://api.whatsapp.com/send?phone=919835565233&amp;text=Hi%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jamshedpur%20to%20Adityapur%20shifting." class="btn-jsr-adi-wa" target="_blank" rel="noopener" title="Get Instant WhatsApp Quote">
                     <i class="fa-brands fa-whatsapp"></i> WhatsApp Instant Quote
                 </a>
             </div>
         </div>
     </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
+        
     <!-- SECTION 1: ROUTE LOGISTICS & TRANSIT ANALYSIS -->
     <section class="jsr-adi-section">
         <div class="jsr-adi-container">

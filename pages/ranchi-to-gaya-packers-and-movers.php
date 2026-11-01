@@ -643,6 +643,42 @@ require_once __DIR__ . '/includes/seo.php';
       }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body class="r2g-wrapper">
 
@@ -678,7 +714,7 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="r2g-cta-group">
-      <a href="tel:+918409531615" class="r2g-btn-primary">
+      <a href="tel:+919835565233" class="r2g-btn-primary">
         <i class="fas fa-phone-alt"></i> Call Instant Helpline: 084095 31615
       </a>
       <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Gaya%20shifting." class="r2g-btn-secondary" target="_blank" rel="noopener">
@@ -687,6 +723,12 @@ require_once __DIR__ . '/includes/header.php';
     </div>
   </div>
 </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+    
+
+
 
 <!-- 2. Immediate Contact / Action Bar -->
 <section class="r2g-action-bar">
@@ -707,7 +749,7 @@ require_once __DIR__ . '/includes/header.php';
         </div>
       </div>
       <div class="r2g-action-links">
-        <a href="tel:+918409531615" class="r2g-phone-chip"><i class="fas fa-phone-volume"></i> 084095 31615</a>
+        <a href="tel:+919835565233" class="r2g-phone-chip"><i class="fas fa-phone-volume"></i> 084095 31615</a>
         <a href="https://api.whatsapp.com/send?phone=919835565233&text=Ranchi%20to%20Gaya%20shifting%20quote%20enquiry" class="r2g-whatsapp-chip" target="_blank" rel="noopener">
           <i class="fab fa-whatsapp"></i> Quick Chat
         </a>
@@ -1291,7 +1333,7 @@ require_once __DIR__ . '/includes/header.php';
       Get a guaranteed, all-inclusive quote today. Same-day 5-hour delivery, CUSB &amp; Government transfer bill compliance, and multi-layer defensive packing for a smooth relocation.
     </p>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <a href="tel:+918409531615" class="r2g-btn-primary" style="font-size: 1.05rem;">
+      <a href="tel:+919835565233" class="r2g-btn-primary" style="font-size: 1.05rem;">
         <i class="fas fa-phone-alt"></i> Call Helpline: 084095 31615
       </a>
       <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Gaya%20shifting." class="r2g-btn-secondary" target="_blank" rel="noopener" style="font-size: 1.05rem;">
@@ -1317,7 +1359,7 @@ require_once __DIR__ . '/includes/footer.php';
   "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
   "@id": "https://www.shreeashirwadpackers.com/#organization",
   "url": "https://www.shreeashirwadpackers.com",
-  "telephone": "+918409531615",
+  "telephone": "+919835565233",
   "priceRange": "₹₹",
   "address": {
     "@type": "PostalAddress",

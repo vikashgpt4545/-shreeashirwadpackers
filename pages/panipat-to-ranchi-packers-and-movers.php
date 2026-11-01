@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Panipat to Ranchi Packers and Movers | Secure Haryana to Jharkhand Moving";
-$page_description = "Trusted Panipat to Ranchi packers and movers. Safe home shifting, car carrier, IOCL refinery staff & textile business relocation via KMP & NH-19. Transit insurance & GST invoice. Call 8409531615.";
+$page_description = "Trusted Panipat to Ranchi packers and movers. Safe home shifting, car carrier, IOCL refinery staff & textile business relocation via KMP & NH-19. Transit insurance & GST invoice. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/panipat-to-ranchi-packers-and-movers";
 $page_keywords = "panipat to ranchi packers and movers, packers and movers panipat to ranchi, household relocation panipat to ranchi, car transport panipat to ranchi, bike courier panipat to ranchi, model town panipat movers, iocl refinery packers ranchi, sushant city panipat movers, haryana to jharkhand return logistics";
 
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
         "description": "Professional inbound intercity relocation service from Panipat, Model Town, IOCL Refinery Township, Sector 25, and Ansals Sushant City (Haryana) to Ranchi (Jharkhand). Expert household moving, automobile transportation, corporate returns, and all-risk transit insurance.",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
@@ -138,7 +138,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
             "url": "<?php echo SITE_BASE_URL; ?>/",
-            "telephone": "+91-8409531615"
+            "telephone": "+91-9835565233"
         },
         "areaServed": {
             "@type": "City",
@@ -526,6 +526,42 @@ require_once __DIR__ . '/../includes/seo.php';
             .pn2r-img-block { max-width: 100%; margin: 20px 0; }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -558,16 +594,21 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
         </div>
         <div class="pn2r-cta-bar">
-            <a href="tel:+918409531615" class="pn2r-btn-primary">Call Helpline: +91 8409531615</a>
+            <a href="tel:+919835565233" class="pn2r-btn-primary">Call Helpline: +91 9835565233</a>
             <a href="tel:+919835565233" class="pn2r-btn-secondary">Booking Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="pn2r-btn-secondary">Get Instant Return Move Quote</a>
         </div>
     </div>
 </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Main Container -->
 <main class="pn2r-content-wrap">
 
+        
     <!-- Section 1: Overview & Reverse Logistics Advantage -->
     <section class="pn2r-section">
         <h2 class="pn2r-section-title">Reliable Return Relocation from Panipat to Ranchi</h2>
@@ -942,7 +983,7 @@ require_once __DIR__ . '/../includes/seo.php';
         <h3>Book Your Panipat to Ranchi Relocation Today</h3>
         <p>Get in touch with our moving specialists for a free home survey, customized cost estimate, and seamless return moving to Ranchi with complete peace of mind.</p>
         <div class="pn2r-cta-bar" style="justify-content: center;">
-            <a href="tel:+918409531615" class="pn2r-btn-primary">Call Now: +91 8409531615</a>
+            <a href="tel:+919835565233" class="pn2r-btn-primary">Call Now: +91 9835565233</a>
             <a href="tel:+919835565233" class="pn2r-btn-secondary">Mobile: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="pn2r-btn-secondary">Request Free Survey</a>
         </div>

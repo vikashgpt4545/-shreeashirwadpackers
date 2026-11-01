@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Rajkot Packers and Movers | Safe 1,820 km Relocation";
-$page_description = "Reliable Ranchi to Rajkot packers and movers. Verified household shifting, car transport & engineering moves to Metoda GIDC, Shapar & Kalawad Road. Call 8409531615.";
+$page_description = "Reliable Ranchi to Rajkot packers and movers. Verified household shifting, car transport & engineering moves to Metoda GIDC, Shapar & Kalawad Road. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-rajkot-packers-and-movers";
 $page_keywords = "ranchi to rajkot packers and movers, packers and movers ranchi to rajkot, household shifting ranchi to rajkot, car transport ranchi to rajkot, bike courier ranchi to rajkot, metoda gidc movers, shapar veraval industrial shifting, kalawad road rajkot movers";
 
@@ -72,7 +72,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Certified long-distance moving specialist offering household shifting, automobile transport, industrial equipment logistics, and corporate transfers from Ranchi to Rajkot.",
-        "telephone": "+918409531615",
+        "telephone": "+919835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
@@ -644,6 +644,42 @@ require_once __DIR__ . '/../includes/seo.php';
             }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -662,8 +698,8 @@ require_once __DIR__ . '/../includes/seo.php';
             Experience seamless, zero-damage inter-state shifting from Ranchi to Rajkot with Jharkhand's most trusted moving specialist. From residential family relocations in Kalawad Road, University Road, 150 Feet Ring Road, and Amin Marg to commercial engineering and machine tool moves in Metoda GIDC, Shapar-Veraval, and Bhaktinagar, Shree Ashirwad Packers and Movers delivers guaranteed punctual delivery, specialized 5-layer packing, GPS container fleet tracking, and complete transit insurance across the 1,820 km highway corridor.
         </p>
         <div class="rrj-hero-cta">
-            <a href="tel:+918409531615" class="rrj-btn-primary">
-                <i class="fa-solid fa-phone"></i> Call 8409531615
+            <a href="tel:+919835565233" class="rrj-btn-primary">
+                <i class="fa-solid fa-phone"></i> Call 9835565233
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rrj-btn-secondary">
                 <i class="fa-solid fa-file-invoice"></i> Get Free Move Quote
@@ -671,6 +707,52 @@ require_once __DIR__ . '/../includes/seo.php';
         </div>
     </div>
 </section>
+
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Ranchi to Rajkot
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Ranchi to Rajkot</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Ranchi and Rajkot with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Ranchi</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Ranchi and Rajkot along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Ranchi</strong>, intercity relocation to Rajkot, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Ranchi to Rajkot</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Ranchi to Rajkot</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Ranchi to Rajkot</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Ranchi to Rajkot</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Rajkot</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
 
 <!-- ROUTE METRICS STRIP -->
 <div class="rrj-metrics-bar">
@@ -696,7 +778,8 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </div>
 
-<!-- SECTION 1: DETAILED CORRIDOR LOGISTICS -->
+    
+    <!-- SECTION 1: DETAILED CORRIDOR LOGISTICS -->
 <section class="rrj-section">
     <div class="rrj-container">
         <div class="rrj-two-col">
@@ -1061,10 +1144,10 @@ require_once __DIR__ . '/../includes/seo.php';
             Contact our dedicated interstate move consultants today for an accurate transparent quotation, custom moving schedule, and free pre-move home survey in Ranchi.
         </p>
         <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-            <a href="tel:+918409531615" class="rrj-btn-primary" style="font-size: 1.05rem; padding: 15px 32px;">
-                <i class="fa-solid fa-phone"></i> Call 8409531615
+            <a href="tel:+919835565233" class="rrj-btn-primary" style="font-size: 1.05rem; padding: 15px 32px;">
+                <i class="fa-solid fa-phone"></i> Call 9835565233
             </a>
-            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Ranchi%20to%20Rajkot" target="_blank" rel="noopener noreferrer" class="rrj-btn-secondary" style="background: #25D366; border-color: #25D366; font-size: 1.05rem; padding: 15px 32px;">
+            <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Ranchi%20to%20Rajkot" target="_blank" rel="noopener noreferrer" class="rrj-btn-secondary" style="background: #25D366; border-color: #25D366; font-size: 1.05rem; padding: 15px 32px;">
                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rrj-btn-secondary" style="font-size: 1.05rem; padding: 15px 32px;">

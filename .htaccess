@@ -83,7 +83,6 @@ RewriteRule ^packers-and-movers-in-(burmu|khalari|nagri|rahe)-ranchi(\.php)?/?$ 
 # 301 Permanent Redirects for Ranchi Head-Term Duplicate Slugs to Homepage Authority
 RewriteRule ^packers-and-movers-in-ranchi-jharkhand(\.php)?/?$ / [R=301,L]
 RewriteRule ^professional-packers-and-movers-in-ranchi(\.php)?/?$ / [R=301,L]
-RewriteRule ^packers-and-movers-in-ranchi(\.php)?/?$ / [R=301,L]
 
 # 301 Permanent Redirects for Duplicate Spelling Slugs and Regional Slugs
 RewriteRule ^packers-and-movers-in-nagaruntari(\.php)?/?$ /packers-and-movers-in-nagar-untari [R=301,L]

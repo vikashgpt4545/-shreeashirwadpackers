@@ -13,7 +13,7 @@
 
 // Define page-specific metadata
 $page_title = "Indore to Ranchi Packers & Movers | Shree Ashirwad";
-$page_description = "Top Indore to Ranchi packers and movers by Shree Ashirwad. Express 24-hr linehaul via Bhopal/NH-43, Pithampur & IT bills, 5-layer packing. Call 8409531615.";
+$page_description = "Top Indore to Ranchi packers and movers by Shree Ashirwad. Express 24-hr linehaul via Bhopal/NH-43, Pithampur & IT bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/indore-to-ranchi-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -70,7 +70,7 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-8409531615",
+    "telephone": "+91-9835565233",
     "email": "support@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,500 - ₹72,000",
@@ -153,7 +153,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+91-8409531615",
+      "telephone": "+91-9835565233",
       "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": {
@@ -1028,6 +1028,42 @@ require_once __DIR__ . '/includes/seo.php';
       .i2r-cluster-grid { grid-template-columns: 1fr; }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body class="i2r-body">
 
@@ -1066,6 +1102,12 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+    
+
+
+
   <!-- Instant Inquiry Call Bar -->
   <div class="i2r-container">
     <div class="i2r-cta-bar">
@@ -1079,9 +1121,9 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
       </div>
       <div class="i2r-cta-actions">
-        <a href="tel:+918409531615" class="i2r-btn i2r-btn-primary">
+        <a href="tel:+919835565233" class="i2r-btn i2r-btn-primary">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-          Call 8409531615
+          Call 9835565233
         </a>
         <a href="https://wa.me/919835565233?text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20relocation%20quote%20from%20Indore%20to%20Ranchi" class="i2r-btn i2r-btn-secondary" target="_blank" rel="noopener">
           WhatsApp Quote

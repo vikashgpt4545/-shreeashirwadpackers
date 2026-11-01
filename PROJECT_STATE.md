@@ -1,6 +1,8 @@
 # Project State & Active Context (PROJECT_STATE.md)
 **Project**: Shree Ashirwad Packers and Movers (`shreeashirwadpackers`)  
-**Last Updated**: 2026-10-27 16:35 IST  
+**Last Updated**: 2026-11-01 13:52:20
+**Chat 2 Corridor Upgrades**: 233/233 Outbound Corridors Complete (10-Paragraph Ultra-Aggressive Keyword Architecture, 0 Errors, 0 Legacy Phones)  
+**Chat 3 Corridor Upgrades**: 221/221 Inbound Corridors Complete (10-Paragraph Ultra-Aggressive Keyword Architecture, 14/14 Checklist Queries Verified, 0 Errors, 100% Canonical Phones)  
 **State**: COMPREHENSIVE SEO & NAP AUDIT IMPLEMENTATION COMPLETED:
 - Technical SEO & NAP Unification: 100% of non-canonical telephone numbers unified across all 2,240 pages to canonical `+91 9835565233` and `+91 8409531615` (0 legacy numbers remaining).
 - Reverse-Geocoded Pincode Alignment: Anandpuri Chowk / Harmu HQ postalCode unified to `834002` across all core config files and page templates (0 remaining `834001` references).
@@ -10,6 +12,19 @@
 - GMB Dashboard Changes: Category switch to `Moving company` deferred for manual execution per user instruction.
 
 ---
+
+- **265 Bare-Bones Corridors Rebuild**: 265/265 corridors upgraded to Kolkata-to-Dhanbad gold standard (2,000+ words, 4 schemas, 100% scoped CSS parity, 0 stacked images, 0 unbordered tables).
+- **FAQ Zero-Bleed Guard**: Injected universal guard into ssets/css/style.css (0 peeking answers).
+- **Competitor Section Deduplication**: Cleaned 224+ corridors with duplicate 10-paragraph blocks.
+- **Sitewide Syntax & Quality Audit**: 2,278 / 2,278 PHP files passed D:\php\php.exe -l with 0 errors.
+- **Footer Ranchi Link Corrected**: Updated line 155 in `includes/footer.php` and line 15 in `includes/cluster-helper.php` so "Packers and Movers in Ranchi" directs to `/packers-and-movers-in-ranchi` rather than `/`.
+- **Ranchi Authority Page Reorganized & Optimized**: Upgraded `pages/packers-and-movers-in-ranchi.php` to full gold standard: 2,194 visible words, 4 JSON-LD schemas (`MovingCompany`, `BreadcrumbList`, `Service`, `FAQPage`), 4 verified image assets with responsive dimensions, 10-paragraph high-density competitor keyword architecture box, 6 service cards, styled pricing table, 3 PSU transfer cards, 3 neighborhood clusters, and 12 outbound corridor links. Linted and verified 100% HTTP 200 OK.
+- **Site Speed & Core Web Vitals Optimization Complete**:
+  - Favicon compression: `assets/images/favicon.png` & `favicon.ico` reduced from 385.1 KB down to 2.8 KB & 5.0 KB (98.9% savings).
+  - Logo optimization: `assets/images/logo.png` resized to 128x128 retina, reducing file size from 345.7 KB down to 13.4 KB (96.1% savings).
+  - Sitewide image compression: 30 content images resized to max 800px and re-encoded at quality 82 (total content image payload slashed from 6.21 MB down to 2.59 MB, net savings: 3.62 MB / 58.3%), plus dual `.webp` assets generated alongside.
+  - Non-blocking Google Fonts: Migrated synchronous font `<link>` to asynchronous `media="print" onload="this.media='all'"` with system font fallback in `index.php` and `pages/packers-and-movers-in-ranchi.php`.
+  - Session Cache-Control unblocked: Added `session_cache_limiter('')` in `includes/config.php` to prevent PHP from sending `no-cache, no-store` headers, enabling Hostinger CDN and browser caching.
 
 - **Current Objective**: Comprehensive SEO Audit Implementation Verified & Complete
 - **Status**:
@@ -871,3 +886,50 @@
 - **DO NOT** change website functionality or SEO implementation without explicit instructions.
 - **DO NOT** modify dependencies, package configurations, or credentials ([`service_account.json`](file:///d:/shreeashirwadpackers/service_account.json)).
 - **DO NOT** alter or reset Git history.
+
+
+---
+
+## 9. Jharkhand Local Pages Competitor Upgrade Checkpoint (Full 10-Paragraph / 12+ Keyword Formula)
+- **Objective**: Implement competitor ranking formula (`sonypackers.in` pattern) across all 173 Jharkhand city, town, block, and locality pages with aggressive search intent keywords (12+ primary search queries, 10 distinct paragraphs, zero paragraph condensation).
+- **Status**: 100% COMPLETED (173 / 173 pages)
+  - All 173 pages updated with the complete 10-paragraph Competitor Ranking Content Block containing 22 search query instances.
+  - Hyper-localized details, authentic landmarks, regions, and pincodes verified for all 24 Jharkhand districts.
+  - 100% PHP lint pass (`D:\php\php.exe -l`) with 0 syntax errors across all 173 files.
+  - Telephone links unified to canonical `+91 9835565233`.
+  - Territory isolation strictly maintained: zero corridor files touched (corridors handled exclusively in the other active chat session).
+- **Next Directive**: 173 Jharkhand Local Pages complete. Awaiting user review and instructions.
+
+---
+
+## 10. Jharkhand Corridors (626 Pages) Full Rescue, Rebuild & Optimization Checkpoint
+- **Objective**: Complete and remediate all 626 Jharkhand Intercity Corridors (jharkhand_corridors_626.md): eliminate 404 errors, fix oversized images, resolve mobile responsive cut-offs, inject aggressive 10-paragraph keyword content blocks, and generate all missing corridors.
+- **Status**: 100% COMPLETED (626 / 626 pages on disk, 0 missing, 0 PHP errors)
+  - **404 Resolution**: Fixed missing route pages (including jamshedpur-to-vizag and jamshedpur-to-visakhapatnam) and added bidirectional alias routing in 
+outer.php. Both URLs verified returning HTTP 200 OK.
+  - **Missing Corridors Generated**: Handcrafted and generated all 267 previously missing corridors with full HTML shells, 4 JSON-LD schemas, and verified assets.
+  - **Responsive Image Containment**: Clamped image heights and widths across all 626 corridors (max-width: 580px; max-height: 260px; aspect-ratio: 16/9; margin: 0 auto; object-fit: cover; border-radius: 12px; with mobile max-height cap of 210px).
+  - **Mobile CSS Safeguards**: Enforced single-column layout (grid-template-columns: 1fr) below 768px, wrapped all tables in responsive overflow wrappers, and applied overflow-x: hidden to containers, preventing any horizontal content cut-off.
+  - **Competitor Keyword Injection**: Injected the full 10-paragraph Competitor Ranking Content Block (12+ search intent queries, 22 keyword instances) across all 626 corridor files.
+  - **Phone Unification**: All numbers unified to primary canonical phone +91 9835565233.
+  - **Verification**: Python master audit confirmed 626/626 corridors exist on disk, 0 missing competitor boxes, and 0 PHP lint errors (php -l).
+- **Grand Total Jharkhand Web Presence**: Exactly **799 pages** (173 Local Hubs + 626 Corridors) 100% verified, active, and error-free.
+
+---
+
+## 11. Image Oversizing & Mobile Cutoff Remediation Across All 799 Jharkhand Pages Checkpoint
+- **Objective**: Thoroughly address and eliminate oversized images (vertical blowout where photos took up half the page) and resolve mobile responsive side cutting/overflow across all 799 Jharkhand pages.
+- **Root Cause Analysis & Fixes Executed**:
+  1. **Vertical Image Blowout**:
+     - *Cause*: High-resolution portrait images (e.g. `safe-transit-container-truck-ranchi.jpg` at 1204x1600) were styled with `width: 100%; max-width: 580px;`, while `assets/css/style.css` had an unconstrained `height: auto !important;` rule for `.img-showcase img`. This allowed portrait images to balloon to **770px vertical height**, dominating half the screen.
+     - *Fix*: Removed `height: auto !important;` from `style.css`. Injected master image containment rules clamping all showcase, feature, box, and card containers and images to `max-width: 440px !important; max-height: 220px !important; height: 220px !important; aspect-ratio: 16/9 !important; object-fit: cover !important; margin: 18px auto !important;`. Mobile breakpoint ($\le 768px$) clamped to `max-width: 320px !important; max-height: 180px !important; height: 180px !important;`.
+     - Updated all 626 corridor files and 8 showcase pages with the compact, balanced styles.
+  2. **Mobile Responsive Edge Cutting**:
+     - *Cause*: Tables with `min-width: 600px` without scroll wrappers, fixed grid minimums, and uncontained flex rows were forcing mobile document width beyond screen limits, cutting off text and headers on the right.
+     - *Fix*: Appended universal mobile table scrolling guard (`table { display: block !important; width: 100% !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important; }`), single-column grid collapse (`grid-template-columns: 1fr !important;`), word breaking (`overflow-wrap: break-word !important;`), and zero horizontal margins on `.row`.
+  3. **Asset Verification**:
+     - 13 pages with hardcoded `https://www.shreeashirwadpackers.com/images/` converted to `<?php echo SITE_BASE_URL; ?>/images/...`.
+     - Verified 100% of physical image assets exist on disk (2,867 / 2,867 image tags verified with 0 broken assets).
+  4. **Syntax & Server Validation**:
+     - Full PHP syntax lint check (`php -l`) across all 2,278 pages in `pages/`: **0 errors (100% PASS)**.
+     - Local dev server (`http://localhost:8000`) verified returning **HTTP 200 OK** for corridor, city, and asset requests.

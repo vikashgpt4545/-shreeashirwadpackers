@@ -10,7 +10,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Bhubaneswar Packers and Movers | Express Highway Shifting - Shree Ashirwad";
-$page_description = "Certified Ranchi to Bhubaneswar Packers and Movers by Shree Ashirwad. Dedicated 480 km highway transit via NH-43 & NH-16, 4-layer packing, 24-36 hr delivery to Patia, Chandrasekharpur & Cuttack. Call 8409531615.";
+$page_description = "Certified Ranchi to Bhubaneswar Packers and Movers by Shree Ashirwad. Dedicated 480 km highway transit via NH-43 & NH-16, 4-layer packing, 24-36 hr delivery to Patia, Chandrasekharpur & Cuttack. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-bhubaneswar-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -69,7 +69,7 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com",
-    "telephone": "+91-8409531615",
+    "telephone": "+91-9835565233",
     "priceRange": "₹4,500 - ₹42,000",
     "address": {
       "@type": "PostalAddress",
@@ -475,6 +475,42 @@ require_once __DIR__ . '/includes/seo.php';
       border-color: #1b4965;
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -494,8 +530,55 @@ require_once __DIR__ . '/includes/seo.php';
   </div>
 </section>
 
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Ranchi to Bhubaneswar
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Ranchi to Bhubaneswar</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Ranchi and Bhubaneswar with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Ranchi</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Ranchi and Bhubaneswar along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Ranchi</strong>, intercity relocation to Bhubaneswar, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Ranchi to Bhubaneswar</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Ranchi to Bhubaneswar</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Ranchi to Bhubaneswar</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Ranchi to Bhubaneswar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Bhubaneswar</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Main Body Content -->
-<main class="bhub-content">
+    
+    <main class="bhub-content">
 
   <!-- First Verified Image: Constrained as required -->
   <div style="text-align: center; margin: 0 auto 35px;">
@@ -637,7 +720,7 @@ require_once __DIR__ . '/includes/seo.php';
   <p>To ensure a completely seamless relocation experience, follow this strategic timeline:</p>
   <div class="corridor-callout">
     <ol style="margin-bottom:0; padding-left:20px;">
-      <li><strong>4 Weeks Before Move:</strong> Contact Shree Ashirwad at +91 8409531615 for a free in-home survey. Declutter non-essential household items and donate unwanted goods.</li>
+      <li><strong>4 Weeks Before Move:</strong> Contact Shree Ashirwad at +91 9835565233 for a free in-home survey. Declutter non-essential household items and donate unwanted goods.</li>
       <li><strong>3 Weeks Before Move:</strong> Contact your destination housing society in Bhubaneswar (Patia, Infocity, or Nayapalli) to secure move-in clearances and freight elevator reservations.</li>
       <li><strong>2 Weeks Before Move:</strong> Book travel tickets from Ranchi to Bhubaneswar (via direct flight or train). Arrange school transfer certificates and bank address updates.</li>
       <li><strong>1 Week Before Move:</strong> Service personal vehicles scheduled for transport. Disconnect high-speed home fiber broadband and gas cylinder connections.</li>
@@ -685,7 +768,7 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
     <div class="faq-item-bhub">
       <div class="faq-q-bhub">How do I book my move from Ranchi to Bhubaneswar with Shree Ashirwad?</div>
-      <div class="faq-a-bhub">Call our Ranchi headquarters at +91 8409531615 to arrange a free in-home survey or virtual video assessment. We issue an official written quotation, and you can reserve your preferred moving date with a nominal advance token.</div>
+      <div class="faq-a-bhub">Call our Ranchi headquarters at +91 9835565233 to arrange a free in-home survey or virtual video assessment. We issue an official written quotation, and you can reserve your preferred moving date with a nominal advance token.</div>
     </div>
   </div>
 
@@ -693,7 +776,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="cta-banner-bhub">
     <h3>Relocating from Ranchi to Bhubaneswar? Experience Next-Day Delivery!</h3>
     <p>Enjoy direct sealed container transit, 4-layer defensive packing, GPS tracking, and complete IBA-approved corporate reimbursement support.</p>
-    <a href="tel:+918409531615" class="cta-btn-ice">📞 Call Now: +91 8409531615</a>
+    <a href="tel:+919835565233" class="cta-btn-ice">📞 Call Now: +91 9835565233</a>
     <p style="font-size: 0.9rem; margin-top: 15px; color: #bee9e8;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</p>
   </div>
 

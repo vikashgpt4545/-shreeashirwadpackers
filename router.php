@@ -69,7 +69,6 @@ $redirect_map = [
     'packers-and-movers-in-sonahatu-ranchi' => '/packers-and-movers-in-sonahatu',
 
     // Ranchi Head-Term Cannibalization Consolidation to Homepage Authority
-    'packers-and-movers-in-ranchi' => '/',
     'packers-and-movers-in-ranchi-jharkhand' => '/',
     'professional-packers-and-movers-in-ranchi' => '/',
 
@@ -216,6 +215,23 @@ $clean_slug = preg_replace('/\.php$/i', '', trim($path, '/'));
 if (!empty($clean_slug) && file_exists(__DIR__ . '/pages/' . $clean_slug . '.php')) {
     include __DIR__ . '/pages/' . $clean_slug . '.php';
     exit;
+}
+
+// Vizag <-> Visakhapatnam corridor slug interchangeability
+if (!empty($clean_slug)) {
+    if (strpos($clean_slug, '-vizag-') !== false) {
+        $alt_slug = str_replace('-vizag-', '-visakhapatnam-', $clean_slug);
+        if (file_exists(__DIR__ . '/pages/' . $alt_slug . '.php')) {
+            include __DIR__ . '/pages/' . $alt_slug . '.php';
+            exit;
+        }
+    } elseif (strpos($clean_slug, '-visakhapatnam-') !== false) {
+        $alt_slug = str_replace('-visakhapatnam-', '-vizag-', $clean_slug);
+        if (file_exists(__DIR__ . '/pages/' . $alt_slug . '.php')) {
+            include __DIR__ . '/pages/' . $alt_slug . '.php';
+            exit;
+        }
+    }
 }
 
 $real_file = __DIR__ . str_replace('/', DIRECTORY_SEPARATOR, $path);

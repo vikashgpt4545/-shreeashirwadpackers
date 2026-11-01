@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Giridih to Kolkata Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Top-rated Giridih to Kolkata packers and movers. 310 km via NH-19 GT Road, express delivery, 5-layer safety packing, GST corporate billing, car & bike carrier. Call 8409531615.";
+$page_desc = "Top-rated Giridih to Kolkata packers and movers. 310 km via NH-19 GT Road, express delivery, 5-layer safety packing, GST corporate billing, car & bike carrier. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-kolkata-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -441,7 +441,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-kolkata-packer
       "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
       "@id": "https://www.shreeashirwadpackers.com/#giridih-to-kolkata-packers",
       "url": "https://www.shreeashirwadpackers.com/giridih-to-kolkata-packers-and-movers",
-      "telephone": "+91-8409531615",
+      "telephone": "+91-9835565233",
       "priceRange": "INR 9,500 - 68,000",
       "address": {
         "@type": "PostalAddress",
@@ -486,7 +486,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-kolkata-packer
       "provider": {
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "url": "https://www.shreeashirwadpackers.com"
       },
       "areaServed": [
@@ -613,6 +613,42 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-kolkata-packer
       ]
     }
     </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
     <?php require_once __DIR__ . '/../includes/header.php'; ?>
@@ -631,9 +667,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-kolkata-packer
                 Professional intercity moving services from Giridih to Kolkata, Salt Lake, and New Town. Complete household shifting, IT & corporate employee transfers, enclosed car carrier transit, and bike courier with guaranteed same-day delivery via the NH-19 expressway.
             </p>
             <div class="gir2kol-hero-cta">
-                <a href="tel:8409531615" class="gir2kol-btn-primary">
+                <a href="tel:9835565233" class="gir2kol-btn-primary">
                     <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24c1.12.37 2.33.57 3.57.57a1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.24.2 2.45.57 3.57a1 1 0 01-.24 1.02l-2.21 2.2z"/></svg>
-                    Call: 8409531615
+                    Call: 9835565233
                 </a>
                 <a href="#gir2kol-quote" class="gir2kol-btn-outline">
                     <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
@@ -661,6 +697,12 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-kolkata-packer
             </div>
         </div>
     </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+    
+
+
 
     <!-- Overview Section -->
     <section class="gir2kol-section">
@@ -1024,11 +1066,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-kolkata-packer
                     Contact Shree Ashirwad Packers and Movers today for an instant free moving estimate. Experience prompt, professional shifting with verified intercity relocation experts.
                 </p>
                 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-                    <a href="tel:8409531615" class="gir2kol-btn-primary" style="background: #f59e0b; color: #0f172a;">
+                    <a href="tel:9835565233" class="gir2kol-btn-primary" style="background: #f59e0b; color: #0f172a;">
                         <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24c1.12.37 2.33.57 3.57.57a1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.24.2 2.45.57 3.57a1 1 0 01-.24 1.02l-2.21 2.2z"/></svg>
-                        Call 8409531615
+                        Call 9835565233
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20relocation%20from%20Giridih%20to%20Kolkata." class="gir2kol-btn-outline" target="_blank" rel="noopener noreferrer">
+                    <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20relocation%20from%20Giridih%20to%20Kolkata." class="gir2kol-btn-outline" target="_blank" rel="noopener noreferrer">
                         Chat on WhatsApp
                     </a>
                 </div>

@@ -20,10 +20,14 @@ require_once __DIR__ . '/includes/seo.php';
   <!-- SEO & Schema Markup -->
   <?php render_seo_tags('home'); ?>
 
-  <!-- Preconnect Google Fonts for High PageSpeed Core Web Vitals -->
+  <!-- Preconnect & Asynchronous Google Fonts for High PageSpeed Core Web Vitals -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" media="print" onload="this.media='all'">
+  <noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap">
+  </noscript>
 
   <!-- Core Stylesheet -->
   <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">

@@ -7,15 +7,15 @@ require_once "includes/config.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Packers and Movers in Nirsa - 8409531615</title>
-    <meta name="description" content="Best packers and movers in Nirsa Dhanbad. Shree Ashirwad Packers offers 100% safe household shifting, ECL coal mine transfers, car/bike transport & warehouse storage in Nirsa. Call 8409531615.">
-    <meta name="keywords" content="packers and movers in nirsa, movers and packers nirsa dhanbad, ecl mugma transfer packers, chirkunda kumardhubi packers movers, nh 19 gt road transport nirsa, car bike transport nirsa dhanbad, shree ashirwad packers and movers">
+    <title>Packers and Movers in Nirsa - 9835565233 | Best Shifting Services</title>
+    <meta name="description" content="Looking for trusted packers and movers in Nirsa Dhanbad? Shree Ashirwad Packers offers 100% safe household shifting, ECL coal mine transfers, car &amp; bike transport. Call +91 9835565233.">
+    <meta name="keywords" content="packers and movers in nirsa, best packers and movers in nirsa, movers and packers near me in nirsa, movers and packers nirsa dhanbad, ecl mugma transfer packers, chirkunda kumardhubi packers movers, nh 19 gt road transport nirsa, car bike transport nirsa dhanbad, shree ashirwad packers and movers">
     <link rel="canonical" href="https://www.shreeashirwadpackers.com/packers-and-movers-in-nirsa">
     <meta name="robots" content="index, follow">
 
     <!-- Open Graph Tags -->
     <meta property="og:title" content="Packers and Movers in Nirsa Dhanbad | Shree Ashirwad Packers & Movers">
-    <meta property="og:description" content="Certified, safe, and damage-free household shifting, ECL mining employee transfers, and car/bike transport in Nirsa, Dhanbad. Call 8409531615 for a free estimate.">
+    <meta property="og:description" content="Certified, safe, and damage-free household shifting, ECL mining employee transfers, and car/bike transport in Nirsa, Dhanbad. Call +91 9835565233 for a free estimate.">
     <meta property="og:url" content="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nirsa">
     <meta property="og:type" content="business.business">
     <meta property="og:image" content="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg">
@@ -41,7 +41,7 @@ require_once "includes/config.php";
                 "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-nirsa",
                 "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
                 "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
-                "telephone": "+91-8409531615",
+                "telephone": "+91 9835565233",
                 "email": "info@shreeashirwadpackers.com",
                 "description": "Leading packing and moving company in Nirsa, Dhanbad providing premium household shifting, Eastern Coalfields Limited (ECL) mining employee transfers, refractory industrial logistics, car/bike carrier transport, and secure warehousing.",
                 "priceRange": "₹₹",
@@ -207,7 +207,7 @@ require_once "includes/config.php";
                 Packers and Movers in Nirsa, Dhanbad
             </h1>
             <p style="font-size: 1.15rem; line-height: 1.8; color: #e2e8f0; margin-bottom: 30px;">
-                Experience certified, safe, and dust-proof packing and moving services in Nirsa, Dhanbad. Serving Eastern Coalfields Limited (ECL) Mugma Area employees, refractory plant professionals, business families, and interstate travelers along Grand Trunk Road (NH-19). Shree Ashirwad Packers and Movers delivers certified 5-layer protective packing, GPS-monitored enclosed container trucks, trained moving crews, and full transit insurance.
+                Looking for the best packers and movers in Nirsa Dhanbad? Shree Ashirwad Packers and Movers provides trusted household shifting, ECL Mugma mining staff relocations, GT Road industrial moving, bike transport, car transport, and complete moving solutions at affordable prices across Nirsa and Dhanbad coalfields.
             </p>
             <div class="hero-highlights" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 35px;">
                 <div style="display: flex; align-items: center; gap: 10px; font-size: 0.95rem; color: #cbd5e1;">
@@ -224,8 +224,8 @@ require_once "includes/config.php";
                 </div>
             </div>
             <div class="hero-actions" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:8409531615" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: 8409531615
+                <a href="tel:+919835565233" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-calculator"></i> Get Free Moving Estimate
@@ -249,6 +249,47 @@ require_once "includes/config.php";
         </ol>
     </div>
 </nav>
+
+        <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Nirsa
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Nirsa</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Nirsa and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Nirsa</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Nirsa Chowk, Grand Trunk Road (NH-19), Mugma colliery belt, Chirkunda, Kumardhubi, and Barakar bridge corridor for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Nirsa</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Nirsa</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Nirsa</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Nirsa</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Nirsa</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Nirsa</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
 
 <!-- Introduction Section -->
 <section class="intro-section" style="padding: 70px 0; background: #ffffff;">
@@ -568,8 +609,8 @@ require_once "includes/config.php";
                     </div>
                     <div style="border-top: 1px solid rgba(255, 255, 255, 0.15); padding-top: 20px; text-align: center;">
                         <span style="font-size: 0.95rem; color: #cbd5e1;">Moving in Nirsa? Call our regional coordinator:</span>
-                        <a href="tel:8409531615" style="display: block; font-size: 1.3rem; font-weight: 700; color: #ffc107; text-decoration: none; margin-top: 5px;">
-                            <i class="fa-solid fa-phone"></i> +91 8409531615
+                        <a href="tel:9835565233" style="display: block; font-size: 1.3rem; font-weight: 700; color: #ffc107; text-decoration: none; margin-top: 5px;">
+                            <i class="fa-solid fa-phone"></i> +91 9835565233
                         </a>
                     </div>
                 </div>
@@ -642,7 +683,7 @@ require_once "includes/config.php";
             </table>
         </div>
         <p style="font-size: 0.85rem; color: #64748b; margin-top: 15px; text-align: center;">
-            *Note: Final moving cost is determined by overall goods volume, floor levels, elevator availability, exact distance, and optional insurance. Call 8409531615 for a custom quote.
+            *Note: Final moving cost is determined by overall goods volume, floor levels, elevator availability, exact distance, and optional insurance. Call 9835565233 for a custom quote.
         </p>
     </div>
 </section>
@@ -998,8 +1039,8 @@ require_once "includes/config.php";
                 Contact our Nirsa relocation team today for a free, transparent moving quote tailored specifically to your home, ECL transfer, or corporate relocation needs.
             </p>
             <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-                <a href="tel:8409531615" class="btn" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 15px 32px; border-radius: 8px; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 10px;">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: 8409531615
+                <a href="tel:9835565233" class="btn" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 15px 32px; border-radius: 8px; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 10px;">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 15px 32px; border-radius: 8px; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-envelope"></i> Send Moving Inquiry

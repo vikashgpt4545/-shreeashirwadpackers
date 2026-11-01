@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Warangal Packers and Movers | Safe 1,120 km Relocation";
-$page_description = "Certified Ranchi to Warangal (Hanamkonda-Kazipet) packers and movers. Safe home shifting, car transport, NIT Warangal faculty moves & transit insurance. Direct container fleet. Call 8409531615.";
+$page_description = "Certified Ranchi to Warangal (Hanamkonda-Kazipet) packers and movers. Safe home shifting, car transport, NIT Warangal faculty moves & transit insurance. Direct container fleet. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-warangal-packers-and-movers";
 $page_keywords = "ranchi to warangal packers and movers, packers and movers ranchi to hanamkonda, household shifting ranchi to warangal, car transport ranchi to kazipet, bike courier ranchi to warangal, nit warangal relocation, subedari packers, kazipet railway movers";
 
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg",
         "description": "Professional intercity packers and movers service connecting Ranchi (Jharkhand) to Warangal-Hanamkonda-Kazipet tri-cities (Telangana). Safe residential shifting, vehicle transport, corporate transfers, and transit insurance.",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
@@ -523,6 +523,42 @@ require_once __DIR__ . '/../includes/seo.php';
             .rwar-btn-primary, .rwar-btn-secondary { text-align: center; }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -555,16 +591,21 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
         </div>
         <div class="rwar-cta-bar">
-            <a href="tel:+918409531615" class="rwar-btn-primary">Call Booking Desk: +91 8409531615</a>
+            <a href="tel:+919835565233" class="rwar-btn-primary">Call Booking Desk: +91 9835565233</a>
             <a href="tel:+919835565233" class="rwar-btn-secondary">Alternate Line: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rwar-btn-secondary">Request Free Survey & Quotation</a>
         </div>
     </div>
 </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Main Container -->
 <main class="rwar-content-wrap">
 
+        
     <!-- Section 1: Overview & Strategic Corridor -->
     <section class="rwar-section">
         <h2 class="rwar-section-title">Strategic Relocation Logistics from Ranchi to Warangal Tri-Cities</h2>
@@ -962,7 +1003,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Experience damage-free intercity relocation backed by certified packing professionals, direct GPS-enabled container fleets, and comprehensive all-risk transit insurance across 1,120 km.
         </p>
         <div class="rwar-cta-bar" style="justify-content: center;">
-            <a href="tel:+918409531615" class="rwar-btn-primary">Call Now: +91 8409531615</a>
+            <a href="tel:+919835565233" class="rwar-btn-primary">Call Now: +91 9835565233</a>
             <a href="tel:+919835565233" class="rwar-btn-secondary">Mobile: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rwar-btn-secondary">Book Free Pre-Move Survey</a>
         </div>

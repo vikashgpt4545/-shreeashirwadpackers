@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Thane to Ranchi Packers and Movers | Safe 1,720 km Relocation";
-$page_description = "Reliable Thane to Ranchi packers and movers. Verified household shifting, car carriers & bike parcel from Ghodbunder Rd, Majiwada & Hiranandani. Call 8409531615.";
+$page_description = "Reliable Thane to Ranchi packers and movers. Verified household shifting, car carriers & bike parcel from Ghodbunder Rd, Majiwada & Hiranandani. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/thane-to-ranchi-packers-and-movers";
 $page_keywords = "thane to ranchi packers and movers, packers and movers thane to ranchi, household shifting thane to ranchi, car transport thane to ranchi, bike courier thane to ranchi, ghodbunder road to ranchi movers, hiranandani thane to ranchi shifting";
 
@@ -72,7 +72,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Licensed and certified inter-state packers and movers providing premium household shifting, vehicle relocation, and door-to-door transit between Thane and Ranchi.",
-        "telephone": "+918409531615",
+        "telephone": "+919835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
@@ -640,6 +640,42 @@ require_once __DIR__ . '/../includes/seo.php';
             }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -658,8 +694,8 @@ require_once __DIR__ . '/../includes/seo.php';
             Relocate with absolute peace of mind from Thane Metropolitan Region to Ranchi, Jharkhand. Specialized in corporate employee transfers, family household shifting, and luxury vehicle transport from Ghodbunder Road, Majiwada, and Hiranandani Estate to premier residential colonies across Ranchi. Enjoy verified 5-layer moisture-proof packaging, GPS-tracked sealed containers, and door-to-door delivery across 1,720 km.
         </p>
         <div class="thr-hero-cta">
-            <a href="tel:+918409531615" class="thr-btn-primary">
-                <i class="fa-solid fa-phone"></i> Call 8409531615
+            <a href="tel:+919835565233" class="thr-btn-primary">
+                <i class="fa-solid fa-phone"></i> Call 9835565233
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="thr-btn-secondary">
                 <i class="fa-solid fa-file-invoice"></i> Get Free Move Quote
@@ -667,6 +703,52 @@ require_once __DIR__ . '/../includes/seo.php';
         </div>
     </div>
 </section>
+
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Thane to Ranchi
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Thane to Ranchi</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Thane and Ranchi with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Thane</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Thane and Ranchi along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Thane</strong>, intercity relocation to Ranchi, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Thane to Ranchi</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Thane to Ranchi</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Thane to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Thane to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Thane to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
 
 <!-- ROUTE METRICS STRIP -->
 <div class="thr-metrics-bar">
@@ -692,7 +774,8 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </div>
 
-<!-- SECTION 1: DETAILED CORRIDOR LOGISTICS -->
+    
+    <!-- SECTION 1: DETAILED CORRIDOR LOGISTICS -->
 <section class="thr-section">
     <div class="thr-container">
         <div class="thr-two-col">
@@ -1051,10 +1134,10 @@ require_once __DIR__ . '/../includes/seo.php';
             Speak with our dedicated interstate move managers today for an instant transparent estimate, customized schedule, and free pre-move home survey.
         </p>
         <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-            <a href="tel:+918409531615" class="thr-btn-primary" style="font-size: 1.05rem; padding: 15px 32px;">
-                <i class="fa-solid fa-phone"></i> Call 8409531615
+            <a href="tel:+919835565233" class="thr-btn-primary" style="font-size: 1.05rem; padding: 15px 32px;">
+                <i class="fa-solid fa-phone"></i> Call 9835565233
             </a>
-            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Thane%20to%20Ranchi" target="_blank" rel="noopener noreferrer" class="thr-btn-secondary" style="background: #25D366; border-color: #25D366; font-size: 1.05rem; padding: 15px 32px;">
+            <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Thane%20to%20Ranchi" target="_blank" rel="noopener noreferrer" class="thr-btn-secondary" style="background: #25D366; border-color: #25D366; font-size: 1.05rem; padding: 15px 32px;">
                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="thr-btn-secondary" style="font-size: 1.05rem; padding: 15px 32px;">

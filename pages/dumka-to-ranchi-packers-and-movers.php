@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Dumka to Ranchi Packers and Movers | Shifting Service - Shree Ashirwad";
-$page_description = "Dependable Dumka to Ranchi packers and movers by Shree Ashirwad Packers. Dedicated container trucks, 24-48 hr delivery, car & bike shipping, 5-layer packing, IBA approved bills. Call 8409531615.";
+$page_description = "Dependable Dumka to Ranchi packers and movers by Shree Ashirwad Packers. Dedicated container trucks, 24-48 hr delivery, car & bike shipping, 5-layer packing, IBA approved bills. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-ranchi-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -71,7 +71,7 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+918409531615",
+    "telephone": "+919835565233",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "currenciesAccepted": "INR",
@@ -116,7 +116,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+918409531615",
+      "telephone": "+919835565233",
       "url": "https://www.shreeashirwadpackers.com/"
     },
     "areaServed": [
@@ -248,19 +248,95 @@ require_once __DIR__ . '/includes/seo.php';
         "name": "How can I book a moving slot for Dumka to Ranchi?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Simply call our moving desk at 8409531615 or contact us through WhatsApp. We will conduct a free pre-move inventory survey and provide a guaranteed, written all-inclusive quotation."
+          "text": "Simply call our moving desk at 9835565233 or contact us through WhatsApp. We will conduct a free pre-move inventory survey and provide a guaranteed, written all-inclusive quotation."
         }
       }
     ]
   }
   </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
   <!-- Global Header Navigation -->
   <?php include __DIR__ . '/../includes/header.php'; ?>
 
-  <main id="mainContent">
+      <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Dumka to Ranchi
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Dumka to Ranchi</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Dumka and Ranchi with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Dumka</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Dumka and Ranchi along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Dumka</strong>, intercity relocation to Ranchi, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Dumka to Ranchi</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Dumka to Ranchi</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Dumka to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Dumka to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Dumka to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+    <main id="mainContent">
 
     <!-- Page Hero Section -->
     <section class="page-hero" style="position:relative; padding: 75px 0 55px; background: linear-gradient(135deg, #0b1727 0%, #102a45 60%, #1a3a5f 100%); color: #ffffff; overflow: hidden;">
@@ -282,9 +358,9 @@ require_once __DIR__ . '/includes/seo.php';
         </p>
 
         <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
-          <a href="tel:8409531615" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
+          <a href="tel:9835565233" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Book Corridor Move: 8409531615
+            Book Corridor Move: 9835565233
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px);">
             WhatsApp Route Quote &rarr;
@@ -656,7 +732,7 @@ require_once __DIR__ . '/includes/seo.php';
 
             <div style="border:1px solid #e2e8f0; border-radius:8px; padding:20px; background:#ffffff;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:8px;">How can I book a moving slot for Dumka to Ranchi?</h3>
-              <p style="font-size:0.95rem; line-height:1.7; color:#475569; margin:0;">Simply call our moving desk at 8409531615 or contact us through WhatsApp. We will conduct a free pre-move inventory survey and provide a guaranteed, written all-inclusive quotation.</p>
+              <p style="font-size:0.95rem; line-height:1.7; color:#475569; margin:0;">Simply call our moving desk at 9835565233 or contact us through WhatsApp. We will conduct a free pre-move inventory survey and provide a guaranteed, written all-inclusive quotation.</p>
             </div>
 
           </div>
@@ -669,8 +745,8 @@ require_once __DIR__ . '/includes/seo.php';
             Book your dedicated container move today. Enjoy direct 24-36 hour delivery, zero transshipment, 5-layer packing, and complete transit insurance.
           </p>
           <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:16px;">
-            <a href="tel:8409531615" style="display:inline-flex; align-items:center; gap:8px; background:#ff6a28; color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow:0 4px 15px rgba(255,106,40,0.35);">
-              Call Route Coordinator: 8409531615
+            <a href="tel:9835565233" style="display:inline-flex; align-items:center; gap:8px; background:#ff6a28; color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow:0 4px 15px rgba(255,106,40,0.35);">
+              Call Route Coordinator: 9835565233
             </a>
             <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.3); color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:600; text-decoration:none;">
               Get Instant WhatsApp Estimate &rarr;

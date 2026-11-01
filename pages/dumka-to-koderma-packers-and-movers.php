@@ -615,7 +615,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
                 </p>
             </div>
             <div class="dum2kod-img-box">
-                <img src="https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Dumka to Koderma shifting" loading="lazy">
+                <img src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated closed container truck for Dumka to Koderma shifting" loading="lazy">
             </div>
         </div>
 
@@ -675,7 +675,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
                 </ul>
             </div>
             <div class="dum2kod-img-box">
-                <img src="https://www.shreeashirwadpackers.com/images/complete-household-packing-dhanbad.jpg" alt="Dumka to Koderma household packing and loading" loading="lazy">
+                <img src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Dumka to Koderma household packing and loading" loading="lazy">
             </div>
         </div>
 
@@ -767,7 +767,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
 
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
             <div class="dum2kod-card" style="padding: 0; overflow: hidden;">
-                <img src="https://www.shreeashirwadpackers.com/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glass packing for Dumka to Koderma move" style="width: 100%; height: 260px; object-fit: cover; display: block;" loading="lazy">
+                <img src="<?php echo SITE_BASE_URL; ?>/images/fragile-glassware-box-packing-ranchi.jpg" alt="Fragile kitchenware and glass packing for Dumka to Koderma move" style="width: 100%; height: 260px; object-fit: cover; display: block;" loading="lazy">
                 <div style="padding: 24px;">
                     <h3 style="font-size: 1.25rem; font-weight: 700; color: #0f172a; margin-bottom: 10px;">Fragile Crockery &amp; Glassware Handling</h3>
                     <p style="font-size: 0.95rem; color: #475569; line-height: 1.6; margin-bottom: 10px;">
@@ -779,7 +779,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
                 </div>
             </div>
             <div class="dum2kod-card" style="padding: 0; overflow: hidden;">
-                <img src="https://www.shreeashirwadpackers.com/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car carrier ramp loading for Dumka to Koderma vehicle shifting" style="width: 100%; height: 260px; object-fit: cover; display: block;" loading="lazy">
+                <img src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car carrier ramp loading for Dumka to Koderma vehicle shifting" style="width: 100%; height: 260px; object-fit: cover; display: block;" loading="lazy">
                 <div style="padding: 24px;">
                     <h3 style="font-size: 1.25rem; font-weight: 700; color: #0f172a; margin-bottom: 10px;">Enclosed Hydraulic Car Transportation</h3>
                     <p style="font-size: 0.95rem; color: #475569; line-height: 1.6; margin-bottom: 10px;">

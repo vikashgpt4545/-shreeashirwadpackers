@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Hazaribagh to Bangalore Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Top Hazaribagh to Bangalore packers and movers. Sealed container transit, IT corporate transfer billing, 5-layer packing, car/bike transport. Call 8409531615.";
+$page_desc = "Top Hazaribagh to Bangalore packers and movers. Sealed container transit, IT corporate transfer billing, 5-layer packing, car/bike transport. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-bangalore-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -447,7 +447,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-bangalore-p
         "name": "Shree Ashirwad Packers and Movers - Hazaribagh to Bangalore Division",
         "description": "Long-distance interstate relocation agency operating dedicated sealed container freight from Hazaribagh to Bangalore (Bengaluru). Full packing, car/bike parcel, and IT corporate relocation.",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "email": "support@shreeashirwadpackers.com",
         "priceRange": "₹4,500 - ₹52,000",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
@@ -487,7 +487,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-bangalore-p
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-8409531615"
+            "telephone": "+91-9835565233"
         },
         "areaServed": [
             {
@@ -595,6 +595,42 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-bangalore-p
         ]
     }
     </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <?php include __DIR__ . '/../includes/header.php'; ?>
@@ -615,11 +651,17 @@ $canonical_url = "https://www.shreeashirwadpackers.com/hazaribagh-to-bangalore-p
         <h1 class="h2blr-title">Premier Hazaribagh to Bangalore Packers and Movers</h1>
         <p class="h2blr-subtitle">Reliable long-distance household shifting, IT corporate relocation, and vehicle parcel services from Hazaribagh to Bengaluru. 1,920 km safe transit with 5-layer packing, sealed container freight, and 100% IT reimbursement billing.</p>
         <div class="h2blr-hero-cta">
-            <a href="tel:+918409531615" class="h2blr-btn-primary">&#9742; Call 8409531615</a>
+            <a href="tel:+919835565233" class="h2blr-btn-primary">&#9742; Call 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="h2blr-btn-outline">Request Inter-State Quote</a>
         </div>
     </div>
 </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+    
+
+
 
 <!-- Quick Stats Bar -->
 <section class="h2blr-section h2blr-section-alt">

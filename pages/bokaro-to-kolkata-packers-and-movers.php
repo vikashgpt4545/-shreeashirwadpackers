@@ -8,8 +8,8 @@
  */
 
 // Define page-specific metadata
-$page_title = "Bokaro to Kolkata Packers and Movers | Safe Interstate Shifting - Shree Ashirwad";
-$page_description = "Reliable Bokaro to Kolkata packers and movers by Shree Ashirwad Packers. Direct container trucks via NH-18 & NH-16, 5-layer humidity proof packing, e-Way bill compliance, IBA approved bills. Call 8409531615.";
+$page_title = "Packers and Movers Bokaro to Kolkata | Best Moving Company - 9835565233";
+$page_description = "Looking for the best packers and movers from Bokaro to Kolkata? Shree Ashirwad Packers offers trusted household shifting, car carrier, bike courier & IBA approved bills. Call +91 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-kolkata-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -23,7 +23,7 @@ require_once __DIR__ . '/includes/seo.php';
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?php echo htmlspecialchars($page_title); ?></title>
   <meta name="description" content="<?php echo htmlspecialchars($page_description); ?>">
-  <meta name="keywords" content="bokaro to kolkata packers and movers, packers and movers bokaro to kolkata, house shifting bokaro to kolkata, furniture transport bokaro to kolkata, car transport bokaro to kolkata, bike courier bokaro to kolkata, movers and packers chas to kolkata">
+  <meta name="keywords" content="bokaro to kolkata packers and movers, best packers and movers from bokaro to kolkata, movers and packers bokaro to kolkata, household shifting bokaro to kolkata, top-rated packers and movers near bokaro, reliable movers and packers near me, house shifting bokaro to kolkata, furniture transport bokaro to kolkata, car transport bokaro to kolkata, bike courier bokaro to kolkata, packing and moving company, iba approved packers bokaro to kolkata">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
 
   <!-- Open Graph -->
@@ -69,7 +69,7 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Specialized interstate relocation and goods transport services from Bokaro Steel City & Chas to Kolkata and Howrah. Covered container fleet, multi-layer moisture proof packing, e-Way bill compliance, and IBA approved bills.",
-    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "telephone": "+919835565233",
     "priceRange": "₹6,000 - ₹48,000",
     "address": {
       "@type": "PostalAddress",
@@ -240,6 +240,42 @@ require_once __DIR__ . '/includes/seo.php';
     ]
   }
   </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body style="background-color: #f8fafc; color: #1e293b; font-family: 'Plus Jakarta Sans', sans-serif; line-height: 1.6;">
 
@@ -247,7 +283,8 @@ require_once __DIR__ . '/includes/seo.php';
   <?php include __DIR__ . '/../includes/header.php'; ?>
 
   <!-- Main Content Container -->
-  <main class="page-content" style="padding: 40px 0; background: #f8fafc;">
+      
+    <main class="page-content" style="padding: 40px 0; background: #f8fafc;">
     <article class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
       
       <!-- Breadcrumb Bar -->
@@ -264,14 +301,18 @@ require_once __DIR__ . '/includes/seo.php';
       <!-- Main Header Section -->
       <header style="margin-bottom: 35px;">
         <h1 style="font-family: 'Outfit', sans-serif; font-size: 2.6rem; color: #0f223d; font-weight: 800; line-height: 1.25; margin-bottom: 16px;">
-          Bokaro to Kolkata Packers and Movers: Certified Interstate Moving & Carrier Logistics
+          Bokaro to Kolkata Packers and Movers
         </h1>
         <p style="font-size: 1.15rem; color: #475569; max-width: 980px; line-height: 1.7;">
-          Relocating between Jharkhand's steel city Bokaro and the metropolis of Kolkata (the financial, educational, and commercial gateway of Eastern India) requires structured interstate planning, high-speed highway compliance, and all-weather container transportation. At <strong>Shree Ashirwad Packers and Movers</strong>, we deliver dependable, professional <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color: #ff6a28; text-decoration: underline; font-weight: 600;">Bokaro to Kolkata packers and movers</a> services featuring 5-layer moisture-resistant packing, seamless GST e-Way bill processing, vehicle carrier transit, and full doorstep setup across Kolkata and Howrah.
+          Looking for the <strong>best packers and movers from Bokaro to Kolkata</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting, office relocation, bike courier, and car carrier services</strong> at affordable prices. As one of the top-rated movers and packers near Bokaro, our expert moving crew offers safe packing, loading, highway transportation via NH-18 &amp; NH-19, and door-to-door unpacking across Salt Lake, New Town, South Kolkata, and Howrah with 5-layer moisture-resistant packing, seamless GST e-Way bill processing, floor-to-floor handling, and 100% in-transit protection.
         </p>
       </header>
 
-      <!-- Quick Highlights Grid -->
+      
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+<!-- Quick Highlights Grid -->
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; margin-bottom: 40px;">
         <div style="background: #ffffff; padding: 22px; border-radius: 10px; border-left: 4px solid #ff6a28; box-shadow: 0 2px 10px rgba(0,0,0,0.04);">
           <h3 style="font-size: 1.1rem; color: #0f223d; margin-bottom: 8px; font-weight: 700;">24-48 Hr Express Delivery</h3>
@@ -585,8 +626,8 @@ require_once __DIR__ . '/includes/seo.php';
             Experience 5-layer moisture defense packing, dedicated container transport, full GST e-Way compliance, and on-time doorstep delivery across Kolkata and Howrah.
           </p>
           <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
-              Call Dispatch: 8409531615
+            <a href="tel:+919835565233" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
+              Call Dispatch: +91 9835565233
             </a>
             <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 600; text-decoration: none;">
               Get Instant WhatsApp Estimate &rarr;

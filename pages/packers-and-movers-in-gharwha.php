@@ -4,7 +4,7 @@
  * Pure Core PHP Implementation
  * 
  * Target URL: https://www.shreeashirwadpackers.com/packers-and-movers-in-gharwha
- * Title: Packers and Movers in Garhwa - 8409531615
+ * Title: Packers and Movers in Garhwa - 9835565233
  * District: Garhwa, Jharkhand
  * Coordinates: 24.1610° N, 83.8057° E
  */
@@ -12,8 +12,8 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Packers and Movers in Garhwa - 8409531615 | Shree Ashirwad Packers";
-$page_description = "Hire verified packers and movers in Garhwa & Nagar Untari by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, tri-state transit. Call 8409531615.";
+$page_title = "Packers and Movers in Garhwa | Best Shifting Services Tri-State Belt - Shree Ashirwad";
+$page_description = "Looking for the best packers and movers in Garhwa? Shree Ashirwad Packers offers Nagar Untari, Bhawanathpur, household shifting, IBA approved bills & vehicle transport. Call +91 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gharwha";
 ?>
 <!DOCTYPE html>
@@ -25,7 +25,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gha
   
   <title><?php echo $page_title; ?></title>
   <meta name="description" content="<?php echo $page_description; ?>">
-  <meta name="keywords" content="packers and movers in garhwa, best packers and movers in garhwa, packers and movers in gharwha, household shifting services in garhwa, house shifting garhwa, packers and movers nagar untari, packers and movers banshidhar nagar, packers and movers garhwa to ranchi, packers and movers garhwa to varanasi, packers and movers garhwa to ambikapur, car transport garhwa, bike parcel garhwa, iba approved packers in garhwa">
+  <meta name="keywords" content="packers and movers in garhwa, best packers and movers in garhwa, movers and packers near me in garhwa, packers and movers in gharwha, household shifting services in garhwa, house shifting garhwa, packers and movers nagar untari, packers and movers banshidhar nagar, packers and movers garhwa to ranchi, packers and movers garhwa to varanasi, packers and movers garhwa to ambikapur, car transport garhwa, bike parcel garhwa, iba approved packers in garhwa, packing and moving company in garhwa, local shifting in garhwa">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
@@ -88,7 +88,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gha
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+918409531615",
+    "telephone": "+919835565233",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "packers and movers in garhwa, best packers and movers in garhwa, packers and movers in gharwha, household shifting services in garhwa, house shifting garhwa, packers and movers nagar untari, packers and movers banshidhar nagar, packers and movers garhwa to ranchi, packers and movers garhwa to varanasi, packers and movers garhwa to ambikapur, car transport garhwa, bike parcel garhwa, iba approved packers in garhwa",
@@ -285,16 +285,16 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gha
           Reliable Packers and Movers in <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: #f39c12;">Garhwa, Jharkhand</span>
         </h1>
         <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 28px; max-width: 820px;">
-          Welcome to Shree Ashirwad Packers and Movers in Garhwa — your most trusted relocation partner across Jharkhand’s western corridor and the vital tri-state border junction of Uttar Pradesh, Bihar, and Chhattisgarh. From family home shifts and civil administration transfers to Bhawanathpur mining township relocations, we provide 5-layer protective packaging, IBA-approved documentation, zero-damage handling, and all-weather closed container transit.
+          Looking for the best packers and movers in Garhwa? <strong>Shree Ashirwad Packers and Movers</strong> provides trusted household shifting, office relocation, bike transport, car transport, and complete moving solutions at affordable prices across Jharkhand’s western corridor and the vital tri-state border junction of Uttar Pradesh, Bihar, and Chhattisgarh. As one of the top-rated packers and movers near Garhwa and Nagar Untari, we help families, civil administration officers, bank executives, and mining personnel relocate locally and across Jharkhand without hassle. We cover major localities including Ranka More, Tandwa Chowk, Nagar Untari (Shri Banshidhar Nagar), Bhawanathpur, Meral, Majhiaon, Ramna, and Sadar Hospital area for fast and reliable shifting services. Whether you need local shifting in Garhwa, intercity relocation along NH-39 and NH-343, or corporate office moving, our trained staff ensures secure handling, pincode-based scheduling (PIN: 822114), same-day shifting assistance, floor-to-floor handling, and dependable relocation planning backed by full transit insurance.
         </p>
 
         <!-- CTAs -->
         <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
-          <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
+          <a href="tel:+919835565233" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call: 8409531615
+            Call: +91 9835565233
           </a>
-          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Garhwa" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
+          <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Garhwa" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
             WhatsApp Instant Quote
           </a>
@@ -327,7 +327,47 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gha
     </div>
   </section>
 
-  <!-- SECTION 1: DETAILED INTRODUCTION & LOCAL CONTEXT -->
+          <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Garhwa
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Garhwa</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Garhwa and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Garhwa</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Ranka More, Tandwa Chowk, Nagar Untari (Shri Banshidhar Nagar), Bhawanathpur, Meral, Majhiaon, Ramna, and Sadar Hospital area for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Garhwa</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Garhwa</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Garhwa</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Garhwa</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Garhwa</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Garhwa</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+<!-- SECTION 1: DETAILED INTRODUCTION & LOCAL CONTEXT -->
   <section style="background: #f8fafc; padding: 60px 0;">
     <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 20px;">
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 36px; align-items: center;">
@@ -346,6 +386,17 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gha
           <p style="font-size: 15.5px; line-height: 1.8; color: #334155;">
             Every move executed by our team is backed by our signature 5-layer protective packaging system, dedicated closed-body containerized trucks, authentic transit insurance coverage, and 100% IBA-approved relocation bills for complete corporate and government claim reimbursement.
           </p>
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #f39c12; padding: 22px; border-radius: 8px; margin-top: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+            <h3 style="font-size: 19px; font-weight: 700; color: #0d1b2a; margin-bottom: 10px;">
+              ★ Top-Rated Moving & Packing Solutions in Garhwa
+            </h3>
+            <p style="margin-bottom: 8px; font-size: 15px; line-height: 1.6; color: #334155;">
+              Customers choose our movers and packers service in Garhwa for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning. We provide nearby packers and movers support with pincode-based scheduling (PIN: 822114), same-day shifting assistance, floor-to-floor handling, and flexible moving options across the tri-state border corridor.
+            </p>
+            <p style="margin-bottom: 0; font-size: 15px; line-height: 1.6; color: #334155;">
+              From town residences around Ranka More to judicial quarters, bank colonies, and Bhawanathpur mining township homes, our packing and moving company in Garhwa delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Garhwa, our local team is available 24/7 at <strong>+91 9835565233</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
+            </p>
+          </div>
 
           <div style="margin-top: 24px; display: flex; flex-wrap: wrap; gap: 12px;">
             <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 10px 16px; font-size: 14px; font-weight: 600; color: #1e293b; display: flex; align-items: center; gap: 8px;">
@@ -932,13 +983,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gha
             <p style="font-size: 14px; color: #64748b; margin: 0 0 10px; line-height: 1.6;">
               Main Road, Near Ranka More Chowk, Garhwa, Jharkhand - 822114
             </p>
-            <div style="font-size: 14px; color: #1e293b; margin-bottom: 4px;"><strong>Helpline:</strong> +91 8409531615</div>
+            <div style="font-size: 14px; color: #1e293b; margin-bottom: 4px;"><strong>Helpline:</strong> +91 9835565233</div>
             <div style="font-size: 14px; color: #1e293b; margin-bottom: 4px;"><strong>Email:</strong> enquiry@shreeashirwadpackers.com</div>
             <div style="font-size: 14px; color: #1e293b;"><strong>Working Hours:</strong> Monday - Sunday: 7:00 AM - 10:00 PM</div>
           </div>
 
           <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-            <a href="tel:+918409531615" class="btn" style="background: #1f4068; color: #ffffff; font-weight: 700; padding: 12px 22px; border-radius: 8px; text-decoration: none; font-size: 14px; display: inline-flex; align-items: center; gap: 8px;">
+            <a href="tel:+919835565233" class="btn" style="background: #1f4068; color: #ffffff; font-weight: 700; padding: 12px 22px; border-radius: 8px; text-decoration: none; font-size: 14px; display: inline-flex; align-items: center; gap: 8px;">
               Call Garhwa Branch
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 12px 22px; border-radius: 8px; text-decoration: none; font-size: 14px; display: inline-flex; align-items: center; gap: 8px;">
@@ -1053,11 +1104,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-gha
         Get your free, no-obligation moving quote today. Our Garhwa moving experts are available 24/7 to plan your move with guaranteed safety, IBA-approved documentation, and zero stress.
       </p>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
-        <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4);">
+        <a href="tel:+919835565233" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4);">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-          Call: 8409531615
+          Call: 9835565233
         </a>
-        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Garhwa" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
+        <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Garhwa" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
           WhatsApp Us Now
         </a>

@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Hubli Packers and Movers | Secure 1,780 km Intercity Relocation";
-$page_description = "Certified Ranchi to Hubli (Hubballi-Dharwad) packers and movers. Safe home shifting, car carriers, IIT Dharwad faculty moves & transit insurance. Direct container fleet. Call 8409531615.";
+$page_description = "Certified Ranchi to Hubli (Hubballi-Dharwad) packers and movers. Safe home shifting, car carriers, IIT Dharwad faculty moves & transit insurance. Direct container fleet. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-hubli-packers-and-movers";
 $page_keywords = "ranchi to hubli packers and movers, packers and movers ranchi to hubballi, household shifting ranchi to hubli, car transport ranchi to dharwad, bike courier ranchi to hubli, iit dharwad relocation, tarihal hubli movers, keshwapur vidyanagar packers";
 
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg",
         "description": "Professional intercity packers and movers services connecting Ranchi (Jharkhand) to Hubli-Dharwad / Hubballi (Karnataka). Safe household moving, vehicle transportation, corporate IT transfers, and transit insurance.",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
@@ -523,6 +523,42 @@ require_once __DIR__ . '/../includes/seo.php';
             .rhub-btn-primary, .rhub-btn-secondary { text-align: center; }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -555,16 +591,21 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
         </div>
         <div class="rhub-cta-bar">
-            <a href="tel:+918409531615" class="rhub-btn-primary">Call Booking Desk: +91 8409531615</a>
+            <a href="tel:+919835565233" class="rhub-btn-primary">Call Booking Desk: +91 9835565233</a>
             <a href="tel:+919835565233" class="rhub-btn-secondary">Alternate Line: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rhub-btn-secondary">Request Free Survey & Quotation</a>
         </div>
     </div>
 </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Main Container -->
 <main class="rhub-content-wrap">
 
+        
     <!-- Section 1: Overview & Strategic Corridor -->
     <section class="rhub-section">
         <h2 class="rhub-section-title">Strategic Relocation Logistics from Ranchi to Hubli-Dharwad</h2>
@@ -962,7 +1003,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Experience damage-free intercity relocation backed by certified packing professionals, direct GPS-enabled container fleets, and comprehensive all-risk transit insurance across 1,780 km.
         </p>
         <div class="rhub-cta-bar" style="justify-content: center;">
-            <a href="tel:+918409531615" class="rhub-btn-primary">Call Now: +91 8409531615</a>
+            <a href="tel:+919835565233" class="rhub-btn-primary">Call Now: +91 9835565233</a>
             <a href="tel:+919835565233" class="rhub-btn-secondary">Mobile: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="rhub-btn-secondary">Book Free Pre-Move Survey</a>
         </div>

@@ -4,7 +4,7 @@
  * Pure Core PHP Implementation
  * 
  * Target URL: https://www.shreeashirwadpackers.com/packers-and-movers-in-basia
- * Title: Packers and Movers in Basia - 8409531615
+ * Title: Packers and Movers in Basia | Best Shifting Services Gumla
  * Region: Basia (South Koel River Corridor, NH-43 / SH-4 Junction), Gumla, Jharkhand
  * Coordinates: 22.8944° N, 84.8028° E
  */
@@ -12,8 +12,8 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Packers and Movers in Basia - 8409531615 | Shree Ashirwad Packers";
-$page_description = "Best packers and movers in Basia, Gumla. Shree Ashirwad Packers and Movers provides trusted household shifting, vehicle transport, office relocation, and storage in Basia.";
+$page_title = "Packers and Movers in Basia | Best Shifting Services Gumla - Shree Ashirwad";
+$page_description = "Looking for the best packers and movers in Basia Gumla? Shree Ashirwad Packers offers trusted household shifting, office relocation, bike/car transport & same-day moving with IBA bills. Call +91 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-basia";
 ?>
 <!DOCTYPE html>
@@ -25,7 +25,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bas
   
   <title><?php echo $page_title; ?></title>
   <meta name="description" content="<?php echo $page_description; ?>">
-  <meta name="keywords" content="packers and movers in basia, packers and movers basia, best packers and movers in basia, household shifting basia, car transport basia, bike parcel basia, iba approved packers basia, local shifting basia">
+  <meta name="keywords" content="packers and movers in basia, best packers and movers in basia, movers and packers near me in basia, household shifting in basia, packers and movers basia gumla, car transport basia, bike parcel basia, reliable movers and packers basia, packing and moving company in basia, iba approved packers basia, local shifting in basia">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="author" content="<?php echo htmlspecialchars(BUSINESS_NAME, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
@@ -65,9 +65,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bas
       "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
       "image": "https://www.shreeashirwadpackers.com/images/bubble-wrap-household-cartons-jharkhand.jpg",
       "description": "Professional packing and moving company in Basia, Gumla providing home shifting, vehicle transportation, office relocation, and secure warehousing.",
-      "telephone": "+918409531615",
+      "telephone": "+919835565233",
       "priceRange": "₹3,500 - ₹44,000",
-        "keywords": "packers and movers in basia, packers and movers basia, best packers and movers in basia, household shifting basia, car transport basia, bike parcel basia, iba approved packers basia, local shifting basia",
+        "keywords": "packers and movers in basia, best packers and movers in basia, movers and packers near me in basia, household shifting in basia, packers and movers basia gumla, car transport basia, bike parcel basia, reliable movers and packers basia, packing and moving company in basia, iba approved packers basia, local shifting in basia",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Main Road, Near Basia Block Chowk & Police Station",
@@ -227,15 +227,21 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bas
         <h1 style="font-size: clamp(28px, 4.2vw, 44px); font-weight: 800; line-height: 1.25; margin-bottom: 18px; color: #ffffff;">
           Reliable Packers and Movers in <span style="background: linear-gradient(90deg, #f39c12, #f1c40f); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: #f39c12;">Basia, Jharkhand</span>
         </h1>
-        <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 28px; max-width: 820px;">
+        <p style="font-size: 17px; line-height: 1.7; color: #e2e8f0; margin-bottom: 16px; max-width: 820px;">
+          Looking for the <strong>best packers and movers in Basia</strong>? We provide trusted household shifting, office relocation, bike transport, car transport, and complete moving solutions at affordable prices across Basia, Gumla, Simdega, Khunti, and pan-India.
+        </p>
+        <p style="font-size: 15.5px; line-height: 1.7; color: #cbd5e1; margin-bottom: 20px; max-width: 820px;">
+          Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Basia and nearby areas with timely delivery support. As one of the top-rated movers and packers near Basia, we help families and businesses relocate locally and across Jharkhand without hassle.
+        </p>
+        <p style="font-size: 15px; line-height: 1.7; color: #cbd5e1; margin-bottom: 28px; max-width: 820px;">
           Welcome to Shree Ashirwad Packers and Movers in Basia — your trusted moving partner positioned at the scenic South Koel River crossing and the vital road junction connecting Gumla, Simdega, Khunti, and Ranchi. Whether moving a family household near Basia Bazar, transferring administrative or school staff across the district, or organizing direct container transit to Rourkela and pan-India, we guarantee 5-layer protective packing, sealed container fleets, and 100% safe arrival.
         </p>
 
         <!-- CTA Buttons -->
         <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
-          <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
+          <a href="tel:+919835565233" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call: 8409531615
+            Call: +91 9835565233
           </a>
           <a href="#quote-form" class="btn" style="background: rgba(255, 255, 255, 0.12); color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.3); font-weight: 600; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; backdrop-filter: blur(8px);">
             Get Instant Free Estimate
@@ -266,7 +272,47 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bas
     </div>
   </section>
 
-  <!-- Section 1: Overview of Relocation in Basia -->
+      <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Basia
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Basia</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Basia and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Basia</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Basia (South Koel River Corridor, NH-43 / SH-4 Junction), Gumla, Jharkhand along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Basia</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Basia</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Basia</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Basia</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Basia</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Basia</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- Section 1: Overview of Relocation in Basia -->
   <section style="padding: 70px 0 50px 0; background: #ffffff;">
     <div class="container" style="max-width: 1140px; margin: 0 auto; padding: 0 20px;">
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 36px; align-items: center;">
@@ -282,9 +328,25 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bas
           <p style="font-size: 16px; line-height: 1.75; color: #475569; margin-bottom: 16px;">
             Navigating Basia's regional roadways — with river bridge passages, ghat curves, and rural feeder roads — requires seasoned driving professionals and heavy-duty vehicles with proper suspension. Shree Ashirwad Packers and Movers has spent more than a decade establishing dependable, high-integrity shifting services across this southern plateau corridor.
           </p>
-          <p style="font-size: 16px; line-height: 1.75; color: #475569;">
+          <p style="font-size: 16px; line-height: 1.75; color: #475569; margin-bottom: 16px;">
             Whether you are a civil servant receiving a transfer order to Gumla or Ranchi, an educator moving closer to institutional colleges, or a local trading family relocating delicate furniture and home electronics, our moving team takes complete responsibility for packing, loading, direct transit, and precise room placement.
           </p>
+
+          <div style="background: #f8fafc; border-left: 4px solid #2563eb; padding: 20px; margin: 24px 0; border-radius: 0 8px 8px 0;">
+            <h3 style="font-size: 18px; font-weight: 700; color: #1e293b; margin-top: 0; margin-bottom: 12px;">Complete Moving Solutions & Coverage in Basia</h3>
+            <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+              We cover major localities including <strong>Basia Bazar, Block Chowk, Konbir, Kamdara Road, South Koel River Basin, and Mama-Bhagina Mor</strong> along with nearby residential and commercial areas for fast and reliable shifting services.
+            </p>
+            <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+              Whether you need local shifting in Basia, intercity relocation, office moving, or vehicle transportation, our trained staff ensures secure handling and professional support. Customers choose our movers and packers service in Basia for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+            </p>
+            <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+              We also provide nearby packers and movers support with pincode-based scheduling (PIN 835229), same-day shifting assistance, floor-to-floor handling, and flexible moving options. From small apartments to large office setups, our packing and moving company in Basia delivers affordable, safe, and stress-free relocation services.
+            </p>
+            <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 0;">
+              If you are searching for reliable <strong>movers and packers near me in Basia</strong>, our local team is available 24/7 for home shifting, storage, transport, and complete relocation assistance.
+            </p>
+          </div>
         </div>
 
         <div style="text-align: center;">
@@ -1014,8 +1076,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bas
 
           <div style="margin-top: 20px; text-align: center; border-top: 1px solid rgba(255,255,255,0.15); padding-top: 16px;">
             <p style="font-size: 13px; color: #cbd5e1; margin: 0 0 6px 0;">Need immediate booking or road transit consultation?</p>
-            <a href="tel:+918409531615" style="color: #f1c40f; font-weight: 700; text-decoration: none; font-size: 17px; display: inline-flex; align-items: center; gap: 6px;">
-              📞 Call Now: 8409531615 (24x7 Customer Support)
+            <a href="tel:+919835565233" style="color: #f1c40f; font-weight: 700; text-decoration: none; font-size: 17px; display: inline-flex; align-items: center; gap: 6px;">
+              📞 Call Now: 9835565233 (24x7 Customer Support)
             </a>
           </div>
 

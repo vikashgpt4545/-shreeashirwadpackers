@@ -12,7 +12,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Bilaspur Packers & Movers | Shree Ashirwad";
-$page_description = "Top Ranchi to Bilaspur packers and movers by Shree Ashirwad. 24-hr express transit via NH-43, SECR & SECL transfer bills, 5-layer packing. Call 8409531615.";
+$page_description = "Top Ranchi to Bilaspur packers and movers by Shree Ashirwad. 24-hr express transit via NH-43, SECR & SECL transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-bilaspur-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -69,7 +69,7 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ranchi",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-8409531615",
+    "telephone": "+91-9835565233",
     "email": "support@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,500 - ₹54,000",
@@ -868,6 +868,42 @@ require_once __DIR__ . '/includes/seo.php';
       }
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -896,15 +932,19 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2b-hero-actions">
-        <a href="tel:+918409531615" class="r2b-btn-primary">
-          <span>📞 Instant Moving Quote: 8409531615</span>
+        <a href="tel:+919835565233" class="r2b-btn-primary">
+          <span>📞 Instant Moving Quote: 9835565233</span>
         </a>
-        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Bilaspur." class="r2b-btn-secondary" target="_blank" rel="noopener">
+        <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20relocation%20quote%20from%20Ranchi%20to%20Bilaspur." class="r2b-btn-secondary" target="_blank" rel="noopener">
           <span>💬 WhatsApp Relocation Desk</span>
         </a>
       </div>
     </div>
   </header>
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
 
   <!-- Trust Floating Strip -->
   <div class="r2b-trust-strip">
@@ -928,7 +968,8 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </div>
 
-  <!-- Section 1: Introduction & Bilaspur Economic Hub Analysis -->
+      
+    <!-- Section 1: Introduction & Bilaspur Economic Hub Analysis -->
   <section class="r2b-content-section">
     <div class="r2b-section-header">
       <span class="r2b-section-tag">Direct Inter-State Logistics</span>
@@ -1057,7 +1098,7 @@ require_once __DIR__ . '/includes/seo.php';
       </table>
     </div>
     <p style="font-size: 0.88rem; color: var(--r2b-muted); margin-top: 10px;">
-      * Disclaimer: Exact quotation figures vary according to final consignment volume, floor levels at pickup and delivery sites, presence of operational service elevators, optional full transit insurance coverage (typically 1.5% to 3% of declared value), and seasonal freight demand. Call <strong>8409531615</strong> for a complimentary in-home or video survey.
+      * Disclaimer: Exact quotation figures vary according to final consignment volume, floor levels at pickup and delivery sites, presence of operational service elevators, optional full transit insurance coverage (typically 1.5% to 3% of declared value), and seasonal freight demand. Call <strong>9835565233</strong> for a complimentary in-home or video survey.
     </p>
   </section>
 

@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Jamshedpur to Koderma Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Safe Jamshedpur to Koderma packers and movers. 275 km express transit via NH-33 & NH-20, 5-layer packing, DVC & Tata transfer bills, car carrier. Call 8409531615.";
+$page_desc = "Safe Jamshedpur to Koderma packers and movers. 275 km express transit via NH-33 & NH-20, 5-layer packing, DVC & Tata transfer bills, car carrier. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -368,7 +368,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-pac
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+918409531615",
+        "telephone": "+919835565233",
         "priceRange": "INR 8,500 - 32,000",
         "address": {
             "@type": "PostalAddress",
@@ -539,6 +539,42 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-pac
         ]
     }
     </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 <?php include __DIR__ . '/../includes/header.php'; ?>
@@ -557,7 +593,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-pac
             Relocate seamlessly from the Steel City to the Mica Capital of India and DVC power hubs with Shree Ashirwad Packers and Movers. Experience professional same-day shifting, export-grade 5-layer packing, weatherproof closed container fleet, specialized vehicle carriers, and fully compliant GST documentation for DVC, corporate, and government employee transfers.
         </p>
         <div class="jsr2kod-cta-group">
-            <a href="tel:+918409531615" class="jsr2kod-btn-primary">
+            <a href="tel:+919835565233" class="jsr2kod-btn-primary">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
                 Call Now: +91 84095 31615
             </a>
@@ -567,6 +603,47 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-pac
         </div>
     </div>
 </section>
+    <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Jamshedpur to Koderma
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Jamshedpur to Koderma</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Jamshedpur and Koderma with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Jamshedpur</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Jamshedpur and Koderma along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Jamshedpur</strong>, intercity relocation to Koderma, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Jamshedpur to Koderma</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Jamshedpur to Koderma</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Jamshedpur to Koderma</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Jamshedpur to Koderma</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Jamshedpur to Koderma</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
 
 <!-- Route Overview & Advantages -->
 <section class="jsr2kod-section">
@@ -966,7 +1043,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-koderma-pac
             Contact our moving coordinators for an instant written quotation, free pre-move assessment, and guaranteed safe transit.
         </p>
         <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
-            <a href="tel:+918409531615" style="background: #f59e0b; color: #071728; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+            <a href="tel:+919835565233" style="background: #f59e0b; color: #071728; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
                 Call Hotline: 084095 31615
             </a>

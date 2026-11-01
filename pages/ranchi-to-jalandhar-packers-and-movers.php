@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Jalandhar Packers and Movers | Secure Punjab Highway Shifting";
-$page_description = "Trusted Ranchi to Jalandhar packers and movers. Safe home shifting, car carrier, defense cantonment & industrial relocation via NH-44. Transit insurance & GST invoice. Call 8409531615.";
+$page_description = "Trusted Ranchi to Jalandhar packers and movers. Safe home shifting, car carrier, defense cantonment & industrial relocation via NH-44. Transit insurance & GST invoice. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jalandhar-packers-and-movers";
 $page_keywords = "ranchi to jalandhar packers and movers, packers and movers ranchi to jalandhar, household shifting ranchi to jalandhar, car transport ranchi to jalandhar, bike courier ranchi to jalandhar, jalandhar cantt movers, model town jalandhar packers, lpu student shifting, sports complex movers";
 
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "description": "Professional intercity packers and movers services from Ranchi (Jharkhand) to Jalandhar, Model Town, Jalandhar Cantt, Urban Estate, and LPU area (Punjab). Reliable household moving, defense relocation, automobile transport, and all-risk transit insurance.",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
@@ -138,7 +138,7 @@ require_once __DIR__ . '/../includes/seo.php';
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
             "url": "<?php echo SITE_BASE_URL; ?>/",
-            "telephone": "+91-8409531615"
+            "telephone": "+91-9835565233"
         },
         "areaServed": {
             "@type": "City",
@@ -526,6 +526,42 @@ require_once __DIR__ . '/../includes/seo.php';
             .r2jl-img-block { max-width: 100%; margin: 20px 0; }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -558,16 +594,21 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
         </div>
         <div class="r2jl-cta-bar">
-            <a href="tel:+918409531615" class="r2jl-btn-primary">Call Helpline: +91 8409531615</a>
+            <a href="tel:+919835565233" class="r2jl-btn-primary">Call Helpline: +91 9835565233</a>
             <a href="tel:+919835565233" class="r2jl-btn-secondary">Booking Desk: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="r2jl-btn-secondary">Request Free Survey &amp; Quote</a>
         </div>
     </div>
 </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Main Container -->
 <main class="r2jl-content-wrap">
 
+        
     <!-- Section 1: Overview & Corridor Logistics -->
     <section class="r2jl-section">
         <h2 class="r2jl-section-title">Seamless Relocation from Ranchi to Jalandhar, Punjab</h2>
@@ -930,7 +971,7 @@ require_once __DIR__ . '/../includes/seo.php';
         <h3>Book Your Stress-Free Ranchi to Jalandhar Move Today</h3>
         <p>Get in touch with our moving consultants for an instant transparent estimate, free home pre-move survey, and guaranteed on-time doorstep delivery across Jalandhar &amp; Punjab.</p>
         <div class="r2jl-cta-bar" style="justify-content: center;">
-            <a href="tel:+918409531615" class="r2jl-btn-primary">Call Now: +91 8409531615</a>
+            <a href="tel:+919835565233" class="r2jl-btn-primary">Call Now: +91 9835565233</a>
             <a href="tel:+919835565233" class="r2jl-btn-secondary">Mobile: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="r2jl-btn-secondary">Request Free Survey</a>
         </div>

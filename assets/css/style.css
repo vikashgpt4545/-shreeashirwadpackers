@@ -21,10 +21,16 @@ img, video, iframe, canvas, svg {
   height: auto;
 }
 
-[class*="img-showcase"] img,
-.img-showcase img {
-  max-width: 100% !important;
-  height: auto !important;
+/* Standalone & Table Mobile Viewport Guard - Prevents horizontal page blowout */
+@media (max-width: 768px) {
+  table {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    box-sizing: border-box !important;
+  }
 }
 
 /* Universal Table Wrapper Protection */
@@ -57,32 +63,101 @@ main,
   overflow-x: hidden !important;
 }
 
-/* Universal Image Container Safety Constraint (Prevents vertical image explosion) */
+/* Universal Image Container & Aspect-Ratio Containment Guard (Desktop: max 220px, Mobile: max 180px) */
+[class*="img-showcase"],
+.img-showcase,
 [class*="-image-container"],
+[class*="image-container"],
+[class*="image-wrapper"],
 [class*="-img-box"],
+[class*="-img-card"],
 [class*="-img-frame"],
 [class*="-img-wrap"],
 [class*="-img-wrapper"],
-.visual-card {
-  max-width: 600px;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 12px;
-  overflow: hidden;
-  box-sizing: border-box;
+[class*="-feature-img"],
+[class*="corridor-img-container"],
+.corridor-img-container,
+.visual-card,
+.c2r-media-box,
+.service-img-wrap {
+  max-width: 440px !important;
+  width: 100% !important;
+  margin: 18px auto !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+  text-align: center !important;
 }
 
+[class*="img-showcase"] img,
+.img-showcase img,
 [class*="-image-container"] img,
+[class*="image-container"] img,
+[class*="image-wrapper"] img,
 [class*="-img-box"] img,
+[class*="-img-card"] img,
 [class*="-img-frame"] img,
 [class*="-img-wrap"] img,
-[class*="-img-wrapper"] img {
-  width: 100%;
-  height: auto;
-  max-height: 480px;
-  object-fit: cover;
-  display: block;
+[class*="-img-wrapper"] img,
+[class*="-feature-img"] img,
+[class*="corridor-img-container"] img,
+.corridor-img-container img,
+.visual-card img,
+.c2r-media-box img,
+.service-img-wrap img {
+  width: 100% !important;
+  max-width: 440px !important;
+  max-height: 220px !important;
+  height: 220px !important;
+  aspect-ratio: 16/9 !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 auto !important;
+  border-radius: 10px !important;
+}
+
+@media (max-width: 768px) {
+  [class*="img-showcase"],
+  .img-showcase,
+  [class*="-image-container"],
+  [class*="image-container"],
+  [class*="image-wrapper"],
+  [class*="-img-box"],
+  [class*="-img-card"],
+  [class*="-img-frame"],
+  [class*="-img-wrap"],
+  [class*="-img-wrapper"],
+  [class*="-feature-img"],
+  [class*="corridor-img-container"],
+  .corridor-img-container,
+  .visual-card,
+  .c2r-media-box,
+  .service-img-wrap {
+    max-width: 340px !important;
+    margin: 14px auto !important;
+  }
+
+  [class*="img-showcase"] img,
+  .img-showcase img,
+  [class*="-image-container"] img,
+  [class*="image-container"] img,
+  [class*="image-wrapper"] img,
+  [class*="-img-box"] img,
+  [class*="-img-card"] img,
+  [class*="-img-frame"] img,
+  [class*="-img-wrap"] img,
+  [class*="-img-wrapper"] img,
+  [class*="-feature-img"] img,
+  [class*="corridor-img-container"] img,
+  .corridor-img-container img,
+  .visual-card img,
+  .c2r-media-box img,
+  .service-img-wrap img {
+    max-width: 340px !important;
+    max-height: 180px !important;
+    height: 180px !important;
+    aspect-ratio: 16/9 !important;
+  }
 }
 
 /* Decorative Glow Elements Containment */
@@ -1219,4 +1294,230 @@ main,
   .cta-section h2 {
     font-size: 1.6rem !important;
   }
+}
+
+/* ==========================================================================
+   MASTER BULLETPROOF MOBILE RESPONSIVE & IMAGE CONTAINMENT GUARD
+   1. Clamps all corridor and hub images to elegant 16:9 cards (Desktop max 220px, Mobile max 180px)
+   2. Eliminates 100% of mobile horizontal cutoffs, overflow clipping, and table blowouts
+   ========================================================================== */
+
+/* 1. Global Viewport & Text Overflow Safety */
+html, body {
+  overflow-x: hidden !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  position: relative !important;
+}
+
+body, main, article, section, p, h1, h2, h3, h4, h5, h6, li, span, a, div {
+  overflow-wrap: break-word !important;
+  word-wrap: break-word !important;
+}
+
+/* 2. Universal Image Containment: Clamps Standalone & Showcase Photos */
+[class*="img-showcase"],
+.img-showcase,
+[class*="-feature-img"],
+[class*="-img-box"],
+[class*="-img-card"],
+[class*="-img-frame"],
+[class*="-img-wrap"],
+[class*="-img-wrapper"],
+[class*="-image-container"],
+[class*="image-wrapper"],
+[class*="corridor-img-container"],
+.corridor-img-container,
+.visual-card,
+.c2r-media-box,
+.service-img-wrap {
+  max-width: 440px !important;
+  width: 100% !important;
+  margin: 20px auto !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+  text-align: center !important;
+}
+
+[class*="img-showcase"] img,
+.img-showcase img,
+[class*="-feature-img"] img,
+[class*="-img-box"] img,
+[class*="-img-card"] img,
+[class*="-img-frame"] img,
+[class*="-img-wrap"] img,
+[class*="-img-wrapper"] img,
+[class*="-image-container"] img,
+[class*="image-wrapper"] img,
+[class*="corridor-img-container"] img,
+.corridor-img-container img,
+.visual-card img,
+.c2r-media-box img,
+.service-img-wrap img {
+  width: 100% !important;
+  max-width: 440px !important;
+  max-height: 220px !important;
+  height: 220px !important;
+  aspect-ratio: 16/9 !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 auto !important;
+  border-radius: 10px !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08) !important;
+}
+
+[class*="img-showcase"] .caption,
+.img-showcase .caption,
+.corridor-img-container .caption {
+  font-size: 0.85rem !important;
+  color: #64748b !important;
+  margin-top: 8px !important;
+  text-align: center !important;
+  line-height: 1.4 !important;
+}
+
+/* 3. Universal Table Mobile Scroll Guard */
+.table-responsive,
+[class*="table-"][class*="-wrapper"],
+[class*="-table-wrapper"],
+[class*="-table-container"],
+.pricing-table-container,
+.pricing-table-wrapper,
+.comparison-table-wrapper,
+[style*="overflow-x:auto"],
+[style*="overflow-x: auto"] {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+  box-sizing: border-box !important;
+  margin-bottom: 20px !important;
+}
+
+/* 4. Mobile Breakpoint (<= 768px): Zero Cutting & Compact Images */
+@media (max-width: 768px) {
+  /* Prevent horizontal cutting */
+  .container,
+  [class*="container"],
+  [class*="wrap"],
+  [class*="wrapper"],
+  .route-main-content,
+  .article-content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 14px !important;
+    padding-right: 14px !important;
+    box-sizing: border-box !important;
+  }
+
+  .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  /* Force tables to scroll on mobile */
+  table {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    box-sizing: border-box !important;
+  }
+
+  table th, table td {
+    white-space: nowrap !important;
+    font-size: 0.82rem !important;
+    padding: 8px 10px !important;
+  }
+
+  /* Collapse all multi-column grids to 1 column on mobile */
+  [style*="grid-template-columns"],
+  [class*="grid-"],
+  [class*="-grid"],
+  .grid-cards,
+  .feature-grid,
+  .services-grid,
+  .process-steps-grid {
+    grid-template-columns: 1fr !important;
+    gap: 16px !important;
+  }
+
+  /* Compact images on mobile */
+  [class*="img-showcase"],
+  .img-showcase,
+  [class*="-feature-img"],
+  [class*="-img-box"],
+  [class*="-img-card"],
+  [class*="-img-frame"],
+  [class*="-img-wrap"],
+  [class*="-img-wrapper"],
+  [class*="-image-container"],
+  [class*="image-wrapper"],
+  [class*="corridor-img-container"],
+  .corridor-img-container,
+  .visual-card,
+  .c2r-media-box,
+  .service-img-wrap {
+    max-width: 320px !important;
+    margin: 14px auto !important;
+  }
+
+  [class*="img-showcase"] img,
+  .img-showcase img,
+  [class*="-feature-img"] img,
+  [class*="-img-box"] img,
+  [class*="-img-card"] img,
+  [class*="-img-frame"] img,
+  [class*="-img-wrap"] img,
+  [class*="-img-wrapper"] img,
+  [class*="-image-container"] img,
+  [class*="image-wrapper"] img,
+  [class*="corridor-img-container"] img,
+  .corridor-img-container img,
+  .visual-card img,
+  .c2r-media-box img,
+  .service-img-wrap img {
+    max-width: 320px !important;
+    max-height: 180px !important;
+    height: 180px !important;
+    aspect-ratio: 16/9 !important;
+  }
+}
+
+/* ==========================================================================
+   UNIVERSAL FAQ ACCORDION ZERO-BLEED & INTERACTION GUARD
+   Guarantees closed FAQ answers never leak sliced text or padding (100% hidden)
+   Smoothly displays full answer when question is toggled/expanded
+   ========================================================================== */
+.faq-question:not([aria-expanded="true"]) + .faq-answer,
+.faq-item:not(.active) > .faq-answer:not(.show),
+.faq-answer:not(.show):not([style*="display: block"]) {
+  display: none !important;
+  max-height: 0 !important;
+  height: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  overflow: hidden !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+.faq-question[aria-expanded="true"] + .faq-answer,
+.faq-item.active > .faq-answer,
+.faq-answer.show {
+  display: block !important;
+  max-height: 1200px !important;
+  height: auto !important;
+  padding: 16px 22px 20px !important;
+  overflow: visible !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transition: opacity 0.25s ease !important;
 }

@@ -4,8 +4,9 @@
  * Pure Core PHP Implementation
  */
 
-// Start session if not already started
+// Start session if not already started; disable default no-cache header to allow CDN & browser caching
 if (session_status() === PHP_SESSION_NONE) {
+    session_cache_limiter('');
     session_start();
 }
 

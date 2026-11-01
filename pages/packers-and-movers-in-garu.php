@@ -2,16 +2,16 @@
 /**
  * Packers and Movers in Garu - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 8409531615 / +91 9835565233
+ * Contact: +91 9835565233 / +91 9835565233
  * Office: Serving Garu, Palamu Tiger Reserve, Betla & Latehar District, Jharkhand
  */
 
 require_once __DIR__ . '/includes/config.php';
 
 // Page-specific variables
-$page_title = "Packers and Movers in Garu - 8409531615 | Shree Ashirwad Packers";
-$page_description = "Reputed packers and movers in Garu (Palamu Tiger Reserve), Latehar. Safe household shifting, forest officer transfers, car and bike carriers, full transit insurance. Call 8409531615.";
-$page_keywords = "packers and movers in garu, movers and packers garu latehar, palamu tiger reserve packers and movers, betla shifting services, household shifting garu, car transport garu, bike courier garu, shree ashirwad packers garu";
+$page_title = "Packers and Movers in Garu | Best Shifting Services Palamu Tiger Reserve - Shree Ashirwad";
+$page_description = "Looking for the best packers and movers in Garu? Shree Ashirwad Packers offers Latehar Palamu Tiger Reserve forest transfers, home shifting & vehicle transport. Call +91 9835565233.";
+$page_keywords = "packers and movers in garu, best movers and packers garu, movers and packers near me in garu, movers and packers garu latehar, palamu tiger reserve packers and movers, betla shifting services, netarhat road shifting, mahuadanr movers, household shifting garu, car transport garu, bike courier garu, packing and moving company in garu, local shifting in garu, shree ashirwad packers garu";
 $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-garu";
 ?>
 <!DOCTYPE html>
@@ -55,7 +55,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-garu";
       "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
       "@id": "<?php echo $canonical_url; ?>#movingcompany",
       "url": "<?php echo $canonical_url; ?>",
-      "telephone": "+918409531615",
+      "telephone": "+919835565233",
       "priceRange": "INR 3500 - 52000",
         "keywords": "packers and movers in garu, movers and packers garu latehar, palamu tiger reserve packers and movers, betla shifting services, household shifting garu, car transport garu, bike courier garu, shree ashirwad packers garu",
       "address": {
@@ -188,7 +188,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-garu";
           "name": "How can I book Packers and Movers in Garu?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You can call our 24/7 Garu support desk directly at +91 8409531615 or +91 9835565233, or submit our online quick quote form on this page to schedule an immediate free doorstep survey."
+            "text": "You can call our 24/7 Garu support desk directly at +91 9835565233 or +91 9835565233, or submit our online quick quote form on this page to schedule an immediate free doorstep survey."
           }
         }
       ]
@@ -207,10 +207,10 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-garu";
                     <i class="fa-solid fa-tree"></i> Trusted Relocation Partner in Garu & Palamu Tiger Reserve
                 </div>
                 <h1 style="font-family: 'Outfit', sans-serif; font-size: clamp(2.2rem, 4vw, 3.2rem); font-weight: 800; line-height: 1.2; margin-bottom: 20px; color: #ffffff;">
-                    Packers and Movers in Garu - <span style="color: #ffc107;">8409531615</span>
+                    Packers and Movers in Garu - <span style="color: #ffc107;">+91 9835565233</span>
                 </h1>
                 <p style="font-family: 'Inter', sans-serif; font-size: 17px; line-height: 1.7; color: #e0e6ed; margin-bottom: 28px;">
-                    Relocating home, forest department quarters, or commercial resort facilities in Garu? <strong>Shree Ashirwad Packers and Movers</strong> provides trusted, professional, and damage-free moving services across the lush forested heart of Latehar district. Situated along the North Koel River inside the renowned Palamu Tiger Reserve (PTR) corridor between Betla National Park, Medininagar (Daltonganj), Latehar, and Mahuadanr towards Netarhat, Garu requires exceptional driving proficiency, moisture-resistant packaging, and heavy-duty vehicles. Whether you are a forest officer, administrative executive, teacher, or local trader transferring interstate, our certified crew ensures 100% zero-damage execution backed by comprehensive transit insurance.
+                    Looking for the best packers and movers in Garu? <strong>Shree Ashirwad Packers and Movers</strong> provides trusted household shifting, office relocation, bike transport, car transport, and complete moving solutions at affordable prices across the forested heart of Latehar district and Palamu Tiger Reserve. Situated along the North Koel River inside the protected PTR corridor between Betla National Park, Medininagar (Daltonganj), Latehar, and Mahuadanr towards Netarhat, we help forest department officers, administrative executives, teachers, and business families relocate locally and across Jharkhand without hassle. We cover major localities including Garu Forest Range Office, Maromar, Baresanr, Kumandih, Netarhat Ghat road, and Betla belt for fast and reliable shifting services. Whether you need local shifting in Garu, intercity relocation, office moving, or vehicle transportation, our trained staff ensures secure handling, pincode-based scheduling (PIN: 822126), same-day shifting assistance, floor-to-floor handling, and dependable relocation planning backed by full transit insurance.
                 </p>
                 <div class="hero-stats-row" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 15px; margin-bottom: 30px;">
                     <div style="background: rgba(255, 255, 255, 0.08); padding: 14px; border-radius: 10px; border-left: 3px solid #ffc107;">
@@ -231,10 +231,10 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-garu";
                     </div>
                 </div>
                 <div class="hero-actions" style="display: flex; flex-wrap: wrap; gap: 15px;">
-                    <a href="tel:+918409531615" class="btn-primary" style="background: #ffc107; color: #1a252f; padding: 14px 28px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
-                        <i class="fa-solid fa-phone-volume"></i> Call Now: 8409531615
+                    <a href="tel:+919835565233" class="btn-primary" style="background: #ffc107; color: #1a252f; padding: 14px 28px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
+                        <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Garu" target="_blank" rel="nofollow noopener" class="btn-secondary" style="background: #25d366; color: #ffffff; padding: 14px 24px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
+                    <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Garu" target="_blank" rel="nofollow noopener" class="btn-secondary" style="background: #25d366; color: #ffffff; padding: 14px 24px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
                         <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
                     </a>
                 </div>
@@ -309,7 +309,47 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-garu";
 <main class="city-page-main" style="padding: 50px 0; background-color: #fdfdfd; font-family: 'Inter', sans-serif; color: #334155; line-height: 1.8;">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
 
-        <!-- Section 1: Overview & Strategic Importance -->
+            <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Garu
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Garu</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Garu and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Garu</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Garu Forest Range Office, Maromar, Baresanr, Kumandih, Netarhat Ghat road, and Betla belt for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Garu</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Garu</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Garu</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Garu</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Garu</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Garu</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- Section 1: Overview & Strategic Importance -->
         <section class="content-section" style="margin-bottom: 50px;">
             <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
                 <div style="flex: 1 1 550px; min-width: 320px;">
@@ -334,6 +374,17 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-garu";
                     <p>
                         From complete furniture dismantling and reassembly to GPS tracking and 100% genuine GST invoices compliant with government transfer allowance rules, we make your relocation in Garu totally effortless.
                     </p>
+                    <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #ffc107; padding: 20px; border-radius: 8px; margin-top: 24px;">
+                        <h3 style="font-family: 'Outfit', sans-serif; font-size: 19px; font-weight: 700; color: #0d3b2e; margin-bottom: 10px;">
+                            <i class="fa-solid fa-map-location-dot" style="color: #ffc107; margin-right: 8px;"></i> Top-Rated Moving & Packing Solutions in Garu
+                        </h3>
+                        <p style="margin-bottom: 8px; font-size: 15px; line-height: 1.6;">
+                            Customers choose our movers and packers service in Garu for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning. We provide nearby packers and movers support with pincode-based scheduling (PIN: 822126), same-day shifting assistance, floor-to-floor handling, and flexible moving options across the Palamu Tiger Reserve corridor.
+                        </p>
+                        <p style="margin-bottom: 0; font-size: 15px; line-height: 1.6;">
+                            From government residential quarters and forest ranger stations to rural family homes along the North Koel River, our packing and moving company in Garu delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Garu, our local team is available 24/7 at <strong>+91 9835565233</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
+                        </p>
+                    </div>
                 </div>
                 <div style="flex: 1 1 450px; min-width: 300px;">
                     <!-- Image 1: Responsive container with 3:4 aspect ratio -->
@@ -913,7 +964,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-garu";
                         <i class="fa-solid fa-chevron-down" style="color: #e67e22; font-size: 14px;"></i>
                     </summary>
                     <p style="margin-top: 14px; font-size: 15px; color: #475569; line-height: 1.7;">
-                        You can call our 24/7 Garu support desk directly at +91 8409531615 or +91 9835565233, or submit our online quick quote form on this page to schedule an immediate free doorstep survey.
+                        You can call our 24/7 Garu support desk directly at +91 9835565233 or +91 9835565233, or submit our online quick quote form on this page to schedule an immediate free doorstep survey.
                     </p>
                 </details>
             </div>
@@ -931,8 +982,8 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-garu";
                 Reach out to Shree Ashirwad Packers and Movers today for a transparent, budget-friendly estimate, professional packaging, and stress-free transit across Jharkhand and beyond.
             </p>
             <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:+918409531615" style="background: #ffc107; color: #0f172a; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
-                    <i class="fa-solid fa-phone-volume"></i> Call 8409531615
+                <a href="tel:+919835565233" style="background: #ffc107; color: #0f172a; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
+                    <i class="fa-solid fa-phone-volume"></i> Call 9835565233
                 </a>
                 <a href="tel:+919835565233" style="background: rgba(255, 255, 255, 0.12); color: #ffffff; border: 1px solid rgba(255,255,255,0.4); padding: 15px 28px; border-radius: 8px; font-weight: 600; font-size: 16px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s ease;">
                     <i class="fa-solid fa-headset"></i> Alt Helpline: 9835565233

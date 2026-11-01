@@ -9,8 +9,8 @@ if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
 
-$page_title = "Asansol to Deoghar Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Top Asansol to Deoghar packers and movers by Shree Ashirwad. Same-day 3-5 hr transit, SAIL-IISCO & Railway transfer bills, 5-layer packing. Call 8409531615.";
+$page_title = "Asansol to Deoghar Packers and Movers | Best Shifting Services - Shree Ashirwad";
+$page_desc = "Looking for the best packers and movers from Asansol to Deoghar? Shree Ashirwad offers same-day 3-5 hr transit, household shifting, bike & car transport, IBA approved bill. Call +91 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -20,7 +20,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packer
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
-    <meta name="keywords" content="asansol to deoghar packers and movers, packers and movers asansol to deoghar, house shifting asansol to deoghar, asansol to deoghar luggage parcel, asansol to deoghar car carrier, asansol to deoghar bike parcel">
+    <meta name="keywords" content="asansol to deoghar packers and movers, packers and movers asansol to deoghar, best packers and movers for asansol to deoghar, household shifting services, bike transport, car carrier services, iba approved bill, transit insurance, movers and packers near me in deoghar, house shifting asansol to deoghar, asansol to deoghar luggage parcel, asansol to deoghar car carrier, asansol to deoghar bike parcel">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-WB">
@@ -529,6 +529,42 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packer
             transform: translateY(-2px);
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body class="asn2d-wrapper">
 
@@ -561,9 +597,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packer
         </div>
 
         <div class="asn2d-cta-group">
-            <a href="tel:08409531615" class="asn2d-btn-primary">
+            <a href="tel:+919835565233" class="asn2d-btn-primary">
                 <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.45.57 3.57a1 1 0 01-.25 1.02l-2.2 2.2z"/></svg>
-                Call Instant Quote: 8409531615
+                Call Instant Quote: +91 9835565233
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="asn2d-btn-secondary">
                 Request Free Survey
@@ -571,6 +607,54 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packer
         </div>
     </div>
 </section>
+
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Asansol to Deoghar
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Asansol to Deoghar</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Asansol and Deoghar with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Asansol</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Asansol and Deoghar along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Asansol</strong>, intercity relocation to Deoghar, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Asansol to Deoghar</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Asansol to Deoghar</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Asansol to Deoghar</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Asansol to Deoghar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Asansol to Deoghar</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    
+
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
 
 <!-- Corridor Logistics Section -->
 <section class="asn2d-section">
@@ -618,7 +702,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packer
                 <div class="asn2d-img-caption">Doorstep placement, furniture re-assembly, and debris removal in Deoghar.</div>
             </div>
         </div>
-    </div>
+</div>
 </section>
 
 <!-- PSU, Railway & Steel Plant Advisory -->
@@ -939,7 +1023,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packer
 
             <div class="asn2d-faq-item">
                 <div class="asn2d-faq-q">6. How can I schedule a pre-move survey in Asansol?</div>
-                <div class="asn2d-faq-a">Scheduling is fast and free. You can call our 24/7 customer service desk at <strong>08409531615</strong> or <strong>09835565233</strong>, or submit a request on our contact page. We offer complimentary home inspection visits across all Asansol neighborhoods as well as fast video-call surveys.</div>
+                <div class="asn2d-faq-a">Scheduling is fast and free. You can call our 24/7 customer service desk at <strong>09835565233</strong> or <strong>09835565233</strong>, or submit a request on our contact page. We offer complimentary home inspection visits across all Asansol neighborhoods as well as fast video-call surveys.</div>
             </div>
         </div>
     </div>
@@ -975,7 +1059,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packer
   "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
   "@id": "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packers-and-movers#company",
   "url": "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packers-and-movers",
-  "telephone": "+918409531615",
+  "telephone": "+919835565233",
   "priceRange": "₹₹",
   "address": {
     "@type": "PostalAddress",
@@ -1118,7 +1202,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-deoghar-packer
       "name": "How can I schedule a pre-move survey in Asansol?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Call our 24/7 customer service desk at 08409531615 or submit a request on our contact page for a complimentary home inspection or video-call survey."
+        "text": "Call our 24/7 customer service desk at 09835565233 or submit a request on our contact page for a complimentary home inspection or video-call survey."
       }
     }
   ]

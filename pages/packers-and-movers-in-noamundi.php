@@ -7,15 +7,15 @@ require_once "includes/config.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Packers and Movers in Noamundi - 8409531615</title>
-    <meta name="description" content="Reliable packers and movers in Noamundi West Singhbhum. Specializing in Tata Steel employee transfers, red dust-proof household shifting, car transport & Saranda logistics. Call 8409531615.">
+    <title>Packers and Movers in Noamundi - 9835565233</title>
+    <meta name="description" content="Reliable packers and movers in Noamundi West Singhbhum. Specializing in Tata Steel employee transfers, red dust-proof household shifting, car transport & Saranda logistics. Call 9835565233.">
     <meta name="keywords" content="packers and movers in noamundi, movers and packers noamundi west singhbhum, tata steel noamundi transfer packers, gua barajamda packers movers, car bike transport noamundi, shree ashirwad packers and movers">
     <link rel="canonical" href="https://www.shreeashirwadpackers.com/packers-and-movers-in-noamundi">
     <meta name="robots" content="index, follow">
 
     <!-- Open Graph Tags -->
     <meta property="og:title" content="Packers and Movers in Noamundi West Singhbhum | Shree Ashirwad Packers">
-    <meta property="og:description" content="Certified, safe, and red dust-proof household shifting, Tata Steel mining transfers, and vehicle transport in Noamundi. Call 8409531615 for a free quote.">
+    <meta property="og:description" content="Certified, safe, and red dust-proof household shifting, Tata Steel mining transfers, and vehicle transport in Noamundi. Call 9835565233 for a free quote.">
     <meta property="og:url" content="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noamundi">
     <meta property="og:type" content="business.business">
     <meta property="og:image" content="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg">
@@ -41,7 +41,7 @@ require_once "includes/config.php";
                 "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-noamundi",
                 "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
                 "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
-                "telephone": "+91-8409531615",
+                "telephone": "+91-9835565233",
                 "email": "info@shreeashirwadpackers.com",
                 "description": "Premier relocation service provider in Noamundi, West Singhbhum specializing in Tata Steel iron ore mining officer transfers, Saranda forest regional moving, car and bike carrier transport, and airtight red dust-proof household shifting.",
                 "priceRange": "₹₹",
@@ -223,8 +223,8 @@ require_once "includes/config.php";
                 </div>
             </div>
             <div class="hero-actions" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:8409531615" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: 8409531615
+                <a href="tel:9835565233" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-calculator"></i> Get Free Moving Estimate
@@ -248,6 +248,47 @@ require_once "includes/config.php";
         </ol>
     </div>
 </nav>
+
+        <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Noamundi
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Noamundi</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Noamundi and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Noamundi</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Tata Steel Township, Gua Mining Colony, Bara Jamda, Kiriburu, Meghahatuburu, Kotgarh, Padapahar, Sangram Sahi, DVC Colony, and Noamundi Railway Station along with the Barbil border corridor for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Noamundi</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Noamundi</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Noamundi</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Noamundi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Noamundi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Noamundi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
 
 <!-- Introduction Section -->
 <section class="intro-section" style="padding: 70px 0; background: #ffffff;">
@@ -554,8 +595,8 @@ require_once "includes/config.php";
                     </div>
                     <div style="border-top: 1px solid rgba(255, 255, 255, 0.15); padding-top: 20px; text-align: center;">
                         <span style="font-size: 0.95rem; color: #cbd5e1;">Moving in Noamundi or Saranda belt? Call:</span>
-                        <a href="tel:8409531615" style="display: block; font-size: 1.3rem; font-weight: 700; color: #ffc107; text-decoration: none; margin-top: 5px;">
-                            <i class="fa-solid fa-phone"></i> +91 8409531615
+                        <a href="tel:9835565233" style="display: block; font-size: 1.3rem; font-weight: 700; color: #ffc107; text-decoration: none; margin-top: 5px;">
+                            <i class="fa-solid fa-phone"></i> +91 9835565233
                         </a>
                     </div>
                 </div>
@@ -628,7 +669,7 @@ require_once "includes/config.php";
             </table>
         </div>
         <p style="font-size: 0.85rem; color: #64748b; margin-top: 15px; text-align: center;">
-            *Note: Final prices depend on goods volume, floor levels, elevator availability, exact distance, and chosen insurance value. Call 8409531615 for a customized quote.
+            *Note: Final prices depend on goods volume, floor levels, elevator availability, exact distance, and chosen insurance value. Call 9835565233 for a customized quote.
         </p>
     </div>
 </section>
@@ -984,8 +1025,8 @@ require_once "includes/config.php";
                 Contact our West Singhbhum moving team today for a free, transparent estimate tailored specifically to your home, Tata Steel transfer, or vehicle transport needs.
             </p>
             <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-                <a href="tel:8409531615" class="btn" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 15px 32px; border-radius: 8px; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 10px;">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: 8409531615
+                <a href="tel:9835565233" class="btn" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 15px 32px; border-radius: 8px; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 10px;">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 15px 32px; border-radius: 8px; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-envelope"></i> Send Moving Inquiry

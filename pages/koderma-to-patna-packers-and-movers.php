@@ -1,89 +1,392 @@
 <?php
-// Dynamic SEO Configuration for Koderma to Patna Relocation Corridor
-$page_title = "Koderma to Patna Packers and Movers | Same-Day Shifting & Vehicle Transport";
-$page_description = "Hire trusted packers and movers from Koderma (Jhumri Telaiya) to Patna. Same-day household goods shifting via NH-20 / NH-31, bike transport, 4-layer packaging & transit insurance. Call +91 9835565233.";
-$canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-movers";
+/**
+ * Page Name: Koderma to Patna Packers and Movers
+ * Route Slug: koderma-to-patna-packers-and-movers
+ * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Koderma to Patna.
+ * Focus Keywords: koderma to patna packers and movers, packers and movers koderma to patna, house shifting koderma to patna, car carrier koderma to patna, bike transport koderma to patna, household moving koderma patna
+ */
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/includes/config.php';
+}
+
+$page_title = "Koderma to Patna Packers and Movers | Reliable Shifting Services";
+$page_desc = "Safe Koderma to Patna packers and movers. 170 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
+$canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-patna-packers-and-movers";
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $page_title; ?></title>
-    <meta name="description" content="<?php echo $page_description; ?>">
-    <meta name="keywords" content="koderma to patna packers and movers, packers and movers koderma to patna, jhumri telaiya to patna household shifting, luggage moving koderma to patna, bike transport koderma to patna">
+    <title><?php echo htmlspecialchars($page_title); ?></title>
+    <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="koderma to patna packers and movers, packers and movers koderma to patna, house shifting koderma to patna, car carrier koderma to patna, bike transport koderma to patna, household moving koderma patna">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <meta name="robots" content="index, follow">
+    <meta name="geo.region" content="IN-JH">
+    <meta name="geo.placename" content="Koderma">
+
+    <!-- Open Graph Metadata -->
+    <meta property="og:type" content="business.business">
+    <meta property="og:title" content="<?php echo htmlspecialchars($page_title); ?>">
+    <meta property="og:description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta property="og:url" content="<?php echo $canonical_url; ?>">
+    <meta property="og:image" content="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg">
+    <meta property="og:site_name" content="Shree Ashirwad Packers and Movers">
+    <meta property="og:locale" content="en_IN">
+
+    <!-- Twitter Card Metadata -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo htmlspecialchars($page_title); ?>">
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="twitter:image" content="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg">
+
+    <!-- Favicon & Stylesheets -->
+    <link rel="icon" type="image/png" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
+    <link rel="shortcut icon" href="<?php echo SITE_BASE_URL; ?>/favicon.ico">
+    <link rel="apple-touch-icon" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
+
+    <!-- Scoped CSS for Koderma to Patna -->
+    <style>
+        :root {
+            --c_kod_pat-primary: #1e3a8a;
+            --c_kod_pat-secondary: #0284c7;
+            --c_kod_pat-accent: #0284c7;
+            --c_kod_pat-accent-light: #e0f2fe;
+            --c_kod_pat-dark: #0f172a;
+            --c_kod_pat-gray-bg: #f8fafc;
+            --c_kod_pat-border: #e2e8f0;
+            --c_kod_pat-shadow: 0 10px 25px -5px rgba(30, 58, 138, 0.08), 0 8px 10px -6px rgba(30, 58, 138, 0.04);
+        }
+
+        .c_kod_pat-hero {
+            background: linear-gradient(135deg, rgba(15, 23, 42, 0.94) 0%, rgba(30, 58, 138, 0.90) 100%),
+                        url('<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg') center/cover no-repeat;
+            color: #ffffff;
+            padding: 85px 0 65px;
+            position: relative;
+        }
+
+        .c_kod_pat-hero h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.75rem;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 20px;
+        }
+
+        .c_kod_pat-hero p.lead {
+            font-size: 1.15rem;
+            line-height: 1.7;
+            color: #e2e8f0;
+            max-width: 820px;
+            margin-bottom: 28px;
+        }
+
+        .c_kod_pat-badge-strip {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 30px;
+        }
+
+        .c_kod_pat-badge {
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.22);
+            color: #ffffff;
+            padding: 7px 16px;
+            border-radius: 9999px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .c_kod_pat-cta-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            align-items: center;
+        }
+
+        .c_kod_pat-btn-primary {
+            background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+            color: #ffffff;
+            font-weight: 700;
+            padding: 14px 32px;
+            border-radius: 10px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            box-shadow: 0 4px 14px rgba(2, 132, 199, 0.35);
+            transition: all 0.3s ease;
+        }
+
+        .c_kod_pat-btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(2, 132, 199, 0.45);
+            color: #ffffff;
+        }
+
+        .c_kod_pat-btn-secondary {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(6px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: #ffffff;
+            font-weight: 600;
+            padding: 14px 28px;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .c_kod_pat-btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.25);
+            color: #ffffff;
+        }
+
+        .c_kod_pat-section {
+            padding: 70px 0;
+        }
+
+        .c_kod_pat-section-gray {
+            background-color: var(--c_kod_pat-gray-bg);
+        }
+
+        .c_kod_pat-heading-center {
+            text-align: center;
+            max-width: 820px;
+            margin: 0 auto 50px;
+        }
+
+        .c_kod_pat-heading-center h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.25rem;
+            font-weight: 800;
+            color: var(--c_kod_pat-dark);
+            margin-bottom: 14px;
+        }
+
+        .c_kod_pat-heading-center p {
+            font-size: 1.05rem;
+            color: #64748b;
+            line-height: 1.65;
+        }
+
+        .c_kod_pat-grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 28px;
+        }
+
+        .c_kod_pat-grid-2 {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 36px;
+            align-items: center;
+        }
+
+        .c_kod_pat-card {
+            background: #ffffff;
+            border-radius: 14px;
+            border: 1px solid var(--c_kod_pat-border);
+            padding: 30px;
+            box-shadow: var(--c_kod_pat-shadow);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .c_kod_pat-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 15px 30px -5px rgba(30, 58, 138, 0.12);
+        }
+
+        .c_kod_pat-card-icon {
+            width: 54px;
+            height: 54px;
+            border-radius: 12px;
+            background: var(--c_kod_pat-accent-light);
+            color: var(--c_kod_pat-accent);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        .c_kod_pat-card h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: var(--c_kod_pat-dark);
+            margin-bottom: 12px;
+        }
+
+        .c_kod_pat-card p {
+            color: #475569;
+            font-size: 0.96rem;
+            line-height: 1.65;
+        }
+
+        .c_kod_pat-table-container {
+            background: #ffffff;
+            border-radius: 14px;
+            border: 1px solid var(--c_kod_pat-border);
+            overflow-x: auto;
+            box-shadow: var(--c_kod_pat-shadow);
+            margin: 35px 0;
+        }
+
+        .c_kod_pat-table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        .c_kod_pat-table th {
+            background: #0f172a;
+            color: #ffffff;
+            font-weight: 700;
+            padding: 16px 20px;
+            font-size: 0.98rem;
+        }
+
+        .c_kod_pat-table td {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--c_kod_pat-border);
+            color: #334155;
+            font-size: 0.95rem;
+        }
+
+        .c_kod_pat-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .c_kod_pat-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        .c_kod_pat-checklist {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0;
+        }
+
+        .c_kod_pat-checklist li {
+            position: relative;
+            padding-left: 28px;
+            margin-bottom: 12px;
+            color: #334155;
+            font-size: 0.98rem;
+            line-height: 1.6;
+        }
+
+        .c_kod_pat-checklist li::before {
+            content: "\2713";
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #10b981;
+            font-weight: 800;
+            font-size: 1.1rem;
+        }
+
+        .c_kod_pat-img-wrap {
+            border-radius: 14px;
+            overflow: hidden;
+            box-shadow: var(--c_kod_pat-shadow);
+        }
+
+        .c_kod_pat-img-wrap img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.4s ease;
+        }
+
+        .c_kod_pat-img-wrap:hover img {
+            transform: scale(1.03);
+        }
+
+        .c_kod_pat-faq-item {
+            background: #ffffff;
+            border-radius: 12px;
+            border: 1px solid var(--c_kod_pat-border);
+            padding: 24px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        }
+
+        .c_kod_pat-faq-item h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--c_kod_pat-dark);
+            margin-bottom: 10px;
+        }
+
+        .c_kod_pat-faq-item p {
+            color: #475569;
+            font-size: 0.96rem;
+            line-height: 1.65;
+            margin: 0;
+        }
+
+        @media (max-width: 991px) {
+            .c_kod_pat-grid-3 {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .c_kod_pat-grid-2 {
+                grid-template-columns: 1fr;
+            }
+            .c_kod_pat-hero h1 {
+                font-size: 2.2rem;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .c_kod_pat-grid-3 {
+                grid-template-columns: 1fr;
+            }
+            .c_kod_pat-hero {
+                padding: 60px 0 45px;
+            }
+            .c_kod_pat-hero h1 {
+                font-size: 1.85rem;
+            }
+        }
+    </style>
 
     <!-- Schema 1: MovingCompany -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Koderma to Patna Division",
-        "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "name": "Shree Ashirwad Packers and Movers - Koderma to Patna",
+        "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+        "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
-        "priceRange": "₹6,000 - ₹28,000",
+        "telephone": "+919835565233",
+        "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Ranchi-Patna Road, Near Jhumri Telaiya Chowk",
+            "streetAddress": "Jhumri Telaiya Main Road",
             "addressLocality": "Koderma",
             "addressRegion": "Jharkhand",
-            "postalCode": "825409",
+            "postalCode": "825410",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 24.4674,
-            "longitude": 85.5939
-        },
-        "openingHoursSpecification": {
-            "@type": "OpeningHoursSpecification",
-            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-            "opens": "07:00",
-            "closes": "21:30"
-        }
-    }
-    </script>
-
-    <!-- Schema 2: BreadcrumbList -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
-            },
-            {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Packers and Movers in Koderma",
-                "item": "https://shreeashirwadpackers.com/packers-and-movers-in-koderma"
-            },
-            {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "Koderma to Patna",
-                "item": "<?php echo $canonical_url; ?>"
-            }
-        ]
-    }
-    </script>
-
-    <!-- Schema 3: Service -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Koderma to Patna Express Moving Service",
-        "provider": {
-            "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "latitude": 24.4673,
+            "longitude": 85.5944
         },
         "areaServed": [
             {
@@ -95,7 +398,92 @@ $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-
                 "name": "Patna"
             }
         ],
-        "description": "Same-day express household relocation, motorcycle carriage, and office shifting connecting Koderma and Jhumri Telaiya with Patna via NH-20 with 4-layer packaging and transit insurance."
+        "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+        }
+    }
+    </script>
+
+    <!-- Schema 2: Service -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Interstate Relocation & Household Shifting",
+        "provider": {
+            "@type": "MovingCompany",
+            "name": "Shree Ashirwad Packers and Movers"
+        },
+        "areaServed": {
+            "@type": "City",
+            "name": "Patna, Bihar"
+        },
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Koderma to Patna Moving Packages",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Koderma to Patna Household Shifting"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Koderma to Patna Car Carrier & Bike Transport"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Corporate & Industrial Relocation Billing"
+                    }
+                }
+            ]
+        }
+    }
+    </script>
+
+    <!-- Schema 3: BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "<?php echo SITE_BASE_URL; ?>/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Interstate Relocation",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Koderma to Patna Shifting",
+                "item": "<?php echo $canonical_url; ?>"
+            }
+        ]
     }
     </script>
 
@@ -107,468 +495,627 @@ $canonical_url = "https://shreeashirwadpackers.com/koderma-to-patna-packers-and-
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is the driving distance and delivery duration from Koderma to Patna?",
+                "name": "What is the road distance and transit duration from Koderma to Patna?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The highway distance between Koderma (Jhumri Telaiya) and Patna is approximately 165 km via NH-20 (passing Rajauli, Nawada, and Bihar Sharif). Standard transit takes 4 to 6 hours, allowing same-day packing and delivery."
+                    "text": "The highway distance between Koderma and Patna is approximately 170 km via National Highway Corridor. Dedicated closed container trucks typically complete this transit in 6 - 8 hours."
                 }
             },
             {
                 "@type": "Question",
-                "name": "What are the moving charges from Koderma to Patna?",
+                "name": "What are the shifting charges from Koderma to Patna?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Moving rates range from ₹6,000 to ₹9,500 for a 1 BHK flat; ₹10,500 to ₹16,500 for a 2 BHK apartment; and ₹16,000 to ₹28,000 for a 3 BHK home, including complete packing materials, vehicle transport, and unloading."
+                    "text": "Estimated costs range from Rs 10,300 - 14,935 for 1 BHK apartments, Rs 15,000 - 21,750 for 2 BHK homes, and Rs 21,500 - 31,175 for 3 BHK residences, covering 5-layer packing, container freight, tolls, and doorstep unloading."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Can you handle relocations from Jhumri Telaiya and Domchanch to Patna?",
+                "name": "Do you provide claimable GST invoices for corporate and government transfers?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, we provide doorstep pickup across Jhumri Telaiya, Domchanch, Koderma Station area, and Chandwara, delivering to any residential colony in Patna."
+                    "text": "Yes, Shree Ashirwad Packers and Movers provides 100% authentic GST invoices, detailed itemized inventories, consignment notes (bilty), and IBA-compliant receipts recognized across corporate, public sector, and defense organizations."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Do you provide bike and two-wheeler transport on this corridor?",
+                "name": "How are cars and motorcycles transported from Koderma to Patna?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, we transport motorcycles and scooters securely wrapped with bubble wrap and secured on vehicle ramps. Delivery to Patna is completed within 8 to 12 hours."
+                    "text": "Vehicles are safely transported in enclosed hydraulic car carrier trailers and custom wooden motorcycle crates with wheel chocks, security harness straps, and comprehensive transit insurance."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which areas in Koderma and Patna do you cover?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In Koderma, we cover Jhumri Telaiya, Station Road, Ranchhi-Patna Road, Gumo and Koderma Old Town, Collectorate, Court Compound, Dudhimati. In Patna, we deliver across Frazer Road, Dak Bungalow Chowk, Boring Road, Bailey Road and Kankarbagh, Rajendra Nagar, Patliputra Colony, Anandpuri."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is transit insurance available for Koderma to Patna moves?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we provide comprehensive transit risk insurance covering unexpected highway accidents, external impacts, and adverse weather conditions with hassle-free claim settlement."
                 }
             }
         ]
     }
     </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"], .c_kod_pat-img-wrap {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
 
-    <style>
-        .kpt-page-wrap {
-            color: #2c3e50;
-            line-height: 1.7;
-            font-family: inherit;
-        }
-        .kpt-hero-banner {
-            background: linear-gradient(135deg, #0d3b66 0%, #001e3d 100%);
-            color: #ffffff;
-            padding: 60px 20px;
-            text-align: center;
-        }
-        .kpt-hero-title {
-            font-size: 2.3rem;
-            font-weight: 800;
-            margin-bottom: 16px;
-            line-height: 1.25;
-            color: #ffffff;
-        }
-        .kpt-hero-subtitle {
-            font-size: 1.15rem;
-            max-width: 850px;
-            margin: 0 auto 24px;
-            color: #dbeafe;
-        }
-        .kpt-cta-btn {
-            display: inline-block;
-            background: #f39c12;
-            color: #ffffff;
-            padding: 13px 30px;
-            font-size: 1.05rem;
-            font-weight: 700;
-            border-radius: 6px;
-            text-decoration: none;
-            transition: background 0.3s ease;
-        }
-        .kpt-cta-btn:hover {
-            background: #d68910;
-        }
-        .kpt-container {
-            max-width: 1140px;
-            margin: 0 auto;
-            padding: 40px 20px;
-        }
-        .kpt-grid-2 {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 36px;
-            align-items: center;
-            margin-bottom: 40px;
-        }
-        @media (max-width: 768px) {
-            .kpt-grid-2 {
-                grid-template-columns: 1fr;
-            }
-            .kpt-hero-title {
-                font-size: 1.8rem;
-            }
-        }
-        .kpt-image-box {
-            max-width: 580px;
-            margin: 24px auto;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-        }
-        .kpt-image-box img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-        .kpt-caption {
-            font-size: 0.88rem;
-            color: #64748b;
-            text-align: center;
-            padding: 8px 12px;
-            background: #f8fafc;
-        }
-        .kpt-section-title {
-            font-size: 1.85rem;
-            font-weight: 700;
-            color: #0d3b66;
-            margin-bottom: 20px;
-            position: relative;
-            padding-bottom: 10px;
-        }
-        .kpt-section-title::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 60px;
-            height: 4px;
-            background: #f39c12;
-            border-radius: 2px;
-        }
-        .kpt-table-wrap {
-            overflow-x: auto;
-            margin: 28px 0;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.06);
-            border-radius: 8px;
-        }
-        .kpt-table {
-            width: 100%;
-            border-collapse: collapse;
-            background: #ffffff;
-            text-align: left;
-        }
-        .kpt-table th {
-            background: #0d3b66;
-            color: #ffffff;
-            padding: 14px 16px;
-            font-size: 0.95rem;
-        }
-        .kpt-table td {
-            padding: 12px 16px;
-            border-bottom: 1px solid #e2e8f0;
-            font-size: 0.92rem;
-        }
-        .kpt-table tr:nth-child(even) {
-            background: #f8fafc;
-        }
-        .kpt-card-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 22px;
-            margin: 30px 0;
-        }
-        .kpt-card {
-            background: #ffffff;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            padding: 24px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-            border-top: 4px solid #0d3b66;
-        }
-        .kpt-card h3 {
-            font-size: 1.18rem;
-            color: #0d3b66;
-            margin-bottom: 12px;
-            font-weight: 700;
-        }
-        .kpt-card p {
-            font-size: 0.92rem;
-            color: #4a5568;
-            margin: 0;
-        }
-        .kpt-highlight-box {
-            background: #ebf5fb;
-            border-left: 5px solid #2980b9;
-            padding: 22px;
-            border-radius: 0 8px 8px 0;
-            margin: 28px 0;
-        }
-        .kpt-highlight-box h4 {
-            margin-top: 0;
-            color: #1a5276;
-            font-size: 1.15rem;
-            margin-bottom: 10px;
-        }
-        .kpt-faq-wrap {
-            margin-top: 40px;
-        }
-        .kpt-faq-item {
-            background: #ffffff;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            margin-bottom: 16px;
-            padding: 20px;
-        }
-        .kpt-faq-item h4 {
-            font-size: 1.1rem;
-            color: #0d3b66;
-            margin-top: 0;
-            margin-bottom: 8px;
-        }
-        .kpt-faq-item p {
-            margin: 0;
-            color: #4a5568;
-            font-size: 0.94rem;
-        }
-        .kpt-cluster-links {
-            background: #f8fafc;
-            border: 1px solid #cbd5e1;
-            border-radius: 8px;
-            padding: 24px;
-            margin-top: 40px;
-        }
-        .kpt-cluster-links h4 {
-            font-size: 1.2rem;
-            color: #0d3b66;
-            margin-top: 0;
-            margin-bottom: 16px;
-        }
-        .kpt-cluster-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 12px;
-        }
-        .kpt-cluster-grid a {
-            color: #0d3b66;
-            text-decoration: none;
-            font-size: 0.92rem;
-            font-weight: 600;
-            padding: 6px 0;
-            display: block;
-        }
-        .kpt-cluster-grid a:hover {
-            color: #f39c12;
-            text-decoration: underline;
-        }
-    </style>
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img, .c_kod_pat-img-wrap img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"], .c_kod_pat-img-wrap {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img, .c_kod_pat-img-wrap img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include __DIR__ . '/includes/header.php'; ?>
 
-<div class="kpt-page-wrap">
+<!-- Hero Section -->
+<section class="c_kod_pat-hero">
+    <div class="container">
+        <div class="c_kod_pat-badge-strip">
+            <span class="c_kod_pat-badge">&#9733; 170 KM Express Interstate Corridor</span>
+            <span class="c_kod_pat-badge">&#128666; Sealed All-Weather Closed Containers</span>
+            <span class="c_kod_pat-badge">&#128196; Corporate &amp; PSU Claim Invoices</span>
+            <span class="c_kod_pat-badge">&#128338; Fast 6 - 8 Hour Transit Delivery</span>
+        </div>
+        <h1>Packers and Movers from Koderma to Patna</h1>
+        <p class="lead">
+            Dependable, insured, and professional household shifting, vehicle transport, and corporate relocation services connecting Koderma to Patna. Experience 5-layer protective packaging, dedicated closed container trucks, and seamless doorstep delivery.
+        </p>
+        <div class="c_kod_pat-cta-group">
+            <a href="tel:+919835565233" class="c_kod_pat-btn-primary">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                Call Hotline: 084095 31615
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="c_kod_pat-btn-secondary">
+                Request Express Moving Quote &rarr;
+            </a>
+        </div>
+    </div>
+</section>
 
-    <!-- Hero Section -->
-    <section class="kpt-hero-banner">
-        <h1 class="kpt-hero-title">Koderma to Patna Packers and Movers</h1>
-        <p class="kpt-hero-subtitle">Express Same-Day Relocation Connecting Jhumri Telaiya & Koderma with Patna. Swift 4-Hour Transit via 4-Lane NH-20 Expressway, 4-Layer Packaging & Complete Room Setup.</p>
-        <a href="tel:+919835565233" class="kpt-cta-btn">Book Free Route Survey: +91 9835565233</a>
-    </section>
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+            <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                Packers and Movers from Koderma to Patna
+            </h3>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Looking for the <strong>best packers and movers from Koderma to Patna</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Koderma and Patna with timely delivery support.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                As one of the <strong>top-rated packers and movers near Koderma</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                We cover major localities in Koderma and Patna along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Whether you need <strong>local shifting in Koderma</strong>, intercity relocation to Patna, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Customers choose our <strong>movers and packers service from Koderma to Patna</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Koderma to Patna</strong> delivers affordable, safe, and stress-free relocation services.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                If you are searching for reliable <strong>movers and packers near me from Koderma to Patna</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                Our <strong>professional packers and movers service from Koderma to Patna</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Koderma to Patna</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+            </p>
+        </div>
+    </div>
+</section>
 
-    <!-- Main Container -->
-    <div class="kpt-container">
-
-        <!-- Section 1: Introduction & Regional Geography -->
-        <div class="dpt-grid-2 kpt-grid-2">
+<!-- Route Overview Section -->
+<section class="c_kod_pat-section">
+    <div class="container">
+        <div class="c_kod_pat-grid-2">
             <div>
-                <h2 class="kpt-section-title">Seamless Moving from Jhumri Telaiya to Patna</h2>
-                <p>The 165-kilometer transit corridor connecting Koderma district (including its bustling commercial twin city Jhumri Telaiya and mica hub Domchanch) with Patna is one of the most traveled commercial and residential routes between Jharkhand and Bihar. With the upgradation of National Highway 20 (old NH-31) into a modern four-lane expressway traversing the Rajauli Ghat pass, travel time has reduced to under 5 hours.</p>
-                <p>Whether you are a commercial trader or mica business family shifting base to Patna, a railway employee transferring from Koderma Junction (one of the busiest stations on East Central Railway’s Grand Chord), a government official, or a student moving to coaching centers in Patna, <strong>Shree Ashirwad Packers and Movers</strong> provides guaranteed same-day shifting.</p>
-                <p>We pack your household goods in Jhumri Telaiya or Koderma town in the morning, navigate the Rajauli Ghat safely with secured container trucks, and deliver directly to your new residence in Patna before evening.</p>
+                <span style="color: var(--c_kod_pat-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Connecting Koderma with Patna</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_kod_pat-dark); margin: 10px 0 20px;">
+                    Express 170 KM Interstate Moving from Koderma to Patna
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    Relocating between Koderma and Patna connects Jharkhand&rsquo;s commercial centers with Bihar&rsquo;s premier industrial and administrative hubs. Direct highway transit along National Highway Corridor connecting Koderma across Jharkhand with Patna in Bihar, traversing monitored toll checkpoints.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    At <strong>Shree Ashirwad Packers and Movers</strong>, we execute this high-demand transit route with exceptional reliability. Our dedicated closed container vehicles operate on scheduled departures from Koderma, navigating directly along national highway corridors to deliver your household possessions safely in Patna within 6 - 8 hours.
+                </p>
+                <ul class="c_kod_pat-checklist">
+                    <li>Doorstep pickup across all Koderma neighborhoods with specialized packing crews</li>
+                    <li>Advanced 5-layer protective packaging safeguarding furniture, glassware, and electronics</li>
+                    <li>Direct container transit via National Highway Corridor with guaranteed delivery schedules</li>
+                    <li>Complete room setup, furniture reassembly, and packaging debris collection in Patna</li>
+                </ul>
             </div>
-            <div>
-                <div class="kpt-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="Complete household packing for Koderma to Patna relocation" width="580" height="387">
-                    <div class="kpt-caption">Thorough multi-layer packing protecting goods against expressway transit</div>
-                </div>
+            <div class="c_kod_pat-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Koderma to Patna Container Truck Relocation">
             </div>
         </div>
+    </div>
+</section>
 
-        <!-- Section 2: Core Highlights -->
-        <h2 class="kpt-section-title">Why Koderma Residents Choose Shree Ashirwad</h2>
-        <p>Our dedicated operations on the NH-20 corridor guarantee maximum speed, safety, and transparency:</p>
-
-        <div class="kpt-card-grid">
-            <div class="kpt-card">
-                <h3>Express 4 to 6 Hour Transit</h3>
-                <p>Swift highway transit via Rajauli, Nawada, and Bihar Sharif ensures your family sleeps in your own beds in Patna on moving night.</p>
-            </div>
-            <div class="kpt-card">
-                <h3>Railway & Banking Transfer Bills</h3>
-                <p>Official 100% compliant IBA-format packing lists, consignment notes, and GST invoices accepted by ECR Railway and nationalized banks.</p>
-            </div>
-            <div class="kpt-card">
-                <h3>Heavy Furniture Dismantling</h3>
-                <p>Skilled carpenters dismantle double beds, modular wardrobes, and dining tables, wrapping each panel with edge protectors.</p>
-            </div>
-            <div class="kpt-card">
-                <h3>Rajauli Ghat Mountain Safety</h3>
-                <p>Equipped with heavy nylon tie-down ratchet straps to eliminate cargo shifting when navigating the winding Rajauli Ghat incline.</p>
-            </div>
+<!-- Core Shifting Services Grid -->
+<section class="c_kod_pat-section c_kod_pat-section-gray">
+    <div class="container">
+        <div class="c_kod_pat-heading-center">
+            <h2>Comprehensive Shifting Services: Koderma to Patna</h2>
+            <p>
+                Engineered for corporate executives, public sector employees, industrial managers, and residential families.
+            </p>
         </div>
 
-        <!-- Section 3: Tariff Schedule -->
-        <h2 class="kpt-section-title">Koderma to Patna Shifting Tariff Schedule</h2>
-        <p>Transparent rates customized to your apartment inventory and volume requirements:</p>
+        <div class="c_kod_pat-grid-3">
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#127968;</div>
+                <h3>Complete Home Relocation</h3>
+                <p>
+                    Full packing of furniture, appliances, crockery, wardrobes, and electronics using heavy-gauge cartons and multi-ply bubble wrap. Safely delivered to your new residence in Patna.
+                </p>
+            </div>
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#128663;</div>
+                <h3>Enclosed Car Transport</h3>
+                <p>
+                    Enclosed car trailers designed to transfer hatchbacks, sedans, and SUVs from Koderma to Patna safely without adding highway miles or risking gravel chips.
+                </p>
+            </div>
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#127949;</div>
+                <h3>Two-Wheeler Bike Shipping</h3>
+                <p>
+                    Specialized motorcycle transit utilizing multi-layer bubble wrap, handle padding, wheel chocks, and nylon harness belts to guarantee scratch-free delivery.
+                </p>
+            </div>
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#128188;</div>
+                <h3>Corporate &amp; PSU Billing</h3>
+                <p>
+                    100% authentic GST invoices, detailed item inventories, consignment notes (bilty), and IBA-approved documentation compliant with corporate and government reimbursement policies.
+                </p>
+            </div>
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#128230;</div>
+                <h3>Part Load &amp; Single Room Moves</h3>
+                <p>
+                    Affordable sharing and single-room relocation options for students and working professionals relocating with minimal luggage along this corridor.
+                </p>
+            </div>
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#128737;</div>
+                <h3>Transit Risk Insurance</h3>
+                <p>
+                    Comprehensive optional transit insurance policy covering accidental damages, road perils, and external impacts with transparent claim settlement support.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        <div class="kpt-table-wrap">
-            <table class="kpt-table">
+<!-- Visual Feature Strip: Packaging Standards -->
+<section class="c_kod_pat-section">
+    <div class="container">
+        <div class="c_kod_pat-grid-2">
+            <div class="c_kod_pat-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Packing Koderma to Patna">
+            </div>
+            <div>
+                <span style="color: var(--c_kod_pat-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Engineered Defensive Packaging</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_kod_pat-dark); margin: 10px 0 20px;">
+                    Five-Layer Protective Packaging for National Highway Corridor Highway Transit
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    The 170 km highway route across National Highway Corridor features varied highway speeds and road conditions. Flawless packaging is essential to absorb mechanical vibration and protect delicate finishes against abrasions.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    Our certified packing team enforces rigorous material standards:
+                </p>
+                <ul class="c_kod_pat-checklist">
+                    <li><strong>Cling Film Barrier:</strong> Non-static stretch wrap shielding wood finishes, leather upholstery, and fabrics against dirt and humidity.</li>
+                    <li><strong>Bubble Cushioning:</strong> Multi-ply air bubble sheets wrapped tightly around LED screens, audio equipment, and kitchen electronics.</li>
+                    <li><strong>Edge Reinforcement:</strong> Heavy corrugated corner pads preventing abrasions and chipping on polished dining tables and wardrobe doors.</li>
+                    <li><strong>7-Ply Master Cartons:</strong> Heavy-duty corrugated boxes designed to bear stack weight during transport without buckling.</li>
+                    <li><strong>Color-Coded Labeling:</strong> Clear identification tags on every box specifying room allocation and handling cautions.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Shifting Rates Table -->
+<section class="c_kod_pat-section c_kod_pat-section-gray">
+    <div class="container">
+        <div class="c_kod_pat-heading-center">
+            <h2>Koderma to Patna Moving Rates &amp; Price Estimates</h2>
+            <p>
+                Upfront, transparent quotes without hidden fuel surcharges or last-minute loading fees.
+            </p>
+        </div>
+
+        <div class="c_kod_pat-table-container">
+            <table class="c_kod_pat-table">
                 <thead>
                     <tr>
-                        <th>Apartment Configuration</th>
-                        <th>Protective Packing Scope</th>
-                        <th>Labor & Loading Handlers</th>
-                        <th>Estimated Tariff Range</th>
-                        <th>Transit & Delivery Time</th>
+                        <th>Move Type / Household Size</th>
+                        <th>Packing Material &amp; Labor</th>
+                        <th>Transport / Container Cost</th>
+                        <th>Estimated Total (&#8377;)</th>
+                        <th>Transit Time</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td><strong>1 BHK Apartment</strong></td>
-                        <td>3-Ply Boxes, Stretch Film, Bubble Wrap</td>
-                        <td>2 Packers + 2 Handlers</td>
-                        <td>₹6,000 - ₹9,500</td>
-                        <td>Same Day (4 - 6 Hours)</td>
+                        <td><strong>1 RK / Studio Setup</strong></td>
+                        <td>&#8377; 2,500 - 3,750</td>
+                        <td>&#8377; 4,500 - 6,525</td>
+                        <td><strong>&#8377; 7,000 - 10,150</strong></td>
+                        <td>6 - 8 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>2 BHK Apartment</strong></td>
-                        <td>5-Ply Heavy Cartons + Foam Sheets</td>
-                        <td>3 Packers + 3 Handlers</td>
-                        <td>₹10,500 - ₹16,500</td>
-                        <td>Same Day (5 - 7 Hours)</td>
+                        <td><strong>1 BHK Complete Home</strong></td>
+                        <td>&#8377; 3,800 - 5,890</td>
+                        <td>&#8377; 6,500 - 9,425</td>
+                        <td><strong>&#8377; 10,300 - 14,935</strong></td>
+                        <td>6 - 8 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>3 BHK / Independent House</strong></td>
-                        <td>Multi-Layer Corrugated + Wooden Crates</td>
-                        <td>4 Packers + 4 Handlers</td>
-                        <td>₹16,000 - ₹28,000</td>
-                        <td>Same Day Doorstep Setup</td>
+                        <td><strong>2 BHK Residential Flat</strong></td>
+                        <td>&#8377; 5,500 - 8,800</td>
+                        <td>&#8377; 9,500 - 13,775</td>
+                        <td><strong>&#8377; 15,000 - 21,750</strong></td>
+                        <td>6 - 8 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>Two-Wheeler / Bike Transport</strong></td>
-                        <td>Foam Padding + Mirror Protection</td>
-                        <td>Trained Handlers</td>
-                        <td>₹1,800 - ₹2,800</td>
-                        <td>Within 8 Hours</td>
+                        <td><strong>3 BHK Independent Home</strong></td>
+                        <td>&#8377; 8,000 - 12,800</td>
+                        <td>&#8377; 13,500 - 19,575</td>
+                        <td><strong>&#8377; 21,500 - 31,175</strong></td>
+                        <td>6 - 8 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>Small Luggage / Student Parcels</strong></td>
-                        <td>Heavy Tape + Plastic Sealing</td>
-                        <td>Shared Tata Ace</td>
-                        <td>₹1,100 - ₹2,100</td>
-                        <td>Same Day Evening</td>
+                        <td><strong>Two-Wheeler (Bike / Scooter)</strong></td>
+                        <td>&#8377; 900 - 1,500</td>
+                        <td>&#8377; 2,500 - 4,000</td>
+                        <td><strong>&#8377; 3,400 - 5,500</strong></td>
+                        <td>2 - 4 Days</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Car Transport (Sedan / SUV)</strong></td>
+                        <td>&#8377; 1,500 - 2,800</td>
+                        <td>&#8377; 7,500 - 12,000</td>
+                        <td><strong>&#8377; 9,000 - 14,800</strong></td>
+                        <td>2 - 4 Days</td>
                     </tr>
                 </tbody>
             </table>
         </div>
+        <p style="text-align: center; color: #64748b; font-size: 0.92rem; margin-top: -10px;">
+            * Estimates reflect standard moving scopes. Final quotes depend on exact item count, floor levels, elevator access, and optional insurance choice.
+        </p>
+    </div>
+</section>
 
-        <div class="kpt-highlight-box">
-            <h4>Need Moving Estimates for Neighboring Routes?</h4>
-            <p>Calculate exact rates with our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a> or consult standard highway rates on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Matrix</a>.</p>
+<!-- Visual Feature Strip: Vehicle Carrier -->
+<section class="c_kod_pat-section">
+    <div class="container">
+        <div class="c_kod_pat-grid-2">
+            <div>
+                <span style="color: var(--c_kod_pat-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Secure Automobile Transit</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_kod_pat-dark); margin: 10px 0 20px;">
+                    Enclosed Car Carrier &amp; Safe Bike Transportation
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    Avoid heavy highway traffic, toll queues, and unnecessary vehicle depreciation across the 170 km journey by utilizing our closed car and bike transit solutions between Koderma and Patna.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    Each vehicle undergoes an inspection audit prior to dispatch from Koderma, documenting body panels, existing paint status, and fuel levels:
+                </p>
+                <ul class="c_kod_pat-checklist">
+                    <li>Specialized wheel stops and hydraulic deck locks to prevent vehicle movement inside carriers</li>
+                    <li>Individual foam cushioning on motorcycle handles, headlamps, mirrors, and exhaust pipes</li>
+                    <li>Comprehensive vehicle transit insurance for total financial peace of mind</li>
+                    <li>Prompt collection in Koderma and direct delivery to your doorstep in Patna</li>
+                </ul>
+            </div>
+            <div class="c_kod_pat-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Koderma to Patna Vehicle Transport Carrier">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Highway Logistics Section -->
+<section class="c_kod_pat-section c_kod_pat-section-gray">
+    <div class="container">
+        <div class="c_kod_pat-heading-center">
+            <h2>Koderma to Patna Highway Logistics &amp; Travel Corridor</h2>
+            <p>
+                Proven highway routing along National Highway Corridor guarantees punctual, monitored transit across states.
+            </p>
         </div>
 
-        <!-- Section 4: Operational Process and Route Details -->
-        <div class="dpt-grid-2 kpt-grid-2">
-            <div>
-                <div class="kpt-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/kitchen-crockery-bubble-packing-ranchi.jpg" alt="Kitchen crockery packing for Koderma to Patna transit" width="580" height="387">
-                    <div class="kpt-caption">Cushioned bubble wrap and partition cartons protecting fragile kitchenware</div>
-                </div>
+        <div class="c_kod_pat-grid-3">
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#128506;</div>
+                <h3>Primary Route via National Highway Corridor</h3>
+                <p>
+                    Direct highway transit along National Highway Corridor connecting Koderma across Jharkhand with Patna in Bihar, traversing monitored toll checkpoints. Total highway distance is approximately 170 km traversed in 6 - 8 hours with scheduled transit stops.
+                </p>
+            </div>
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#128678;</div>
+                <h3>Dual-Driver Crews &amp; Transit Schedules</h3>
+                <p>
+                    For long highway corridors, our operations team deploys experienced two-driver crews operating in rotating shifts to maintain continuous transit without driver fatigue.
+                </p>
+            </div>
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#128667;</div>
+                <h3>GPS-Monitored Closed Containers</h3>
+                <p>
+                    All containerized trucks feature real-time satellite GPS tracking. Our customer support desk provides updates at major highway toll checkpoints along the route.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Visual Feature Strip: Destination Setup -->
+<section class="c_kod_pat-section">
+    <div class="container">
+        <div class="c_kod_pat-grid-2">
+            <div class="c_kod_pat-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Koderma to Patna">
             </div>
             <div>
-                <h2 class="kpt-section-title">Highway Route Architecture via NH-20 Expressway</h2>
-                <p>The journey from Koderma to Patna follows a modern 4-lane expressway corridor:</p>
-                <ul>
-                    <li><strong>Departure:</strong> Koderma / Jhumri Telaiya via Ranchi-Patna Road &rarr; Meghatari border checkpost.</li>
-                    <li><strong>Connecting Arteries:</strong> Rajauli Ghat &rarr; Nawada bypass &rarr; Bihar Sharif &rarr; Bakhtiyarpur 4-lane junction.</li>
-                    <li><strong>Patna Entry:</strong> Connects to Fatuha &rarr; Didarganj &rarr; Patna Bypass or New Ganga Bridge / Kankarbagh directly.</li>
-                    <li><strong>Zero Toll Stoppage:</strong> FASTag-enabled fleet ensures non-stop transit at all interstate toll plazas.</li>
+                <span style="color: var(--c_kod_pat-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Turnkey Destination Service</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_kod_pat-dark); margin: 10px 0 20px;">
+                    Careful Unloading, Furniture Assembly &amp; Debris Disposal
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    A truly satisfying relocation experience means waking up in a clean, fully functional home in Patna. Our skilled destination crew unloads every piece of furniture, reassembles dismounted frames, and handles all heavy lifting.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    We carefully place each box into its designated room based on your guidance:
+                </p>
+                <ul class="c_kod_pat-checklist">
+                    <li>Assembly of wooden beds, wardrobes, study tables, and dining furniture</li>
+                    <li>Placement of refrigerators, washing machines, and heavy home appliances</li>
+                    <li>Inspection of all glassware and fragile items in your presence</li>
+                    <li>Collection and disposal of used packing cardboard, plastics, and tapes</li>
                 </ul>
             </div>
         </div>
-
-        <!-- Section 5: Appliance Safety and Railway Relocations -->
-        <div class="dpt-grid-2 kpt-grid-2">
-            <div>
-                <h2 class="kpt-section-title">Special Support for Railway & Commercial Families</h2>
-                <p>Koderma Junction is a key railway node where station managers, ticket examiners, and engineering staff frequently receive transfer orders to Danapur or Patna divisions.</p>
-                <p>Our team handles complete packaging matching railway transfer declaration norms. We dismantle heavy wooden beds, wrap LED screens with double-wall thermocol cartons, and secure refrigerators vertically with heavy nylon belts.</p>
-                <div class="kpt-highlight-box">
-                    <h4>Railway Employee Relocation</h4>
-                    <p>Read about our dedicated railway transfer support on our <a href="<?php echo SITE_BASE_URL; ?>/railway-employee-transfer-relocation-services">Railway Employee Transfer Relocation</a> page.</p>
-                </div>
-            </div>
-            <div>
-                <div class="kpt-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Koderma to Patna transport" width="580" height="387">
-                    <div class="kpt-caption">Sealed container trucks providing 100% dustproof and waterproof transit</div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Section 6: Local Delivery and Coverage -->
-        <div class="dpt-grid-2 kpt-grid-2">
-            <div>
-                <div class="kpt-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck arriving in Patna" width="580" height="387">
-                    <div class="kpt-caption">Doorstep unloading and setup service across all Patna residential areas</div>
-                </div>
-            </div>
-            <div>
-                <h2 class="kpt-section-title">Doorstep Delivery Across All Patna Localities</h2>
-                <p>Our delivery fleet covers every residential sector across Patna:</p>
-                <p><strong>Central & South Patna:</strong> Kankarbagh, Rajendra Nagar, Boring Road, Exhibition Road, Bailey Road, Ashiana Nagar, Rukanpura.</p>
-                <p><strong>West & Cantt Localities:</strong> Danapur Cantt, Khagaul, Phulwari Sharif, Anisabad, Gola Road, and Saguna More.</p>
-                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koderma">Packers and Movers in Koderma</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
-            </div>
-        </div>
-
-        <!-- Section 7: FAQs -->
-        <div class="kpt-faq-wrap">
-            <h2 class="kpt-section-title">Frequently Asked Questions: Koderma to Patna</h2>
-
-            <div class="kpt-faq-item">
-                <h4>What is the driving distance and delivery duration from Koderma to Patna?</h4>
-                <p>The highway distance between Koderma (Jhumri Telaiya) and Patna is approximately 165 km via NH-20 (passing Rajauli, Nawada, and Bihar Sharif). Standard transit takes 4 to 6 hours, allowing same-day packing and delivery.</p>
-            </div>
-
-            <div class="kpt-faq-item">
-                <h4>What are the moving charges from Koderma to Patna?</h4>
-                <p>Moving rates range from ₹6,000 to ₹9,500 for a 1 BHK flat; ₹10,500 to ₹16,500 for a 2 BHK apartment; and ₹16,000 to ₹28,000 for a 3 BHK home, including complete packing materials, vehicle transport, and unloading.</p>
-            </div>
-
-            <div class="kpt-faq-item">
-                <h4>Can you handle relocations from Jhumri Telaiya and Domchanch to Patna?</h4>
-                <p>Yes, we provide doorstep pickup across Jhumri Telaiya, Domchanch, Koderma Station area, and Chandwara, delivering to any residential colony in Patna.</p>
-            </div>
-
-            <div class="kpt-faq-item">
-                <h4>Do you provide bike and two-wheeler transport on this corridor?</h4>
-                <p>Yes, we transport motorcycles and scooters securely wrapped with bubble wrap and secured on vehicle ramps. Delivery to Patna is completed within 8 to 12 hours.</p>
-            </div>
-        </div>
-
-        <!-- Section 8: Connected Cluster Modules -->
-        <div class="kpt-cluster-links">
-            <h4>Explore Related Regional Corridors & Services</h4>
-            <div class="kpt-cluster-grid">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koderma">Packers and Movers Koderma</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers">Ranchi to Patna Shifting</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/track-consignment">Track Your Consignment</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/moving-checklist-pdf-download">Moving Checklist PDF</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Matrix</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/single-item-and-luggage-transport-ranchi">Single Item Transport</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers</a>
-            </div>
-        </div>
-
     </div>
-</div>
+</section>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<!-- Corporate & Industrial Relocation Protocol -->
+<section class="c_kod_pat-section c_kod_pat-section-gray">
+    <div class="container">
+        <div class="c_kod_pat-heading-center">
+            <h2>Corporate, Industrial &amp; PSU Relocation Specialization</h2>
+            <p>
+                Tailored moving procedures for corporate managers, government officials, and banking professionals.
+            </p>
+        </div>
 
+        <div class="c_kod_pat-grid-3">
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#9874;</div>
+                <h3>Industrial Belt &amp; Manufacturing Moves</h3>
+                <p>
+                    Connecting Jhumri Telaiya commercial hub, DVC 1000 MW Koderma Thermal Power, mica processing, and stone quarrying with Bihar state administration, FMCG distribution, education coaching, health institutions, and manufacturing, we manage executive and technician relocations with end-to-end documentation.
+                </p>
+            </div>
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#128646;</div>
+                <h3>Corporate &amp; Public Sector Transfers</h3>
+                <p>
+                    Managing employee relocations, executive transfers, and industrial supply chain support between Koderma and Patna. We provide itemized packing lists, consignment notes, and GST invoices fully compliant with company claim policies.
+                </p>
+            </div>
+            <div class="c_kod_pat-card">
+                <div class="c_kod_pat-card-icon">&#127891;</div>
+                <h3>Academic &amp; Institutional Moves</h3>
+                <p>
+                    We provide smooth household and library relocation services for professors, researchers, and students transferring between universities and institutions in Koderma and Patna.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Local Coverage Grid -->
+<section class="c_kod_pat-section">
+    <div class="container">
+        <div class="c_kod_pat-heading-center">
+            <h2>Full Pickup in Koderma &amp; Doorstep Delivery Across Patna</h2>
+            <p>
+                Our comprehensive moving operations extend across every neighborhood in Koderma and Patna.
+            </p>
+        </div>
+
+        <div class="c_kod_pat-grid-3">
+            <div class="c_kod_pat-card">
+                <h3>Koderma Pickup Localities</h3>
+                <p>
+                    Prompt doorstep survey and packaging across all sectors of Koderma:
+                </p>
+                <ul class="c_kod_pat-checklist">
+                    <li><strong>Station & Commercial Hub:</strong> Jhumri Telaiya, Station Road, Ranchhi-Patna Road, Gumo</li>
+                    <li><strong>Administrative Town:</strong> Koderma Old Town, Collectorate, Court Compound, Dudhimati</li>
+                    <li><strong>Thermal & Industrial:</strong> Koderma Thermal Power Station (DVC) Banjhedih, Telaiya Dam</li>
+                    <li><strong>Mica & Mineral Belt:</strong> Domchanch, Markacho, Chandwara, Lokai</li>
+                </ul>
+            </div>
+
+            <div class="c_kod_pat-card">
+                <h3>Patna Delivery Coverage</h3>
+                <p>
+                    Unloading, room placement, and setup across all Patna neighborhoods:
+                </p>
+                <ul class="c_kod_pat-checklist">
+                    <li><strong>Central & Commercial:</strong> Frazer Road, Dak Bungalow Chowk, Boring Road, Bailey Road</li>
+                    <li><strong>Prime Residential:</strong> Kankarbagh, Rajendra Nagar, Patliputra Colony, Anandpuri</li>
+                    <li><strong>Outer Suburbs:</strong> Danapur Cantt, Saguna More, Gola Road, Khagaul</li>
+                    <li><strong>Industrial Belts:</strong> Patliputra Industrial Area, Fatuha, Bihta Industrial Hub</li>
+                </ul>
+            </div>
+
+            <div class="c_kod_pat-card">
+                <h3>Why Choose Shree Ashirwad?</h3>
+                <p>
+                    Trusted by hundreds of families and businesses moving across India:
+                </p>
+                <ul class="c_kod_pat-checklist">
+                    <li>Company-owned weatherproof container vehicles</li>
+                    <li>Experienced, background-verified full-time crew</li>
+                    <li>Genuine GST invoices for government and PSU transfer claims</li>
+                    <li>Fast 6 - 8-hour highway transit with scheduled doorstep delivery</li>
+                    <li>Transparent pricing with zero hidden surcharges</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Frequently Asked Questions -->
+<section class="c_kod_pat-section c_kod_pat-section-gray">
+    <div class="container">
+        <div class="c_kod_pat-heading-center">
+            <h2>Frequently Asked Questions: Koderma to Patna Shifting</h2>
+            <p>
+                Essential information on pricing, transit times, packing materials, and claim documentation.
+            </p>
+        </div>
+
+        <div style="max-width: 900px; margin: 0 auto;">
+            <div class="c_kod_pat-faq-item">
+                <h3>What is the road distance and transit duration from Koderma to Patna?</h3>
+                <p>
+                    The highway distance between Koderma and Patna is approximately 170 km via National Highway Corridor. Dedicated container trucks complete this journey in 6 - 8 hours with scheduled doorstep delivery.
+                </p>
+            </div>
+
+            <div class="c_kod_pat-faq-item">
+                <h3>What are the shifting charges from Koderma to Patna?</h3>
+                <p>
+                    Estimated costs range from Rs 10,300 - 14,935 for 1 BHK apartments, Rs 15,000 - 21,750 for 2 BHK homes, and Rs 21,500 - 31,175 for 3 BHK residences, covering 5-layer packing, container freight, toll charges, loading, and unloading.
+                </p>
+            </div>
+
+            <div class="c_kod_pat-faq-item">
+                <h3>Do you provide claimable GST invoices for corporate and government transfers?</h3>
+                <p>
+                    Yes, Shree Ashirwad Packers and Movers provides 100% authentic GST invoices, detailed item inventories, consignment notes (bilty), and IBA-approved receipts compliant with corporate and government reimbursement policies.
+                </p>
+            </div>
+
+            <div class="c_kod_pat-faq-item">
+                <h3>How are personal cars and motorcycles transported to Patna?</h3>
+                <p>
+                    Vehicles are safely transported in enclosed hydraulic car carrier trailers and custom wooden motorcycle crates with wheel chocks, security straps, and comprehensive transit risk insurance.
+                </p>
+            </div>
+
+            <div class="c_kod_pat-faq-item">
+                <h3>Which areas in Koderma and Patna do you cover?</h3>
+                <p>
+                    In Koderma, we cover Jhumri Telaiya, Station Road, Ranchhi-Patna Road, Gumo and Koderma Old Town, Collectorate, Court Compound, Dudhimati. In Patna, we deliver across Frazer Road, Dak Bungalow Chowk, Boring Road, Bailey Road and Kankarbagh, Rajendra Nagar, Patliputra Colony, Anandpuri.
+                </p>
+            </div>
+
+            <div class="c_kod_pat-faq-item">
+                <h3>Is transit insurance available for Koderma to Patna moves?</h3>
+                <p>
+                    Yes, we provide comprehensive transit risk insurance covering unexpected highway accidents, external impacts, and adverse weather conditions with hassle-free claim settlement.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Banner -->
+<section style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: #ffffff; padding: 65px 0; text-align: center;">
+    <div class="container">
+        <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; margin-bottom: 16px;">
+            Book Your Koderma to Patna Move Today
+        </h2>
+        <p style="font-size: 1.1rem; color: #cbd5e1; max-width: 720px; margin: 0 auto 30px;">
+            Contact our moving experts for an accurate written estimate, complimentary pre-move assessment, and scheduled delivery.
+        </p>
+        <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
+            <a href="tel:+919835565233" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                Call Hotline: 084095 31615
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
+                Request Express Quote &rarr;
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Connected Shifting Resources Module -->
+<section class="c_kod_pat-section" style="padding: 40px 0; background: #f8fafc;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 30px; box-shadow: var(--c_kod_pat-shadow);">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.35rem; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 12px;">Connected Interstate Moving Corridors &amp; Authority Hubs</h3>
+            <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, tariff calculators, and reciprocal return corridors:</p>
+            <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ranchi (HQ)</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-patna" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Patna</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Charges &amp; Tariff Calculator</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/patna-to-koderma-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Return Route: Patna to Koderma</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<?php include __DIR__ . '/includes/footer.php'; ?>
 </body>
 </html>

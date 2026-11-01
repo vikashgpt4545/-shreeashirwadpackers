@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Surat Packers and Movers | Diamond City Linehaul - Shree Ashirwad";
-$page_description = "Certified Ranchi to Surat Packers and Movers by Shree Ashirwad. Dedicated weatherproof container trucks, 1,600 km national transit corridor, 4-layer shockproof packing, doorstep delivery across Vesu, Adajan, Piplod, Pal, City Light & Hazira SEZ. Call 8409531615.";
+$page_description = "Certified Ranchi to Surat Packers and Movers by Shree Ashirwad. Dedicated weatherproof container trucks, 1,600 km national transit corridor, 4-layer shockproof packing, doorstep delivery across Vesu, Adajan, Piplod, Pal, City Light & Hazira SEZ. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-surat-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -68,7 +68,7 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com",
-    "telephone": "+91-8409531615",
+    "telephone": "+91-9835565233",
     "priceRange": "₹7,500 - ₹68,000",
     "address": {
       "@type": "PostalAddress",
@@ -522,12 +522,49 @@ require_once __DIR__ . '/includes/seo.php';
       font-weight: bold;
     }
   </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
 <?php include __DIR__ . '/../includes/header.php'; ?>
 
-<main class="container corridor-page-surat" style="padding-top: 2rem; padding-bottom: 4rem;">
+    
+    <main class="container corridor-page-surat" style="padding-top: 2rem; padding-bottom: 4rem;">
 
   <!-- Hero Section -->
   <h1>Ranchi to Surat Packers and Movers: Premier West Coast Corridor Shifting</h1>
@@ -556,7 +593,11 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </div>
 
-  <!-- Primary Featured Image (Strictly Constrained) -->
+  
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+<!-- Primary Featured Image (Strictly Constrained) -->
   <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" alt="Ranchi to Surat Packers and Movers - Safe Long-Distance Container Shifting" style="max-width: 550px; height: 280px; object-fit: cover; border-radius: 10px; margin: 0 auto; display: block;" loading="lazy">
 
   <h2>Navigating the 1,600 km Trans-India Highway Corridor to Surat</h2>
@@ -820,7 +861,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="cta-banner-surat">
     <h3 style="color: #ffffff; font-size: 1.85rem; margin-bottom: 12px;">Planning Your Move from Ranchi to Surat?</h3>
     <p style="font-size: 1.1rem; max-width: 720px; margin: 0 auto; color: #c7d2fe;">Get a guaranteed, all-inclusive binding moving quote from eastern India’s most trusted interstate packers and movers. Free home survey, zero hidden costs, and guaranteed on-time delivery.</p>
-    <a href="tel:+918409531615" class="cta-btn-gold">📞 Call Now: +91 8409531615</a>
+    <a href="tel:+919835565233" class="cta-btn-gold">📞 Call Now: +91 9835565233</a>
   </div>
 
   <!-- Internal Cluster Linking Box -->

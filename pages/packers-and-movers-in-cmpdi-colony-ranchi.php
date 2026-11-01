@@ -16,8 +16,8 @@ require_once BASE_PATH . '/includes/config.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Packers and Movers in CMPDI Colony Ranchi | Kanke Road - Shree Ashirwad</title>
-    <meta name="description" content="Trusted packers and movers in CMPDI Colony, Kanke Road, Ranchi. Specialized moving for CMPDI & Coal India executives with gate pass clearance, weighment slips & 100% claim bills. Call 8409531615.">
-    <meta name="keywords" content="packers and movers in cmpdi colony ranchi, cmpdi colony movers kanke road, packers and movers kanke road ranchi, cmpdi officer transfer shifting, coal india colony movers ranchi, gondwana place shifting ranchi">
+    <meta name="description" content="Looking for the best packers and movers in CMPDI Colony Ranchi? Shree Ashirwad Packers offers Coal India & CMPDI executive moving, household & vehicle shifting. Call +91 9835565233.">
+    <meta name="keywords" content="packers and movers in cmpdi colony ranchi, best movers and packers cmpdi colony, movers and packers near me in cmpdi colony ranchi, cmpdi colony movers kanke road, packers and movers kanke road ranchi, cmpdi officer transfer shifting, coal india colony movers ranchi, gondwana place shifting ranchi, household shifting cmpdi colony ranchi, local shifting in ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cmpdi-colony-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
 
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers - CMPDI Colony Branch",
         "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-cmpdi-colony-ranchi",
-        "telephone": "+91-8409531615",
+        "telephone": "+919835565233",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -85,7 +85,7 @@ require_once BASE_PATH . '/includes/config.php';
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-8409531615"
+            "telephone": "+919835565233"
         },
         "areaServed": {
             "@type": "Place",
@@ -191,10 +191,55 @@ require_once BASE_PATH . '/includes/config.php';
 <section class="cmp-hero">
     <div class="cmp-badge-pill">★ Kanke Road Mining PSU Relocation</div>
     <h1>Packers and Movers in CMPDI Colony Ranchi</h1>
-    <p>Professional residential moving for geologists, mining engineers, and executives of Central Mine Planning & Design Institute (CMPDI) and Coal India. Doorstep packing, weighment slips, and 100% claim-ready CTG documentation.</p>
+    <p style="font-size: 1.15rem; line-height: 1.7; margin-bottom: 12px; color: #ffffff;">
+        Looking for the <strong>best packers and movers in CMPDI Colony Ranchi</strong>? We provide trusted household shifting, office relocation, bike transport, car transport, and complete moving solutions at affordable prices across Kanke Road, Morabadi, and Gondwana Place.
+    </p>
+    <p style="font-size: 1rem; line-height: 1.65; color: #ffedd5; margin-bottom: 0;">
+        Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across CMPDI Colony and nearby areas with timely delivery support. As one of the top-rated movers and packers near CMPDI Colony, we help Coal India executives, geologists, and families relocate locally and across Jharkhand without hassle.
+    </p>
 </section>
 
 <main class="cmp-container">
+        <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in CMPDI Colony
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in CMPDI Colony</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across CMPDI Colony and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near CMPDI Colony</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including CMPDI Colony, Jharkhand along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in CMPDI Colony</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in CMPDI Colony</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in CMPDI Colony</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in CMPDI Colony</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in CMPDI Colony</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in CMPDI Colony</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
     <!-- Section 1: Overview of CMPDI Colony & Kanke Road -->
     <section class="cmp-section">
         <h2>Executive Residential Relocation on Kanke Road</h2>
@@ -204,6 +249,22 @@ require_once BASE_PATH . '/includes/config.php';
 
         <div class="cmp-image-container">
             <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Packers and Movers in CMPDI Colony Ranchi - Multistory Apartment Shifting" width="580" height="387" loading="lazy">
+        </div>
+
+        <div style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 22px; margin: 26px 0; border-radius: 0 8px 8px 0; border: 1px solid #dbeafe; border-left: 4px solid #2563eb;">
+          <h3 style="font-size: 18px; font-weight: 700; color: #1e3a8a; margin-top: 0; margin-bottom: 12px;">Top-Rated Moving & Packing Solutions in CMPDI Colony Ranchi</h3>
+          <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+            We cover major localities including <strong>Gondwana Place, Kanke Road, Gandhi Nagar Colony, Rock Garden Approach, Morabadi, Chandni Chowk Kanke, Misir Gonda, and Jhirga Toli</strong> along with nearby residential communities for fast and reliable shifting services.
+          </p>
+          <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+            Whether you need local shifting in Ranchi, intercity relocation to regional mining headquarters (RI-I Asansol, RI-II Dhanbad, RI-IV Nagpur, RI-V Bilaspur, Singrauli), office moving, or vehicle transportation, our trained staff ensures secure handling and professional support. Customers choose our <strong>movers and packers service in CMPDI Colony</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+          </p>
+          <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 12px;">
+            We also provide nearby packers and movers support with pincode-based scheduling (PIN 834008), same-day shifting assistance, floor-to-floor handling, and flexible moving options. From executive quarters to private multi-storey apartments, our <strong>packing and moving company in CMPDI Colony</strong> delivers affordable, safe, and stress-free relocation services.
+          </p>
+          <p style="font-size: 15px; line-height: 1.7; color: #475569; margin-bottom: 0;">
+            If you are searching for reliable <strong>movers and packers near me in CMPDI Colony Ranchi</strong>, our local team is available 24/7 for home shifting, storage, transport, and complete relocation assistance across Ranchi and national routes.
+          </p>
         </div>
     </section>
 
@@ -356,8 +417,8 @@ require_once BASE_PATH . '/includes/config.php';
         <h2>Moving to or from CMPDI Complex, Kanke Road?</h2>
         <p>Get a guaranteed written quote with certified weighbridge slips, white-glove packing, and 100% claim-ready bills.</p>
         <div class="cmp-cta-btns">
-            <a href="tel:8409531615" class="cmp-btn-call">📞 Call 8409531615</a>
-            <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20reside%20in%20CMPDI%20Colony%20Kanke%20Road%20and%20need%20a%20relocation%20quote." target="_blank" rel="noopener" class="cmp-btn-wa">💬 WhatsApp CMPDI Desk</a>
+            <a href="tel:+919835565233" class="cmp-btn-call">📞 Call +91 9835565233</a>
+            <a href="https://wa.me/919835565233?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20reside%20in%20CMPDI%20Colony%20Kanke%20Road%20and%20need%20a%20relocation%20quote." target="_blank" rel="noopener" class="cmp-btn-wa">💬 WhatsApp CMPDI Desk</a>
         </div>
     </div>
 </main>

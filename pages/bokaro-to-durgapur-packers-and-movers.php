@@ -14,8 +14,8 @@
  */
 
 // Define page-specific metadata
-$page_title = "Bokaro to Durgapur Packers & Movers | Shree Ashirwad Packers";
-$page_description = "Top Bokaro to Durgapur packers and movers by Shree Ashirwad. Same-day 12-24h transit, SAIL corporate claim bills, 5-layer packing, car carrier. Call 8409531615.";
+$page_title = "Packers and Movers Bokaro to Durgapur | Best Moving Company - 9835565233";
+$page_description = "Looking for the best packers and movers from Bokaro to Durgapur? Shree Ashirwad Packers offers same-day 12-24h household shifting, car carrier, bike parcel & SAIL claim bills. Call +91 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-durgapur-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -29,7 +29,7 @@ require_once __DIR__ . '/includes/seo.php';
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?php echo htmlspecialchars($page_title); ?></title>
   <meta name="description" content="<?php echo htmlspecialchars($page_description); ?>">
-  <meta name="keywords" content="bokaro to durgapur packers and movers, packers and movers bokaro to durgapur, house shifting bokaro to durgapur, bokaro to durgapur luggage parcel, bokaro to durgapur car carrier, bokaro to durgapur bike parcel, bokaro to durgapur movers, durgapur packers and movers bokaro">
+  <meta name="keywords" content="bokaro to durgapur packers and movers, best packers and movers from bokaro to durgapur, movers and packers bokaro to durgapur, household shifting bokaro to durgapur, top-rated packers and movers near bokaro, reliable movers and packers near me, house shifting bokaro to durgapur, bokaro to durgapur car carrier, bokaro to durgapur bike parcel, packing and moving company, iba approved packers bokaro to durgapur">
   <link rel="canonical" href="<?php echo $canonical_url; ?>">
 
   <!-- Favicon -->
@@ -694,7 +694,7 @@ require_once __DIR__ . '/includes/seo.php';
     "name": "Shree Ashirwad Packers and Movers - Bokaro to Durgapur",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/bokaro-to-durgapur-packers-and-movers",
-    "telephone": "+91-8409531615",
+    "telephone": "+919835565233",
     "priceRange": "₹12,000 - ₹45,000",
     "address": {
       "@type": "PostalAddress",
@@ -831,13 +831,50 @@ require_once __DIR__ . '/includes/seo.php';
     ]
   }
   </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 
 <body class="b2dgp-wrapper">
 
 <?php include_once __DIR__ . '/includes/header.php'; ?>
 
-<main>
+    
+    <main>
   <!-- Hero Section -->
   <section class="b2dgp-hero">
     <div class="b2dgp-hero-container">
@@ -850,7 +887,7 @@ require_once __DIR__ . '/includes/seo.php';
           Bokaro to Durgapur <span>Packers and Movers</span>
         </h1>
         <p class="b2dgp-lead b2dgp-hero-lead">
-          Premier interstate relocation connecting Eastern India's twin steel capitals across the 150 km industrial corridor via NH-18 and NH-19 (Grand Trunk Road). Specialized moving solutions for SAIL engineers transferring between Bokaro Steel Plant (BSL) and Durgapur Steel Plant (DSP / ASP), NIT Durgapur academicians, and residential families. Delivering same-day or guaranteed 24-hour door-to-door transit with 5-layer heavy protective packaging and official corporate reimbursement billing.
+          Looking for the <strong>best packers and movers from Bokaro to Durgapur</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting, office relocation, bike parcel, and car carrier services</strong> connecting Eastern India's twin steel capitals across the 150 km industrial corridor via NH-18 and NH-19 (Grand Trunk Road). As one of the top-rated movers and packers near Bokaro, our expert moving crew delivers same-day or guaranteed 24-hour door-to-door transit with 5-layer heavy protective packaging, official SAIL BSL &amp; DSP corporate reimbursement billing, transparent pricing, and 100% transit insurance.
         </p>
 
         <div class="b2dgp-hero-pills">
@@ -873,9 +910,9 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
 
         <div class="b2dgp-hero-cta">
-          <a href="tel:8409531615" class="b2dgp-btn-primary">
+          <a href="tel:+919835565233" class="b2dgp-btn-primary">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Call Now: 8409531615
+            Call Now: +91 9835565233
           </a>
           <a href="#tariff-table" class="b2dgp-btn-secondary">
             View Shifting Rates &rarr;
@@ -885,7 +922,53 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </section>
 
-  <!-- Quick Inquiry Strip -->
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Bokaro to Durgapur
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Bokaro to Durgapur</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Bokaro and Durgapur with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Bokaro</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Bokaro and Durgapur along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Bokaro</strong>, intercity relocation to Durgapur, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Bokaro to Durgapur</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Bokaro to Durgapur</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Bokaro to Durgapur</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Bokaro to Durgapur</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Bokaro to Durgapur</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+  
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+<!-- Quick Inquiry Strip -->
   <div class="b2dgp-strip">
     <div class="b2dgp-strip-container">
       <div class="b2dgp-strip-text">

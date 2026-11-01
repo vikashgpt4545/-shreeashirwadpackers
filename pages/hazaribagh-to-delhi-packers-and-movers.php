@@ -11,8 +11,8 @@
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
-$page_title = "Hazaribagh to Delhi Packers and Movers - 8409531615 | Shree Ashirwad";
-$page_description = "Reliable Hazaribagh to Delhi packers and movers by Shree Ashirwad Packers. 1,150 km express corridor via NH-19, 5-layer packing, GPS containers & IBA bills. Call 8409531615.";
+$page_title = "Hazaribagh to Delhi Packers and Movers - 9835565233 | Shree Ashirwad";
+$page_description = "Reliable Hazaribagh to Delhi packers and movers by Shree Ashirwad Packers. 1,150 km express corridor via NH-19, 5-layer packing, GPS containers & IBA bills. Call 9835565233.";
 $canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/hazaribagh-to-delhi-packers-and-movers";
 $meta_keywords = "hazaribagh to delhi packers and movers, packers and movers hazaribagh to delhi, hazaribagh to delhi movers and packers, household shifting hazaribagh to delhi, car transport hazaribagh to delhi, bike parcel hazaribagh to delhi, iba approved packers in hazaribagh";
 ?>
@@ -88,7 +88,7 @@ $meta_keywords = "hazaribagh to delhi packers and movers, packers and movers haz
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+918409531615",
+    "telephone": "+919835565233",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "hazaribagh to delhi packers and movers, packers and movers hazaribagh to delhi",
@@ -139,7 +139,7 @@ $meta_keywords = "hazaribagh to delhi packers and movers, packers and movers haz
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+918409531615",
+      "telephone": "+919835565233",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/"
     },
     "areaServed": [
@@ -263,6 +263,42 @@ $meta_keywords = "hazaribagh to delhi packers and movers, packers and movers haz
     ]
   }
   </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -293,7 +329,7 @@ $meta_keywords = "hazaribagh to delhi packers and movers, packers and movers haz
         <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
           <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Delhi Route Desk: 8409531615
+            Call Delhi Route Desk: 9835565233
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px);">
             WhatsApp Free Quote &rarr;
@@ -301,6 +337,52 @@ $meta_keywords = "hazaribagh to delhi packers and movers, packers and movers haz
         </div>
       </div>
     </section>
+
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers from Hazaribagh to Delhi
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers from Hazaribagh to Delhi</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Hazaribagh and Delhi with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Hazaribagh</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities in Hazaribagh and Delhi along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Hazaribagh</strong>, intercity relocation to Delhi, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service from Hazaribagh to Delhi</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Hazaribagh to Delhi</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me from Hazaribagh to Delhi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service from Hazaribagh to Delhi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Hazaribagh to Delhi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
 
     <!-- Operational Credentials Bar -->
     <section style="background:#ffffff; padding:28px 0; border-bottom:1px solid #e2e8f0;">
@@ -341,7 +423,8 @@ $meta_keywords = "hazaribagh to delhi packers and movers, packers and movers haz
     <!-- Main Content Body (Full-Width Responsive Layout) -->
     <div class="container" style="max-width:1140px; margin:55px auto; padding:0 20px;">
 
-      <!-- Section 1: Route Geography & Logistics with Image Card -->
+          
+    <!-- Section 1: Route Geography & Logistics with Image Card -->
       <section style="margin-bottom:60px;">
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:40px; align-items:center;">
           <div>
@@ -712,7 +795,7 @@ $meta_keywords = "hazaribagh to delhi packers and movers, packers and movers haz
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
           <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="background: #ff6a28; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(255, 106, 40, 0.4);">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call: 8409531615
+            Call: 9835565233
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>

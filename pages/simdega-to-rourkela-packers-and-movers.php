@@ -1,33 +1,383 @@
 <?php
-// Dynamic SEO Configuration for Simdega to Rourkela Relocation Corridor
-$page_title = "Simdega to Rourkela Packers and Movers | Same-Day Shifting & Bike Transport";
-$page_description = "Hire trusted packers and movers from Simdega to Rourkela (Odisha). Same-day household goods shifting, bike transport, 4-layer packing via NH-143 & transit insurance. Call +91 9835565233.";
-$canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-and-movers";
+/**
+ * Page Name: Simdega to Rourkela Packers and Movers
+ * Route Slug: simdega-to-rourkela-packers-and-movers
+ * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Simdega to Rourkela.
+ * Focus Keywords: simdega to rourkela packers and movers, packers and movers simdega to rourkela, house shifting simdega to rourkela, car carrier simdega to rourkela, bike transport simdega to rourkela, household moving simdega rourkela
+ */
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/includes/config.php';
+}
+
+$page_title = "Simdega to Rourkela Packers and Movers | Reliable Shifting Services";
+$page_desc = "Safe Simdega to Rourkela packers and movers. 70 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
+$canonical_url = "https://www.shreeashirwadpackers.com/simdega-to-rourkela-packers-and-movers";
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $page_title; ?></title>
-    <meta name="description" content="<?php echo $page_description; ?>">
-    <meta name="keywords" content="simdega to rourkela packers and movers, packers and movers simdega to rourkela, simdega to rourkela household shifting, luggage moving simdega to rourkela, bike transport simdega to rourkela">
+    <title><?php echo htmlspecialchars($page_title); ?></title>
+    <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="keywords" content="simdega to rourkela packers and movers, packers and movers simdega to rourkela, house shifting simdega to rourkela, car carrier simdega to rourkela, bike transport simdega to rourkela, household moving simdega rourkela">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <meta name="robots" content="index, follow">
+    <meta name="geo.region" content="IN-JH">
+    <meta name="geo.placename" content="Simdega">
+
+    <!-- Open Graph Metadata -->
+    <meta property="og:type" content="business.business">
+    <meta property="og:title" content="<?php echo htmlspecialchars($page_title); ?>">
+    <meta property="og:description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta property="og:url" content="<?php echo $canonical_url; ?>">
+    <meta property="og:image" content="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg">
+    <meta property="og:site_name" content="Shree Ashirwad Packers and Movers">
+    <meta property="og:locale" content="en_IN">
+
+    <!-- Twitter Card Metadata -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo htmlspecialchars($page_title); ?>">
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($page_desc); ?>">
+    <meta name="twitter:image" content="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg">
+
+    <!-- Favicon & Stylesheets -->
+    <link rel="icon" type="image/png" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
+    <link rel="shortcut icon" href="<?php echo SITE_BASE_URL; ?>/favicon.ico">
+    <link rel="apple-touch-icon" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
+
+    <!-- Scoped CSS for Simdega to Rourkela -->
+    <style>
+        :root {
+            --c_sim_rou-primary: #1e3a8a;
+            --c_sim_rou-secondary: #0284c7;
+            --c_sim_rou-accent: #0284c7;
+            --c_sim_rou-accent-light: #e0f2fe;
+            --c_sim_rou-dark: #0f172a;
+            --c_sim_rou-gray-bg: #f8fafc;
+            --c_sim_rou-border: #e2e8f0;
+            --c_sim_rou-shadow: 0 10px 25px -5px rgba(30, 58, 138, 0.08), 0 8px 10px -6px rgba(30, 58, 138, 0.04);
+        }
+
+        .c_sim_rou-hero {
+            background: linear-gradient(135deg, rgba(15, 23, 42, 0.94) 0%, rgba(30, 58, 138, 0.90) 100%),
+                        url('<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg') center/cover no-repeat;
+            color: #ffffff;
+            padding: 85px 0 65px;
+            position: relative;
+        }
+
+        .c_sim_rou-hero h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.75rem;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 20px;
+        }
+
+        .c_sim_rou-hero p.lead {
+            font-size: 1.15rem;
+            line-height: 1.7;
+            color: #e2e8f0;
+            max-width: 820px;
+            margin-bottom: 28px;
+        }
+
+        .c_sim_rou-badge-strip {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 30px;
+        }
+
+        .c_sim_rou-badge {
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.22);
+            color: #ffffff;
+            padding: 7px 16px;
+            border-radius: 9999px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .c_sim_rou-cta-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            align-items: center;
+        }
+
+        .c_sim_rou-btn-primary {
+            background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%);
+            color: #ffffff;
+            font-weight: 700;
+            padding: 14px 32px;
+            border-radius: 10px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            box-shadow: 0 4px 14px rgba(2, 132, 199, 0.35);
+            transition: all 0.3s ease;
+        }
+
+        .c_sim_rou-btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(2, 132, 199, 0.45);
+            color: #ffffff;
+        }
+
+        .c_sim_rou-btn-secondary {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(6px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: #ffffff;
+            font-weight: 600;
+            padding: 14px 28px;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .c_sim_rou-btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.25);
+            color: #ffffff;
+        }
+
+        .c_sim_rou-section {
+            padding: 70px 0;
+        }
+
+        .c_sim_rou-section-gray {
+            background-color: var(--c_sim_rou-gray-bg);
+        }
+
+        .c_sim_rou-heading-center {
+            text-align: center;
+            max-width: 820px;
+            margin: 0 auto 50px;
+        }
+
+        .c_sim_rou-heading-center h2 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.25rem;
+            font-weight: 800;
+            color: var(--c_sim_rou-dark);
+            margin-bottom: 14px;
+        }
+
+        .c_sim_rou-heading-center p {
+            font-size: 1.05rem;
+            color: #64748b;
+            line-height: 1.65;
+        }
+
+        .c_sim_rou-grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 28px;
+        }
+
+        .c_sim_rou-grid-2 {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 36px;
+            align-items: center;
+        }
+
+        .c_sim_rou-card {
+            background: #ffffff;
+            border-radius: 14px;
+            border: 1px solid var(--c_sim_rou-border);
+            padding: 30px;
+            box-shadow: var(--c_sim_rou-shadow);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .c_sim_rou-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 15px 30px -5px rgba(30, 58, 138, 0.12);
+        }
+
+        .c_sim_rou-card-icon {
+            width: 54px;
+            height: 54px;
+            border-radius: 12px;
+            background: var(--c_sim_rou-accent-light);
+            color: var(--c_sim_rou-accent);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        .c_sim_rou-card h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: var(--c_sim_rou-dark);
+            margin-bottom: 12px;
+        }
+
+        .c_sim_rou-card p {
+            color: #475569;
+            font-size: 0.96rem;
+            line-height: 1.65;
+        }
+
+        .c_sim_rou-table-container {
+            background: #ffffff;
+            border-radius: 14px;
+            border: 1px solid var(--c_sim_rou-border);
+            overflow-x: auto;
+            box-shadow: var(--c_sim_rou-shadow);
+            margin: 35px 0;
+        }
+
+        .c_sim_rou-table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        .c_sim_rou-table th {
+            background: #0f172a;
+            color: #ffffff;
+            font-weight: 700;
+            padding: 16px 20px;
+            font-size: 0.98rem;
+        }
+
+        .c_sim_rou-table td {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--c_sim_rou-border);
+            color: #334155;
+            font-size: 0.95rem;
+        }
+
+        .c_sim_rou-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .c_sim_rou-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        .c_sim_rou-checklist {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0;
+        }
+
+        .c_sim_rou-checklist li {
+            position: relative;
+            padding-left: 28px;
+            margin-bottom: 12px;
+            color: #334155;
+            font-size: 0.98rem;
+            line-height: 1.6;
+        }
+
+        .c_sim_rou-checklist li::before {
+            content: "\2713";
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #10b981;
+            font-weight: 800;
+            font-size: 1.1rem;
+        }
+
+        .c_sim_rou-img-wrap {
+            border-radius: 14px;
+            overflow: hidden;
+            box-shadow: var(--c_sim_rou-shadow);
+        }
+
+        .c_sim_rou-img-wrap img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.4s ease;
+        }
+
+        .c_sim_rou-img-wrap:hover img {
+            transform: scale(1.03);
+        }
+
+        .c_sim_rou-faq-item {
+            background: #ffffff;
+            border-radius: 12px;
+            border: 1px solid var(--c_sim_rou-border);
+            padding: 24px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        }
+
+        .c_sim_rou-faq-item h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--c_sim_rou-dark);
+            margin-bottom: 10px;
+        }
+
+        .c_sim_rou-faq-item p {
+            color: #475569;
+            font-size: 0.96rem;
+            line-height: 1.65;
+            margin: 0;
+        }
+
+        @media (max-width: 991px) {
+            .c_sim_rou-grid-3 {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .c_sim_rou-grid-2 {
+                grid-template-columns: 1fr;
+            }
+            .c_sim_rou-hero h1 {
+                font-size: 2.2rem;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .c_sim_rou-grid-3 {
+                grid-template-columns: 1fr;
+            }
+            .c_sim_rou-hero {
+                padding: 60px 0 45px;
+            }
+            .c_sim_rou-hero h1 {
+                font-size: 1.85rem;
+            }
+        }
+    </style>
 
     <!-- Schema 1: MovingCompany -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Simdega to Rourkela Division",
-        "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "name": "Shree Ashirwad Packers and Movers - Simdega to Rourkela",
+        "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+        "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
-        "priceRange": "₹4,500 - ₹22,000",
+        "telephone": "+919835565233",
+        "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Main Road, Near Saldega Chowk",
+            "streetAddress": "Main Road Main Road",
             "addressLocality": "Simdega",
             "addressRegion": "Jharkhand",
             "postalCode": "835223",
@@ -36,54 +386,7 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
         "geo": {
             "@type": "GeoCoordinates",
             "latitude": 22.6167,
-            "longitude": 84.5000
-        },
-        "openingHoursSpecification": {
-            "@type": "OpeningHoursSpecification",
-            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-            "opens": "07:00",
-            "closes": "21:00"
-        }
-    }
-    </script>
-
-    <!-- Schema 2: BreadcrumbList -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-            {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
-            },
-            {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Packers and Movers in Simdega",
-                "item": "https://shreeashirwadpackers.com/packers-and-movers-in-simdega"
-            },
-            {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "Simdega to Rourkela",
-                "item": "<?php echo $canonical_url; ?>"
-            }
-        ]
-    }
-    </script>
-
-    <!-- Schema 3: Service -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Simdega to Rourkela Express Relocation Service",
-        "provider": {
-            "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "longitude": 84.5167
         },
         "areaServed": [
             {
@@ -95,7 +398,92 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
                 "name": "Rourkela"
             }
         ],
-        "description": "Same-day express home shifting, bike moving, and office relocation connecting Simdega with Rourkela via NH-143 with 4-layer packaging and doorstep setup."
+        "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+        }
+    }
+    </script>
+
+    <!-- Schema 2: Service -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Interstate Relocation & Household Shifting",
+        "provider": {
+            "@type": "MovingCompany",
+            "name": "Shree Ashirwad Packers and Movers"
+        },
+        "areaServed": {
+            "@type": "City",
+            "name": "Rourkela, Odisha"
+        },
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Simdega to Rourkela Moving Packages",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Simdega to Rourkela Household Shifting"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Simdega to Rourkela Car Carrier & Bike Transport"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Corporate & Industrial Relocation Billing"
+                    }
+                }
+            ]
+        }
+    }
+    </script>
+
+    <!-- Schema 3: BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "<?php echo SITE_BASE_URL; ?>/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Interstate Relocation",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Simdega to Rourkela Shifting",
+                "item": "<?php echo $canonical_url; ?>"
+            }
+        ]
     }
     </script>
 
@@ -107,10 +495,10 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
         "mainEntity": [
             {
                 "@type": "Question",
-                "name": "What is the driving distance and delivery duration from Simdega to Rourkela?",
+                "name": "What is the road distance and transit duration from Simdega to Rourkela?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "The highway distance between Simdega and Rourkela is only about 70 km via NH-143 (via Thethaitangar and Birmitrapur). Total transit time is just 2 to 3 hours, ensuring prompt same-day delivery."
+                    "text": "The highway distance between Simdega and Rourkela is approximately 70 km via National Highway Corridor. Dedicated closed container trucks typically complete this transit in 3 - 5 hours."
                 }
             },
             {
@@ -118,457 +506,616 @@ $canonical_url = "https://shreeashirwadpackers.com/simdega-to-rourkela-packers-a
                 "name": "What are the shifting charges from Simdega to Rourkela?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Shifting rates start at ₹4,500 to ₹7,500 for a 1 BHK; ₹8,000 to ₹13,500 for a 2 BHK apartment; and ₹13,500 to ₹22,000 for a 3 BHK home, including complete packing materials, transport, and unloading."
+                    "text": "Estimated costs range from Rs 10,300 - 14,935 for 1 BHK apartments, Rs 15,000 - 21,750 for 2 BHK homes, and Rs 21,500 - 31,175 for 3 BHK residences, covering 5-layer packing, container freight, tolls, and doorstep unloading."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Can you shift household goods directly to SAIL employee quarters in Rourkela?",
+                "name": "Do you provide claimable GST invoices for corporate and government transfers?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, we regularly deliver to SAIL township quarters across Sector 1 to 21, Ispat Nagar, and Koel Nagar in Rourkela, providing proper gate passes and elevator handling."
+                    "text": "Yes, Shree Ashirwad Packers and Movers provides 100% authentic GST invoices, detailed itemized inventories, consignment notes (bilty), and IBA-compliant receipts recognized across corporate, public sector, and defense organizations."
                 }
             },
             {
                 "@type": "Question",
-                "name": "Do you transport two-wheelers and scooters from Simdega to Rourkela?",
+                "name": "How are cars and motorcycles transported from Simdega to Rourkela?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "Yes, we transport motorcycles and scooters securely wrapped with bubble wrap and secured on vehicle ramps. Delivery to Rourkela is completed within 4 to 6 hours."
+                    "text": "Vehicles are safely transported in enclosed hydraulic car carrier trailers and custom wooden motorcycle crates with wheel chocks, security harness straps, and comprehensive transit insurance."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Which areas in Simdega and Rourkela do you cover?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "In Simdega, we cover Main Road, Mahabir Chowk, Court Road, Bus Stand Area and Saldega, Gotra, Khuntitoli, Tukupani. In Rourkela, we deliver across Sector 1 to Sector 22, Chhend Colony, Civil Township and Main Road, Bisra Road, Daily Market, Udit Nagar, Panposh."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is transit insurance available for Simdega to Rourkela moves?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we provide comprehensive transit risk insurance covering unexpected highway accidents, external impacts, and adverse weather conditions with hassle-free claim settlement."
                 }
             }
         ]
     }
     </script>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"], .c_sim_rou-img-wrap {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
 
-    <style>
-        .srk-page-wrap {
-            color: #2c3e50;
-            line-height: 1.7;
-            font-family: inherit;
-        }
-        .srk-hero-banner {
-            background: linear-gradient(135deg, #0b4f6c 0%, #01baef 100%);
-            color: #ffffff;
-            padding: 60px 20px;
-            text-align: center;
-        }
-        .srk-hero-title {
-            font-size: 2.3rem;
-            font-weight: 800;
-            margin-bottom: 16px;
-            line-height: 1.25;
-            color: #ffffff;
-        }
-        .srk-hero-subtitle {
-            font-size: 1.15rem;
-            max-width: 850px;
-            margin: 0 auto 24px;
-            color: #fbfbff;
-        }
-        .srk-cta-btn {
-            display: inline-block;
-            background: #e67e22;
-            color: #ffffff;
-            padding: 13px 30px;
-            font-size: 1.05rem;
-            font-weight: 700;
-            border-radius: 6px;
-            text-decoration: none;
-            transition: background 0.3s ease;
-        }
-        .srk-cta-btn:hover {
-            background: #d35400;
-        }
-        .srk-container {
-            max-width: 1140px;
-            margin: 0 auto;
-            padding: 40px 20px;
-        }
-        .srk-grid-2 {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 36px;
-            align-items: center;
-            margin-bottom: 40px;
-        }
-        @media (max-width: 768px) {
-            .srk-grid-2 {
-                grid-template-columns: 1fr;
-            }
-            .srk-hero-title {
-                font-size: 1.8rem;
-            }
-        }
-        .srk-image-box {
-            max-width: 580px;
-            margin: 24px auto;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-        }
-        .srk-image-box img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-        .srk-caption {
-            font-size: 0.88rem;
-            color: #64748b;
-            text-align: center;
-            padding: 8px 12px;
-            background: #f8fafc;
-        }
-        .srk-section-title {
-            font-size: 1.85rem;
-            font-weight: 700;
-            color: #0b4f6c;
-            margin-bottom: 20px;
-            position: relative;
-            padding-bottom: 10px;
-        }
-        .srk-section-title::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 60px;
-            height: 4px;
-            background: #e67e22;
-            border-radius: 2px;
-        }
-        .srk-table-wrap {
-            overflow-x: auto;
-            margin: 28px 0;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.06);
-            border-radius: 8px;
-        }
-        .srk-table {
-            width: 100%;
-            border-collapse: collapse;
-            background: #ffffff;
-            text-align: left;
-        }
-        .srk-table th {
-            background: #0b4f6c;
-            color: #ffffff;
-            padding: 14px 16px;
-            font-size: 0.95rem;
-        }
-        .srk-table td {
-            padding: 12px 16px;
-            border-bottom: 1px solid #e2e8f0;
-            font-size: 0.92rem;
-        }
-        .srk-table tr:nth-child(even) {
-            background: #f8fafc;
-        }
-        .srk-card-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 22px;
-            margin: 30px 0;
-        }
-        .srk-card {
-            background: #ffffff;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            padding: 24px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-            border-top: 4px solid #0b4f6c;
-        }
-        .srk-card h3 {
-            font-size: 1.18rem;
-            color: #0b4f6c;
-            margin-bottom: 12px;
-            font-weight: 700;
-        }
-        .srk-card p {
-            font-size: 0.92rem;
-            color: #4a5568;
-            margin: 0;
-        }
-        .srk-highlight-box {
-            background: #e8f8f5;
-            border-left: 5px solid #0b4f6c;
-            padding: 22px;
-            border-radius: 0 8px 8px 0;
-            margin: 28px 0;
-        }
-        .srk-highlight-box h4 {
-            margin-top: 0;
-            color: #052f40;
-            font-size: 1.15rem;
-            margin-bottom: 10px;
-        }
-        .srk-faq-wrap {
-            margin-top: 40px;
-        }
-        .srk-faq-item {
-            background: #ffffff;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            margin-bottom: 16px;
-            padding: 20px;
-        }
-        .srk-faq-item h4 {
-            font-size: 1.1rem;
-            color: #0b4f6c;
-            margin-top: 0;
-            margin-bottom: 8px;
-        }
-        .srk-faq-item p {
-            margin: 0;
-            color: #4a5568;
-            font-size: 0.94rem;
-        }
-        .srk-cluster-links {
-            background: #f8fafc;
-            border: 1px solid #cbd5e1;
-            border-radius: 8px;
-            padding: 24px;
-            margin-top: 40px;
-        }
-        .srk-cluster-links h4 {
-            font-size: 1.2rem;
-            color: #0b4f6c;
-            margin-top: 0;
-            margin-bottom: 16px;
-        }
-        .srk-cluster-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 12px;
-        }
-        .srk-cluster-grid a {
-            color: #0b4f6c;
-            text-decoration: none;
-            font-size: 0.92rem;
-            font-weight: 600;
-            padding: 6px 0;
-            display: block;
-        }
-        .srk-cluster-grid a:hover {
-            color: #e67e22;
-            text-decoration: underline;
-        }
-    </style>
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img, .c_sim_rou-img-wrap img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"], .c_sim_rou-img-wrap {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img, .c_sim_rou-img-wrap img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include __DIR__ . '/includes/header.php'; ?>
 
-<div class="srk-page-wrap">
+<!-- Hero Section -->
+<section class="c_sim_rou-hero">
+    <div class="container">
+        <div class="c_sim_rou-badge-strip">
+            <span class="c_sim_rou-badge">&#9733; 70 KM Express Interstate Corridor</span>
+            <span class="c_sim_rou-badge">&#128666; Sealed All-Weather Closed Containers</span>
+            <span class="c_sim_rou-badge">&#128196; Corporate &amp; PSU Claim Invoices</span>
+            <span class="c_sim_rou-badge">&#128338; Fast 3 - 5 Hour Transit Delivery</span>
+        </div>
+        <h1>Packers and Movers from Simdega to Rourkela</h1>
+        <p class="lead">
+            Dependable, insured, and professional household shifting, vehicle transport, and corporate relocation services connecting Simdega to Rourkela. Experience 5-layer protective packaging, dedicated closed container trucks, and seamless doorstep delivery.
+        </p>
+        <div class="c_sim_rou-cta-group">
+            <a href="tel:+919835565233" class="c_sim_rou-btn-primary">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                Call Hotline: 084095 31615
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="c_sim_rou-btn-secondary">
+                Request Express Moving Quote &rarr;
+            </a>
+        </div>
+    </div>
+</section>
 
-    <!-- Hero Section -->
-    <section class="srk-hero-banner">
-        <h1 class="srk-hero-title">Simdega to Rourkela Packers and Movers</h1>
-        <p class="srk-hero-subtitle">Same-Day Express Relocation Across the Jharkhand-Odisha Border. Swift 2-Hour Transit via NH-143, 4-Layer Packaging & Complete Room Setup in Rourkela.</p>
-        <a href="tel:+919835565233" class="srk-cta-btn">Book Same-Day Shifting: +91 9835565233</a>
-    </section>
+<!-- Competitor Ranking Keyword Content Box -->
+<section style="padding: 40px 0 20px; background: #ffffff;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+            <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                Packers and Movers from Simdega to Rourkela
+            </h3>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Looking for the <strong>best packers and movers from Simdega to Rourkela</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Simdega and Rourkela with timely delivery support.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                As one of the <strong>top-rated packers and movers near Simdega</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                We cover major localities in Simdega and Rourkela along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Whether you need <strong>local shifting in Simdega</strong>, intercity relocation to Rourkela, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                Customers choose our <strong>movers and packers service from Simdega to Rourkela</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Simdega to Rourkela</strong> delivers affordable, safe, and stress-free relocation services.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                If you are searching for reliable <strong>movers and packers near me from Simdega to Rourkela</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+            </p>
+            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                Our <strong>professional packers and movers service from Simdega to Rourkela</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Simdega to Rourkela</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+            </p>
+        </div>
+    </div>
+</section>
 
-    <!-- Main Container -->
-    <div class="srk-container">
-
-        <!-- Section 1: Introduction & Route Overview -->
-        <div class="dpt-grid-2 srk-grid-2">
+<!-- Route Overview Section -->
+<section class="c_sim_rou-section">
+    <div class="container">
+        <div class="c_sim_rou-grid-2">
             <div>
-                <h2 class="srk-section-title">Fast, Direct Interstate Relocation via NH-143</h2>
-                <p>Separated by just 70 kilometers along National Highway 143, Simdega (Jharkhand) and Rourkela (Odisha) share deep commercial, administrative, and cultural connections. Many families, bank employees, healthcare workers, and steel industry executives frequently relocate between Simdega’s residential neighborhoods and Rourkela’s steel plant township sectors.</p>
-                <p>At <strong>Shree Ashirwad Packers and Movers</strong>, we operate dedicated daily shuttle vehicles between Simdega and Rourkela. With driving transit taking just 2 to 3 hours, your household belongings are loaded in Simdega in the morning and fully positioned, unboxed, and reassembled in your new Rourkela home before lunch.</p>
-                <p>Whether you are shifting from Saldega, Kolebira Road, or Thethaitangar in Simdega to Civil Township, Panposh, Koel Nagar, Chhend Colony, or Sector 1 to 21 in Rourkela, our trained moving crew provides end-to-end relocation peace of mind.</p>
+                <span style="color: var(--c_sim_rou-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Connecting Simdega with Rourkela</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_sim_rou-dark); margin: 10px 0 20px;">
+                    Express 70 KM Interstate Moving from Simdega to Rourkela
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    Relocating between Simdega and Rourkela connects Jharkhand&rsquo;s commercial centers with Odisha&rsquo;s premier industrial and administrative hubs. Direct highway transit along National Highway Corridor connecting Simdega across Jharkhand with Rourkela in Odisha, traversing monitored toll checkpoints.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    At <strong>Shree Ashirwad Packers and Movers</strong>, we execute this high-demand transit route with exceptional reliability. Our dedicated closed container vehicles operate on scheduled departures from Simdega, navigating directly along national highway corridors to deliver your household possessions safely in Rourkela within 3 - 5 hours.
+                </p>
+                <ul class="c_sim_rou-checklist">
+                    <li>Doorstep pickup across all Simdega neighborhoods with specialized packing crews</li>
+                    <li>Advanced 5-layer protective packaging safeguarding furniture, glassware, and electronics</li>
+                    <li>Direct container transit via National Highway Corridor with guaranteed delivery schedules</li>
+                    <li>Complete room setup, furniture reassembly, and packaging debris collection in Rourkela</li>
+                </ul>
             </div>
-            <div>
-                <div class="srk-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg" alt="Residential moving cartons for Simdega to Rourkela shifting" width="580" height="387">
-                    <div class="srk-caption">Neatly labeled cartons and bubble wrap ensuring damage-free transit</div>
-                </div>
+            <div class="c_sim_rou-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Simdega to Rourkela Container Truck Relocation">
             </div>
         </div>
+    </div>
+</section>
 
-        <!-- Section 2: Core Highlights -->
-        <h2 class="srk-section-title">Why Moving Families Prefer Our Same-Day Service</h2>
-        <p>Our localized infrastructure on the Jharkhand-Odisha border delivers unmatched convenience:</p>
-
-        <div class="srk-card-grid">
-            <div class="srk-card">
-                <h3>Express 2 to 3 Hour Transit</h3>
-                <p>With quick transit via Birmitrapur, your entire home is packed, transported, and set up in Rourkela on the very same day.</p>
-            </div>
-            <div class="srk-card">
-                <h3>SAIL & Government Transfer Bills</h3>
-                <p>Full GST billing, consignment bilty, and itemized packing declarations strictly formatted for corporate transfer allowance claims.</p>
-            </div>
-            <div class="srk-card">
-                <h3>Furniture Dismantling & Assembly</h3>
-                <p>Skilled carpenters dismantle double beds, modular wardrobes, and dining tables, wrapping each panel with edge protectors.</p>
-            </div>
-            <div class="srk-card">
-                <h3>Birmitrapur Border Checkpost Clearance</h3>
-                <p>Pre-cleared electronic documentation ensures non-stop passage at the Jharkhand-Odisha border toll plaza.</p>
-            </div>
+<!-- Core Shifting Services Grid -->
+<section class="c_sim_rou-section c_sim_rou-section-gray">
+    <div class="container">
+        <div class="c_sim_rou-heading-center">
+            <h2>Comprehensive Shifting Services: Simdega to Rourkela</h2>
+            <p>
+                Engineered for corporate executives, public sector employees, industrial managers, and residential families.
+            </p>
         </div>
 
-        <!-- Section 3: Tariff Schedule -->
-        <h2 class="srk-section-title">Simdega to Rourkela Shifting Tariff Schedule</h2>
-        <p>Transparent rates customized to your apartment inventory and volume requirements:</p>
+        <div class="c_sim_rou-grid-3">
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#127968;</div>
+                <h3>Complete Home Relocation</h3>
+                <p>
+                    Full packing of furniture, appliances, crockery, wardrobes, and electronics using heavy-gauge cartons and multi-ply bubble wrap. Safely delivered to your new residence in Rourkela.
+                </p>
+            </div>
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#128663;</div>
+                <h3>Enclosed Car Transport</h3>
+                <p>
+                    Enclosed car trailers designed to transfer hatchbacks, sedans, and SUVs from Simdega to Rourkela safely without adding highway miles or risking gravel chips.
+                </p>
+            </div>
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#127949;</div>
+                <h3>Two-Wheeler Bike Shipping</h3>
+                <p>
+                    Specialized motorcycle transit utilizing multi-layer bubble wrap, handle padding, wheel chocks, and nylon harness belts to guarantee scratch-free delivery.
+                </p>
+            </div>
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#128188;</div>
+                <h3>Corporate &amp; PSU Billing</h3>
+                <p>
+                    100% authentic GST invoices, detailed item inventories, consignment notes (bilty), and IBA-approved documentation compliant with corporate and government reimbursement policies.
+                </p>
+            </div>
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#128230;</div>
+                <h3>Part Load &amp; Single Room Moves</h3>
+                <p>
+                    Affordable sharing and single-room relocation options for students and working professionals relocating with minimal luggage along this corridor.
+                </p>
+            </div>
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#128737;</div>
+                <h3>Transit Risk Insurance</h3>
+                <p>
+                    Comprehensive optional transit insurance policy covering accidental damages, road perils, and external impacts with transparent claim settlement support.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
-        <div class="srk-table-wrap">
-            <table class="srk-table">
+<!-- Visual Feature Strip: Packaging Standards -->
+<section class="c_sim_rou-section">
+    <div class="container">
+        <div class="c_sim_rou-grid-2">
+            <div class="c_sim_rou-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg" alt="5-Layer Protective Packing Simdega to Rourkela">
+            </div>
+            <div>
+                <span style="color: var(--c_sim_rou-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Engineered Defensive Packaging</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_sim_rou-dark); margin: 10px 0 20px;">
+                    Five-Layer Protective Packaging for National Highway Corridor Highway Transit
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    The 70 km highway route across National Highway Corridor features varied highway speeds and road conditions. Flawless packaging is essential to absorb mechanical vibration and protect delicate finishes against abrasions.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    Our certified packing team enforces rigorous material standards:
+                </p>
+                <ul class="c_sim_rou-checklist">
+                    <li><strong>Cling Film Barrier:</strong> Non-static stretch wrap shielding wood finishes, leather upholstery, and fabrics against dirt and humidity.</li>
+                    <li><strong>Bubble Cushioning:</strong> Multi-ply air bubble sheets wrapped tightly around LED screens, audio equipment, and kitchen electronics.</li>
+                    <li><strong>Edge Reinforcement:</strong> Heavy corrugated corner pads preventing abrasions and chipping on polished dining tables and wardrobe doors.</li>
+                    <li><strong>7-Ply Master Cartons:</strong> Heavy-duty corrugated boxes designed to bear stack weight during transport without buckling.</li>
+                    <li><strong>Color-Coded Labeling:</strong> Clear identification tags on every box specifying room allocation and handling cautions.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Shifting Rates Table -->
+<section class="c_sim_rou-section c_sim_rou-section-gray">
+    <div class="container">
+        <div class="c_sim_rou-heading-center">
+            <h2>Simdega to Rourkela Moving Rates &amp; Price Estimates</h2>
+            <p>
+                Upfront, transparent quotes without hidden fuel surcharges or last-minute loading fees.
+            </p>
+        </div>
+
+        <div class="c_sim_rou-table-container">
+            <table class="c_sim_rou-table">
                 <thead>
                     <tr>
-                        <th>Apartment Type</th>
-                        <th>Protective Packing Materials</th>
-                        <th>Labor & Loading Handlers</th>
-                        <th>Estimated Tariff Range</th>
-                        <th>Transit & Delivery Time</th>
+                        <th>Move Type / Household Size</th>
+                        <th>Packing Material &amp; Labor</th>
+                        <th>Transport / Container Cost</th>
+                        <th>Estimated Total (&#8377;)</th>
+                        <th>Transit Time</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td><strong>1 BHK Apartment</strong></td>
-                        <td>3-Ply Boxes, Stretch Film, Bubble Wrap</td>
-                        <td>2 Packers + 2 Handlers</td>
-                        <td>₹4,500 - ₹7,500</td>
-                        <td>Same Day (2 - 4 Hours)</td>
+                        <td><strong>1 RK / Studio Setup</strong></td>
+                        <td>&#8377; 2,500 - 3,750</td>
+                        <td>&#8377; 4,500 - 6,525</td>
+                        <td><strong>&#8377; 7,000 - 10,150</strong></td>
+                        <td>3 - 5 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>2 BHK Apartment</strong></td>
-                        <td>5-Ply Heavy Cartons + Foam Sheets</td>
-                        <td>3 Packers + 3 Handlers</td>
-                        <td>₹8,000 - ₹13,500</td>
-                        <td>Same Day (4 - 6 Hours)</td>
+                        <td><strong>1 BHK Complete Home</strong></td>
+                        <td>&#8377; 3,800 - 5,890</td>
+                        <td>&#8377; 6,500 - 9,425</td>
+                        <td><strong>&#8377; 10,300 - 14,935</strong></td>
+                        <td>3 - 5 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>3 BHK / Independent House</strong></td>
-                        <td>Multi-Layer Corrugated + Wooden Crates</td>
-                        <td>4 Packers + 4 Handlers</td>
-                        <td>₹13,500 - ₹22,000</td>
-                        <td>Same Day Doorstep Setup</td>
+                        <td><strong>2 BHK Residential Flat</strong></td>
+                        <td>&#8377; 5,500 - 8,800</td>
+                        <td>&#8377; 9,500 - 13,775</td>
+                        <td><strong>&#8377; 15,000 - 21,750</strong></td>
+                        <td>3 - 5 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>Two-Wheeler / Bike Transport</strong></td>
-                        <td>Bubble Wrap + Handlebar Protectors</td>
-                        <td>Vehicle Loading Ramp</td>
-                        <td>₹1,200 - ₹2,200</td>
-                        <td>Within 4 Hours</td>
+                        <td><strong>3 BHK Independent Home</strong></td>
+                        <td>&#8377; 8,000 - 12,800</td>
+                        <td>&#8377; 13,500 - 19,575</td>
+                        <td><strong>&#8377; 21,500 - 31,175</strong></td>
+                        <td>3 - 5 Hours</td>
                     </tr>
                     <tr>
-                        <td><strong>Small Luggage / Student Parcels</strong></td>
-                        <td>Heavy Tape + Plastic Sealing</td>
-                        <td>Shared Tata Ace</td>
-                        <td>₹850 - ₹1,500</td>
-                        <td>Same Day Afternoon</td>
+                        <td><strong>Two-Wheeler (Bike / Scooter)</strong></td>
+                        <td>&#8377; 900 - 1,500</td>
+                        <td>&#8377; 2,500 - 4,000</td>
+                        <td><strong>&#8377; 3,400 - 5,500</strong></td>
+                        <td>2 - 4 Days</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Car Transport (Sedan / SUV)</strong></td>
+                        <td>&#8377; 1,500 - 2,800</td>
+                        <td>&#8377; 7,500 - 12,000</td>
+                        <td><strong>&#8377; 9,000 - 14,800</strong></td>
+                        <td>2 - 4 Days</td>
                     </tr>
                 </tbody>
             </table>
         </div>
+        <p style="text-align: center; color: #64748b; font-size: 0.92rem; margin-top: -10px;">
+            * Estimates reflect standard moving scopes. Final quotes depend on exact item count, floor levels, elevator access, and optional insurance choice.
+        </p>
+    </div>
+</section>
 
-        <div class="srk-highlight-box">
-            <h4>Need Moving Estimates for Other Routes?</h4>
-            <p>Calculate exact rates with our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a> or consult standard highway rates on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Matrix</a>.</p>
+<!-- Visual Feature Strip: Vehicle Carrier -->
+<section class="c_sim_rou-section">
+    <div class="container">
+        <div class="c_sim_rou-grid-2">
+            <div>
+                <span style="color: var(--c_sim_rou-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Secure Automobile Transit</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_sim_rou-dark); margin: 10px 0 20px;">
+                    Enclosed Car Carrier &amp; Safe Bike Transportation
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    Avoid heavy highway traffic, toll queues, and unnecessary vehicle depreciation across the 70 km journey by utilizing our closed car and bike transit solutions between Simdega and Rourkela.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    Each vehicle undergoes an inspection audit prior to dispatch from Simdega, documenting body panels, existing paint status, and fuel levels:
+                </p>
+                <ul class="c_sim_rou-checklist">
+                    <li>Specialized wheel stops and hydraulic deck locks to prevent vehicle movement inside carriers</li>
+                    <li>Individual foam cushioning on motorcycle handles, headlamps, mirrors, and exhaust pipes</li>
+                    <li>Comprehensive vehicle transit insurance for total financial peace of mind</li>
+                    <li>Prompt collection in Simdega and direct delivery to your doorstep in Rourkela</li>
+                </ul>
+            </div>
+            <div class="c_sim_rou-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Simdega to Rourkela Vehicle Transport Carrier">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Highway Logistics Section -->
+<section class="c_sim_rou-section c_sim_rou-section-gray">
+    <div class="container">
+        <div class="c_sim_rou-heading-center">
+            <h2>Simdega to Rourkela Highway Logistics &amp; Travel Corridor</h2>
+            <p>
+                Proven highway routing along National Highway Corridor guarantees punctual, monitored transit across states.
+            </p>
         </div>
 
-        <!-- Section 4: Operational Process and Route Details -->
-        <div class="dpt-grid-2 srk-grid-2">
-            <div>
-                <div class="srk-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/sofa-furniture-protective-packing-ranchi.jpg" alt="Sofa and wooden furniture packing for Simdega to Rourkela shifting" width="580" height="387">
-                    <div class="srk-caption">Multi-layer fabric blankets and film wrapping protect furniture against abrasion</div>
-                </div>
+        <div class="c_sim_rou-grid-3">
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#128506;</div>
+                <h3>Primary Route via National Highway Corridor</h3>
+                <p>
+                    Direct highway transit along National Highway Corridor connecting Simdega across Jharkhand with Rourkela in Odisha, traversing monitored toll checkpoints. Total highway distance is approximately 70 km traversed in 3 - 5 hours with scheduled transit stops.
+                </p>
+            </div>
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#128678;</div>
+                <h3>Dual-Driver Crews &amp; Transit Schedules</h3>
+                <p>
+                    For long highway corridors, our operations team deploys experienced two-driver crews operating in rotating shifts to maintain continuous transit without driver fatigue.
+                </p>
+            </div>
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#128667;</div>
+                <h3>GPS-Monitored Closed Containers</h3>
+                <p>
+                    All containerized trucks feature real-time satellite GPS tracking. Our customer support desk provides updates at major highway toll checkpoints along the route.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Visual Feature Strip: Destination Setup -->
+<section class="c_sim_rou-section">
+    <div class="container">
+        <div class="c_sim_rou-grid-2">
+            <div class="c_sim_rou-img-wrap">
+                <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" alt="Unpacking and Setup Service Simdega to Rourkela">
             </div>
             <div>
-                <h2 class="srk-section-title">Highway Route Architecture via NH-143</h2>
-                <p>The journey from Simdega to Rourkela follows a smooth highway trajectory across the state border:</p>
-                <ul>
-                    <li><strong>Departure:</strong> Simdega town via Saldega &rarr; Thethaitangar on NH-143.</li>
-                    <li><strong>Border Crossing:</strong> Crosses into Sundargarh district at the Birmitrapur checkpost.</li>
-                    <li><strong>Rourkela Entry:</strong> Enters via Vedvyas / Panposh bypass directly into Civil Township or Steel Plant township sectors.</li>
-                    <li><strong>Smooth Pavements:</strong> 4-lane highway ensures zero bumps or shocks to fragile electronics.</li>
+                <span style="color: var(--c_sim_rou-accent); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 0.9rem;">Turnkey Destination Service</span>
+                <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; color: var(--c_sim_rou-dark); margin: 10px 0 20px;">
+                    Careful Unloading, Furniture Assembly &amp; Debris Disposal
+                </h2>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 16px;">
+                    A truly satisfying relocation experience means waking up in a clean, fully functional home in Rourkela. Our skilled destination crew unloads every piece of furniture, reassembles dismounted frames, and handles all heavy lifting.
+                </p>
+                <p style="color: #475569; line-height: 1.7; margin-bottom: 20px;">
+                    We carefully place each box into its designated room based on your guidance:
+                </p>
+                <ul class="c_sim_rou-checklist">
+                    <li>Assembly of wooden beds, wardrobes, study tables, and dining furniture</li>
+                    <li>Placement of refrigerators, washing machines, and heavy home appliances</li>
+                    <li>Inspection of all glassware and fragile items in your presence</li>
+                    <li>Collection and disposal of used packing cardboard, plastics, and tapes</li>
                 </ul>
             </div>
         </div>
-
-        <!-- Section 5: Appliance Safety and Steel Plant Housing -->
-        <div class="dpt-grid-2 srk-grid-2">
-            <div>
-                <h2 class="srk-section-title">Dedicated Support for Steel & Corporate Personnel</h2>
-                <p>Relocating to Rourkela Steel Plant (RSP SAIL) quarters or corporate township housing involves strict check-in timings and security gate passes.</p>
-                <p>Our team assists with timely inventory verification, security gate clearances, and packing declarations matching corporate formats. We coordinate elevator bookings and loading hours at multistory housing quarters in Rourkela.</p>
-                <div class="srk-highlight-box">
-                    <h4>PSU Relocation Guidelines</h4>
-                    <p>Read full details about our corporate billing standards on our <a href="<?php echo SITE_BASE_URL; ?>/psu-and-government-employee-relocation-ranchi">PSU & Government Relocation</a> and <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers</a> pages.</p>
-                </div>
-            </div>
-            <div>
-                <div class="srk-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Weatherproof container truck for Simdega to Rourkela transport" width="580" height="387">
-                    <div class="srk-caption">Sealed container trucks providing 100% dustproof and waterproof transit</div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Section 6: Local Delivery and Coverage -->
-        <div class="dpt-grid-2 srk-grid-2">
-            <div>
-                <div class="srk-image-box">
-                    <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg" alt="Professional moving crew unloading in Rourkela" width="580" height="387">
-                    <div class="srk-caption">Skilled unloading staff positioning heavy furniture in bedrooms and living rooms</div>
-                </div>
-            </div>
-            <div>
-                <h2 class="srk-section-title">Doorstep Delivery Across All Rourkela Sectors</h2>
-                <p>Our delivery fleet covers every residential sector across Rourkela:</p>
-                <p><strong>Township Sectors:</strong> Sector 1, 2, 3, 4, 5, 6, 7, 8, 9, 14, 17, 19, 20, 21, and Ispat Nagar.</p>
-                <p><strong>Civil & Private Localities:</strong> Civil Township, Chhend Colony, Koel Nagar, Panposh, Basanti Colony, Uditnagar, and Daily Market.</p>
-                <p>Learn more about our district coverage on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-simdega">Packers and Movers in Simdega</a> page or central <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar.</p>
-            </div>
-        </div>
-
-        <!-- Section 7: FAQs -->
-        <div class="srk-faq-wrap">
-            <h2 class="srk-section-title">Frequently Asked Questions: Simdega to Rourkela</h2>
-
-            <div class="srk-faq-item">
-                <h4>What is the driving distance and delivery duration from Simdega to Rourkela?</h4>
-                <p>The highway distance between Simdega and Rourkela is only about 70 km via NH-143 (via Thethaitangar and Birmitrapur). Total transit time is just 2 to 3 hours, ensuring prompt same-day delivery.</p>
-            </div>
-
-            <div class="srk-faq-item">
-                <h4>What are the shifting charges from Simdega to Rourkela?</h4>
-                <p>Shifting rates start at ₹4,500 to ₹7,500 for a 1 BHK; ₹8,000 to ₹13,500 for a 2 BHK apartment; and ₹13,500 to ₹22,000 for a 3 BHK home, including complete packing materials, transport, and unloading.</p>
-            </div>
-
-            <div class="srk-faq-item">
-                <h4>Can you shift household goods directly to SAIL employee quarters in Rourkela?</h4>
-                <p>Yes, we regularly deliver to SAIL township quarters across Sector 1 to 21, Ispat Nagar, and Koel Nagar in Rourkela, providing proper gate passes and elevator handling.</p>
-            </div>
-
-            <div class="srk-faq-item">
-                <h4>Do you transport two-wheelers and scooters from Simdega to Rourkela?</h4>
-                <p>Yes, we transport motorcycles and scooters securely wrapped with bubble wrap and secured on vehicle ramps. Delivery to Rourkela is completed within 4 to 6 hours.</p>
-            </div>
-        </div>
-
-        <!-- Section 8: Connected Cluster Modules -->
-        <div class="srk-cluster-links">
-            <h4>Explore Related Regional Corridors & Services</h4>
-            <div class="srk-cluster-grid">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-simdega">Packers and Movers Simdega</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gumla">Packers and Movers Gumla</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-rourkela-packers-and-movers">Ranchi to Rourkela Shifting</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/track-consignment">Track Your Consignment</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/moving-checklist-pdf-download">Moving Checklist PDF</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Matrix</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers</a>
-            </div>
-        </div>
-
     </div>
-</div>
+</section>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<!-- Corporate & Industrial Relocation Protocol -->
+<section class="c_sim_rou-section c_sim_rou-section-gray">
+    <div class="container">
+        <div class="c_sim_rou-heading-center">
+            <h2>Corporate, Industrial &amp; PSU Relocation Specialization</h2>
+            <p>
+                Tailored moving procedures for corporate managers, government officials, and banking professionals.
+            </p>
+        </div>
 
+        <div class="c_sim_rou-grid-3">
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#9874;</div>
+                <h3>Industrial Belt &amp; Manufacturing Moves</h3>
+                <p>
+                    Connecting Cradle of Indian Hockey sports development, forestry products, agro-allied processing, and district administration with SAIL Rourkela Steel Plant (RSP), Kalunga industrial cluster, heavy engineering fabrication, and NIT Rourkela, we manage executive and technician relocations with end-to-end documentation.
+                </p>
+            </div>
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#128646;</div>
+                <h3>Corporate &amp; Public Sector Transfers</h3>
+                <p>
+                    Managing employee relocations, executive transfers, and industrial supply chain support between Simdega and Rourkela. We provide itemized packing lists, consignment notes, and GST invoices fully compliant with company claim policies.
+                </p>
+            </div>
+            <div class="c_sim_rou-card">
+                <div class="c_sim_rou-card-icon">&#127891;</div>
+                <h3>Academic &amp; Institutional Moves</h3>
+                <p>
+                    We provide smooth household and library relocation services for professors, researchers, and students transferring between universities and institutions in Simdega and Rourkela.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Local Coverage Grid -->
+<section class="c_sim_rou-section">
+    <div class="container">
+        <div class="c_sim_rou-heading-center">
+            <h2>Full Pickup in Simdega &amp; Doorstep Delivery Across Rourkela</h2>
+            <p>
+                Our comprehensive moving operations extend across every neighborhood in Simdega and Rourkela.
+            </p>
+        </div>
+
+        <div class="c_sim_rou-grid-3">
+            <div class="c_sim_rou-card">
+                <h3>Simdega Pickup Localities</h3>
+                <p>
+                    Prompt doorstep survey and packaging across all sectors of Simdega:
+                </p>
+                <ul class="c_sim_rou-checklist">
+                    <li><strong>Town Core:</strong> Main Road, Mahabir Chowk, Court Road, Bus Stand Area</li>
+                    <li><strong>Residential Localities:</strong> Saldega, Gotra, Khuntitoli, Tukupani</li>
+                    <li><strong>Sports & Institutional:</strong> Astroturf Hockey Stadium Zone, Simdega College Campus</li>
+                    <li><strong>Suburban & Forest:</strong> Kolebira Route, Bano Road, Thethaitangar, Bolba</li>
+                </ul>
+            </div>
+
+            <div class="c_sim_rou-card">
+                <h3>Rourkela Delivery Coverage</h3>
+                <p>
+                    Unloading, room placement, and setup across all Rourkela neighborhoods:
+                </p>
+                <ul class="c_sim_rou-checklist">
+                    <li><strong>Steel Township Sectors:</strong> Sector 1 to Sector 22, Chhend Colony, Civil Township</li>
+                    <li><strong>Commercial & Central:</strong> Main Road, Bisra Road, Daily Market, Udit Nagar, Panposh</li>
+                    <li><strong>Institutional & Academic:</strong> NIT Rourkela Campus, Koel Nagar, Shaktinagar</li>
+                    <li><strong>Industrial Belts:</strong> Rourkela Steel Plant (RSP), Kalunga Industrial Estate, Vedvyas</li>
+                </ul>
+            </div>
+
+            <div class="c_sim_rou-card">
+                <h3>Why Choose Shree Ashirwad?</h3>
+                <p>
+                    Trusted by hundreds of families and businesses moving across India:
+                </p>
+                <ul class="c_sim_rou-checklist">
+                    <li>Company-owned weatherproof container vehicles</li>
+                    <li>Experienced, background-verified full-time crew</li>
+                    <li>Genuine GST invoices for government and PSU transfer claims</li>
+                    <li>Fast 3 - 5-hour highway transit with scheduled doorstep delivery</li>
+                    <li>Transparent pricing with zero hidden surcharges</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Frequently Asked Questions -->
+<section class="c_sim_rou-section c_sim_rou-section-gray">
+    <div class="container">
+        <div class="c_sim_rou-heading-center">
+            <h2>Frequently Asked Questions: Simdega to Rourkela Shifting</h2>
+            <p>
+                Essential information on pricing, transit times, packing materials, and claim documentation.
+            </p>
+        </div>
+
+        <div style="max-width: 900px; margin: 0 auto;">
+            <div class="c_sim_rou-faq-item">
+                <h3>What is the road distance and transit duration from Simdega to Rourkela?</h3>
+                <p>
+                    The highway distance between Simdega and Rourkela is approximately 70 km via National Highway Corridor. Dedicated container trucks complete this journey in 3 - 5 hours with scheduled doorstep delivery.
+                </p>
+            </div>
+
+            <div class="c_sim_rou-faq-item">
+                <h3>What are the shifting charges from Simdega to Rourkela?</h3>
+                <p>
+                    Estimated costs range from Rs 10,300 - 14,935 for 1 BHK apartments, Rs 15,000 - 21,750 for 2 BHK homes, and Rs 21,500 - 31,175 for 3 BHK residences, covering 5-layer packing, container freight, toll charges, loading, and unloading.
+                </p>
+            </div>
+
+            <div class="c_sim_rou-faq-item">
+                <h3>Do you provide claimable GST invoices for corporate and government transfers?</h3>
+                <p>
+                    Yes, Shree Ashirwad Packers and Movers provides 100% authentic GST invoices, detailed item inventories, consignment notes (bilty), and IBA-approved receipts compliant with corporate and government reimbursement policies.
+                </p>
+            </div>
+
+            <div class="c_sim_rou-faq-item">
+                <h3>How are personal cars and motorcycles transported to Rourkela?</h3>
+                <p>
+                    Vehicles are safely transported in enclosed hydraulic car carrier trailers and custom wooden motorcycle crates with wheel chocks, security straps, and comprehensive transit risk insurance.
+                </p>
+            </div>
+
+            <div class="c_sim_rou-faq-item">
+                <h3>Which areas in Simdega and Rourkela do you cover?</h3>
+                <p>
+                    In Simdega, we cover Main Road, Mahabir Chowk, Court Road, Bus Stand Area and Saldega, Gotra, Khuntitoli, Tukupani. In Rourkela, we deliver across Sector 1 to Sector 22, Chhend Colony, Civil Township and Main Road, Bisra Road, Daily Market, Udit Nagar, Panposh.
+                </p>
+            </div>
+
+            <div class="c_sim_rou-faq-item">
+                <h3>Is transit insurance available for Simdega to Rourkela moves?</h3>
+                <p>
+                    Yes, we provide comprehensive transit risk insurance covering unexpected highway accidents, external impacts, and adverse weather conditions with hassle-free claim settlement.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Banner -->
+<section style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: #ffffff; padding: 65px 0; text-align: center;">
+    <div class="container">
+        <h2 style="font-family: 'Outfit', sans-serif; font-size: 2.2rem; font-weight: 800; margin-bottom: 16px;">
+            Book Your Simdega to Rourkela Move Today
+        </h2>
+        <p style="font-size: 1.1rem; color: #cbd5e1; max-width: 720px; margin: 0 auto 30px;">
+            Contact our moving experts for an accurate written estimate, complimentary pre-move assessment, and scheduled delivery.
+        </p>
+        <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
+            <a href="tel:+919835565233" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                Call Hotline: 084095 31615
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
+                Request Express Quote &rarr;
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Connected Shifting Resources Module -->
+<section class="c_sim_rou-section" style="padding: 40px 0; background: #f8fafc;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 30px; box-shadow: var(--c_sim_rou-shadow);">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.35rem; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 12px;">Connected Interstate Moving Corridors &amp; Authority Hubs</h3>
+            <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, tariff calculators, and reciprocal return corridors:</p>
+            <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ranchi (HQ)</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-rourkela" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Rourkela</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Charges &amp; Tariff Calculator</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/rourkela-to-simdega-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Return Route: Rourkela to Simdega</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<?php include __DIR__ . '/includes/footer.php'; ?>
 </body>
 </html>

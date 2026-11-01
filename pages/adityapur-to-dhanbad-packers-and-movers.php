@@ -3,24 +3,24 @@
  * Page Name: Adityapur to Dhanbad Packers and Movers
  * Route Slug: adityapur-to-dhanbad-packers-and-movers
  * Group: Route 2 - Adityapur Industrial Corridor
- * Meta Title: Packers and Movers Adityapur to Dhanbad | Safe Relocation
- * Meta Description: Trusted packers and movers from Adityapur to Dhanbad. 135 km via NH-18 & Purulia, 5-layer packing, household & industrial moving. Call 8409531615.
- * Focus Keywords: adityapur to dhanbad packers and movers, packers and movers adityapur to dhanbad, house shifting adityapur to dhanbad, industrial goods transport adityapur dhanbad, car carrier adityapur to dhanbad, bike parcel adityapur dhanbad
+ * Meta Title: Packers and Movers Adityapur to Dhanbad | Best Shifting Services - Shree Ashirwad
+ * Meta Description: Looking for the best packers and movers from Adityapur to Dhanbad? Shree Ashirwad Packers offers trusted household shifting, BCCL employee moves, bike transport & car carriers via NH-18. Call +91 9835565233.
+ * Focus Keywords: adityapur to dhanbad packers and movers, packers and movers adityapur to dhanbad, best packers and movers for adityapur to dhanbad, household shifting services, bike transport, car carrier services, IBA approved bill, transit insurance, movers and packers near me in dhanbad
  */
 
 if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
 
-$page_title = "Packers and Movers Adityapur to Dhanbad | Safe Relocation";
-$page_desc = "Trusted packers and movers from Adityapur to Dhanbad. 135 km via NH-18 & Purulia, 5-layer packing, household & industrial moving. Call 8409531615.";
+$page_title = "Packers and Movers Adityapur to Dhanbad | Best Shifting Services - Shree Ashirwad";
+$page_desc = "Looking for the best packers and movers from Adityapur to Dhanbad? Shree Ashirwad Packers offers trusted household shifting, BCCL employee moves, bike transport & car carriers via NH-18. Call +91 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/adityapur-to-dhanbad-packers-and-movers";
 $route_origin = "Adityapur";
 $route_destination = "Dhanbad";
 
 // Open Graph
-$og_title = "Packers and Movers Adityapur to Dhanbad | Safe Shifting";
-$og_description = "Trusted packers and movers from Adityapur to Dhanbad. 135 km via NH-18 & Purulia, 5-layer packing, household & industrial moving. Call 8409531615.";
+$og_title = "Packers and Movers Adityapur to Dhanbad | Best Shifting Services - Shree Ashirwad";
+$og_description = "Looking for the best packers and movers from Adityapur to Dhanbad? Shree Ashirwad Packers offers trusted household shifting, BCCL employee moves, bike transport & car carriers via NH-18. Call +91 9835565233.";
 $og_url = $canonical_url;
 $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg";
 ?>
@@ -31,7 +31,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_desc); ?>">
-    <meta name="keywords" content="adityapur to dhanbad packers and movers, packers and movers adityapur to dhanbad, house shifting adityapur to dhanbad, industrial goods transport adityapur dhanbad, car carrier adityapur to dhanbad, bike parcel adityapur dhanbad">
+    <meta name="keywords" content="adityapur to dhanbad packers and movers, packers and movers adityapur to dhanbad, best packers and movers for adityapur to dhanbad, household shifting services, bike transport, car carrier services, iba approved bill, transit insurance, movers and packers near me in dhanbad, industrial goods transport adityapur dhanbad, car carrier adityapur to dhanbad, bike parcel adityapur dhanbad">
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">
@@ -67,7 +67,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
         "name": "Shree Ashirwad Packers and Movers Adityapur & Dhanbad",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/adityapur-to-dhanbad-packers-and-movers",
-        "telephone": "+918409531615",
+        "telephone": "+919835565233",
         "priceRange": "₹7,500 - ₹38,000",
         "address": {
             "@type": "PostalAddress",
@@ -644,6 +644,45 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
             }
         }
     </style>
+
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"] {
+      max-width: 580px !important;
+      margin: 20px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+    }
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img {
+      max-height: 260px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+    }
+    @media (max-width: 768px) {
+      [class*="-two-col"], [class*="-grid-2"] {
+        grid-template-columns: 1fr !important;
+        gap: 20px !important;
+      }
+      [class*="-img-box"] img, [class*="-feature-img"] img {
+        max-height: 210px !important;
+      }
+      .container, [class*="-container"], [class*="-wrapper"] {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+        overflow-x: hidden !important;
+      }
+      table {
+        display: block !important;
+        overflow-x: auto !important;
+        width: 100% !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -669,16 +708,21 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 Dependable intercity relocation connecting Asia’s largest industrial hub in Adityapur to the Coal Capital of India in Dhanbad. Specializing in family apartment shifting, industrial machinery transit, executive corporate moves, and safe vehicle carrier delivery across NH-18 via Chandil, Purulia, and Chas.
             </p>
             <div class="adi-dhn-cta-row">
-                <a href="tel:+918409531615" class="btn-adi-dhn-call" title="Call Shree Ashirwad Packers Adityapur">
-                    <i class="fa-solid fa-phone"></i> Call 084095 31615
+                <a href="tel:+919835565233" class="btn-adi-dhn-call" title="Call Shree Ashirwad Packers Adityapur">
+                    <i class="fa-solid fa-phone"></i> Call +91 9835565233
                 </a>
-                <a href="https://api.whatsapp.com/send?phone=918409531615&amp;text=Hi%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Adityapur%20to%20Dhanbad%20shifting." class="btn-adi-dhn-wa" target="_blank" rel="noopener" title="Get Instant WhatsApp Quote">
+                <a href="https://api.whatsapp.com/send?phone=919835565233&amp;text=Hi%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Adityapur%20to%20Dhanbad%20shifting." class="btn-adi-dhn-wa" target="_blank" rel="noopener" title="Get Instant WhatsApp Quote">
                     <i class="fa-brands fa-whatsapp"></i> WhatsApp Instant Quote
                 </a>
             </div>
         </div>
     </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
+        
     <!-- SECTION 1: ROUTE LOGISTICS & ROADWAY OVERVIEW -->
     <section class="adi-dhn-section">
         <div class="adi-dhn-container">
@@ -734,7 +778,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     <p>
                         Shree Ashirwad Packers and Movers provides specialized moving solutions designed for the realities of this highway. Our covered container fleet navigates the NH-18 corridor smoothly, safeguarding expensive modular furniture, precision electronic testing apparatus, computer networks, and complete residential setups from highway vibrations, dust, and unexpected weather changes.
                     </p>
-                </div>
+</div>
                 <div class="adi-dhn-img-box">
                     <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/heavy-machinery-office-shifting-jharkhand.jpg" alt="Industrial and Commercial Goods Shifting Adityapur to Dhanbad" title="Industrial Machinery and Household Packing">
                 </div>

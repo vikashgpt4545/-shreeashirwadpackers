@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Hubli to Ranchi Packers and Movers | Secure 1,780 km Inbound Shifting";
-$page_description = "Reliable Hubli (Hubballi-Dharwad) to Ranchi packers and movers. Safe home shifting, car carriers, IIT/SWR employee returns & transit insurance. Direct container fleet. Call 8409531615.";
+$page_description = "Reliable Hubli (Hubballi-Dharwad) to Ranchi packers and movers. Safe home shifting, car carriers, IIT/SWR employee returns & transit insurance. Direct container fleet. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/hubli-to-ranchi-packers-and-movers";
 $page_keywords = "hubli to ranchi packers and movers, packers and movers hubballi to ranchi, household shifting hubli to ranchi, car carrier hubli to ranchi, bike courier dharwad to ranchi, return movers hubli to ranchi, swr employee relocation to ranchi, iit dharwad to ranchi movers";
 
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "description": "Professional inbound intercity relocation service connecting Hubli-Dharwad / Hubballi (Karnataka) to Ranchi (Jharkhand). Expert household moving, automobile transportation, corporate returns, and all-risk transit insurance.",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
@@ -523,6 +523,42 @@ require_once __DIR__ . '/../includes/seo.php';
             .hubr-btn-primary, .hubr-btn-secondary { text-align: center; }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -555,16 +591,21 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
         </div>
         <div class="hubr-cta-bar">
-            <a href="tel:+918409531615" class="hubr-btn-primary">Call Hubli Desk: +91 8409531615</a>
+            <a href="tel:+919835565233" class="hubr-btn-primary">Call Hubli Desk: +91 9835565233</a>
             <a href="tel:+919835565233" class="hubr-btn-secondary">Alternate Line: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="hubr-btn-secondary">Get Instant Return Move Estimate</a>
         </div>
     </div>
 </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Main Container -->
 <main class="hubr-content-wrap">
 
+        
     <!-- Section 1: Inbound Overview & Reverse Logistics Advantage -->
     <section class="hubr-section">
         <h2 class="hubr-section-title">Seamless Inbound Relocation from Hubli-Dharwad to Ranchi</h2>
@@ -945,7 +986,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Experience damage-free return relocation backed by certified packing professionals, direct GPS-enabled container fleets, and comprehensive all-risk transit insurance across 1,780 km.
         </p>
         <div class="hubr-cta-bar" style="justify-content: center;">
-            <a href="tel:+918409531615" class="hubr-btn-primary">Call Now: +91 8409531615</a>
+            <a href="tel:+919835565233" class="hubr-btn-primary">Call Now: +91 9835565233</a>
             <a href="tel:+919835565233" class="hubr-btn-secondary">Mobile: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="hubr-btn-secondary">Request Return Move Estimate</a>
         </div>

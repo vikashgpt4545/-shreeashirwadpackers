@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Mysore to Ranchi Packers and Movers | Secure 1,980 km Inbound Shifting";
-$page_description = "Trusted Mysore (Mysuru) to Ranchi packers and movers. Safe home shifting, car transport, IT professional returns & transit insurance. Direct container fleet. Call 8409531615.";
+$page_description = "Trusted Mysore (Mysuru) to Ranchi packers and movers. Safe home shifting, car transport, IT professional returns & transit insurance. Direct container fleet. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/mysore-to-ranchi-packers-and-movers";
 $page_keywords = "mysore to ranchi packers and movers, packers and movers mysuru to ranchi, household shifting mysore to ranchi, car carrier mysore to ranchi, bike transport mysuru to ranchi, return movers mysore to ranchi, infosys mysore to ranchi relocation, hebbal to ranchi packers";
 
@@ -61,7 +61,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "description": "Professional inbound intercity relocation service from Mysore / Mysuru (Karnataka) to Ranchi (Jharkhand). Expert household moving, automobile transportation, IT employee returns, and all-risk transit insurance.",
-        "telephone": "+91-8409531615",
+        "telephone": "+91-9835565233",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
@@ -523,6 +523,42 @@ require_once __DIR__ . '/../includes/seo.php';
             .mysr-btn-primary, .mysr-btn-secondary { text-align: center; }
         }
     </style>
+  <style>
+    /* Responsive Image Containment & Mobile Safeguard - Compact & Balanced */
+    .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+      max-width: 440px !important;
+      width: 100% !important;
+      margin: 18px auto !important;
+      overflow: hidden !important;
+      border-radius: 12px !important;
+      text-align: center !important;
+    }
+
+    .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+      max-width: 440px !important;
+      max-height: 220px !important;
+      height: 220px !important;
+      width: 100% !important;
+      object-fit: cover !important;
+      aspect-ratio: 16/9 !important;
+      display: block !important;
+      margin: 0 auto !important;
+      border-radius: 10px !important;
+    }
+
+    @media (max-width: 768px) {
+      .corridor-img-container, [class*="-feature-img"], [class*="-img-box"], [class*="img-showcase"], [class*="-img-card"] {
+        max-width: 320px !important;
+        margin: 14px auto !important;
+      }
+      .corridor-img-container img, [class*="-feature-img"] img, [class*="-img-box"] img, [class*="img-showcase"] img, [class*="-img-card"] img {
+        max-width: 320px !important;
+        max-height: 180px !important;
+        height: 180px !important;
+      }
+    }
+  </style>
+
 </head>
 <body>
 
@@ -555,16 +591,21 @@ require_once __DIR__ . '/../includes/seo.php';
             </div>
         </div>
         <div class="mysr-cta-bar">
-            <a href="tel:+918409531615" class="mysr-btn-primary">Call Mysore Helpline: +91 8409531615</a>
+            <a href="tel:+919835565233" class="mysr-btn-primary">Call Mysore Helpline: +91 9835565233</a>
             <a href="tel:+919835565233" class="mysr-btn-secondary">Alternate Line: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="mysr-btn-secondary">Get Instant Return Move Quote</a>
         </div>
     </div>
 </header>
 
+    <!-- Competitor Ranking Keyword Content Section -->
+    
+
+
 <!-- Main Container -->
 <main class="mysr-content-wrap">
 
+        
     <!-- Section 1: Inbound Overview & Reverse Logistics Advantage -->
     <section class="mysr-section">
         <h2 class="mysr-section-title">Reliable Return Relocation from Mysore (Mysuru) to Ranchi</h2>
@@ -914,7 +955,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Connect with our dedicated intercity relocation experts today for a free on-site or digital pre-move survey, transparent pricing, and guaranteed damage-free delivery across 1,980 km.
         </p>
         <div class="mysr-cta-bar" style="justify-content: center;">
-            <a href="tel:+918409531615" class="mysr-btn-primary">Call Now: +91 8409531615</a>
+            <a href="tel:+919835565233" class="mysr-btn-primary">Call Now: +91 9835565233</a>
             <a href="tel:+919835565233" class="mysr-btn-secondary">Mobile: +91 9835565233</a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="mysr-btn-secondary">Request Return Move Estimate</a>
         </div>

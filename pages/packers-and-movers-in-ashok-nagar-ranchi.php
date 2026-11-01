@@ -15,9 +15,9 @@ require_once BASE_PATH . '/includes/config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Packers and Movers in Ashok Nagar Ranchi | Luxury Villa Shifting - Shree Ashirwad</title>
-    <meta name="description" content="Premium packers and movers in Ashok Nagar, Ranchi. White-glove residential moving for independent bungalows, luxury villas & executive flats. Custom antique crating & zero damage. Call 8409531615.">
-    <meta name="keywords" content="packers and movers in ashok nagar ranchi, packers and movers ashok nagar ranchi, ashok nagar cooperative colony movers, villa packers movers ranchi, luxury house shifting ranchi, antique furniture crating ranchi">
+    <title>Packers and Movers in Ashok Nagar Ranchi | Best Moving Company - 9835565233</title>
+    <meta name="description" content="Looking for the best packers and movers in Ashok Nagar Ranchi? Shree Ashirwad offers trusted household shifting, luxury villa moves, car & bike transport with 5-layer packing and verified local crews. Call +91 9835565233.">
+    <meta name="keywords" content="packers and movers in ashok nagar ranchi, best packers and movers in ashok nagar ranchi, movers and packers near me in ashok nagar ranchi, household shifting in ashok nagar ranchi, ashok nagar cooperative colony movers, villa packers movers ranchi, luxury house shifting ranchi, antique furniture crating ranchi, packing and moving company in ranchi">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
 
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers - Ashok Nagar Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi",
-        "telephone": "+91-8409531615",
+        "telephone": "+919835565233",
         "priceRange": "INR 4,500 - 65,000",
         "address": {
             "@type": "PostalAddress",
@@ -85,7 +85,7 @@ require_once BASE_PATH . '/includes/config.php';
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-8409531615"
+            "telephone": "+919835565233"
         },
         "areaServed": {
             "@type": "Place",
@@ -191,10 +191,51 @@ require_once BASE_PATH . '/includes/config.php';
 <section class="ask-hero">
     <div class="ask-badge-pill">★ Premier Ashok Nagar Villa Shifting</div>
     <h1>Packers and Movers in Ashok Nagar Ranchi</h1>
-    <p>White-glove residential moving for independent bungalows, luxury villas, and executive flats in Ashok Nagar, Ranchi. Custom wooden crating for antiques, fine art, teakwood furniture, and 100% zero-damage execution.</p>
+    <p>Looking for the <strong>best packers and movers in Ashok Nagar Ranchi</strong>? We provide trusted household shifting, luxury villa moving, corporate office relocation, bike transport, car transport, and complete moving solutions at affordable prices across Ashok Nagar, Argora, Kadru, and Greater Ranchi.</p>
+    <p style="font-size: 1rem; color: #e2e8f0; margin-top: 10px;">Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Ashok Nagar and nearby residential areas with timely delivery support. As top-rated movers and packers near Ashok Nagar, we deliver floor-to-floor handling, same-day shifting assistance, and custom wooden crating for antiques and teakwood furniture.</p>
 </section>
 
 <main class="ask-container">
+        <!-- Competitor Ranking Keyword Content Box -->
+    <section style="padding: 40px 0 20px; background: #ffffff;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
+                    Packers and Movers in Ashok Nagar
+                </h3>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Looking for the <strong>best packers and movers in Ashok Nagar</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Ashok Nagar and nearby areas with timely delivery support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    As one of the <strong>top-rated packers and movers near Ashok Nagar</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We cover major localities including Ashok Nagar, Jharkhand along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Whether you need <strong>local shifting in Ashok Nagar</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    Customers choose our <strong>movers and packers service in Ashok Nagar</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Ashok Nagar</strong> delivers affordable, safe, and stress-free relocation services.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
+                    If you are searching for reliable <strong>movers and packers near me in Ashok Nagar</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
+                </p>
+                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
+                    Our <strong>professional packers and movers service in Ashok Nagar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Ashok Nagar</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                </p>
+            </div>
+        </div>
+    </section>
     <!-- Section 1: Overview of Ashok Nagar -->
     <section class="ask-section">
         <h2>Ranchi's Most Prestigious Cooperative Residential Enclave</h2>
@@ -356,8 +397,8 @@ require_once BASE_PATH . '/includes/config.php';
         <h2>Planning a Villa or Bungalow Move in Ashok Nagar?</h2>
         <p>Schedule a confidential on-site survey for custom crating, white-glove packing, and guaranteed zero damage.</p>
         <div class="ask-cta-btns">
-            <a href="tel:8409531615" class="ask-btn-call">📞 Call 8409531615</a>
-            <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20reside%20in%20Ashok%20Nagar%20Ranchi%20and%20need%20a%20luxury%20villa%20relocation%20quote." target="_blank" rel="noopener" class="ask-btn-wa">💬 WhatsApp Ashok Nagar Desk</a>
+            <a href="tel:+91 9835565233" class="ask-btn-call">📞 Call +91 9835565233</a>
+            <a href="https://wa.me/91+91 9835565233?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20reside%20in%20Ashok%20Nagar%20Ranchi%20and%20need%20a%20luxury%20villa%20relocation%20quote." target="_blank" rel="noopener" class="ask-btn-wa">💬 WhatsApp Ashok Nagar Desk</a>
         </div>
     </div>
 </main>
