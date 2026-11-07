@@ -9,6 +9,7 @@ if (!defined('BASE_PATH')) {
     define('BASE_PATH', dirname(__DIR__));
 }
 require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -29,11 +30,12 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi",
-        "telephone": "+91 8409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -220,6 +222,19 @@ require_once BASE_PATH . '/includes/config.php';
 <body>
     <?php include BASE_PATH . '/includes/header.php'; ?>
 
+    <!-- Breadcrumbs -->
+    <div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+      <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+            <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Home Shifting Checklist Ranchi</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+
     <div class="hscr-wrap">
         <!-- Hero Section -->
         <section class="hscr-hero">
@@ -227,7 +242,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Home Shifting Checklist Ranchi: 30-Day Moving Timeline</h1>
                 <p>Relocating your family in Jharkhand’s capital? Whether moving across Morabadi, Bariatu, Kanke Road, Doranda, or preparing for an interstate transfer from Ranchi, this verified 30-day checklist eliminates moving chaos, prevents damaged valuables, and streamlines utility clearances.</p>
                 <div class="hscr-cta-group">
-                    <a href="tel:+918409531615" class="hscr-btn-call">Direct Call: +91 8409531615</a>
+                    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hscr-btn-call">Direct Call: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
                     <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20home%20shifting%20checklist%20and%20quote%20for%20Ranchi" class="hscr-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
@@ -262,7 +277,7 @@ require_once BASE_PATH . '/includes/config.php';
                     <h4><span class="hscr-timeline-badge">Week 4 (Day 30 to Day 22)</span> Decluttering, Asset Valuation & Selecting Your Mover</h4>
                     <ul>
                         <li><strong>Aggressive Household Decluttering:</strong> Walk through every room in your Ranchi home. Segregate items into keep, donate, and discard piles. Discard broken plasticware, obsolete electronics, and outgrown clothing. Remember: less weight means significantly lower moving charges.</li>
-                        <li><strong>Schedule a Physical or Video Pre-Move Survey:</strong> Contact <a href="tel:+918409531615" style="color:#ff6a28; font-weight:700;">+91 8409531615</a> to schedule an in-home assessment. Our surveyor measures large furniture volumes, elevator dimensions, and truck parking access to deliver a firm, transparent quotation with zero hidden fees.</li>
+                        <li><strong>Schedule a Physical or Video Pre-Move Survey:</strong> Contact <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color:#ff6a28; font-weight:700;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a> to schedule an in-home assessment. Our surveyor measures large furniture volumes, elevator dimensions, and truck parking access to deliver a firm, transparent quotation with zero hidden fees.</li>
                         <li><strong>Review Written Estimates & Verify Credentials:</strong> Avoid unverified broker websites and digital aggregator portals. Ensure your selected moving company owns a physical office in Ranchi, operates its own branded container vehicles, and provides GST-compliant invoices.</li>
                         <li><strong>Government Quarter NOC Initiation:</strong> If residing in CCL quarters at Gandhinagar, MECON Colony at Doranda, or Railway quarters at Hatia, submit your official quarters surrender intimation to the Estate Office.</li>
                     </ul>
@@ -447,7 +462,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Moving Guides & Neighborhood Hubs</h3>
                 <p>Ensure seamless relocation across Ranchi with our specialized neighborhood hubs and corridor guides:</p>
                 <div class="hscr-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">Packers and Movers Kanke</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-doranda-ranchi">Packers and Movers Doranda</a>

@@ -13,8 +13,11 @@ $page_title = "Complete Guide to House Shifting in Ranchi | 2026 Checklist & Rat
 $page_description = "The definitive 4-week house shifting guide for Ranchi by Shree Ashirwad Packers. Local moving costs, packing checklist, apartment society rules in Kanke & Harmu, and moving tips. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/complete-guide-to-house-shifting-in-ranchi";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -70,11 +73,12 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹3,500 - ₹65,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -141,7 +145,13 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Shifting Guide",
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Complete Guide to House Shifting in Ranchi",
         "item": "<?php echo $canonical_url; ?>"
       }
     ]
@@ -240,7 +250,7 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
   <!-- Global Header Navigation -->
-  <?php include __DIR__ . '/../includes/header.php'; ?>
+  <?php include BASE_PATH . '/includes/header.php'; ?>
 
   <!-- Breadcrumb Navigation -->
   <nav class="breadcrumb-nav" aria-label="Breadcrumb" style="background: #f8fafc; padding: 14px 0; border-bottom: 1px solid #e2e8f0;">
@@ -248,6 +258,10 @@ require_once __DIR__ . '/includes/seo.php';
       <ol style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem; color: #64748b;">
         <li style="display: inline-flex; align-items: center;">
           <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none; font-weight: 500;">Home</a>
+          <span style="margin: 0 10px; color: #94a3b8;">/</span>
+        </li>
+        <li style="display: inline-flex; align-items: center;">
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
           <span style="margin: 0 10px; color: #94a3b8;">/</span>
         </li>
         <li style="display: inline-flex; align-items: center; color: #0f172a; font-weight: 600;" aria-current="page">
@@ -609,8 +623,8 @@ require_once __DIR__ . '/includes/seo.php';
             Experience 5-layer anti-vibration packaging, skilled carpentry support, seamless apartment society coordination, and 100% transparent fixed quotes with Shree Ashirwad Packers.
           </p>
           <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
-              Call Moving Helpline: 8409531615
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
+              Call Moving Helpline: <?php echo PRIMARY_PHONE_DISPLAY; ?>
             </a>
             <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 600; text-decoration: none;">
               Get Instant WhatsApp Estimate &rarr;
@@ -623,7 +637,7 @@ require_once __DIR__ . '/includes/seo.php';
   </main>
 
   <!-- Global Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include BASE_PATH . '/includes/footer.php'; ?>
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>
 </body>
 </html>

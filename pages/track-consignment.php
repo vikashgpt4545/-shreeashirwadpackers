@@ -1,5 +1,10 @@
 <?php
-require_once dirname(__DIR__) . '/includes/config.php'; // Dynamic SEO Configuration for Consignment Tracking Portal
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
+
 $page_title = "Track Consignment Online | Shree Ashirwad Packers and Movers LR Tracking";
 $page_description = "Track your household goods, vehicle or cargo consignment live online with Shree Ashirwad Packers and Movers. Enter your LR / Consignment / Bilty number for real-time GPS tracking.";
 $canonical_url = "https://www.shreeashirwadpackers.com/track-consignment";
@@ -23,11 +28,12 @@ $canonical_url = "https://www.shreeashirwadpackers.com/track-consignment";
         "name": "Shree Ashirwad Packers and Movers - Consignment Tracking Desk",
         "image": "https://www.shreeashirwadpackers.com/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 8409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "Free Tracking Utility",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -62,8 +68,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/track-consignment";
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Customer Support",
-                "item": "https://www.shreeashirwadpackers.com/contact"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -436,7 +442,20 @@ $canonical_url = "https://www.shreeashirwadpackers.com/track-consignment";
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Track Consignment</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <div class="trk-page-wrap">
 
@@ -642,6 +661,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/track-consignment";
         <div class="trk-cluster-links">
             <h4>Explore Related Relocation Tools & Regional Services</h4>
             <div class="trk-cluster-grid">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi HQ</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/moving-checklist-pdf-download">Moving Checklist Download</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Moving Cost Calculator</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Matrix</a>
@@ -656,7 +676,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/track-consignment";
     </div>
 </div>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<?php include_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

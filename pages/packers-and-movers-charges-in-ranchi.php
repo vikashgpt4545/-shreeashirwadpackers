@@ -13,8 +13,8 @@ $page_title = "Packers and Movers Charges in Ranchi | 2026 Price Chart & Cost Ca
 $page_description = "Check official packers and movers charges in Ranchi for 1 BHK, 2 BHK, 3 BHK, 4 BHK, bike, and car shifting. Detailed local and intercity rate charts, GST breakdown, packaging costs, and zero hidden fee policy. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-charges-in-ranchi";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,7 +69,8 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com",
-    "telephone": "+91-8409531615",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹3,500 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -114,7 +115,9 @@ require_once __DIR__ . '/includes/seo.php';
     "serviceType": "Packers and Movers Pricing and Relocation Cost Estimation",
     "provider": {
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers"
+      "name": "Shree Ashirwad Packers and Movers",
+      "url": "https://www.shreeashirwadpackers.com",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
     },
     "areaServed": {
       "@type": "City",
@@ -192,8 +195,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Services",
-        "item": "https://www.shreeashirwadpackers.com/#services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -512,6 +515,19 @@ require_once __DIR__ . '/includes/seo.php';
 
 <?php include __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Charges in Ranchi</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <!-- Hero Section -->
 <section class="charges-hero">
   <div class="container">
@@ -827,7 +843,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="cta-banner">
     <h3>Ready for a 100% Transparent, Fixed-Price Moving Quote?</h3>
     <p>Schedule your free, zero-obligation physical or virtual pre-move home survey in Ranchi today. Get a written, binding quotation with our zero-hidden-fee guarantee.</p>
-    <a href="tel:+918409531615" class="cta-btn">📞 Call Now: +91 8409531615</a>
+    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="cta-btn">📞 Call Now: <?php echo PRIMARY_PHONE; ?></a>
     <p style="font-size: 0.9rem; margin-top: 15px; color: #cbd5e1;">Available 24/7 across Harmu, Kanke Road, Morabadi, Bariatu, Doranda & all Ranchi localities.</p>
   </div>
 
@@ -836,7 +852,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Explore Ranchi Relocation Guides, Service Hubs & Highway Corridors</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Navigate our complete cluster of handcrafted relocation guides and regional corridors connecting Jharkhand's capital city:</p>
     <div class="cluster-grid">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-item">📍 Ranchi Main Hub & City HQ</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-item">📍 Ranchi Main Hub & City HQ</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-item">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="cluster-link-item">🏠 Household Shifting Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-ranchi" class="cluster-link-item">🏍️ Bike Transport in Ranchi</a>

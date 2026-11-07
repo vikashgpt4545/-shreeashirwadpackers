@@ -4,6 +4,11 @@
  * Pure Core PHP Implementation
  */
 
+// Define APP_INIT constant to prevent multiple initialization
+if (!defined('APP_INIT')) {
+    define('APP_INIT', true);
+}
+
 // Start session if not already started; disable default no-cache header to allow CDN & browser caching
 if (session_status() === PHP_SESSION_NONE) {
     session_cache_limiter('');
@@ -46,8 +51,10 @@ define('BUSINESS_NAME', 'Shree Ashirwad Packers and Movers');
 define('BRAND_SHORT_NAME', 'Shree Ashirwad Packers');
 define('PRIMARY_PHONE', '+91 8409531615');
 define('PRIMARY_PHONE_RAW', '+918409531615');
+define('PRIMARY_PHONE_DISPLAY', '+91 8409531615');
 define('SECONDARY_PHONE', '+91 8409531615');
 define('SECONDARY_PHONE_RAW', '+918409531615');
+define('SECONDARY_PHONE_DISPLAY', '+91 8409531615');
 define('WHATSAPP_NUMBER', '+918409531615');
 define('WHATSAPP_LINK', 'https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20would%20like%20to%20get%20a%20free%20moving%20quote.');
 define('OFFICIAL_EMAIL', 'enquiry@shreeashirwadpackers.com');
@@ -69,6 +76,9 @@ define('BOKARO_BRANCH_CITY', 'Bokaro');
 define('BOKARO_BRANCH_STATE', 'Jharkhand');
 define('BOKARO_BRANCH_PINCODE', '827012');
 define('BOKARO_BRANCH_FULL_ADDRESS', 'Plot no - 54/c, Post office sector - 12/A, Bokaro, Jharkhand - 827012');
+define('BOKARO_GEO_LAT', 23.6693);
+define('BOKARO_GEO_LNG', 86.1511);
+define('BOKARO_MAPS_DIRECTIONS_URL', 'https://www.google.com/maps/dir/?api=1&destination=Plot+no+-+54/c,+Post+office+sector+-+12/A,+Bokaro,+Jharkhand+827012');
 
 // Verified Social Media Profiles
 define('SOCIAL_FACEBOOK', 'https://www.facebook.com/profile.php?id=100087587272831');

@@ -6,8 +6,11 @@
  * Preserving exact canonical URL: https://www.shreeashirwadpackers.com/pay-online
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Pay Online - Shree Ashirwad Packers and Movers - 8409531615";
 $meta_description = "Pay your moving invoice online securely with Shree Ashirwad Packers & Movers. Official Axis Bank Upper Bazaar Ranchi account details: 921020039005609, IFSC: UTIB0004102.";
@@ -56,7 +59,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pay-online";
         "name": "<?php echo BUSINESS_NAME; ?>",
         "url": "https://www.shreeashirwadpackers.com/",
         "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
-        "telephone": "+91-8409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
           "@type": "PostalAddress",
@@ -80,6 +84,12 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pay-online";
           {
             "@type": "ListItem",
             "position": 2,
+            "name": "Packers and Movers in Ranchi",
+            "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
             "name": "Pay Online",
             "item": "https://www.shreeashirwadpackers.com/pay-online"
           }
@@ -139,7 +149,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pay-online";
 <body class="page-template">
 
   <!-- Header -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include BASE_PATH . '/includes/header.php'; ?>
 
   <!-- 1. Hero Section -->
   <section class="pay-hero">
@@ -149,6 +159,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pay-online";
       <nav aria-label="Breadcrumb" style="margin-bottom: 20px;">
         <ul style="list-style: none; display: flex; justify-content: center; gap: 10px; margin: 0; padding: 0; font-size: 0.9rem; color: #94a3b8;">
           <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #cbd5e1; text-decoration: none;"><i class="fa fa-home"></i> Home</a></li>
+          <li><span>/</span></li>
+          <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #cbd5e1; text-decoration: none;">Packers and Movers in Ranchi</a></li>
           <li><span>/</span></li>
           <li style="color: #ffc107; font-weight: 600;">Pay Online</li>
         </ul>
@@ -697,8 +709,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pay-online";
         Our customer accounts desk is available 24/7 to assist with payment confirmations, GST invoice copies, or corporate billing queries.
       </p>
       <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-        <a href="tel:+918409531615" style="background: #ffc107; color: #0a192f; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 8px;">
-          <i class="fa-solid fa-phone"></i> Call 8409531615
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="background: #ffc107; color: #0a192f; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 8px;">
+          <i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
         </a>
         <a href="<?php echo SITE_BASE_URL; ?>/contact" style="background: #ffffff; color: #0284c7; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 8px;">
           <i class="fa-solid fa-envelope"></i> Contact Us
@@ -708,7 +720,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/pay-online";
   </section>
 
   <!-- Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include BASE_PATH . '/includes/footer.php'; ?>
 
   <!-- Copy to Clipboard Tooltip & Script -->
   <div id="copyTooltip" class="copy-success-tooltip">

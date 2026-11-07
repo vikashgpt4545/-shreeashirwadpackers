@@ -1,5 +1,10 @@
 <?php
-require_once dirname(__DIR__) . '/includes/config.php'; // Dynamic SEO Configuration for Moving Checklist & Guide
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
+
 $page_title = "The Ultimate 30-Day Moving Checklist & Guide | Free Printable PDF";
 $page_description = "Download our free printable 30-day moving checklist. Step-by-step room-by-room relocation planner, packing timeline & essential moving day tips from Shree Ashirwad Packers and Movers.";
 $canonical_url = "https://www.shreeashirwadpackers.com/moving-checklist-pdf-download";
@@ -23,11 +28,12 @@ $canonical_url = "https://www.shreeashirwadpackers.com/moving-checklist-pdf-down
         "name": "Shree Ashirwad Packers and Movers - Moving Advisory Desk",
         "image": "https://www.shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 8409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "Free Resource",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -62,8 +68,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/moving-checklist-pdf-down
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Resources",
-                "item": "https://www.shreeashirwadpackers.com/blog"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -384,7 +390,20 @@ $canonical_url = "https://www.shreeashirwadpackers.com/moving-checklist-pdf-down
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Moving Checklist PDF</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <div class="chk-page-wrap">
 
@@ -634,6 +653,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/moving-checklist-pdf-down
         <div class="chk-cluster-links">
             <h4>Explore Essential Relocation Tools & Service Guides</h4>
             <div class="chk-cluster-grid">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi HQ</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/track-consignment">Track Consignment Online</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Moving Cost Calculator</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Matrix</a>
@@ -648,7 +668,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/moving-checklist-pdf-down
     </div>
 </div>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<?php include_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -9,6 +9,7 @@ if (!defined('BASE_PATH')) {
     define('BASE_PATH', dirname(__DIR__));
 }
 require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -29,7 +30,8 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers - IBA Corporate Division",
         "image": "<?php echo SITE_BASE_URL; ?>/images/professional-loading-crew-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi",
-        "telephone": "+91-8409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 4,500 - 65,000",
         "address": {
             "@type": "PostalAddress",
@@ -63,8 +65,8 @@ require_once BASE_PATH . '/includes/config.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Corporate Relocation",
-                "item": "<?php echo SITE_BASE_URL; ?>/business-shifting/"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -85,7 +87,8 @@ require_once BASE_PATH . '/includes/config.php';
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-8409531615"
+            "url": "https://www.shreeashirwadpackers.com",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
         },
         "areaServed": {
             "@type": "State",
@@ -186,6 +189,19 @@ require_once BASE_PATH . '/includes/config.php';
 <body class="iba-wrap">
 
 <?php include_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">IBA Approved in Ranchi</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <!-- Hero Section -->
 <section class="iba-hero">
@@ -331,7 +347,7 @@ require_once BASE_PATH . '/includes/config.php';
         <h3>Connected Government & Corporate Relocation Hubs</h3>
         <p style="margin: 0 0 16px; font-size: 0.94rem; color: #475569;">Explore specialized PSU shifting pages, pricing tools, and regional relocation authority hubs:</p>
         <div class="iba-cluster-links">
-            <a href="<?php echo SITE_BASE_URL; ?>/">Packers & Movers Ranchi HQ</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers & Movers Ranchi HQ</a>
             <a href="<?php echo SITE_BASE_URL; ?>/psu-and-government-employee-relocation-ranchi">PSU & Govt Employee Moving</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bank-employee-transfer-packers-and-movers">Bank Employee Transfer Silo</a>
             <a href="<?php echo SITE_BASE_URL; ?>/defence-and-army-cantt-relocation-ranchi">Defence & Cantt Shifting</a>
@@ -368,7 +384,7 @@ require_once BASE_PATH . '/includes/config.php';
         <h2>Need Official IBA-Format Moving Bills for Claim Clearance?</h2>
         <p>Call our government transfer documentation desk for certified quotations, Bilty copies, and 100% claim-ready receipts.</p>
         <div class="iba-cta-btns">
-            <a href="tel:8409531615" class="iba-btn-call">📞 Call 8409531615</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="iba-btn-call">📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20a%20bank/PSU%20employee%20transferring%20from%20Ranchi%20and%20need%20IBA-approved%20moving%20quotations." target="_blank" rel="noopener" class="iba-btn-wa">💬 WhatsApp Official Desk</a>
         </div>
     </div>

@@ -9,6 +9,7 @@ if (!defined('BASE_PATH')) {
     define('BASE_PATH', dirname(__DIR__));
 }
 require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -29,11 +30,12 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi",
         "image": "<?php echo SITE_BASE_URL; ?>/images/packing-materials-corrugated-sheets-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packing-materials-guide-what-movers-use",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Housing Colony, Near Harmu Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -217,6 +219,19 @@ require_once BASE_PATH . '/includes/config.php';
 <body>
     <?php include BASE_PATH . '/includes/header.php'; ?>
 
+    <!-- Breadcrumbs -->
+    <div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+      <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+            <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Packing Materials Guide</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+
     <div class="pmgm-wrap">
         <!-- Hero Section -->
         <section class="pmgm-hero">
@@ -224,7 +239,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Packing Materials Guide: What Professional Movers Actually Use</h1>
                 <p>The difference between a flawless move and broken furniture comes down to one factor: the scientific grade of packaging materials used. Learn what separates certified 5-ply cartons and virgin bubble wrap from cheap market scraps used by unverified operators in Ranchi.</p>
                 <div class="pmgm-cta-group">
-                    <a href="tel:+919835565233" class="pmgm-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="pmgm-btn-call">Direct Call: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
                     <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20packing%20materials%20advice%20and%20a%20quote%20for%20Ranchi" class="pmgm-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Quote</a>
                 </div>
             </div>
@@ -474,7 +489,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Ranchi Relocation Guides & Neighborhood Hubs</h3>
                 <p>Discover localized moving solutions and expert packing tutorials across Ranchi:</p>
                 <div class="pmgm-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/how-to-pack-kitchen-for-moving">How to Pack Kitchen</a>

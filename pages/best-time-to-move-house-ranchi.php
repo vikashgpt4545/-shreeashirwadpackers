@@ -6,6 +6,7 @@
  */
 defined('BASE_PATH') || define('BASE_PATH', dirname(__DIR__));
 require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,11 +27,12 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Relocation Advisory",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/best-time-to-move-house-ranchi",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -65,8 +67,8 @@ require_once BASE_PATH . '/includes/config.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Guides",
-                "item": "<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -202,6 +204,19 @@ require_once BASE_PATH . '/includes/config.php';
 <body>
     <?php include BASE_PATH . '/includes/header.php'; ?>
 
+    <!-- Breadcrumbs -->
+    <div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+      <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+            <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Best Time to Move House</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+
     <div class="btmh-wrap">
         <!-- Hero Section -->
         <section class="btmh-hero">
@@ -209,7 +224,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Best Time to Move House in Ranchi: Seasonal & Cost Guide</h1>
                 <p>Timing your relocation strategically can save you thousands of rupees, spare you stressful weather disruptions, and secure the finest moving crews in Jharkhand. Explore month-by-month weather dynamics, calendar rate cycles, and smart booking strategies tailored for Ranchi residents.</p>
                 <div class="btmh-cta-group">
-                    <a href="tel:+919835565233" class="btmh-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btmh-btn-call">Direct Call: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
                     <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20am%20planning%20a%20home%20move%20in%20Ranchi%20and%20need%20advice%20on%20the%20best%20timing%20and%20rates" class="btmh-btn-wa" target="_blank" rel="noopener">WhatsApp Moving Timing Quote</a>
                 </div>
             </div>
@@ -486,7 +501,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h3>Explore Related Relocation Guides, Neighborhoods & Logistics Resources</h3>
                 <p>Plan your move across Ranchi with authoritative timing, cost, and route manuals:</p>
                 <div class="btmh-cluster-links">
-                    <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers Ranchi HQ</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers Ranchi HQ</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/home-shifting-checklist-ranchi">Home Shifting Checklist Ranchi</a>
                     <a href="<?php echo SITE_BASE_URL; ?>/monsoon-moving-tips-ranchi">Monsoon Moving Tips Ranchi</a>

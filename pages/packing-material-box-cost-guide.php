@@ -7,6 +7,7 @@ if (!defined('BASE_PATH')) {
     define('BASE_PATH', dirname(__DIR__));
 }
 require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -28,11 +29,12 @@ require_once BASE_PATH . '/includes/config.php';
         "image": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "@id": "<?php echo SITE_BASE_URL; ?>/packing-material-box-cost-guide#movingcompany",
         "url": "<?php echo SITE_BASE_URL; ?>/packing-material-box-cost-guide",
-        "telephone": "+918409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹3,500 - ₹65,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Road, Near Sahajanand Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -75,8 +77,8 @@ require_once BASE_PATH . '/includes/config.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Moving & Relocation Guides",
-                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -507,6 +509,19 @@ require_once BASE_PATH . '/includes/config.php';
 <body class="pmbc-wrap">
     <?php include BASE_PATH . '/includes/header.php'; ?>
 
+    <!-- Breadcrumbs -->
+    <div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+      <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+            <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Packing Material Box Cost Guide</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+
     <!-- Hero Section -->
     <section class="pmbc-hero">
         <div class="pmbc-badge-row">
@@ -518,7 +533,7 @@ require_once BASE_PATH . '/includes/config.php';
         <h1>Packing Material and Box Cost Guide (Corrugated Boxes, Bubble Wrap &amp; Rates)</h1>
         <p>A comprehensive price and specification guide for professional moving materials in India. Compare 3-ply vs 5-ply cartons, virgin air bubble wrap rolls, moisture-proof stretch film, custom wooden crating costs, and calculate the exact packaging quantities required for your apartment.</p>
         <div class="pmbc-btn-row">
-            <a href="tel:+918409531615" class="pmbc-btn-call">Order Moving Boxes: 8409531615</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="pmbc-btn-call">Order Moving Boxes: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20moving%20boxes%20and%20packing%20materials" class="pmgst-btn-whatsapp" target="_blank" rel="noopener">WhatsApp Supplies Desk</a>
         </div>
     </section>
@@ -785,7 +800,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-furniture-shifting-service">Single Item Shifting Services</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/household-goods-storage-and-warehousing">Household Storage &amp; Warehousing</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/fragile-antique-and-piano-moving-service">Fine Art &amp; Piano Moving Service</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/">Shree Ashirwad Central Company Headquarters</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Shree Ashirwad Central Company Headquarters</a>
             </div>
         </div>
 
@@ -794,7 +809,7 @@ require_once BASE_PATH . '/includes/config.php';
             <h2>Order Certified Heavy-Duty Moving Supplies Today</h2>
             <p>Get premium 5-ply cartons, virgin bubble wrap rolls, and custom timber crating delivered directly to your home. Protect your valuable household assets with certified professional moving materials.</p>
             <div class="pmbc-btn-row">
-                <a href="tel:+918409531615" class="pmbc-btn-call">Order Moving Boxes: 8409531615</a>
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="pmbc-btn-call">Order Moving Boxes: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
                 <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20please%20send%20me%20moving%20boxes%20quote" class="pmbc-btn-whatsapp" target="_blank" rel="noopener">WhatsApp Supplies Desk</a>
             </div>
         </div>

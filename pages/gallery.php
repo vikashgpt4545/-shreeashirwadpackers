@@ -8,8 +8,11 @@
  * Preserving exact canonical URL: https://www.shreeashirwadpackers.com/gallery
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -174,7 +177,7 @@ require_once __DIR__ . '/includes/seo.php';
 <body>
 
   <!-- 1. Global Header Navigation -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include BASE_PATH . '/includes/header.php'; ?>
 
   <main id="mainContent">
 
@@ -185,6 +188,8 @@ require_once __DIR__ . '/includes/seo.php';
       <div class="container page-hero-wrapper">
         <nav class="breadcrumb-trail" aria-label="Breadcrumb">
           <a href="<?php echo SITE_BASE_URL; ?>/" title="Return to Shree Ashirwad Packers Homepage">Home</a>
+          <span class="breadcrumb-sep">&gt;</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi">Packers and Movers in Ranchi</a>
           <span class="breadcrumb-sep">&gt;</span>
           <span aria-current="page">Work Proof & Gallery</span>
         </nav>
@@ -941,7 +946,7 @@ require_once __DIR__ . '/includes/seo.php';
   </main>
 
   <!-- Global Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include BASE_PATH . '/includes/footer.php'; ?>
 
   <!-- Interactive Gallery Filter JavaScript -->
   <script>

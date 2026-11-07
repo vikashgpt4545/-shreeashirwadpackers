@@ -394,6 +394,12 @@ function render_seo_tags($page_identifier = 'home') {
         {
           "@type": "ListItem",
           "position": 2,
+          "name": "Packers and Movers in Ranchi",
+          "item": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/packers-and-movers-in-ranchi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
           "name": "About Us",
           "item": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/about"
         }
@@ -1807,6 +1813,12 @@ function render_seo_tags($page_identifier = 'home') {
         {
           "@type": "ListItem",
           "position": 2,
+          "name": "Packers and Movers in Ranchi",
+          "item": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/packers-and-movers-in-ranchi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
           "name": "Work Proof & Gallery",
           "item": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/gallery"
         }
