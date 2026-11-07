@@ -53,8 +53,8 @@ $meta_keywords = "household shifting services in ranchi, house shifting in ranch
   <meta name="theme-color" content="#1a2b4c">
   <meta name="geo.region" content="IN-JH">
   <meta name="geo.placename" content="Ranchi">
-  <meta name="geo.position" content="23.3441;85.3096">
-  <meta name="ICBM" content="23.3441, 85.3096">
+  <meta name="geo.position" content="23.3639813;85.3090259">
+  <meta name="ICBM" content="23.3639813, 85.3090259">
 
   <!-- Favicons -->
   <link rel="icon" type="image/png" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
@@ -96,7 +96,7 @@ $meta_keywords = "household shifting services in ranchi, house shifting in ranch
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -104,10 +104,10 @@ $meta_keywords = "household shifting services in ranchi, house shifting in ranch
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3441,
-      "longitude": 85.3096
+      "latitude": 23.3639813,
+      "longitude": 85.3090259
     },
-    "hasMap": "https://maps.google.com/?q=23.3441,85.3096",
+    "hasMap": "https://maps.google.com/?q=23.3639813,85.3090259",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -408,7 +408,7 @@ $meta_keywords = "household shifting services in ranchi, house shifting in ranch
             <div style="display:flex; gap:14px; flex-wrap:wrap;">
               <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="background:#0f223d; color:#ffffff; padding:12px 24px; border-radius:8px; font-weight:700; text-decoration:none; font-size:0.95rem; display:inline-flex; align-items:center; gap:8px;">
                 <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-                Book Home Move: 9835565233
+                Book Home Move: 8409531615
               </a>
               <a href="#rates-matrix" style="background:#f1f5f9; color:#1e293b; padding:12px 22px; border-radius:8px; font-weight:600; text-decoration:none; font-size:0.95rem;">
                 View Tariff Matrix &darr;

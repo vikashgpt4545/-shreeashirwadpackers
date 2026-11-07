@@ -12,7 +12,7 @@ include_once __DIR__ . '/../includes/config.php';
 <head>
   <meta charset="utf-8">
   <title>Packers and Movers in Harmu Ranchi | Best Shifting Services - Shree Ashirwad</title>
-  <meta name="description" content="Looking for the best packers and movers in Harmu Ranchi? Shree Ashirwad Packers offers Housing Colony, Harmu Bypass, Sahjanand Chowk moves & car transport. Call +91 9835565233.">
+  <meta name="description" content="Looking for the best packers and movers in Harmu Ranchi? Shree Ashirwad Packers offers Housing Colony, Harmu Bypass, Sahjanand Chowk moves & car transport. Call +91 8409531615.">
   <meta name="keywords" content="packers and movers in harmu ranchi, best packers and movers in harmu ranchi, movers and packers near me in harmu ranchi, packers and movers harmu, household shifting harmu ranchi, movers harmu housing colony, packers and movers sahjanand chowk ranchi, harmu bypass shifting, car transport harmu ranchi, bike parcel harmu, packing and moving company in harmu ranchi, local shifting in harmu ranchi">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow">
@@ -26,11 +26,11 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Harmu Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-harmu-ranchi",
-    "telephone": "+91 9835565233",
+    "telephone": "+91 8409531615",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony near Sahjanand Chowk & Harmu Bypass",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Harmu, Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -38,8 +38,8 @@ include_once __DIR__ . '/../includes/config.php';
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3548,
-      "longitude": 85.3129
+      "latitude": 23.3639813,
+      "longitude": 85.3090259
     },
     "areaServed": {
       "@type": "City",
@@ -432,7 +432,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Harmu Ranchi</h1>
         <p>Looking for the best packers and movers in Harmu Ranchi? <strong>Shree Ashirwad Packers and Movers</strong> provides trusted household shifting, office relocation, bike transport, car transport, and complete moving solutions at affordable prices across Ranchi's most prestigious residential sector. As the top-rated packers and movers near Harmu Housing Colony and Harmu Bypass, we help families, senior civil servants, judicial officers, corporate executives, and business entrepreneurs relocate locally and across Jharkhand without hassle. We cover major localities including Harmu Housing Colony, Harmu Bypass Road, Sahjanand Chowk, Patel Chowk, Vidhyapati Nagar, Kishoreganj, and Argora border for fast and reliable shifting services. Whether you need local shifting in Harmu, intercity relocation across India, or apartment moving, our trained staff ensures secure handling, pincode-based scheduling (PIN: 834002), same-day shifting assistance, floor-to-floor handling, and dependable relocation planning backed by full transit insurance.</p>
-        <a href="tel:+919835565233" class="hl-hrm-cta-btn">&#128222; Call Now: +91 9835565233</a>
+        <a href="tel:+918409531615" class="hl-hrm-cta-btn">&#128222; Call Now: +91 8409531615</a>
       </div>
       <div class="hl-hrm-hero-card">
         <h3>Fast Relocation Estimate</h3>
@@ -440,7 +440,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Harmu Bypass &amp; Sahjanand Chowk, Ranchi
         </div>
         <div class="hl-hrm-contact-item">
-          <span>Helpline:</span> +91 9835565233
+          <span>Helpline:</span> +91 8409531615
         </div>
         <div class="hl-hrm-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -497,7 +497,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Harmu</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Harmu</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Harmu</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Harmu</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Harmu</strong>. Call <strong><a href="tel:+918409531615" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -515,7 +515,7 @@ include_once __DIR__ . '/../includes/config.php';
           Customers choose our movers and packers service in Harmu Ranchi for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning. We provide nearby packers and movers support with pincode-based scheduling (PIN: 834002), same-day shifting assistance, floor-to-floor handling, and flexible moving options across Harmu Bypass and Housing Colony.
         </p>
         <p style="margin-bottom: 0; font-size: 15px; line-height: 1.6; color: #334155;">
-          From luxury duplex bungalows in Harmu Housing Board to high-rise flats along Harmu Bypass and residential homes near Sahjanand Chowk and Vidhyapati Nagar, our packing and moving company in Harmu delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Harmu Ranchi, our local team is available 24/7 at <strong>+91 9835565233</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
+          From luxury duplex bungalows in Harmu Housing Board to high-rise flats along Harmu Bypass and residential homes near Sahjanand Chowk and Vidhyapati Nagar, our packing and moving company in Harmu delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Harmu Ranchi, our local team is available 24/7 at <strong>+91 8409531615</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
         </p>
       </div>
     </article>

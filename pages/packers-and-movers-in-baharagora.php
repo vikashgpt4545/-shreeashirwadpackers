@@ -4,7 +4,7 @@
  * Pure Core PHP Implementation
  * 
  * Target URL: https://www.shreeashirwadpackers.com/packers-and-movers-in-baharagora
- * Title: Packers and Movers in Baharagora - 9835565233
+ * Title: Packers and Movers in Baharagora - 8409531615
  * Region: Baharagora (Tri-State Junction of Jharkhand, West Bengal & Odisha, NH-18 & NH-49), East Singhbhum, Jharkhand
  * Coordinates: 22.2833° N, 86.7167° E
  */
@@ -65,7 +65,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bah
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg",
         "description": "Leading packers and movers in Baharagora, East Singhbhum situated at the tri-state junction of Jharkhand, Bengal, and Odisha providing 5-layer protective packing, household shifting, interstate border transit, and IBA-approved documentation.",
-        "telephone": "+919835565233",
+        "telephone": "+918409531615",
         "priceRange": "₹3,000 - ₹50,000",
         "keywords": "packers and movers in baharagora, best packers and movers in baharagora, movers and packers near me in baharagora, household shifting in baharagora, packers and movers baharagora east singhbhum, packers and movers matihana, car transport baharagora, bike parcel baharagora, reliable movers and packers baharagora, packing and moving company in baharagora, iba approved packers baharagora",
         "address": {
@@ -284,11 +284,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bah
 
       <!-- CTAs -->
       <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
-        <a href="tel:+919835565233" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
+        <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-          Call: +91 9835565233
+          Call: +91 8409531615
         </a>
-        <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Baharagora" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Baharagora" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
           WhatsApp Instant Quote
         </a>
@@ -402,7 +402,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bah
                     If you are searching for reliable <strong>movers and packers near me in Baharagora</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Baharagora</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Baharagora</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Baharagora</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Baharagora</strong>. Call <strong><a href="tel:+918409531615" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -950,14 +950,14 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bah
         <div style="margin-bottom: 18px;">
           <strong style="display: block; font-size: 13px; color: #64748b; text-transform: uppercase; margin-bottom: 4px;">Phone / 24x7 Helpline:</strong>
           <p style="font-size: 18px; font-weight: 800; color: #1e3a8a; margin: 0;">
-            <a href="tel:+919835565233" style="color: #1e3a8a; text-decoration: none;">+91 9835565233</a>
+            <a href="tel:+918409531615" style="color: #1e3a8a; text-decoration: none;">+91 8409531615</a>
           </p>
         </div>
 
         <div style="margin-bottom: 18px;">
           <strong style="display: block; font-size: 13px; color: #64748b; text-transform: uppercase; margin-bottom: 4px;">WhatsApp Instant Booking:</strong>
           <p style="font-size: 15px; font-weight: 700; color: #16a34a; margin: 0;">
-            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Baharagora" target="_blank" rel="noopener" style="color: #16a34a; text-decoration: none;">+91 9835565233 (Chat Online)</a>
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Baharagora" target="_blank" rel="noopener" style="color: #16a34a; text-decoration: none;">+91 8409531615 (Chat Online)</a>
           </p>
         </div>
 
@@ -969,7 +969,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bah
         </div>
 
         <div style="padding-top: 14px; border-top: 1px solid #f1f5f9;">
-          <a href="tel:+919835565233" style="display: inline-block; width: 100%; text-align: center; background: #f39c12; color: #ffffff; font-weight: 700; padding: 12px; border-radius: 8px; text-decoration: none; box-sizing: border-box;">
+          <a href="tel:+918409531615" style="display: inline-block; width: 100%; text-align: center; background: #f39c12; color: #ffffff; font-weight: 700; padding: 12px; border-radius: 8px; text-decoration: none; box-sizing: border-box;">
             Call Now for Instant Booking
           </a>
         </div>
@@ -1132,10 +1132,10 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bah
       Get in touch with our certified relocation specialists today for a free on-site survey and a binding, transparent price quotation with zero hidden charges.
     </p>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
-      <a href="tel:+919835565233" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 30px; border-radius: 8px; text-decoration: none; font-size: 16px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4);">
-        <i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 9835565233
+      <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 30px; border-radius: 8px; text-decoration: none; font-size: 16px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4);">
+        <i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 8409531615
       </a>
-      <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Baharagora" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 30px; border-radius: 8px; text-decoration: none; font-size: 16px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
+      <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Baharagora" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 30px; border-radius: 8px; text-decoration: none; font-size: 16px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
         <i class="fa-brands fa-whatsapp" style="margin-right: 8px;"></i> WhatsApp Quote
       </a>
     </div>

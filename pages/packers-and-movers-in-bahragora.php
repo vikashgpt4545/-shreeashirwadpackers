@@ -1,8 +1,8 @@
 <?php
-// Dynamic SEO Configuration for Bahragora (Jharkhand-Bengal-Odisha Tri-Junction Gateway)
+require_once dirname(__DIR__) . '/includes/config.php'; // Dynamic SEO Configuration for Bahragora (Jharkhand-Bengal-Odisha Tri-Junction Gateway)
 $page_title = "Packers and Movers in Bahragora | Safe Tri-State Home & Vehicle Shifting";
-$page_description = "Top packers and movers in Bahragora, East Singhbhum. Safe home shifting, commercial logistics, car & bike transport across Jharkhand, Bengal & Odisha. Call +91 9835565233.";
-$canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahragora";
+$page_description = "Top packers and movers in Bahragora, East Singhbhum. Safe home shifting, commercial logistics, car & bike transport across Jharkhand, Bengal & Odisha. Call +91 8409531615.";
+$canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-baharagora";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,9 +21,9 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Bahragora Branch",
-        "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "+91 8409531615",
         "priceRange": "₹4,000 - ₹34,000",
         "address": {
             "@type": "PostalAddress",
@@ -57,13 +57,13 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Packers and Movers in Jamshedpur",
-                "item": "https://shreeashirwadpackers.com/packers-and-movers-in-jamshedpur"
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-jamshedpur"
             },
             {
                 "@type": "ListItem",
@@ -382,7 +382,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
     <section class="bhg-hero-banner">
         <h1 class="bhg-hero-title">Packers and Movers in Bahragora</h1>
         <p class="bhg-hero-subtitle">Specialized Tri-State Relocation & Logistics Connecting Jharkhand, West Bengal & Odisha. Sealed Weatherproof Containers, 4-Layer Heavy Packing & IBA Approved Billing.</p>
-        <a href="tel:+919835565233" class="bhg-cta-btn">Book Move in Bahragora: +91 9835565233</a>
+        <a href="tel:+918409531615" class="bhg-cta-btn">Book Move in Bahragora: +91 8409531615</a>
     </section>
 
     <!-- Main Container -->
@@ -424,7 +424,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-bahrago
                     If you are searching for reliable <strong>movers and packers near me in Bahragora</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Bahragora</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Bahragora</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Bahragora</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Bahragora</strong>. Call <strong><a href="tel:+918409531615" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>

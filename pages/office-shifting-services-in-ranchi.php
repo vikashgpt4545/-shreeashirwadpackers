@@ -53,8 +53,8 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
   <meta name="theme-color" content="#1a2b4c">
   <meta name="geo.region" content="IN-JH">
   <meta name="geo.placename" content="Ranchi">
-  <meta name="geo.position" content="23.3441;85.3096">
-  <meta name="ICBM" content="23.3441, 85.3096">
+  <meta name="geo.position" content="23.3639813;85.3090259">
+  <meta name="ICBM" content="23.3639813, 85.3090259">
 
   <!-- Favicons -->
   <link rel="icon" type="image/png" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
@@ -96,7 +96,7 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque, Company Purchase Order",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -104,8 +104,8 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3441,
-      "longitude": 85.3096
+      "latitude": 23.3639813,
+      "longitude": 85.3090259
     },
     "openingHoursSpecification": [
       {
@@ -145,7 +145,7 @@ $meta_keywords = "office shifting services in ranchi, office relocation services
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
-      "reviewCount": "780",
+      "reviewCount": "703",
       "bestRating": "5",
       "worstRating": "1"
     }

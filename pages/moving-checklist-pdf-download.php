@@ -1,8 +1,8 @@
 <?php
-// Dynamic SEO Configuration for Moving Checklist & Guide
+require_once dirname(__DIR__) . '/includes/config.php'; // Dynamic SEO Configuration for Moving Checklist & Guide
 $page_title = "The Ultimate 30-Day Moving Checklist & Guide | Free Printable PDF";
 $page_description = "Download our free printable 30-day moving checklist. Step-by-step room-by-room relocation planner, packing timeline & essential moving day tips from Shree Ashirwad Packers and Movers.";
-$canonical_url = "https://shreeashirwadpackers.com/moving-checklist-pdf-download";
+$canonical_url = "https://www.shreeashirwadpackers.com/moving-checklist-pdf-download";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,13 +21,13 @@ $canonical_url = "https://shreeashirwadpackers.com/moving-checklist-pdf-download
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Moving Advisory Desk",
-        "image": "https://shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
+        "image": "https://www.shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "+91 8409531615",
         "priceRange": "Free Resource",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Road, Near Sahjanand Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -35,8 +35,8 @@ $canonical_url = "https://shreeashirwadpackers.com/moving-checklist-pdf-download
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3512,
-            "longitude": 85.3129
+            "latitude": 23.3639813,
+            "longitude": 85.3090259
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -57,13 +57,13 @@ $canonical_url = "https://shreeashirwadpackers.com/moving-checklist-pdf-download
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Resources",
-                "item": "https://shreeashirwadpackers.com/blog"
+                "item": "https://www.shreeashirwadpackers.com/blog"
             },
             {
                 "@type": "ListItem",
@@ -586,7 +586,7 @@ $canonical_url = "https://shreeashirwadpackers.com/moving-checklist-pdf-download
 
         <div class="chk-highlight-box">
             <h4>Ready to Book Your Verified Moving Team?</h4>
-            <p>Ensure a hassle-free move with Ranchi’s most trusted relocation specialists. Call <a href="tel:+919835565233"><strong>+91 9835565233</strong></a> for a free survey, calculate exact distance tariffs using our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a>, or track active shipments on our <a href="<?php echo SITE_BASE_URL; ?>/track-consignment">Consignment Tracking Portal</a>.</p>
+            <p>Ensure a hassle-free move with Ranchi’s most trusted relocation specialists. Call <a href="tel:+918409531615"><strong>+91 8409531615</strong></a> for a free survey, calculate exact distance tariffs using our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a>, or track active shipments on our <a href="<?php echo SITE_BASE_URL; ?>/track-consignment">Consignment Tracking Portal</a>.</p>
         </div>
 
         <!-- Section 6: Additional Images and Guidance -->

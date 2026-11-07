@@ -50,8 +50,8 @@ $meta_keywords = "packers and movers in ranchi, best packers and movers in ranch
   <!-- Geo Tags -->
   <meta name="geo.region" content="IN-JH">
   <meta name="geo.placename" content="Ranchi">
-  <meta name="geo.position" content="23.3441;85.3096">
-  <meta name="ICBM" content="23.3441, 85.3096">
+  <meta name="geo.position" content="23.3639813;85.3090259">
+  <meta name="ICBM" content="23.3639813, 85.3090259">
 
   <!-- Favicons -->
   <link rel="icon" type="image/png" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
@@ -80,7 +80,7 @@ $meta_keywords = "packers and movers in ranchi, best packers and movers in ranch
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/household-goods-truck-loading-ranchi.jpg",
     "description": "<?php echo htmlspecialchars($page_description, ENT_QUOTES, 'UTF-8'); ?>",
-    "telephone": "+919835565233",
+    "telephone": "+918409531615",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "INR 3,500 - 45,000",
     "currenciesAccepted": "INR",
@@ -95,8 +95,8 @@ $meta_keywords = "packers and movers in ranchi, best packers and movers in ranch
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3441,
-      "longitude": 85.3096
+      "latitude": 23.3639813,
+      "longitude": 85.3090259
     },
     "hasMap": "https://www.google.com/maps?cid=17894179374492933119",
     "aggregateRating": {
@@ -239,7 +239,7 @@ $meta_keywords = "packers and movers in ranchi, best packers and movers in ranch
         "name": "How do I book reliable movers and packers near me in Ranchi?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "You can call our Ranchi customer support at +91 9835565233 or submit your requirements online for an immediate free doorstep physical survey or video estimation and instant written quote."
+          "text": "You can call our Ranchi customer support at +91 8409531615 or submit your requirements online for an immediate free doorstep physical survey or video estimation and instant written quote."
         }
       }
     ]
@@ -1080,7 +1080,7 @@ $meta_keywords = "packers and movers in ranchi, best packers and movers in ranch
         <div class="pmr-faq-item">
           <h3>How do I book reliable movers and packers near me in Ranchi?</h3>
           <p>
-            You can call our Ranchi customer support at +91 9835565233 or submit your requirements online for an immediate free doorstep physical survey or video estimation and instant written quote.
+            You can call our Ranchi customer support at +91 8409531615 or submit your requirements online for an immediate free doorstep physical survey or video estimation and instant written quote.
           </p>
         </div>
       </div>

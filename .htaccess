@@ -53,17 +53,20 @@ AddDefaultCharset UTF-8
     ExpiresByType application/javascript "access plus 1 month"
 </IfModule>
 
-# Block direct HTTP access to sensitive JSON files (protects lead backups)
-<FilesMatch "\.json$">
+# Block direct HTTP access to sensitive JSON & SQLite files (protects lead backups & DB)
+<FilesMatch "\.(json|sqlite)$">
     Require all denied
 </FilesMatch>
+
+# Block direct HTTP access to internal PHP includes and database directory
+RewriteRule ^(includes|database)/ - [F,L]
 
 # 301 Permanent Redirects for 9 Core Services to Canonical Trailing Slash
 RewriteRule ^(residential-shifting|business-shifting|vehicle-shifting|packing-and-unpacking|loading-and-unloading-services|warehouse-service|international-service|domestics-service|insurance-service)(/index)?(\.php)?$ /$1/ [R=301,L]
 
-# 301 Permanent Redirects for Legacy HTML Files
+# 301 Permanent Redirects for Legacy HTML & Contact Slugs
 RewriteRule ^index\.html$ / [R=301,L]
-RewriteRule ^contact-us\.html$ /contact [R=301,L]
+RewriteRule ^contact-us(\.html|\.php)?/?$ /contact [R=301,L]
 
 # 301 Permanent Redirects to Rescue Historical Backlinks from External Domains
 RewriteRule ^packers-and-movers-in-dhanbad-for-home-and-vehicles-move(\.php)?/?$ /packers-and-movers-in-dhanbad [R=301,L]
@@ -85,6 +88,7 @@ RewriteRule ^packers-and-movers-in-ranchi-jharkhand(\.php)?/?$ / [R=301,L]
 RewriteRule ^professional-packers-and-movers-in-ranchi(\.php)?/?$ / [R=301,L]
 
 # 301 Permanent Redirects for Duplicate Spelling Slugs and Regional Slugs
+RewriteRule ^packers-and-movers-in-bahragora(\.php)?/?$ /packers-and-movers-in-baharagora [R=301,L]
 RewriteRule ^packers-and-movers-in-nagaruntari(\.php)?/?$ /packers-and-movers-in-nagar-untari [R=301,L]
 RewriteRule ^packers-and-movers-in-husainabad(\.php)?/?$ /packers-and-movers-in-hussainabad [R=301,L]
 RewriteRule ^packers-and-movers-in-garhwa(\.php)?/?$ /packers-and-movers-in-gharwha [R=301,L]

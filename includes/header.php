@@ -14,7 +14,7 @@ $base_url = SITE_BASE_URL;
       <span class="topbar-item">
         <svg viewBox="0 0 24 24" width="14" height="14"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
         <span>Call:</span>
-        <a href="tel:+918409531615" title="Call Shree Ashirwad Packers: 8409531615">8409531615</a> / <a href="tel:+919835565233" title="Call Shree Ashirwad Packers: 9835565233">9835565233</a>
+        <a href="tel:+918409531615" title="Call Shree Ashirwad Packers: 8409531615">8409531615</a>
       </span>
       <span class="topbar-item">
         <svg viewBox="0 0 24 24" width="14" height="14"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>

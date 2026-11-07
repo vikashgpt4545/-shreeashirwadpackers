@@ -14,6 +14,12 @@ $request_uri = isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : '/';
 $path = parse_url($request_uri, PHP_URL_PATH);
 $path = '/' . ltrim($path ? $path : '/', '/');
 
+// Block direct HTTP access to sensitive database, JSON, and include files
+if (preg_match('#^/(database|includes)/|\.(sqlite|json)$#i', $path)) {
+    http_response_code(403);
+    exit('403 Forbidden');
+}
+
 // Serve static assets directly when running under PHP built-in dev server
 if (php_sapi_name() === 'cli-server' && is_file(__DIR__ . $path)) {
     return false;
@@ -73,6 +79,7 @@ $redirect_map = [
     'professional-packers-and-movers-in-ranchi' => '/',
 
     // Spelling Duplicates & Regional Slugs
+    'packers-and-movers-in-bahragora' => '/packers-and-movers-in-baharagora',
     'packers-and-movers-in-nagaruntari' => '/packers-and-movers-in-nagar-untari',
     'packers-and-movers-in-husainabad' => '/packers-and-movers-in-hussainabad',
     'packers-and-movers-in-garhwa' => '/packers-and-movers-in-gharwha',

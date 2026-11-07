@@ -74,7 +74,7 @@ $csrf_token = generate_csrf_token();
           </div>
           <span style="font-weight: 800; color: #ffffff;">4.9 / 5.0 Google Rating</span>
           <span style="color: rgba(255,255,255,0.6);">&bull;</span>
-          <span style="color: rgba(255,255,255,0.85); font-size: 0.9rem;">664+ Verified Customer Reviews in Ranchi</span>
+          <span style="color: rgba(255,255,255,0.85); font-size: 0.9rem;">703+ Verified Customer Reviews in Ranchi</span>
         </div>
         <div class="hero-cta-buttons" style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; margin-top: 24px;">
           <a href="tel:+918409531615" class="btn-primary-custom" title="Call Shree Ashirwad 24/7 Helpline: 8409531615">
@@ -101,7 +101,7 @@ $csrf_token = generate_csrf_token();
             <div class="credential-info">
               <span class="credential-number">24/7 Helpline</span>
               <span class="credential-title">Instant Support Desk</span>
-              <span class="credential-sub">8409531615 &bull; 9835565233</span>
+              <span class="credential-sub">8409531615</span>
             </div>
           </div>
 
@@ -167,10 +167,10 @@ $csrf_token = generate_csrf_token();
             </div>
             <h3 style="font-size: 1.25rem; color: #0f223d; font-weight: 700; margin-bottom: 8px;">Ranchi Headquarters</h3>
             <p style="font-size: 0.92rem; color: #64748b; line-height: 1.5; margin-bottom: 16px;">
-              <strong>Office:</strong> Morabadi / Bariatu Road, Near Oxygen Park, Ranchi, Jharkhand - 834008<br>
+              <strong>Office:</strong> Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002<br>
               <strong>Hours:</strong> Mon – Sun: 8:00 AM – 9:00 PM
             </p>
-            <a href="https://maps.google.com/?q=23.3703,85.3253" target="_blank" rel="noopener noreferrer" class="read-more-link" title="Open Shree Ashirwad Ranchi Office on Google Maps" style="color: #ff6a28; font-weight: 600; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
+            <a href="<?php echo GOOGLE_MAPS_DIRECTIONS_URL; ?>" target="_blank" rel="noopener noreferrer" class="read-more-link" title="Open Shree Ashirwad Ranchi Office on Google Maps" style="color: #ff6a28; font-weight: 600; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
               <span>Get Directions on Map</span>
               <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </a>
@@ -184,7 +184,6 @@ $csrf_token = generate_csrf_token();
             <h3 style="font-size: 1.25rem; color: #0f223d; font-weight: 700; margin-bottom: 8px;">24/7 Phone Helpline</h3>
             <p style="font-size: 0.92rem; color: #64748b; line-height: 1.5; margin-bottom: 16px;">
               <strong>Primary Desk:</strong> <a href="tel:+918409531615" title="Call Primary Support: 8409531615" style="color: #0284c7; text-decoration: none; font-weight: 600;">+91 84095 31615</a><br>
-              <strong>Operations Line:</strong> <a href="tel:+919835565233" title="Call Operations Line: 9835565233" style="color: #0284c7; text-decoration: none; font-weight: 600;">+91 98355 65233</a><br>
               <strong>Availability:</strong> 24 Hours / 365 Days
             </p>
             <a href="tel:+918409531615" class="read-more-link" title="Call Shree Ashirwad Helpline Now" style="color: #0284c7; font-weight: 600; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
@@ -200,7 +199,7 @@ $csrf_token = generate_csrf_token();
             </div>
             <h3 style="font-size: 1.25rem; color: #0f223d; font-weight: 700; margin-bottom: 8px;">WhatsApp Support</h3>
             <p style="font-size: 0.92rem; color: #64748b; line-height: 1.5; margin-bottom: 16px;">
-              <strong>WhatsApp Number:</strong> +91 98355 65233<br>
+              <strong>WhatsApp Number:</strong> +91 84095 31615<br>
               <strong>Feature:</strong> Send home videos or inventory photos for instant 5-minute binding estimates and live GPS status.
             </p>
             <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener noreferrer" class="read-more-link" title="Open Chat on WhatsApp for Shree Ashirwad Packers" style="color: #16a34a; font-weight: 600; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
@@ -216,10 +215,10 @@ $csrf_token = generate_csrf_token();
             </div>
             <h3 style="font-size: 1.25rem; color: #0f223d; font-weight: 700; margin-bottom: 8px;">Corporate & Billing Desk</h3>
             <p style="font-size: 0.92rem; color: #64748b; line-height: 1.5; margin-bottom: 16px;">
-              <strong>Official Email:</strong> <a href="mailto:info@shreeashirwadpackers.com" title="Send Official Email to Shree Ashirwad Packers" style="color: #9333ea; text-decoration: none; font-weight: 600;">info@shreeashirwadpackers.com</a><br>
+              <strong>Official Email:</strong> <a href="mailto:enquiry@shreeashirwadpackers.com" title="Send Official Email to Shree Ashirwad Packers" style="color: #9333ea; text-decoration: none; font-weight: 600;">enquiry@shreeashirwadpackers.com</a><br>
               <strong>Services:</strong> B2B corporate contracts, GST invoicing, IBA bill audits, and tender quotes.
             </p>
-            <a href="mailto:info@shreeashirwadpackers.com" class="read-more-link" title="Compose Email to info@shreeashirwadpackers.com" style="color: #9333ea; font-weight: 600; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
+            <a href="mailto:enquiry@shreeashirwadpackers.com" class="read-more-link" title="Compose Email to enquiry@shreeashirwadpackers.com" style="color: #9333ea; font-weight: 600; font-size: 0.9rem; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
               <span>Send Official Email</span>
               <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
             </a>
@@ -347,7 +346,7 @@ $csrf_token = generate_csrf_token();
                 Visit Our Central Office in Ranchi
               </h3>
               <p style="font-size: 0.95rem; color: #64748b; line-height: 1.6; margin-bottom: 20px;">
-                We warmly welcome our clients to visit our operational headquarters in Morabadi, Ranchi. You can meet our senior move coordinators, inspect samples of our 4-layer packing materials (100 GSM bubble wrap, 5-ply cartons, and foam edge protectors), verify our IBA and ISO registration documents, and finalize your shifting contract in person.
+                We warmly welcome our clients to visit our operational headquarters in Harmu, Ranchi. You can meet our senior move coordinators, inspect samples of our 4-layer packing materials (100 GSM bubble wrap, 5-ply cartons, and foam edge protectors), verify our IBA and ISO registration documents, and finalize your shifting contract in person.
               </p>
 
               <div style="display: flex; flex-direction: column; gap: 16px; margin-bottom: 24px;">
@@ -358,7 +357,7 @@ $csrf_token = generate_csrf_token();
                   <div>
                     <h4 style="font-size: 0.95rem; font-weight: 700; color: #0f223d; margin-bottom: 2px;">Registered Office Address</h4>
                     <p style="font-size: 0.9rem; color: #475569; margin: 0; line-height: 1.4;">
-                      Morabadi / Bariatu Road, Near Oxygen Park, Ranchi, Jharkhand - 834008, India.
+                      Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002, India.
                     </p>
                   </div>
                 </div>
@@ -451,7 +450,7 @@ $csrf_token = generate_csrf_token();
                 <span style="background: #dcfce7; color: #16a34a; font-size: 0.75rem; font-weight: 700; padding: 3px 8px; border-radius: 6px; text-transform: uppercase;">Headquarters</span>
               </div>
               <p style="font-size: 0.9rem; color: #64748b; line-height: 1.5; margin-bottom: 12px;">
-                <strong>Address:</strong> Morabadi / Bariatu Road, Near Oxygen Park, Ranchi - 834008<br>
+                <strong>Address:</strong> Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002<br>
                 <strong>Facilities:</strong> Central Fleet Depot, 10,000 sq.ft. Pest-Controlled Storage Warehouse, Heavy Rigging Equipment, 24/7 Control Desk.<br>
                 <strong>Coverage:</strong> Harmu, Kanke, Bariatu, Lalpur, Doranda, Ashok Nagar, Namkum, Tupudana, Dhurwa, and surrounding sectors.
               </p>
@@ -470,13 +469,13 @@ $csrf_token = generate_csrf_token();
                 <span style="background: #eff6ff; color: #2563eb; font-size: 0.75rem; font-weight: 700; padding: 3px 8px; border-radius: 6px; text-transform: uppercase;">Direct Branch</span>
               </div>
               <p style="font-size: 0.9rem; color: #64748b; line-height: 1.5; margin-bottom: 12px;">
-                <strong>Address:</strong> Chas Bypass Road, Near ITI More, Bokaro Steel City - 827013<br>
+                <strong>Address:</strong> Plot no - 54/c, Post office sector - 12/A, Bokaro - 827012<br>
                 <strong>Facilities:</strong> Dedicated BSL PSU Officer Transfer Desk, Heavy Plant Equipment Shifting, Secure Short-Term Household Storage.<br>
                 <strong>Coverage:</strong> Chas, Sector 1 to 12, Camp 2, Bokaro Thermal, Bermo, and Chandrapura.
               </p>
             </div>
             <div style="padding-top: 12px; border-top: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center;">
-              <span style="font-size: 0.85rem; font-weight: 600; color: #0f223d;">Branch Phone: 9835565233</span>
+              <span style="font-size: 0.85rem; font-weight: 600; color: #0f223d;">Branch Phone: 8409531615</span>
               <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" title="Visit Bokaro Packers and Movers Branch" style="color: #ff6a28; text-decoration: none; font-size: 0.85rem; font-weight: 600;">View Branch &rarr;</a>
             </div>
           </div>
@@ -514,7 +513,7 @@ $csrf_token = generate_csrf_token();
               </p>
             </div>
             <div style="padding-top: 12px; border-top: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center;">
-              <span style="font-size: 0.85rem; font-weight: 600; color: #0f223d;">Branch Phone: 9835565233</span>
+              <span style="font-size: 0.85rem; font-weight: 600; color: #0f223d;">Branch Phone: 8409531615</span>
               <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur" title="Visit Jamshedpur Packers and Movers Branch" style="color: #ff6a28; text-decoration: none; font-size: 0.85rem; font-weight: 600;">View Branch &rarr;</a>
             </div>
           </div>
@@ -552,7 +551,7 @@ $csrf_token = generate_csrf_token();
               </p>
             </div>
             <div style="padding-top: 12px; border-top: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center;">
-              <span style="font-size: 0.85rem; font-weight: 600; color: #0f223d;">Branch Phone: 9835565233</span>
+              <span style="font-size: 0.85rem; font-weight: 600; color: #0f223d;">Branch Phone: 8409531615</span>
               <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-deoghar" title="Visit Deoghar Packers and Movers Branch" style="color: #ff6a28; text-decoration: none; font-size: 0.85rem; font-weight: 600;">View Branch &rarr;</a>
             </div>
           </div>
@@ -747,7 +746,7 @@ $csrf_token = generate_csrf_token();
               What is the primary customer helpline and contact number for Shree Ashirwad Packers in Ranchi?
             </h3>
             <p class="about-faq-answer" style="font-size: 0.92rem; color: #64748b; line-height: 1.6; margin: 0;">
-              Our primary 24/7 helpline numbers are <strong>+91 84095 31615</strong> and <strong>+91 98355 65233</strong>. You can call or message us on WhatsApp at any time for instant moving quotes, pre-move home surveys, and active consignment tracking.
+              Our primary 24/7 helpline number is <strong>+91 84095 31615</strong>. You can call or message us on WhatsApp at any time for instant moving quotes, pre-move home surveys, and active consignment tracking.
             </p>
           </div>
 
@@ -756,7 +755,7 @@ $csrf_token = generate_csrf_token();
               Where is the main headquarters office of Shree Ashirwad Packers located in Ranchi?
             </h3>
             <p class="about-faq-answer" style="font-size: 0.92rem; color: #64748b; line-height: 1.6; margin: 0;">
-              Our headquarters office is located at <strong>Morabadi / Bariatu Road, Near Oxygen Park, Ranchi, Jharkhand - 834008</strong>. We welcome clients to visit our office Monday through Sunday between 8:00 AM and 9:00 PM to inspect sample packing materials and finalize booking agreements.
+              Our headquarters office is located at <strong>Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002</strong>. We welcome clients to visit our office Monday through Sunday between 8:00 AM and 9:00 PM to inspect sample packing materials and finalize booking agreements.
             </p>
           </div>
 
@@ -810,7 +809,7 @@ $csrf_token = generate_csrf_token();
               Do you have branch offices in other districts of Jharkhand besides Ranchi?
             </h3>
             <p class="about-faq-answer" style="font-size: 0.92rem; color: #64748b; line-height: 1.6; margin: 0;">
-              Yes. Shree Ashirwad Packers maintains active regional branch hubs in Bokaro Steel City (Chas), Dhanbad (Bank More), Jamshedpur (Bistupur), Hazaribagh, Deoghar, Ramgarh, and Giridih providing direct on-ground moving and storage support.
+              Yes. Shree Ashirwad Packers maintains active regional branch hubs in Bokaro Steel City (Sector 12/A), Dhanbad, Jamshedpur, Hazaribagh, Deoghar, Ramgarh, and Giridih providing direct on-ground moving and storage support.
             </p>
           </div>
 

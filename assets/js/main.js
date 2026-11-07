@@ -4,6 +4,9 @@
  */
 
 document.addEventListener('DOMContentLoaded', function() {
+    if (window.__ashirwadMainInitialized) return;
+    window.__ashirwadMainInitialized = true;
+
     // Dynamic Header & Hero screen-fit synchronization
     function syncHeroHeight() {
         const topbar = document.querySelector('.topbar');
@@ -35,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Lead Quote Form AJAX Submission & Validation
-    const quoteForm = document.getElementById('heroQuoteForm');
+    const quoteForm = document.getElementById('heroQuoteForm') || document.getElementById('contactQuoteForm');
     const formStatus = document.getElementById('formStatusMessage');
 
     if (quoteForm && formStatus) {
@@ -79,13 +82,13 @@ document.addEventListener('DOMContentLoaded', function() {
                     quoteForm.reset();
                 } else {
                     formStatus.className = 'form-status-message error';
-                    formStatus.textContent = (data && data.message) ? data.message : 'Unable to submit request. Please call us directly at +91 9835565233.';
+                    formStatus.textContent = (data && data.message) ? data.message : 'Unable to submit request. Please call us directly at +91 8409531615.';
                     formStatus.style.display = 'block';
                 }
             })
             .catch(error => {
                 formStatus.className = 'form-status-message error';
-                formStatus.textContent = 'Thank you! We received your request. For immediate booking, please call +91 9835565233.';
+                formStatus.textContent = 'Thank you! We received your request. For immediate booking, please call +91 8409531615.';
                 formStatus.style.display = 'block';
             })
             .finally(() => {

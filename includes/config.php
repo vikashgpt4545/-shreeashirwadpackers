@@ -44,8 +44,8 @@ if (strpos($http_host, 'shreeashirwadpackers.com') !== false) {
 // Business Entity & Contact Details (Verified directly from live website and official records)
 define('BUSINESS_NAME', 'Shree Ashirwad Packers and Movers');
 define('BRAND_SHORT_NAME', 'Shree Ashirwad Packers');
-define('PRIMARY_PHONE', '+91 9835565233');
-define('PRIMARY_PHONE_RAW', '+919835565233');
+define('PRIMARY_PHONE', '+91 8409531615');
+define('PRIMARY_PHONE_RAW', '+918409531615');
 define('SECONDARY_PHONE', '+91 8409531615');
 define('SECONDARY_PHONE_RAW', '+918409531615');
 define('WHATSAPP_NUMBER', '+918409531615');

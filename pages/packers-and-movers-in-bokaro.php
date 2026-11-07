@@ -13,7 +13,7 @@ require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
 $page_title = "Packers and Movers in Bokaro Steel City | Best Shifting Services Chas - Shree Ashirwad";
-$page_description = "Looking for the best packers and movers in Bokaro & Chas? Shree Ashirwad Packers offers IBA-approved household shifting, SAIL employee moves, car/bike transport & storage. Call +91 9835565233.";
+$page_description = "Looking for the best packers and movers in Bokaro & Chas? Shree Ashirwad Packers offers IBA-approved household shifting, SAIL employee moves, car/bike transport & storage. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro";
 ?>
 <!DOCTYPE html>
@@ -88,7 +88,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "+918409531615",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "packers and movers in bokaro, best packers and movers in bokaro, movers and packers near me in bokaro, packers and movers in chas bokaro, household shifting services in bokaro, car transport in bokaro, bike transport in bokaro, packers and movers in sector 4 bokaro, packers and movers in sector 12 bokaro, iba approved packers and movers in bokaro, reliable movers and packers bokaro, packing and moving company in bokaro, local shifting in bokaro",
@@ -196,7 +196,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
         "name": "Where is your branch office located in Bokaro?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Our verified local branch office in Bokaro is located at Plot no - 54/c, Post office sector - 12/A, Bokaro, Jharkhand - 827012. You can contact our local moving coordinator directly at 9835565233 or 9835565233."
+          "text": "Our verified local branch office in Bokaro is located at Plot no - 54/c, Post office sector - 12/A, Bokaro, Jharkhand - 827012. You can contact our local moving coordinator directly at 8409531615."
         }
       },
       {
@@ -281,7 +281,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
         <div class="hero-cta-buttons" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
           <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Bokaro Office: +91 9835565233
+            Call Bokaro Office: +91 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener noreferrer" class="btn-outline-custom" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px); transition: all 0.3s ease;">
             WhatsApp Moving Estimate &rarr;
@@ -377,7 +377,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
                     If you are searching for reliable <strong>movers and packers near me in Bokaro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Bokaro</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Bokaro</strong>. Call <strong><a href="tel:+918409531615" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -945,7 +945,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
                 <div>
                   <h3 style="font-size:1.1rem; font-weight:700; color:#0f223d; margin-bottom:4px;">4 Weeks Before: Declutter & Schedule Survey</h3>
                   <p style="font-size:0.93rem; color:#475569; margin:0; line-height:1.6;">
-                    Sort through storage lofts, balconies, and storage rooms. Donate or discard unused items to reduce consignment volume. Contact Shree Ashirwad Packers at 9835565233 to schedule a free pre-move physical survey at your Bokaro residence.
+                    Sort through storage lofts, balconies, and storage rooms. Donate or discard unused items to reduce consignment volume. Contact Shree Ashirwad Packers at 8409531615 to schedule a free pre-move physical survey at your Bokaro residence.
                   </p>
                 </div>
               </div>
@@ -1076,7 +1076,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
               </div>
               <div style="display:flex; align-items:center; gap:10px;">
                 <strong style="color:#0f223d; min-width:80px;">Phone:</strong>
-                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color:#ff6a28; font-weight:700; text-decoration:none;">9835565233</a> / <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color:#0f223d; font-weight:700; text-decoration:none;">9835565233</a>
+                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color:#ff6a28; font-weight:700; text-decoration:none;">8409531615</a> / <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color:#0f223d; font-weight:700; text-decoration:none;">8409531615</a>
               </div>
               <div style="display:flex; align-items:center; gap:10px;">
                 <strong style="color:#0f223d; min-width:80px;">Email:</strong>
@@ -1152,7 +1152,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
               Where is your branch office located in Bokaro?
             </h3>
             <p style="font-size:0.95rem; line-height:1.7; color:#475569; margin:0;">
-              Our verified local branch office in Bokaro is located at Plot no - 54/c, Post office sector - 12/A, Bokaro, Jharkhand - 827012. You can contact our local moving coordinator directly at 9835565233 or 9835565233.
+              Our verified local branch office in Bokaro is located at Plot no - 54/c, Post office sector - 12/A, Bokaro, Jharkhand - 827012. You can contact our local moving coordinator directly at 8409531615 or 8409531615.
             </p>
           </div>
 
@@ -1217,7 +1217,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
         </p>
         <div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;">
           <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-hero-call" style="background:#ff6a28; color:#ffffff; padding:14px 30px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1rem; box-shadow:0 4px 15px rgba(255,106,40,0.4);">
-            Call: +91 9835565233
+            Call: +91 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener noreferrer" class="btn-hero-whatsapp" style="background:#25d366; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1rem; box-shadow:0 4px 15px rgba(37,211,102,0.3);">
             WhatsApp Free Quote

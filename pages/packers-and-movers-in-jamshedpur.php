@@ -4,7 +4,7 @@
  * Pure Core PHP Implementation
  * 
  * Target URL: https://www.shreeashirwadpackers.com/packers-and-movers-in-jamshedpur
- * Title: Packers and Movers in Jamshedpur - 9835565233
+ * Title: Packers and Movers in Jamshedpur - 8409531615
  * District: East Singhbhum, Jharkhand
  * Coordinates: 22.8046° N, 86.2029° E
  */
@@ -13,7 +13,7 @@ require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
 $page_title = "Packers and Movers in Jamshedpur | Best Shifting Services Steel City - Shree Ashirwad";
-$page_description = "Looking for the best packers and movers in Jamshedpur? Shree Ashirwad Packers offers Bistupur, Telco, Sonari, Kadma Tata Steel corporate shifts & car transport. Call +91 9835565233.";
+$page_description = "Looking for the best packers and movers in Jamshedpur? Shree Ashirwad Packers offers Bistupur, Telco, Sonari, Kadma Tata Steel corporate shifts & car transport. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jamshedpur";
 ?>
 <!DOCTYPE html>
@@ -88,7 +88,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "+918409531615",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "packers and movers in jamshedpur, best packers and movers in jamshedpur, household shifting in jamshedpur, house shifting jamshedpur, packers and movers bistupur, packers and movers sakchi, packers and movers telco jamshedpur, packers and movers adityapur, packers and movers jamshedpur to ranchi, packers and movers jamshedpur to kolkata, car transport in jamshedpur, bike parcel jamshedpur, iba approved packers in jamshedpur",
@@ -145,7 +145,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
-      "reviewCount": "512",
+      "reviewCount": "703",
       "bestRating": "5",
       "worstRating": "1"
     }
@@ -247,7 +247,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
         "name": "How can I book Packers and Movers in Jamshedpur with Shree Ashirwad?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "You can book easily by calling our 24/7 customer service helpline at 9835565233 or messaging us directly on WhatsApp. Our moving supervisor will schedule a free home or office assessment and provide an instant binding quotation."
+          "text": "You can book easily by calling our 24/7 customer service helpline at 8409531615 or messaging us directly on WhatsApp. Our moving supervisor will schedule a free home or office assessment and provide an instant binding quotation."
         }
       }
     ]
@@ -290,11 +290,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
 
         <!-- CTAs -->
         <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
-          <a href="tel:+919835565233" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
+          <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4); transition: transform 0.2s ease;">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call: +91 9835565233
+            Call: +91 8409531615
           </a>
-          <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Jamshedpur" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
+          <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20moving%20services%20in%20Jamshedpur" target="_blank" rel="nofollow noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 13px 26px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35); transition: transform 0.2s ease;">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
             WhatsApp Instant Quote
           </a>
@@ -362,7 +362,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
                     If you are searching for reliable <strong>movers and packers near me in Jamshedpur</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Jamshedpur</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Jamshedpur</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Jamshedpur</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Jamshedpur</strong>. Call <strong><a href="tel:+918409531615" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -394,7 +394,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
               Customers choose our movers and packers service in Jamshedpur for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning. We provide nearby packers and movers support with pincode-based scheduling (PIN: 831001), same-day shifting assistance, floor-to-floor handling, and flexible moving options across Bistupur, Sakchi, Sonari, Kadma, and Telco.
             </p>
             <p style="margin-bottom: 0; font-size: 15px; line-height: 1.6; color: #334155;">
-              From high-rise apartments in Sonari and Kadma to luxury bungalows in Circuit House Area and corporate residences in Telco Colony and Adityapur, our packing and moving company in Jamshedpur delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Jamshedpur, our local team is available 24/7 at <strong>+91 9835565233</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
+              From high-rise apartments in Sonari and Kadma to luxury bungalows in Circuit House Area and corporate residences in Telco Colony and Adityapur, our packing and moving company in Jamshedpur delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Jamshedpur, our local team is available 24/7 at <strong>+91 8409531615</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
             </p>
           </div>
 
@@ -983,13 +983,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
             <p style="font-size: 14px; color: #64748b; margin: 0 0 10px; line-height: 1.6;">
               Main Road, Near Gopal Maidan, Bistupur, Jamshedpur, Jharkhand - 831001
             </p>
-            <div style="font-size: 14px; color: #1e293b; margin-bottom: 4px;"><strong>Helpline:</strong> +91 9835565233</div>
+            <div style="font-size: 14px; color: #1e293b; margin-bottom: 4px;"><strong>Helpline:</strong> +91 8409531615</div>
             <div style="font-size: 14px; color: #1e293b; margin-bottom: 4px;"><strong>Email:</strong> enquiry@shreeashirwadpackers.com</div>
             <div style="font-size: 14px; color: #1e293b;"><strong>Working Hours:</strong> Monday - Sunday: 7:00 AM - 10:00 PM</div>
           </div>
 
           <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-            <a href="tel:+919835565233" class="btn" style="background: #1f4068; color: #ffffff; font-weight: 700; padding: 12px 22px; border-radius: 8px; text-decoration: none; font-size: 14px; display: inline-flex; align-items: center; gap: 8px;">
+            <a href="tel:+918409531615" class="btn" style="background: #1f4068; color: #ffffff; font-weight: 700; padding: 12px 22px; border-radius: 8px; text-decoration: none; font-size: 14px; display: inline-flex; align-items: center; gap: 8px;">
               Call Jamshedpur Branch
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 12px 22px; border-radius: 8px; text-decoration: none; font-size: 14px; display: inline-flex; align-items: center; gap: 8px;">
@@ -1083,7 +1083,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
         <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 22px;">
           <h3 style="font-size: 17px; font-weight: 700; color: #0d1b2a; margin-bottom: 8px;">How can I book Packers and Movers in Jamshedpur with Shree Ashirwad?</h3>
           <p style="font-size: 14.5px; line-height: 1.7; color: #475569; margin: 0;">
-            You can book easily by calling our 24/7 customer service helpline at 9835565233 or messaging us directly on WhatsApp. Our moving supervisor will schedule a free home or office assessment and provide an instant binding quotation.
+            You can book easily by calling our 24/7 customer service helpline at 8409531615 or messaging us directly on WhatsApp. Our moving supervisor will schedule a free home or office assessment and provide an instant binding quotation.
           </p>
         </div>
 
@@ -1104,11 +1104,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-jam
         Get your free, no-obligation moving quote today. Our Jamshedpur moving experts are available 24/7 to plan your move with guaranteed safety, IBA-approved documentation, and zero stress.
       </p>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
-        <a href="tel:+919835565233" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4);">
+        <a href="tel:+918409531615" class="btn" style="background: #f39c12; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(243, 156, 18, 0.4);">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-          Call: +91 9835565233
+          Call: +91 8409531615
         </a>
-        <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jamshedpur" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jamshedpur" target="_blank" rel="noopener" class="btn" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
           <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
           WhatsApp Us Now
         </a>

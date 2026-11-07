@@ -13,7 +13,7 @@ require_once BASE_PATH . '/includes/config.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Transfer Allowance Reimbursement Guide Ranchi | PSU, CCL, SAIL, Defense Shifting Bills | Call 9835565233</title>
-    <meta name="description" content="Complete guide to claiming Transfer Traveling Allowance (TTA) in Ranchi. 100% audit-approved GST bills, IBA approved consignment notes, and weighment slips for CCL, CMPDI, SAIL, Banks & Defense. Call 9835565233.">
+    <meta name="description" content="Complete guide to claiming Transfer Traveling Allowance (TTA) in Ranchi. 100% audit-approved GST bills, IBA approved consignment notes, and weighment slips for CCL, CMPDI, SAIL, Banks & Defense. Call 8409531615.">
     <meta name="keywords" content="transfer allowance reimbursement ranchi, ccl transfer bill packers and movers, sail employee shifting bill ranchi, psu relocation bill claim, defense shifting bill ranchi, gst invoice for packers movers claim">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/transfer-allowance-reimbursement-guide">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -26,11 +26,11 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers Ranchi Corporate & PSU Relocation",
         "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/transfer-allowance-reimbursement-guide",
-        "telephone": "+91 9835565233",
+        "telephone": "+91 8409531615",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -38,8 +38,8 @@ require_once BASE_PATH . '/includes/config.php';
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3541,
-            "longitude": 85.3182
+            "latitude": 23.3639813,
+            "longitude": 85.3090259
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -210,7 +210,7 @@ require_once BASE_PATH . '/includes/config.php';
                 <h1>Transfer Allowance Reimbursement Guide: Government & PSU Shifting Bills</h1>
                 <p>Are you an employee of CCL, CMPDI, SAIL, MECON, Indian Railways, Central Bank, or the Armed Forces stationed in Ranchi? Master the exact documentation, 7th Pay Commission entitlements, and audit-approved billing formats required for 100% hassle-free transfer allowance reimbursement.</p>
                 <div class="targ-cta-group">
-                    <a href="tel:+919835565233" class="targ-btn-call">Direct Call: +91 9835565233</a>
+                    <a href="tel:+918409531615" class="targ-btn-call">Direct Call: +91 8409531615</a>
                     <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20transfer%20allowance%20shifting%20bills%20and%20claim%20documentation%20for%20Ranchi" class="targ-btn-wa" target="_blank" rel="noopener">WhatsApp Reimbursement Desk</a>
                 </div>
             </div>
@@ -339,7 +339,7 @@ require_once BASE_PATH . '/includes/config.php';
                         <p>Follow this chronological roadmap to ensure your transfer grant and freight reimbursement are approved without a single audit delay:</p>
                         <ul>
                             <li><strong>Step 1: Obtain Official Transfer Order:</strong> Keep 3 certified photocopies of your office transfer notification or deployment letter issued by your controlling authority.</li>
-                            <li><strong>Step 2: Pre-Move Home Survey:</strong> Contact our Ranchi office at <strong>+91 9835565233</strong> for a free pre-move assessment. Our surveyor computes volumetric weight ensuring you remain strictly within your entitled weight limits.</li>
+                            <li><strong>Step 2: Pre-Move Home Survey:</strong> Contact our Ranchi office at <strong>+91 8409531615</strong> for a free pre-move assessment. Our surveyor computes volumetric weight ensuring you remain strictly within your entitled weight limits.</li>
                             <li><strong>Step 3: Packing & Weighbridge Verification:</strong> On moving day, our team packs your residence, prepares the serialized packing inventory, and drives the loaded container across an authorized electronic weighbridge (Dharam Kanta) to print the tare and gross weight receipts.</li>
                             <li><strong>Step 4: Transit & Doorstep Delivery:</strong> Goods are transported under transit insurance coverage directly to your new quarters at the destination station and placed in your assigned rooms.</li>
                             <li><strong>Step 5: Submission to Accounts Section:</strong> Submit the 6-document dossier provided by Shree Ashirwad along with your signed TA on Transfer bill (Form TR-25) to your departmental drawing and disbursing officer.</li>

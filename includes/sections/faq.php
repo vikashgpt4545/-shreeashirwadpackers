@@ -54,7 +54,7 @@
         </button>
         <div class="faq-answer">
           <p>
-            Our official <strong>ranchi packers and movers contact number</strong> is <strong>8409531615</strong> (and secondary contact 9835565233). For local shifting within Ranchi, booking <strong>24 to 48 hours in advance</strong> is recommended. For intercity domestic moves or peak periods, booking <strong>3 to 5 days in advance</strong> guarantees your preferred vehicle. Emergency same-day shifting is also available subject to container availability.
+            Our official <strong>ranchi packers and movers contact number</strong> is <strong>8409531615</strong>. For local shifting within Ranchi, booking <strong>24 to 48 hours in advance</strong> is recommended. For intercity domestic moves or peak periods, booking <strong>3 to 5 days in advance</strong> guarantees your preferred vehicle. Emergency same-day shifting is also available subject to container availability.
           </p>
         </div>
       </div>

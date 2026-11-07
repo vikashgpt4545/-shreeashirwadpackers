@@ -5,7 +5,7 @@
  * 
  * Target URL: https://www.shreeashirwadpackers.com/ranchi-to-delhi-packers-and-movers
  * Target Keyword: ranchi to delhi packers and movers
- * Title: Ranchi to Delhi Packers and Movers - 9835565233
+ * Title: Ranchi to Delhi Packers and Movers - 8409531615
  * Focus: 1,240 km Grand Trunk & Yamuna Expressway Highway Corridor Relocation, Dedicated & Shared Containers, Car/Bike Transport, IBA Approved Bills, MCD & CAQM BS-VI Compliance
  */
 
@@ -13,7 +13,7 @@ require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
 $page_title = "Ranchi to Delhi Packers and Movers - 9835565233 | Shree Ashirwad Packers";
-$page_description = "Best ranchi to delhi packers and movers by Shree Ashirwad. 1,240 km express transit, dedicated container trucks, car/bike parcel, IBA approved bills & GPS tracking. Call 9835565233.";
+$page_description = "Best ranchi to delhi packers and movers by Shree Ashirwad. 1,240 km express transit, dedicated container trucks, car/bike parcel, IBA approved bills & GPS tracking. Call 8409531615.";
 $canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/ranchi-to-delhi-packers-and-movers";
 $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi to delhi, ranchi to delhi ncr packers and movers, household shifting ranchi to delhi, car transport ranchi to delhi, bike parcel ranchi to delhi, IBA approved packers ranchi to delhi, best packers and movers ranchi to delhi";
 ?>
@@ -54,8 +54,8 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
   <meta name="theme-color" content="#0f223d">
   <meta name="geo.region" content="IN-JH">
   <meta name="geo.placename" content="Ranchi">
-  <meta name="geo.position" content="23.3441;85.3096">
-  <meta name="ICBM" content="23.3441, 85.3096">
+  <meta name="geo.position" content="23.3639813;85.3090259">
+  <meta name="ICBM" content="23.3639813, 85.3090259">
 
   <!-- Favicons -->
   <link rel="icon" type="image/png" href="<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png">
@@ -89,7 +89,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "+918409531615",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹₹",
     "keywords": "ranchi to delhi packers and movers, packers and movers ranchi to delhi, ranchi to delhi ncr packers and movers, household shifting ranchi to delhi",
@@ -97,7 +97,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -105,10 +105,10 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3441,
-      "longitude": 85.3096
+      "latitude": 23.3639813,
+      "longitude": 85.3090259
     },
-    "hasMap": "https://maps.google.com/?q=23.3441,85.3096",
+    "hasMap": "https://maps.google.com/?q=23.3639813,85.3090259",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -128,7 +128,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
-      "reviewCount": "512",
+      "reviewCount": "703",
       "bestRating": "5",
       "worstRating": "1"
     },
@@ -161,7 +161,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+919835565233",
+      "telephone": "+918409531615",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
       "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
       "address": {
@@ -348,7 +348,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
         "name": "How can I book verified packers and movers from Ranchi to Delhi with Shree Ashirwad?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Booking is effortless. You can call our 24/7 route helpline at 9835565233 or click our WhatsApp link. Our relocation coordinator will perform a free physical visual home survey in Ranchi or an instant video inventory walkthrough, generate a binding all-inclusive written quotation with zero hidden charges, and lock in your requested moving slot with dedicated truck allocation."
+          "text": "Booking is effortless. You can call our 24/7 route helpline at 8409531615 or click our WhatsApp link. Our relocation coordinator will perform a free physical visual home survey in Ranchi or an instant video inventory walkthrough, generate a binding all-inclusive written quotation with zero hidden charges, and lock in your requested moving slot with dedicated truck allocation."
         }
       }
     ]
@@ -958,7 +958,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
         <div class="rtd-cta-row">
           <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-rtd-primary">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Route Desk: 9835565233
+            Call Route Desk: 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-rtd-whatsapp">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1023,7 +1023,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Delhi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Delhi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Delhi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Delhi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Delhi</strong>. Call <strong><a href="tel:+918409531615" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1598,7 +1598,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
                 <span>Q10.</span> How can I book verified packers and movers from Ranchi to Delhi with Shree Ashirwad?
               </div>
               <div class="rtd-faq-a">
-                Booking is effortless. You can call our 24/7 route helpline at 9835565233 or click our WhatsApp link. Our relocation coordinator will perform a free physical visual home survey in Ranchi or an instant video inventory walkthrough, generate a binding all-inclusive written quotation with zero hidden charges, and lock in your requested moving slot with dedicated truck allocation.
+                Booking is effortless. You can call our 24/7 route helpline at 8409531615 or click our WhatsApp link. Our relocation coordinator will perform a free physical visual home survey in Ranchi or an instant video inventory walkthrough, generate a binding all-inclusive written quotation with zero hidden charges, and lock in your requested moving slot with dedicated truck allocation.
               </div>
             </div>
           </div>
@@ -1707,7 +1707,7 @@ $meta_keywords = "ranchi to delhi packers and movers, packers and movers ranchi 
         <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center; margin-bottom: 30px;">
           <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 10px; background: #ff6a28; color: #ffffff; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(255,106,40,0.35); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Direct Route Helpline: 9835565233
+            Direct Route Helpline: 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-flex; align-items: center; gap: 10px; background: #25d366; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(37,211,102,0.3); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>

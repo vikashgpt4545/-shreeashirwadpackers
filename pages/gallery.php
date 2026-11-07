@@ -777,7 +777,7 @@ require_once __DIR__ . '/includes/seo.php';
               </tr>
               <tr>
                 <td><strong>Real Customer Reviews</strong></td>
-                <td class="col-brand"><span class="badge-yes">&check; 664+ Verified Google Reviews (4.9★ Real Profiles)</span></td>
+                <td class="col-brand"><span class="badge-yes">&check; 703+ Verified Google Reviews (4.9★ Real Profiles)</span></td>
                 <td><span class="badge-no">&#x2717; Fake Fabricated Testimonials with Stolen Stock Headshots</span></td>
               </tr>
               <tr>
@@ -821,7 +821,7 @@ require_once __DIR__ . '/includes/seo.php';
           <div class="about-faq-card">
             <h3 class="about-faq-question">How can I verify Shree Ashirwad Packers IBA approval and ISO 9001:2015 certification?</h3>
             <p class="about-faq-answer">
-              Our IBA approval code and ISO 9001:2015 certificate numbers are printed on our official consignment notes (LR Bilty) and GST invoices. Clients can verify our credentials at our Ranchi headquarters at Morabadi or request digital verification copies via WhatsApp at 8409531615.
+              Our IBA approval code and ISO 9001:2015 certificate numbers are printed on our official consignment notes (LR Bilty) and GST invoices. Clients can verify our credentials at our Ranchi headquarters at Anandpuri Chowk, Vidyanagar Road, Harmu or request digital verification copies via WhatsApp at 8409531615.
             </p>
           </div>
 

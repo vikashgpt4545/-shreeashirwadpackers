@@ -4,7 +4,7 @@
  * Pure Core PHP Implementation
  * 
  * Target URL: https://www.shreeashirwadpackers.com/packers-and-movers-in-dhanbad
- * Title: Packers and Movers in Dhanbad - 9835565233
+ * Title: Packers and Movers in Dhanbad - 8409531615
  * City/District: Dhanbad, Jharkhand (Coal Capital of India)
  * Branch Address: Bank More, Near Shramik Chowk, Dhanbad - 826001
  * Coordinates: 23.7957° N, 86.4304° E
@@ -14,7 +14,7 @@ require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
 $page_title = "Packers and Movers in Dhanbad | Best Shifting Services Bank More - Shree Ashirwad";
-$page_description = "Looking for the best packers and movers in Dhanbad? Shree Ashirwad Packers offers BCCL, IIT ISM & railway shifting, home, car & bike transport. Call +91 9835565233.";
+$page_description = "Looking for the best packers and movers in Dhanbad? Shree Ashirwad Packers offers BCCL, IIT ISM & railway shifting, home, car & bike transport. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dhanbad";
 ?>
 <!DOCTYPE html>
@@ -89,8 +89,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/residential-relocation-cartons-ranchi.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "+918409531615",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "packers and movers in dhanbad, best packers and movers in dhanbad, movers and packers dhanbad, packers and movers bank more dhanbad, packers and movers saraidhela dhanbad, packers and movers iit ism dhanbad, household shifting services dhanbad, car transport dhanbad, bike transport dhanbad, iba approved packers and movers in dhanbad",
     "currenciesAccepted": "INR",
@@ -274,9 +274,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
         </p>
 
         <div class="hero-cta-buttons" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
-          <a href="tel:+919835565233" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
+          <a href="tel:+918409531615" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Dhanbad Helpline: +91 9835565233
+            Call Dhanbad Helpline: +91 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener noreferrer" class="btn-outline-custom" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px); transition: all 0.3s ease;">
             WhatsApp Moving Estimate &rarr;
@@ -372,7 +372,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
                     If you are searching for reliable <strong>movers and packers near me in Dhanbad</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Dhanbad</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Dhanbad</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Dhanbad</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Dhanbad</strong>. Call <strong><a href="tel:+918409531615" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -985,7 +985,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
               <h4 style="color:#0f223d; font-size:1.1rem; font-weight:700; margin-bottom:12px;">Dhanbad Regional Hub</h4>
               <p style="color:#475569; font-size:0.92rem; line-height:1.6; margin-bottom:8px;">
                 <strong>Address:</strong> Bank More, Near Shramik Chowk, Dhanbad, Jharkhand - 826001<br>
-                <strong>Direct Booking Helpline:</strong> <a href="tel:9835565233" style="color: #ff6a28; font-weight: 700; text-decoration: none;">+91 9835565233</a><br>
+                <strong>Direct Booking Helpline:</strong> <a href="tel:8409531615" style="color: #ff6a28; font-weight: 700; text-decoration: none;">+91 8409531615</a><br>
                 <strong>Email Support:</strong> support@shreeashirwadpackers.com<br>
                 <strong>Operating Hours:</strong> Open 24/7 (365 Days)
               </p>
@@ -998,7 +998,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
               </div>
             </div>
 
-            <a href="tel:9835565233" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
+            <a href="tel:8409531615" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
               <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
               Speak with Dhanbad Branch Manager
             </a>
@@ -1150,7 +1150,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-dha
         </p>
         <div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;">
           <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-hero-call" style="background:#ff6a28; color:#ffffff; padding:14px 30px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1rem; box-shadow:0 4px 15px rgba(255,106,40,0.4);">
-            Call: 9835565233
+            Call: 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener noreferrer" class="btn-hero-whatsapp" style="background:#25d366; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1rem; box-shadow:0 4px 15px rgba(37,211,102,0.3);">
             WhatsApp Free Quote

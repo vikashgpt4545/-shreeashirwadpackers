@@ -101,7 +101,7 @@ require_once __DIR__ . '/includes/seo.php';
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
-      "reviewCount": "620"
+      "reviewCount": "703"
     }
   }
   </script>
@@ -193,7 +193,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Services",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "item": "https://www.shreeashirwadpackers.com/#services"
       },
       {
         "@type": "ListItem",

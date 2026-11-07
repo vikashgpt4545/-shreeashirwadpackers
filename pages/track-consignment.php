@@ -1,8 +1,8 @@
 <?php
-// Dynamic SEO Configuration for Consignment Tracking Portal
+require_once dirname(__DIR__) . '/includes/config.php'; // Dynamic SEO Configuration for Consignment Tracking Portal
 $page_title = "Track Consignment Online | Shree Ashirwad Packers and Movers LR Tracking";
 $page_description = "Track your household goods, vehicle or cargo consignment live online with Shree Ashirwad Packers and Movers. Enter your LR / Consignment / Bilty number for real-time GPS tracking.";
-$canonical_url = "https://shreeashirwadpackers.com/track-consignment";
+$canonical_url = "https://www.shreeashirwadpackers.com/track-consignment";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,13 +21,13 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Consignment Tracking Desk",
-        "image": "https://shreeashirwadpackers.com/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
+        "image": "https://www.shreeashirwadpackers.com/images/shree-ashirwad-verified-moving-truck-jharkhand.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "+91 8409531615",
         "priceRange": "Free Tracking Utility",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Road, Near Sahjanand Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -35,8 +35,8 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3512,
-            "longitude": 85.3129
+            "latitude": 23.3639813,
+            "longitude": 85.3090259
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -57,13 +57,13 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Customer Support",
-                "item": "https://shreeashirwadpackers.com/contact-us"
+                "item": "https://www.shreeashirwadpackers.com/contact"
             },
             {
                 "@type": "ListItem",
@@ -120,7 +120,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
                 "name": "What should I do if my tracking status shows no updates?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "If your vehicle is traversing remote highway sections with temporary cellular blind spots, updates may pause briefly. You can call our 24/7 dedicated control room at +91 9835565233 for direct driver radio coordinates."
+                    "text": "If your vehicle is traversing remote highway sections with temporary cellular blind spots, updates may pause briefly. You can call our 24/7 dedicated control room at +91 8409531615 for direct driver radio coordinates."
                 }
             },
             {
@@ -498,7 +498,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
                 <div style="margin-top: 20px; font-size: 0.92rem; color: #334155; line-height: 1.6;">
                     <p><strong>Origin Hub:</strong> Ranchi Central Logistics Yard | <strong>Destination:</strong> Scheduled Doorstep Delivery</p>
                     <p><strong>Last GPS Ping:</strong> Vehicle moving smoothly along national highway corridor. Expected delivery within scheduled window.</p>
-                    <p style="margin-bottom: 0;"><strong>Direct Helpline:</strong> Call our 24/7 central desk at <a href="tel:+919835565233" style="color: #0984e3; font-weight: 700;">+91 9835565233</a> for immediate coordinator contact.</p>
+                    <p style="margin-bottom: 0;"><strong>Direct Helpline:</strong> Call our 24/7 central desk at <a href="tel:+918409531615" style="color: #0984e3; font-weight: 700;">+91 8409531615</a> for immediate coordinator contact.</p>
                 </div>
             </div>
         </div>
@@ -555,7 +555,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
         <!-- Section 3: Tracking Helpline & Operational Support -->
         <div class="trk-highlight-box">
             <h4>Prefer Direct Human Assistance Over Digital Tracking?</h4>
-            <p>Our dedicated customer support managers are available 24/7 to give you verbal status updates. Call our helpline at <a href="tel:+919835565233"><strong>+91 9835565233</strong></a> or email us with your LR number. You can also calculate standard transit charges on our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a> or consult the <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Guide</a>.</p>
+            <p>Our dedicated customer support managers are available 24/7 to give you verbal status updates. Call our helpline at <a href="tel:+918409531615"><strong>+91 8409531615</strong></a> or email us with your LR number. You can also calculate standard transit charges on our live <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Cost Calculator</a> or consult the <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-per-km">Charges Per KM Guide</a>.</p>
         </div>
 
         <!-- Section 4: Operational Hubs and Image Grid -->
@@ -629,7 +629,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
 
             <div class="trk-faq-item">
                 <h4>What should I do if my tracking status shows no updates?</h4>
-                <p>If your vehicle is traversing remote highway sections with temporary cellular blind spots, updates may pause briefly. You can call our 24/7 dedicated control room at +91 9835565233 for direct driver radio coordinates.</p>
+                <p>If your vehicle is traversing remote highway sections with temporary cellular blind spots, updates may pause briefly. You can call our 24/7 dedicated control room at +91 8409531615 for direct driver radio coordinates.</p>
             </div>
 
             <div class="trk-faq-item">
@@ -649,7 +649,7 @@ $canonical_url = "https://shreeashirwadpackers.com/track-consignment";
                 <a href="<?php echo SITE_BASE_URL; ?>/car-transportation-cost-calculator">Car Transport Calculator</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/tempo-service-in-ranchi">Tempo Service Ranchi</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/contact-us">Contact Customer Support</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/contact">Contact Customer Support</a>
             </div>
         </div>
 

@@ -58,7 +58,7 @@ $site_url = SITE_BASE_URL;
         "telephone": "+918409531615",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "Harmu Housing Colony, Argora",
+          "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
           "addressLocality": "Ranchi",
           "addressRegion": "Jharkhand",
           "postalCode": "834002",

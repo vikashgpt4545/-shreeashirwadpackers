@@ -12,7 +12,7 @@ function get_page_seo($page_identifier = 'home') {
     $seo_defaults = [
         'home' => [
             'title' => 'Packers and Movers Ranchi - 9835565233',
-            'description' => 'Shree Ashirwad Packers and Movers in Ranchi offer trusted household, office & vehicle shifting across Jharkhand. Top movers and packers ranchi & packers movers in ranchi with IBA approved bills. Call 9835565233 / 8409531615.',
+            'description' => 'Shree Ashirwad Packers and Movers in Ranchi offer trusted household, office & vehicle shifting across Jharkhand. Top movers and packers ranchi & packers movers in ranchi with IBA approved bills. Call 8409531615.',
             'canonical' => $canonical_base . '/',
             'keywords' => 'Packers and Movers Ranchi, packers and movers in ranchi, movers and packers ranchi, packers movers ranchi, packers movers in ranchi, best packers and movers in ranchi, top packers and movers in ranchi, movers and packers in ranchi, packers and movers in ranchi jharkhand, ranchi packers and movers contact number, iba approved packers and movers in ranchi, packers and movers charges in ranchi, packers and movers ranchi price list',
             'og_type' => 'website',
@@ -108,7 +108,7 @@ function get_page_seo($page_identifier = 'home') {
         ],
         'contact' => [
             'title' => 'Contact Us - Shree Ashirwad Packers and Movers Ranchi - 8409531615',
-            'description' => 'Contact Shree Ashirwad Packers and Movers in Ranchi. 24/7 helpline at 8409531615 or 9835565233. Morabadi headquarters, free home survey, instant WhatsApp moving quotes, and branch offices across Jharkhand.',
+            'description' => 'Contact Shree Ashirwad Packers and Movers in Ranchi. 24/7 helpline at 8409531615. Harmu headquarters (Anandpuri Chowk, Vidyanagar Road), free home survey, instant WhatsApp moving quotes, and branch offices across Jharkhand.',
             'canonical' => $canonical_base . '/contact',
             'keywords' => 'packers and movers in ranchi contact number, shree ashirwad packers contact, packers and movers ranchi office address, packers and movers phone number, packers and movers in ranchi, best packers and movers in ranchi, trusted packers and movers in ranchi, iba approved packers and movers in ranchi, iso certified packers and movers in ranchi, packers and movers in ranchi price list, packers and movers charges in ranchi, packers and movers in ranchi jharkhand, shree ashirwad packers and movers ranchi',
             'og_type' => 'website',
@@ -279,7 +279,6 @@ function render_seo_tags($page_identifier = 'home') {
       ],
       "sameAs": [
         "https://www.google.com/maps?cid=17894179374492933119",
-        "https://shreeashirwadpackersandmovers.com/",
         "<?php echo SOCIAL_FACEBOOK; ?>",
         "<?php echo SOCIAL_TWITTER; ?>",
         "<?php echo SOCIAL_INSTAGRAM; ?>",
@@ -471,7 +470,7 @@ function render_seo_tags($page_identifier = 'home') {
           "name": "Which areas in Jharkhand do you provide relocation services?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "We operate active branches in Ranchi (Harmu Bypass Road) and Bokaro Steel City (Sector 12/A), and provide comprehensive packing, shifting, car transport, and warehousing across all 24 districts of Jharkhand including Jamshedpur, Dhanbad, Deoghar, Hazaribagh, Ramgarh, and Giridih."
+            "text": "We operate active branches in Ranchi (Anandpuri Chowk, Vidyanagar Road, Harmu) and Bokaro Steel City (Plot no - 54/c, Post office sector - 12/A), and provide comprehensive packing, shifting, car transport, and warehousing across all 24 districts of Jharkhand including Jamshedpur, Dhanbad, Deoghar, Hazaribagh, Ramgarh, and Giridih."
           }
         },
         {
@@ -487,7 +486,7 @@ function render_seo_tags($page_identifier = 'home') {
           "name": "How can I book or contact Shree Ashirwad Packers for a home survey?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You can call our direct customer helpline at 8409531615 or 9835565233, or contact us via WhatsApp for a quick estimate and a free in-home physical or virtual survey."
+            "text": "You can call our direct customer helpline at 8409531615, or contact us via WhatsApp for a quick estimate and a free in-home physical or virtual survey."
           }
         }
       ]
@@ -1898,7 +1897,7 @@ function render_seo_tags($page_identifier = 'home') {
           "name": "How can I verify Shree Ashirwad Packers IBA approval and ISO 9001:2015 certification?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Our IBA approval code and ISO 9001:2015 certificate numbers are printed on our official consignment notes (LR Bilty) and GST invoices. Clients can verify our credentials at our Ranchi headquarters at Morabadi or request digital verification copies via WhatsApp at 8409531615."
+            "text": "Our IBA approval code and ISO 9001:2015 certificate numbers are printed on our official consignment notes (LR Bilty) and GST invoices. Clients can verify our credentials at our Ranchi headquarters at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002 or request digital verification copies via WhatsApp at 8409531615."
           }
         },
         {
@@ -2028,7 +2027,7 @@ function render_seo_tags($page_identifier = 'home') {
           "name": "What is the primary customer helpline and contact number for Shree Ashirwad Packers in Ranchi?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Our primary 24/7 helpline numbers are 8409531615 and 9835565233. You can call or message us on WhatsApp at any time for instant moving quotes, pre-move home surveys, and active consignment tracking."
+            "text": "Our primary 24/7 helpline number is 8409531615. You can call or message us on WhatsApp at any time for instant moving quotes, pre-move home surveys, and active consignment tracking."
           }
         },
         {
@@ -2036,7 +2035,7 @@ function render_seo_tags($page_identifier = 'home') {
           "name": "Where is the main headquarters office of Shree Ashirwad Packers located in Ranchi?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Our headquarters office is located at Morabadi / Bariatu Road, Near Oxygen Park, Ranchi, Jharkhand - 834008. We welcome clients to visit our office Monday through Sunday between 8:00 AM and 9:00 PM."
+            "text": "Our headquarters office is located at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002. We welcome clients to visit our office Monday through Sunday between 8:00 AM and 9:00 PM."
           }
         },
         {
@@ -2084,7 +2083,7 @@ function render_seo_tags($page_identifier = 'home') {
           "name": "Do you have branch offices in other districts of Jharkhand besides Ranchi?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Shree Ashirwad Packers maintains active regional branch hubs in Bokaro Steel City (Chas), Dhanbad (Bank More), Jamshedpur (Bistupur), Hazaribagh, Deoghar, Ramgarh, and Giridih providing direct on-ground moving and storage support."
+            "text": "Yes. Shree Ashirwad Packers maintains active regional branch hubs in Bokaro Steel City (Plot no - 54/c, Post office sector - 12/A, Bokaro - 827012), Dhanbad, Jamshedpur, Hazaribagh, Deoghar, Ramgarh, and Giridih providing direct on-ground moving and storage support."
           }
         }
       ]

@@ -75,7 +75,7 @@ require_once __DIR__ . '/includes/seo.php';
             <div class="credential-info">
               <span class="credential-number">4.9 / 5.0</span>
               <span class="credential-title">Google Verified Rating</span>
-              <span class="credential-sub">664+ Reviews • Top Packers and Movers in Ranchi</span>
+              <span class="credential-sub">703+ Reviews • Top Packers and Movers in Ranchi</span>
             </div>
           </div>
 
@@ -149,7 +149,7 @@ require_once __DIR__ . '/includes/seo.php';
             </p>
 
             <p class="about-text">
-              Recognizing this critical void, Shree Ashirwad Packers introduced corporate standards to Jharkhand's logistics landscape. We invested in dedicated company-owned closed container trucks, established our headquarters on Harmu Bypass Road in Ranchi, and inaugurated a full-service branch at Sector 12/A in <strong>Bokaro Steel City</strong>.
+              Recognizing this critical void, Shree Ashirwad Packers introduced corporate standards to Jharkhand's logistics landscape. We invested in dedicated company-owned closed container trucks, established our headquarters at Anandpuri Chowk, Vidyanagar Road, Harmu in Ranchi, and inaugurated a full-service branch at Plot no - 54/c, Post office sector - 12/A in <strong>Bokaro Steel City</strong>.
             </p>
 
             <p class="about-text">
@@ -188,7 +188,7 @@ require_once __DIR__ . '/includes/seo.php';
           <div class="timeline-card">
             <div class="timeline-year">Present</div>
             <h3 class="timeline-title">25,000+ Moves & Pan-India Reach</h3>
-            <p class="timeline-desc">Crossed 25,000+ completed relocations with a 4.9★ Google rating from 664+ verified reviews, operating daily express container routes across all 28 Indian states.</p>
+            <p class="timeline-desc">Crossed 25,000+ completed relocations with a 4.9★ Google rating from 703+ verified reviews, operating daily express container routes across all 28 Indian states.</p>
           </div>
         </div>
 
@@ -653,7 +653,7 @@ require_once __DIR__ . '/includes/seo.php';
               <span>Which cities and districts in Jharkhand do you cover?</span>
             </div>
             <p class="about-faq-a">
-              We operate primary branches in Ranchi (Harmu Bypass Road) and Bokaro Steel City (Sector 12/A), with full service coverage across all 24 districts of Jharkhand, including Jamshedpur, Dhanbad, Deoghar, Hazaribagh, Ramgarh, Giridih, Chaibasa, Medininagar, Dumka, and Koderma.
+              We operate primary branches in Ranchi (Anandpuri Chowk, Vidyanagar Road, Harmu) and Bokaro Steel City (Plot no - 54/c, Post office sector - 12/A), with full service coverage across all 24 districts of Jharkhand, including Jamshedpur, Dhanbad, Deoghar, Hazaribagh, Ramgarh, Giridih, Chaibasa, Medininagar, Dumka, and Koderma.
             </p>
           </div>
 
@@ -673,7 +673,7 @@ require_once __DIR__ . '/includes/seo.php';
               <span>How can I book or contact Shree Ashirwad Packers for a survey?</span>
             </div>
             <p class="about-faq-a">
-              You can call our direct customer helpline at <strong>8409531615</strong> or <strong>9835565233</strong>, or connect via WhatsApp to schedule a free in-home physical survey or instant video estimate with a relocation consultant.
+              You can call our direct customer helpline at <strong>8409531615</strong>, or connect via WhatsApp to schedule a free in-home physical survey or instant video estimate with a relocation consultant.
             </p>
           </div>
 
