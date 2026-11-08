@@ -1,8 +1,14 @@
 <?php
+/**
+ * Single Item and Luggage Transport in Ranchi - Shree Ashirwad Packers and Movers
+ */
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
+
 // Dynamic SEO Configuration for Single Item and Luggage Transport in Ranchi
 $page_title = "Single Item & Luggage Transport in Ranchi | Affordable Mini Move from ₹499";
-$page_description = "Looking to move a single refrigerator, sofa, washing machine, bed, or luggage suitcases in Ranchi? Shree Ashirwad Packers offers quick, affordable single-item shifting & shared mini-truck transport. Call +91 9835565233.";
-$canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-transport-ranchi";
+$page_description = "Looking to move a single refrigerator, sofa, washing machine, bed, or luggage suitcases in Ranchi? Shree Ashirwad Packers offers quick, affordable single-item shifting & shared mini-truck transport. Call +91 8409531615.";
+$canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/single-item-and-luggage-transport-ranchi";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,13 +27,13 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Small Move & Luggage Division",
-        "image": "https://shreeashirwadpackers.com/images/household-appliances-protective-cover-ranchi.jpg",
+        "image": "<?php echo SITE_BASE_URL; ?>/images/household-appliances-protective-cover-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "+918409531615",
         "priceRange": "₹499 - ₹3,500",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Road, Near Sahjanand Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -35,8 +41,8 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3512,
-            "longitude": 85.3129
+            "latitude": 23.3639813,
+            "longitude": 85.3090259
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -57,17 +63,23 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "<?php echo SITE_BASE_URL; ?>/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "https://shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
+                "name": "Single Item & Luggage Transport in Ranchi",
+                "item": "<?php echo $canonical_url; ?>"
+            }
+        ]
+    }
+    </script>
                 "name": "Single Item & Luggage Transport",
                 "item": "<?php echo $canonical_url; ?>"
             }
@@ -350,7 +362,20 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Single Item & Luggage in Ranchi</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <div class="sit-page-wrap">
 
@@ -358,7 +383,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
     <section class="sit-hero-banner">
         <h1 class="sit-hero-title">Single Item & Luggage Transport in Ranchi</h1>
         <p class="sit-hero-subtitle">Fast, Low-Cost Shifting for Individual Appliances, Single Furniture, Baggage & Trunks. Local Doorstep Delivery within Ranchi & Shared Intercity Consignments.</p>
-        <a href="tel:+919835565233" class="sit-cta-btn">Book Small Move: +91 9835565233</a>
+        <a href="tel:+918409531615" class="sit-cta-btn">Book Small Move: +91 8409531615</a>
     </section>
 
     <!-- Main Container -->
@@ -525,7 +550,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
                 <p><strong>Residential Hubs:</strong> Harmu Housing Colony, Ashok Nagar, Sail Township Dhurwa, CMPDI Colony, Morabadi, Bariatu, Kanke Road.</p>
                 <p><strong>Commercial & University Belts:</strong> Main Road, Upper Bazaar, Lalpur, Doranda, Hinoo, BIT Mesra Campus, RIMS Campus, Namkum, Tatisilwai.</p>
                 <p>Regardless of whether your building has elevator access or narrow stairs, our loaders handle vertical carrying safely using heavy-duty lifting harnesses.</p>
-                <p>Visit our central authority guide at <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> to explore full-service shifting solutions.</p>
+                <p>Visit our central authority guide at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> to explore full-service shifting solutions.</p>
             </div>
         </div>
 
@@ -572,7 +597,7 @@ $canonical_url = "https://shreeashirwadpackers.com/single-item-and-luggage-trans
     </div>
 </div>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

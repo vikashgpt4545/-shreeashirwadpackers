@@ -66,7 +66,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
         "name": "Shree Ashirwad Packers and Movers Chakradharpur to Bokaro",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-8409531615",
+        "telephone": "<?php echo SECONDARY_PHONE; ?>",
         "priceRange": "₹7,000 - ₹30,000",
         "address": {
             "@type": "PostalAddress",
@@ -111,7 +111,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-8409531615",
+            "telephone": "<?php echo SECONDARY_PHONE; ?>",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
@@ -519,7 +519,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 <nav aria-label="breadcrumb" style="margin-bottom: 15px;">
                     <ol class="breadcrumb" style="background: transparent; padding: 0; margin: 0; font-size: 0.9rem;">
                         <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a></li>
-                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/services" style="color: #93c5fd; text-decoration: none;">Services</a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #93c5fd; text-decoration: none;">Bokaro Packers and Movers</a></li>
                         <li class="breadcrumb-item active" aria-current="page" style="color: #ffffff;">Chakradharpur to Bokaro</li>
                     </ol>
                 </nav>
@@ -534,7 +534,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     <span class="hero-meta-badge"><i class="fas fa-file-invoice"></i> IBA Approved Bills</span>
                 </div>
                 <div class="hero-cta-group">
-                    <a href="tel:+918409531615" class="btn-brand-primary"><i class="fas fa-phone-alt"></i> Call +91-8409531615</a>
+                    <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-brand-primary"><i class="fas fa-phone-alt"></i> Call <?php echo SECONDARY_PHONE; ?></a>
                     <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn-brand-secondary"><i class="fas fa-calculator"></i> Get Free Moving Quote</a>
                 </div>
             </div>
@@ -577,7 +577,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     If you are searching for reliable movers and packers near me from Chakradharpur to Bokaro, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for instant booking and free quote.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><?php echo SECONDARY_PHONE; ?></strong> for instant booking and free quote.
                 </p>
             </div>
         </div>
@@ -1110,6 +1110,30 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
     </div>
 </section>
 
+<!-- Intercity Route Cluster Navigation -->
+<section class="content-section bg-light" style="padding-top: 20px;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 28px; box-shadow: 0 2px 10px rgba(0,0,0,0.03);">
+            <h3 style="font-size: 1.4rem; font-weight: 700; color: #0f223d; margin-bottom: 1rem;">
+                Explore Connected Bokaro &amp; Jharkhand Relocation Routes
+            </h3>
+            <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1.5rem;">
+                Connect seamlessly across our industrial and interdistrict relocation network linking Chakradharpur and Bokaro Steel City:
+            </p>
+            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro Hub Main Page</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-chakradharpur-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Chakradharpur (Return Route)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Sector 4 Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Chas Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Dhanbad</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Household Shifting Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/pricing" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Cost Calculator &amp; Rates</a>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Call to Action Banner -->
 <section class="content-section">
     <div class="container">
@@ -1119,7 +1143,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 Experience safe, transparent, and seamless moving with Jharkhand's most trusted relocation specialist. Get your free personalized estimate in under 5 minutes.
             </p>
             <div class="hero-cta-group" style="justify-content: center;">
-                <a href="tel:+918409531615" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 34px;"><i class="fas fa-phone-alt"></i> Call +91-8409531615</a>
+                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 34px;"><i class="fas fa-phone-alt"></i> Call <?php echo SECONDARY_PHONE; ?></a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn-brand-secondary" style="font-size: 1.1rem; padding: 14px 30px;"><i class="fas fa-calendar-check"></i> Book Your Moving Date</a>
             </div>
         </div>

@@ -14,8 +14,11 @@ $page_title = "Ranchi to Darbhanga Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Darbhanga packers and movers by Shree Ashirwad. 24-hr express transit via NH-27, LNMU & Govt transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-darbhanga-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -664,12 +667,12 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate packers and movers relocation service from Ranchi, Jharkhand to Darbhanga, Mithila, Bihar. 24-hr express linehaul over NH-20, NH-22 and NH-27 East-West Corridor, 5-layer protective packing, Lalit Narayan Mithila University (LNMU) faculty shifting, DMCH/AIIMS doctors relocation, and zero-transshipment sealed container fleets.",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹12,000 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Argora",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -778,8 +781,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -887,12 +890,19 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 
 <body>
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php require_once BASE_PATH . '/includes/header.php'; ?>
 
   <div class="r2d-wrap">
     <!-- Hero Section -->
     <header class="r2d-hero">
       <div class="r2d-container">
+        <nav class="r2d-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+          <span style="color:#64748b;">/</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+          <span style="color:#64748b;">/</span>
+          <span style="color:#fde047; font-weight:600;">Ranchi to Darbhanga</span>
+        </nav>
         <div class="r2d-hero-inner">
           <div class="r2d-badge">
             <span>★</span> Verified Mithila Interstate Corridor • 445 KM Express Linehaul
@@ -1399,7 +1409,7 @@ require_once __DIR__ . '/includes/seo.php';
         </p>
         <div class="r2d-cluster-links">
           <a href="<?php echo SITE_BASE_URL; ?>/darbhanga-to-ranchi-packers-and-movers" class="r2d-cluster-link">Darbhanga to Ranchi (Return)</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2d-cluster-link">Ranchi Relocation Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2d-cluster-link">Packers and Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-muzaffarpur-packers-and-movers" class="r2d-cluster-link">Ranchi to Muzaffarpur Route</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhagalpur-packers-and-movers" class="r2d-cluster-link">Ranchi to Bhagalpur Route</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gaya-packers-and-movers" class="r2d-cluster-link">Ranchi to Gaya Route</a>
@@ -1411,6 +1421,6 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </div>
 
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

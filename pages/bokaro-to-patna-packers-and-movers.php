@@ -9,7 +9,7 @@
 
 // Define page-specific metadata
 $page_title = "Packers and Movers Bokaro to Patna | Best Moving Company - 9835565233";
-$page_description = "Looking for the best packers and movers from Bokaro to Patna? Shree Ashirwad Packers offers express 330 km household shifting, car carrier, bike courier & IBA claim bills. Call +91 9835565233.";
+$page_description = "Looking for the best packers and movers from Bokaro to Patna? Shree Ashirwad Packers offers express 330 km household shifting, car carrier, bike courier & IBA claim bills. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-patna-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -69,7 +69,9 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg",
     "description": "Specialized intercity and interstate relocation service connecting Bokaro Steel City & Chas to Patna, Bihar. Features dedicated container trucks, Rajauli ghati transit safety, 5-layer packing, e-Way bill compliance, and IBA approved bills.",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "email": "<?php echo OFFICIAL_EMAIL; ?>",
+    "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
     "priceRange": "₹2,500 - ₹52,000",
     "address": {
       "@type": "PostalAddress",
@@ -90,6 +92,13 @@ require_once __DIR__ . '/includes/seo.php';
       "opens": "07:00",
       "closes": "22:00"
     },
+    "sameAs": [
+      "<?php echo SOCIAL_FACEBOOK; ?>",
+      "<?php echo SOCIAL_TWITTER; ?>",
+      "<?php echo SOCIAL_INSTAGRAM; ?>",
+      "<?php echo SOCIAL_YOUTUBE; ?>",
+      "<?php echo SOCIAL_PINTEREST; ?>"
+    ],
     "areaServed": [
       { "@type": "City", "name": "Bokaro Steel City" },
       { "@type": "City", "name": "Patna" },
@@ -374,8 +383,7 @@ require_once __DIR__ . '/includes/seo.php';
           <div style="margin: 30px auto; max-width: 550px; text-align: center;">
             <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" 
                  alt="Intercity shifting truck loading goods in Bokaro for Patna delivery" 
-                 style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;"
-                 loading="lazy">
+                 style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;">
             <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px; font-style: italic;">
               Dedicated containerized trucks loaded in Bokaro Steel City ensure prompt, weather-protected transit to Patna via NH-19 and NH-22.
             </p>
@@ -447,8 +455,7 @@ require_once __DIR__ . '/includes/seo.php';
           <div style="margin: 30px 0; text-align: center;">
             <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" 
                  alt="Door-to-door delivery truck navigating residential neighborhoods in Patna" 
-                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
-                 loading="lazy">
+                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);">
             <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px; font-style: italic;">
               Flexible delivery trucks enable smooth doorstep unloading in tight residential colonies across Patna and Bokaro.
             </p>
@@ -577,8 +584,7 @@ require_once __DIR__ . '/includes/seo.php';
           <div style="margin: 30px 0; text-align: center;">
             <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/scooter-bike-safe-transit-packing-jharkhand.jpg" 
                  alt="Two wheeler safe transit packing for Bokaro to Patna move" 
-                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
-                 loading="lazy">
+                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);">
             <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px; font-style: italic;">
               High-grade foam cushioning and heavy strapping protect two-wheelers against shocks across the Jharkhand-Bihar highway.
             </p>
@@ -663,8 +669,7 @@ require_once __DIR__ . '/includes/seo.php';
           <div style="margin: 30px 0; text-align: center;">
             <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/double-bed-furniture-dismantling-ranchi.jpg" 
                  alt="Furniture dismantling and assembly services for Bokaro to Patna move" 
-                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
-                 loading="lazy">
+                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);">
             <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px; font-style: italic;">
               Skilled carpenters dismantle storage double beds and wardrobes in Bokaro and reassemble them flawlessly at your destination in Patna.
             </p>
@@ -766,8 +771,8 @@ require_once __DIR__ . '/includes/seo.php';
             Enjoy specialized Rajauli ghati transit safety, 5-layer anti-vibration packaging, same-day/overnight delivery, full transit insurance, and hassle-free IBA claim documentation.
           </p>
           <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-            <a href="tel:+919835565233" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
-              Call Dispatch: +91 9835565233
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
+              Call Dispatch: <?php echo SECONDARY_PHONE; ?>
             </a>
             <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 600; text-decoration: none;">
               Get Instant WhatsApp Estimate &rarr;
@@ -785,13 +790,19 @@ require_once __DIR__ . '/includes/seo.php';
           </p>
           <div style="display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.9rem;">
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers and Movers in Bokaro</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers and Movers in Chas</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 4 Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 12 Bokaro Branch</a>
             <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Household Shifting in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Car Transport in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bike Transport in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Ranchi Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Dhanbad Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-jamshedpur-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Jamshedpur Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Kolkata Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Delhi Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Bangalore Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bangalore to Bokaro Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color: #ff6a28; text-decoration: none; background: #fff7ed; padding: 9px 15px; border-radius: 6px; font-weight: 700; border: 1px solid #fed7aa;">Bokaro to Patna Movers (Current)</a>
             <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Dhanbad to Bokaro Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro Shifting Guide</a>
           </div>
@@ -803,6 +814,5 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Global Footer -->
   <?php include __DIR__ . '/includes/footer.php'; ?>
-  <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>
 </body>
 </html>

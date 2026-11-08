@@ -10,6 +10,7 @@
 if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Ranchi to Ormanjhi | Fast Local Shifting";
 $page_desc = "Trusted packers and movers from Ranchi to Ormanjhi. 20 km express transit via NH-20, 5-layer packing, suburban home & hospital moves, car & bike parcel.";
@@ -66,14 +67,15 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "name": "Shree Ashirwad Packers and Movers Ranchi to Ormanjhi",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹4,000 - ₹28,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Booty More, Bariatu Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834009",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -111,7 +113,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91 9835565233",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
@@ -152,8 +154,8 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Packers and Movers",
-                "item": "https://www.shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -268,7 +270,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/"><i class="fa fa-home"></i> Home</a></li>
-                <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/services">Shifting Routes</a></li>
+                <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Ranchi to Ormanjhi Packers and Movers</li>
             </ol>
         </nav>
@@ -290,7 +292,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     <div class="feat-item"><i class="fa fa-check-circle"></i> IBA Approved Bills for Hospital & Institutional Transfers</div>
                 </div>
                 <div class="hero-cta">
-                    <a href="tel:+919835565233" class="btn btn-primary"><i class="fa fa-phone-alt"></i> Call +91 9835565233</a>
+                    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn btn-primary"><i class="fa fa-phone-alt"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
                     <a href="#quote-form" class="btn btn-outline">Instant Price Calculation</a>
                 </div>
             </div>
@@ -298,7 +300,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                 <div class="quote-card" id="quote-form">
                     <h3>Get Quick Shifting Quote</h3>
                     <p>Express door-to-door relocation Ranchi to Ormanjhi</p>
-                    <form action="<?php echo SITE_BASE_URL; ?>/contact" method="post" class="route-lead-form">
+                    <form action="<?php echo SITE_BASE_URL; ?>/contact-us" method="post" class="route-lead-form">
                         <div class="form-group">
                             <label><i class="fa fa-user"></i> Full Name</label>
                             <input type="text" name="name" class="form-control" placeholder="Enter your full name" required>
@@ -371,7 +373,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Ormanjhi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Ormanjhi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Ormanjhi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Ormanjhi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Ormanjhi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -916,14 +918,30 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
     </div>
 </section>
 
+<!-- Connected Shifting Resources Module -->
+<section class="section" style="padding: 40px 0; background: #f8fafc;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f223d; margin-top: 0; margin-bottom: 12px;">Connected Intra-District Moving Corridors &amp; Authority Hubs</h3>
+            <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, tariff calculators, and reciprocal return corridors:</p>
+            <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d6efd; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ranchi (HQ)</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/ormanjhi-to-ranchi-packers-and-movers" style="color: #0d6efd; text-decoration: none; font-weight: 600;">&#8594; Return Route: Ormanjhi to Ranchi Movers</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0d6efd; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Charges &amp; Tariff Calculator</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-tatisilwai-packers-and-movers" style="color: #0d6efd; text-decoration: none; font-weight: 600;">&#8594; Ranchi to Tatisilwai Movers</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
 <!-- Call to Action Section -->
 <section class="section cta-section text-center">
     <div class="container">
         <h2>Ready for a Fast, Stress-Free Move from Ranchi to Ormanjhi?</h2>
         <p>Book with Jharkhand's most trusted local packers and movers. Enjoy same-day delivery, 5-layer protective packing, and complete damage-free assurance.</p>
         <div class="cta-buttons">
-            <a href="tel:+919835565233" class="btn btn-primary btn-lg"><i class="fa fa-phone-alt"></i> Call Now: +91 9835565233</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline btn-lg"><i class="fa fa-calendar-alt"></i> Schedule Free Pre-Move Survey</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn btn-primary btn-lg"><i class="fa fa-phone-alt"></i> Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn btn-outline btn-lg"><i class="fa fa-calendar-alt"></i> Schedule Free Pre-Move Survey</a>
         </div>
     </div>
 </section>

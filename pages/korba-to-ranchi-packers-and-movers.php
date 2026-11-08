@@ -5,7 +5,11 @@
  * Canonical URL: https://www.shreeashirwadpackers.com/korba-to-ranchi-packers-and-movers
  * Description: Dependable interstate shifting services from Korba (Chhattisgarh) to Ranchi. Professional packing for SECL to CCL coal mine transfers, NTPC & BALCO personnel, household moving, and secure car transport via NH43.
  */
-include_once __DIR__ . '/../includes/config.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,20 +30,21 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Korba to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/korba-to-ranchi-packers-and-movers",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "INR 13,500 - 56,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Transport Nagar Main Road & Kosabadi",
-      "addressLocality": "Korba",
-      "addressRegion": "Chhattisgarh",
-      "postalCode": "495677",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+      "addressLocality": "Ranchi",
+      "addressRegion": "Jharkhand",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 22.3595,
-      "longitude": 82.7501
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "areaServed": [
       {
@@ -77,13 +82,13 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Routes",
-        "item": "https://www.shreeashirwadpackers.com/routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -102,7 +107,8 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Relocation Service from Korba to Ranchi",
     "provider": {
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers"
+      "name": "Shree Ashirwad Packers and Movers",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
     },
     "serviceType": "Interstate Relocation & Logistics",
     "areaServed": {
@@ -414,7 +420,18 @@ include_once __DIR__ . '/../includes/config.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="kb2r-container" style="padding-top: 0; padding-bottom: 0; font-size: 0.88rem; color: #64748b;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338ca; text-decoration: none; font-weight: 500;">Home</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338ca; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Korba to Ranchi</span>
+    </div>
+</nav>
 
 <!-- Hero Section -->
 <section class="kb2r-hero">
@@ -725,6 +742,10 @@ include_once __DIR__ . '/../includes/config.php';
       <p style="font-size: 0.95rem; color: #64748b; margin: 0;">Direct container linehaul connecting Korba with Ranchi headquarters, Chhattisgarh energy cities, and steel corridors.</p>
     </div>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem;">
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+        <span>Packers and Movers in Ranchi</span>
+        <span style="color: #0284c7;">→</span>
+      </a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-korba-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
         <span>Ranchi to Korba (Outbound)</span>
         <span style="color: #0284c7;">→</span>
@@ -764,7 +785,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 </div>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

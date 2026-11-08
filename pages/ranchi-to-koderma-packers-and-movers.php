@@ -14,8 +14,10 @@ $page_title = "Ranchi to Koderma Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Ranchi to Koderma packers and movers by Shree Ashirwad. Same-day 4-hr shifting via NH-20, Jhumri Telaiya DVC bills & 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-koderma-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/../includes/config.php';
+}
+require_once __DIR__ . '/../includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -73,14 +75,14 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "currenciesAccepted": "INR",
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -119,7 +121,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+919835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "https://www.shreeashirwadpackers.com/"
     },
     "areaServed": [
@@ -151,13 +153,13 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "<?php echo SITE_BASE_URL; ?>/"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Jharkhand Intercity Routes",
-        "item": "<?php echo SITE_BASE_URL; ?>/#routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -717,6 +719,13 @@ require_once __DIR__ . '/includes/seo.php';
 <!-- Hero Section -->
 <section class="route-koderma-hero">
   <div class="container">
+    <nav aria-label="breadcrumb" style="margin-bottom: 15px;">
+      <ol class="breadcrumb" style="background: transparent; padding: 0; margin: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #ccfbf1; text-decoration: none;">Home</a></li>
+        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #ccfbf1; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #ffffff;">Ranchi to Koderma</li>
+      </ol>
+    </nav>
     <h1>Ranchi to Koderma Packers and Movers | Jhumri Telaiya Express Relocation</h1>
     <p>Certified door-to-door household shifting, specialized Damodar Valley Corporation (DVC KTPS) and East Central Railway staff relocation documentation, Jhumri Telaiya merchant moves, and mica-dustproof sealed container fleet transit connecting Ranchi to Koderma in 4 hours via NH-20.</p>
     
@@ -734,8 +743,8 @@ require_once __DIR__ . '/includes/seo.php';
         Relocating between Ranchi & Koderma / Jhumri Telaiya? Reserve your dedicated container truck today:
       </div>
       <div class="phone-wrap">
-        <a href="tel:+919835565233" class="btn-koderma-call">📞 Call 9835565233</a>
-        <a href="tel:+919835565233" class="btn-koderma-call">📱 Call 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-koderma-call">📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+        <a href="https://wa.me/<?php echo str_replace('+', '', PRIMARY_PHONE_RAW); ?>?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Koderma%20shifting" class="btn-koderma-call" target="_blank" rel="noopener">💬 WhatsApp Quote</a>
       </div>
     </div>
   </div>
@@ -779,7 +788,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Koderma</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Koderma</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Koderma</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Koderma</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Koderma</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1068,8 +1077,8 @@ require_once __DIR__ . '/includes/seo.php';
     <h3>Plan Your Stress-Free Move from Ranchi to Koderma Today</h3>
     <p>Contact our senior moving coordinator for an instant written quotation, customized packing plan, and guaranteed same-day linehaul booking.</p>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-      <a href="tel:+919835565233" class="btn-cta-teal">📞 Call 9835565233</a>
-      <a href="tel:+919835565233" class="btn-cta-teal">📱 Call 9835565233</a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-cta-teal">📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+      <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn-cta-teal">📋 Get Free Quote</a>
     </div>
   </section>
 
@@ -1125,7 +1134,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0; color:#0f172a;">Related Relocation Services & Jharkhand Intercity Corridors</h3>
     <p style="font-size: 0.95rem; color: #475569;">Explore connected relocation hubs, pricing charts, and regional corridors connecting with Ranchi and Koderma:</p>
     <div class="cluster-grid-koderma">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-koderma">🏠 Ranchi Headquarters Main Hub</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-koderma">🏠 Ranchi Headquarters Main Hub</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-koderma">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-koderma">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="cluster-link-koderma">📦 Household Shifting in Ranchi</a>

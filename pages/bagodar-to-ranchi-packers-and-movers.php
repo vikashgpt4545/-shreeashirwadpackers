@@ -10,6 +10,7 @@
 if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Bagodar to Ranchi Packers and Movers | Best Shifting Services - Shree Ashirwad";
 $page_desc = "Looking for the best packers and movers from Bagodar to Ranchi? Shree Ashirwad offers 140 km express 3.5-4.5 hr transit via NH-522 & NH-20, household shifting, bike transport, car carrier, IBA approved bill. Call +91 9835565233.";
@@ -453,7 +454,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         <div class="bag2ran-container">
             <nav class="bag2ran-breadcrumbs" aria-label="Breadcrumb">
                 <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &raquo;
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bagodar">Bagodar Packers</a> &raquo;
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> &raquo;
                 <span>Bagodar to Ranchi</span>
             </nav>
             <h1 class="bag2ran-hero-title">Packers and Movers Bagodar to Ranchi</h1>
@@ -522,7 +523,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     If you are searching for reliable movers and packers near me from Bagodar to Ranchi, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for instant booking and free quote.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: inherit; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for instant booking and free quote.
                 </p>
             </div>
         </div>
@@ -755,7 +756,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
             <div class="bag2ran-cta">
                 <h3>Ready for a Smooth Move from Bagodar to Ranchi?</h3>
                 <p>Contact Shree Ashirwad Packers and Movers today for a free on-site survey and transparent shifting estimate. Experience stress-free, insured relocation with Jharkhand's most trusted logistics partner.</p>
-                <a href="tel:+918409531615" class="bag2ran-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 8409531615 / 9835565233</a>
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="bag2ran-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             </div>
         </div>
     </section>
@@ -801,24 +802,25 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers",
+        "name": "Shree Ashirwad Packers and Movers Bagodar to Ranchi",
         "image": "<?php echo $og_image; ?>",
         "@id": "<?php echo $canonical_url; ?>#movingcompany",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 6500 - 24500",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "GT Road, Near Harihar Dham Chowk",
-            "addressLocality": "Bagodar",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "825322",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 24.0833,
-            "longitude": 85.9667
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -851,7 +853,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+919835565233",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
             "url": "https://www.shreeashirwadpackers.com/"
         },
         "areaServed": {
@@ -872,13 +874,13 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "<?php echo SITE_BASE_URL; ?>/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Bagodar Packers",
-                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bagodar"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",

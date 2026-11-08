@@ -3,7 +3,7 @@ require_once __DIR__ . '/includes/config.php';
 
 // Define page-specific variables
 $page_title = "Packers and Movers in Phusro - 9835565233";
-$page_description = "Hire verified packers and movers in Phusro & Bermo by Shree Ashirwad Packers. IBA approved bills, CCL quarter shifting, car & bike parcel. Call 9835565233.";
+$page_description = "Hire verified packers and movers in Phusro & Bermo by Shree Ashirwad Packers. IBA approved bills, CCL quarter shifting, car & bike parcel. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phusro";
 ?>
 <!DOCTYPE html>
@@ -30,26 +30,33 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
     {
       "@context": "https://schema.org",
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers Phusro",
+      "name": "Shree Ashirwad Packers and Movers - Bokaro Branch (Serving Phusro)",
       "image": "https://www.shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
-      "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-phusro",
+      "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-phusro/#movingcompany",
       "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-phusro",
-      "telephone": "+919835565233",
+      "telephone": "+918409531615",
+      "email": "<?php echo OFFICIAL_EMAIL; ?>",
+      "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
       "priceRange": "₹3,500 - ₹55,000",
-        "keywords": "packers and movers in phusro, movers and packers phusro, packers and movers in bermo phusro, household shifting phusro bokaro, house relocation phusro jharkhand, best packers and movers phusro, car transportation phusro, bike parcel phusro, ccl employee packers and movers phusro, iba approved packers in phusro",
+      "keywords": "packers and movers in phusro, movers and packers phusro, packers and movers in bermo phusro, household shifting phusro bokaro, house relocation phusro jharkhand, best packers and movers phusro, car transportation phusro, bike parcel phusro, ccl employee packers and movers phusro, iba approved packers in phusro",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Main Road, Near Bank More Chowk",
-        "addressLocality": "Phusro",
+        "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
+        "addressLocality": "Bokaro Steel City",
         "addressRegion": "Jharkhand",
-        "postalCode": "829144",
+        "postalCode": "827012",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 23.7602,
-        "longitude": 85.9755
+        "latitude": 23.6693,
+        "longitude": 86.1511
       },
+      "areaServed": [
+        { "@type": "Place", "name": "Phusro, Bokaro" },
+        { "@type": "Place", "name": "Bermo, Bokaro" },
+        { "@type": "City", "name": "Bokaro Steel City" }
+      ],
       "openingHoursSpecification": {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": [
@@ -65,8 +72,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
         "closes": "23:59"
       },
       "sameAs": [
-        "https://www.facebook.com/shreeashirwadpackers",
-        "https://twitter.com/ashirwadpackers"
+        "<?php echo SOCIAL_FACEBOOK; ?>",
+        "<?php echo SOCIAL_TWITTER; ?>",
+        "<?php echo SOCIAL_INSTAGRAM; ?>",
+        "<?php echo SOCIAL_YOUTUBE; ?>",
+        "<?php echo SOCIAL_PINTEREST; ?>"
       ]
     }
     </script>
@@ -85,8 +95,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Jharkhand",
-          "item": "https://www.shreeashirwadpackers.com/#service-areas"
+          "name": "Packers and Movers in Bokaro",
+          "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro"
         },
         {
           "@type": "ListItem",
@@ -180,7 +190,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
           "name": "How quickly can I book a doorstep moving survey in Phusro?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Booking is quick and simple. Call our direct helpline at +91 9835565233 or submit your moving details on WhatsApp. Our coordinator will schedule a doorstep physical survey or video-call inventory assessment and provide a fixed-price written quotation without hidden add-ons."
+            "text": "Booking is quick and simple. Call our direct helpline at +91 8409531615 or submit your moving details on WhatsApp. Our coordinator will schedule a doorstep physical survey or video-call inventory assessment and provide a fixed-price written quotation without hidden add-ons."
           }
         }
       ]
@@ -223,8 +233,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
                 </div>
             </div>
             <div class="hero-actions" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:9835565233" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
+                <a href="tel:+918409531615" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 8409531615
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-calculator"></i> Get Free Moving Estimate
@@ -233,6 +243,17 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
         </div>
     </div>
 </section>
+
+<!-- Breadcrumb Navigation -->
+<nav aria-label="Breadcrumb" style="background: #f1f5f9; padding: 12px 0; border-bottom: 1px solid #e2e8f0; font-size: 14px;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px; color: #64748b;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0b2545; text-decoration: none; font-weight: 600;">Home</a>
+        <span style="margin: 0 8px;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0b2545; text-decoration: none; font-weight: 600;">Packers and Movers in Bokaro</a>
+        <span style="margin: 0 8px;">/</span>
+        <span style="color: #ea580c; font-weight: 700;">Phusro</span>
+    </div>
+</nav>
 
 <!-- Credentials & Trust Bar -->
 <section style="background: #f8fafc; border-bottom: 1px solid #e2e8f0; padding: 25px 0;">
@@ -274,47 +295,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
 <main style="padding: 50px 0; background: #ffffff;">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
 
-                <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers in Phusro
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers in Phusro</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Phusro and nearby areas with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Phusro</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including Phusro Bazar, Bermo Seam, Dhori, Karo Colliery, Makoli, Kargali, Jaridih Bazar, and Bokaro Thermal road for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Phusro</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service in Phusro</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Phusro</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me in Phusro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Phusro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Phusro</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
-
         <!-- Overview Section with Feature Pills -->
         <section class="intro-section" style="margin-bottom: 50px;">
             <div style="text-align: center; max-width: 800px; margin: 0 auto 30px;">
@@ -333,7 +313,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
                         Phusro, organized administratively as the bustling Phusro Nagar Parishad, stands as the economic, commercial, and transportation nerve center of the Bermo coalfield subdivision in Bokaro district. Nestled along the fertile banks of the Damodar River, approximately 35 kilometers northwest of Bokaro Steel City and 15 kilometers east of Gomia, Phusro is intrinsically tied to India’s coal mining industrial engine. Dominated by Central Coalfields Limited (CCL) installations including Dhori Area, Amlo Open Cast Mine, Kalyani, and Tarmi, alongside nearby DVC power facilities and East Central Railway yards, Phusro is home to thousands of engineers, mining executives, administrative personnel, and vibrant trade merchant communities.
                     </p>
                     <p style="font-size: 16px; line-height: 1.8; color: #334155; margin-bottom: 18px;">
-                        Relocating within an active mining corridor demands specialized packaging techniques designed to repel abrasive coal dust, navigate winding colliery quarter lanes, and coordinate strict industrial security clearances. At <strong>Shree Ashirwad Packers and Movers</strong>, we bring over 16 years of dedicated experience to Phusro. Whether you are moving from colliery quarters in Kargali Gate or Dhori to Bokaro Steel City, transferring across subsidiaries to BCCL Dhanbad or ECL Asansol, or moving to state capitals like Ranchi, Patna, or Kolkata, our specialized moving fleets guarantee complete peace of mind.
+                        Relocating within an active mining corridor demands specialized packaging techniques designed to repel abrasive coal dust, navigate winding colliery quarter lanes, and coordinate strict industrial security clearances. At <strong>Shree Ashirwad Packers and Movers</strong>, we serve Phusro directly from our verified Bokaro district branch at <strong>Plot no - 54/c, Post office sector - 12/A, Bokaro - 827012</strong>. Whether you are moving from colliery quarters in Kargali Gate or Dhori to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; font-weight: 600;">Bokaro Steel City</a>, transferring across subsidiaries to BCCL Dhanbad or ECL Asansol, or moving to state capitals like Ranchi, Patna, or Kolkata, our specialized moving fleets guarantee complete peace of mind.
                     </p>
                     <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
                         <span style="background: #e2e8f0; color: #0f172a; padding: 6px 14px; border-radius: 16px; font-size: 13px; font-weight: 600;">
@@ -974,7 +954,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
                         How quickly can I book a doorstep moving survey in Phusro?
                     </h4>
                     <p style="font-size: 14px; color: #555; line-height: 1.7; margin: 0;">
-                        Booking is quick and simple. Call our direct helpline at +91 9835565233 or submit your moving details on WhatsApp. Our coordinator will schedule a doorstep physical survey or video-call inventory assessment and provide a fixed-price written quotation without hidden add-ons.
+                        Booking is quick and simple. Call our direct helpline at +91 8409531615 or submit your moving details on WhatsApp. Our coordinator will schedule a doorstep physical survey or video-call inventory assessment and provide a fixed-price written quotation without hidden add-ons.
                     </p>
                 </div>
             </div>
@@ -992,8 +972,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-phu
                 Trust Phusro's highest-rated packing and moving team. Benefit from IBA-approved billing, dust-proof container transit, and dedicated relocation support across Bokaro district.
             </p>
             <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-                <a href="tel:+919835565233" style="background: #ffb703; color: #000814; padding: 14px 30px; border-radius: 6px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 16px;">
-                    <i class="fa-solid fa-phone"></i> Call Now: +91 9835565233
+                <a href="tel:+918409531615" style="background: #ffb703; color: #000814; padding: 14px 30px; border-radius: 6px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 16px;">
+                    <i class="fa-solid fa-phone"></i> Call Now: +91 8409531615
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" style="background: transparent; color: #ffffff; border: 2px solid #ffffff; padding: 12px 28px; border-radius: 6px; font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 16px;">
                     <i class="fa-solid fa-calendar-check"></i> Book Free Survey

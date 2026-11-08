@@ -15,8 +15,11 @@ $page_title = "Pune to Ranchi Packers & Movers | Shree Ashirwad";
 $page_description = "Top Pune to Ranchi packers and movers by Shree Ashirwad. Dedicated container transit, IT workstation packing, car/bike carrier, GST bills. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/pune-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,500 - ₹68,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -330,6 +333,7 @@ require_once __DIR__ . '/includes/seo.php';
       color: #fbbf24;
       background: linear-gradient(120deg, #fef08a, #f59e0b);
       -webkit-background-clip: text;
+      background-clip: text;
       -webkit-text-fill-color: transparent;
     }
     .pu2r-hero-desc {
@@ -879,7 +883,33 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body class="pu2r-page-wrapper">
 
-<?php include_once __DIR__ . '/includes/header.php'; ?>
+<?php include BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumb Navigation -->
+<div class="breadcrumb-nav" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <ol style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0; font-size: 0.9rem; align-items: center;" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" style="display: inline-flex; align-items: center;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" itemprop="item" style="color: #2563eb; text-decoration: none; font-weight: 500;">
+          <span itemprop="name">Home</span>
+        </a>
+        <meta itemprop="position" content="1" />
+        <span style="margin: 0 8px; color: #94a3b8;">/</span>
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" style="display: inline-flex; align-items: center;">
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" itemprop="item" style="color: #2563eb; text-decoration: none; font-weight: 500;">
+          <span itemprop="name">Packers and Movers in Ranchi</span>
+        </a>
+        <meta itemprop="position" content="2" />
+        <span style="margin: 0 8px; color: #94a3b8;">/</span>
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page" style="display: inline-flex; align-items: center;">
+        <span itemprop="name" style="color: #475569; font-weight: 600;">Pune to Ranchi</span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
+  </div>
+</div>
 
 <!-- Hero Section -->
 <section class="pu2r-hero-section">
@@ -915,11 +945,11 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Action Buttons -->
     <div class="pu2r-hero-cta">
-      <a href="tel:+919835565233" class="pu2r-btn-primary">
-        📞 Call +91-9835565233
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="pu2r-btn-primary">
+        📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
       </a>
-      <a href="tel:+919835565233" class="pu2r-btn-secondary">
-        📱 WhatsApp +91-9835565233
+      <a href="https://wa.me/918409531615" class="pu2r-btn-secondary" target="_blank" rel="noopener">
+        📱 WhatsApp <?php echo PRIMARY_PHONE_DISPLAY; ?>
       </a>
     </div>
   </div>
@@ -960,7 +990,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Pune to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Pune to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Pune to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Pune to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Pune to Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1474,8 +1504,11 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="pu2r-cluster-box">
       <h3 class="pu2r-cluster-title">Explore Related Interstate & Regional Moving Corridors</h3>
       <div class="pu2r-links-grid">
-        <a href="<?php echo SITE_BASE_URL; ?>/" class="pu2r-cluster-link">
-          📍 Ranchi Movers Headquarters
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="pu2r-cluster-link">
+          📍 Ranchi Movers Headquarters (Main Hub)
+        </a>
+        <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-pune-packers-and-movers" class="pu2r-cluster-link">
+          🔄 Outbound: Ranchi to Pune Movers
         </a>
         <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-ranchi-packers-and-movers" class="pu2r-cluster-link">
           🚚 Bangalore to Ranchi Movers
@@ -1488,6 +1521,9 @@ require_once __DIR__ . '/includes/seo.php';
         </a>
         <a href="<?php echo SITE_BASE_URL; ?>/patna-to-ranchi-packers-and-movers" class="pu2r-cluster-link">
           🚚 Patna to Ranchi Movers
+        </a>
+        <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-ranchi-packers-and-movers" class="pu2r-cluster-link">
+          🚚 Mumbai to Ranchi Movers
         </a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-packers-and-movers" class="pu2r-cluster-link">
           🚚 Ranchi to Bhopal Movers
@@ -1507,8 +1543,8 @@ require_once __DIR__ . '/includes/seo.php';
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-cuttack-packers-and-movers" class="pu2r-cluster-link">
           🚚 Ranchi to Cuttack Movers
         </a>
-        <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="pu2r-cluster-link">
-          💰 Relocation Cost Calculator
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="pu2r-cluster-link">
+          💰 Ranchi Relocation Tariff Chart
         </a>
       </div>
     </div>
@@ -1520,18 +1556,18 @@ require_once __DIR__ . '/includes/seo.php';
         Get an upfront written quotation, free home survey, and dedicated linehaul truck booking with Shree Ashirwad Packers and Movers. Experience stress-free relocation with guaranteed on-time delivery.
       </p>
       <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:+919835565233" class="pu2r-btn-primary" style="background: #ffffff; color: #9a3412;">
-          📞 Call +91-9835565233
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="pu2r-btn-primary" style="background: #ffffff; color: #9a3412;">
+          📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
         </a>
-        <a href="tel:+919835565233" class="pu2r-btn-secondary" style="border-color: #ffffff; color: #ffffff;">
-          📱 WhatsApp +91-9835565233
+        <a href="https://wa.me/918409531615" class="pu2r-btn-secondary" style="border-color: #ffffff; color: #ffffff;" target="_blank" rel="noopener">
+          📱 WhatsApp <?php echo PRIMARY_PHONE_DISPLAY; ?>
         </a>
       </div>
     </div>
   </div>
 </section>
 
-<?php include_once __DIR__ . '/includes/footer.php'; ?>
+<?php include BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

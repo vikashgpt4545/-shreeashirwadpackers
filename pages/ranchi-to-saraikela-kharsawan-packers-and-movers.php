@@ -6,11 +6,12 @@
  * Focus Keywords: ranchi to saraikela kharsawan packers and movers, packers and movers ranchi to saraikela kharsawan, house shifting ranchi to saraikela kharsawan, car carrier ranchi to saraikela kharsawan, bike transport ranchi to saraikela kharsawan, household moving ranchi saraikela kharsawan
  */
 if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/includes/config.php';
+    require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Ranchi to Saraikela Kharsawan Packers and Movers | Reliable Shifting Services";
-$page_desc = "Safe Ranchi to Saraikela Kharsawan packers and movers. 120 km direct transit via NH-33 & NH-20 State Expressway, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
+$page_desc = "Safe Ranchi to Saraikela Kharsawan packers and movers. 120 km direct transit via NH-33 & NH-20 State Expressway, 5-layer packing, corporate transfer bills, car carrier. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-kharsawan-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -373,11 +374,12 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-khars
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Main Road Main Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -423,7 +425,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-khars
         "serviceType": "Interstate Relocation & Household Shifting",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+            "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": {
             "@type": "City",
@@ -474,8 +478,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-khars
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
-                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -582,11 +586,20 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-khars
 </head>
 <body>
 
-<?php include __DIR__ . '/includes/header.php'; ?>
+<?php include __DIR__ . '/../includes/header.php'; ?>
 
 <!-- Hero Section -->
 <section class="c_ran_sar-hero">
     <div class="container">
+        <!-- Visual Breadcrumb Navigation -->
+        <nav class="breadcrumb-nav" aria-label="Breadcrumb" style="margin-bottom: 20px;">
+            <ol style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.88rem; color: #cbd5e1;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a> &raquo;</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #93c5fd; text-decoration: none;">Packers and Movers in Ranchi</a> &raquo;</li>
+                <li style="color: #ffffff;" aria-current="page">Ranchi to Saraikela Kharsawan</li>
+            </ol>
+        </nav>
+
         <div class="c_ran_sar-badge-strip">
             <span class="c_ran_sar-badge">&#9733; 120 KM Express Interstate Corridor</span>
             <span class="c_ran_sar-badge">&#128666; Sealed All-Weather Closed Containers</span>
@@ -598,9 +611,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-khars
             Dependable, insured, and professional household shifting, vehicle transport, and corporate relocation services connecting Ranchi to Saraikela Kharsawan. Experience 5-layer protective packaging, dedicated closed container trucks, and seamless doorstep delivery.
         </p>
         <div class="c_ran_sar-cta-group">
-            <a href="tel:+919835565233" class="c_ran_sar-btn-primary">
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="c_ran_sar-btn-primary">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                Call Hotline: 084095 31615
+                Call Hotline: <?php echo PRIMARY_PHONE_DISPLAY; ?>
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="c_ran_sar-btn-secondary">
                 Request Express Moving Quote &rarr;
@@ -644,7 +657,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-khars
                 If you are searching for reliable <strong>movers and packers near me from Ranchi to Saraikela Kharsawan</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
             </p>
             <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                Our <strong>professional packers and movers service from Ranchi to Saraikela Kharsawan</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Saraikela Kharsawan</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                Our <strong>professional packers and movers service from Ranchi to Saraikela Kharsawan</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Saraikela Kharsawan</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
             </p>
         </div>
     </div>
@@ -1089,9 +1102,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-khars
             Contact our moving experts for an accurate written estimate, complimentary pre-move assessment, and scheduled delivery.
         </p>
         <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
-            <a href="tel:+919835565233" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                Call Hotline: 084095 31615
+                Call Hotline: <?php echo PRIMARY_PHONE_DISPLAY; ?>
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
                 Request Express Quote &rarr;
@@ -1116,6 +1129,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-khars
     </div>
 </section>
 
-<?php include __DIR__ . '/includes/footer.php'; ?>
+<?php include __DIR__ . '/../includes/footer.php'; ?>
 </body>
 </html>

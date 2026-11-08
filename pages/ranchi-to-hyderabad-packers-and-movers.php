@@ -9,8 +9,11 @@
  * Focus: 1,280 km Deccan & Cyberabad Tech Corridor Relocation, Dedicated & Shared Containers, Car/Bike Transport, IT Workstation Crating, IBA Approved Bills
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Ranchi to Hyderabad Packers and Movers - 9835565233 | Shree Ashirwad Packers";
 $page_description = "Best ranchi to hyderabad packers and movers by Shree Ashirwad. Dedicated container trucks, 5-layer packing, IT crating, car/bike transport & IBA approved bills. Call 9835565233.";
@@ -89,7 +92,7 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹₹",
     "keywords": "ranchi to hyderabad packers and movers, packers and movers ranchi to hyderabad, household shifting ranchi to hyderabad, car transport ranchi to hyderabad",
@@ -97,7 +100,7 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -161,12 +164,12 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+919835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
       "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
         "postalCode": "834002",
@@ -252,8 +255,8 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Routes",
-        "item": "<?php echo SITE_BASE_URL; ?>/#services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -923,8 +926,33 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
 <body>
 
   <!-- Global Header Navigation -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include BASE_PATH . '/includes/header.php'; ?>
 
+  <!-- Breadcrumb Navigation -->
+  <div class="breadcrumb-nav" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <ol style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0; font-size: 0.9rem; align-items: center;" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" style="display: inline-flex; align-items: center;">
+          <a href="<?php echo SITE_BASE_URL; ?>/" itemprop="item" style="color: #2563eb; text-decoration: none; font-weight: 500;">
+            <span itemprop="name">Home</span>
+          </a>
+          <meta itemprop="position" content="1" />
+          <span style="margin: 0 8px; color: #94a3b8;">/</span>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" style="display: inline-flex; align-items: center;">
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" itemprop="item" style="color: #2563eb; text-decoration: none; font-weight: 500;">
+            <span itemprop="name">Packers and Movers in Ranchi</span>
+          </a>
+          <meta itemprop="position" content="2" />
+          <span style="margin: 0 8px; color: #94a3b8;">/</span>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page" style="display: inline-flex; align-items: center;">
+          <span itemprop="name" style="color: #475569; font-weight: 600;">Ranchi to Hyderabad</span>
+          <meta itemprop="position" content="3" />
+        </li>
+      </ol>
+    </div>
+  </div>
       
     <main id="mainContent">
 
@@ -937,7 +965,7 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
         <nav class="rth-breadcrumb" aria-label="Breadcrumb">
           <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
           <span class="rth-breadcrumb-sep">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#services">Intercity Routes</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
           <span class="rth-breadcrumb-sep">&gt;</span>
           <span style="color:#ffffff;">Ranchi to Hyderabad Packers and Movers</span>
         </nav>
@@ -956,9 +984,9 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
         </p>
 
         <div class="rth-cta-row">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-rth-primary">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-rth-primary">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Route Desk: 9835565233
+            Call Route Desk: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-rth-whatsapp">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1023,7 +1051,7 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Hyderabad</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Hyderabad</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Hyderabad</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Hyderabad</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Hyderabad</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1659,6 +1687,8 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
           <div class="rth-tag-cloud" style="margin-bottom: 40px;">
             <a href="<?php echo SITE_BASE_URL; ?>/" class="rth-tag-pill">Packers and Movers in Ranchi Jharkhand</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bangalore-packers-and-movers" class="rth-tag-pill">Ranchi to Bangalore Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="rth-tag-pill" style="color: #ff6a28; font-weight: 700;">Packers and Movers in Ranchi (Main Hub)</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/hyderabad-to-ranchi-packers-and-movers" class="rth-tag-pill" style="color: #ff6a28; font-weight: 700;">Hyderabad to Ranchi Return Corridor</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-packers-and-movers" class="rth-tag-pill">Ranchi to Delhi Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-dhanbad-packers-and-movers" class="rth-tag-pill">Ranchi to Dhanbad Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jamshedpur-packers-and-movers" class="rth-tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Jamshedpur Movers</a>
@@ -1705,9 +1735,9 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
         </p>
         
         <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center; margin-bottom: 30px;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 10px; background: #ff6a28; color: #ffffff; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(255,106,40,0.35); transition: all 0.3s ease;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 10px; background: #ff6a28; color: #ffffff; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(255,106,40,0.35); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Direct Route Helpline: 9835565233
+            Direct Route Helpline: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-flex; align-items: center; gap: 10px; background: #25d366; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(37,211,102,0.3); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1727,7 +1757,7 @@ $meta_keywords = "ranchi to hyderabad packers and movers, packers and movers ran
   </main>
 
   <!-- Global Site Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include BASE_PATH . '/includes/footer.php'; ?>
 
   <!-- Core JavaScript -->
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>

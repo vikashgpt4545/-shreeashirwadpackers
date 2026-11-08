@@ -24,16 +24,16 @@ include_once __DIR__ . '/../includes/config.php';
     "@context": "https://schema.org",
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Hatia Ranchi",
-    "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-hatia-ranchi",
-    "telephone": "+91 9835565233",
+    "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+    "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hatia-ranchi",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Station Road near Hatia Railway Station & Singh More",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Hatia, Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834003",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -71,19 +71,19 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Packers and Movers in Hatia Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-hatia-ranchi"
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hatia-ranchi"
       }
     ]
   }
@@ -421,6 +421,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Hatia</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-hta-wrapper">
   <!-- Hero Section -->
   <section class="hl-hta-hero-section">
@@ -433,7 +446,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Hatia Ranchi</h1>
         <p>Looking for the best packers and movers in Hatia Ranchi? <strong>Shree Ashirwad Packers and Movers</strong> provides trusted household shifting, office relocation, bike transport, car transport, and complete moving solutions at affordable prices across southern Ranchi's major transportation, academic, and industrial epicenter. As one of the top-rated packers and movers near Hatia Station and Singh More, we help families, South Eastern Railway personnel, NIFFT faculty and research scholars, and industrial contractors relocate locally and across Jharkhand without hassle. We cover major localities including Hatia Railway Station, Station Road, Singh More, NIFFT Campus, Chandni Chowk, Birsa Chowk connector, Latma Road, and Hatia Industrial Area for fast and reliable shifting services. Whether you need local shifting in Hatia, intercity relocation, railway quarter moving, or vehicle transportation, our trained staff ensures secure handling, pincode-based scheduling (PIN: 834003), same-day shifting assistance, floor-to-floor handling, and dependable relocation planning backed by full transit insurance.</p>
-        <a href="tel:+919835565233" class="hl-hta-cta-btn">&#128222; Call Now: +91 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-hta-cta-btn">&#128222; Call Now: +91 8409531615</a>
       </div>
       <div class="hl-hta-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +454,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Station Road near Hatia Junction &amp; Singh More
         </div>
         <div class="hl-hta-contact-item">
-          <span>Direct Helpline:</span> +91 9835565233
+          <span>Direct Helpline:</span> +91 8409531615
         </div>
         <div class="hl-hta-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -498,7 +511,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Hatia</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Hatia</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Hatia</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Hatia</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Hatia</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -507,7 +520,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-hta-section">
       <h2>Professional Moving Services in Southern Ranchi's Key Transport Hub</h2>
       <p>Hatia represents one of Ranchi's most dynamic transportation, industrial, and academic epicenters. Located in the southern sector of the capital along the vital corridor connecting Birsa Chowk, Airport Road, and Tupudana Industrial Estate, Hatia is anchored by the bustling Hatia Railway Station (HTE)—the primary passenger terminal and division headquarters under the South Eastern Railway network. Beyond its pivotal railway prominence, Hatia encompasses major technical institutions such as the premier National Institute of Advanced Manufacturing Technology (NIFFT, formerly National Institute of Foundry and Forge Technology), vital industrial ancillary factories, sprawling railway employee housing colonies, and rapidly expanding residential centers along Singh More, Chandni Chowk, and Latma Road.</p>
-      <p>Relocating in Hatia demands specialized operational agility. The neighborhood experiences dense daily commuter flows around the railway station and commercial markets at Singh More, while railway staff quarters and educational housing often involve distinct transfer deadlines and strict departmental documentation requirements. As the most trusted <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers in Ranchi</a>, Shree Ashirwad Packers and Movers has perfected local and inter-city shifting in Hatia through more than a decade of ground operations. We offer punctual doorstep packing, certified IBA-approved billing for seamless official reimbursement, specialized furniture dismantling, and enclosed container transit to ensure that every relocation is executed with complete safety and zero stress.</p>
+      <p>Relocating in Hatia demands specialized operational agility. The neighborhood experiences dense daily commuter flows around the railway station and commercial markets at Singh More, while railway staff quarters and educational housing often involve distinct transfer deadlines and strict departmental documentation requirements. As the most trusted <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has perfected local and inter-city shifting in Hatia through more than a decade of ground operations. We offer punctual doorstep packing, certified IBA-approved billing for seamless official reimbursement, specialized furniture dismantling, and enclosed container transit to ensure that every relocation is executed with complete safety and zero stress.</p>
       <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #f59e0b; padding: 22px; border-radius: 8px; margin-top: 24px;">
         <h3 style="font-size: 19px; font-weight: 700; color: #0f172a; margin-bottom: 10px;">
           ★ Top-Rated Moving & Packing Solutions in Hatia Ranchi
@@ -516,7 +529,7 @@ include_once __DIR__ . '/../includes/config.php';
           Customers choose our movers and packers service in Hatia Ranchi for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning. We provide nearby packers and movers support with pincode-based scheduling (PIN: 834003), same-day shifting assistance, floor-to-floor handling, and flexible moving options near Hatia Railway Station and Singh More.
         </p>
         <p style="margin-bottom: 0; font-size: 15px; line-height: 1.6; color: #334155;">
-          From railway quarters along Station Road to family apartments near Singh More, NIFFT academic residences, and homes along Latma Road, our packing and moving company in Hatia delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Hatia Ranchi, our local team is available 24/7 at <strong>+91 9835565233</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
+          From railway quarters along Station Road to family apartments near Singh More, NIFFT academic residences, and homes along Latma Road, our packing and moving company in Hatia delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Hatia Ranchi, our local team is available 24/7 at <strong>+91 8409531615</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
         </p>
       </div>
     </article>

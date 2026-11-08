@@ -15,8 +15,11 @@ $page_title = "Bhubaneswar to Ranchi Packers & Movers | Shree Ashirwad";
 $page_description = "Top Bhubaneswar to Ranchi packers and movers by Shree Ashirwad. Next-day 12-hr express transit via NH-20, Infocity/PSU bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bhubaneswar-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹3,500 - ₹65,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -161,7 +164,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+91-9835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": [
@@ -204,8 +207,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -917,7 +920,33 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body class="bhu2r-wrapper">
 
-<?php include_once __DIR__ . '/includes/header.php'; ?>
+<?php include BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumb Navigation -->
+<div class="breadcrumb-nav" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <ol style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0; font-size: 0.9rem; align-items: center;" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" style="display: inline-flex; align-items: center;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" itemprop="item" style="color: #2563eb; text-decoration: none; font-weight: 500;">
+          <span itemprop="name">Home</span>
+        </a>
+        <meta itemprop="position" content="1" />
+        <span style="margin: 0 8px; color: #94a3b8;">/</span>
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" style="display: inline-flex; align-items: center;">
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" itemprop="item" style="color: #2563eb; text-decoration: none; font-weight: 500;">
+          <span itemprop="name">Packers and Movers in Ranchi</span>
+        </a>
+        <meta itemprop="position" content="2" />
+        <span style="margin: 0 8px; color: #94a3b8;">/</span>
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page" style="display: inline-flex; align-items: center;">
+        <span itemprop="name" style="color: #475569; font-weight: 600;">Bhubaneswar to Ranchi</span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
+  </div>
+</div>
 
 <!-- Hero Section -->
 <header class="bhu2r-hero">
@@ -939,8 +968,8 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
 
     <div class="bhu2r-hero-actions">
-      <a href="tel:+919835565233" class="bhu2r-btn bhu2r-btn-primary">📞 Call Now: 084095 31615</a>
-      <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20relocation%20from%20Bhubaneswar%20to%20Ranchi" class="bhu2r-btn bhu2r-btn-outline" target="_blank" rel="noopener">💬 WhatsApp Free Instant Quote</a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="bhu2r-btn bhu2r-btn-primary">📞 Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+      <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20relocation%20from%20Bhubaneswar%20to%20Ranchi" class="bhu2r-btn bhu2r-btn-outline" target="_blank" rel="noopener">💬 WhatsApp Free Instant Quote</a>
     </div>
   </div>
 </header>
@@ -956,8 +985,8 @@ require_once __DIR__ . '/includes/seo.php';
       <span>📍 <strong>Direct Corridor Service:</strong> Daily overnight container departures connecting Patia, Infocity, Nayapalli, and Cuttack to all Ranchi residential sectors.</span>
     </div>
     <div class="bhu2r-callbar-links">
-      <a href="tel:+919835565233" class="bhu2r-call-link">📱 9835565233</a>
-      <a href="tel:+919835565233" class="bhu2r-call-link">☎️ 9835565233</a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="bhu2r-call-link">📱 <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="bhu2r-call-link">☎️ <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
     </div>
   </div>
 </aside>
@@ -1482,14 +1511,15 @@ require_once __DIR__ . '/includes/seo.php';
     </p>
 
     <div class="bhu2r-cluster-links">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="bhu2r-cluster-btn">Ranchi Relocation Hub</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bhu2r-cluster-btn">Packers and Movers in Ranchi (Main Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhubaneswar-packers-and-movers" class="bhu2r-cluster-btn">Ranchi to Bhubaneswar Outbound</a>
       <a href="<?php echo SITE_BASE_URL; ?>/hyderabad-to-ranchi-packers-and-movers" class="bhu2r-cluster-btn">Hyderabad to Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="bhu2r-cluster-btn">Kolkata to Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-ranchi-packers-and-movers" class="bhu2r-cluster-btn">Mumbai to Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-ranchi-packers-and-movers" class="bhu2r-cluster-btn">Bangalore to Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-ranchi-packers-and-movers" class="bhu2r-cluster-btn">Delhi to Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/patna-to-ranchi-packers-and-movers" class="bhu2r-cluster-btn">Patna to Ranchi</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="bhu2r-cluster-btn">Standard Pricing Guide</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="bhu2r-cluster-btn">Ranchi Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bhu2r-cluster-btn">Contact Relocation Support</a>
     </div>
   </div>
@@ -1518,7 +1548,7 @@ require_once __DIR__ . '/includes/seo.php';
   });
 </script>
 
-<?php include_once __DIR__ . '/includes/footer.php'; ?>
+<?php include BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

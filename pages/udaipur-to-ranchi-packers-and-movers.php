@@ -19,8 +19,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/udaipur-to-ranchi-packers
 // Common layout variables
 $current_page = 'services';
 
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -72,25 +75,27 @@ require_once __DIR__ . '/../includes/seo.php';
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
+        "@id": "https://www.shreeashirwadpackers.com/#organization",
         "name": "Shree Ashirwad Packers and Movers",
+        "url": "https://www.shreeashirwadpackers.com",
+        "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-        "url": "https://www.shreeashirwadpackers.com/udaipur-to-ranchi-packers-and-movers",
-        "telephone": "+91-9835565233",
-        "email": "contact@shreeashirwadpackers.com",
-        "priceRange": "₹19,000 - ₹68,000",
-        "description": "Professional Udaipur to Ranchi packers and movers providing verified household relocation, corporate executive shifting, car transport, and bike parcel services via NH-27, NH-48, and NH-19.",
+        "description": "Professional inter-state relocation specialists providing door-to-door shifting, container linehaul, vehicle transportation, and transit insurance between Udaipur and Ranchi.",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
+        "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Sukhadia Circle, Fatehpura Main Road",
-            "addressLocality": "Udaipur",
-            "addressRegion": "Rajasthan",
-            "postalCode": "313001",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "4.9",
-            "reviewCount": "194"
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -101,7 +106,13 @@ require_once __DIR__ . '/../includes/seo.php';
                 "@type": "City",
                 "name": "Ranchi"
             }
-        ]
+        ],
+        "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+            "opens": "00:00",
+            "closes": "23:59"
+        }
     }
     </script>
 
@@ -110,6 +121,7 @@ require_once __DIR__ . '/../includes/seo.php';
     {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
+        "@id": "https://www.shreeashirwadpackers.com/udaipur-to-ranchi-packers-and-movers#breadcrumb",
         "itemListElement": [
             {
                 "@type": "ListItem",
@@ -120,13 +132,13 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Routes",
-                "item": "https://www.shreeashirwadpackers.com/routes"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Udaipur to Ranchi Packers and Movers",
+                "name": "Udaipur to Ranchi",
                 "item": "https://www.shreeashirwadpackers.com/udaipur-to-ranchi-packers-and-movers"
             }
         ]
@@ -649,7 +661,20 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Udaipur to Ranchi</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- HERO SECTION -->
 <section class="udr-ran-hero">
@@ -1049,7 +1074,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </section>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

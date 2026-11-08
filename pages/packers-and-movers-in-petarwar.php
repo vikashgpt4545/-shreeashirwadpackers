@@ -3,7 +3,7 @@ require_once __DIR__ . '/includes/config.php';
 
 // Define page-specific variables
 $page_title = "Packers and Movers in Petarwar - 9835565233";
-$page_description = "Hire verified packers and movers in Petarwar & Bokaro by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, home, car & bike shifting. Call 9835565233.";
+$page_description = "Hire verified packers and movers in Petarwar & Bokaro by Shree Ashirwad Packers. IBA approved bills, 5-layer packing, home, car & bike shifting. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-petarwar";
 ?>
 <!DOCTYPE html>
@@ -32,24 +32,34 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers Petarwar",
       "image": "https://www.shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
-      "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-petarwar",
+      "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-petarwar/#movingcompany",
       "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-petarwar",
-      "telephone": "+919835565233",
+      "telephone": "+918409531615",
+      "email": "<?php echo OFFICIAL_EMAIL; ?>",
+      "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
       "priceRange": "₹3,500 - ₹55,000",
-        "keywords": "packers and movers in petarwar, movers and packers petarwar, household shifting petarwar bokaro, house relocation petarwar jharkhand, best packers and movers petarwar, car transportation petarwar, bike parcel petarwar, iba approved packers in petarwar, shree ashirwad packers bokaro",
+      "keywords": "packers and movers in petarwar, movers and packers petarwar, household shifting petarwar bokaro, house relocation petarwar jharkhand, best packers and movers petarwar, car transportation petarwar, bike parcel petarwar, iba approved packers in petarwar, shree ashirwad packers bokaro",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "NH-320 Junction Road, Near Block Chowk",
-        "addressLocality": "Petarwar",
+        "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
+        "addressLocality": "Bokaro Steel City",
         "addressRegion": "Jharkhand",
-        "postalCode": "829121",
+        "postalCode": "827012",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 23.6216,
-        "longitude": 85.8596
+        "latitude": 23.6693,
+        "longitude": 86.1511
       },
+      "areaServed": [
+        "Petarwar",
+        "Bokaro Steel City",
+        "Kasmar",
+        "Jaridih",
+        "Tenughat",
+        "Gomia"
+      ],
       "openingHoursSpecification": {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": [
@@ -65,8 +75,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
         "closes": "23:59"
       },
       "sameAs": [
-        "https://www.facebook.com/shreeashirwadpackers",
-        "https://twitter.com/ashirwadpackers"
+        "<?php echo SOCIAL_FACEBOOK; ?>",
+        "<?php echo SOCIAL_TWITTER; ?>",
+        "<?php echo SOCIAL_INSTAGRAM; ?>",
+        "<?php echo SOCIAL_YOUTUBE; ?>",
+        "<?php echo SOCIAL_PINTEREST; ?>"
       ]
     }
     </script>
@@ -85,8 +98,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Jharkhand",
-          "item": "https://www.shreeashirwadpackers.com/#service-areas"
+          "name": "Packers and Movers in Bokaro",
+          "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro"
         },
         {
           "@type": "ListItem",
@@ -180,7 +193,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
           "name": "How can I book a moving survey in Petarwar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You can book instantly by calling our helpline at +91 9835565233 or messaging us on WhatsApp. Our coordinator will arrange a free doorstep inspection or video-call inventory audit to provide an all-inclusive fixed quotation with zero hidden fees."
+            "text": "You can book instantly by calling our helpline at +91 8409531615 or messaging us on WhatsApp. Our coordinator will arrange a free doorstep inspection or video-call inventory audit to provide an all-inclusive fixed quotation with zero hidden fees."
           }
         }
       ]
@@ -190,6 +203,16 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
 <body class="page-template">
 
 <?php include "includes/header.php"; ?>
+
+<nav aria-label="Breadcrumb" style="background: #0a192f; border-bottom: 1px solid rgba(255,255,255,0.08); padding: 10px 0; font-size: 0.85rem;">
+    <div class="container" style="color: #cbd5e1;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #94a3b8; text-decoration: none;">Home</a>
+        <span style="margin: 0 8px; opacity: 0.6;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #94a3b8; text-decoration: none;">Packers and Movers in Bokaro</a>
+        <span style="margin: 0 8px; opacity: 0.6;">/</span>
+        <span style="color: #ffc107; font-weight: 600;">Petarwar</span>
+    </div>
+</nav>
 
 <!-- Hero Section -->
 <section class="page-hero" style="background: linear-gradient(135deg, rgba(10, 25, 47, 0.95), rgba(15, 76, 129, 0.90)), url('<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg') center/cover no-repeat; padding: 80px 0 60px; color: #ffffff; text-align: center;">
@@ -223,8 +246,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
                 </div>
             </div>
             <div class="hero-actions" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:9835565233" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
+                <a href="tel:+918409531615" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 8409531615
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-calculator"></i> Get Free Moving Estimate
@@ -274,47 +297,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
 <main style="padding: 50px 0; background: #ffffff;">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
 
-                <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers in Petarwar
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers in Petarwar</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Petarwar and nearby areas with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Petarwar</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including Petarwar Chowk, BDO Colony, NH-320 &amp; NH-23 junction, Gomia route, Tenughat Dam road, and Kasmar connecting corridor for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Petarwar</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service in Petarwar</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Petarwar</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me in Petarwar</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Petarwar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Petarwar</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
-
         <!-- Overview Section with Feature Pills -->
         <section class="intro-section" style="margin-bottom: 50px;">
             <div style="text-align: center; max-width: 800px; margin: 0 auto 30px;">
@@ -330,10 +312,10 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
             <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center; margin-bottom: 30px;">
                 <div style="flex: 1 1 540px;">
                     <p style="font-size: 16px; line-height: 1.8; color: #334155; margin-bottom: 18px;">
-                        Petarwar occupies a commanding logistical crossroads in western Bokaro district, located precisely at the intersection of National Highway 320 (connecting Ramgarh to Bokaro Steel City) and National Highway 23 (linking Ranchi to Dhanbad and Chas). Bordered by the scenic Damodar River basin and situated merely 23 kilometers west of the Bokaro Steel City metropolis, Petarwar serves as a dynamic commercial hub, agricultural trading center, and peaceful residential enclave for industrial engineers, mining technicians, administrative officials, and agrarian business families.
+                        Petarwar occupies a commanding logistical crossroads in western Bokaro district, located precisely at the intersection of National Highway 320 (connecting Ramgarh to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; font-weight: 600;">Bokaro Steel City</a>) and National Highway 23 (linking Ranchi to Dhanbad and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; font-weight: 600;">Chas</a>). Bordered by the scenic Damodar River basin and situated merely 23 kilometers west of the Bokaro Steel City metropolis, Petarwar serves as a dynamic commercial hub, agricultural trading center, and peaceful residential enclave for industrial engineers, mining technicians, administrative officials, and agrarian business families.
                     </p>
                     <p style="font-size: 16px; line-height: 1.8; color: #334155; margin-bottom: 18px;">
-                        Managing relocations in Petarwar demands swift highway mobility balanced with gentle handling of treasured household goods. At <strong>Shree Ashirwad Packers and Movers</strong>, we have delivered premier packing and moving solutions across Bokaro district for more than 16 years. Whether you are moving between company quarters in Bokaro Steel City and Petarwar, transferring to colliery townships in Bermo and Phusro, or relocating to state capitals like Ranchi, Patna, or Kolkata, our specialized moving fleets and trained crews guarantee a seamless experience.
+                        Coordinated directly from our verified Bokaro district branch office at <strong><?php echo BOKARO_BRANCH_FULL_ADDRESS; ?></strong>, <strong>Shree Ashirwad Packers and Movers</strong> has delivered premier packing and moving solutions across Bokaro district for more than 16 years. Whether you are moving between company quarters in Bokaro Steel City and Petarwar, transferring to colliery townships in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bermo" style="color: #0284c7; font-weight: 600;">Bermo</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-phusro" style="color: #0284c7; font-weight: 600;">Phusro</a>, or relocating to state capitals via our <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #0284c7; font-weight: 600;">Bokaro to Ranchi</a>, Patna, or Kolkata corridors, our specialized moving fleets and trained crews guarantee a seamless experience.
                     </p>
                     <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
                         <span style="background: #e2e8f0; color: #0f172a; padding: 6px 14px; border-radius: 16px; font-size: 13px; font-weight: 600;">
@@ -853,23 +835,27 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
         <section class="location-map" style="margin-bottom: 50px;">
             <div style="text-align: center; max-width: 700px; margin: 0 auto 25px;">
                 <h3 style="font-size: 24px; font-weight: 800; color: #0b2545; margin-bottom: 8px; font-family: 'Outfit', sans-serif;">
-                    Find Shree Ashirwad Packers in Petarwar, Bokaro
+                    Service Coverage Map — Petarwar, Bokaro
                 </h3>
                 <p style="font-size: 15px; color: #555; margin: 0;">
-                    Serving Petarwar, Bokaro Steel City, Kasmar, Jaridih, and the NH-320 transport corridor with verified coordinates (23.6216° N, 85.8596° E).
+                    Serving Petarwar, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; font-weight: 600;">Bokaro Steel City</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kasmar" style="color: #0284c7; font-weight: 600;">Kasmar</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaridih" style="color: #0284c7; font-weight: 600;">Jaridih</a>, and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gomia" style="color: #0284c7; font-weight: 600;">Gomia</a> along the NH-320 corridor.
                 </p>
             </div>
-            <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #cbd5e1; height: 380px;">
+            <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #cbd5e1; background: #f8fafc;">
                 <iframe 
                     title="Shree Ashirwad Packers and Movers Petarwar Location Map"
                     src="https://maps.google.com/maps?q=Petarwar,+Bokaro,+Jharkhand&t=&z=13&ie=UTF8&iwloc=&output=embed" 
                     width="100%" 
-                    height="100%" 
+                    height="360" 
                     style="border: 0; display: block;" 
                     allowfullscreen="" 
                     loading="lazy" 
                     referrerpolicy="no-referrer-when-downgrade">
                 </iframe>
+                <div style="padding: 14px 20px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; font-size: 0.9rem; color: #334155;">
+                    <span><strong>Bokaro District Branch:</strong> <?php echo BOKARO_BRANCH_FULL_ADDRESS; ?></span>
+                    <a href="<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>" target="_blank" rel="noopener" style="color: #0284c7; font-weight: 700; text-decoration: none;">Get Directions to Bokaro Office &rarr;</a>
+                </div>
             </div>
         </section>
 
@@ -974,7 +960,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
                         How can I book a moving survey in Petarwar?
                     </h4>
                     <p style="font-size: 14px; color: #555; line-height: 1.7; margin: 0;">
-                        You can book instantly by calling our helpline at +91 9835565233 or messaging us on WhatsApp. Our coordinator will arrange a free doorstep inspection or video-call inventory audit to provide an all-inclusive fixed quotation with zero hidden fees.
+                        You can book instantly by calling our helpline at +91 8409531615 or messaging us on WhatsApp. Our coordinator will arrange a free doorstep inspection or video-call inventory audit to provide an all-inclusive fixed quotation with zero hidden fees.
                     </p>
                 </div>
             </div>
@@ -992,8 +978,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-pet
                 Get in touch with Petarwar's most trusted and professional packing and moving team today. Experience zero-damage guarantee, skilled staff, and upfront transparent pricing.
             </p>
             <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-                <a href="tel:+919835565233" style="background: #ffb703; color: #000814; padding: 14px 30px; border-radius: 6px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 16px;">
-                    <i class="fa-solid fa-phone"></i> Call Now: +91 9835565233
+                <a href="tel:+918409531615" style="background: #ffb703; color: #000814; padding: 14px 30px; border-radius: 6px; font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 16px;">
+                    <i class="fa-solid fa-phone"></i> Call Now: +91 8409531615
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" style="background: transparent; color: #ffffff; border: 2px solid #ffffff; padding: 12px 28px; border-radius: 6px; font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; font-size: 16px;">
                     <i class="fa-solid fa-calendar-check"></i> Book Free Survey

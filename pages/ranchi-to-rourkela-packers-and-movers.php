@@ -14,8 +14,11 @@ $page_title = "Ranchi to Rourkela Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Rourkela packers and movers by Shree Ashirwad. Same-day 5-hr transit via NH-143, SAIL & NIT transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-rourkela-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -664,12 +667,12 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate packers and movers relocation service from Ranchi, Jharkhand to Rourkela, Sundargarh District, Odisha. Guaranteed same-day 5-hour transit via NH-20 and NH-143, 5-layer protective packing, NIT Rourkela faculty shifting, SAIL Rourkela Steel Plant (RSP) staff transfers, IGH medical specialist relocation, and zero-transshipment sealed container fleets.",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹9,500 - ₹38,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Argora",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -742,7 +745,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+91-9835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": {
@@ -778,8 +781,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -887,7 +890,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 
 <body>
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+  <!-- Visual Breadcrumb Navigation Bar -->
+  <nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="r2r-container" style="font-size: 0.88rem; color: #64748b;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f766e; text-decoration: none; font-weight: 500;">Home</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0f766e; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <span style="color: #0f172a; font-weight: 600;">Ranchi to Rourkela</span>
+    </div>
+  </nav>
 
   <div class="r2r-wrap">
     <!-- Hero Section -->
@@ -1398,7 +1412,7 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our eastern India logistics network. Choose related routes or consult our complete moving guides for transparent rates and dedicated service.
         </p>
         <div class="r2r-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2r-cluster-link">Ranchi Relocation Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2r-cluster-link">Packers and Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-chaibasa-packers-and-movers" class="r2r-cluster-link">Ranchi to Chaibasa Route</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-simdega-packers-and-movers" class="r2r-cluster-link">Ranchi to Simdega Route</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-adityapur-packers-and-movers" class="r2r-cluster-link">Ranchi to Adityapur Route</a>
@@ -1409,6 +1423,6 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </div>
 
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

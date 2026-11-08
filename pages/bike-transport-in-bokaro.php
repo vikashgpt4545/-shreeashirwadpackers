@@ -446,7 +446,7 @@ require_once __DIR__ . '/includes/seo.php';
                 </tr>
                 <tr style="background: #f8fafc;">
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color: #0284c7; text-decoration: none;">Bokaro to Bangalore</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" style="color: #0284c7; text-decoration: none;">Bokaro to Bangalore</a>
                   </td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹5,500 - ₹6,500</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹6,500 - ₹7,800</td>
@@ -454,7 +454,9 @@ require_once __DIR__ . '/includes/seo.php';
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">5 - 7 Days</td>
                 </tr>
                 <tr style="background: #ffffff;">
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Bokaro to Delhi NCR</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" style="color: #0284c7; text-decoration: none;">Bokaro to Delhi NCR</a>
+                  </td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹4,500 - ₹5,200</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹5,200 - ₹6,200</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹6,800 - ₹8,200</td>
@@ -676,11 +678,15 @@ require_once __DIR__ . '/includes/seo.php';
             <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Household Shifting in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Car Transport in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro" style="color: #ff6a28; text-decoration: none; background: #fff7ed; padding: 9px 15px; border-radius: 6px; font-weight: 700; border: 1px solid #fed7aa;">Bike Transport in Bokaro (Current)</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 4 Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 12 Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers &amp; Movers in Chas</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Ranchi Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Dhanbad Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Kolkata Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bangalore to Bokaro Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Patna Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Dhanbad to Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Delhi Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Bangalore Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro Shifting Guide</a>
           </div>
         </section>

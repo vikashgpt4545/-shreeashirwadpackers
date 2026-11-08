@@ -5,7 +5,12 @@
  * Canonical URL: https://www.shreeashirwadpackers.com/ranchi-to-malda-packers-and-movers
  * Description: Dependable interstate moving services from Ranchi to Malda (English Bazar, West Bengal). Specialized in household shifting, Gour Banga University faculty moves, medical transfers, and vehicle transport via NH12/NH114A.
  */
-include_once __DIR__ . '/../includes/config.php';
+$current_page = 'services';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,11 +31,11 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Malda",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-malda-packers-and-movers",
-    "telephone": "+91 9835565233",
+    "telephone": "+91-8409531615",
     "priceRange": "INR 13,000 - 58,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Road & Morabadi Logistics Complex",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -82,8 +87,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Routes",
-        "item": "https://www.shreeashirwadpackers.com/routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -495,7 +500,22 @@ include_once __DIR__ . '/../includes/config.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation -->
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Malda</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- HERO SECTION -->
 <section class="r2ml-hero">
@@ -857,8 +877,8 @@ include_once __DIR__ . '/../includes/config.php';
         <span>Malda to Ranchi (Return)</span>
         <span style="color: #0284c7;">→</span>
       </a>
-      <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
-        <span>Ranchi Headquarters Hub</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+        <span>Packers and Movers in Ranchi (HQ)</span>
         <span style="color: #0284c7;">→</span>
       </a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-siliguri-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
@@ -894,7 +914,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 </div>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -24,13 +24,13 @@ include_once __DIR__ . '/../includes/config.php';
     "@context": "https://schema.org",
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Kokar Ranchi",
-    "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-kokar-ranchi",
-    "telephone": "+91 9835565233",
+    "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+    "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kokar-ranchi",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Kokar Industrial Estate near Circular Road & Sadhu Maidan",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Kokar, Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -71,19 +71,19 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Packers and Movers in Kokar Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-kokar-ranchi"
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kokar-ranchi"
       }
     ]
   }
@@ -421,6 +421,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Kokar</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-kkr-wrapper">
   <!-- Hero Section -->
   <section class="hl-kkr-hero-section">
@@ -433,7 +446,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Kokar Ranchi</h1>
         <p>Looking for the best packers and movers in Kokar Ranchi? Shree Ashirwad Packers and Movers provides trusted household shifting, industrial machinery moving, office relocation, bike transport, car transport, and complete moving solutions at affordable prices. Our experienced in-house team offers safe packing, loading, unloading, transportation, and unpacking services across Kokar Industrial Area, Sadhu Maidan, Circular Road, and Khorha Toli with timely delivery support.</p>
-        <a href="tel:+919835565233" class="hl-kkr-cta-btn">&#128222; Call Now: +91 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-kkr-cta-btn">&#128222; Call Now: +91 8409531615</a>
       </div>
       <div class="hl-kkr-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +454,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Circular Road &amp; Industrial Estate, Kokar
         </div>
         <div class="hl-kkr-contact-item">
-          <span>Direct Helpline:</span> +91 9835565233
+          <span>Direct Helpline:</span> +91 8409531615
         </div>
         <div class="hl-kkr-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -467,7 +480,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-kkr-section">
       <h2>Professional Moving Services in Kokar's Industrial &amp; Residential Hub</h2>
       <p>Kokar stands as one of Ranchi's most bustling commercial, light industrial, and vibrant residential hubs. Located just northeast of the central Lalpur commercial district across the historic Distillery Bridge, Kokar is bisected by the active Circular Road corridor extending towards Kantatoli and Booty Road. Foremost among its landmarks is the sprawling Kokar Industrial Estate—a vital nerve center of automobile engineering workshops, steel fabrication plants, printing presses, commercial godowns, and manufacturing units. Bordering this productive industrial cluster are established, high-density residential colonies including Sadhu Maidan, Khorha Toli, Ayodhya Puri, and Shanti Nagar, home to traders, industrial supervisors, teachers, and business families.</p>
-      <p>Relocating in Kokar demands specialized logistical capability to address two distinctly different environments: heavy commercial moving in the Industrial Estate and careful residential shifting through dense colony lanes. Commercial clients require heavy pallet lifters, precision machinery unbolting, and heavy-duty container trucks capable of handling steel inventory and tools safely. Simultaneously, residential moves in areas like Khorha Toli feature multi-story family homes and narrow interconnecting streets that require compact feeder mini-trucks and delicate furniture handling. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers Ranchi</a>, Shree Ashirwad Packers and Movers has served Kokar for over a decade with flawless precision, combining industrial muscle with white-glove household care.</p>
+      <p>Relocating in Kokar demands specialized logistical capability to address two distinctly different environments: heavy commercial moving in the Industrial Estate and careful residential shifting through dense colony lanes. Commercial clients require heavy pallet lifters, precision machinery unbolting, and heavy-duty container trucks capable of handling steel inventory and tools safely. Simultaneously, residential moves in areas like Khorha Toli feature multi-story family homes and narrow interconnecting streets that require compact feeder mini-trucks and delicate furniture handling. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served Kokar for over a decade with flawless precision, combining industrial muscle with white-glove household care.</p>
     </article>
 
         <!-- Competitor Ranking Keyword Content Box -->
@@ -487,7 +500,7 @@ include_once __DIR__ . '/../includes/config.php';
                     As one of the <strong>top-rated packers and movers near Kokar</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including Kokar Industrial Estate, Sadhu Maidan, Circular Road, Khorha Toli, Ayodhya Puri, and Distillery Bridge along with nearby residential and commercial sectors for fast, dependable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
+                    We cover major localities including Kokar Industrial Estate, Sadhu Maidan, Circular Road, Khorha Toli, Ayodhya Puri, and Distillery Bridge along with nearby residential and commercial sectors for fast, dependable shifting services.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
                     Whether you need <strong>local shifting in Kokar</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
@@ -505,48 +518,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Kokar</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Kokar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Kokar</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
-
-        <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers in Kokar
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers in Kokar</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Kokar and nearby areas with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Kokar</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including Kokar Industrial Estate, Sadhu Maidan, Circular Road, Khorha Toli, Ayodhya Puri, and Distillery Bridge along with nearby residential and commercial sectors for fast, dependable shifting services along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Kokar</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service in Kokar</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Kokar</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me in Kokar</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Kokar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Kokar</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Kokar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Kokar</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>

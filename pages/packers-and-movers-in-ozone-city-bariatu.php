@@ -1,8 +1,9 @@
 <?php
+include_once __DIR__ . '/../includes/config.php';
 // Dynamic SEO Configuration for Ozone City Bariatu Ranchi Landing Page
 $page_title = "Packers and Movers in Ozone City Bariatu Ranchi | 100% Safe Gated Society Shifting";
-$page_description = "Looking for verified packers and movers in Ozone City Bariatu, Ranchi? We offer specialized high-rise apartment shifting, lift padding, furniture wrapping & stress-free home relocation. Call +91 9835565233 for free quote.";
-$canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-city-bariatu";
+$page_description = "Looking for verified packers and movers in Ozone City Bariatu, Ranchi? We offer specialized high-rise apartment shifting, lift padding, furniture wrapping & stress-free home relocation. Call +91 8409531615 for free quote.";
+$canonical_url = SITE_BASE_URL . "/packers-and-movers-in-ozone-city-bariatu";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,16 +22,16 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Ozone City Bariatu Branch",
-        "image": "https://shreeashirwadpackers.com/images/multistory-apartment-goods-loading-ranchi.jpg",
+        "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "priceRange": "₹3,500 - ₹32,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Ozone City, Bariatu Road, Near RIMS Hospital",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834009",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -57,18 +58,18 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "<?php echo SITE_BASE_URL; ?>/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Packers and Movers in Ranchi",
-                "item": "https://shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Ozone City Bariatu",
+                "name": "Packers and Movers in Ozone City Bariatu Ranchi",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -352,13 +353,26 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
 
 <?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Ozone City Bariatu</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <div class="ozb-page-wrap">
 
     <!-- Hero Section -->
     <section class="ozb-hero-banner">
         <h1 class="ozb-hero-title">Packers and Movers in Ozone City Bariatu Ranchi</h1>
         <p class="ozb-hero-subtitle">Trusted Apartment Relocation Experts for Ozone City Residents, Doctors, and Working Professionals. Safe Lift Padding, Society Security Clearance & 100% Damage-Free Shifting.</p>
-        <a href="tel:+919835565233" class="ozb-cta-btn">Call +91 9835565233 for Instant Quote</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ozb-cta-btn">Call +91 8409531615 for Instant Quote</a>
     </section>
 
     <!-- Main Container -->
@@ -507,7 +521,7 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-ozone-c
                 <p>In the rare event of transit damage due to unforeseen highway incidents, our dedicated claims desk ensures swift settlement within 7 business days. Furthermore, our furniture carpenters dismantle and pack high-value double beds, LED TV consoles, and wardrobes using dedicated toolkit cases.</p>
                 <div class="ozb-highlight-box">
                     <h4>Direct Connection to Ranchi Central Authority</h4>
-                    <p>Learn more about our city-wide operations by visiting the main <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> pillar authority page.</p>
+                    <p>Learn more about our city-wide operations by visiting the main <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> pillar authority page.</p>
                 </div>
             </div>
             <div>

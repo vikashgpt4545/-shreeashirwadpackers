@@ -10,6 +10,7 @@
 if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Ranchi to Bagodar | Safe Return Relocation";
 $page_desc = "Professional packers and movers from Ranchi to Bagodar. 140 km seamless transit, 5-layer packing, household shifting, bike parcel, IBA approved bills, safe delivery.";
@@ -458,7 +459,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="ran2bag-container">
             <nav class="ran2bag-breadcrumbs" aria-label="Breadcrumb">
                 <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &raquo;
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bagodar">Bagodar</a> &raquo;
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> &raquo;
                 <span>Ranchi to Bagodar</span>
             </nav>
 
@@ -474,8 +475,8 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             </div>
 
             <div class="ran2bag-cta-group">
-                <a href="tel:+919835565233" class="ran2bag-btn-primary"><i class="fa-solid fa-phone"></i> Call 9835565233</a>
-                <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Bagodar%20shifting" class="ran2bag-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran2bag-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+                <a href="https://wa.me/<?php echo str_replace('+', '', PRIMARY_PHONE_RAW); ?>?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Bagodar%20shifting" class="ran2bag-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
             </div>
         </div>
     </header>
@@ -515,7 +516,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     If you are searching for reliable movers and packers near me from Ranchi to Bagodar, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: inherit; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -773,7 +774,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             <div class="ran2bag-cta">
                 <h3>Ready for a Hassle-Free Ranchi to Bagodar Move?</h3>
                 <p>Contact Jharkhand's most trusted intercity relocation company today. Get an honest price quote, guaranteed transit timings, and complete peace of mind.</p>
-                <a href="tel:+919835565233" class="ran2bag-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 9835565233 / 9835565233</a>
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran2bag-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             </div>
         </div>
     </section>
@@ -812,7 +813,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
 
                 <div class="ran2bag-faq-item">
                     <h4 class="ran2bag-faq-q">How do I book my moving date with Shree Ashirwad Packers?</h4>
-                    <p class="ran2bag-faq-a">You can confirm your booking by calling our logistics hotline at 9835565233 or 9835565233. We recommend booking 2 to 3 days in advance to reserve your preferred moving date and dedicated container vehicle.</p>
+                    <p class="ran2bag-faq-a">You can confirm your booking by calling our logistics hotline at <?php echo PRIMARY_PHONE_DISPLAY; ?>. We recommend booking 2 to 3 days in advance to reserve your preferred moving date and dedicated container vehicle.</p>
                 </div>
             </div>
         </div>
@@ -824,15 +825,16 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers Ranchi",
+        "name": "Shree Ashirwad Packers and Movers Ranchi to Bagodar",
         "image": "<?php echo $og_image; ?>",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Ranchi Main Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -864,7 +866,8 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "serviceType": "Intercity Relocation Services",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
         },
         "areaServed": [
             {
@@ -916,13 +919,13 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "<?php echo SITE_BASE_URL; ?>/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Bagodar Packers",
-                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bagodar"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -985,7 +988,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                 "name": "How do I book my moving date with Shree Ashirwad Packers?",
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": "You can confirm your booking by calling our logistics hotline at 9835565233 or 9835565233. We recommend booking 2 to 3 days in advance to reserve your preferred moving date and dedicated container vehicle."
+                    "text": "You can confirm your booking by calling our logistics hotline at <?php echo PRIMARY_PHONE_DISPLAY; ?>. We recommend booking 2 to 3 days in advance to reserve your preferred moving date and dedicated container vehicle."
                 }
             }
         ]

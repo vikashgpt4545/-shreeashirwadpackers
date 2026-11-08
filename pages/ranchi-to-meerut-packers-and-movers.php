@@ -15,8 +15,12 @@ $page_title = "Ranchi to Meerut Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Meerut packers and movers by Shree Ashirwad. Express transit via NH-19/NE-3, Defense Cantt & Partapur bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-meerut-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+$current_page = 'services';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +73,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ranchi",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -206,7 +210,7 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "Ranchi to Meerut Packers and Movers",
+        "name": "Ranchi to Meerut",
         "item": "<?php echo $canonical_url; ?>"
       }
     ]
@@ -966,7 +970,20 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Meerut</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <main class="r2mrt-scope">
   <!-- Hero Section -->
@@ -976,7 +993,7 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Breadcrumb Bar -->
         <nav class="r2mrt-breadcrumbs" aria-label="breadcrumb">
           <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &gt;
-          <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> &gt;
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> &gt;
           <span>Ranchi to Meerut Packers and Movers</span>
         </nav>
 
@@ -1582,7 +1599,7 @@ require_once __DIR__ . '/includes/seo.php';
   </section>
 </main>
 
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

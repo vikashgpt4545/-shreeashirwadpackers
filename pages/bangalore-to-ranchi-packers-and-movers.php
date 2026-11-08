@@ -14,8 +14,11 @@ $page_title = "Bangalore to Ranchi Packers & Movers | Shree Ashirwad";
 $page_description = "Top Bangalore to Ranchi packers and movers by Shree Ashirwad. Dedicated container transit, IT tech gear packing, car/bike parcel, GST bills. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bangalore-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -68,13 +71,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹6,500 - ₹75,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -329,6 +332,7 @@ require_once __DIR__ . '/includes/seo.php';
       color: #facc15;
       background: linear-gradient(120deg, #fef08a, #eab308);
       -webkit-background-clip: text;
+      background-clip: text;
       -webkit-text-fill-color: transparent;
     }
     .b2r-hero-desc {
@@ -906,13 +910,20 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
 <main class="b2r-page-wrapper">
 
   <!-- Hero Section -->
   <header class="b2r-hero-section">
     <div class="b2r-hero-container">
+      <nav class="b2r-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+        <span style="color:#64748b;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+        <span style="color:#64748b;">/</span>
+        <span style="color:#fde047; font-weight:600;">Bangalore to Ranchi</span>
+      </nav>
       <div class="b2r-hero-tagline">
         <span>📍 Dedicated Inbound Tech Corridor: Bangalore to Ranchi (~1,780 KM)</span>
       </div>
@@ -931,8 +942,8 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="b2r-hero-actions">
-        <a href="tel:+919835565233" class="b2r-btn-primary">
-          <span>📞 Instant Moving Quote: 9835565233</span>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="b2r-btn-primary">
+          <span>📞 Instant Moving Quote: <?php echo PRIMARY_PHONE_DISPLAY; ?></span>
         </a>
         <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20relocation%20quote%20from%20Bangalore%20to%20Ranchi." class="b2r-btn-secondary" target="_blank" rel="noopener">
           <span>💬 WhatsApp Relocation Desk</span>
@@ -1468,9 +1479,12 @@ require_once __DIR__ . '/includes/seo.php';
         Explore our comprehensive network of dedicated relocation corridors connecting Ranchi to premier commercial and metropolitan centers across India:
       </p>
       <div class="b2r-cluster-links">
-        <a href="<?php echo SITE_BASE_URL; ?>/" class="b2r-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="b2r-cluster-link" style="color:#facc15; font-weight:700;">Packers and Movers in Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bangalore-packers-and-movers" class="b2r-cluster-link" style="color:#facc15; font-weight:700;">Ranchi to Bangalore Return Route</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="b2r-cluster-link">Transparent Rate Card</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bangalore-packers-and-movers" class="b2r-cluster-link">Ranchi to Bangalore (Outbound)</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-ranchi-packers-and-movers" class="b2r-cluster-link">Delhi to Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-ranchi-packers-and-movers" class="b2r-cluster-link">Kolkata to Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/patna-to-ranchi-packers-and-movers" class="b2r-cluster-link">Patna to Ranchi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-packers-and-movers" class="b2r-cluster-link">Ranchi to Bhopal</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bilaspur-packers-and-movers" class="b2r-cluster-link">Ranchi to Bilaspur</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-prayagraj-packers-and-movers" class="b2r-cluster-link">Ranchi to Prayagraj</a>
@@ -1484,7 +1498,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

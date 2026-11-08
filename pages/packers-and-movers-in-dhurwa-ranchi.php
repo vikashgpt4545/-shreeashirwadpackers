@@ -24,16 +24,16 @@ include_once __DIR__ . '/../includes/config.php';
     "@context": "https://schema.org",
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Dhurwa Ranchi",
-    "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-dhurwa-ranchi",
-    "telephone": "+91 9835565233",
+    "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+    "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhurwa-ranchi",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "HEC Township near JSCA International Stadium & Shalimar Bazar",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Dhurwa, Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834004",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -71,19 +71,19 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Packers and Movers in Dhurwa Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-dhurwa-ranchi"
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhurwa-ranchi"
       }
     ]
   }
@@ -421,6 +421,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Dhurwa</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-dhr-wrapper">
   <!-- Hero Section -->
   <section class="hl-dhr-hero-section">
@@ -438,7 +451,7 @@ include_once __DIR__ . '/../includes/config.php';
         <p style="font-size: 1.02rem; line-height: 1.65; color: #e0f2fe; margin-bottom: 24px;">
           Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Dhurwa and nearby areas with timely delivery support. As one of the top-rated movers and packers near Dhurwa, we help HEC employees, government officials, and families relocate locally and across Jharkhand without hassle.
         </p>
-        <a href="tel:+919835565233" class="hl-dhr-cta-btn">&#128222; Call Now: +91 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-dhr-cta-btn">&#128222; Call Now: +91 8409531615</a>
       </div>
       <div class="hl-dhr-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -446,7 +459,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> HEC Sector 2 &amp; JSCA Stadium, Dhurwa
         </div>
         <div class="hl-dhr-contact-item">
-          <span>Direct Helpline:</span> +91 9835565233
+          <span>Direct Helpline:</span> +91 8409531615
         </div>
         <div class="hl-dhr-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -503,7 +516,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Dhurwa</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Dhurwa</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Dhurwa</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Dhurwa</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Dhurwa</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -512,7 +525,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-dhr-section">
       <h2>Professional Moving Services in Historic Dhurwa and the Core Capital</h2>
       <p>Dhurwa holds a momentous position in the industrial and administrative heritage of Ranchi and Jharkhand. Established originally as the planned industrial township for the Heavy Engineering Corporation (HEC)—often hailed as the "Mother of All Industries"—Dhurwa spans vast, tree-lined sectors, wide boulevards, public parks, and extensive residential colonies categorized into Sector 1, Sector 2, Sector 3, and senior officers' bungalows. Today, Dhurwa has transformed into Greater Ranchi's powerhouse administrative heartland with the establishment of the Jharkhand State Legislative Assembly (New Vidhan Sabha), the expansive Core Capital Complex, the High Court of Jharkhand, the iconic JSCA International Cricket Stadium, and the scenic Dhurwa Dam catchment area.</p>
-      <p>Relocating within or out of Dhurwa demands tailored logistical expertise. The area features a unique mix of legacy multi-story HEC quarters with wide staircases, prestigious official bungalows with extensive lawns, and newly developed modern residential societies bordering Kute and Ring Road. In addition, a vast percentage of residents are public sector employees, engineers, administrative bureaucrats, and judicial personnel who require strict adherence to transfer rules, punctual scheduling, and certified IBA-approved billing. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served the Dhurwa community for over a decade with exceptional dedication, guaranteeing scratch-free, organized, and completely hassle-free transitions.</p>
+      <p>Relocating within or out of Dhurwa demands tailored logistical expertise. The area features a unique mix of legacy multi-story HEC quarters with wide staircases, prestigious official bungalows with extensive lawns, and newly developed modern residential societies bordering Kute and Ring Road. In addition, a vast percentage of residents are public sector employees, engineers, administrative bureaucrats, and judicial personnel who require strict adherence to transfer rules, punctual scheduling, and certified IBA-approved billing. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served the Dhurwa community for over a decade with exceptional dedication, guaranteeing scratch-free, organized, and completely hassle-free transitions.</p>
 
       <div style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 22px; margin: 26px 0 10px; border-radius: 0 8px 8px 0; border: 1px solid #dbeafe; border-left: 4px solid #2563eb;">
         <h3 style="font-size: 18px; font-weight: 700; color: #1e3a8a; margin-top: 0; margin-bottom: 12px;">Top-Rated Moving & Packing Solutions in Dhurwa Ranchi</h3>

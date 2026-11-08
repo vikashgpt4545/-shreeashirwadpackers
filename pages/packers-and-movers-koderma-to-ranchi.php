@@ -8,8 +8,10 @@
  * Focus: Intercity Relocation, DVC & Railway Transfers, Household & Vehicle Shifting via NH 20
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/../includes/config.php';
+}
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Koderma to Ranchi - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Certified packers and movers koderma to ranchi by Shree Ashirwad. Express 4-hour shifting via NH 20, 5-layer packing, IBA approved bills & zero-damage transit.";
@@ -75,23 +77,23 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg",
     "description": "Premier professional packers and movers koderma to ranchi delivering safe household relocation, DVC KTPS employee transfers, corporate shifting, car transport, and IBA approved bills.",
-    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
-    "email": "<?php echo OFFICIAL_EMAIL; ?>",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹6,500 - ₹34,000",
     "currenciesAccepted": "INR",
     "paymentAccepted": "Cash, Credit Card, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "<?php echo RANCHI_HQ_STREET; ?>",
-      "addressLocality": "<?php echo RANCHI_HQ_CITY; ?>",
-      "addressRegion": "<?php echo RANCHI_HQ_STATE; ?>",
-      "postalCode": "<?php echo RANCHI_HQ_PINCODE; ?>",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+      "addressLocality": "Ranchi",
+      "addressRegion": "Jharkhand",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3639813,
-      "longitude": 85.3090259
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "openingHoursSpecification": [
       {
@@ -165,12 +167,12 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+918409531615",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
       "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
         "postalCode": "834002",
@@ -201,13 +203,13 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "<?php echo SITE_BASE_URL; ?>/"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Jharkhand Routes",
-        "item": "<?php echo SITE_BASE_URL; ?>/#service-areas"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -866,7 +868,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
 <body>
 
   <!-- Global Site Header -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include __DIR__ . '/../includes/header.php'; ?>
 
   <main id="mainContent">
 
@@ -876,7 +878,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
         <nav class="breadcrumb-trail" aria-label="Breadcrumb">
           <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
           <span>&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#service-areas">Jharkhand Corridors</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
           <span>&gt;</span>
           <span style="color:#ffaa7d; font-weight:600;">Packers and Movers Koderma to Ranchi</span>
         </nav>
@@ -895,9 +897,9 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
         </p>
 
         <div class="hero-cta-group">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-hero-call">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-hero-call">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            <span>Call Moving Desk: <strong>8409531615</strong></span>
+            <span>Call Moving Desk: <strong><?php echo PRIMARY_PHONE_DISPLAY; ?></strong></span>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-hero-wa">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1497,7 +1499,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
               <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M7 10l5 5 5-5z"/></svg>
             </div>
             <div class="faq-a">
-              Scheduling is quick and simple. Call our moving desk at <strong>8409531615</strong> or click our WhatsApp button. We will conduct a free video inventory survey or home visit in Koderma/Jhumri Telaiya, provide an upfront all-inclusive written estimate, and reserve your dedicated container truck with zero advance hassle.
+              Scheduling is quick and simple. Call our moving desk at <strong><?php echo PRIMARY_PHONE_DISPLAY; ?></strong> or click our WhatsApp button. We will conduct a free video inventory survey or home visit in Koderma/Jhumri Telaiya, provide an upfront all-inclusive written estimate, and reserve your dedicated container truck with zero advance hassle.
             </div>
           </div>
         </div>
@@ -1512,9 +1514,9 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
           Experience zero-damage packing, express same-day 4-hour highway transit via NH 20, carpenter furniture assembly, and 100% genuine IBA approved bills. Speak with our certified moving coordinator now for a free home survey and guaranteed fixed pricing.
         </p>
         <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-hero-call" style="font-size: 1.05rem; padding: 15px 32px;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-hero-call" style="font-size: 1.05rem; padding: 15px 32px;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Highway Route Desk: 8409531615
+            Call Highway Route Desk: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-hero-wa" style="font-size: 1.05rem; padding: 15px 30px;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1534,7 +1536,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
           Explore our dedicated corridor relocation solutions across Jharkhand and central services in the capital city of Ranchi:
         </p>
         <div class="directory-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/koderma-to-ranchi-packers-and-movers" title="Koderma to Ranchi Packers and Movers" class="dir-link dir-link-primary">Koderma to Ranchi Route Hub</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" title="Local Shifting Services in Ranchi" class="dir-link">Local Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" title="Household Shifting Services in Ranchi" class="dir-link">Household Shifting Ranchi</a>
@@ -1551,7 +1553,7 @@ $meta_keywords = "packers and movers koderma to ranchi, koderma to ranchi packer
   </main>
 
   <!-- Global Site Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include __DIR__ . '/../includes/footer.php'; ?>
 
   <!-- Core JavaScript -->
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>

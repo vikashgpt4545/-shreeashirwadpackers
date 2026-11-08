@@ -15,7 +15,7 @@ $base_url = SITE_BASE_URL;
       
       <!-- Footer Col 1: Brand Info & Overview -->
       <div class="footer-col footer-brand">
-        <a href="<?php echo $base_url; ?>/" class="brand-logo" title="Shree Ashirwad Packers and Movers Homepage" style="margin-bottom:16px;">
+        <a href="<?php echo $base_url; ?>/" class="brand-logo" title="Packers and Movers in Ranchi - Shree Ashirwad Packers and Movers" style="margin-bottom:16px;">
           <img src="<?php echo $base_url; ?>/assets/images/logo.png" alt="<?php echo BRAND_SHORT_NAME; ?> Logo" title="Shree Ashirwad Packers and Movers Emblem" width="48" height="48">
           <div class="brand-info">
             <span class="brand-title" style="color:#ffffff;"><?php echo BRAND_SHORT_NAME; ?></span>
@@ -66,6 +66,9 @@ $base_url = SITE_BASE_URL;
             <div>
               <strong>Bokaro Branch:</strong>
               <?php echo BOKARO_BRANCH_FULL_ADDRESS; ?>
+              <div style="margin-top:4px;">
+                <a href="<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>" target="_blank" rel="noopener noreferrer" style="color:#ffc107; font-size:0.8rem; text-decoration:underline; font-weight:600;" title="Get GPS Driving Directions to Bokaro Branch on Google Maps">🗺 Directions to Bokaro Branch &rarr;</a>
+              </div>
             </div>
           </div>
 
@@ -114,7 +117,7 @@ $base_url = SITE_BASE_URL;
       <div class="footer-col">
         <h3 class="footer-col-title">Quick Links</h3>
         <ul class="footer-links-list">
-          <li><a href="<?php echo $base_url; ?>/" title="Shree Ashirwad Packers Homepage">Home</a></li>
+          <li><a href="<?php echo $base_url; ?>/" title="Packers and Movers in Ranchi - Home">Home</a></li>
           <li><a href="<?php echo $base_url; ?>/about" title="About Shree Ashirwad Packers and Movers">About Us</a></li>
           <li><a href="<?php echo $base_url; ?>/packers-and-movers-cost-calculator" title="Calculate Moving Charges Online">Cost Calculator</a></li>
           <li><a href="<?php echo $base_url; ?>/track-consignment" title="Live Consignment Tracking">Track Consignment</a></li>

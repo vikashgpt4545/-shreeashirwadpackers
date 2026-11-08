@@ -1,6 +1,6 @@
 <?php
 // packers-and-movers-in-namkum.php - Professional Relocation Services in Namkum, Ranchi by Shree Ashirwad Packers and Movers
-require_once "includes/config.php";
+require_once __DIR__ . '/../includes/config.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -41,17 +41,17 @@ require_once "includes/config.php";
                 "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum",
                 "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
                 "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
-                "telephone": "+91 9835565233",
-                "email": "info@shreeashirwadpackers.com",
+                "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+                "email": "<?php echo OFFICIAL_EMAIL; ?>",
                 "description": "Premier packing and moving company in Namkum, Ranchi providing specialized household shifting, Army Cantonment defense transfers, ICAR research scientist relocations, interstate vehicle moving, and secure warehousing.",
                 "priceRange": "₹₹",
         "keywords": "packers and movers in namkum, movers and packers namkum ranchi, namkum cantonment shifting services, army defense transfer namkum, lowadih samlong packers movers, car bike transport namkum ranchi, shree ashirwad packers and movers",
                 "address": {
                     "@type": "PostalAddress",
-                    "streetAddress": "NH-43 / Tata Road, Near ICAR-IINRG & Namkum Station, Namkum",
+                    "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
                     "addressLocality": "Namkum, Ranchi",
                     "addressRegion": "Jharkhand",
-                    "postalCode": "834010",
+                    "postalCode": "834002",
                     "addressCountry": "IN"
                 },
                 "geo": {
@@ -102,19 +102,13 @@ require_once "includes/config.php";
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Jharkhand Locations",
-                        "item": "<?php echo SITE_BASE_URL; ?>/#service-areas"
+                        "name": "Packers and Movers in Ranchi",
+                        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
-                        "name": "Ranchi District",
-                        "item": "<?php echo SITE_BASE_URL; ?>/"
-                    },
-                    {
-                        "@type": "ListItem",
-                        "position": 4,
-                        "name": "Namkum",
+                        "name": "Packers and Movers in Namkum",
                         "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum"
                     }
                 ]
@@ -195,7 +189,20 @@ require_once "includes/config.php";
 </head>
 <body class="page-template">
 
-<?php include "includes/header.php"; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Namkum</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <!-- Hero Section -->
 <section class="page-hero" style="background: linear-gradient(135deg, rgba(10, 25, 47, 0.95), rgba(15, 76, 129, 0.90)), url('<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg') center/cover no-repeat; padding: 80px 0 60px; color: #ffffff; text-align: center;">
@@ -225,8 +232,8 @@ require_once "includes/config.php";
                 </div>
             </div>
             <div class="hero-actions" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:+919835565233" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn btn-primary" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 8409531615
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-calculator"></i> Get Free Moving Estimate
@@ -235,21 +242,6 @@ require_once "includes/config.php";
         </div>
     </div>
 </section>
-
-<!-- Breadcrumb Navigation -->
-<nav aria-label="breadcrumb" style="background: #f1f5f9; padding: 14px 0; border-bottom: 1px solid #e2e8f0;">
-    <div class="container">
-        <ol class="breadcrumb" style="margin: 0; display: flex; flex-wrap: wrap; list-style: none; padding: 0; font-size: 0.9rem;">
-            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa-solid fa-house"></i> Home</a></li>
-            <li class="breadcrumb-item" style="margin-right: 8px; color: #64748b;">/</li>
-            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/#service-areas" style="color: #0284c7; text-decoration: none;">Jharkhand</a></li>
-            <li class="breadcrumb-item" style="margin-right: 8px; color: #64748b;">/</li>
-            <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;">Ranchi</a></li>
-            <li class="breadcrumb-item" style="margin-right: 8px; color: #64748b;">/</li>
-            <li class="breadcrumb-item active" style="color: #334155; font-weight: 600;">Namkum</li>
-        </ol>
-    </div>
-</nav>
 
         <!-- Competitor Ranking Keyword Content Box -->
     <section style="padding: 40px 0 20px; background: #ffffff;">
@@ -286,7 +278,7 @@ require_once "includes/config.php";
                     If you are searching for reliable <strong>movers and packers near me in Namkum</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Namkum</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Namkum</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Namkum</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Namkum</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1020,8 +1012,8 @@ require_once "includes/config.php";
                 Contact our customer support team right now for a free, transparent moving estimate tailored specifically to your home, defense transfer, or corporate moving needs in Namkum, Ranchi.
             </p>
             <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-                <a href="tel:9835565233" class="btn" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 15px 32px; border-radius: 8px; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 10px;">
-                    <i class="fa-solid fa-phone-volume"></i> Call Now: 9835565233
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn" style="background: #ffc107; color: #0a192f; font-weight: 700; padding: 15px 32px; border-radius: 8px; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 10px;">
+                    <i class="fa-solid fa-phone-volume"></i> Call Now: +91 8409531615
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn" style="border: 2px solid #ffffff; color: #ffffff; font-weight: 600; padding: 15px 32px; border-radius: 8px; text-decoration: none; font-size: 1.05rem; display: inline-flex; align-items: center; gap: 10px;">
                     <i class="fa-solid fa-envelope"></i> Send Moving Inquiry
@@ -1031,7 +1023,7 @@ require_once "includes/config.php";
     </div>
 </section>
 
-<?php include "includes/footer.php"; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

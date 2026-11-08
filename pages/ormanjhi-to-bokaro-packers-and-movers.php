@@ -66,7 +66,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "name": "Shree Ashirwad Packers and Movers Ormanjhi to Bokaro",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo SECONDARY_PHONE; ?>",
         "priceRange": "₹6,500 - ₹35,000",
         "address": {
             "@type": "PostalAddress",
@@ -111,7 +111,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91 9835565233",
+            "telephone": "<?php echo SECONDARY_PHONE; ?>",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
@@ -232,7 +232,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/"><i class="fa fa-home"></i> Home</a></li>
-                <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/services">Shifting Routes</a></li>
+                <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Bokaro Packers and Movers</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Ormanjhi to Bokaro Packers and Movers</li>
             </ol>
         </nav>
@@ -254,7 +254,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     <div class="feat-item"><i class="fa fa-check-circle"></i> IBA Approved Bills for SAIL BSL & CCL Transfers</div>
                 </div>
                 <div class="hero-cta">
-                    <a href="tel:+919835565233" class="btn btn-primary"><i class="fa fa-phone-alt"></i> Call +91 9835565233</a>
+                    <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn btn-primary"><i class="fa fa-phone-alt"></i> Call <?php echo SECONDARY_PHONE; ?></a>
                     <a href="#quote-form" class="btn btn-outline">Instant Price Calculation</a>
                 </div>
             </div>
@@ -335,7 +335,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     If you are searching for reliable movers and packers near me from Ormanjhi to Bokaro, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for instant booking and free quote.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><?php echo SECONDARY_PHONE; ?></strong> for instant booking and free quote.
                 </p>
             </div>
         </div>
@@ -612,7 +612,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
                     </ul>
                     <div class="contact-box-cta">
                         <p>Need quotation sets for HR pre-approval?</p>
-                        <a href="tel:+919835565233" class="btn btn-secondary btn-block"><i class="fa fa-phone"></i> Call +91 9835565233</a>
+                        <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn btn-secondary btn-block"><i class="fa fa-phone"></i> Call <?php echo SECONDARY_PHONE; ?></a>
                     </div>
                 </div>
             </div>
@@ -873,13 +873,37 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
     </div>
 </section>
 
+<!-- Intercity Route Cluster Navigation -->
+<section class="section bg-light" style="padding: 35px 0;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 28px; box-shadow: 0 2px 10px rgba(0,0,0,0.03);">
+            <h3 style="font-size: 1.4rem; font-weight: 700; color: #0f172a; margin-bottom: 1rem;">
+                Explore Connected Bokaro &amp; Jharkhand Relocation Routes
+            </h3>
+            <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1.5rem;">
+                Connect seamlessly across our industrial and interdistrict relocation network linking Ormanjhi and Bokaro Steel City:
+            </p>
+            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro Hub Main Page</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ormanjhi-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Ormanjhi (Return Route)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Sector 4 Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Chas Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Dhanbad</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Household Shifting Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/pricing" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Cost Calculator &amp; Rates</a>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Call to Action Section -->
 <section class="section cta-section text-center">
     <div class="container">
         <h2>Ready for a Safe, Smooth Move from Ormanjhi to Bokaro?</h2>
         <p>Book with Jharkhand's most trusted moving company. Enjoy same-day delivery, 5-layer protective packing, and complete damage-free assurance.</p>
         <div class="cta-buttons">
-            <a href="tel:+919835565233" class="btn btn-primary btn-lg"><i class="fa fa-phone-alt"></i> Call Now: +91 9835565233</a>
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn btn-primary btn-lg"><i class="fa fa-phone-alt"></i> Call Now: <?php echo SECONDARY_PHONE; ?></a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn btn-outline btn-lg"><i class="fa fa-calendar-alt"></i> Schedule Free Pre-Move Survey</a>
         </div>
     </div>

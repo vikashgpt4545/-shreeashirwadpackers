@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Bokaro to Dumka Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Safe & reliable Bokaro to Dumka packers and movers. 225 km transit via NH-320 & NH-114A, 5-layer packing, SAIL & govt transfer bills, car carriers. Call 9835565233.";
+$page_desc = "Safe & reliable Bokaro to Dumka packers and movers. 225 km transit via NH-320 & NH-114A, 5-layer packing, SAIL & govt transfer bills, car carriers. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -466,29 +466,31 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-a
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Bokaro to Dumka",
+        "name": "Shree Ashirwad Packers and Movers - Bokaro Branch",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-        "@id": "<?php echo $canonical_url; ?>#company",
+        "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro#movingcompany",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+        "email": "<?php echo OFFICIAL_EMAIL; ?>",
         "priceRange": "INR 8,500 - 32,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "City Centre, Sector 4",
+            "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
             "addressLocality": "Bokaro Steel City",
             "addressRegion": "Jharkhand",
-            "postalCode": "827004",
+            "postalCode": "827012",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.6693,
-            "longitude": 86.1511
+            "latitude": <?php echo BOKARO_GEO_LAT; ?>,
+            "longitude": <?php echo BOKARO_GEO_LNG; ?>
         },
+        "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
         "areaServed": [
             {
                 "@type": "City",
-                "name": "Bokaro"
+                "name": "Bokaro Steel City"
             },
             {
                 "@type": "City",
@@ -508,7 +510,14 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-a
             ],
             "opens": "00:00",
             "closes": "23:59"
-        }
+        },
+        "sameAs": [
+            "<?php echo SOCIAL_FACEBOOK; ?>",
+            "<?php echo SOCIAL_TWITTER; ?>",
+            "<?php echo SOCIAL_INSTAGRAM; ?>",
+            "<?php echo SOCIAL_YOUTUBE; ?>",
+            "<?php echo SOCIAL_PINTEREST; ?>"
+        ]
     }
     </script>
 
@@ -658,6 +667,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-a
 <!-- Hero Section -->
 <section class="bok2dum-hero">
     <div class="container">
+        <nav aria-label="Breadcrumb" style="margin-bottom: 14px; font-size: 0.9rem; color: rgba(255,255,255,0.85);">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a>
+            <span style="margin: 0 8px; opacity: 0.6;">/</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #93c5fd; text-decoration: none;">Bokaro Packers and Movers</a>
+            <span style="margin: 0 8px; opacity: 0.6;">/</span>
+            <span style="color: #ffffff; font-weight: 600;">Bokaro to Dumka</span>
+        </nav>
         <div class="bok2dum-badge-strip">
             <span class="bok2dum-badge">&#9733; Verified Intercity Route</span>
             <span class="bok2dum-badge">&#9679; 225 KM Highway Corridor</span>
@@ -667,54 +683,17 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-a
         <h1>Bokaro to Dumka Packers and Movers Services</h1>
         <p class="lead">Dependable, safe, and professionally certified relocation services connecting the steel city of Bokaro with the Santhal Pargana sub-capital of Dumka. We deliver 5-layer heavy protective packaging, dedicated sealed container trucks, SAIL transfer paperwork, and comprehensive transit insurance.</p>
         <div class="bok2dum-cta-group">
-            <a href="tel:+919835565233" class="bok2dum-btn-primary">
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="bok2dum-btn-primary">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                Call: +91 9835565233
+                Call: <?php echo SECONDARY_PHONE; ?>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="bok2dum-btn-secondary">Request Free Inspection Quote</a>
+            <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20moving%20quote%20from%20Bokaro%20to%20Dumka." target="_blank" rel="noopener" class="bok2dum-btn-secondary" style="background: rgba(37, 211, 102, 0.2); border-color: rgba(37, 211, 102, 0.55); color: #ffffff;">
+                WhatsApp Quote &rarr;
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bok2dum-btn-secondary">Request Free Inspection Quote &rarr;</a>
         </div>
     </div>
 </section>
-    <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers from Bokaro to Dumka
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers from Bokaro to Dumka</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Bokaro and Dumka with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Bokaro</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities in Bokaro and Dumka along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Bokaro</strong>, intercity relocation to Dumka, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service from Bokaro to Dumka</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Bokaro to Dumka</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me from Bokaro to Dumka</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Bokaro to Dumka</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Bokaro to Dumka</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
 
 
 <!-- Route Quick Overview Strip -->
@@ -1091,18 +1070,41 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-dumka-packers-a
 </section>
 
 <!-- Call to Action Banner -->
-<section class="bok2dum-section bok2dum-section-gray" style="padding-bottom: 90px;">
+<section class="bok2dum-section bok2dum-section-gray" style="padding-bottom: 60px;">
     <div class="container">
         <div class="bok2dum-cta-card">
             <h2>Ready to Relocate from Bokaro to Dumka?</h2>
             <p>Contact Shree Ashirwad Packers and Movers today for an instant free moving estimate, verified driver allocation, and complete doorstep shifting support.</p>
             <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-                <a href="tel:+919835565233" class="bok2dum-btn-primary" style="background: #f59e0b; color: #0f172a;">
+                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="bok2dum-btn-primary" style="background: #f59e0b; color: #0f172a;">
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                    Call: +91 9835565233
+                    Call: <?php echo SECONDARY_PHONE; ?>
                 </a>
-                <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="bok2dum-btn-secondary">Request Written Quotation</a>
+                <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20moving%20quote%20from%20Bokaro%20to%20Dumka." target="_blank" rel="noopener" class="bok2dum-btn-secondary" style="background: rgba(37, 211, 102, 0.2); border-color: rgba(37, 211, 102, 0.55); color: #ffffff;">
+                    WhatsApp Quote &rarr;
+                </a>
+                <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bok2dum-btn-secondary">Request Written Quotation &rarr;</a>
             </div>
+        </div>
+    </div>
+</section>
+
+<!-- Connected Shifting Resources Module -->
+<section style="padding: 40px 0; background: #f8fafc;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.35rem; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 12px;">Connected Regional Moving Corridors &amp; Authority Hubs</h3>
+            <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, Bokaro township hubs, tariff calculators, and reciprocal return corridors:</p>
+            <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Bokaro (Branch)</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/dumka-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Return Route: Dumka to Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Sector 4 Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Sector 12 Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Chas Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Household Shifting Services in Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-deoghar-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Bokaro to Deoghar Packers &amp; Movers</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Cost Calculator</a></li>
+            </ul>
         </div>
     </div>
 </section>

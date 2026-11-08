@@ -1,6 +1,6 @@
 <?php
 // packers-and-movers-in-kanke.php - Professional Relocation Services in Kanke, Ranchi by Shree Ashirwad Packers and Movers
-require_once "includes/config.php";
+include_once __DIR__ . '/../includes/config.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -8,14 +8,14 @@ require_once "includes/config.php";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Packers and Movers in Kanke | Best Shifting Services Ranchi Suburbs - Shree Ashirwad</title>
-    <meta name="description" content="Looking for the best packers and movers in Kanke, Ranchi? Shree Ashirwad Packers offers Kanke Road, BAU Campus, CIP, home shifting & car transport. Call +91 9835565233.">
+    <meta name="description" content="Looking for the best packers and movers in Kanke, Ranchi? Shree Ashirwad Packers offers Kanke Road, BAU Campus, CIP, home shifting & car transport. Call +91 8409531615.">
     <meta name="keywords" content="packers and movers in kanke, best movers and packers kanke, movers and packers near me in kanke, movers and packers kanke ranchi, household shifting kanke road, car bike transport kanke, packers near birsa agricultural university, packers near cip kanke, sukurhutu shifting, arsande packers, packing and moving company in kanke, local shifting in kanke, shree ashirwad packers and movers">
     <link rel="canonical" href="https://www.shreeashirwadpackers.com/packers-and-movers-in-kanke">
     <meta name="robots" content="index, follow">
 
     <!-- Open Graph Tags -->
     <meta property="og:title" content="Packers and Movers in Kanke Ranchi | Shree Ashirwad Packers & Movers">
-    <meta property="og:description" content="Certified, safe, and affordable household shifting and vehicle relocation services in Kanke, Ranchi. Call 9835565233 for a free instant moving estimate.">
+    <meta property="og:description" content="Certified, safe, and affordable household shifting and vehicle relocation services in Kanke, Ranchi. Call +91 8409531615 for a free instant moving estimate.">
     <meta property="og:url" content="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke">
     <meta property="og:type" content="business.business">
     <meta property="og:image" content="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg">
@@ -41,17 +41,17 @@ require_once "includes/config.php";
                 "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kanke",
                 "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
                 "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
-                "telephone": "+919835565233",
-                "email": "info@shreeashirwadpackers.com",
+                "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+                "email": "enquiry@shreeashirwadpackers.com",
                 "description": "Premier packing and moving company in Kanke, Ranchi offering household shifting, vehicle transportation, academic campus moving, and warehouse storage solutions across Ranchi district.",
                 "priceRange": "₹₹",
         "keywords": "packers and movers in kanke, movers and packers kanke ranchi, household shifting kanke road, car bike transport kanke, packers near birsa agricultural university, packers near cip kanke, shree ashirwad packers and movers",
                 "address": {
                     "@type": "PostalAddress",
-                    "streetAddress": "Kanke Road, Near Block Chowk, Kanke",
-                    "addressLocality": "Kanke, Ranchi",
+                    "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+                    "addressLocality": "Ranchi",
                     "addressRegion": "Jharkhand",
-                    "postalCode": "834006",
+                    "postalCode": "834002",
                     "addressCountry": "IN"
                 },
                 "geo": {
@@ -99,8 +99,8 @@ require_once "includes/config.php";
                     {
                         "@type": "ListItem",
                         "position": 2,
-                        "name": "Jharkhand Relocation",
-                        "item": "<?php echo SITE_BASE_URL; ?>/#service-areas"
+                        "name": "Packers and Movers in Ranchi",
+                        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
                     },
                     {
                         "@type": "ListItem",
@@ -437,7 +437,20 @@ require_once "includes/config.php";
 </head>
 <body class="page-template">
 
-<?php include "includes/header.php"; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Kanke</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <!-- Hero Section -->
 <section class="page-hero">
@@ -448,8 +461,8 @@ require_once "includes/config.php";
         <h1>Packers and Movers in Kanke</h1>
         <p>Looking for the best packers and movers in Kanke? <strong>Shree Ashirwad Packers and Movers</strong> provides trusted household shifting, office relocation, bike transport, car transport, and complete moving solutions at affordable prices across Kanke and northern Ranchi. As one of the top-rated packers and movers near Kanke, we help university scientists, medical professors, doctors, corporate executives, and families relocate locally and across Jharkhand without hassle. We cover major localities including Kanke Road, Block Chowk, BAU Campus Colony, CIP Campus, RINPAS Road, Sukurhutu, Pithoria Road, Arsande, and Chandwe for fast and reliable shifting services. Whether you need local shifting in Kanke, intercity relocation across Ranchi, Patna, Kolkata, or Delhi NCR, office moving, or vehicle transportation, our trained staff ensures secure handling, pincode-based scheduling (PIN: 834006), same-day shifting assistance, floor-to-floor handling, and dependable relocation planning.</p>
         <div class="hero-cta-group">
-            <a href="tel:+919835565233" class="btn-primary-custom">
-                <i class="fa-solid fa-phone-volume"></i> Call Now: +91 9835565233
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-primary-custom">
+                <i class="fa-solid fa-phone-volume"></i> Call Now: +91 8409531615
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn-secondary-custom">
                 <i class="fa-solid fa-calculator"></i> Get Free Moving Quote
@@ -499,7 +512,7 @@ require_once "includes/config.php";
                     If you are searching for reliable <strong>movers and packers near me in Kanke</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Kanke</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Kanke</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Kanke</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Kanke</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -509,7 +522,7 @@ require_once "includes/config.php";
                     <h2>Professional and Dependable Shifting Services in Kanke, Ranchi</h2>
                     <p>Relocating your residence, faculty quarters, clinic, or corporate office in the scenic northern gateway of Ranchi requires a trusted moving partner equipped with modern container trucks, polite professional handlers, and meticulous packaging techniques. Kanke, positioned along the northern arterial corridor connecting Ranchi city center to Patratu Valley and Ramgarh via Kanke Road and the Ranchi Ring Road, is renowned as an eminent educational, healthcare, and residential suburb. It proudly hosts landmark national institutions including the **Birsa Agricultural University (BAU)**, **Central Institute of Psychiatry (CIP)**, and **Ranchi Institute of Neuro-Psychiatry and Allied Sciences (RINPAS)**, alongside upscale residential developments overlooking Kanke Dam. At <strong>Shree Ashirwad Packers and Movers</strong>, we deliver gold-standard relocation services directly to your doorstep in Kanke.</p>
 
-                    <p>Whether you are an academic scientist or professor relocating to or from the BAU campus, a medical psychiatrist or specialist physician at CIP or RINPAS transferring to another premier national medical institute, a corporate executive moving into an upscale apartment in Sukurhutu or Arsande, or a family settling into a newly constructed bungalow along Kanke Road, our certified crew ensures effortless execution. At <strong><a href="<?php echo SITE_BASE_URL; ?>/" title="Packers Movers in Ranchi" style="color: inherit; text-decoration: underline;">Shree Ashirwad Packers and Movers</a></strong>, recognized as the premier <strong><a href="<?php echo SITE_BASE_URL; ?>/" title="Packers Movers in Ranchi" style="color: inherit; font-weight: 700; text-decoration: underline;">packers movers in Ranchi</a></strong>, we deliver gold-standard relocation services directly to your doorstep in Kanke.</p>
+                    <p>Whether you are an academic scientist or professor relocating to or from the BAU campus, a medical psychiatrist or specialist physician at CIP or RINPAS transferring to another premier national medical institute, a corporate executive moving into an upscale apartment in Sukurhutu or Arsande, or a family settling into a newly constructed bungalow along Kanke Road, our certified crew ensures effortless execution. At <strong><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: inherit; text-decoration: underline;">Shree Ashirwad Packers and Movers</a></strong>, recognized as the premier <strong><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi" style="color: inherit; font-weight: 700; text-decoration: underline;">packers and movers in Ranchi</a></strong>, we deliver gold-standard relocation services directly to your doorstep in Kanke.</p>
 
                     <div class="location-highlight">
                         <h4><i class="fa-solid fa-map-location-dot"></i> Complete Doorstep Coverage Across Kanke & Ranchi Belt</h4>
@@ -523,7 +536,7 @@ require_once "includes/config.php";
                             Customers choose our movers and packers service in Kanke for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning. We provide nearby packers and movers support with pincode-based scheduling (PIN: 834006), same-day shifting assistance, floor-to-floor handling, and flexible moving options across Kanke Road, BAU Campus, CIP, and RINPAS.
                         </p>
                         <p style="margin-bottom: 0; font-size: 15px; line-height: 1.6; color: #334155;">
-                            From university scientist residences and hospital staff apartments to executive bungalows overlooking Kanke Dam, our packing and moving company in Kanke delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Kanke, our local team is available 24/7 at <strong>+91 9835565233</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
+                            From university scientist residences and hospital staff apartments to executive bungalows overlooking Kanke Dam, our packing and moving company in Kanke delivers affordable, safe, and stress-free relocation services. If you are searching for reliable movers and packers near me in Kanke, our local team is available 24/7 at <strong>+91 8409531615</strong> for home shifting, storage, vehicle transport, and complete relocation assistance.
                         </p>
                     </div>
                 </div>
@@ -854,8 +867,8 @@ require_once "includes/config.php";
                     <h2 style="color: #ffffff; font-size: 2.2rem; margin-bottom: 15px;">Book Your Kanke Relocation Today!</h2>
                     <p style="color: #cbd5e1; font-size: 1.15rem; max-width: 750px; margin: 0 auto 25px;">Avoid the headaches, damages, and delays of unprofessional shifting. Trust Jharkhand’s most recommended packers and movers for a safe, swift, and seamless moving experience in Kanke and Ranchi.</p>
                     <div class="hero-cta-group">
-                        <a href="tel:+919835565233" class="btn-primary-custom" style="font-size: 1.1rem; padding: 15px 35px;">
-                            <i class="fa-solid fa-phone"></i> Call +91 9835565233
+                        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-primary-custom" style="font-size: 1.1rem; padding: 15px 35px;">
+                            <i class="fa-solid fa-phone"></i> Call +91 8409531615
                         </a>
                         <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn-secondary-custom" style="border-color: #ff6b00; font-size: 1.1rem;">
                             <i class="fa-solid fa-calendar-check"></i> Schedule Free Survey
@@ -868,7 +881,7 @@ require_once "includes/config.php";
     </div>
 </section>
 
-<?php include "includes/footer.php"; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

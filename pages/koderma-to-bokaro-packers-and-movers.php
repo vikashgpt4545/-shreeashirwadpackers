@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Koderma to Bokaro Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Reliable Koderma to Bokaro packers and movers. 140 km transit, same-day delivery, 5-layer packing, DVC KTPS & SAIL Bokaro transfer billing, car & bike parcel. Call 9835565233.";
+$page_desc = "Reliable Koderma to Bokaro packers and movers. 140 km transit, same-day delivery, 5-layer packing, DVC KTPS & SAIL Bokaro transfer billing, car & bike parcel. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -496,7 +496,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers
         <div class="kod2bok-container">
             <nav class="kod2bok-breadcrumbs" aria-label="Breadcrumb">
                 <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &raquo;
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-koderma">Koderma Packers</a> &raquo;
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Bokaro Packers and Movers</a> &raquo;
                 <span>Koderma to Bokaro</span>
             </nav>
             <h1 class="kod2bok-hero-title">Koderma to Bokaro Packers and Movers</h1>
@@ -569,7 +569,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers
                     If you are searching for reliable <strong>movers and packers near me from Koderma to Bokaro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Koderma to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Koderma to Bokaro</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Koderma to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Koderma to Bokaro</strong>. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -829,7 +829,27 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers
             <div class="kod2bok-cta-box">
                 <h3>Plan Your Koderma to Bokaro Move Today</h3>
                 <p>Experience hassle-free, fully insured, and on-time intercity relocation with Jharkhand's most trusted packing and moving specialists. Contact our corridor coordinator for a free written estimate.</p>
-                <a href="tel:+919835565233" class="kod2bok-cta-btn">&#128222; Call Now: +91 9835565233</a>
+                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="kod2bok-cta-btn">&#128222; Call Now: <?php echo SECONDARY_PHONE; ?></a>
+            </div>
+
+            <!-- Intercity Route Cluster Navigation -->
+            <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: var(--kod2bok-radius); padding: 28px; margin-top: 40px; box-shadow: var(--kod2bok-shadow);">
+                <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.4rem; font-weight: 800; color: #0f172a; margin-bottom: 1rem;">
+                    Explore Connected Bokaro &amp; Jharkhand Relocation Routes
+                </h3>
+                <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1.5rem;">
+                    Connect seamlessly across our industrial and interdistrict relocation network linking Koderma and Bokaro Steel City:
+                </p>
+                <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro Hub Main Page</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-koderma-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Koderma (Return Route)</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Sector 4 Bokaro</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Chas Bokaro</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-hazaribagh-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Hazaribagh</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Ranchi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Household Shifting Bokaro</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/pricing" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Cost Calculator &amp; Rates</a>
+                </div>
             </div>
 
         </div>
@@ -843,8 +863,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers
         "name": "Shree Ashirwad Packers and Movers - Koderma to Bokaro",
         "description": "Professional packers and movers offering household shifting, DVC KTPS and SAIL Bokaro employee transfer relocation, car transport, and bike parcel services from Koderma to Bokaro.",
         "url": "https://www.shreeashirwadpackers.com/koderma-to-bokaro-packers-and-movers",
-        "telephone": "+91-9835565233",
-        "email": "info@shreeashirwadpackers.com",
+        "telephone": "<?php echo SECONDARY_PHONE; ?>",
+        "email": "<?php echo OFFICIAL_EMAIL; ?>",
         "priceRange": "₹2,200 - ₹29,500",
         "address": {
             "@type": "PostalAddress",

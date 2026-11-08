@@ -24,16 +24,16 @@ include_once __DIR__ . '/../includes/config.php';
     "@context": "https://schema.org",
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Namkum Ranchi",
-    "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-namkum-ranchi",
-    "telephone": "+91 9835565233",
+    "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+    "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum-ranchi",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Tata Road near Namkum Military Station & ICAR-IINRG",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Namkum, Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834010",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -71,19 +71,19 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Packers and Movers in Namkum Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-namkum-ranchi"
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-namkum-ranchi"
       }
     ]
   }
@@ -421,6 +421,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Namkum</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-nmk-wrapper">
   <!-- Hero Section -->
   <section class="hl-nmk-hero-section">
@@ -433,7 +446,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Namkum Ranchi</h1>
         <p>Looking for the best packers and movers in Namkum Ranchi? Shree Ashirwad Packers and Movers provides trusted household shifting, military cantonment transfers, industrial machinery moving, office relocation, bike transport, car transport, and complete moving solutions at affordable prices. Our experienced in-house team offers safe packing, loading, unloading, transportation, and unpacking services across Namkum Military Station, ICAR-IINRG, Tata Road, and Lowadih with timely delivery support.</p>
-        <a href="tel:+919835565233" class="hl-nmk-cta-btn">&#128222; Call Now: +91 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-nmk-cta-btn">&#128222; Call Now: +91 8409531615</a>
       </div>
       <div class="hl-nmk-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +454,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Tata Road near Military Station, Namkum
         </div>
         <div class="hl-nmk-contact-item">
-          <span>Direct Helpline:</span> +91 9835565233
+          <span>Direct Helpline:</span> +91 8409531615
         </div>
         <div class="hl-nmk-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -467,7 +480,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-nmk-section">
       <h2>Professional Moving Services in Eastern Ranchi's Defense and Industrial Hub</h2>
       <p>Namkum occupies a distinguished and vital position on the eastern perimeter of Ranchi. Positioned prominently along the arterial Tata Road (National Highway 33) connecting Ranchi with Jamshedpur, Kharagpur, and Kolkata, Namkum is synonymous with major strategic establishments. Foremost among them is the historic Namkum Military Station and Cantonment, housing key formations of the Indian Army, military hospitals, and central defense personnel colonies. The locality also hosts the prestigious Indian Council of Agricultural Research – National Institute of Secondary Agriculture (ICAR-IINRG, formerly Indian Institute of Natural Resins and Gums), sprawling manufacturing units in Namkum Industrial Area, bustling commercial junctions at Lowadih and Rampur, and growing residential colonies along Sidroll.</p>
-      <p>Relocating in Namkum requires specialized procedural expertise. Defense families and commissioned officers experience frequent transfers on strict duty orders, requiring punctual vehicle dispatch, authorized cantonment gate passes, and meticulous paperwork compliant with the Controller of Defence Accounts (CDA) guidelines. In addition, industrial facilities and research laboratories demand heavy machinery rigging, scientific apparatus protection, and secure container vehicles. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers takes immense pride in serving the brave men and women of our armed forces, agricultural researchers, and local businesses in Namkum with highest-grade packaging, disciplined execution, and zero damage guarantees.</p>
+      <p>Relocating in Namkum requires specialized procedural expertise. Defense families and commissioned officers experience frequent transfers on strict duty orders, requiring punctual vehicle dispatch, authorized cantonment gate passes, and meticulous paperwork compliant with the Controller of Defence Accounts (CDA) guidelines. In addition, industrial facilities and research laboratories demand heavy machinery rigging, scientific apparatus protection, and secure container vehicles. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers takes immense pride in serving the brave men and women of our armed forces, agricultural researchers, and local businesses in Namkum with highest-grade packaging, disciplined execution, and zero damage guarantees.</p>
     </article>
 
         <!-- Competitor Ranking Keyword Content Box -->
@@ -505,7 +518,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Namkum</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Namkum</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Namkum</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Namkum</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Namkum</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>

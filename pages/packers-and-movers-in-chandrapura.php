@@ -2,17 +2,17 @@
 /**
  * Packers and Movers in Chandrapura - Shree Ashirwad Packers and Movers
  * Website: https://www.shreeashirwadpackers.com
- * Contact: +91 9835565233 / +91 9835565233
- * Office: Serving Chandrapura, DVC Township, Bokaro & Bermo, Jharkhand
+ * Contact: +91 8409531615
+ * Office: Serving Chandrapura & DVC Township from Sector 12/A Bokaro Branch, Jharkhand
  */
 
 require_once __DIR__ . '/includes/config.php';
 
 // Page-specific variables
 $page_title = "Packers and Movers in Chandrapura | Best Shifting Services Bokaro - Shree Ashirwad";
-$page_description = "Looking for the best packers and movers in Chandrapura? Shree Ashirwad Packers offers DVC employee transfers, household shifting, bike/car transport. Call +91 9835565233.";
+$page_description = "Looking for the best packers and movers in Chandrapura? Shree Ashirwad Packers offers DVC employee transfers, household shifting, bike/car transport. Call +91 8409531615.";
 $page_keywords = "packers and movers in chandrapura, best movers and packers chandrapura, movers and packers near me in chandrapura, dvc transfer packing chandrapura, household shifting chandrapura, car transport chandrapura, bike courier chandrapura, packing and moving company in chandrapura, local shifting in chandrapura, ctps chandrapura relocation";
-$canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
+$canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-chandrapura";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -65,26 +65,33 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
     {
       "@context": "https://schema.org",
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers - Chandrapura",
+      "name": "Shree Ashirwad Packers and Movers - Bokaro Branch (Serving Chandrapura)",
       "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
-      "@id": "<?php echo $canonical_url; ?>#movingcompany",
+      "@id": "<?php echo $canonical_url; ?>/#movingcompany",
       "url": "<?php echo $canonical_url; ?>",
-      "telephone": "+919835565233",
+      "telephone": "+918409531615",
+      "email": "<?php echo OFFICIAL_EMAIL; ?>",
+      "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
       "keywords": "packers and movers in chandrapura, packers and movers chandrapura, best packers and movers in chandrapura, household shifting chandrapura, car transport chandrapura, bike parcel chandrapura, iba approved packers chandrapura, local shifting chandrapura",
       "priceRange": "INR 3500 - 52000",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Station Road, Near DVC Central Colony",
-        "addressLocality": "Chandrapura, Bokaro",
+        "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
+        "addressLocality": "Bokaro Steel City",
         "addressRegion": "Jharkhand",
-        "postalCode": "828403",
+        "postalCode": "827012",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 23.7547,
-        "longitude": 86.1189
+        "latitude": 23.6693,
+        "longitude": 86.1511
       },
+      "areaServed": [
+        { "@type": "Place", "name": "Chandrapura, Bokaro" },
+        { "@type": "Place", "name": "DVC Township, Chandrapura" },
+        { "@type": "City", "name": "Bokaro Steel City" }
+      ],
       "openingHoursSpecification": {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": [
@@ -100,8 +107,11 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
         "closes": "23:59"
       },
       "sameAs": [
-        "https://www.facebook.com/shreeashirwadpackers",
-        "https://www.youtube.com/@shreeashirwadpackers"
+        "<?php echo SOCIAL_FACEBOOK; ?>",
+        "<?php echo SOCIAL_TWITTER; ?>",
+        "<?php echo SOCIAL_INSTAGRAM; ?>",
+        "<?php echo SOCIAL_YOUTUBE; ?>",
+        "<?php echo SOCIAL_PINTEREST; ?>"
       ]
     }
     </script>
@@ -116,13 +126,13 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "<?php echo SITE_BASE_URL; ?>/"
+          "item": "https://www.shreeashirwadpackers.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Packers and Movers Jharkhand",
-          "item": "<?php echo SITE_BASE_URL; ?>/#service-areas"
+          "name": "Packers and Movers in Bokaro",
+          "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro"
         },
         {
           "@type": "ListItem",
@@ -201,7 +211,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
           "name": "How can I book an in-person or video survey in Chandrapura?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Simply call our 24x7 booking helpline at +91 9835565233 or message us via WhatsApp at +91 9835565233. Our Bokaro operations manager will arrange a free, no-obligation doorstep survey or virtual assessment at your convenience."
+            "text": "Simply call our 24x7 booking helpline at +91 8409531615 or message us via WhatsApp on +91 8409531615. Our Bokaro operations manager will arrange a free, no-obligation doorstep survey or virtual assessment at your convenience."
           }
         }
       ]
@@ -229,10 +239,10 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
                     Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Chandrapura and nearby areas with timely delivery support. As one of the top-rated movers and packers near Chandrapura, we help DVC engineers, railway staff, and local families relocate locally and across Jharkhand without hassle.
                 </p>
                 <div class="hero-cta-group" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-                    <a href="tel:+919835565233" class="btn-primary" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(239, 68, 68, 0.3); transition: all 0.3s ease;">
-                        <i class="fa-solid fa-phone-volume"></i> Call +91 9835565233
+                    <a href="tel:+918409531615" class="btn-primary" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(239, 68, 68, 0.3); transition: all 0.3s ease;">
+                        <i class="fa-solid fa-phone-volume"></i> Call +91 8409531615
                     </a>
-                    <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20moving%20in%20Chandrapura" target="_blank" class="btn-whatsapp" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(34, 197, 94, 0.3); transition: all 0.3s ease;">
+                    <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20moving%20in%20Chandrapura" target="_blank" class="btn-whatsapp" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(34, 197, 94, 0.3); transition: all 0.3s ease;">
                         <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
                     </a>
                 </div>
@@ -262,7 +272,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
         <ol style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; align-items: center;">
             <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #475569; text-decoration: none;"><i class="fa-solid fa-house" style="margin-right: 4px;"></i> Home</a></li>
             <li style="color: #94a3b8;">/</li>
-            <li><a href="<?php echo SITE_BASE_URL; ?>/#service-areas" style="color: #475569; text-decoration: none;">Jharkhand</a></li>
+            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #475569; text-decoration: none;">Packers and Movers in Bokaro</a></li>
             <li style="color: #94a3b8;">/</li>
             <li style="color: #1e3a8a; font-weight: 600;" aria-current="page">Chandrapura</li>
         </ol>
@@ -275,47 +285,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
         <div class="row" style="display: flex; flex-wrap: wrap; gap: 40px;">
             <div class="main-column" style="flex: 1 1 760px;">
                 
-                    <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers in Chandrapura
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers in Chandrapura</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Chandrapura and nearby areas with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Chandrapura</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including CISF Township Gate Clearance Protocols:, DVC Quarters Handover & Surrender Support:, Direct DVC Plant-to-Plant Corridors: along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Chandrapura</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service in Chandrapura</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Chandrapura</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me in Chandrapura</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Chandrapura</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Chandrapura</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
-    <!-- Section 1: Overview & Strategic Location -->
+                <!-- Section 1: Overview & Strategic Location -->
                 <article class="article-block" style="margin-bottom: 50px;">
                     <h2 style="font-size: 28px; font-weight: 700; color: #0f172a; margin-bottom: 20px; font-family: 'Outfit', sans-serif;">
                         Chandrapura’s Most Trusted Movers for DVC Quarters & Regional Shifts
@@ -327,7 +297,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
                         Relocations in Chandrapura present distinctive characteristics. Many moves involve DVC engineers, technical supervisors, CISF security personnel, and Indian Railways employees who receive transfer directives requiring quick quarter handover, rigorous inventory documentation for composite transfer grant claims, and adherence to CISF gate clearance protocols. In addition, the presence of coal handling facilities and thermal power operations requires high-density dust-resistant packaging that shields home upholstery, mattresses, and delicate electronics from fine airborne particles.
                     </p>
                     <p style="font-size: 16px; line-height: 1.8; color: #334155; margin-bottom: 25px;">
-                        <strong>Shree Ashirwad Packers and Movers</strong> has established an impeccable track record across Chandrapura. With dedicated closed-body logistics trucks, trained packing professionals, and complete IBA documentation compliance, we manage your move seamlessly. From small flats in Dugda and Tarmi to expansive bungalows in DVC Central and West Colonies, we deliver end-to-end relocation with zero breakage and total peace of mind.
+                        <strong>Shree Ashirwad Packers and Movers</strong> dispatches specialized moving crews across Chandrapura directly from our verified Bokaro branch at <strong>Plot no - 54/c, Post office sector - 12/A, Bokaro - 827012</strong>. With dedicated closed-body logistics trucks, trained packing professionals, and complete IBA documentation compliance, we manage your move seamlessly across Chandrapura, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #2563eb; font-weight: 600;">Bokaro Steel City</a>, and nationwide.
                     </p>
 
                     <!-- Verified Image Embed 1 -->
@@ -774,8 +744,12 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
                     </p>
 
                     <!-- Local Google Map Embed -->
-                    <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0;">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58540.123456789!2d86.1189!3d23.7547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f6a5123456789%3A0x7d6a5d4e3c2b1a0!2sChandrapura%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Map Location of Chandrapura Bokaro"></iframe>
+                    <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0; background: #f8fafc;">
+                        <iframe src="https://maps.google.com/maps?q=Chandrapura,+Bokaro,+Jharkhand&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="320" style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Map Service Coverage in Chandrapura, Bokaro"></iframe>
+                        <div style="padding: 12px 18px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; font-size: 13.5px; color: #334155; border-top: 1px solid #e2e8f0;">
+                            <span><strong>Bokaro Dispatch Office:</strong> Plot no - 54/c, Post office sector - 12/A, Bokaro - 827012</span>
+                            <a href="<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>" target="_blank" rel="noopener noreferrer" style="color: #2563eb; font-weight: 700; text-decoration: none;">Get Directions to Bokaro Branch &rarr;</a>
+                        </div>
                     </div>
                 </article>
 
@@ -854,7 +828,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
                                 <i class="fa-solid fa-circle-question" style="color: #2563eb; margin-right: 8px;"></i> How can I book an in-person or video survey in Chandrapura?
                             </h3>
                             <p style="font-size: 15px; line-height: 1.75; color: #334155; margin: 0;">
-                                Simply call our 24x7 booking helpline at +91 9835565233 or message us via WhatsApp at +91 9835565233. Our Bokaro operations manager will arrange a free, no-obligation doorstep survey or virtual assessment at your convenience.
+                                Simply call our 24x7 booking helpline at +91 8409531615 or message us via WhatsApp on +91 8409531615. Our Bokaro operations manager will arrange a free, no-obligation doorstep survey or virtual assessment at your convenience.
                             </p>
                         </div>
                     </div>
@@ -875,13 +849,10 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
                             Moving in or from Chandrapura? Speak directly with our senior Bokaro relocation coordinator today.
                         </p>
                         <div style="display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px;">
-                            <a href="tel:9835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
-                                <i class="fa-solid fa-phone"></i> +91 9835565233
+                            <a href="tel:+918409531615" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
+                                <i class="fa-solid fa-phone"></i> Call +91 8409531615
                             </a>
-                            <a href="tel:+919835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #1e3a8a; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
-                                <i class="fa-solid fa-phone"></i> +91 9835565233
-                            </a>
-                            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chandrapura" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
+                            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chandrapura" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
                                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
                             </a>
                         </div>
@@ -940,10 +911,10 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandrapura";
             Get in touch with Shree Ashirwad Packers and Movers today for a free pre-move consultation and transparent rate quote. Trust Jharkhand’s premier moving team for an effortless, on-time relocation.
         </p>
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-            <a href="tel:9835565233" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(239, 68, 68, 0.35);">
-                <i class="fa-solid fa-phone-volume"></i> Call +91 9835565233
+            <a href="tel:+918409531615" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(239, 68, 68, 0.35);">
+                <i class="fa-solid fa-phone-volume"></i> Call +91 8409531615
             </a>
-            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20me%20a%20quote%20for%20Chandrapura" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(34, 197, 94, 0.35);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20me%20a%20quote%20for%20Chandrapura" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(34, 197, 94, 0.35);">
                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>

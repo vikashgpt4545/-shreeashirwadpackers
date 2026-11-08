@@ -6,8 +6,9 @@
  * Focus Keywords: ramgarh to ranchi packers and movers, packers and movers ramgarh to ranchi, house shifting ramgarh to ranchi, car carrier ramgarh to ranchi, bike transport ramgarh to ranchi, household moving ramgarh ranchi
  */
 if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/includes/config.php';
+    require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Ramgarh to Ranchi Packers and Movers | Reliable Shifting Services";
 $page_desc = "Safe Ramgarh to Ranchi packers and movers. 50 km direct transit via NH-33 & NH-20 State Expressway, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
@@ -373,7 +374,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-ranchi-packers
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
@@ -474,7 +475,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-ranchi-packers
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
+                "name": "Packers and Movers in Ranchi",
                 "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
@@ -582,11 +583,18 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-ranchi-packers
 </head>
 <body>
 
-<?php include __DIR__ . '/includes/header.php'; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
 
 <!-- Hero Section -->
 <section class="c_ram_ran-hero">
     <div class="container">
+        <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;"><i class="fa fa-home"></i> Home</a>
+          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
+          <span aria-current="page" style="color:#ff6a28; font-weight:600;">Ramgarh to Ranchi</span>
+        </nav>
         <div class="c_ram_ran-badge-strip">
             <span class="c_ram_ran-badge">&#9733; 50 KM Express Interstate Corridor</span>
             <span class="c_ram_ran-badge">&#128666; Sealed All-Weather Closed Containers</span>
@@ -598,9 +606,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-ranchi-packers
             Dependable, insured, and professional household shifting, vehicle transport, and corporate relocation services connecting Ramgarh to Ranchi. Experience 5-layer protective packaging, dedicated closed container trucks, and seamless doorstep delivery.
         </p>
         <div class="c_ram_ran-cta-group">
-            <a href="tel:+919835565233" class="c_ram_ran-btn-primary">
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="c_ram_ran-btn-primary">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                Call Hotline: 084095 31615
+                Call Hotline: <?php echo PRIMARY_PHONE_DISPLAY; ?>
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="c_ram_ran-btn-secondary">
                 Request Express Moving Quote &rarr;
@@ -644,7 +652,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-ranchi-packers
                 If you are searching for reliable <strong>movers and packers near me from Ramgarh to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
             </p>
             <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                Our <strong>professional packers and movers service from Ramgarh to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ramgarh to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                Our <strong>professional packers and movers service from Ramgarh to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ramgarh to Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
             </p>
         </div>
     </div>
@@ -1089,9 +1097,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-ranchi-packers
             Contact our moving experts for an accurate written estimate, complimentary pre-move assessment, and scheduled delivery.
         </p>
         <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
-            <a href="tel:+919835565233" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                Call Hotline: 084095 31615
+                Call Hotline: <?php echo PRIMARY_PHONE_DISPLAY; ?>
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
                 Request Express Quote &rarr;
@@ -1116,6 +1124,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ramgarh-to-ranchi-packers
     </div>
 </section>
 
-<?php include __DIR__ . '/includes/footer.php'; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 </body>
 </html>

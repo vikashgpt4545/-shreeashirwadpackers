@@ -14,8 +14,11 @@ $page_title = "Delhi to Ranchi Packers & Movers | Shree Ashirwad";
 $page_description = "Top Delhi to Ranchi packers and movers by Shree Ashirwad. 48-hr express transit via NH-19, Central Govt & PSU transfer bills, 5-layer packing. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/delhi-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -68,7 +71,7 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-8409531615",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹5,200 - ₹72,000",
@@ -329,6 +332,7 @@ require_once __DIR__ . '/includes/seo.php';
       color: #fbbf24;
       background: linear-gradient(120deg, #fef08a, #f59e0b);
       -webkit-background-clip: text;
+      background-clip: text;
       -webkit-text-fill-color: transparent;
     }
     .d2r-hero-desc {
@@ -906,13 +910,20 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
 <main class="d2r-page-wrapper">
 
   <!-- Hero Section -->
   <header class="d2r-hero-section">
     <div class="d2r-hero-container">
+      <nav class="d2r-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+        <span style="color:#64748b;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+        <span style="color:#64748b;">/</span>
+        <span style="color:#fde047; font-weight:600;">Delhi to Ranchi</span>
+      </nav>
       <div class="d2r-hero-tagline">
         <span>📍 Premier National Capital to Jharkhand Corridor (~1,220 KM)</span>
       </div>
@@ -931,8 +942,8 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="d2r-hero-actions">
-        <a href="tel:+918409531615" class="d2r-btn-primary">
-          <span>📞 Instant Moving Quote: 8409531615</span>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="d2r-btn-primary">
+          <span>📞 Instant Moving Quote: <?php echo PRIMARY_PHONE_DISPLAY; ?></span>
         </a>
         <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20relocation%20quote%20from%20Delhi%20to%20Ranchi." class="d2r-btn-secondary" target="_blank" rel="noopener">
           <span>💬 WhatsApp Relocation Desk</span>
@@ -1428,7 +1439,8 @@ require_once __DIR__ . '/includes/seo.php';
         Explore our comprehensive network of dedicated relocation corridors connecting Ranchi to premier commercial and metropolitan centers across India:
       </p>
       <div class="d2r-cluster-links">
-        <a href="<?php echo SITE_BASE_URL; ?>/" class="d2r-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="d2r-cluster-link" style="color:#facc15; font-weight:700;">Packers and Movers in Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-packers-and-movers" class="d2r-cluster-link" style="color:#facc15; font-weight:700;">Ranchi to Delhi Return Route</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="d2r-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-ranchi-packers-and-movers" class="d2r-cluster-link">Bangalore to Ranchi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-packers-and-movers" class="d2r-cluster-link">Ranchi to Bhopal</a>
@@ -1444,7 +1456,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

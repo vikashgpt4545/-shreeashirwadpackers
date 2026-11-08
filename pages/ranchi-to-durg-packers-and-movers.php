@@ -5,7 +5,11 @@
  * Canonical URL: https://www.shreeashirwadpackers.com/ranchi-to-durg-packers-and-movers
  * Description: Premium interstate shifting services from Ranchi to Durg-Bhilai (Chhattisgarh). Specialized in household moving, SAIL Bhilai Steel Plant & IIT Bhilai faculty transfers, and insured vehicle transport via NH43/NH53.
  */
-include_once __DIR__ . '/../includes/config.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,11 +30,12 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Durg",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-durg-packers-and-movers",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "INR 14,000 - 58,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Road & Morabadi Logistics Center",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -82,8 +87,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Routes",
-        "item": "https://www.shreeashirwadpackers.com/routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -102,7 +107,8 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Relocation Service from Ranchi to Durg",
     "provider": {
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers"
+      "name": "Shree Ashirwad Packers and Movers",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
     },
     "serviceType": "Interstate Relocation & Logistics",
     "areaServed": {
@@ -414,7 +420,18 @@ include_once __DIR__ . '/../includes/config.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="r2dg-container" style="padding-top: 0; padding-bottom: 0; font-size: 0.88rem; color: #64748b;">
+    <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2b2638; text-decoration: none; font-weight: 500;">Home</a>
+    <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2b2638; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+    <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+    <span style="color: #0f172a; font-weight: 600;">Ranchi to Durg</span>
+  </div>
+</nav>
 
 <!-- Hero Section -->
 <section class="r2dg-hero">
@@ -729,8 +746,8 @@ include_once __DIR__ . '/../includes/config.php';
         <span>Durg to Ranchi (Return)</span>
         <span style="color: #2b2638;">→</span>
       </a>
-      <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #2b2638; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
-        <span>Ranchi Headquarters Hub</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #2b2638; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+        <span>Packers and Movers in Ranchi</span>
         <span style="color: #2b2638;">→</span>
       </a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-raipur-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #2b2638; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
@@ -764,7 +781,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 </div>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

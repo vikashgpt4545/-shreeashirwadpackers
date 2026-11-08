@@ -53,8 +53,8 @@ require_once dirname(__DIR__) . '/includes/config.php';
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Patna to Bokaro Services",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-        "telephone": "+91 9835565233",
-        "email": "info@shreeashirwadpackers.com",
+        "telephone": "<?php echo SECONDARY_PHONE; ?>",
+        "email": "<?php echo OFFICIAL_EMAIL; ?>",
         "url": "<?php echo $canonicalUrl; ?>",
         "priceRange": "₹7,500 - ₹46,000",
         "address": {

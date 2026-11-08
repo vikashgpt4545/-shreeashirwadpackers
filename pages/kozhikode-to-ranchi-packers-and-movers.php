@@ -13,9 +13,11 @@ $page_description = "Trusted Kozhikode (Calicut) to Ranchi packers and movers. V
 $canonical_url = "https://www.shreeashirwadpackers.com/kozhikode-to-ranchi-packers-and-movers";
 $page_keywords = "kozhikode to ranchi packers and movers, packers and movers calicut to ranchi, household shifting kozhikode to ranchi, car transport calicut to ranchi, bike courier kozhikode to ranchi, cyberpark to ranchi movers, iim calicut relocation, mavoor road packers";
 
-$current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -61,20 +63,21 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Professional 2,160 km inter-state relocation from Kozhikode (Calicut) to Ranchi. Reliable household shifting, Cyberpark IT returns, IIM/NIT faculty moves & enclosed vehicle shipping.",
-        "telephone": "+91-8409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 18,500 - 74,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Mavoor Road Junction, Palayam",
-            "addressLocality": "Kozhikode",
-            "addressRegion": "Kerala",
-            "postalCode": "673001",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 11.2588,
-            "longitude": 75.7804
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -118,13 +121,13 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "<?php echo SITE_BASE_URL; ?>/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Kozhikode to Ranchi Packers and Movers",
+                "name": "Kozhikode to Ranchi",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -140,7 +143,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-8409531615",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": {
@@ -699,7 +702,18 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="kzr-wrap" style="padding-top: 0; padding-bottom: 0; font-size: 0.88rem; color: #64748b; max-width: 1200px; margin: 0 auto; padding-left: 20px; padding-right: 20px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338ca; text-decoration: none; font-weight: 500;">Home</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338ca; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Kozhikode to Ranchi</span>
+    </div>
+</nav>
 
 <main class="kzr-wrap">
 
@@ -1149,9 +1163,13 @@ require_once __DIR__ . '/../includes/seo.php';
                 <p>Direct long-haul container linehaul connecting Kerala, Karnataka, and Tamil Nadu with Ranchi.</p>
             </div>
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem;">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--kzr-border); text-decoration: none; color: var(--kzr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+                    <span>Packers and Movers in Ranchi</span>
+                    <span style="color: var(--kzr-emerald);">→</span>
+                </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kozhikode-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--kzr-border); text-decoration: none; color: var(--kzr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                     <span>Ranchi to Kozhikode (Return)</span>
-                    <span style="color: var(--kzr-emerald);">â†’</span>
+                    <span style="color: var(--kzr-emerald);">→</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--kzr-border); text-decoration: none; color: var(--kzr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                     <span>Ranchi Headquarters Hub</span>
@@ -1203,7 +1221,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

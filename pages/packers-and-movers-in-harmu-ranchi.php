@@ -24,9 +24,9 @@ include_once __DIR__ . '/../includes/config.php';
     "@context": "https://schema.org",
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Harmu Ranchi",
-    "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-harmu-ranchi",
-    "telephone": "+91 8409531615",
+    "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+    "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
@@ -71,19 +71,19 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Packers and Movers in Harmu Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-harmu-ranchi"
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-harmu-ranchi"
       }
     ]
   }
@@ -420,6 +420,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Harmu</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-hrm-wrapper">
   <!-- Hero Section -->
   <section class="hl-hrm-hero-section">
@@ -506,7 +519,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-hrm-section">
       <h2>Distinguished Moving Services in the Prestigious Harmu Enclave</h2>
       <p>Harmu represents one of Ranchi's most sought-after, orderly, and prestigious residential sectors. Planned by the Jharkhand State Housing Board, the neighborhood features broad avenues, landscaped parks, expansive duplex plots, and quiet residential lanes connecting directly to the vital 4-lane Harmu Bypass Road. The locality centers around key cultural and commercial hubs including Sahjanand Chowk, Patel Chowk, Vidhyapati Nagar, Harmu Ground, and connects southward towards Argora Housing Colony and northward toward Kishoreganj and Ratu Road. Known prominently across the country as the residence neighborhood of cricketing icon M.S. Dhoni, Harmu is also home to retired senior judges, high-ranking civil servants, prominent business entrepreneurs, and state administrative officials.</p>
-      <p>Moving a residence in Harmu demands an exceptional level of discretion, professionalism, and care. Many homes contain high-end teakwood and rosewood furnishings, large LCD smart screens, designer modular kitchens, valuable art collections, and delicate crystal ware that require sophisticated packing materials and gentle handling. As the premier <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">movers and packers Ranchi</a>, Shree Ashirwad Packers and Movers provides comprehensive, white-glove relocation services built on punctual scheduling, multi-layer cushioning, background-verified staff, and custom wooden crating. Whether you are transitioning to an upscale apartment along Harmu Bypass or relocating an entire family bungalow, our experienced crews make your relocation smooth, dignified, and completely effortless.</p>
+      <p>Moving a residence in Harmu demands an exceptional level of discretion, professionalism, and care. Many homes contain high-end teakwood and rosewood furnishings, large LCD smart screens, designer modular kitchens, valuable art collections, and delicate crystal ware that require sophisticated packing materials and gentle handling. As the premier <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers provides comprehensive, white-glove relocation services built on punctual scheduling, multi-layer cushioning, background-verified staff, and custom wooden crating. Whether you are transitioning to an upscale apartment along Harmu Bypass or relocating an entire family bungalow, our experienced crews make your relocation smooth, dignified, and completely effortless.</p>
       <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #f59e0b; padding: 22px; border-radius: 8px; margin-top: 24px;">
         <h3 style="font-size: 19px; font-weight: 700; color: #0f172a; margin-bottom: 10px;">
           ★ Top-Rated Moving & Packing Solutions in Harmu Ranchi

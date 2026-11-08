@@ -14,8 +14,11 @@ $page_title = "Ranchi to Gaya Packers & Movers | Shree Ashirwad";
 $page_description = "Best Ranchi to Gaya packers and movers by Shree Ashirwad. Same-day 5-hr transit via NH-22, CUSB & Govt transfer bills, 5-layer packing. Call 084095 31615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-gaya-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -684,7 +687,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 <?php
 // Include site-wide header
-require_once __DIR__ . '/includes/header.php';
+require_once BASE_PATH . '/includes/header.php';
 ?>
 
 <!-- 1. Hero Section -->
@@ -693,7 +696,7 @@ require_once __DIR__ . '/includes/header.php';
     <nav class="r2g-breadcrumb" aria-label="Breadcrumb">
       <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
       <span>/</span>
-      <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
       <span>/</span>
       <span class="current">Ranchi to Gaya Packers and Movers</span>
     </nav>
@@ -1345,7 +1348,7 @@ require_once __DIR__ . '/includes/header.php';
 
 <?php
 // Include site-wide footer
-require_once __DIR__ . '/includes/footer.php';
+require_once BASE_PATH . '/includes/footer.php';
 ?>
 
 <!-- Structured Data Schemas -->
@@ -1359,20 +1362,20 @@ require_once __DIR__ . '/includes/footer.php';
   "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
   "@id": "https://www.shreeashirwadpackers.com/#organization",
   "url": "https://www.shreeashirwadpackers.com",
-  "telephone": "+919835565233",
+  "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
   "priceRange": "₹₹",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Bariatu Road, Near RIMS",
+    "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
     "addressLocality": "Ranchi",
     "addressRegion": "JH",
-    "postalCode": "834009",
+    "postalCode": "834002",
     "addressCountry": "IN"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 23.3835,
-    "longitude": 85.3582
+    "latitude": 23.3441,
+    "longitude": 85.3096
   },
   "areaServed": [
     {
@@ -1439,7 +1442,7 @@ require_once __DIR__ . '/includes/footer.php';
       "@type": "ListItem",
       "position": 2,
       "name": "Packers and Movers in Ranchi",
-      "item": "https://www.shreeashirwadpackers.com/"
+      "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
     },
     {
       "@type": "ListItem",

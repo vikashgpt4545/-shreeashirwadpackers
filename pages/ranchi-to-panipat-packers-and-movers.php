@@ -14,8 +14,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-panipat-packers
 $page_keywords = "ranchi to panipat packers and movers, packers and movers ranchi to panipat, household shifting ranchi to panipat, car transport ranchi to panipat, bike courier ranchi to panipat, panipat textile movers, iocl refinery packers ranchi, model town panipat movers, sushant city panipat shifting";
 
 $current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -61,12 +64,12 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "description": "Professional intercity packers and movers services from Ranchi (Jharkhand) to Panipat, Sector 25, Model Town, IOCL Refinery Township, and Ansals Sushant City (Haryana). Reliable household moving, corporate industrial relocation, automobile transport, and all-risk transit insurance.",
-        "telephone": "+91-9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Road, Near Overbridge",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -114,13 +117,13 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Routes",
-                "item": "<?php echo SITE_BASE_URL; ?>/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Ranchi to Panipat Packers and Movers",
+                "name": "Ranchi to Panipat",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -565,7 +568,20 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Panipat</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- Hero Section -->
 <header class="r2pn-hero">
@@ -979,7 +995,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

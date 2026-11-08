@@ -9,11 +9,11 @@
 
 // Define page-specific metadata
 $page_title = "Bokaro to Ranchi Packers and Movers | Same Day Shifting - Shree Ashirwad";
-$page_description = "Trusted Bokaro to Ranchi packers and movers by Shree Ashirwad Packers. Same-day delivery via NH-320, 5-layer packing, IBA approved bills for BSL & govt staff, bike & car carrier transport. Call 9835565233.";
+$page_description = "Trusted Bokaro to Ranchi packers and movers by Shree Ashirwad Packers. Same-day delivery via NH-320, 5-layer packing, IBA approved bills for BSL & govt staff, bike & car carrier transport. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,7 +69,9 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg",
     "description": "Daily intercity packers and movers services from Bokaro Steel City and Chas to Ranchi. Dedicated covered container fleet, same-day delivery, complete furniture dismantling and reassembly, and IBA approved bills.",
-    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "<?php echo OFFICIAL_EMAIL; ?>",
+    "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
     "priceRange": "₹4,800 - ₹28,000",
     "address": {
       "@type": "PostalAddress",
@@ -90,13 +92,20 @@ require_once __DIR__ . '/includes/seo.php';
       "opens": "07:00",
       "closes": "22:00"
     },
+    "sameAs": [
+      "<?php echo SOCIAL_FACEBOOK; ?>",
+      "<?php echo SOCIAL_TWITTER; ?>",
+      "<?php echo SOCIAL_INSTAGRAM; ?>",
+      "<?php echo SOCIAL_YOUTUBE; ?>",
+      "<?php echo SOCIAL_PINTEREST; ?>"
+    ],
     "areaServed": [
       { "@type": "City", "name": "Bokaro Steel City" },
       { "@type": "City", "name": "Ranchi" },
       { "@type": "AdministrativeArea", "name": "Chas" },
       { "@type": "Place", "name": "Ormanjhi" },
       { "@type": "Place", "name": "Gola" },
-      { "@type": "Place", "name": "Peterwar" }
+      { "@type": "Place", "name": "Petarwar" }
     ]
   }
   </script>
@@ -140,8 +149,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Packers and Movers Bokaro",
-        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -236,7 +245,7 @@ require_once __DIR__ . '/includes/seo.php';
         "name": "How do I book a move from Bokaro to Ranchi with Shree Ashirwad Packers?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Simply call our dispatch desk at 9835565233 or submit an enquiry via WhatsApp. Our field surveyor will conduct a free doorstep or video assessment in Bokaro, provide a transparent fixed quote, and schedule your move."
+          "text": "Simply call our dispatch desk at +91 8409531615 or submit an enquiry via WhatsApp. Our field surveyor will conduct a free doorstep or video assessment in Bokaro, provide a transparent fixed quote, and schedule your move."
         }
       }
     ]
@@ -282,60 +291,20 @@ require_once __DIR__ . '/includes/seo.php';
 <body style="background-color: #f8fafc; color: #1e293b; font-family: 'Plus Jakarta Sans', sans-serif; line-height: 1.6;">
 
   <!-- Global Header Navigation -->
-  <?php include __DIR__ . '/../includes/header.php'; ?>
+  <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
   <!-- Main Content Container -->
-      <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers from Bokaro to Ranchi
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers from Bokaro to Ranchi</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Bokaro and Ranchi with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Bokaro</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities in Bokaro and Ranchi along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Bokaro</strong>, intercity relocation to Ranchi, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service from Bokaro to Ranchi</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Bokaro to Ranchi</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me from Bokaro to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Bokaro to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Bokaro to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
-    <main class="page-content" style="padding: 40px 0; background: #f8fafc;">
+  <main class="page-content" style="padding: 40px 0; background: #f8fafc;">
     <article class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
       
       <!-- Breadcrumb Bar -->
       <nav aria-label="breadcrumb" style="margin-bottom: 24px;">
         <ol style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0; font-size: 0.9rem; color: #64748b;">
-          <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #ff6a28; text-decoration: none;">Home</a></li>
+          <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #ff6a28; text-decoration: none;"><i class="fa fa-home"></i> Home</a></li>
           <li style="margin: 0 8px;">/</li>
-          <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #ff6a28; text-decoration: none;">Bokaro Packers</a></li>
+          <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #ff6a28; text-decoration: none;">Packers and Movers in Ranchi</a></li>
           <li style="margin: 0 8px;">/</li>
-          <li style="color: #0f223d; font-weight: 600;">Bokaro to Ranchi Movers</li>
+          <li style="color: #0f223d; font-weight: 600;">Bokaro to Ranchi</li>
         </ol>
       </nav>
 
@@ -371,7 +340,7 @@ require_once __DIR__ . '/includes/seo.php';
 
       <!-- Hero Visual Section -->
       <figure style="margin: 0 auto 35px; max-width: 550px; text-align: center;">
-        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Bokaro to Ranchi intercity shifting truck loading" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;" loading="lazy">
+        <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Bokaro to Ranchi intercity shifting truck loading" style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;">
         <figcaption style="font-size: 0.88rem; color: #64748b; margin-top: 8px; text-align: center;">
           Loading an intercity container truck in Bokaro for express transit to Ranchi along the NH-320 Peterwar-Gola-Ormanjhi route.
         </figcaption>
@@ -655,7 +624,7 @@ require_once __DIR__ . '/includes/seo.php';
 
             <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; background: #ffffff;">
               <h3 style="font-size: 1.1rem; color: #0f223d; font-weight: 700; margin-bottom: 8px;">How do I book a move from Bokaro to Ranchi with Shree Ashirwad Packers?</h3>
-              <p style="font-size: 0.95rem; line-height: 1.7; color: #475569; margin: 0;">Simply call our dispatch desk at 9835565233 or submit an enquiry via WhatsApp. Our field surveyor will conduct a free doorstep or video assessment in Bokaro, provide a transparent fixed quote, and schedule your move.</p>
+              <p style="font-size: 0.95rem; line-height: 1.7; color: #475569; margin: 0;">Simply call our dispatch desk at +91 8409531615 or submit an enquiry via WhatsApp. Our field surveyor will conduct a free doorstep or video assessment in Bokaro, provide a transparent fixed quote, and schedule your move.</p>
             </div>
           </div>
         </section>
@@ -667,8 +636,8 @@ require_once __DIR__ . '/includes/seo.php';
             Enjoy same-day intercity moving, certified 5-layer packing, IBA approved bills, and zero damage guarantee on the Bokaro-Ranchi corridor.
           </p>
           <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
-              Call Dispatch: 9835565233
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 8px; background: #ff6a28; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
+              Call Dispatch: <?php echo PRIMARY_PHONE_DISPLAY; ?>
             </a>
             <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.3); color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 600; text-decoration: none;">
               Get Instant WhatsApp Estimate &rarr;
@@ -686,13 +655,18 @@ require_once __DIR__ . '/includes/seo.php';
           </p>
           <div style="display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.9rem;">
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers and Movers in Bokaro</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers and Movers in Chas</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 4 Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 12 Bokaro Branch</a>
             <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Household Shifting in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Car Transport in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bike Transport in Bokaro</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #ff6a28; text-decoration: none; background: #fff7ed; padding: 9px 15px; border-radius: 6px; font-weight: 700; border: 1px solid #fed7aa;">Bokaro to Ranchi Movers (Current)</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Ranchi to Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Dhanbad Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-jamshedpur-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Jamshedpur Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Kolkata Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bangalore to Bokaro Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Patna Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bangalore to Bokaro Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Dhanbad to Bokaro Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro Shifting Guide</a>
           </div>
@@ -703,7 +677,6 @@ require_once __DIR__ . '/includes/seo.php';
   </main>
 
   <!-- Global Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
-  <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>
+  <?php include_once __DIR__ . '/../includes/footer.php'; ?>
 </body>
 </html>

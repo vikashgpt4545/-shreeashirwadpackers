@@ -5,7 +5,11 @@
  * Distance: ~1,220 km via NH-21 & NH-19 (Agra - Kanpur - Varanasi - Barhi - Ranchi)
  * Transit Time: 60 - 72 Hours (Express Closed-Body Container Fleet)
  */
-include_once __DIR__ . '/../includes/config.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -25,12 +29,13 @@ include_once __DIR__ . '/../includes/config.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Jaipur to Ranchi Route",
     "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "https://shreeashirwadpackers.com/jaipur-to-ranchi-packers-and-movers",
     "priceRange": "₹16,500 - ₹54,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Argora Bypass Road",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -65,8 +70,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Interstate Corridors",
-        "item": "https://shreeashirwadpackers.com/interstate-packers-and-movers-ranchi"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -86,7 +91,9 @@ include_once __DIR__ . '/../includes/config.php';
     "serviceType": "Interstate Relocation & Household Shifting",
     "provider": {
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers"
+      "name": "Shree Ashirwad Packers and Movers",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+      "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": [
       {
@@ -556,7 +563,20 @@ include_once __DIR__ . '/../includes/config.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<div style="background: #f8fafc; border-bottom: 1px solid #e2e8f0; padding: 12px 0;">
+  <div class="jrn-wrap" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="Breadcrumb" style="font-size: 0.88rem; color: #64748b;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #ea580c; text-decoration: none;">Home</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #ea580c; text-decoration: none;">Packers and Movers in Ranchi</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <span style="color: #0f172a; font-weight: 600;">Jaipur to Ranchi</span>
+    </nav>
+  </div>
+</div>
 
 <main class="jrn-wrap">
 
@@ -579,7 +599,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 <!-- Quick Action Contact Bar -->
 <div class="jrn-quick-bar">
-  Jaipur Highway Relocation Desk: <strong>+91 9835565233 / +91 9835565233</strong> | Instant Quotes & Sealed Booking: <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jaipur%20to%20Ranchi%20relocation">Chat on WhatsApp</a>
+  Jaipur Highway Relocation Desk: <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #c2410c; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> | Instant Quotes & Sealed Booking: <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jaipur%20to%20Ranchi%20relocation">Chat on WhatsApp</a>
 </div>
 
     
@@ -877,7 +897,7 @@ include_once __DIR__ . '/../includes/config.php';
 <section class="jrn-cta-box">
   <h3>Planning Your Move from Jaipur to Ranchi?</h3>
   <p>Get a guaranteed written quote with free in-home or virtual pre-move survey, zero hidden highway costs, and dedicated container dispatch from our Jaipur relocation desk.</p>
-  <a href="tel:+919835565233" class="jrn-btn-primary">Call Relocation Desk: +91 9835565233</a>
+  <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="jrn-btn-primary">Call Relocation Desk: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
 </section>
 
 <!-- Section 7: Interconnected Corridor Network -->
@@ -885,7 +905,7 @@ include_once __DIR__ . '/../includes/config.php';
   <h3>Connected Interstate Corridors & Regional Hubs</h3>
   <div class="jrn-cluster-grid">
     <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jaipur-packers-and-movers" class="jrn-cluster-item">Ranchi to Jaipur Return Corridor</a>
-    <a href="<?php echo SITE_BASE_URL; ?>/" class="jrn-cluster-item">Packers and Movers in Ranchi (HQ)</a>
+    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="jrn-cluster-item">Packers and Movers in Ranchi (HQ)</a>
     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="jrn-cluster-item">Ranchi Relocation Tariff Calculator</a>
     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hazaribagh" class="jrn-cluster-item">Packers and Movers in Hazaribagh</a>
     <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad" class="jrn-cluster-item">Packers and Movers in Dhanbad</a>
@@ -897,7 +917,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -15,8 +15,11 @@ $page_title = "Ranchi to Siliguri Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Siliguri packers and movers by Shree Ashirwad. 48-hr express transit via NH-27, Defense & Railway IBA bills, waterproof packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-siliguri-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ranchi",
     "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,500 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -201,7 +204,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Packers and Movers in Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -886,13 +889,20 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
 <main class="r2s-page-wrapper">
 
   <!-- Hero Section -->
   <header class="r2s-hero-section">
     <div class="r2s-hero-container">
+      <nav class="r2s-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+        <span style="color:#64748b;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+        <span style="color:#64748b;">/</span>
+        <span style="color:#fde047; font-weight:600;">Ranchi to Siliguri</span>
+      </nav>
       <div class="r2s-hero-tagline">
         <span>📍 Strategic North Bengal & Gateway Corridor (NH-19 / NH-27)</span>
       </div>
@@ -923,8 +933,8 @@ require_once __DIR__ . '/includes/seo.php';
       </div>
 
       <div class="r2s-hero-actions">
-        <a href="tel:9835565233" class="r2s-btn-primary">
-          <span>📞 Instant Booking: 9835565233</span>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2s-btn-primary">
+          <span>📞 Instant Booking: <?php echo PRIMARY_PHONE_DISPLAY; ?></span>
         </a>
         <a href="#r2s-pricing-section" class="r2s-btn-secondary">
           <span>📊 View Route Tariff Schedule</span>
@@ -1379,8 +1389,8 @@ require_once __DIR__ . '/includes/seo.php';
         Explore our comprehensive network of dedicated relocation corridors connecting Ranchi to premier commercial and industrial centers across India:
       </p>
       <div class="r2s-cluster-links">
-        <a href="<?php echo SITE_BASE_URL; ?>/siliguri-to-ranchi-packers-and-movers" class="r2s-cluster-link">Siliguri to Ranchi (Return)</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2s-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2s-cluster-link" style="color:#fde047; font-weight:700;">Packers and Movers in Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/siliguri-to-ranchi-packers-and-movers" class="r2s-cluster-link" style="color:#fde047; font-weight:700;">Siliguri to Ranchi Return Route</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2s-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-cuttack-packers-and-movers" class="r2s-cluster-link">Ranchi to Cuttack</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-rourkela-packers-and-movers" class="r2s-cluster-link">Ranchi to Rourkela</a>
@@ -1396,7 +1406,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

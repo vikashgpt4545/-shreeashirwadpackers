@@ -14,8 +14,8 @@ $page_title = "Sahibganj to Ranchi Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Sahibganj to Ranchi packers and movers by Shree Ashirwad. Direct 10-hr transit via Dumka, IWAI & Govt transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/sahibganj-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -683,7 +683,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 <?php
 // Include site-wide header
-require_once __DIR__ . '/includes/header.php';
+require_once __DIR__ . '/../includes/header.php';
 ?>
 
 <!-- 1. Hero Section -->
@@ -692,7 +692,7 @@ require_once __DIR__ . '/includes/header.php';
     <nav class="s2r-breadcrumb" aria-label="Breadcrumb">
       <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
       <span>/</span>
-      <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
       <span>/</span>
       <span class="current">Sahibganj to Ranchi Packers and Movers</span>
     </nav>
@@ -713,11 +713,11 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="s2r-cta-group">
-      <a href="tel:+919835565233" class="s2r-btn-primary">
-        <i class="fas fa-phone-alt"></i> Call Instant Helpline: 084095 31615
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="s2r-btn-primary">
+        <i class="fas fa-phone-alt"></i> Call Instant Helpline: <?php echo PRIMARY_PHONE_DISPLAY; ?>
       </a>
-      <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Sahibganj%20to%20Ranchi%20shifting." class="s2r-btn-secondary" target="_blank" rel="noopener">
-        <i class="fab fa-whatsapp"></i> WhatsApp Quote (098355 65233)
+      <a href="<?php echo WHATSAPP_LINK; ?>" class="s2r-btn-secondary" target="_blank" rel="noopener">
+        <i class="fab fa-whatsapp"></i> WhatsApp Quote (<?php echo PRIMARY_PHONE_DISPLAY; ?>)
       </a>
     </div>
   </div>
@@ -738,12 +738,12 @@ require_once __DIR__ . '/includes/header.php';
         <i class="fas fa-headset"></i>
         <div>
           <span>Direct Coordinator: </span>
-          <strong>+91 84095 31615 / +91 98355 65233</strong>
+          <strong><?php echo PRIMARY_PHONE_DISPLAY; ?> / +91 98355 65233</strong>
         </div>
       </div>
       <div class="s2r-action-links">
-        <a href="tel:+919835565233" class="s2r-phone-chip"><i class="fas fa-phone-volume"></i> 084095 31615</a>
-        <a href="https://api.whatsapp.com/send?phone=919835565233&text=Sahibganj%20to%20Ranchi%20shifting%20quote%20enquiry" class="s2r-whatsapp-chip" target="_blank" rel="noopener">
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="s2r-phone-chip"><i class="fas fa-phone-volume"></i> <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+        <a href="<?php echo WHATSAPP_LINK; ?>" class="s2r-whatsapp-chip" target="_blank" rel="noopener">
           <i class="fab fa-whatsapp"></i> Quick Chat
         </a>
       </div>
@@ -785,7 +785,7 @@ require_once __DIR__ . '/includes/header.php';
                     If you are searching for reliable <strong>movers and packers near me from Sahibganj to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Sahibganj to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Sahibganj to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Sahibganj to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Sahibganj to Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1392,7 +1392,7 @@ require_once __DIR__ . '/includes/header.php';
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-sahibganj-packers-and-movers" class="s2r-cluster-btn">
         <i class="fas fa-arrow-left"></i> Ranchi to Sahibganj (Return)
       </a>
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="s2r-cluster-btn">
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="s2r-cluster-btn">
         <i class="fas fa-home"></i> Ranchi Relocation Hub
       </a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="s2r-cluster-btn">
@@ -1446,22 +1446,22 @@ require_once __DIR__ . '/includes/header.php';
   "name": "Shree Ashirwad Packers and Movers - Sahibganj to Ranchi",
   "description": "Professional inter-district packers and movers providing express 10-hour container relocation services from Sahibganj to Ranchi with complete 5-layer packing, transit insurance, and government transfer billing.",
   "url": "https://www.shreeashirwadpackers.com/sahibganj-to-ranchi-packers-and-movers",
-  "telephone": "+919835565233",
-  "email": "support@shreeashirwadpackers.com",
+  "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+  "email": "enquiry@shreeashirwadpackers.com",
   "priceRange": "₹4,500 - ₹62,000",
   "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Station Road, Sakrugarh",
-    "addressLocality": "Sahibganj",
+    "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+    "addressLocality": "Ranchi",
     "addressRegion": "Jharkhand",
-    "postalCode": "816109",
+    "postalCode": "834002",
     "addressCountry": "IN"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 25.2425,
-    "longitude": 87.6416
+    "latitude": 23.3441,
+    "longitude": 85.3096
   },
   "areaServed": [
     {
@@ -1541,7 +1541,7 @@ require_once __DIR__ . '/includes/header.php';
       "@type": "ListItem",
       "position": 2,
       "name": "Packers and Movers in Ranchi",
-      "item": "https://www.shreeashirwadpackers.com/"
+      "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
     },
     {
       "@type": "ListItem",
@@ -1613,7 +1613,7 @@ require_once __DIR__ . '/includes/header.php';
 
 <?php
 // Include site-wide footer
-require_once __DIR__ . '/includes/footer.php';
+require_once __DIR__ . '/../includes/footer.php';
 ?>
 </body>
 </html>

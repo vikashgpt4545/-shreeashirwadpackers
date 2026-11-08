@@ -12,7 +12,7 @@ require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
 $page_title = "Dhanbad to Bokaro Packers and Movers - 9835565233 | Shree Ashirwad Packers";
-$page_description = "Hire top Dhanbad to Bokaro packers and movers by Shree Ashirwad Packers. Same-day shifting (45 km), 5-layer packing, SAIL & BCCL IBA approved bills. Call 9835565233.";
+$page_description = "Hire top Dhanbad to Bokaro packers and movers by Shree Ashirwad Packers. Same-day shifting (45 km), 5-layer packing, SAIL & BCCL IBA approved bills. Call 8409531615.";
 $canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/dhanbad-to-bokaro-packers-and-movers";
 $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanbad to bokaro, movers and packers dhanbad to bokaro, house shifting dhanbad to bokaro, furniture moving dhanbad to bokaro, bccl to sail bokaro shifting, best movers dhanbad bokaro";
 ?>
@@ -88,26 +88,26 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
-    "email": "enquiry@shreeashirwadpackers.com",
+    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "email": "<?php echo OFFICIAL_EMAIL; ?>",
     "priceRange": "₹₹",
     "keywords": "dhanbad to bokaro packers and movers, packers and movers dhanbad to bokaro",
     "currenciesAccepted": "INR",
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Bank More, Near Dhanbad Railway Station",
-      "addressLocality": "Dhanbad",
+      "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
+      "addressLocality": "Bokaro Steel City",
       "addressRegion": "Jharkhand",
-      "postalCode": "826001",
+      "postalCode": "827012",
       "addressCountry": "IN"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.7957,
-      "longitude": 86.4304
+      "latitude": 23.6693,
+      "longitude": 86.1511
     },
-    "hasMap": "https://maps.google.com/?q=23.7957,86.4304",
+    "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -116,9 +116,17 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
         "closes": "23:59"
       }
     ],
+    "sameAs": [
+      "<?php echo SOCIAL_FACEBOOK; ?>",
+      "<?php echo SOCIAL_TWITTER; ?>",
+      "<?php echo SOCIAL_INSTAGRAM; ?>",
+      "<?php echo SOCIAL_YOUTUBE; ?>",
+      "<?php echo SOCIAL_PINTEREST; ?>"
+    ],
     "areaServed": [
       { "@type": "City", "name": "Dhanbad" },
       { "@type": "City", "name": "Bokaro Steel City" },
+      { "@type": "AdministrativeArea", "name": "Chas" },
       { "@type": "State", "name": "Jharkhand" }
     ]
   }
@@ -136,7 +144,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+919835565233",
+      "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/"
     },
     "areaServed": [
@@ -252,7 +260,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
         "name": "How can I book Dhanbad to Bokaro shifting?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "You can book directly by calling 9835565233 or messaging our team on WhatsApp. Share your shifting date and home size to receive an instant transparent quotation with zero hidden fees."
+          "text": "You can book directly by calling 8409531615 or messaging our team on WhatsApp. Share your shifting date and home size to receive an instant transparent quotation with zero hidden fees."
         }
       }
     ]
@@ -300,47 +308,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
   <!-- Global Header Navigation -->
   <?php include __DIR__ . '/includes/header.php'; ?>
 
-      <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers from Dhanbad to Bokaro
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers from Dhanbad to Bokaro</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Dhanbad and Bokaro with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Dhanbad</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities in Dhanbad and Bokaro along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Dhanbad</strong>, intercity relocation to Bokaro, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service from Dhanbad to Bokaro</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Dhanbad to Bokaro</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me from Dhanbad to Bokaro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Dhanbad to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Dhanbad to Bokaro</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
-    <main id="mainContent">
+  <main id="mainContent">
 
     <!-- Page Hero Section -->
     <section class="page-hero" style="position:relative; padding: 75px 0 55px; background: linear-gradient(135deg, #0b1727 0%, #102a45 60%, #1a3a5f 100%); color: #ffffff; overflow: hidden;">
@@ -364,7 +332,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
         <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
           <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Bokaro Route: 9835565233
+            Call Bokaro Route: <?php echo SECONDARY_PHONE; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px);">
             WhatsApp Quote &rarr;
@@ -419,7 +387,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
         
         <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap:24px;">
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping in Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg" alt="Wooden furniture wrapping in Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Bokaro Furniture Protection</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Thick bubble film, corner guards, and corrugated armor wrapped around beds, dining tables, and wardrobes.</p>
@@ -427,7 +395,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading Dhanbad to Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg" alt="Intercity shifting truck loading Dhanbad to Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Dedicated Closed Container Trucks</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Dedicated enclosed container vehicles dispatched directly from Dhanbad to Bokaro without mixing cargo.</p>
@@ -435,7 +403,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
           </div>
 
           <div style="background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.06); border:1px solid #e2e8f0;">
-            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading in Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;" loading="lazy">
+            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg" alt="Multistory apartment goods loading in Bokaro" style="width:100%; height:230px; object-fit:cover; display:block;">
             <div style="padding:16px;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:6px;">Chas & Sector Apartment Handling</h3>
               <p style="font-size:0.9rem; color:#64748b; line-height:1.5;">Expert manual lifting crews navigating residential staircases and apartment elevators across Bokaro sectors.</p>
@@ -628,7 +596,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
 
             <div style="border:1px solid #e2e8f0; border-radius:8px; padding:20px; background:#ffffff;">
               <h3 style="font-size:1.1rem; color:#0f223d; font-weight:700; margin-bottom:8px;">How can I book Dhanbad to Bokaro shifting?</h3>
-              <p style="font-size:0.95rem; line-height:1.7; color:#475569; margin:0;">You can book directly by calling 9835565233 or messaging our team on WhatsApp. Share your shifting date and home size to receive an instant transparent quotation with zero hidden fees.</p>
+              <p style="font-size:0.95rem; line-height:1.7; color:#475569; margin:0;">You can book directly by calling 8409531615 or messaging our team on WhatsApp. Share your shifting date and home size to receive an instant transparent quotation with zero hidden fees.</p>
             </div>
           </div>
         </section>
@@ -641,7 +609,7 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
           </p>
           <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:16px;">
             <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display:inline-flex; align-items:center; gap:8px; background:#ff6a28; color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow:0 4px 15px rgba(255,106,40,0.35);">
-              Call Bokaro Route: 9835565233
+              Call Bokaro Route: <?php echo SECONDARY_PHONE; ?>
             </a>
             <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.3); color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:600; text-decoration:none;">
               Get Instant WhatsApp Estimate &rarr;
@@ -649,25 +617,27 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
           </div>
         </section>
 
-        <!-- Related Dhanbad Relocation Routes & Services Cluster Navigation -->
+        <!-- Related Bokaro & Dhanbad Relocation Routes & Services Cluster Navigation -->
         <section style="background:#ffffff; padding:35px 25px; border-radius:12px; border:1px solid #e2e8f0; margin-top:35px; box-shadow:0 2px 10px rgba(0,0,0,0.03);">
           <h3 style="font-size:1.25rem; color:#0f223d; font-weight:800; margin-bottom:12px;">
-            Related Dhanbad Relocation Routes &amp; Moving Services
+            Related Bokaro &amp; Dhanbad Relocation Routes &amp; Services
           </h3>
           <p style="color:#64748b; font-size:0.95rem; margin-bottom:18px; line-height:1.6;">
-            Explore our specialized relocation services and trusted intercity transport corridors connecting Dhanbad across Jharkhand, West Bengal, Bihar, and Pan-India:
+            Explore our specialized relocation services and trusted intercity transport corridors connecting Dhanbad and Bokaro Steel City across Jharkhand and Pan-India:
           </p>
           <div style="display:flex; flex-wrap:wrap; gap:12px; font-size:0.9rem;">
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Packers and Movers in Bokaro</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Packers in Chas</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Sector 4 Bokaro</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Sector 12 Bokaro Branch</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Household Shifting in Bokaro</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Dhanbad Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Packers and Movers in Dhanbad</a>
             <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-dhanbad" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Household Shifting in Dhanbad</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-dhanbad" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Car Transport in Dhanbad</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-dhanbad" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bike Transport in Dhanbad</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-ranchi-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dhanbad to Ranchi Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-kolkata-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dhanbad to Kolkata Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-delhi-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dhanbad to Delhi Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-patna-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dhanbad to Patna Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color:#ff6a28; text-decoration:none; background:#fff7ed; padding:9px 15px; border-radius:6px; font-weight:700; border:1px solid #fed7aa;">Dhanbad to Bokaro Movers (Current)</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-dhanbad" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dhanbad House Shifting Guide</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro Shifting Guide</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Cost Calculator &amp; Rates</a>
           </div>
         </section>
 
@@ -678,6 +648,5 @@ $meta_keywords = "dhanbad to bokaro packers and movers, packers and movers dhanb
 
   <!-- Global Footer -->
   <?php include __DIR__ . '/includes/footer.php'; ?>
-  <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>
 </body>
 </html>

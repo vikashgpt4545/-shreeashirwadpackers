@@ -13,8 +13,11 @@ $page_title = "Ranchi to Pune Packers and Movers | Safe Interstate Relocation - 
 $page_description = "Certified Ranchi to Pune Packers and Movers by Shree Ashirwad. Dedicated sealed container trucks, 1,550 km express highway transit, 4-layer packing, transit insurance, doorstep delivery to Hinjewadi, Kharadi & Wakad. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-pune-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,7 +72,7 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "₹6,500 - ₹65,000",
     "address": {
       "@type": "PostalAddress",
@@ -198,8 +201,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Corridors",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -510,7 +513,33 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php include __DIR__ . '/../includes/header.php'; ?>
+<?php include BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumb Navigation -->
+<div class="breadcrumb-nav" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <ol style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0; font-size: 0.9rem; align-items: center;" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" style="display: inline-flex; align-items: center;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" itemprop="item" style="color: #2563eb; text-decoration: none; font-weight: 500;">
+          <span itemprop="name">Home</span>
+        </a>
+        <meta itemprop="position" content="1" />
+        <span style="margin: 0 8px; color: #94a3b8;">/</span>
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" style="display: inline-flex; align-items: center;">
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" itemprop="item" style="color: #2563eb; text-decoration: none; font-weight: 500;">
+          <span itemprop="name">Packers and Movers in Ranchi</span>
+        </a>
+        <meta itemprop="position" content="2" />
+        <span style="margin: 0 8px; color: #94a3b8;">/</span>
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page" style="display: inline-flex; align-items: center;">
+        <span itemprop="name" style="color: #475569; font-weight: 600;">Ranchi to Pune</span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
+  </div>
+</div>
 
 <!-- Hero Section -->
 <section class="pune-hero">
@@ -561,7 +590,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Pune</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Pune</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Pune</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Pune</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Pune</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -796,7 +825,7 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
     <div class="faq-element">
       <div class="faq-prompt">How do I book my move from Ranchi to Pune?</div>
-      <div class="faq-response">Call our Ranchi headquarters at +91 9835565233 to arrange a free in-home survey or virtual video assessment. We issue an official written quotation, and you can reserve your preferred moving date with a nominal advance token.</div>
+      <div class="faq-response">Call our Ranchi headquarters at <?php echo PRIMARY_PHONE_DISPLAY; ?> to arrange a free in-home survey or virtual video assessment. We issue an official written quotation, and you can reserve your preferred moving date with a nominal advance token.</div>
     </div>
   </div>
 
@@ -804,7 +833,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="cta-pune">
     <h3>Relocating from Ranchi to Pune? Experience Stress-Free Shifting!</h3>
     <p>Enjoy direct sealed container transit, 4-layer defensive packing, GPS tracking, and complete IBA-approved corporate reimbursement support.</p>
-    <a href="tel:+919835565233" class="cta-btn-teal">📞 Call Now: +91 9835565233</a>
+    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="cta-btn-teal">📞 Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
     <p style="font-size: 0.9rem; margin-top: 15px; color: #f1faee;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</p>
   </div>
 
@@ -813,13 +842,15 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Related Interstate Highway Corridors & Relocation Services</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Explore connected interstate routes and specialized relocation solutions originating from Ranchi:</p>
     <div class="cluster-pune-grid">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-pune-link">📍 Ranchi Main Hub & City HQ</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-pune-link">📍 Packers and Movers in Ranchi (Main Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/pune-to-ranchi-packers-and-movers" class="cluster-pune-link">🔄 Return Route: Pune to Ranchi Movers</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-pune-link">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-pune-link">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bangalore-packers-and-movers" class="cluster-pune-link">🛣️ Ranchi to Bangalore Movers</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-packers-and-movers" class="cluster-pune-link">🛣️ Ranchi to Delhi Movers</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="cluster-pune-link">🛣️ Ranchi to Kolkata Movers</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="cluster-pune-link">🛣️ Ranchi to Patna Movers</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-mumbai-packers-and-movers" class="cluster-pune-link">🛣️ Ranchi to Mumbai Movers</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-hyderabad-packers-and-movers" class="cluster-pune-link">🛣️ Ranchi to Hyderabad Movers</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bokaro-packers-and-movers" class="cluster-pune-link">🛣️ Ranchi to Bokaro Route</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-hazaribagh-packers-and-movers" class="cluster-pune-link">🛣️ Ranchi to Hazaribagh Route</a>
@@ -830,7 +861,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php include __DIR__ . '/../includes/footer.php'; ?>
+<?php include BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

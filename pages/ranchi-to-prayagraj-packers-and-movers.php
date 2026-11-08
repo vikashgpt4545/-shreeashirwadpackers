@@ -15,8 +15,11 @@ $page_title = "Ranchi to Prayagraj Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Prayagraj packers and movers by Shree Ashirwad. 24-hr express transit via NH-19, High Court & MNNIT bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-prayagraj-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ranchi",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,200 - ₹56,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -201,7 +204,7 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 2,
         "name": "Packers and Movers in Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -851,13 +854,20 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
 <main class="r2p-page-wrapper">
 
   <!-- Hero Section -->
   <header class="r2p-hero-section">
     <div class="r2p-hero-container">
+      <nav class="r2p-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+        <span style="color:#64748b;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+        <span style="color:#64748b;">/</span>
+        <span style="color:#fde047; font-weight:600;">Ranchi to Prayagraj</span>
+      </nav>
       <div class="r2p-hero-tagline">
         <span>📍 Strategic Judicial & Academic Corridor (NH-20 / NH-19)</span>
       </div>
@@ -1381,7 +1391,7 @@ require_once __DIR__ . '/includes/seo.php';
         Explore our comprehensive network of dedicated relocation corridors connecting Ranchi to premier commercial and industrial centers across India:
       </p>
       <div class="r2p-cluster-links">
-        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2p-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2p-cluster-link">Packers and Movers in Ranchi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2p-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-varanasi-packers-and-movers" class="r2p-cluster-link">Ranchi to Varanasi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kanpur-packers-and-movers" class="r2p-cluster-link">Ranchi to Kanpur</a>
@@ -1397,7 +1407,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -69,8 +69,8 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg",
     "description": "Premium household shifting services in Bokaro Steel City & Chas by Shree Ashirwad Packers. Full-service home relocation, 5-layer protective packing, furniture dismantling, glassware crating, and IBA compliant billing.",
-    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
-    "priceRange": "₹4,200 - ₹38,000",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "priceRange": "₹3,500 - ₹26,000",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
@@ -197,7 +197,7 @@ require_once __DIR__ . '/includes/seo.php';
         "name": "What is the average cost of local household shifting in Bokaro & Chas?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Local shifting within Bokaro Steel City or Chas ranges from ₹4,500 to ₹7,500 for a 1 BHK, ₹7,500 to ₹12,000 for a 2 BHK, and ₹11,500 to ₹17,000 for a 3 BHK apartment or bungalow, covering packing, loading, local transport, unloading, and unpacking."
+          "text": "Local shifting within Bokaro Steel City or Chas ranges from ₹3,500 to ₹7,000 for a 1 BHK, ₹6,500 to ₹12,000 for a 2 BHK, and ₹10,000 to ₹18,000 for a 3 BHK apartment or bungalow, covering packing, loading, local transport, unloading, and unpacking."
         }
       },
       {
@@ -440,28 +440,28 @@ require_once __DIR__ . '/includes/seo.php';
               <tbody>
                 <tr style="background: #ffffff;">
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">1 BHK Apartment / Quarter</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹4,500 - ₹7,500</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹3,500 - ₹7,000</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹9,000 - ₹13,000</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹14,000 - ₹19,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹22,000 - ₹30,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹22,000 - ₹34,000</td>
                 </tr>
                 <tr style="background: #f8fafc;">
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">2 BHK Apartment / Quarter</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹7,500 - ₹12,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹14,000 - ₹19,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹20,000 - ₹27,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹32,000 - ₹44,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹6,500 - ₹12,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹12,000 - ₹18,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹18,000 - ₹28,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹32,000 - ₹52,000</td>
                 </tr>
                 <tr style="background: #ffffff;">
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">3 BHK Apartment / Duplex</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹11,500 - ₹17,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹19,000 - ₹26,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹28,000 - ₹38,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹45,000 - ₹62,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹10,000 - ₹18,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹18,000 - ₹26,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹26,000 - ₹38,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹45,000 - ₹68,000</td>
                 </tr>
                 <tr style="background: #f8fafc;">
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">4 BHK / Officer Bungalow</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹16,000 - ₹24,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹15,000 - ₹26,000</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹26,000 - ₹35,000</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹38,000 - ₹52,000</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹58,000 - ₹82,000</td>
@@ -543,7 +543,7 @@ require_once __DIR__ . '/includes/seo.php';
 
             <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; background: #ffffff;">
               <h3 style="font-size: 1.1rem; color: #0f223d; font-weight: 700; margin-bottom: 8px;">What is the average cost of local household shifting in Bokaro & Chas?</h3>
-              <p style="font-size: 0.95rem; line-height: 1.7; color: #475569; margin: 0;">Local shifting within Bokaro Steel City or Chas ranges from ₹4,500 to ₹7,500 for a 1 BHK, ₹7,500 to ₹12,000 for a 2 BHK, and ₹11,500 to ₹17,000 for a 3 BHK apartment or bungalow, covering packing, loading, local transport, unloading, and unpacking.</p>
+              <p style="font-size: 0.95rem; line-height: 1.7; color: #475569; margin: 0;">Local shifting within Bokaro Steel City or Chas ranges from ₹3,500 to ₹7,000 for a 1 BHK, ₹6,500 to ₹12,000 for a 2 BHK, and ₹10,000 to ₹18,000 for a 3 BHK apartment or bungalow, covering packing, loading, local transport, unloading, and unpacking.</p>
             </div>
 
             <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; background: #ffffff;">
@@ -600,13 +600,17 @@ require_once __DIR__ . '/includes/seo.php';
           <div style="display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.9rem;">
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers and Movers in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #ff6a28; text-decoration: none; background: #fff7ed; padding: 9px 15px; border-radius: 6px; font-weight: 700; border: 1px solid #fed7aa;">Household Shifting in Bokaro (Current)</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 4 Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 12 Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers &amp; Movers in Chas</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Car Transport in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bike Transport in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Ranchi Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Dhanbad Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Kolkata Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bangalore to Bokaro Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Patna Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Dhanbad to Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Delhi Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Bangalore Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro Shifting Guide</a>
           </div>
         </section>

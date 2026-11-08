@@ -20,13 +20,13 @@ $csrf_token = generate_csrf_token();
       <div class="hero-content">
         <!-- Main Conversion Heading -->
         <h1 class="hero-title">
-          Safe, Fast & Reliable<br>
-          <span class="hero-gradient-text">Packers and Movers Ranchi</span>
+          Top-Rated IBA Approved<br>
+          <span class="hero-gradient-text">Packers and Movers in Ranchi</span>
         </h1>
 
         <!-- Subtitle with Natural Verbatim Keywords -->
         <p class="hero-subtitle">
-          Looking for trusted <strong>movers and packers ranchi</strong>? As the top-rated <strong>packers and movers in ranchi</strong> and licensed <strong>packers movers ranchi</strong> team, Shree Ashirwad provides premier <strong>household shifting services in ranchi</strong>, corporate relocation, and vehicle transport with IBA-approved billing.
+          Looking for trusted <strong>packers and movers in ranchi</strong>? As the premier <strong>packers and movers ranchi</strong> and licensed <strong>movers and packers ranchi</strong> team, Shree Ashirwad provides reliable <strong>household shifting services in ranchi</strong>, corporate relocation, and vehicle transport with 100% IBA-approved GST billing.
         </p>
 
         <!-- Social Proof & Trust Bar -->

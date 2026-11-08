@@ -17,8 +17,11 @@ $page_title = "Bhopal to Ranchi Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Bhopal to Ranchi packers and movers by Shree Ashirwad. 36-48 hr transit via NH-43, BHEL & AIIMS bills, 5-layer packing, car carrier. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bhopal-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -693,11 +696,11 @@ require_once __DIR__ . '/includes/seo.php';
     "name": "Shree Ashirwad Packers and Movers - Bhopal to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/bhopal-to-ranchi-packers-and-movers",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "₹16,000 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -760,8 +763,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Routes",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -870,7 +873,20 @@ require_once __DIR__ . '/includes/seo.php';
 
 <body class="r2bpl-wrapper">
 
-<?php include_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<div style="background: #f8fafc; border-bottom: 1px solid #e2e8f0; padding: 12px 0;">
+  <div class="r2bpl-hero-container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="Breadcrumb" style="font-size: 0.88rem; color: #64748b;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;">Home</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <span style="color: #0f172a; font-weight: 600;">Bhopal to Ranchi</span>
+    </nav>
+  </div>
+</div>
 
     
     <main>
@@ -909,9 +925,9 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
 
         <div class="r2bpl-hero-cta">
-          <a href="tel:9835565233" class="r2bpl-btn-primary">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2bpl-btn-primary">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Call Now: 9835565233
+            Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="#tariff-table" class="r2bpl-btn-secondary">
             View Shifting Rates &rarr;
@@ -956,7 +972,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Bhopal to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Bhopal to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Bhopal to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Bhopal to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Bhopal to Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -975,9 +991,9 @@ require_once __DIR__ . '/includes/seo.php';
         <span>Relocating from Bhopal or BHEL to Ranchi?</span> Scheduled long-haul departures with live GPS tracking!
       </div>
       <div class="r2bpl-strip-actions">
-        <a href="tel:9835565233" class="r2bpl-strip-phone">
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2bpl-strip-phone">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-          9835565233
+          <?php echo PRIMARY_PHONE_DISPLAY; ?>
         </a>
       </div>
     </div>
@@ -1524,7 +1540,7 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our interstate network linking Madhya Pradesh, Chhattisgarh, and Jharkhand:
         </p>
         <div class="r2bpl-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2bpl-cluster-link">Ranchi Main Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2bpl-cluster-link">Packers and Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-packers-and-movers" class="r2bpl-cluster-link">Ranchi to Bhopal</a>
           <a href="<?php echo SITE_BASE_URL; ?>/indore-to-ranchi-packers-and-movers" class="r2bpl-cluster-link">Indore to Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jabalpur-packers-and-movers" class="r2bpl-cluster-link">Ranchi to Jabalpur</a>
@@ -1537,7 +1553,7 @@ require_once __DIR__ . '/includes/seo.php';
   </section>
 </main>
 
-<?php include_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

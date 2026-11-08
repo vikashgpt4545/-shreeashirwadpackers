@@ -11,13 +11,15 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Khunti Packers and Movers | Shree Ashirwad";
-$page_description = "Reliable Ranchi to Khunti packers and movers by Shree Ashirwad. Same-day shifting via NH-20, Govt & Court transfer bills, 5-layer packing. Call 9835565233.";
+$page_description = "Reliable Ranchi to Khunti packers and movers by Shree Ashirwad. Same-day shifting via NH-20, Govt & Court transfer bills, 5-layer packing. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-khunti-packers-and-movers";
 
 // Common layout variables
 $current_page = 'services';
 
-require_once __DIR__ . '/../includes/config.php';
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/../includes/config.php';
+}
 require_once __DIR__ . '/../includes/seo.php';
 ?>
 
@@ -73,17 +75,22 @@ require_once __DIR__ . '/../includes/seo.php';
         "name": "Shree Ashirwad Packers and Movers",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/ranchi-to-khunti-packers-and-movers",
-        "telephone": "+91-9835565233",
-        "email": "contact@shreeashirwadpackers.com",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹6,500 - ₹24,000",
         "description": "Top-tier Ranchi to Khunti packers and movers providing same-day household relocation, government and judicial staff transfers, bike courier, and office moving via NH-20.",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Ranchi Central Hub, Near Overbridge, Main Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
             "addressCountry": "IN"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "23.3441",
+            "longitude": "85.3096"
         },
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -118,8 +125,8 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Jharkhand Expansion Routes",
-                "item": "https://www.shreeashirwadpackers.com/routes"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -189,7 +196,9 @@ require_once __DIR__ . '/../includes/seo.php';
         "serviceType": "Intercity and Suburban Packers and Movers",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "url": "https://www.shreeashirwadpackers.com",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
         },
         "areaServed": {
             "@type": "Place",
@@ -652,13 +661,20 @@ require_once __DIR__ . '/../includes/seo.php';
 <!-- HERO SECTION -->
 <section class="ran-khu-hero">
     <div class="ran-khu-container">
+        <nav style="margin-bottom: 20px; font-size: 0.95rem; color: #cbd5e1;" aria-label="Breadcrumb">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #cbd5e1; text-decoration: none;">Home</a>
+            <span style="margin: 0 8px; color: #94a3b8;">/</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #cbd5e1; text-decoration: none;">Packers and Movers in Ranchi</a>
+            <span style="margin: 0 8px; color: #94a3b8;">/</span>
+            <span style="color: #ffffff; font-weight: 600;">Ranchi to Khunti Packers and Movers</span>
+        </nav>
         <span class="ran-khu-hero-badge"><i class="fa-solid fa-bolt"></i> Same-Day Suburban Express Transit</span>
         <h1>Trusted Ranchi to Khunti Packers and Movers</h1>
         <p>
             Shree Ashirwad Packers and Movers provides top-tier same-day household relocation, government and court employee transfer shifting, bike parcel services, and small business moving from Ranchi to Khunti. Seamless transit via NH-20, expert 5-layer packing, transparent pricing, and 100% compliant reimbursement documentation.
         </p>
         <div class="ran-khu-hero-cta">
-            <a href="tel:+919835565233" class="ran-khu-btn-primary"><i class="fa-solid fa-phone"></i> Call 084095 31615</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran-khu-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="ran-khu-btn-secondary"><i class="fa-solid fa-file-invoice"></i> Get Instant Quote</a>
         </div>
         <div class="ran-khu-trust-badges">
@@ -705,7 +721,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Khunti</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Khunti</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Khunti</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Khunti</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Khunti</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1008,7 +1024,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Khunti to Ranchi (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/" class="ran-khu-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ran-khu-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
@@ -1040,8 +1056,8 @@ require_once __DIR__ . '/../includes/seo.php';
             Call Shree Ashirwad Packers and Movers for a free moving estimate, professional 5-layer packaging, and effortless same-day relocation to Khunti.
         </p>
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-            <a href="tel:+919835565233" class="ran-khu-btn-primary"><i class="fa-solid fa-phone"></i> Call +91-9835565233</a>
-            <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Ranchi%20to%20Khunti" class="ran-khu-btn-secondary" style="background: #25D366; border-color: #25D366; color: #ffffff;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran-khu-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+            <a href="<?php echo WHATSAPP_LINK; ?>" class="ran-khu-btn-secondary" style="background: #25D366; border-color: #25D366; color: #ffffff;" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp (<?php echo PRIMARY_PHONE_DISPLAY; ?>)</a>
         </div>
     </div>
 </section>

@@ -1,8 +1,9 @@
 <?php
+require_once dirname(__DIR__) . '/includes/config.php';
 // Dynamic SEO Configuration for Sector 12, Bokaro Steel City (High-Density Residential Township)
 $page_title = "Packers and Movers in Sector 12 Bokaro | Safe Home Shifting & Vehicle Courier";
-$page_description = "Top packers and movers in Sector 12 Bokaro Steel City by Shree Ashirwad Packers. Safe residential apartment shifting, bike courier, car carrier & IBA approved bills. Call +91 9835565233.";
-$canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-12-bokaro";
+$page_description = "Top packers and movers in Sector 12 Bokaro Steel City by Shree Ashirwad Packers. Safe residential apartment shifting, bike courier, car carrier & IBA approved bills. Call +91 8409531615.";
+$canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sector-12-bokaro";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -20,14 +21,17 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Sector 12 Bokaro",
-        "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-sector-12-bokaro/#movingcompany",
+        "name": "Shree Ashirwad Packers and Movers - Sector 12/A Bokaro Branch",
+        "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
-        "priceRange": "₹4,000 - ₹38,000",
+        "telephone": "+918409531615",
+        "email": "<?php echo OFFICIAL_EMAIL; ?>",
+        "priceRange": "₹3,500 - ₹38,000",
+        "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Sector 12 Residential Area, Main Avenue",
+            "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
             "addressLocality": "Bokaro Steel City",
             "addressRegion": "Jharkhand",
             "postalCode": "827012",
@@ -35,9 +39,21 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.6821,
-            "longitude": 86.1328
+            "latitude": 23.6693,
+            "longitude": 86.1511
         },
+        "areaServed": [
+            { "@type": "Place", "name": "Sector 12, Bokaro Steel City" },
+            { "@type": "Place", "name": "Sector 12/A, Bokaro Steel City" },
+            { "@type": "City", "name": "Bokaro Steel City" }
+        ],
+        "sameAs": [
+            "<?php echo SOCIAL_FACEBOOK; ?>",
+            "<?php echo SOCIAL_TWITTER; ?>",
+            "<?php echo SOCIAL_INSTAGRAM; ?>",
+            "<?php echo SOCIAL_YOUTUBE; ?>",
+            "<?php echo SOCIAL_PINTEREST; ?>"
+        ],
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
             "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
@@ -57,13 +73,13 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Packers and Movers in Bokaro",
-                "item": "https://shreeashirwadpackers.com/packers-and-movers-in-bokaro"
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro"
             },
             {
                 "@type": "ListItem",
@@ -378,65 +394,34 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
 
 <div class="s12-page-wrap">
 
+    <!-- Breadcrumb Navigation -->
+    <nav aria-label="Breadcrumb" style="background: #f8fafc; padding: 12px 20px; border-bottom: 1px solid #e2e8f0; font-size: 0.9rem;">
+        <div style="max-width: 1140px; margin: 0 auto; color: #64748b;">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none; font-weight: 600;">Home</a>
+            <span style="margin: 0 8px;">/</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">Packers and Movers in Bokaro</a>
+            <span style="margin: 0 8px;">/</span>
+            <span style="color: #0f172a; font-weight: 700;">Sector 12 Bokaro</span>
+        </div>
+    </nav>
+
     <!-- Hero Section -->
     <section class="s12-hero-banner">
         <h1 class="s12-hero-title">Packers and Movers in Sector 12 Bokaro</h1>
-        <p class="s12-hero-subtitle">Trusted Home Relocation & Vehicle Transport in Bokaro's Largest Residential Township. Safe Quarters Shifting, Multi-Floor Handling, Car & Bike Courier with IBA Approved Bills.</p>
-        <a href="tel:+919835565233" class="s12-cta-btn">Book Move in Sector 12: +91 9835565233</a>
+        <p class="s12-hero-subtitle">Trusted Home Relocation & Vehicle Transport Headquartered Right in Sector 12/A Bokaro. Safe Quarters Shifting, Multi-Floor Handling, Car & Bike Courier with IBA Approved Bills.</p>
+        <a href="tel:+918409531615" class="s12-cta-btn">Book Move in Sector 12: +91 8409531615</a>
     </section>
 
     <!-- Main Container -->
     <div class="s12-container">
 
-            <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers in Sector 12
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers in Sector 12</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Sector 12 and nearby areas with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Sector 12</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including Sector 12, Jharkhand along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Sector 12</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service in Sector 12</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Sector 12</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me in Sector 12</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Sector 12</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Sector 12</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
-
         <!-- Section 1: Introduction & Residential Character -->
-        <div class="sc4-grid-2" style="display:none;"></div>
         <div class="s12-grid-2">
             <div>
                 <h2 class="s12-section-title">Reliable Home Relocation in Sector 12 Bokaro</h2>
                 <p>Sector 12 represents one of the most populated and extensive residential sectors in Bokaro Steel City. Comprising multiple designated sub-sectors including Sector 12-A, 12-B, 12-C, 12-D, 12-E, and 12-F, this sprawling neighborhood is home to thousands of SAIL Bokaro Steel Plant employee families, teachers, healthcare professionals, and retired personnel.</p>
-                <p><strong>Shree Ashirwad Packers and Movers</strong> has served Sector 12 residents for over 16 years. Our trained movers are intimately familiar with Sector 12’s broad avenues, multi-story quarter layouts, staircase dimensions, and entry checkpoints. Whether moving to a new quarter in Sector 4, shifting across the border to Chas, or transferring to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Dhanbad</a> or <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, we ensure complete goods safety.</p>
-                <p>Check out our parent city authority page at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Packers and Movers in Bokaro</a> or calculate moving estimates on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>.</p>
+                <p><strong>Shree Ashirwad Packers and Movers</strong> operates its official Bokaro branch directly from <strong>Plot no - 54/c, Post office sector - 12/A, Bokaro - 827012</strong>. Our trained movers are intimately familiar with Sector 12’s broad avenues, multi-story quarter layouts, staircase dimensions, and entry checkpoints. Whether moving to a new quarter in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro">Sector 4</a>, shifting across the border to <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas">Chas</a>, or transferring to <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers">Dhanbad</a> or <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers">Ranchi</a>, we ensure complete goods safety.</p>
+                <p>Check out our parent city authority page at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Packers and Movers in Bokaro</a> or calculate moving estimates on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Live Tariff Calculator</a>.</p>
             </div>
             <div>
                 <div class="s12-image-box">
@@ -618,14 +603,19 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
 
         <!-- Section 8: Connected Cluster Module -->
         <div class="s12-cluster-links">
-            <h4>Explore Nearby Sectors & Industrial Corridors</h4>
+            <h4>Explore Bokaro Sectors, Services & Intercity Corridors</h4>
             <div class="s12-cluster-grid">
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Packers and Movers in Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro">Household Shifting in Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro">Car Transport in Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro">Bike Transport in Bokaro</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro">Movers in Sector 4 Bokaro</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas">Packers and Movers in Chas</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers in Dhanbad</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Relocation Cost Calculator</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers">Bokaro to Ranchi Movers</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers">Bokaro to Kolkata Movers</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers">Bokaro to Bangalore Movers</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro">Bokaro House Shifting Guide</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Live Relocation Cost Calculator</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact">Contact Customer Care</a>
             </div>
         </div>

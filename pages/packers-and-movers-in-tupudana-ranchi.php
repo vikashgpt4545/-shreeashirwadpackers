@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Tupudana Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-tupudana-ranchi",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Tupudana Industrial Area near Ring Road & Hatia Dam Link",
-      "addressLocality": "Tupudana, Ranchi",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+      "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834003",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -76,8 +76,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -421,6 +421,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Tupudana</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-tpd-wrapper">
   <!-- Hero Section -->
   <section class="hl-tpd-hero-section">
@@ -433,7 +446,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Tupudana Ranchi</h1>
         <p>Premier industrial machinery moving, warehouse logistics, commercial godown shifting, and household relocation services across Tupudana Industrial Area, Ranchi Ring Road, Hulhundu, Balalong, Hatia Dam link, and Khunti Road. Professional, equipped, and damage-free moving delivered by Ranchi's leading industrial and domestic movers.</p>
-        <a href="tel:+919835565233" class="hl-tpd-cta-btn">&#128222; Call Now: +91 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-tpd-cta-btn">&#128222; Call Now: +91 8409531615</a>
       </div>
       <div class="hl-tpd-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +454,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Tupudana Industrial Area &amp; Ring Road
         </div>
         <div class="hl-tpd-contact-item">
-          <span>Direct Helpline:</span> +91 9835565233
+          <span>Direct Helpline:</span> +91 8409531615
         </div>
         <div class="hl-tpd-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -467,7 +480,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-tpd-section">
       <h2>Professional Moving &amp; Industrial Logistics in Southern Ranchi</h2>
       <p>Tupudana serves as Ranchi's foremost heavy commercial, fabrication, and industrial growth center. Situated on the southern periphery of the capital along the vital Ranchi–Khunti highway corridor and intersecting directly with the 6-lane Ranchi Ring Road, Tupudana is celebrated for its dense cluster of stone crushing plants, marble processing yards, granite cutting units, structural steel fabrication shops, and plastic molding enterprises. Alongside its bustling industrial parks, Tupudana encompasses rapidly expanding residential settlements in Hulhundu, Balalong, and along the scenic approaches toward Hatia Dam, where factory owners, engineers, supervisory staff, and local families reside.</p>
-      <p>Relocation in Tupudana demands a unique blend of heavy industrial capability and delicate domestic packing finesse. Transferring industrial manufacturing units requires specialized rigging gear, hydraulic jack systems, gantry lifters, and heavy-duty trailers capable of handling multi-ton machinery, raw materials, and precision electrical panels without structural shock. Concurrently, family home shifting in surrounding residential colonies demands multi-layer bubble wrap protection, expert furniture carpentry, and punctual enclosed container transit. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">movers and packers Ranchi</a>, Shree Ashirwad Packers and Movers provides comprehensive industrial and residential moving solutions backed by over a decade of field experience and zero damage guarantees.</p>
+      <p>Relocation in Tupudana demands a unique blend of heavy industrial capability and delicate domestic packing finesse. Transferring industrial manufacturing units requires specialized rigging gear, hydraulic jack systems, gantry lifters, and heavy-duty trailers capable of handling multi-ton machinery, raw materials, and precision electrical panels without structural shock. Concurrently, family home shifting in surrounding residential colonies demands multi-layer bubble wrap protection, expert furniture carpentry, and punctual enclosed container transit. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">movers and packers in Ranchi</a>, Shree Ashirwad Packers and Movers provides comprehensive industrial and residential moving solutions backed by over a decade of field experience and zero damage guarantees.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->

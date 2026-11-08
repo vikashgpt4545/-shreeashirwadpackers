@@ -14,8 +14,10 @@ $page_title = "Ranchi to Lohardaga Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Ranchi to Lohardaga packers and movers by Shree Ashirwad. Same-day 2-hr move via NH-143A, Hindalco & Govt bills & 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-lohardaga-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/../includes/config.php';
+}
+require_once __DIR__ . '/../includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -73,14 +75,14 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "currenciesAccepted": "INR",
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -118,8 +120,8 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+919835565233",
-      "url": "https://www.shreeashirwadpackers.com/"
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+      "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": [
       { "@type": "City", "name": "Ranchi" },
@@ -150,13 +152,13 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "<?php echo SITE_BASE_URL; ?>/"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Jharkhand Intercity Routes",
-        "item": "<?php echo SITE_BASE_URL; ?>/#routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -716,6 +718,17 @@ require_once __DIR__ . '/includes/seo.php';
 <!-- Hero Section -->
 <section class="route-lohardaga-hero">
   <div class="container">
+    <!-- Visual Breadcrumb Navigation -->
+    <nav aria-label="breadcrumb" style="margin-bottom: 20px;">
+        <ol style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0 auto; justify-content: center; font-size: 0.95rem; align-items: center; gap: 8px;">
+            <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a></li>
+            <li style="color: #cbd5e1;">&gt;</li>
+            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #93c5fd; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+            <li style="color: #cbd5e1;">&gt;</li>
+            <li style="color: #e2e8f0;" aria-current="page">Ranchi to Lohardaga</li>
+        </ol>
+    </nav>
+
     <h1>Ranchi to Lohardaga Packers and Movers | Express Household Shifting</h1>
     <p>Certified door-to-door household relocation, specialized Hindalco bauxite mining executive transfer documentation, Lohardaga District Collectorate and railway staff shifting, and bauxite-dustproof sealed container fleet transit connecting Ranchi to Lohardaga in 2 hours via NH-143A.</p>
     
@@ -733,8 +746,8 @@ require_once __DIR__ . '/includes/seo.php';
         Relocating between Ranchi & Lohardaga? Reserve your dedicated container truck today:
       </div>
       <div class="phone-wrap">
-        <a href="tel:+919835565233" class="btn-lohardaga-call">📞 Call 9835565233</a>
-        <a href="tel:+919835565233" class="btn-lohardaga-call">📱 Call 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-lohardaga-call">📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-lohardaga-call">📱 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
       </div>
     </div>
   </div>
@@ -778,7 +791,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Lohardaga</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Lohardaga</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Lohardaga</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Lohardaga</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Lohardaga</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1124,7 +1137,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0; color:#1c1917;">Related Relocation Services & Jharkhand Intercity Corridors</h3>
     <p style="font-size: 0.95rem; color: #57534e;">Explore connected relocation hubs, pricing charts, and regional corridors connecting with Ranchi and Lohardaga:</p>
     <div class="cluster-grid-lohardaga">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-lohardaga">🏠 Ranchi Headquarters Main Hub</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-lohardaga">🏠 Ranchi Headquarters Main Hub</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-lohardaga">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-lohardaga">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="cluster-link-lohardaga">📦 Household Shifting in Ranchi</a>

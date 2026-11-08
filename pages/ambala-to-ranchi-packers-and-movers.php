@@ -5,9 +5,12 @@
  * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Ambala to Ranchi.
  * Focus Keywords: ambala to ranchi packers and movers, packers and movers ambala to ranchi, house shifting ambala to ranchi, car carrier ambala to ranchi, bike transport ambala to ranchi, household moving ambala ranchi
  */
-if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/includes/config.php';
+$current_page = 'services';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
 }
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Ambala to Ranchi Packers and Movers | Reliable Shifting Services";
 $page_desc = "Safe Ambala to Ranchi packers and movers. 1340 km direct transit via NH-44 & NH-19 / NH-20, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
@@ -373,20 +376,21 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ambala-to-ranchi-packers-
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Ambala Cantt Main Road",
-            "addressLocality": "Ambala",
-            "addressRegion": "Haryana",
-            "postalCode": "133001",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 30.3782,
-            "longitude": 76.7767
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -474,13 +478,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ambala-to-ranchi-packers-
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
+                "name": "Packers and Movers in Ranchi",
                 "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Ambala to Ranchi Shifting",
+                "name": "Ambala to Ranchi",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -582,7 +586,20 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ambala-to-ranchi-packers-
 </head>
 <body>
 
-<?php include __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ambala to Ranchi</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- Hero Section -->
 <section class="c_amb_ran-hero">
@@ -1116,6 +1133,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ambala-to-ranchi-packers-
     </div>
 </section>
 
-<?php include __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

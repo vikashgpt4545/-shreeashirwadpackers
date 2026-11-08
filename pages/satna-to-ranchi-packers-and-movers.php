@@ -5,7 +5,12 @@
  * Canonical URL: https://www.shreeashirwadpackers.com/satna-to-ranchi-packers-and-movers
  * Description: Dependable interstate shifting services from Satna (Madhya Pradesh) to Ranchi. Professional packing for cement company engineers, WCR railway transfers, household moving, and secure car transport via NH30/NH19.
  */
-include_once __DIR__ . '/../includes/config.php';
+$current_page = 'services';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,20 +31,21 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Satna to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/satna-to-ranchi-packers-and-movers",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "INR 14,000 - 58,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Circuit House Road & Bharhut Nagar",
-      "addressLocality": "Satna",
-      "addressRegion": "Madhya Pradesh",
-      "postalCode": "485001",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+      "addressLocality": "Ranchi",
+      "addressRegion": "Jharkhand",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 24.5805,
-      "longitude": 80.8322
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "areaServed": [
       {
@@ -82,13 +88,13 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Routes",
-        "item": "https://www.shreeashirwadpackers.com/routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "Satna to Ranchi Packers and Movers",
+        "name": "Satna to Ranchi",
         "item": "https://www.shreeashirwadpackers.com/satna-to-ranchi-packers-and-movers"
       }
     ]
@@ -414,7 +420,20 @@ include_once __DIR__ . '/../includes/config.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Satna to Ranchi</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- Hero Section -->
 <section class="st2r-hero">
@@ -764,7 +783,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 </div>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -8,13 +8,13 @@
  * Target Keyword: pet relocation and animal transport in ranchi / pet movers ranchi
  */
 
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
+
 // Define page-specific metadata
 $page_title = "Pet Relocation and Animal Transport in Ranchi | Safe Pet Movers - Shree Ashirwad";
 $page_description = "Certified pet relocation and animal transport in Ranchi by Shree Ashirwad. Climate-controlled pet cabs, IATA approved travel crates, vet checkups, dog & cat transport across India. Call 8409531615.";
-$canonical_url = "https://www.shreeashirwadpackers.com/pet-relocation-and-animal-transport-in-ranchi";
-
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+$canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/pet-relocation-and-animal-transport-in-ranchi";
 ?>
 
 <!DOCTYPE html>
@@ -175,19 +175,19 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Specialized Services",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Pet Relocation and Animal Transport in Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/pet-relocation-and-animal-transport-in-ranchi"
+        "item": "<?php echo $canonical_url; ?>"
       }
     ]
   }
@@ -458,6 +458,19 @@ require_once __DIR__ . '/includes/seo.php';
 <body>
 
 <?php include __DIR__ . '/../includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Pet Relocation in Ranchi</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <!-- Hero Section -->
 <section class="pet-hero">

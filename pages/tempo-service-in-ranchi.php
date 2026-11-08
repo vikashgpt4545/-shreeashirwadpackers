@@ -1,8 +1,14 @@
 <?php
+/**
+ * Tempo Service in Ranchi - Shree Ashirwad Packers and Movers
+ */
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
+
 // Dynamic SEO Configuration for Tempo Service in Ranchi
 $page_title = "Tempo Service in Ranchi | Chota Hathi & Tata Ace on Rent with Driver & Helper";
-$page_description = "Affordable tempo service in Ranchi. Hire Tata Ace Chota Hathi, Mahindra Bolero Pickup & 407 on rent with verified drivers and loading helpers. Hourly & per km rates. Call +91 9835565233.";
-$canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
+$page_description = "Affordable tempo service in Ranchi. Hire Tata Ace Chota Hathi, Mahindra Bolero Pickup & 407 on rent with verified drivers and loading helpers. Hourly & per km rates. Call +91 8409531615.";
+$canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/tempo-service-in-ranchi";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,13 +27,13 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Tempo & Mini Truck Division Ranchi",
-        "image": "https://shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
+        "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "+918409531615",
         "priceRange": "₹750 - ₹4,500",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Main Road, Near Overbridge, Kadru",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -35,8 +41,8 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3441,
-            "longitude": 85.3096
+            "latitude": 23.3639813,
+            "longitude": 85.3090259
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -57,13 +63,13 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "<?php echo SITE_BASE_URL; ?>/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "https://shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -350,7 +356,20 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Tempo Service in Ranchi</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <div class="tmp-page-wrap">
 
@@ -358,7 +377,7 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
     <section class="tmp-hero-banner">
         <h1 class="tmp-hero-title">On-Demand Tempo Service in Ranchi</h1>
         <p class="tmp-hero-subtitle">Rent Tata Ace Chota Hathi, Mahindra Bolero Pickup, and Tata 407 with Verified Drivers & Professional Helpers across Ranchi. Doorstep Pickup within 30 Minutes.</p>
-        <a href="tel:+919835565233" class="tmp-cta-btn">Book Tempo Now: +91 9835565233</a>
+        <a href="tel:+918409531615" class="tmp-cta-btn">Book Tempo Now: +91 8409531615</a>
     </section>
 
     <!-- Main Container -->
@@ -569,7 +588,7 @@ $canonical_url = "https://shreeashirwadpackers.com/tempo-service-in-ranchi";
     </div>
 </div>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

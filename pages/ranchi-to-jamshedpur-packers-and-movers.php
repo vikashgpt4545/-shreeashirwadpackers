@@ -9,11 +9,11 @@
  * Focus: 130 km Express Chotanagpur-Subarnarekha Industrial Corridor, Same-Day 3-5 Hr Shifting via NH-43, Tata Steel & Motors Corporate Relocation, Bundu Ghat Descent Safety, Adityapur Industrial Crating
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Ranchi to Jamshedpur Packers and Movers - 9835565233 | Shree Ashirwad Packers";
-$page_description = "Best ranchi to jamshedpur packers and movers by Shree Ashirwad. Same-day 3-4 hr express shifting via NH-43, 5-layer packing, car/bike transport & IBA approved bills. Call 9835565233.";
+$page_description = "Best ranchi to jamshedpur packers and movers by Shree Ashirwad. Same-day 3-4 hr express shifting via NH-43, 5-layer packing, car/bike transport & IBA approved bills. Call +91 8409531615.";
 $canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/ranchi-to-jamshedpur-packers-and-movers";
 $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ranchi to jamshedpur, ranchi to tatanagar packers and movers, household shifting ranchi to jamshedpur, car transport ranchi to jamshedpur, bike parcel ranchi to jamshedpur, IBA approved packers ranchi to jamshedpur, best packers and movers ranchi to jamshedpur, tata steel employee shifting";
 ?>
@@ -89,7 +89,7 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "ranchi to jamshedpur packers and movers, packers and movers ranchi to jamshedpur, tatanagar packers and movers, household shifting ranchi to jamshedpur, car transport ranchi to jamshedpur",
@@ -97,7 +97,7 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -164,12 +164,12 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+919835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
       "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
         "postalCode": "834002",
@@ -248,8 +248,8 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Moving",
-        "item": "<?php echo SITE_BASE_URL; ?>/#services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -984,7 +984,7 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
 <body>
 
   <!-- Global Header Navigation -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
       <!-- Competitor Ranking Keyword Content Box -->
     <section style="padding: 40px 0 20px; background: #ffffff;">
@@ -1021,7 +1021,7 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Jamshedpur</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Jamshedpur</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Jamshedpur</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Jamshedpur</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Jamshedpur</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1035,11 +1035,11 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
       <div class="container" style="position: relative; z-index: 2;">
         
         <nav class="rtj-breadcrumb" aria-label="Breadcrumb">
-          <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
-          <span class="rtj-breadcrumb-sep">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#services">Intercity Routes</a>
-          <span class="rtj-breadcrumb-sep">&gt;</span>
-          <span style="color:#ffffff;">Ranchi to Jamshedpur Packers and Movers</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/"><i class="fa fa-home"></i> Home</a>
+          <span class="rtj-breadcrumb-sep">/</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
+          <span class="rtj-breadcrumb-sep">/</span>
+          <span style="color:#ffffff;">Ranchi to Jamshedpur</span>
         </nav>
 
         <span class="rtj-hero-badge">
@@ -1076,9 +1076,9 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
         </div>
 
         <div class="rtj-cta-group">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="rtj-btn-primary">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="rtj-btn-primary">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Route Desk: 9835565233
+            Call Route Desk: +91 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="rtj-btn-secondary">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1677,9 +1677,9 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
         </p>
 
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-bottom: 30px;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 10px; background: #ff6a28; color: #ffffff; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(255,106,40,0.4); transition: all 0.3s ease;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 10px; background: #ff6a28; color: #ffffff; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(255,106,40,0.4); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Direct Route Helpline: 9835565233
+            Direct Route Helpline: +91 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-flex; align-items: center; gap: 10px; background: #25d366; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(37,211,102,0.3); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1699,7 +1699,7 @@ $meta_keywords = "ranchi to jamshedpur packers and movers, packers and movers ra
   </main>
 
   <!-- Global Site Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
   <!-- Core JavaScript -->
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>

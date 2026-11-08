@@ -8,8 +8,8 @@
  * Focus: Long-Haul Relocation (350+ KM), Santhal Pargana to Ranchi, Govt & Quarry Transfers, Household & Vehicle Shifting
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Pakur to Ranchi - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Reliable packers and movers pakur to ranchi by Shree Ashirwad. Safe 350-km highway transit, 5-layer packing, IBA approved bills, vehicle transport & zero damage.";
@@ -75,7 +75,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Trusted packers and movers pakur to ranchi offering 350-km long-distance household shifting, stone quarry executive relocations, government officer transfer bills, vehicle transit, and IBA certified documentation.",
-    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "<?php echo OFFICIAL_EMAIL; ?>",
     "priceRange": "₹9,500 - ₹46,000",
     "currenciesAccepted": "INR",
@@ -207,8 +207,8 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Jharkhand Routes",
-        "item": "<?php echo SITE_BASE_URL; ?>/#service-areas"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -865,7 +865,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
 <body>
 
   <!-- Global Site Header -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
   <main id="mainContent">
 
@@ -875,7 +875,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
         <nav class="breadcrumb-trail" aria-label="Breadcrumb">
           <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
           <span>&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#service-areas">Jharkhand Corridors</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
           <span>&gt;</span>
           <span style="color:#ffaa7d; font-weight:600;">Packers and Movers Pakur to Ranchi</span>
         </nav>
@@ -894,9 +894,9 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
         </p>
 
         <div class="hero-cta-group">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-hero-call">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-hero-call">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            <span>Call Moving Desk: <strong>8409531615</strong></span>
+            <span>Call Moving Desk: <strong><?php echo PRIMARY_PHONE_DISPLAY; ?></strong></span>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-hero-wa">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1511,9 +1511,9 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
           Experience 5-layer moisture-proof packing, express 350-km highway transit, carpenter furniture assembly, and 100% genuine IBA-approved billing. Speak with our certified moving supervisor today for a free survey and guaranteed fixed pricing.
         </p>
         <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-hero-call" style="font-size: 1.05rem; padding: 15px 32px;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-hero-call" style="font-size: 1.05rem; padding: 15px 32px;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Highway Route Desk: 8409531615
+            Call Highway Route Desk: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-hero-wa" style="font-size: 1.05rem; padding: 15px 30px;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1533,7 +1533,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
           Explore our specialized intercity moving routes across Jharkhand and comprehensive relocation services in Ranchi:
         </p>
         <div class="directory-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-pakur" title="Packers and Movers in Pakur" class="dir-link dir-link-primary">Packers and Movers in Pakur</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-koderma-to-ranchi" title="Packers and Movers Koderma to Ranchi" class="dir-link">Koderma to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/lohardaga-to-ranchi-packers-and-movers" title="Lohardaga to Ranchi Movers" class="dir-link">Lohardaga to Ranchi Movers</a>
@@ -1551,7 +1551,7 @@ $meta_keywords = "packers and movers pakur to ranchi, pakur to ranchi packers an
   </main>
 
   <!-- Global Site Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
   <!-- Core JavaScript -->
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>

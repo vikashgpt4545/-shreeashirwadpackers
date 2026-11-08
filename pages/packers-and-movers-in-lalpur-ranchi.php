@@ -24,13 +24,13 @@ include_once __DIR__ . '/../includes/config.php';
     "@context": "https://schema.org",
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Lalpur Ranchi",
-    "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-lalpur-ranchi",
-    "telephone": "+91 9835565233",
+    "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+    "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur-ranchi",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Circular Road & Lalpur Chowk Commercial Hub",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Lalpur, Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -71,19 +71,19 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Packers and Movers in Lalpur Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-lalpur-ranchi"
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-lalpur-ranchi"
       }
     ]
   }
@@ -525,6 +525,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Lalpur</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-llr-wrapper">
   <!-- Hero Section -->
   <section class="hl-llr-hero-section">
@@ -538,8 +551,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Packers and Movers in Lalpur Ranchi</h1>
         <p>Looking for the best packers and movers in Lalpur Ranchi? Shree Ashirwad Packers and Movers provides trusted household shifting, coaching institute moves, office relocation, bike transport, car transport, and complete moving solutions at affordable prices. Our experienced in-house team offers safe packing, loading, unloading, transportation, and unpacking services across Circular Road, Burdwan Compound, Tharpakhna, and Peace Road with timely delivery support.</p>
         <div class="hl-llr-cta-btns">
-          <a href="tel:+919835565233" class="hl-llr-btn-primary">Call Now: +91 98355 65233</a>
-          <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Lalpur%20Ranchi." class="hl-llr-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-llr-btn-primary">Call Now: +91 8409531615</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Lalpur%20Ranchi." class="hl-llr-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="hl-llr-quote-card">
@@ -581,7 +594,7 @@ include_once __DIR__ . '/../includes/config.php';
       <h2>Professional Shifting Services in Lalpur, Ranchi</h2>
       <p>Lalpur stands as central Ranchi's dynamic commercial, educational, and residential nerve center. Centered around Lalpur Chowk and extending along the vital Circular Road from Plaza Chowk to Dangratoli, Lalpur is celebrated for its bustling commercial markets, prominent coaching institutes preparing students for engineering and medical entrances, banking headquarters, medical diagnostics centers, and vibrant residential colonies. The neighborhood features iconic residential enclaves including Burdwan Compound, Tharpakhna, Peace Road, Harihar Singh Road, and modern multi-story apartment developments near the Nucleus Mall corridor.</p>
 
-      <p>Due to its high commercial density and bustling traffic flow, moving in Lalpur requires expert route planning, nimble vehicle maneuvering, and precision execution. Whether relocating a family apartment in Burdwan Compound, moving an executive residence along Peace Road, or executing an educational coaching center relocation with dozens of computer workstations and study desks, as the top-rated <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers movers Ranchi</a>, Shree Ashirwad Packers and Movers brings verified local logistics competence. We operate compact feeder trucks capable of navigating narrower colony lanes, scheduled during low-traffic hours to guarantee fast, stress-free shifting.</p>
+      <p>Due to its high commercial density and bustling traffic flow, moving in Lalpur requires expert route planning, nimble vehicle maneuvering, and precision execution. Whether relocating a family apartment in Burdwan Compound, moving an executive residence along Peace Road, or executing an educational coaching center relocation with dozens of computer workstations and study desks, as the top-rated <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers brings verified local logistics competence. We operate compact feeder trucks capable of navigating narrower colony lanes, scheduled during low-traffic hours to guarantee fast, stress-free shifting.</p>
 
       <div class="hl-llr-img-card">
         <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Moving Truck Serving Lalpur Ranchi">
@@ -639,7 +652,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Lalpur</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Lalpur</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Lalpur</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Lalpur</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Lalpur</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>

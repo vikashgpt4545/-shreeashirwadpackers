@@ -8,8 +8,8 @@
  * Focus: Flagship Authority Page for Ranchi & Statewide Jharkhand Relocation
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers in Ranchi Jharkhand - 9835565233 | Shree Ashirwad Packers";
 $page_description = "Leading packers and movers in Ranchi Jharkhand by Shree Ashirwad. Certified 5-layer packing, IBA approved billing, intra-city & inter-state shifting, car transport & 100% safety.";
@@ -88,7 +88,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "packers and movers in ranchi jharkhand, best packers and movers in ranchi jharkhand, movers and packers ranchi jharkhand, household shifting ranchi jharkhand",
@@ -96,7 +96,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -162,12 +162,12 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+919835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
       "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
         "postalCode": "834002",
@@ -242,8 +242,8 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Jharkhand Relocation",
-        "item": "<?php echo SITE_BASE_URL; ?>/#service-areas"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -338,7 +338,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
         "name": "How can I book verified packers and movers in Ranchi Jharkhand with Shree Ashirwad?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Booking is effortless. You can call our 24/7 Ranchi customer service helpline at 9835565233 or send a message via WhatsApp. Our supervisor will conduct a free visual home survey or a virtual video inventory assessment, provide an upfront all-inclusive binding quotation with zero hidden charges, and lock in your preferred moving date immediately."
+          "text": "Booking is effortless. You can call our 24/7 Ranchi customer service helpline at +91 8409531615 or send a message via WhatsApp. Our supervisor will conduct a free visual home survey or a virtual video inventory assessment, provide an upfront all-inclusive binding quotation with zero hidden charges, and lock in your preferred moving date immediately."
         }
       }
     ]
@@ -563,7 +563,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
 <body>
 
   <!-- Global Header Navigation -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
   <main id="mainContent">
 
@@ -574,11 +574,11 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
       
       <div class="container page-hero-wrapper" style="position:relative; z-index:2; max-width:1140px; margin:0 auto; padding:0 20px;">
         <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
-          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
-          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#service-areas" style="color:#cbd5e1; text-decoration:none;">Jharkhand Moving Services</a>
-          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
-          <span aria-current="page" style="color:#ff6a28; font-weight:600;">Packers and Movers in Ranchi Jharkhand</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;"><i class="fa fa-home"></i> Home</a>
+          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
+          <span aria-current="page" style="color:#ff6a28; font-weight:600;">Ranchi Jharkhand</span>
         </nav>
         
         <h1 class="page-hero-title" style="font-size: clamp(2.1rem, 4.2vw, 3.3rem); font-weight:800; line-height:1.2; margin-bottom:18px;">
@@ -590,9 +590,9 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
         </p>
 
         <div class="hero-cta-buttons" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Ranchi HQ Desk: 9835565233
+            Call Ranchi HQ Desk: +91 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-outline-custom" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -666,7 +666,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
                     If you are searching for reliable <strong>movers and packers near me in Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1606,9 +1606,9 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
         </p>
         
         <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center; margin-bottom: 30px;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 10px; background: #ff6a28; color: #ffffff; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(255,106,40,0.35); transition: all 0.3s ease;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="display: inline-flex; align-items: center; gap: 10px; background: #ff6a28; color: #ffffff; padding: 15px 32px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(255,106,40,0.35); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Direct Helpline: 9835565233
+            Direct Helpline: +91 8409531615
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-flex; align-items: center; gap: 10px; background: #25d366; color: #ffffff; padding: 15px 30px; border-radius: 8px; font-weight: 700; font-size: 1.05rem; text-decoration: none; box-shadow: 0 6px 20px rgba(37,211,102,0.3); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1628,7 +1628,7 @@ $meta_keywords = "packers and movers in ranchi jharkhand, best packers and mover
   </main>
 
   <!-- Global Site Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
   <!-- Core JavaScript -->
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>

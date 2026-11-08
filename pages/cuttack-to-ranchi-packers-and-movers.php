@@ -17,8 +17,11 @@ $page_title = "Cuttack to Ranchi Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Cuttack to Ranchi packers and movers by Shree Ashirwad. Fast 24-hr transit via NH-20, High Court & SCB bills, 5-layer packing, car carrier. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/cuttack-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -73,17 +76,22 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation, High Court judicial transfers, SCB medical faculty moving, and express vehicle transport from Cuttack, Odisha to Ranchi, Jharkhand.",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "alternatePhone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹13,500 - ₹46,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Road, Near Sahajanand Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
       "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "areaServed": [
       {
@@ -167,8 +175,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Packers and Movers",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -855,15 +863,21 @@ require_once __DIR__ . '/includes/seo.php';
 
 <?php
 // Load unified master header
-require_once __DIR__ . '/includes/header.php';
+require_once BASE_PATH . '/includes/header.php';
 ?>
 
 <div class="r2ctk-wrapper">
 
-      
     <!-- SECTION 1: HERO SECTION -->
   <section class="r2ctk-hero">
     <div class="r2ctk-container">
+      <nav class="r2ctk-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#dbeafe; text-decoration:none;">Home</a>
+        <span style="color:#93c5fd;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#dbeafe; text-decoration:none;">Packers and Movers in Ranchi</a>
+        <span style="color:#93c5fd;">/</span>
+        <span style="color:#fde047; font-weight:600;">Cuttack to Ranchi</span>
+      </nav>
       <div class="r2ctk-hero-badge">
         <span>★ IBA-Approved &amp; ISO 9001:2015 Certified Interstate Relocation</span>
       </div>
@@ -882,11 +896,11 @@ require_once __DIR__ . '/includes/header.php';
       </div>
 
       <div class="r2ctk-cta-btn-group">
-        <a href="tel:+919835565233" class="r2ctk-btn-primary">
-          <span>📞 Call Now: 9835565233</span>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2ctk-btn-primary">
+          <span>📞 Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></span>
         </a>
         <a href="tel:+919835565233" class="r2ctk-btn-secondary">
-          <span>📲 Alternate: 9835565233</span>
+          <span>📲 Alternate: +91 9835565233</span>
         </a>
       </div>
     </div>
@@ -927,7 +941,7 @@ require_once __DIR__ . '/includes/header.php';
                     If you are searching for reliable <strong>movers and packers near me from Cuttack to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Cuttack to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Cuttack to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Cuttack to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Cuttack to Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1477,8 +1491,8 @@ require_once __DIR__ . '/includes/header.php';
       <div class="r2ctk-cluster-box">
         <h3 class="r2ctk-cluster-title">Explore Related Interstate &amp; Intra-State Moving Routes:</h3>
         <div class="r2ctk-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2ctk-cluster-link">Ranchi Main Hub</a>
-          <a href="/ranchi-to-cuttack-packers-and-movers" class="r2ctk-cluster-link">Ranchi to Cuttack (Outbound)</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2ctk-cluster-link" style="color:#0284c7; font-weight:700;">Packers and Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-cuttack-packers-and-movers" class="r2ctk-cluster-link" style="color:#0284c7; font-weight:700;">Ranchi to Cuttack Return Route</a>
           <a href="/bhubaneswar-to-ranchi-packers-and-movers" class="r2ctk-cluster-link">Bhubaneswar to Ranchi</a>
           <a href="/rourkela-to-ranchi-packers-and-movers" class="r2ctk-cluster-link">Rourkela to Ranchi</a>
           <a href="/ranchi-to-rourkela-packers-and-movers" class="r2ctk-cluster-link">Ranchi to Rourkela</a>
@@ -1518,5 +1532,5 @@ require_once __DIR__ . '/includes/header.php';
 
 <?php
 // Load unified master footer
-require_once __DIR__ . '/includes/footer.php';
+require_once BASE_PATH . '/includes/footer.php';
 ?>

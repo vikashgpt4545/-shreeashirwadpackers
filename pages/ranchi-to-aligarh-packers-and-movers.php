@@ -5,7 +5,12 @@
  * Canonical URL: https://www.shreeashirwadpackers.com/ranchi-to-aligarh-packers-and-movers
  * Description: Dependable interstate relocation services from Ranchi (Jharkhand) to Aligarh (Uttar Pradesh). Specialized household shifting, academic moves to AMU, brassware & industrial logistics, and car carriers via NH19.
  */
-include_once __DIR__ . '/../includes/config.php';
+$current_page = 'services';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,11 +31,12 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Aligarh",
     "image": "https://www.shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-aligarh-packers-and-movers",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "INR 19,000 - 80,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Road & Morabadi Logistics Complex",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -82,13 +88,13 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Routes",
-        "item": "https://www.shreeashirwadpackers.com/routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "Ranchi to Aligarh Packers and Movers",
+        "name": "Ranchi to Aligarh",
         "item": "https://www.shreeashirwadpackers.com/ranchi-to-aligarh-packers-and-movers"
       }
     ]
@@ -487,7 +493,20 @@ include_once __DIR__ . '/../includes/config.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Aligarh</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <header class="r2al-hero">
   <div class="r2al-container">
@@ -777,7 +796,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

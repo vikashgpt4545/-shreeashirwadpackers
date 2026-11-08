@@ -184,8 +184,8 @@ $meta_keywords = "jaipur to ranchi transport companies, jaipur to ranchi goods t
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Transport",
-        "item": "<?php echo SITE_BASE_URL; ?>/#transport"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -380,7 +380,7 @@ $meta_keywords = "jaipur to ranchi transport companies, jaipur to ranchi goods t
         <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
           <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
           <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#transport" style="color:#cbd5e1; text-decoration:none;">Intercity Transport</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
           <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
           <span aria-current="page" style="color:#ff6a28; font-weight:600;">Jaipur to Ranchi Transport</span>
         </nav>

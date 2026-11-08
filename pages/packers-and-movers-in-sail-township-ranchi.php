@@ -16,7 +16,7 @@ require_once BASE_PATH . '/includes/config.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Packers and Movers in SAIL Township Ranchi | Shyamali Colony - Shree Ashirwad</title>
-    <meta name="description" content="Professional packers and movers in SAIL Township & Shyamali Colony, Doranda, Ranchi. Specialized moving for SAIL & MECON executives with gate pass assistance & 100% claim bills. Call 9835565233.">
+    <meta name="description" content="Professional packers and movers in SAIL Township & Shyamali Colony, Doranda, Ranchi. Specialized moving for SAIL & MECON executives with gate pass assistance & 100% claim bills. Call +91 8409531615.">
     <meta name="keywords" content="packers and movers in sail township ranchi, packers and movers shyamali colony doranda, sail township movers ranchi, packers and movers hinoo doranda, mecon colony packers movers ranchi, sail rdcis shifting doranda">
     <link rel="canonical" href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sail-township-ranchi">
     <link rel="stylesheet" href="<?php echo SITE_BASE_URL; ?>/assets/css/style.css">
@@ -29,7 +29,7 @@ require_once BASE_PATH . '/includes/config.php';
         "name": "Shree Ashirwad Packers and Movers - SAIL Township Wing",
         "image": "<?php echo SITE_BASE_URL; ?>/images/multistory-apartment-goods-loading-ranchi.jpg",
         "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sail-township-ranchi",
-        "telephone": "+91-9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "priceRange": "INR 3,500 - 55,000",
         "address": {
             "@type": "PostalAddress",
@@ -63,13 +63,13 @@ require_once BASE_PATH . '/includes/config.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Ranchi Localities",
+                "name": "Packers and Movers in Ranchi",
                 "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "SAIL Township",
+                "name": "Packers and Movers in SAIL Township Ranchi",
                 "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sail-township-ranchi"
             }
         ]
@@ -85,7 +85,7 @@ require_once BASE_PATH . '/includes/config.php';
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-9835565233"
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
         },
         "areaServed": {
             "@type": "Place",
@@ -187,6 +187,19 @@ require_once BASE_PATH . '/includes/config.php';
 
 <?php include_once BASE_PATH . '/includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">SAIL Township</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <!-- Hero Section -->
 <section class="stl-hero">
     <div class="stl-badge-pill">★ Premier Township Shifting Partner</div>
@@ -231,7 +244,7 @@ require_once BASE_PATH . '/includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in SAIL Township</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in SAIL Township</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in SAIL Township</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in SAIL Township</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in SAIL Township</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -361,7 +374,7 @@ require_once BASE_PATH . '/includes/config.php';
         <h3>Connected Neighborhoods & Institutional Hubs</h3>
         <p style="margin: 0 0 16px; font-size: 0.94rem; color: #475569;">Explore sister neighborhood hubs in Ranchi, corporate transfer resources, and pricing calculators:</p>
         <div class="stl-cluster-links">
-            <a href="<?php echo SITE_BASE_URL; ?>/">movers and packers Ranchi</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/psu-and-government-employee-relocation-ranchi">PSU & Govt Employee Moving</a>
             <a href="<?php echo SITE_BASE_URL; ?>/iba-approved-packers-and-movers-in-ranchi">IBA Approved Movers Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ashok-nagar-ranchi">Ashok Nagar Moving Hub</a>
@@ -398,8 +411,8 @@ require_once BASE_PATH . '/includes/config.php';
         <h2>Moving to or from SAIL Township / Shyamali Colony?</h2>
         <p>Get a guaranteed written quote with white-glove packing, verified gate-pass entry, and 100% claim-ready bills.</p>
         <div class="stl-cta-btns">
-            <a href="tel:9835565233" class="stl-btn-call">📞 Call 9835565233</a>
-            <a href="https://wa.me/919835565233?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20reside%20in%20SAIL%20Township/Shyamali%20Colony%20and%20need%20a%20relocation%20quote." target="_blank" rel="noopener" class="stl-btn-wa">💬 WhatsApp Township Desk</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="stl-btn-call">📞 Call +91 8409531615</a>
+            <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20reside%20in%20SAIL%20Township/Shyamali%20Colony%20and%20need%20a%20relocation%20quote." target="_blank" rel="noopener" class="stl-btn-wa">💬 WhatsApp Township Desk</a>
         </div>
     </div>
 </main>

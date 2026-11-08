@@ -721,7 +721,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-bokaro-packers
     <div class="container">
         <ol class="breadcrumb" style="margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.9rem;">
             <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;">Home</a> <span style="color: #94a3b8;">/</span></li>
-            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamtara" style="color: #0284c7; text-decoration: none;">Jamtara</a> <span style="color: #94a3b8;">/</span></li>
+            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none;">Bokaro Packers and Movers</a> <span style="color: #94a3b8;">/</span></li>
             <li style="color: #64748b;" aria-current="page">Jamtara to Bokaro</li>
         </ol>
     </div>
@@ -738,10 +738,10 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-bokaro-packers
                     Relocating between Jamtara and Bokaro Steel City or Chas? Shree Ashirwad Packers and Movers delivers rapid, zero-damage domestic shifting, SAIL employee transfers, and secure vehicle transportation. Serving Mihijam, Karmatar, and Jamtara to Sector 1 through 12, Chas, Co-operative Colony, and BSL townships.
                 </p>
                 <div class="j2bok-cta-group">
-                    <a href="tel:08409531615" class="j2bok-btn-primary">
-                        <i class="fa fa-phone"></i> Call 8409531615 for Free Quote
+                    <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="j2bok-btn-primary">
+                        <i class="fa fa-phone"></i> Call <?php echo SECONDARY_PHONE; ?> for Free Quote
                     </a>
-                    <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jamtara%20to%20Bokaro%20relocation" class="j2bok-btn-secondary" target="_blank" rel="noopener">
+                    <a href="https://wa.me/<?php echo SECONDARY_PHONE_RAW; ?>?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Jamtara%20to%20Bokaro%20relocation" class="j2bok-btn-secondary" target="_blank" rel="noopener">
                         <i class="fa fa-whatsapp"></i> WhatsApp Instant Estimate
                     </a>
                 </div>
@@ -1250,12 +1250,37 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jamtara-to-bokaro-packers
             Contact us today for a free, transparent shifting estimate. Let Jharkhand's premier moving team deliver your household treasures with unmatched care and reliability.
         </p>
         <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-            <a href="tel:08409531615" class="j2bok-btn-primary" style="font-size: 1.1rem; padding: 16px 36px;">
-                <i class="fa fa-phone"></i> Call 08409531615
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="j2bok-btn-primary" style="font-size: 1.1rem; padding: 16px 36px;">
+                <i class="fa fa-phone"></i> Call <?php echo SECONDARY_PHONE; ?>
             </a>
-            <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad,%20I%20want%20to%20book%20Jamtara%20to%20Bokaro%20shifting" class="j2bok-btn-secondary" style="font-size: 1.1rem; padding: 16px 36px;" target="_blank" rel="noopener">
+            <a href="https://wa.me/<?php echo SECONDARY_PHONE_RAW; ?>?text=Hi%20Shree%20Ashirwad,%20I%20want%20to%20book%20Jamtara%20to%20Bokaro%20shifting" class="j2bok-btn-secondary" style="font-size: 1.1rem; padding: 16px 36px;" target="_blank" rel="noopener">
                 <i class="fa fa-whatsapp"></i> Chat on WhatsApp
             </a>
+        </div>
+    </div>
+</section>
+
+<!-- Intercity Route Cluster Navigation -->
+<section style="background: #f8fafc; padding: 45px 0; border-top: 1px solid #e2e8f0;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 28px; box-shadow: 0 2px 10px rgba(0,0,0,0.03);">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.4rem; font-weight: 800; color: #0f172a; margin-bottom: 1rem;">
+                Explore Connected Bokaro &amp; Jharkhand Relocation Routes
+            </h3>
+            <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1.5rem;">
+                Connect seamlessly across our industrial and interdistrict relocation network linking Jamtara and Bokaro Steel City:
+            </p>
+            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro Hub Main Page</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Sector 4 Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Chas Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Dhanbad</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-deoghar-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Deoghar</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dumka-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Dumka</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Household Shifting Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/pricing" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Cost Calculator &amp; Rates</a>
+            </div>
         </div>
     </div>
 </section>

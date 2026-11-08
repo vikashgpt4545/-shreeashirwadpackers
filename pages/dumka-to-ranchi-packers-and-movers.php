@@ -12,8 +12,8 @@ $page_title = "Dumka to Ranchi Packers and Movers | Shifting Service - Shree Ash
 $page_description = "Dependable Dumka to Ranchi packers and movers by Shree Ashirwad Packers. Dedicated container trucks, 24-48 hr delivery, car & bike shipping, 5-layer packing, IBA approved bills. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/dumka-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -71,23 +71,23 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/intercity-shifting-truck-loading-jharkhand.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "currenciesAccepted": "INR",
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Court Road, Near Tin Bazar Chowk",
-      "addressLocality": "Dumka",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+      "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "814101",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 24.2694,
-      "longitude": 87.2562
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "openingHoursSpecification": [
       {
@@ -116,7 +116,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+919835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "https://www.shreeashirwadpackers.com/"
     },
     "areaServed": [
@@ -152,8 +152,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Dumka",
-        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dumka"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -294,7 +294,7 @@ require_once __DIR__ . '/includes/seo.php';
 <body>
 
   <!-- Global Header Navigation -->
-  <?php include __DIR__ . '/../includes/header.php'; ?>
+  <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
       <!-- Competitor Ranking Keyword Content Box -->
     <section style="padding: 40px 0 20px; background: #ffffff;">
@@ -331,7 +331,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Dumka to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Dumka to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Dumka to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Dumka to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Dumka to Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -342,10 +342,10 @@ require_once __DIR__ . '/includes/seo.php';
     <section class="page-hero" style="position:relative; padding: 75px 0 55px; background: linear-gradient(135deg, #0b1727 0%, #102a45 60%, #1a3a5f 100%); color: #ffffff; overflow: hidden;">
       <div class="container" style="position:relative; z-index:2; max-width:1140px; margin:0 auto; padding:0 20px;">
         <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
-          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
-          <span style="margin:0 8px; color:#64748b;">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dumka" style="color:#cbd5e1; text-decoration:none;">Dumka</a>
-          <span style="margin:0 8px; color:#64748b;">&gt;</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;"><i class="fa fa-home"></i> Home</a>
+          <span style="margin:0 8px; color:#64748b;">/</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+          <span style="margin:0 8px; color:#64748b;">/</span>
           <span aria-current="page" style="color:#ff6a28; font-weight:600;">Dumka to Ranchi Movers</span>
         </nav>
         
@@ -358,9 +358,9 @@ require_once __DIR__ . '/includes/seo.php';
         </p>
 
         <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
-          <a href="tel:9835565233" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Book Corridor Move: 9835565233
+            Book Corridor Move: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px);">
             WhatsApp Route Quote &rarr;
@@ -745,8 +745,8 @@ require_once __DIR__ . '/includes/seo.php';
             Book your dedicated container move today. Enjoy direct 24-36 hour delivery, zero transshipment, 5-layer packing, and complete transit insurance.
           </p>
           <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:16px;">
-            <a href="tel:9835565233" style="display:inline-flex; align-items:center; gap:8px; background:#ff6a28; color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow:0 4px 15px rgba(255,106,40,0.35);">
-              Call Route Coordinator: 9835565233
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="display:inline-flex; align-items:center; gap:8px; background:#ff6a28; color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow:0 4px 15px rgba(255,106,40,0.35);">
+              Call Route Coordinator: <?php echo PRIMARY_PHONE_DISPLAY; ?>
             </a>
             <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.3); color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:600; text-decoration:none;">
               Get Instant WhatsApp Estimate &rarr;
@@ -763,6 +763,7 @@ require_once __DIR__ . '/includes/seo.php';
             Explore our specialized relocation services and trusted intercity transport corridors connecting Dumka across Jharkhand, West Bengal, Bihar, and Pan-India:
           </p>
           <div style="display:flex; flex-wrap:wrap; gap:12px; font-size:0.9rem;">
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Packers and Movers in Ranchi</a>
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dumka" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Packers and Movers in Dumka</a>
             <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-dumka" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Household Shifting in Dumka</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-dumka" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Car Transport in Dumka</a>
@@ -780,7 +781,7 @@ require_once __DIR__ . '/includes/seo.php';
   </main>
 
   <!-- Global Footer -->
-  <?php include __DIR__ . '/../includes/footer.php'; ?>
+  <?php include_once __DIR__ . '/../includes/footer.php'; ?>
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>
 </body>
 </html>

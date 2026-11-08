@@ -14,8 +14,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/trivandrum-to-ranchi-pack
 $page_keywords = "trivandrum to ranchi packers and movers, packers and movers trivandrum to ranchi, household shifting trivandrum to ranchi, car transport trivandrum to ranchi, bike courier trivandrum to ranchi, technopark to ranchi movers, pangode military movers, thiruvananthapuram to ranchi movers";
 
 $current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -61,20 +64,21 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Professional 2,420 km long-distance inter-state relocation from Thiruvananthapuram (Trivandrum) to Ranchi. Reliable household shifting, ISRO/defense transfers, Technopark returns & vehicle transport.",
-        "telephone": "+91-8409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 19,000 - 78,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Technopark Phase 1, Kazhakoottam",
-            "addressLocality": "Thiruvananthapuram",
-            "addressRegion": "Kerala",
-            "postalCode": "695581",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 8.5241,
-            "longitude": 76.9366
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -118,8 +122,8 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "<?php echo SITE_BASE_URL; ?>/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -140,7 +144,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-8409531615",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": {
@@ -699,7 +703,18 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="tvr-container" style="font-size: 0.88rem; color: #64748b;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4f46e5; text-decoration: none; font-weight: 500;">Home</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4f46e5; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Trivandrum to Ranchi</span>
+    </div>
+</nav>
 
 <main class="tvr-wrap">
 
@@ -1153,8 +1168,8 @@ require_once __DIR__ . '/../includes/seo.php';
                     <span>Ranchi to Trivandrum (Return)</span>
                     <span style="color: var(--tvr-indigo);">→</span>
                 </a>
-                <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--tvr-border); text-decoration: none; color: var(--tvr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
-                    <span>Ranchi Headquarters Hub</span>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--tvr-border); text-decoration: none; color: var(--tvr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+                    <span>Packers and Movers in Ranchi</span>
                     <span style="color: var(--tvr-indigo);">→</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/kochi-to-ranchi-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--tvr-border); text-decoration: none; color: var(--tvr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
@@ -1203,7 +1218,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

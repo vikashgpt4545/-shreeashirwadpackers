@@ -1,8 +1,14 @@
 <?php
+/**
+ * Server and IT Data Center Relocation in Ranchi - Shree Ashirwad Packers and Movers
+ */
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
+
 // Dynamic SEO Configuration for Server and IT Data Center Relocation in Ranchi
 $page_title = "Server & IT Data Center Relocation in Ranchi | Zero-Downtime Migration";
-$page_description = "Mission-critical server & IT data center relocation in Ranchi. Anti-static ESD packing, padded flight cases, air-ride transit, and zero-downtime server rack moving for banks & IT firms. Call +91 9835565233.";
-$canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-relocation-ranchi";
+$page_description = "Mission-critical server & IT data center relocation in Ranchi. Anti-static ESD packing, padded flight cases, air-ride transit, and zero-downtime server rack moving for banks & IT firms. Call +91 8409531615.";
+$canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/server-and-it-data-center-relocation-ranchi";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,13 +27,13 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Enterprise IT Logistics Division",
-        "image": "https://shreeashirwadpackers.com/images/office-equipment-secure-packing-jamshedpur.jpg",
+        "image": "<?php echo SITE_BASE_URL; ?>/images/office-equipment-secure-packing-jamshedpur.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "+918409531615",
         "priceRange": "₹20,000 - ₹4,50,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Bypass, Near Software Technology Parks of India (STPI)",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -35,8 +41,8 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3598,
-            "longitude": 85.3112
+            "latitude": 23.3639813,
+            "longitude": 85.3090259
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -57,13 +63,13 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "<?php echo SITE_BASE_URL; ?>/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "https://shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -350,7 +356,20 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Server & Data Center Relocation Ranchi</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <div class="dcr-page-wrap">
 
@@ -358,7 +377,7 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
     <section class="dcr-hero-banner">
         <h1 class="dcr-hero-title">Server & IT Data Center Relocation in Ranchi</h1>
         <p class="dcr-hero-subtitle">Mission-Critical IT Infrastructure Relocation for Banks, PSUs, Government Data Centers & Tech Parks. Anti-Static ESD Packing, Padded Flight Cases & Zero-Downtime Weekend Cutovers.</p>
-        <a href="tel:+919835565233" class="dcr-cta-btn">Consult Enterprise IT Movers: +91 9835565233</a>
+        <a href="tel:+918409531615" class="dcr-cta-btn">Consult Enterprise IT Movers: +91 8409531615</a>
     </section>
 
     <!-- Main Container -->
@@ -558,7 +577,7 @@ $canonical_url = "https://shreeashirwadpackers.com/server-and-it-data-center-rel
     </div>
 </div>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

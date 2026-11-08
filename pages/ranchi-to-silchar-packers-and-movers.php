@@ -5,7 +5,12 @@
  * Canonical URL: https://www.shreeashirwadpackers.com/ranchi-to-silchar-packers-and-movers
  * Description: Premium interstate shifting services from Ranchi (Jharkhand) to Silchar (Assam). Expert in NIT Silchar & Assam University faculty moves, SMCH doctor relocations, tea estate executive transfers, and insured car transport via NH-27/NH-6.
  */
-include_once __DIR__ . '/../includes/config.php';
+$current_page = 'services';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,11 +31,11 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Silchar",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-silchar-packers-and-movers",
-    "telephone": "+91 9835565233",
+    "telephone": "+91-8409531615",
     "priceRange": "INR 26,000 - 78,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Road & Morabadi Logistics Center",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -82,8 +87,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Interstate Relocation",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -529,7 +534,22 @@ include_once __DIR__ . '/../includes/config.php';
   </style>
 </head>
 <body>
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation -->
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Silchar</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <main class="r2slc-wrapper">
   <!-- Hero Section -->
@@ -918,9 +938,21 @@ include_once __DIR__ . '/../includes/config.php';
       </div>
     </article>
 
+    <!-- Related Routes Navigation -->
+    <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 25px; margin: 40px 0;">
+      <h3 style="color: #1b3a4b; margin-top: 0; font-size: 1.3rem; margin-bottom: 15px;">Connected Northeast &amp; Regional Relocation Routes</h3>
+      <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 15px;">Explore linked interstate routes with verified pricing, comprehensive transit insurance, and GPS tracking:</p>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="background: #f1f5f9; color: #0284c7; padding: 8px 14px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600;">Packers and Movers in Ranchi (HQ)</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/silchar-to-ranchi-packers-and-movers" style="background: #f1f5f9; color: #0284c7; padding: 8px 14px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600;">Silchar to Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-guwahati-packers-and-movers" style="background: #f1f5f9; color: #0284c7; padding: 8px 14px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600;">Ranchi to Guwahati</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-shillong-packers-and-movers" style="background: #f1f5f9; color: #0284c7; padding: 8px 14px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600;">Ranchi to Shillong</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-agartala-packers-and-movers" style="background: #f1f5f9; color: #0284c7; padding: 8px 14px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600;">Ranchi to Agartala</a>
+      </div>
+    </div>
   </div>
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

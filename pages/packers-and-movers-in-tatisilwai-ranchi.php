@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Tatisilwai Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-tatisilwai-ranchi",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Purulia Road near Usha Martin Plant & Tatisilwai Station",
-      "addressLocality": "Tatisilwai, Ranchi",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+      "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "835103",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -76,8 +76,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -421,6 +421,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Tatisilwai</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-tts-wrapper">
   <!-- Hero Section -->
   <section class="hl-tts-hero-section">
@@ -433,7 +446,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Tatisilwai Ranchi</h1>
         <p>Premium industrial plant logistics, heavy machinery moving, employee household shifting, and vehicle transport services across Tatisilwai, Usha Martin Limited, Purulia Road, Tatisilwai Railway Station, and Ranchi Ring Road. Reliable, punctual, and damage-free moving delivered by Ranchi's top relocation professionals.</p>
-        <a href="tel:+919835565233" class="hl-tts-cta-btn">&#128222; Call Now: +91 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-tts-cta-btn">&#128222; Call Now: +91 8409531615</a>
       </div>
       <div class="hl-tts-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -441,7 +454,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Purulia Road near Usha Martin, Tatisilwai
         </div>
         <div class="hl-tts-contact-item">
-          <span>Direct Helpline:</span> +91 9835565233
+          <span>Direct Helpline:</span> +91 8409531615
         </div>
         <div class="hl-tts-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -499,7 +512,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Tatisilwai</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Tatisilwai</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Tatisilwai</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Tatisilwai</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Tatisilwai</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -509,7 +522,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-tts-section">
       <h2>Professional Moving Services in Eastern Ranchi's Industrial Powerhouse</h2>
       <p>Tatisilwai represents the vibrant manufacturing, heavy engineering, and industrial heart of Greater Ranchi. Situated eastward along the vital Purulia Road (State Highway 1) connecting Ranchi with Purulia and West Bengal, and intersecting seamlessly with the eastern junction of the 6-lane Ranchi Ring Road, Tatisilwai is globally renowned as the manufacturing home of Usha Martin Limited—one of the world's largest manufacturers of specialty wire ropes and steel cords. In addition to this flagship facility, Tatisilwai hosts large industrial complexes including Hindalco facilities, polymer manufacturing plants, high-tension wire manufacturing units, packaging factories, and extensive logistics warehouses. Surrounding this vibrant manufacturing ecosystem are expansive staff housing colonies, engineer quarters, executive bungalows, and growing residential pockets around Tatisilwai Railway Station.</p>
-      <p>Relocating in Tatisilwai requires dual operational competence: heavy industrial machinery handling for manufacturing units and white-glove residential moving for plant managers, corporate executives, and technical staff. Industrial moves demand multi-ton rigging equipment, crane lifters, and specialized low-bed trailers capable of handling delicate electronic panels, cable spools, and heavy machine tools. Concurrently, employee household moves require high-grade packaging materials, skilled furniture carpentry, and certified IBA-approved billing compliant with corporate reimbursement procedures. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers Ranchi</a>, Shree Ashirwad Packers and Movers has served the industrial and residential community in Tatisilwai for over a decade with unmatched dependability and zero damage guarantees.</p>
+      <p>Relocating in Tatisilwai requires dual operational competence: heavy industrial machinery handling for manufacturing units and white-glove residential moving for plant managers, corporate executives, and technical staff. Industrial moves demand multi-ton rigging equipment, crane lifters, and specialized low-bed trailers capable of handling delicate electronic panels, cable spools, and heavy machine tools. Concurrently, employee household moves require high-grade packaging materials, skilled furniture carpentry, and certified IBA-approved billing compliant with corporate reimbursement procedures. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served the industrial and residential community in Tatisilwai for over a decade with unmatched dependability and zero damage guarantees.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->

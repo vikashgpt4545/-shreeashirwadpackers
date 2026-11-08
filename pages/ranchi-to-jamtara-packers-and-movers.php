@@ -5,9 +5,8 @@
  * Description: Dedicated capital-to-district relocation route from Ranchi to Jamtara, Mihijam, and Karmatar.
  * Focus Keywords: ranchi to jamtara packers and movers, packers and movers ranchi to jamtara, house shifting ranchi to jamtara, ranchi to jamtara luggage parcel, ranchi to jamtara car carrier, ranchi to jamtara bike parcel
  */
-if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/../includes/config.php';
-}
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Ranchi to Jamtara Packers & Movers | Shree Ashirwad Packers";
 $page_desc = "Fast Ranchi to Jamtara packers and movers. 220 km direct transit via Ramgarh-Dhanbad-NH-19, Secretariat & judicial transfer bills, 5-layer packing, car transport. Call 9835565233.";
@@ -568,11 +567,12 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹4,500 - ₹36,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Road, Near Sahajanand Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -649,13 +649,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Ranchi Packers and Movers",
-                "item": "https://www.shreeashirwadpackers.com/"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Ranchi to Jamtara Route",
+                "name": "Ranchi to Jamtara Packers and Movers",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -750,14 +750,14 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
 </head>
 <body>
 
-<?php include __DIR__ . '/../includes/header.php'; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
 
 <!-- Breadcrumbs Section -->
 <nav class="breadcrumb-container" aria-label="breadcrumb" style="background: #f1f5f9; padding: 12px 0;">
     <div class="container">
         <ol class="breadcrumb" style="margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.9rem;">
             <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f766e; text-decoration: none;">Home</a> <span style="color: #94a3b8;">/</span></li>
-            <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0f766e; text-decoration: none;">Ranchi</a> <span style="color: #94a3b8;">/</span></li>
+            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0f766e; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8;">/</span></li>
             <li style="color: #64748b;" aria-current="page">Ranchi to Jamtara</li>
         </ol>
     </div>
@@ -774,10 +774,10 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
                     Relocating from Ranchi to Jamtara, Mihijam, or Karmatar? Shree Ashirwad Packers and Movers guarantees zero-damage household relocation, government transfer moves, and prompt vehicle carrier solutions. Seamless doorstep service across Kanke Road, Morabadi, Bariatu, Doranda, Lalpur, and Harmu to every part of Jamtara district.
                 </p>
                 <div class="r2jam-cta-group">
-                    <a href="tel:09835565233" class="r2jam-btn-primary">
-                        <i class="fa fa-phone"></i> Call 9835565233 for Free Quote
+                    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2jam-btn-primary">
+                        <i class="fa fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?> for Free Quote
                     </a>
-                    <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Jamtara%20relocation" class="r2jam-btn-secondary" target="_blank" rel="noopener">
+                    <a href="<?php echo WHATSAPP_LINK; ?>" class="r2jam-btn-secondary" target="_blank" rel="noopener">
                         <i class="fa fa-whatsapp"></i> WhatsApp Instant Estimate
                     </a>
                 </div>
@@ -820,7 +820,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Jamtara</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Jamtara</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Jamtara</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Jamtara</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Jamtara</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1325,17 +1325,17 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamtara-packers
             Get an instant, transparent shifting estimate today. Experience the unmatched safety, speed, and reliability of Shree Ashirwad Packers and Movers.
         </p>
         <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-            <a href="tel:09835565233" class="r2jam-btn-primary" style="font-size: 1.1rem; padding: 16px 36px;">
-                <i class="fa fa-phone"></i> Call 09835565233
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2jam-btn-primary" style="font-size: 1.1rem; padding: 16px 36px;">
+                <i class="fa fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
             </a>
-            <a href="https://wa.me/919835565233?text=Hi%20Shree%20Ashirwad,%20I%20want%20to%20book%20Ranchi%20to%20Jamtara%20shifting" class="r2jam-btn-secondary" style="font-size: 1.1rem; padding: 16px 36px;" target="_blank" rel="noopener">
+            <a href="<?php echo WHATSAPP_LINK; ?>" class="r2jam-btn-secondary" style="font-size: 1.1rem; padding: 16px 36px;" target="_blank" rel="noopener">
                 <i class="fa fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>
     </div>
 </section>
 
-<?php include __DIR__ . '/../includes/footer.php'; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

@@ -17,8 +17,11 @@ $page_title = "Gaya to Ranchi Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Gaya to Ranchi packers and movers by Shree Ashirwad. Same-day 5-hr transit via NH-22/NH-20, OTA & univ bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/gaya-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -73,17 +76,22 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Premier interstate household relocation, OTA Gaya military transfer moving, university faculty shifting, and express vehicle transport from Gaya, Bihar to Ranchi, Jharkhand.",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "alternatePhone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹11,000 - ₹38,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Road, Near Sahajanand Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
       "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "areaServed": [
       {
@@ -167,8 +175,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Packers and Movers",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -855,7 +863,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 <?php
 // Load unified master header
-require_once __DIR__ . '/includes/header.php';
+require_once BASE_PATH . '/includes/header.php';
 ?>
 
 <div class="r2gay-wrapper">
@@ -864,6 +872,13 @@ require_once __DIR__ . '/includes/header.php';
     <!-- SECTION 1: HERO SECTION -->
   <section class="r2gay-hero">
     <div class="r2gay-container">
+      <nav class="r2gay-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+        <span style="color:#64748b;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+        <span style="color:#64748b;">/</span>
+        <span style="color:#fde047; font-weight:600;">Gaya to Ranchi</span>
+      </nav>
       <div class="r2gay-hero-badge">
         <span>★ IBA-Approved &amp; ISO 9001:2015 Certified Express Relocation</span>
       </div>
@@ -1520,5 +1535,5 @@ require_once __DIR__ . '/includes/header.php';
 
 <?php
 // Load unified master footer
-require_once __DIR__ . '/includes/footer.php';
+require_once BASE_PATH . '/includes/footer.php';
 ?>

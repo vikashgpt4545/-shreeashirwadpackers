@@ -33,7 +33,7 @@ $base_url = SITE_BASE_URL;
 <header class="site-header" id="siteHeader">
   <div class="container header-wrapper">
     <!-- Brand Logo & Identity -->
-    <a href="<?php echo $base_url; ?>/" class="brand-logo" title="Shree Ashirwad Packers and Movers Homepage">
+    <a href="<?php echo $base_url; ?>/" class="brand-logo" title="Packers and Movers in Ranchi - Shree Ashirwad Packers and Movers">
       <img src="<?php echo $base_url; ?>/assets/images/logo.png" alt="<?php echo BRAND_SHORT_NAME; ?> Logo" title="Shree Ashirwad Packers and Movers Official Logo" width="46" height="46">
       <div class="brand-info">
         <span class="brand-title"><?php echo BRAND_SHORT_NAME; ?></span>
@@ -44,7 +44,7 @@ $base_url = SITE_BASE_URL;
     <!-- Navigation Menu Links -->
     <nav aria-label="Main Navigation">
       <ul class="nav-menu" id="navMenu">
-        <li><a href="<?php echo $base_url; ?>/" class="nav-link active" title="Shree Ashirwad Packers Homepage">Home</a></li>
+        <li><a href="<?php echo $base_url; ?>/" class="nav-link active" title="Packers and Movers in Ranchi - Home">Home</a></li>
         <li><a href="<?php echo $base_url; ?>/about" class="nav-link" title="About Shree Ashirwad Packers and Movers">About</a></li>
         
         <!-- Services Dropdown (Preserving all 9 exact service URLs) -->

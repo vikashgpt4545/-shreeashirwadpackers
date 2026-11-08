@@ -12,14 +12,14 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Packers and Movers Bokaro to Chakradharpur | Best Moving Company - 9835565233";
-$page_desc = "Looking for the best packers and movers from Bokaro to Chakradharpur? Shree Ashirwad Packers offers reliable household shifting, bike parcel, car carrier & SAIL transfer billing. Call +91 9835565233.";
+$page_desc = "Looking for the best packers and movers from Bokaro to Chakradharpur? Shree Ashirwad Packers offers reliable household shifting, bike parcel, car carrier & SAIL transfer billing. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-chakradharpur-packers-and-movers";
 $route_origin = "Bokaro";
 $route_destination = "Chakradharpur";
 
 // Open Graph
 $og_title = "Packers and Movers Bokaro to Chakradharpur | Best Moving Company - 9835565233";
-$og_description = "Looking for the best packers and movers from Bokaro to Chakradharpur? Shree Ashirwad Packers offers reliable household shifting, bike parcel, car carrier & SAIL transfer billing. Call +91 9835565233.";
+$og_description = "Looking for the best packers and movers from Bokaro to Chakradharpur? Shree Ashirwad Packers offers reliable household shifting, bike parcel, car carrier & SAIL transfer billing. Call +91 8409531615.";
 $og_url = $canonical_url;
 $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg";
 ?>
@@ -34,7 +34,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">
-    <meta name="geo.placename" content="Chakradharpur">
+    <meta name="geo.placename" content="Bokaro Steel City, Jharkhand">
 
     <!-- Open Graph Metadata -->
     <meta property="og:type" content="business.business">
@@ -66,14 +66,14 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
         "name": "Shree Ashirwad Packers and Movers Bokaro & Chakradharpur",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/bokaro-to-chakradharpur-packers-and-movers",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo SECONDARY_PHONE; ?>",
         "priceRange": "₹5,000 - ₹35,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near City Centre, Sector 4, Bokaro Steel City",
+            "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
             "addressLocality": "Bokaro Steel City",
-            "addressRegion": "JH",
-            "postalCode": "827004",
+            "addressRegion": "Jharkhand",
+            "postalCode": "827012",
             "addressCountry": "IN"
         },
         "geo": {
@@ -652,6 +652,11 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
     <!-- HERO SECTION -->
     <header class="bok-ckp-hero">
         <div class="container">
+            <nav style="margin-bottom: 18px; font-size: 0.9rem;" aria-label="breadcrumb">
+                <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a> &raquo; 
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #93c5fd; text-decoration: none;">Bokaro Packers and Movers</a> &raquo; 
+                <span style="color: #ffffff;">Bokaro to Chakradharpur</span>
+            </nav>
             <div class="row align-items-center">
                 <div class="col-lg-8">
                     <div class="bok-ckp-badges">
@@ -665,10 +670,10 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                         Looking for the <strong>best packers and movers from Bokaro to Chakradharpur</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting, office relocation, bike transport, and car carrier services</strong> with safe 155 km transit via Chas and Chandil. As one of the top-rated movers and packers near Bokaro, our professional moving crew offers 5-layer protective packaging, enclosed container trucks, official SAIL and Railway employee transfer claims, careful goods handling, and guaranteed same-day delivery across Chakradharpur with 100% in-transit protection.
                     </p>
                     <div class="bok-ckp-cta-bar">
-                        <a href="tel:+919835565233" class="btn-route-call">
-                            <span>📞 Call +91 9835565233</span>
+                        <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-route-call">
+                            <span>📞 Call <?php echo SECONDARY_PHONE; ?></span>
                         </a>
-                        <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quotation%20for%20shifting%20from%20Bokaro%20to%20Chakradharpur." class="btn-route-wa" target="_blank" rel="noopener">
+                        <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quotation%20for%20shifting%20from%20Bokaro%20to%20Chakradharpur." class="btn-route-wa" target="_blank" rel="noopener">
                             <span>💬 WhatsApp Instant Quote</span>
                         </a>
                     </div>
@@ -738,7 +743,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     If you are searching for reliable movers and packers near me from Bokaro to Chakradharpur, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -1176,28 +1181,28 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     <span>Bokaro City Hub</span>
                     <span>→</span>
                 </a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chakradharpur" class="cluster-hub-link">
-                    <span>Chakradharpur Divisional Hub</span>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" class="cluster-hub-link">
+                    <span>Sector 4 Bokaro Hub</span>
+                    <span>→</span>
+                </a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" class="cluster-hub-link">
+                    <span>Chas Bokaro Hub</span>
                     <span>→</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/chakradharpur-to-bokaro-packers-and-movers" class="cluster-hub-link">
-                    <span>Chakradharpur to Bokaro</span>
+                    <span>Chakradharpur to Bokaro (Return Route)</span>
                     <span>→</span>
                 </a>
-                <a href="<?php echo SITE_BASE_URL; ?>/chakradharpur-to-dhanbad-packers-and-movers" class="cluster-hub-link">
-                    <span>Chakradharpur to Dhanbad</span>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-jamshedpur-packers-and-movers" class="cluster-hub-link">
+                    <span>Bokaro to Jamshedpur</span>
                     <span>→</span>
                 </a>
-                <a href="<?php echo SITE_BASE_URL; ?>/chakradharpur-to-jamshedpur-packers-and-movers" class="cluster-hub-link">
-                    <span>Chakradharpur to Jamshedpur</span>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" class="cluster-hub-link">
+                    <span>Bokaro to Ranchi</span>
                     <span>→</span>
                 </a>
-                <a href="<?php echo SITE_BASE_URL; ?>/chakradharpur-to-chaibasa-packers-and-movers" class="cluster-hub-link">
-                    <span>Chakradharpur to Chaibasa</span>
-                    <span>→</span>
-                </a>
-                <a href="<?php echo SITE_BASE_URL; ?>/chakradharpur-to-saraikela-packers-and-movers" class="cluster-hub-link">
-                    <span>Chakradharpur to Saraikela</span>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chakradharpur" class="cluster-hub-link">
+                    <span>Chakradharpur Divisional Hub</span>
                     <span>→</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-hub-link">

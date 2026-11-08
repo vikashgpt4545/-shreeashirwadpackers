@@ -9,8 +9,11 @@
  * Focus: 1,820 km Interstate Tech Corridor Relocation, Dedicated & Shared Containers, Car/Bike Transport, IBA Approved Bills
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Ranchi to Bangalore Packers and Movers - 9835565233 | Shree Ashirwad Packers";
 $page_description = "Best ranchi to bangalore packers and movers by Shree Ashirwad. Dedicated container trucks, 5-layer packing, car/bike parcel, IBA approved bills & GPS tracking. Call 9835565233.";
@@ -89,7 +92,7 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹₹",
     "keywords": "ranchi to bangalore packers and movers, packers and movers ranchi to bangalore, ranchi to bengaluru packers and movers, household shifting ranchi to bangalore",
@@ -97,7 +100,7 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -252,8 +255,8 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Routes",
-        "item": "<?php echo SITE_BASE_URL; ?>/#services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -746,7 +749,7 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
 <body>
 
   <!-- Global Header Navigation -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include BASE_PATH . '/includes/header.php'; ?>
 
       
     <main id="mainContent">
@@ -760,7 +763,7 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
         <nav aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
           <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
           <span style="margin:0 8px; color:#64748b;">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#services" style="color:#cbd5e1; text-decoration:none;">Intercity Routes</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
           <span style="margin:0 8px; color:#64748b;">&gt;</span>
           <span aria-current="page" style="color:#ff6a28; font-weight:600;">Ranchi to Bangalore Packers and Movers</span>
         </nav>
@@ -779,9 +782,9 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
         </p>
 
         <div class="rtb-hero-btns">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-rtb-call">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-rtb-call">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Bangalore Route Desk: 9835565233
+            Call Bangalore Route Desk: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-rtb-wa">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -826,7 +829,7 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Bangalore</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Bangalore</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Bangalore</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Bangalore</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Bangalore</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1535,31 +1538,21 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
         </div>
 
         <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="tag-pill">Professional Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="tag-pill" style="color: #ff6a28; font-weight: 700;">Packers and Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bangalore-to-ranchi-packers-and-movers" class="tag-pill" style="color: #ff6a28; font-weight: 700;">Bangalore to Ranchi Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-packers-and-movers" class="tag-pill">Ranchi to Delhi Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="tag-pill">Ranchi to Kolkata Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="tag-pill">Ranchi to Patna Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-hyderabad-packers-and-movers" class="tag-pill">Ranchi to Hyderabad Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-mumbai-packers-and-movers" class="tag-pill">Ranchi to Mumbai Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-pune-packers-and-movers" class="tag-pill">Ranchi to Pune Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="tag-pill">Household Shifting Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/local-shifting-services-in-ranchi" class="tag-pill">Local Shifting in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/office-shifting-services-in-ranchi" class="tag-pill">Office Shifting in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting-services-in-ranchi" class="tag-pill">Residential Shifting</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting-services-in-ranchi" class="tag-pill">Car & Bike Relocation</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/warehouse-services-in-ranchi" class="tag-pill">Warehousing & Storage</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packing-and-unpacking-services-in-ranchi" class="tag-pill">Packing & Unpacking Services in Ranchi</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" class="tag-pill">Residential Shifting</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/business-shifting/" class="tag-pill">Business & Corporate Shifting</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="tag-pill">Packers and Movers in Ranchi Jharkhand</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/loading-and-unloading-services/" class="tag-pill">Loading & Unloading Services</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" class="tag-pill">Car & Bike Relocation</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/warehouse-service/" class="tag-pill">Warehousing & Storage</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/lohardaga-to-ranchi-packers-and-movers" class="tag-pill">Lohardaga to Ranchi Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/latehar-to-ranchi-packers-and-movers" class="tag-pill">Latehar to Ranchi Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/koderma-to-ranchi-packers-and-movers" class="tag-pill">Koderma to Ranchi Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-pakur-to-ranchi" class="tag-pill">Pakur to Ranchi Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-palamu-to-ranchi" class="tag-pill">Palamu to Ranchi Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-ramgarh-to-ranchi" class="tag-pill">Ramgarh to Ranchi Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-simdega-to-ranchi" class="tag-pill">Simdega to Ranchi Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-delhi-packers-and-movers" class="tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Delhi Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-dhanbad-packers-and-movers" class="tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Dhanbad Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-hyderabad-packers-and-movers" class="tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Hyderabad Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-jamshedpur-packers-and-movers" class="tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Jamshedpur Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kolkata-packers-and-movers" class="tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Kolkata Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="tag-pill" style="color: #ff6a28; font-weight: 700;">Ranchi to Patna Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/jamshedpur-to-ranchi-packers-and-movers" class="tag-pill">Jamshedpur to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/contact" class="tag-pill">Contact Ranchi Headquarters</a>
         </div>
       </div>
@@ -1580,9 +1573,9 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
         </p>
         
         <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; align-items:center; margin-bottom:30px;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-rtb-call" style="font-size:1.05rem; padding:15px 34px;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-rtb-call" style="font-size:1.05rem; padding:15px 34px;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call 9835565233 for Route Booking
+            Call <?php echo PRIMARY_PHONE_DISPLAY; ?> for Route Booking
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-rtb-wa" style="font-size:1.05rem; padding:15px 30px;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1600,7 +1593,7 @@ $meta_keywords = "ranchi to bangalore packers and movers, packers and movers ran
   </main>
 
   <!-- Global Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

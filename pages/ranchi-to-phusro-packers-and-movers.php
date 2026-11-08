@@ -10,6 +10,7 @@
 if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Ranchi to Phusro | Professional Relocation";
 $page_desc = "Verified packers and movers from Ranchi to Phusro. 105 km safe transit via NH-20 & NH-320, 5-layer packing, CCL quarter shifting, car & bike parcel, IBA approved bills.";
@@ -66,14 +67,15 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Ranchi to Phusro",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹7,000 - ₹35,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Booty More, Bariatu Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834009",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
@@ -110,7 +112,9 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "serviceType": "Intercity Relocation Services",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+            "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
             {
@@ -150,8 +154,8 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Packers and Movers Ranchi",
-                "item": "https://www.shreeashirwadpackers.com/"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -622,6 +626,15 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 <section class="route-hero">
     <div class="container">
         <div class="hero-content">
+            <nav aria-label="breadcrumb" style="margin-bottom: 15px;">
+                <ol class="breadcrumb" style="background: transparent; padding: 0; margin: 0; font-size: 0.9rem; list-style: none; display: flex; gap: 8px;">
+                    <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a></li>
+                    <li style="color: #cbd5e1;">/</li>
+                    <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #93c5fd; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                    <li style="color: #cbd5e1;">/</li>
+                    <li class="breadcrumb-item active" aria-current="page" style="color: #ffffff;">Ranchi to Phusro</li>
+                </ol>
+            </nav>
             <div class="hero-badges">
                 <span class="badge-item"><i class="fa-solid fa-road"></i> 105 km Highway Transit</span>
                 <span class="badge-item"><i class="fa-solid fa-clock"></i> 3.5 - 5 Hours Delivery</span>
@@ -632,7 +645,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             <p class="hero-lead">Professional, damage-free household relocation, office moving, vehicle transport, and CCL employee quarter transfers from Ranchi to Phusro, Bermo, and DVC coalfield belt.</p>
             <div class="hero-cta-group">
                 <a href="#quick-quote" class="btn-primary-hero"><i class="fa-solid fa-calculator"></i> Get Free Instant Quote</a>
-                <a href="tel:+919835565233" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call +91 9835565233</a>
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-call-hero"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             </div>
         </div>
         <div class="hero-form-card" id="quick-quote">
@@ -710,7 +723,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     If you are searching for reliable movers and packers near me from Ranchi to Phusro, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -927,11 +940,15 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 </div>
 
                 <h2>Book Your Stress-Free Ranchi to Phusro Relocation Today</h2>
-                <p>Relocating between Ranchi and Phusro does not have to be stressful or overwhelming. Partner with Jharkhand's most trusted name in domestic and corporate moving. Contact our relocation consultants right now at <strong>+91 9835565233</strong> or submit our quick quotation form above to reserve your moving slot and receive a complimentary pre-move survey.</p>
+                <p>Relocating between Ranchi and Phusro does not have to be stressful or overwhelming. Partner with Jharkhand's most trusted name in domestic and corporate moving. Contact our relocation consultants right now at <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: inherit; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> or submit our quick quotation form above to reserve your moving slot and receive a complimentary pre-move survey.</p>
 
                 <h2>Connected Phusro Relocation Corridors</h2>
                 <p>We provide regular containerized moving services connecting Phusro to major national and regional hubs:</p>
                 <div class="feature-box-grid">
+                    <div class="feature-box">
+                        <h4><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--primary); text-decoration: underline;"><i class="fa-solid fa-map-marker-alt"></i> Ranchi Moving Hub</a></h4>
+                        <p>Complete home shifting, packing, and corporate moving services across all Ranchi sectors.</p>
+                    </div>
                     <div class="feature-box">
                         <h4><a href="<?php echo SITE_BASE_URL; ?>/phusro-to-ranchi-packers-and-movers" style="color: var(--primary); text-decoration: underline;"><i class="fa-solid fa-route"></i> Phusro to Ranchi</a></h4>
                         <p>Direct return express relocation back to Ranchi capital with same-day delivery and full home setup.</p>

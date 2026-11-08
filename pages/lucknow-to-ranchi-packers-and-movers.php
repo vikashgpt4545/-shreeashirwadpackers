@@ -15,8 +15,11 @@ $page_title = "Lucknow to Ranchi Packers & Movers | Shree Ashirwad";
 $page_description = "Top Lucknow to Ranchi packers and movers by Shree Ashirwad. Express 16-hr transit via Purvanchal/NH-19, Gomti Nagar/RDSO bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/lucknow-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,000 - ₹68,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -157,7 +160,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+91-9835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": [
@@ -196,8 +199,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -909,7 +912,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body class="l2r-wrapper">
 
-<?php include_once __DIR__ . '/includes/header.php'; ?>
+<?php include BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumbs Navigation Bar -->
+<nav class="l2r-breadcrumb" aria-label="Breadcrumb" style="background: #064e3b; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+  <div class="l2r-container" style="display: flex; align-items: center; gap: 8px; font-size: 0.88rem; flex-wrap: wrap;">
+    <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #a7f3d0; text-decoration: none;">Home</a>
+    <span style="color: #6ee7b7;">/</span>
+    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #a7f3d0; text-decoration: none;">Packers and Movers in Ranchi</a>
+    <span style="color: #6ee7b7;">/</span>
+    <span style="color: #fde047; font-weight: 600;">Lucknow to Ranchi</span>
+  </div>
+</nav>
 
 <!-- Hero Section -->
 <header class="l2r-hero">
@@ -931,8 +945,8 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
 
     <div class="l2r-hero-actions">
-      <a href="tel:+919835565233" class="l2r-btn l2r-btn-primary">📞 Call Now: 084095 31615</a>
-      <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20relocation%20from%20Lucknow%20to%20Ranchi" class="l2r-btn l2r-btn-outline" target="_blank" rel="noopener">💬 WhatsApp Free Instant Quote</a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="l2r-btn l2r-btn-primary">📞 Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+      <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20relocation%20from%20Lucknow%20to%20Ranchi" class="l2r-btn l2r-btn-outline" target="_blank" rel="noopener">💬 WhatsApp Free Instant Quote</a>
     </div>
   </div>
 </header>
@@ -948,8 +962,8 @@ require_once __DIR__ . '/includes/seo.php';
       <span>📍 <strong>Direct Corridor Service:</strong> Daily container departures connecting Gomti Nagar, Indira Nagar, Aliganj, Cantt, and Sushant Golf City directly to all Ranchi sectors.</span>
     </div>
     <div class="l2r-callbar-links">
-      <a href="tel:+919835565233" class="l2r-call-link">📱 9835565233</a>
-      <a href="tel:+919835565233" class="l2r-call-link">☎️ 9835565233</a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="l2r-call-link">📱 <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+      <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="l2r-call-link">☎️ <?php echo SECONDARY_PHONE_DISPLAY; ?></a>
     </div>
   </div>
 </aside>
@@ -1474,7 +1488,8 @@ require_once __DIR__ . '/includes/seo.php';
     </p>
 
     <div class="l2r-cluster-links">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="l2r-cluster-btn">Ranchi Relocation Hub</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="l2r-cluster-btn">Packers and Movers in Ranchi (HQ Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-lucknow-packers-and-movers" class="l2r-cluster-btn">Ranchi to Lucknow (Outbound Route)</a>
       <a href="<?php echo SITE_BASE_URL; ?>/bhubaneswar-to-ranchi-packers-and-movers" class="l2r-cluster-btn">Bhubaneswar to Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/hyderabad-to-ranchi-packers-and-movers" class="l2r-cluster-btn">Hyderabad to Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-ranchi-packers-and-movers" class="l2r-cluster-btn">Delhi to Ranchi</a>
@@ -1510,7 +1525,7 @@ require_once __DIR__ . '/includes/seo.php';
   });
 </script>
 
-<?php include_once __DIR__ . '/includes/footer.php'; ?>
+<?php include BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

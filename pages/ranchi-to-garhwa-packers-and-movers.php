@@ -18,7 +18,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-garhwa-packers-
 // Common layout variables
 $current_page = 'services';
 
-require_once __DIR__ . '/../includes/config.php';
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/../includes/config.php';
+}
 require_once __DIR__ . '/../includes/seo.php';
 ?>
 
@@ -74,17 +76,22 @@ require_once __DIR__ . '/../includes/seo.php';
         "name": "Shree Ashirwad Packers and Movers",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/ranchi-to-garhwa-packers-and-movers",
-        "telephone": "+91-9835565233",
-        "email": "contact@shreeashirwadpackers.com",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹11,000 - ₹38,000",
         "description": "Professional Ranchi to Garhwa packers and movers providing verified household relocation, government official shifting, car transport, and bike parcel services via NH-39.",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Ranchi Central Hub, Near Overbridge, Main Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
             "addressCountry": "IN"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -119,8 +126,8 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Jharkhand Expansion Routes",
-                "item": "https://www.shreeashirwadpackers.com/routes"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -190,7 +197,9 @@ require_once __DIR__ . '/../includes/seo.php';
         "serviceType": "Intrastate Relocation & Logistics",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "url": "https://www.shreeashirwadpackers.com",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
         },
         "areaServed": {
             "@type": "Place",
@@ -617,13 +626,24 @@ require_once __DIR__ . '/../includes/seo.php';
 <!-- HERO SECTION -->
 <section class="ran-gar-hero">
     <div class="ran-gar-container">
+        <!-- Visual Breadcrumb Navigation -->
+        <nav aria-label="breadcrumb" style="margin-bottom: 20px;">
+            <ol style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0 auto; justify-content: center; font-size: 0.95rem; align-items: center; gap: 8px;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a></li>
+                <li style="color: #cbd5e1;">&gt;</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #93c5fd; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #cbd5e1;">&gt;</li>
+                <li style="color: #e2e8f0;" aria-current="page">Ranchi to Garhwa</li>
+            </ol>
+        </nav>
+
         <span class="ran-gar-hero-badge"><i class="fa-solid fa-truck-fast"></i> Express Same-Day NH-39 Transit</span>
         <h1>Reliable Ranchi to Garhwa Packers and Movers</h1>
         <p>
             Shree Ashirwad Packers and Movers delivers prompt, zero-damage relocation services from Ranchi to Garhwa, Shri Banshidhar Nagar (Nagar Untari), and Bhawanathpur. Trusted by Jharkhand civil secretariat employees, judicial court officers, police personnel, healthcare specialists, and residential families with dedicated covered trucks and audit-ready IBA-approved billing.
         </p>
         <div class="ran-gar-hero-cta">
-            <a href="tel:+919835565233" class="ran-gar-btn-primary"><i class="fa-solid fa-phone"></i> Call 084095 31615</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran-gar-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="ran-gar-btn-secondary"><i class="fa-solid fa-file-invoice"></i> Get Instant Quote</a>
         </div>
         <div class="ran-gar-trust-badges">
@@ -670,7 +690,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     If you are searching for reliable movers and packers near me from Ranchi to Garhwa, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -690,7 +710,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     Shree Ashirwad Packers and Movers operates dedicated enclosed vehicles departing Ranchi via Ratu Road onto National Highway 39. The route proceeds through Kuru, Chandwa, and the scenic forest stretches of Latehar, bypassing Medininagar (Daltonganj) through the Rajhara-Lalmatia link to enter Garhwa town via Rehla. Because our trucks avoid congested local market detours, transit times average between 5 to 7 hours, enabling morning departures from Ranchi to be unloaded, unpacked, and organized in Garhwa on the very same afternoon.
                 </p>
                 <p>
-                    Our Ranchi pickup teams cover all residential colonies, including Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township, MECON Colony, CMPDI complex, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and Dhurwa. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/" style="color: var(--ran-gar-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/garhwa-to-ranchi-packers-and-movers" style="color: var(--ran-gar-primary); font-weight: 600; text-decoration: underline;">Garhwa to Ranchi packers and movers</a> corridor with equal dedication. We handle heavy furniture dismantling, elevator navigation, or stair carry with extreme care and dedicated equipment.
+                    Our Ranchi pickup teams cover all residential colonies, including Morabadi, Kanke Road, Bariatu, Ashok Nagar, SAIL Township, MECON Colony, CMPDI complex, Harmu Housing Colony, Doranda, Hinoo, Kadru, Ratu Road, Namkum, Tupudana, and Dhurwa. As the premier brand of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: var(--ran-gar-primary); font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers also handles high-frequency reciprocal returns on our dedicated <a href="<?php echo SITE_BASE_URL; ?>/garhwa-to-ranchi-packers-and-movers" style="color: var(--ran-gar-primary); font-weight: 600; text-decoration: underline;">Garhwa to Ranchi packers and movers</a> corridor with equal dedication. We handle heavy furniture dismantling, elevator navigation, or stair carry with extreme care and dedicated equipment.
                 </p>
                 <p>
                     At destination across Garhwa district, our delivery personnel ensure direct doorstep delivery in Garhwa town (Sahijana, Tandwa, Piprakala, Main Road, Collectorate Campus, Police Line), Nagar Untari (Shri Banshidhar Nagar), Bhawanathpur, Majhiaon, Ranka, and Chiniya. Every carton is placed in the designated bedroom, unpacked, and furniture assembled without leaving packing litter behind.
@@ -975,7 +995,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Garhwa to Ranchi (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/" class="ran-gar-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ran-gar-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
@@ -1007,7 +1027,7 @@ require_once __DIR__ . '/../includes/seo.php';
             Contact Shree Ashirwad Packers and Movers for a free pre-move survey, transparent quotation, and guaranteed safe same-day delivery to your new home in Garhwa.
         </p>
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-            <a href="tel:+919835565233" class="ran-gar-btn-primary"><i class="fa-solid fa-phone"></i> Call +91-9835565233</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran-gar-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Ranchi%20to%20Garhwa" class="ran-gar-btn-secondary" style="background: #25D366; border-color: #25D366; color: #ffffff;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</a>
         </div>
     </div>

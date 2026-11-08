@@ -14,8 +14,11 @@ $page_title = "Ranchi to Muzaffarpur Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Muzaffarpur packers and movers by Shree Ashirwad. 24-hr express transit via NH-22, BRABU & Govt transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-muzaffarpur-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -663,12 +666,12 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate packers and movers relocation service from Ranchi, Jharkhand to Muzaffarpur, Bihar. Comprehensive 24-hr express transit via NH-20 and NH-22 corridor, 5-layer defensive packaging, BRABU university faculty shifting, NTPC Kanti power plant transfers, and zero-transshipment sealed container fleets.",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹11,500 - ₹44,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Argora",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -777,8 +780,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -886,12 +889,19 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 
 <body>
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php require_once BASE_PATH . '/includes/header.php'; ?>
 
   <div class="r2m-wrap">
     <!-- Hero Section -->
     <header class="r2m-hero">
       <div class="r2m-container">
+        <nav class="r2m-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+          <span style="color:#64748b;">/</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+          <span style="color:#64748b;">/</span>
+          <span style="color:#fde047; font-weight:600;">Ranchi to Muzaffarpur</span>
+        </nav>
         <div class="r2m-hero-inner">
           <div class="r2m-badge">
             <span>★</span> Verified Express Interstate Corridor • 390 KM Direct Linehaul
@@ -1397,7 +1407,7 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our eastern India logistics network. Choose related routes or consult our complete moving guides for transparent rates and dedicated service.
         </p>
         <div class="r2m-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2m-cluster-link">Ranchi Relocation Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2m-cluster-link">Packers and Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gaya-packers-and-movers" class="r2m-cluster-link">Ranchi to Gaya Route</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-varanasi-packers-and-movers" class="r2m-cluster-link">Ranchi to Varanasi Route</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-kanpur-packers-and-movers" class="r2m-cluster-link">Ranchi to Kanpur Route</a>
@@ -1409,6 +1419,6 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </div>
 
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

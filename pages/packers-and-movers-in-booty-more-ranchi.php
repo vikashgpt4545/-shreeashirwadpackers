@@ -24,16 +24,16 @@ include_once __DIR__ . '/../includes/config.php';
     "@context": "https://schema.org",
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Booty More Ranchi",
-    "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-booty-more-ranchi",
-    "telephone": "+91 9835565233",
+    "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+    "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-booty-more-ranchi",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "NH-33 Junction near Ring Road Rotary & BIT Mesra Approach",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Booty More, Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834009",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -71,19 +71,19 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Packers and Movers in Booty More Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-booty-more-ranchi"
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-booty-more-ranchi"
       }
     ]
   }
@@ -421,6 +421,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Booty More</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-btm-wrapper">
   <!-- Hero Section -->
   <section class="hl-btm-hero-section">
@@ -434,7 +447,7 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Packers and Movers in Booty More Ranchi</h1>
         <p>Looking for the <strong>best packers and movers in Booty More Ranchi</strong>? We provide trusted household shifting, BIT Mesra academic relocations, office moving, bike transport, car transport, and complete moving solutions at affordable prices across Booty More, NH-33, Ranchi Ring Road, Booty Basti, and pan-India.</p>
         <p style="font-size: 0.98rem; margin-bottom: 24px; color: #cbd5e1;">Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Booty More and nearby northern Ranchi areas with timely delivery support. As one of the top-rated movers and packers near Booty More, we help families and businesses relocate locally and across Jharkhand without hassle.</p>
-        <a href="tel:+919835565233" class="hl-btm-cta-btn">&#128222; Call Now: +91 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-btm-cta-btn">&#128222; Call Now: +91 8409531615</a>
       </div>
       <div class="hl-btm-hero-card">
         <h3>Fast Moving Estimate</h3>
@@ -442,7 +455,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> NH-33 Junction &amp; Ring Road Rotary, Booty More
         </div>
         <div class="hl-btm-contact-item">
-          <span>Direct Helpline:</span> +91 9835565233
+          <span>Direct Helpline:</span> +91 8409531615
         </div>
         <div class="hl-btm-contact-item">
           <span>Service Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -499,7 +512,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Booty More</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Booty More</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Booty More</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Booty More</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Booty More</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -508,7 +521,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-btm-section">
       <h2>Professional Moving Services at Ranchi's Strategic Northern Gateway</h2>
       <p>Booty More serves as the quintessential northern gateway, premier transit junction, and critical highway logistics interchange of Ranchi. Situated at the dynamic intersection where National Highway 33 (connecting Ranchi with Ramgarh, Hazaribagh, and Patna) intersects directly with the 6-lane Ranchi Ring Road and the arterial Bariatu Road, Booty More is an indispensable transport nexus. In addition to being the prime access portal to the globally renowned Birla Institute of Technology (BIT Mesra) university township, the locality encompasses prestigious residential settlements in Booty Basti, Vikas Vidyalaya approach, commercial godown complexes, automobile service hubs, and modern apartment towers extending north towards Ormanjhi.</p>
-      <p>Relocating around Booty More requires exceptional coordination and high operational agility. The junction experiences heavy regional and interstate vehicular movement, making route timing and specialized vehicle parking essential. Concurrently, academic moves involving university professors and graduating scholars at BIT Mesra demand gentle handling of extensive research libraries, laboratory computers, and fragile household goods. Furthermore, its immediate connectivity to NH-33 and the Ring Road makes Booty More the prime consolidation center for long-distance interstate moves toward Patna, Gaya, Dhanbad, and Kolkata. As the leading <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">movers and packers Ranchi</a>, Shree Ashirwad Packers and Movers has served the Booty More community for over a decade with stellar dedication, ensuring prompt, scratch-free, and completely effortless relocations.</p>
+      <p>Relocating around Booty More requires exceptional coordination and high operational agility. The junction experiences heavy regional and interstate vehicular movement, making route timing and specialized vehicle parking essential. Concurrently, academic moves involving university professors and graduating scholars at BIT Mesra demand gentle handling of extensive research libraries, laboratory computers, and fragile household goods. Furthermore, its immediate connectivity to NH-33 and the Ring Road makes Booty More the prime consolidation center for long-distance interstate moves toward Patna, Gaya, Dhanbad, and Kolkata. As the leading <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has served the Booty More community for over a decade with stellar dedication, ensuring prompt, scratch-free, and completely effortless relocations.</p>
 
       <div style="background: #f8fafc; border-left: 4px solid #f59e0b; padding: 22px; margin: 26px 0; border-radius: 0 8px 8px 0; border: 1px solid #e2e8f0; border-left: 4px solid #f59e0b;">
         <h3 style="font-size: 18px; font-weight: 700; color: #1e40af; margin-top: 0; margin-bottom: 12px;">Top-Rated Moving & Packing Solutions in Booty More</h3>

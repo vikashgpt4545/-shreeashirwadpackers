@@ -15,7 +15,7 @@
 
 // Define page-specific metadata
 $page_title = "Giridih to Bokaro Packers & Movers | Shree Ashirwad Packers";
-$page_description = "Top Giridih to Bokaro packers and movers by Shree Ashirwad. Same-day 5-7 hr transit, GST claim bills, 5-layer packing, car carrier. Call 9835565233.";
+$page_description = "Top Giridih to Bokaro packers and movers by Shree Ashirwad. Same-day 5-7 hr transit, GST claim bills, 5-layer packing, car carrier. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/giridih-to-bokaro-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -694,7 +694,7 @@ require_once __DIR__ . '/includes/seo.php';
     "name": "Shree Ashirwad Packers and Movers - Giridih to Bokaro",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/giridih-to-bokaro-packers-and-movers",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo SECONDARY_PHONE; ?>",
     "priceRange": "₹7,500 - ₹25,000",
     "address": {
       "@type": "PostalAddress",
@@ -908,12 +908,24 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Giridih to Bokaro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Giridih to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Giridih to Bokaro</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Giridih to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Giridih to Bokaro</strong>. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
     </section>
-    <main>
+
+  <!-- Visual Breadcrumb Bar -->
+  <div style="background: #f1f5f9; padding: 10px 0; border-bottom: 1px solid #e2e8f0; font-size: 0.875rem;">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a>
+      <span style="color: #cbd5e1; margin: 0 8px;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #64748b; text-decoration: none;">Bokaro Packers and Movers</a>
+      <span style="color: #cbd5e1; margin: 0 8px;">/</span>
+      <span style="color: #0f172a; font-weight: 600;">Giridih to Bokaro</span>
+    </div>
+  </div>
+
+  <main>
   <!-- Hero Section -->
   <section class="grd2b-hero">
     <div class="grd2b-hero-container">
@@ -949,9 +961,9 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
 
         <div class="grd2b-hero-cta">
-          <a href="tel:9835565233" class="grd2b-btn-primary">
+          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="grd2b-btn-primary">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Call Now: 9835565233
+            Call Now: <?php echo SECONDARY_PHONE; ?>
           </a>
           <a href="#tariff-table" class="grd2b-btn-secondary">
             View Shifting Rates &rarr;
@@ -969,9 +981,9 @@ require_once __DIR__ . '/includes/seo.php';
         <span>Relocating from Makatpur, Barganda, Sirsia, or Bada Chowk Giridih to Bokaro?</span> Same-day shifting with zero damage guarantee!
       </div>
       <div class="grd2b-strip-actions">
-        <a href="tel:9835565233" class="grd2b-strip-phone">
+        <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="grd2b-strip-phone">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-          9835565233
+          <?php echo SECONDARY_PHONE; ?>
         </a>
       </div>
     </div>
@@ -1518,9 +1530,11 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our industrial and interdistrict relocation network linking Giridih and Bokaro with major Jharkhand centers:
         </p>
         <div class="grd2b-cluster-links">
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="grd2b-cluster-link">Bokaro Hub Main Page</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-giridih-packers-and-movers" class="grd2b-cluster-link">Bokaro to Giridih (Return Route)</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" class="grd2b-cluster-link">Sector 4 Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" class="grd2b-cluster-link">Chas Bokaro</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-giridih" class="grd2b-cluster-link">Giridih Hub</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="grd2b-cluster-link">Bokaro Hub</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-giridih-packers-and-movers" class="grd2b-cluster-link">Bokaro to Giridih</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" class="grd2b-cluster-link">Bokaro to Dhanbad</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" class="grd2b-cluster-link">Bokaro to Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="grd2b-cluster-link">Cost Calculator &amp; Rates</a>

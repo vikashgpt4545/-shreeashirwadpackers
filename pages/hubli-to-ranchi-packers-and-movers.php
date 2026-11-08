@@ -13,9 +13,11 @@ $page_description = "Reliable Hubli (Hubballi-Dharwad) to Ranchi packers and mov
 $canonical_url = "https://www.shreeashirwadpackers.com/hubli-to-ranchi-packers-and-movers";
 $page_keywords = "hubli to ranchi packers and movers, packers and movers hubballi to ranchi, household shifting hubli to ranchi, car carrier hubli to ranchi, bike courier dharwad to ranchi, return movers hubli to ranchi, swr employee relocation to ranchi, iit dharwad to ranchi movers";
 
-$current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -61,12 +63,12 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "description": "Professional inbound intercity relocation service connecting Hubli-Dharwad / Hubballi (Karnataka) to Ranchi (Jharkhand). Expert household moving, automobile transportation, corporate returns, and all-risk transit insurance.",
-        "telephone": "+91-9835565233",
-        "alternateTelephone": "+91-9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "alternateTelephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Road, Near Overbridge",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -114,13 +116,13 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Intercity Routes",
-                "item": "<?php echo SITE_BASE_URL; ?>/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Hubli to Ranchi Packers and Movers",
+                "name": "Hubli to Ranchi",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -135,7 +137,9 @@ require_once __DIR__ . '/../includes/seo.php';
         "serviceType": "Intercity Packers and Movers",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+            "url": "<?php echo SITE_BASE_URL; ?>/"
         },
         "areaServed": {
             "@type": "City",
@@ -562,7 +566,22 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumbs Bar -->
+<div class="breadcrumb-wrapper" style="background: #f1f5f9; padding: 10px 0; border-bottom: 1px solid #e2e8f0; font-size: 0.88rem;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="list-style: none; display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; align-items: center; color: #64748b;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;">Home</a></li>
+                <li><span>&rsaquo;</span></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li><span>&rsaquo;</span></li>
+                <li style="color: #1e293b; font-weight: 600;" aria-current="page">Hubli to Ranchi</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- Hero Section -->
 <header class="hubr-hero">
@@ -994,7 +1013,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

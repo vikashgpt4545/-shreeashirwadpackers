@@ -173,7 +173,7 @@ require_once __DIR__ . '/includes/seo.php';
         "name": "What is the cost of shipping a hatchback or SUV from Bokaro to Kolkata or Bangalore?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Shipping a standard hatchback from Bokaro to Kolkata costs approximately ₹5,500 to ₹7,500, while a mid-size SUV costs ₹7,500 to ₹9,500. Long-distance transit from Bokaro to Bangalore ranges from ₹14,500 to ₹18,500 for hatchbacks and ₹18,000 to ₹23,000 for large SUVs or luxury vehicles."
+          "text": "Shipping a standard hatchback via enclosed carrier from Bokaro to Kolkata costs approximately ₹9,500 to ₹11,500, while a mid-size SUV costs ₹12,000 to ₹14,500. Long-distance transit from Bokaro to Bangalore ranges from ₹18,500 to ₹22,000 for hatchbacks and ₹23,000 to ₹28,000 for large SUVs or luxury vehicles."
         }
       },
       {
@@ -414,50 +414,52 @@ require_once __DIR__ . '/includes/seo.php';
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">
                     <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #0284c7; text-decoration: none;">Bokaro to Ranchi</a>
                   </td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹4,500 - ₹5,500</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹5,500 - ₹6,500</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹6,500 - ₹8,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹6,000 - ₹7,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹7,000 - ₹8,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹8,000 - ₹9,500</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">Same Day / 24 Hrs</td>
                 </tr>
                 <tr style="background: #f8fafc;">
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">
                     <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color: #0284c7; text-decoration: none;">Bokaro to Kolkata</a>
                   </td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹6,000 - ₹7,500</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹7,500 - ₹9,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹9,000 - ₹11,500</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹9,500 - ₹11,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹11,000 - ₹12,500</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹12,500 - ₹14,500</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">2 - 3 Days</td>
                 </tr>
                 <tr style="background: #ffffff;">
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">
                     <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color: #0284c7; text-decoration: none;">Bokaro to Patna</a>
                   </td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹7,000 - ₹8,500</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹8,500 - ₹10,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹10,500 - ₹13,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹10,000 - ₹11,500</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹11,500 - ₹13,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹13,000 - ₹15,000</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">2 - 4 Days</td>
                 </tr>
                 <tr style="background: #f8fafc;">
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color: #0284c7; text-decoration: none;">Bokaro to Bangalore</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" style="color: #0284c7; text-decoration: none;">Bokaro to Bangalore</a>
                   </td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹14,500 - ₹17,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹17,000 - ₹20,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹20,500 - ₹25,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹18,500 - ₹21,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹21,000 - ₹24,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹24,000 - ₹28,000</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">6 - 8 Days</td>
                 </tr>
                 <tr style="background: #ffffff;">
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Bokaro to Delhi NCR</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹11,000 - ₹13,500</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹13,500 - ₹16,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹16,500 - ₹20,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" style="color: #0284c7; text-decoration: none;">Bokaro to Delhi NCR</a>
+                  </td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹15,500 - ₹18,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹18,000 - ₹20,500</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹20,500 - ₹24,000</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">4 - 6 Days</td>
                 </tr>
                 <tr style="background: #f8fafc;">
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0; font-weight: 600;">Bokaro to Pune / Mumbai</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹13,500 - ₹16,000</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹16,000 - ₹18,500</td>
-                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹19,000 - ₹23,500</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹17,500 - ₹20,000</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹20,000 - ₹22,500</td>
+                  <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">₹22,500 - ₹26,500</td>
                   <td style="padding: 12px 16px; border: 1px solid #e2e8f0;">5 - 7 Days</td>
                 </tr>
               </tbody>
@@ -578,7 +580,7 @@ require_once __DIR__ . '/includes/seo.php';
 
             <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; background: #ffffff;">
               <h3 style="font-size: 1.1rem; color: #0f223d; font-weight: 700; margin-bottom: 8px;">What is the cost of shipping a hatchback or SUV from Bokaro to Kolkata or Bangalore?</h3>
-              <p style="font-size: 0.95rem; line-height: 1.7; color: #475569; margin: 0;">Shipping a standard hatchback from Bokaro to Kolkata costs approximately ₹5,500 to ₹7,500, while a mid-size SUV costs ₹7,500 to ₹9,500. Long-distance transit from Bokaro to Bangalore ranges from ₹14,500 to ₹18,500 for hatchbacks and ₹18,000 to ₹23,000 for large SUVs or luxury vehicles.</p>
+              <p style="font-size: 0.95rem; line-height: 1.7; color: #475569; margin: 0;">Shipping a standard hatchback via enclosed carrier from Bokaro to Kolkata costs approximately ₹9,500 to ₹11,500, while a mid-size SUV costs ₹12,000 to ₹14,500. Long-distance transit from Bokaro to Bangalore ranges from ₹18,500 to ₹22,000 for hatchbacks and ₹23,000 to ₹28,000 for large SUVs or luxury vehicles.</p>
             </div>
 
             <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; background: #ffffff;">
@@ -652,11 +654,15 @@ require_once __DIR__ . '/includes/seo.php';
             <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Household Shifting in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color: #ff6a28; text-decoration: none; background: #fff7ed; padding: 9px 15px; border-radius: 6px; font-weight: 700; border: 1px solid #fed7aa;">Car Transport in Bokaro (Current)</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bike Transport in Bokaro</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 4 Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 12 Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers &amp; Movers in Chas</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Ranchi Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Dhanbad Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Kolkata Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bangalore to Bokaro Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Patna Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Dhanbad to Bokaro Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Delhi Movers</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Bangalore Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro Shifting Guide</a>
           </div>
         </section>

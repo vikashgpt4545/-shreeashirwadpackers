@@ -15,8 +15,11 @@ $page_title = "Ranchi to Faridabad Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Faridabad packers and movers by Shree Ashirwad. Express transit via NH-19, Escorts & JCB bills, Neharpar delivery. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-faridabad-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ranchi",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,000 - ₹56,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -161,7 +164,9 @@ require_once __DIR__ . '/includes/seo.php';
     "serviceType": "Interstate Relocation, Corporate Shifting, Vehicle Transport",
     "provider": {
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers"
+      "name": "Shree Ashirwad Packers and Movers",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+      "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": [
       {
@@ -966,7 +971,7 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
 <main class="r2fbd-scope">
   <!-- Hero Section -->
@@ -976,7 +981,7 @@ require_once __DIR__ . '/includes/seo.php';
         <!-- Breadcrumb Bar -->
         <nav class="r2fbd-breadcrumbs" aria-label="breadcrumb">
           <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &gt;
-          <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a> &gt;
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> &gt;
           <span>Ranchi to Faridabad Packers and Movers</span>
         </nav>
 
@@ -1014,11 +1019,11 @@ require_once __DIR__ . '/includes/seo.php';
 
         <!-- Call to Action Buttons -->
         <div class="r2fbd-cta-row">
-          <a href="tel:9835565233" class="r2fbd-btn-primary">
-            📞 Call Direct: +91 9835565233
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2fbd-btn-primary">
+            📞 Call Direct: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
-          <a href="https://wa.me/919835565233?text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20relocation%20quote%20for%20Ranchi%20to%20Faridabad" class="r2fbd-btn-secondary" target="_blank" rel="noopener noreferrer">
-            💬 WhatsApp Survey: +91 9835565233
+          <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20relocation%20quote%20for%20Ranchi%20to%20Faridabad" class="r2fbd-btn-secondary" target="_blank" rel="noopener noreferrer">
+            💬 WhatsApp Survey: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
         </div>
       </div>
@@ -1060,7 +1065,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Faridabad</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Faridabad</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Faridabad</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Faridabad</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Faridabad</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1564,7 +1569,8 @@ require_once __DIR__ . '/includes/seo.php';
           Explore our complete interstate moving network connecting Ranchi to premier national destinations:
         </p>
         <div class="r2fbd-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/faridabad-to-ranchi-packers-and-movers">Faridabad to Ranchi (Inbound Return)</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-meerut-packers-and-movers">Ranchi to Meerut</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-haridwar-packers-and-movers">Ranchi to Haridwar</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-dehradun-packers-and-movers">Ranchi to Dehradun</a>
@@ -1583,7 +1589,7 @@ require_once __DIR__ . '/includes/seo.php';
   </section>
 </main>
 
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -14,7 +14,7 @@
 
 // Define page-specific metadata
 $page_title = "Delhi to Bokaro Packers & Movers | Shree Ashirwad Packers";
-$page_description = "Top Delhi to Bokaro packers and movers by Shree Ashirwad. 3-4 day express transit, SAIL/PSU approved claim bills, 5-layer packing, car carrier. Call 9835565233.";
+$page_description = "Top Delhi to Bokaro packers and movers by Shree Ashirwad. 3-4 day express transit, SAIL/PSU approved claim bills, 5-layer packing, car carrier. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/delhi-to-bokaro-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -693,7 +693,7 @@ require_once __DIR__ . '/includes/seo.php';
     "name": "Shree Ashirwad Packers and Movers - Delhi to Bokaro",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/delhi-to-bokaro-packers-and-movers",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo SECONDARY_PHONE; ?>",
     "priceRange": "₹28,000 - ₹95,000",
     "address": {
       "@type": "PostalAddress",
@@ -872,8 +872,18 @@ require_once __DIR__ . '/includes/seo.php';
 
 <?php include_once __DIR__ . '/includes/header.php'; ?>
 
-    
-    <main>
+  <!-- Visual Breadcrumb Bar -->
+  <div style="background: #f1f5f9; padding: 10px 0; border-bottom: 1px solid #e2e8f0; font-size: 0.875rem;">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a>
+      <span style="color: #cbd5e1; margin: 0 8px;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #64748b; text-decoration: none;">Bokaro Packers and Movers</a>
+      <span style="color: #cbd5e1; margin: 0 8px;">/</span>
+      <span style="color: #0f172a; font-weight: 600;">Delhi to Bokaro</span>
+    </div>
+  </div>
+
+  <main>
   <!-- Hero Section -->
   <section class="d2bko-hero">
     <div class="d2bko-hero-container">
@@ -909,9 +919,9 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
 
         <div class="d2bko-hero-cta">
-          <a href="tel:9835565233" class="d2bko-btn-primary">
+          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="d2bko-btn-primary">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Call Now: 9835565233
+            Call Now: <?php echo SECONDARY_PHONE; ?>
           </a>
           <a href="#tariff-table" class="d2bko-btn-secondary">
             View Shifting Rates &rarr;
@@ -956,7 +966,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Delhi to Bokaro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Delhi to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Delhi to Bokaro</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Delhi to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Delhi to Bokaro</strong>. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -975,9 +985,9 @@ require_once __DIR__ . '/includes/seo.php';
         <span>Relocating from Delhi NCR to Bokaro Steel City, Sector 4, or Chira Chas?</span> Fast 3–4 day delivery with zero transshipment guarantee!
       </div>
       <div class="d2bko-strip-actions">
-        <a href="tel:9835565233" class="d2bko-strip-phone">
+        <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="d2bko-strip-phone">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-          9835565233
+          <?php echo SECONDARY_PHONE; ?>
         </a>
       </div>
     </div>
@@ -1524,12 +1534,13 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our industrial and long-haul relocation network linking Bokaro with major metropolitan hubs across India:
         </p>
         <div class="d2bko-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="d2bko-cluster-link">Bokaro Hub</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" class="d2bko-cluster-link">Bokaro to Delhi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="d2bko-cluster-link">Bokaro Hub Main Page</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" class="d2bko-cluster-link">Bokaro to Delhi (Return Route)</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" class="d2bko-cluster-link">Sector 4 Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" class="d2bko-cluster-link">Chas Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" class="d2bko-cluster-link">Bokaro to Kolkata</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" class="d2bko-cluster-link">Bokaro to Bangalore</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-pune-packers-and-movers" class="d2bko-cluster-link">Bokaro to Pune</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-hyderabad-packers-and-movers" class="d2bko-cluster-link">Bokaro to Hyderabad</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-durgapur-packers-and-movers" class="d2bko-cluster-link">Bokaro to Durgapur</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-mumbai-packers-and-movers" class="d2bko-cluster-link">Bokaro to Mumbai</a>
           <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="d2bko-cluster-link">Cost Calculator &amp; Rates</a>
         </div>
       </div>

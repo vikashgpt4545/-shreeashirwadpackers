@@ -14,8 +14,11 @@ $page_title = "Mumbai to Ranchi Packers & Movers | Shree Ashirwad";
 $page_description = "Top Mumbai to Ranchi packers and movers by Shree Ashirwad. Express 4-day transit via Samruddhi/NH-53, BKC/PSU transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/mumbai-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -68,13 +71,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,800 - ₹72,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -329,6 +332,7 @@ require_once __DIR__ . '/includes/seo.php';
       color: #fbbf24;
       background: linear-gradient(120deg, #fef08a, #f59e0b);
       -webkit-background-clip: text;
+      background-clip: text;
       -webkit-text-fill-color: transparent;
     }
     .m2r-hero-desc {
@@ -878,11 +882,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body class="m2r-page-wrapper">
 
-<?php include_once __DIR__ . '/includes/header.php'; ?>
+<?php include_once BASE_PATH . '/includes/header.php'; ?>
 
 <!-- Hero Section -->
 <section class="m2r-hero-section">
   <div class="m2r-hero-container">
+    <nav class="m2r-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+      <span style="color:#64748b;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+      <span style="color:#64748b;">/</span>
+      <span style="color:#fde047; font-weight:600;">Mumbai to Ranchi</span>
+    </nav>
     <div class="m2r-hero-tagline">
       <span>India’s Financial Capital to Jharkhand Capital</span> • Express 4-Day Linehaul
     </div>
@@ -914,11 +925,11 @@ require_once __DIR__ . '/includes/seo.php';
 
     <!-- Action Buttons -->
     <div class="m2r-hero-cta">
-      <a href="tel:+919835565233" class="m2r-btn-primary">
-        📞 Call +91-9835565233
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="m2r-btn-primary">
+        📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
       </a>
-      <a href="tel:+919835565233" class="m2r-btn-secondary">
-        📱 WhatsApp +91-9835565233
+      <a href="<?php echo WHATSAPP_LINK; ?>" class="m2r-btn-secondary" target="_blank" rel="noopener">
+        📱 Instant WhatsApp Quote
       </a>
     </div>
   </div>
@@ -959,7 +970,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Mumbai to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Mumbai to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Mumbai to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Mumbai to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Mumbai to Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1473,8 +1484,11 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="m2r-cluster-box">
       <h3 class="m2r-cluster-title">Explore Related Interstate & Regional Moving Corridors</h3>
       <div class="m2r-links-grid">
-        <a href="<?php echo SITE_BASE_URL; ?>/" class="m2r-cluster-link">
-          📍 Ranchi Movers Headquarters
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="m2r-cluster-link" style="color:#facc15; font-weight:700;">
+          📍 Packers and Movers in Ranchi Hub
+        </a>
+        <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-mumbai-packers-and-movers" class="m2r-cluster-link" style="color:#facc15; font-weight:700;">
+          🚚 Ranchi to Mumbai Return Route
         </a>
         <a href="<?php echo SITE_BASE_URL; ?>/pune-to-ranchi-packers-and-movers" class="m2r-cluster-link">
           🚚 Pune to Ranchi Movers
@@ -1519,18 +1533,18 @@ require_once __DIR__ . '/includes/seo.php';
         Get an upfront written quotation, free home survey, and dedicated linehaul truck booking with Shree Ashirwad Packers and Movers. Experience stress-free relocation with guaranteed on-time delivery.
       </p>
       <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-        <a href="tel:+919835565233" class="m2r-btn-primary" style="background: #ffffff; color: #172554;">
-          📞 Call +91-9835565233
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="m2r-btn-primary" style="background: #ffffff; color: #172554;">
+          📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
         </a>
-        <a href="tel:+919835565233" class="m2r-btn-secondary" style="border-color: #ffffff; color: #ffffff;">
-          📱 WhatsApp +91-9835565233
+        <a href="<?php echo WHATSAPP_LINK; ?>" class="m2r-btn-secondary" style="border-color: #ffffff; color: #ffffff;" target="_blank" rel="noopener">
+          📱 Instant WhatsApp Quote
         </a>
       </div>
     </div>
   </div>
 </section>
 
-<?php include_once __DIR__ . '/includes/footer.php'; ?>
+<?php include_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

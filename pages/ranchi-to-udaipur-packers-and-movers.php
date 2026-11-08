@@ -18,8 +18,12 @@ $page_title = "Ranchi to Udaipur Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Ranchi to Udaipur packers and movers by Shree Ashirwad. 52-65 hr transit, corporate mining bills, 5-layer packing, car carrier. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-udaipur-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+$current_page = 'services';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -691,14 +695,18 @@ require_once __DIR__ . '/includes/seo.php';
   {
     "@context": "https://schema.org",
     "@type": "MovingCompany",
-    "name": "Shree Ashirwad Packers and Movers - Ranchi to Udaipur",
+    "@id": "https://www.shreeashirwadpackers.com/#organization",
+    "name": "Shree Ashirwad Packers and Movers",
+    "url": "https://www.shreeashirwadpackers.com",
+    "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "url": "https://www.shreeashirwadpackers.com/ranchi-to-udaipur-packers-and-movers",
-    "telephone": "+91-9835565233",
-    "priceRange": "₹21,000 - ₹62,000",
+    "description": "Professional inter-state relocation specialists providing door-to-door shifting, container linehaul, vehicle transportation, and transit insurance between Ranchi and Udaipur.",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
+    "priceRange": "₹₹",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -709,16 +717,22 @@ require_once __DIR__ . '/includes/seo.php';
       "latitude": 23.3441,
       "longitude": 85.3096
     },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Ranchi"
+      },
+      {
+        "@type": "City",
+        "name": "Udaipur"
+      }
+    ],
     "openingHoursSpecification": {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-      "opens": "07:00",
-      "closes": "21:30"
-    },
-    "sameAs": [
-      "https://www.facebook.com/shreeashirwadpackers",
-      "https://www.instagram.com/shreeashirwadpackers"
-    ]
+      "opens": "00:00",
+      "closes": "23:59"
+    }
   }
   </script>
 
@@ -751,6 +765,7 @@ require_once __DIR__ . '/includes/seo.php';
   {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
+    "@id": "https://www.shreeashirwadpackers.com/ranchi-to-udaipur-packers-and-movers#breadcrumb",
     "itemListElement": [
       {
         "@type": "ListItem",
@@ -761,8 +776,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Routes",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -871,7 +886,20 @@ require_once __DIR__ . '/includes/seo.php';
 
 <body class="r2udp-wrapper">
 
-<?php include_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Udaipur</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
     
     <main>
@@ -1538,7 +1566,7 @@ require_once __DIR__ . '/includes/seo.php';
   </section>
 </main>
 
-<?php include_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

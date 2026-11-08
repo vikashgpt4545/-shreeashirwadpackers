@@ -14,7 +14,7 @@
 
 // Define page-specific metadata
 $page_title = "Jamshedpur to Bokaro Packers & Movers | Shree Ashirwad Packers";
-$page_description = "Top Jamshedpur to Bokaro packers and movers by Shree Ashirwad. Same-day 6-8 hr transit, Tata & SAIL bills, 5-layer packing, car carrier. Call 9835565233.";
+$page_description = "Top Jamshedpur to Bokaro packers and movers by Shree Ashirwad. Same-day 6-8 hr transit, Tata & SAIL bills, 5-layer packing, car carrier. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/jamshedpur-to-bokaro-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -693,7 +693,7 @@ require_once __DIR__ . '/includes/seo.php';
     "name": "Shree Ashirwad Packers and Movers - Jamshedpur to Bokaro",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/jamshedpur-to-bokaro-packers-and-movers",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo SECONDARY_PHONE; ?>",
     "priceRange": "₹8,500 - ₹28,000",
     "address": {
       "@type": "PostalAddress",
@@ -907,7 +907,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Jamshedpur to Bokaro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Jamshedpur to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Jamshedpur to Bokaro</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Jamshedpur to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Jamshedpur to Bokaro</strong>. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -917,6 +917,12 @@ require_once __DIR__ . '/includes/seo.php';
   <section class="jsr2b-hero">
     <div class="jsr2b-hero-container">
       <div>
+        <nav style="margin-bottom: 18px; font-size: 0.9rem;" aria-label="breadcrumb">
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a> &raquo; 
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur" style="color: #93c5fd; text-decoration: none;">Jamshedpur Packers and Movers</a> &raquo; 
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #93c5fd; text-decoration: none;">Bokaro Steel City</a> &raquo; 
+          <span style="color: #ffffff;">Jamshedpur to Bokaro</span>
+        </nav>
         <div class="jsr2b-hero-badge">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
           Direct Steel Capital Corridor: Jamshedpur &rarr; Bokaro
@@ -948,9 +954,9 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
 
         <div class="jsr2b-hero-cta">
-          <a href="tel:9835565233" class="jsr2b-btn-primary">
+          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="jsr2b-btn-primary">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Call Now: 9835565233
+            Call Now: <?php echo SECONDARY_PHONE; ?>
           </a>
           <a href="#tariff-table" class="jsr2b-btn-secondary">
             View Shifting Rates &rarr;
@@ -968,9 +974,9 @@ require_once __DIR__ . '/includes/seo.php';
         <span>Relocating from Bistupur, Sakchi, Kadma, or Telco Colony to Bokaro Steel City?</span> Same-day shifting with zero damage guarantee!
       </div>
       <div class="jsr2b-strip-actions">
-        <a href="tel:9835565233" class="jsr2b-strip-phone">
+        <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="jsr2b-strip-phone">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-          9835565233
+          <?php echo SECONDARY_PHONE; ?>
         </a>
       </div>
     </div>
@@ -1517,12 +1523,13 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our industrial and interdistrict relocation network linking Jamshedpur and Bokaro with major Jharkhand centers:
         </p>
         <div class="jsr2b-cluster-links">
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="jsr2b-cluster-link">Bokaro Hub Main Page</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-jamshedpur-packers-and-movers" class="jsr2b-cluster-link">Bokaro to Jamshedpur (Return Route)</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" class="jsr2b-cluster-link">Sector 4 Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" class="jsr2b-cluster-link">Chas Bokaro</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur" class="jsr2b-cluster-link">Jamshedpur Hub</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="jsr2b-cluster-link">Bokaro Hub</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-jamshedpur-packers-and-movers" class="jsr2b-cluster-link">Bokaro to Jamshedpur</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" class="jsr2b-cluster-link">Bokaro to Dhanbad</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" class="jsr2b-cluster-link">Bokaro to Ranchi</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="jsr2b-cluster-link">Cost Calculator &amp; Rates</a>
         </div>
       </div>
     </div>

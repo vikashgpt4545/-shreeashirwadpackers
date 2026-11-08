@@ -12,8 +12,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/navi-mumbai-to-ranchi-pac
 $page_keywords = "navi mumbai to ranchi packers and movers, packers and movers navi mumbai to ranchi, household shifting navi mumbai to ranchi, car transport navi mumbai to ranchi, luggage courier navi mumbai to ranchi";
 
 $current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -70,16 +73,21 @@ require_once __DIR__ . '/../includes/seo.php';
       "name": "Shree Ashirwad Packers and Movers",
       "url": "https://www.shreeashirwadpackers.com",
       "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
-      "telephone": "+918409531615",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "email": "enquiry@shreeashirwadpackers.com",
       "priceRange": "₹₹₹",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Harmu Road, Near Sahajanand Chowk",
+        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
         "postalCode": "834002",
         "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.3441,
+        "longitude": 85.3096
       }
     },
     {
@@ -95,7 +103,13 @@ require_once __DIR__ . '/../includes/seo.php';
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Navi Mumbai to Ranchi Relocation",
+          "name": "Packers and Movers in Ranchi",
+          "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Navi Mumbai to Ranchi",
           "item": "https://www.shreeashirwadpackers.com/navi-mumbai-to-ranchi-packers-and-movers"
         }
       ]
@@ -172,7 +186,20 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Navi Mumbai to Ranchi</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 <!-- Breadcrumb Section -->
 <section class="breadcrumb-area" style="background-color: #0b2545; padding: 25px 0;">
   <div class="container">
@@ -694,7 +721,7 @@ require_once __DIR__ . '/../includes/seo.php';
   </div>
 </section>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

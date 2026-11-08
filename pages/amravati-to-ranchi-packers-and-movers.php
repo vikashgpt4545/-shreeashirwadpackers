@@ -5,9 +5,11 @@
  * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Amravati to Ranchi.
  * Focus Keywords: amravati to ranchi packers and movers, packers and movers amravati to ranchi, house shifting amravati to ranchi, car carrier amravati to ranchi, bike transport amravati to ranchi, household moving amravati ranchi
  */
-if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/includes/config.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
 }
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Amravati to Ranchi Packers and Movers | Reliable Shifting Services";
 $page_desc = "Safe Amravati to Ranchi packers and movers. 920 km direct transit via NH-53 & NH-43 / NH-20, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
@@ -373,7 +375,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/amravati-to-ranchi-packer
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
@@ -423,7 +426,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/amravati-to-ranchi-packer
         "serviceType": "Interstate Relocation & Household Shifting",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+            "url": "<?php echo SITE_BASE_URL; ?>/"
         },
         "areaServed": {
             "@type": "City",
@@ -474,13 +479,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/amravati-to-ranchi-packer
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
+                "name": "Packers and Movers in Ranchi",
                 "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Amravati to Ranchi Shifting",
+                "name": "Amravati to Ranchi",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -582,7 +587,22 @@ $canonical_url = "https://www.shreeashirwadpackers.com/amravati-to-ranchi-packer
 </head>
 <body>
 
-<?php include __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumbs Bar -->
+<div class="breadcrumb-wrapper" style="background: #f1f5f9; padding: 10px 0; border-bottom: 1px solid #e2e8f0; font-size: 0.88rem;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="list-style: none; display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; align-items: center; color: #64748b;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;">Home</a></li>
+                <li><span>&rsaquo;</span></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li><span>&rsaquo;</span></li>
+                <li style="color: #1e293b; font-weight: 600;" aria-current="page">Amravati to Ranchi</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- Hero Section -->
 <section class="c_amr_ran-hero">
@@ -1116,6 +1136,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/amravati-to-ranchi-packer
     </div>
 </section>
 
-<?php include __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

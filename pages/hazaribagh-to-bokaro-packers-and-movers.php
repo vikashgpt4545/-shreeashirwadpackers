@@ -12,7 +12,7 @@ require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
 $page_title = "Hazaribagh to Bokaro Packers and Movers - 9835565233 | Shree Ashirwad";
-$page_description = "Top Hazaribagh to Bokaro packers and movers by Shree Ashirwad Packers. Express 2.5-3.5 hr transit via NH-522, 5-layer packing, SAIL/CCL employee bills. Call 9835565233.";
+$page_description = "Top Hazaribagh to Bokaro packers and movers by Shree Ashirwad Packers. Express 2.5-3.5 hr transit via NH-522, 5-layer packing, SAIL/CCL employee bills. Call 8409531615.";
 $canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/hazaribagh-to-bokaro-packers-and-movers";
 $meta_keywords = "hazaribagh to bokaro packers and movers, packers and movers hazaribagh to bokaro, hazaribagh to chas movers, house shifting hazaribagh to bokaro, sail bokaro employee shifting, ccl shifting hazaribagh to bokaro, iba approved packers in hazaribagh";
 ?>
@@ -88,7 +88,7 @@ $meta_keywords = "hazaribagh to bokaro packers and movers, packers and movers ha
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo SECONDARY_PHONE; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "hazaribagh to bokaro packers and movers, packers and movers hazaribagh to bokaro, hazaribagh to chas movers",
@@ -137,7 +137,7 @@ $meta_keywords = "hazaribagh to bokaro packers and movers, packers and movers ha
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+919835565233",
+      "telephone": "<?php echo SECONDARY_PHONE; ?>",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/"
     },
     "areaServed": [
@@ -325,7 +325,7 @@ $meta_keywords = "hazaribagh to bokaro packers and movers, packers and movers ha
         <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
           <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35);">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Bokaro Route Desk: 9835565233
+            Call Bokaro Route Desk: <?php echo SECONDARY_PHONE; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px);">
             WhatsApp Free Quote &rarr;
@@ -772,7 +772,7 @@ $meta_keywords = "hazaribagh to bokaro packers and movers, packers and movers ha
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
           <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="background: #ff6a28; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(255, 106, 40, 0.4);">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call: 9835565233
+            Call: <?php echo SECONDARY_PHONE; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener" style="background: #25d366; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 9px; font-size: 15px; box-shadow: 0 4px 14px rgba(37, 211, 102, 0.35);">
             <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-5.46-4.45-9.92-9.91-9.92zM12.04 20.08c-1.48 0-2.93-.4-4.2-1.15l-.3-.18-3.12.82.83-3.04-.2-.31c-.82-1.31-1.26-2.83-1.26-4.39 0-4.49 3.65-8.14 8.14-8.14 4.49 0 8.14 3.65 8.14 8.14 0 4.49-3.65 8.14-8.14 8.14zm4.46-6.1c-.24-.12-1.45-.72-1.67-.8-.23-.09-.39-.12-.56.12-.17.24-.65.8-.8 1.04-.15.24-.3.27-.55.15-.24-.12-1.03-.38-1.96-1.21-.73-.65-1.22-1.45-1.36-1.7-.14-.24-.01-.38.11-.5.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.17.04-.31-.02-.43s-.56-1.35-.77-1.85c-.2-.49-.41-.42-.56-.43h-.48c-.16 0-.43.06-.66.31-.23.24-.88.86-.88 2.1 0 1.23.9 2.42 1.02 2.59.13.17 1.77 2.7 4.29 3.79.6.26 1.07.41 1.44.53.6.19 1.15.16 1.58.1.48-.07 1.45-.59 1.66-1.16.2-.57.2-1.06.14-1.16-.06-.1-.23-.16-.48-.28z"/></svg>
@@ -784,19 +784,19 @@ $meta_keywords = "hazaribagh to bokaro packers and movers, packers and movers ha
       <!-- Section 9: Cross-Linking Cluster Navigation -->
       <section style="background:#ffffff; padding:35px 25px; border-radius:12px; border:1px solid #e2e8f0;">
         <h3 style="font-size:1.25rem; color:#0f223d; font-weight:800; margin-bottom:16px;">
-          Related Hazaribagh Relocation Routes &amp; Moving Services
+          Related Hazaribagh &amp; Bokaro Relocation Routes
         </h3>
         <div style="display:flex; flex-wrap:wrap; gap:12px; font-size:0.9rem;">
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color:#0284c7; text-decoration:none; background:#eff6ff; padding:8px 14px; border-radius:6px; font-weight:700;">Bokaro Hub Main Page &rarr;</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-hazaribagh-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#eff6ff; padding:8px 14px; border-radius:6px; font-weight:700;">Bokaro to Hazaribagh (Return Route) &rarr;</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Sector 4 Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Chas Bokaro</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hazaribagh" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Packers and Movers in Hazaribagh</a>
           <a href="<?php echo SITE_BASE_URL; ?>/hazaribagh-to-ranchi-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Hazaribagh to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/hazaribagh-to-patna-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Hazaribagh to Patna Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-hazaribagh" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">From Bangalore to Hazaribagh</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-hazaribagh" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Household Shifting in Hazaribagh</a>
           <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-hazaribagh" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Car Transport Hazaribagh</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-hazaribagh" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Bike Transport Hazaribagh</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/hazaribagh-to-kolkata-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Hazaribagh to Kolkata Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/hazaribagh-to-delhi-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Hazaribagh to Delhi Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-hazaribagh" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:8px 14px; border-radius:6px; font-weight:600;">Hazaribagh Shifting Guide</a>
         </div>
       </section>
 

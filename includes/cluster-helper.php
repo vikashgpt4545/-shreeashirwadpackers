@@ -146,6 +146,14 @@ $jharkhand_district_clusters = [
                 'name' => 'Phusro',
                 'url' => '/packers-and-movers-in-phusro'
             ],
+            'sector-4-bokaro' => [
+                'name' => 'Sector 4 Bokaro',
+                'url' => '/packers-and-movers-in-sector-4-bokaro'
+            ],
+            'sector-12-bokaro' => [
+                'name' => 'Sector 12 Bokaro',
+                'url' => '/packers-and-movers-in-sector-12-bokaro'
+            ],
         ]
     ],
     'jamshedpur' => [
@@ -792,7 +800,7 @@ function render_contextual_district_cluster() {
             $c_name = htmlspecialchars($c_info['name'], ENT_QUOTES, 'UTF-8');
             $c_link = $base_url . $c_info['url'];
             echo '      <a href="' . $c_link . '" title="Packers and Movers in ' . $c_name . '" style="background:#ffffff; border:1px solid #cbd5e1; color:#1e3a8a; padding:8px 16px; border-radius:24px; font-size:13.5px; font-weight:600; text-decoration:none; transition:all 0.2s ease; display:inline-flex; align-items:center; gap:6px; box-shadow:0 1px 3px rgba(0,0,0,0.05);">' . "\n";
-            echo '        <i class="fa-solid fa-location-dot" style="font-size:11px; color:#ff6a28;"></i> ' . $c_name . "\n";
+            echo '        <svg viewBox="0 0 24 24" width="12" height="12" fill="#ff6a28" aria-hidden="true"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 010-5 2.5 2.5 0 010 5z"/></svg> ' . $c_name . "\n";
             echo '      </a>' . "\n";
         }
         echo '    </div>' . "\n";
@@ -810,7 +818,7 @@ function render_contextual_district_cluster() {
         
         // Parent District HQ Link (Prominently styled)
         echo '      <a href="' . $d_url . '" title="Packers and Movers in ' . $d_name . ' (District Headquarters)" style="background:#1e3a8a; border:1px solid #1e3a8a; color:#ffffff; padding:10px 20px; border-radius:24px; font-size:14px; font-weight:700; text-decoration:none; display:inline-flex; align-items:center; gap:8px; box-shadow:0 2px 8px rgba(30,58,138,0.25);">' . "\n";
-        echo '        <i class="fa-solid fa-city" style="color:#f39c12;"></i> ' . $d_name . ' (District HQ)' . "\n";
+        echo '        <svg viewBox="0 0 24 24" width="14" height="14" fill="#f39c12" aria-hidden="true"><path d="M15 11V5l-3-3-3 3v2H3v14h18V11h-6zm-8 8H5v-2h2v2zm0-4H5v-2h2v2zm0-4H5V9h2v2zm6 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V9h2v2zm0-4h-2V5h2v2zm6 12h-2v-2h2v2zm0-4h-2v-2h2v2z"/></svg> ' . $d_name . ' (District HQ)' . "\n";
         echo '      </a>' . "\n";
         
         // Sibling child links
@@ -821,7 +829,7 @@ function render_contextual_district_cluster() {
             $c_name = htmlspecialchars($c_info['name'], ENT_QUOTES, 'UTF-8');
             $c_link = $base_url . $c_info['url'];
             echo '      <a href="' . $c_link . '" title="Packers and Movers in ' . $c_name . '" style="background:#ffffff; border:1px solid #cbd5e1; color:#334155; padding:8px 16px; border-radius:24px; font-size:13.5px; font-weight:500; text-decoration:none; transition:all 0.2s ease; display:inline-flex; align-items:center; gap:6px; box-shadow:0 1px 3px rgba(0,0,0,0.04);">' . "\n";
-            echo '        <i class="fa-solid fa-arrow-right" style="font-size:10px; color:#ff6a28;"></i> ' . $c_name . "\n";
+            echo '        <svg viewBox="0 0 24 24" width="11" height="11" fill="none" stroke="#ff6a28" stroke-width="2.5" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7"/></svg> ' . $c_name . "\n";
             echo '      </a>' . "\n";
         }
         echo '    </div>' . "\n";
@@ -841,7 +849,7 @@ function render_footer_district_directory() {
     echo '<div class="footer-all-locations-directory" style="margin-top:28px; padding-top:24px; border-top:1px dashed #334155;">' . "\n";
     echo '  <details style="background:#0b1329; border:1px solid #1e293b; border-radius:10px; padding:14px 18px; color:#94a3b8;">' . "\n";
     echo '    <summary style="font-weight:700; font-size:14.5px; color:#f8fafc; cursor:pointer; display:flex; align-items:center; justify-content:space-between; user-select:none;">' . "\n";
-    echo '      <span><i class="fa-solid fa-map-location-dot" style="color:#ff6a28; margin-right:8px;"></i> Complete Directory: All 158 Shifting Locations & Sub-Divisions in Jharkhand</span>' . "\n";
+    echo '      <span style="display:inline-flex; align-items:center; gap:8px;"><svg viewBox="0 0 24 24" width="16" height="16" fill="#ff6a28" aria-hidden="true"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 010-5 2.5 2.5 0 010 5z"/></svg> Complete Directory: All Shifting Locations & Sub-Divisions in Jharkhand</span>' . "\n";
     echo '      <span style="font-size:12px; color:#38bdf8; font-weight:600; text-decoration:underline;">Click to Expand &darr;</span>' . "\n";
     echo '    </summary>' . "\n";
     

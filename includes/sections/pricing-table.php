@@ -14,7 +14,7 @@
         Estimated <span class="gradient-text">Packers and Movers Charges</span> & Pricing Table in Ranchi
       </h2>
       <p class="section-subtitle">
-        We believe in complete pricing transparency. As trusted and <strong>cheap packers and movers in ranchi</strong>, we provide this comprehensive <strong>packers and movers in ranchi price list</strong> so you receive an accurate <strong>packers and movers ranchi cost estimate</strong> without unexpected surcharges or hidden fees on moving day.
+        We believe in complete pricing transparency. As trusted and <strong>affordable packers and movers in ranchi</strong>, we provide this comprehensive <strong>packers and movers in ranchi price list</strong> so you receive an accurate <strong>packers and movers ranchi cost estimate</strong> without unexpected surcharges or hidden fees on moving day.
       </p>
     </div>
 

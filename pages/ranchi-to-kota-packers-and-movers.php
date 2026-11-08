@@ -14,8 +14,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-kota-packers-an
 $page_keywords = "ranchi to kota packers and movers, packers and movers ranchi to kota, household shifting ranchi to kota, student luggage shifting ranchi to kota, car transport ranchi to kota, bike courier ranchi to kota, talwandi movers, vigyan nagar kota shifting";
 
 $current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -68,11 +71,12 @@ require_once __DIR__ . '/../includes/seo.php';
         "name": "Shree Ashirwad Packers and Movers - Ranchi to Kota",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹11,000 - ₹58,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Harmu Chowk, Harmu Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -80,8 +84,8 @@ require_once __DIR__ . '/../includes/seo.php';
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3569,
-            "longitude": 85.3182
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -125,13 +129,13 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "<?php echo SITE_BASE_URL; ?>/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Ranchi to Kota Packers and Movers",
+                "name": "Ranchi to Kota",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -645,7 +649,20 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Kota</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- HERO BANNER -->
 <section class="rkt-hero">
@@ -1105,7 +1122,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </section>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

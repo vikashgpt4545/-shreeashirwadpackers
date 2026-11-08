@@ -18,8 +18,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/darbhanga-to-ranchi-packe
 // Common layout variables
 $current_page = 'services';
 
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -74,17 +77,22 @@ require_once __DIR__ . '/../includes/seo.php';
         "name": "Shree Ashirwad Packers and Movers",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/darbhanga-to-ranchi-packers-and-movers",
-        "telephone": "+91-9835565233",
-        "email": "contact@shreeashirwadpackers.com",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹11,500 - ₹45,000",
         "description": "Professional Darbhanga to Ranchi packers and movers providing verified household relocation, corporate employee shifting, car transport, and bike parcel services via NH-27 and NH-20.",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Tower Chowk, Opp. LNMU Campus Road, Laheriasarai",
-            "addressLocality": "Darbhanga",
-            "addressRegion": "Bihar",
-            "postalCode": "846004",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -119,8 +127,8 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Routes",
-                "item": "https://www.shreeashirwadpackers.com/routes"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -648,11 +656,18 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
 <!-- HERO SECTION -->
 <section class="dbg-ran-hero">
     <div class="dbg-ran-container">
+        <nav class="dbg-ran-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+            <span style="color:#64748b;">/</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+            <span style="color:#64748b;">/</span>
+            <span style="color:#fde047; font-weight:600;">Darbhanga to Ranchi</span>
+        </nav>
         <span class="dbg-ran-hero-badge"><i class="fa-solid fa-truck-fast"></i> Express NH-27 &amp; NH-20 Highway Logistics</span>
         <h1>Trusted Darbhanga to Ranchi Packers and Movers</h1>
         <p>
@@ -1010,8 +1025,8 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Darbhanga (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/" class="dbg-ran-cluster-link">
-                <span>Ranchi Headquarters Hub</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="dbg-ran-cluster-link">
+                <span>Packers and Movers in Ranchi</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="dbg-ran-cluster-link">
@@ -1048,7 +1063,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </section>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

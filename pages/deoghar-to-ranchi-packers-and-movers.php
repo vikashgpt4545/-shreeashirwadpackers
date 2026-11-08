@@ -9,8 +9,8 @@
  * Distance: ~255 km | Same-Day & Overnight Relocation Corridor
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Deoghar to Ranchi Packers and Movers - 9835565233 | Shree Ashirwad Packers";
 $page_description = "Hire trusted Deoghar to Ranchi packers and movers by Shree Ashirwad Packers. Same-day shifting, 5-layer packing, closed container trucks, IBA approved bills & zero damage guarantee.";
@@ -89,7 +89,7 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "deoghar to ranchi packers and movers, packers and movers deoghar to ranchi, house shifting deoghar to ranchi, jasidih to ranchi movers",
@@ -97,16 +97,16 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Castairs Town, Near Tower Chowk",
-      "addressLocality": "Deoghar",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+      "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "814112",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 24.4826,
-      "longitude": 86.6970
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "hasMap": "https://maps.google.com/?q=24.4826,86.6970",
     "openingHoursSpecification": [
@@ -139,12 +139,12 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+919835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
       "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
         "postalCode": "834002",
@@ -188,13 +188,13 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Deoghar",
-        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-deoghar"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "Deoghar to Ranchi",
+        "name": "Deoghar to Ranchi Packers and Movers",
         "item": "<?php echo $canonical_url; ?>"
       }
     ]
@@ -330,7 +330,7 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
 <body>
 
   <!-- 1. Global Header Navigation -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
   <main id="mainContent">
 
@@ -341,10 +341,10 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
       
       <div class="container page-hero-wrapper" style="position:relative; z-index:2; max-width:1140px; margin:0 auto; padding:0 20px;">
         <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
-          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
-          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-deoghar" style="color:#cbd5e1; text-decoration:none;">Deoghar</a>
-          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;"><i class="fa fa-home"></i> Home</a>
+          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
           <span aria-current="page" style="color:#ff6a28; font-weight:600;">Deoghar to Ranchi</span>
         </nav>
         
@@ -357,9 +357,9 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
         </p>
 
         <div class="hero-cta-buttons" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Highway Route Desk: 9835565233
+            Call Highway Route Desk: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-outline-custom" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px); transition: all 0.3s ease;">
             WhatsApp Route Estimate &rarr;
@@ -452,7 +452,7 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
                     If you are searching for reliable <strong>movers and packers near me from Deoghar to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Deoghar to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Deoghar to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Deoghar to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Deoghar to Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -482,7 +482,7 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
             <div style="display:flex; gap:14px; flex-wrap:wrap;">
               <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="background:#0f223d; color:#ffffff; padding:12px 24px; border-radius:8px; font-weight:700; text-decoration:none; font-size:0.95rem; display:inline-flex; align-items:center; gap:8px;">
                 <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-                Book Deoghar Move: 9835565233
+                Book Deoghar Move: +91 8409531615
               </a>
               <a href="#rates-matrix" style="background:#f1f5f9; color:#1e293b; padding:12px 22px; border-radius:8px; font-weight:600; text-decoration:none; font-size:0.95rem;">
                 View Rate Matrix &darr;
@@ -1153,7 +1153,7 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
       </section>
 
       <!-- Section 12: Google My Business Authentic Reviews -->
-      <?php include __DIR__ . '/includes/sections/gmb-reviews.php'; ?>
+      <?php include __DIR__ . '/../includes/sections/gmb-reviews.php'; ?>
 
       <!-- Section 13: High-Converting Call to Action Banner -->
       <section style="background:linear-gradient(135deg, #0f223d 0%, #1e3a5f 100%); border-radius:14px; padding:45px 30px; text-align:center; color:#ffffff; margin-bottom:50px; box-shadow:0 8px 30px rgba(15,34,61,0.2);">
@@ -1164,8 +1164,8 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
           Connect with Shree Ashirwad Packers and Movers today for a zero-obligation pre-move survey. Benefit from genuine IBA-approved bills, verified 5-layer protective packing, closed container trucks, and 100% on-time delivery in Ranchi.
         </p>
         <div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;">
-          <a href="tel:9835565233" class="btn-hero-call" style="background:#ff6a28; color:#ffffff; padding:15px 32px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1.05rem; box-shadow:0 4px 18px rgba(255,106,40,0.4);">
-            Call Now: 9835565233
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-hero-call" style="background:#ff6a28; color:#ffffff; padding:15px 32px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1.05rem; box-shadow:0 4px 18px rgba(255,106,40,0.4);">
+            Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-hero-whatsapp" style="background:#25d366; color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1.05rem; box-shadow:0 4px 18px rgba(37,211,102,0.35);">
             WhatsApp Free Quote
@@ -1183,7 +1183,7 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
         </h3>
         <div style="display:flex; flex-wrap:wrap; gap:10px;">
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-deoghar" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Packers and Movers in Deoghar</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Packers and Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Packers and Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/chaibasa-to-ranchi-packers-and-movers" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Chaibasa to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/daltonganj-to-ranchi-packers-and-movers" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Daltonganj to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad" style="background:#ffffff; border:1px solid #cbd5e1; padding:8px 14px; border-radius:6px; font-size:0.88rem; color:#334155; text-decoration:none;">Packers and Movers in Dhanbad</a>
@@ -1200,7 +1200,7 @@ $meta_keywords = "deoghar to ranchi packers and movers, packers and movers deogh
   </main>
 
   <!-- Global Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>
 </body>

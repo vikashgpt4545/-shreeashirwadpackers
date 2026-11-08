@@ -5,7 +5,11 @@
  * Canonical URL: https://www.shreeashirwadpackers.com/balasore-to-ranchi-packers-and-movers
  * Description: Dependable packers and movers from Balasore (Baleshwar) to Ranchi. Professional home shifting, DRDO Chandipur defense transfers to Jharkhand, car carriers, and insured transit via NH18/NH33.
  */
-include_once __DIR__ . '/../includes/config.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,7 +30,7 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Balasore to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/balasore-to-ranchi-packers-and-movers",
-    "telephone": "+91 9835565233",
+    "telephone": "+91-8409531615",
     "priceRange": "INR 12,000 - 55,000",
     "address": {
       "@type": "PostalAddress",
@@ -82,8 +86,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Routes",
-        "item": "https://www.shreeashirwadpackers.com/routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -495,7 +499,29 @@ include_once __DIR__ . '/../includes/config.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumbs Bar -->
+<div class="breadcrumbs-bar" style="background: #f1f5f9; padding: 10px 0; border-bottom: 1px solid #e2e8f0; font-size: 0.88rem;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <ol style="list-style: none; display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; align-items: center;" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="<?php echo SITE_BASE_URL; ?>/" itemprop="item" style="color: #0284c7; text-decoration: none;"><span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li style="color: #64748b;">/</li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" itemprop="item" style="color: #0284c7; text-decoration: none;"><span itemprop="name">Packers and Movers in Ranchi</span></a>
+        <meta itemprop="position" content="2" />
+      </li>
+      <li style="color: #64748b;">/</li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <span itemprop="name" style="color: #334155; font-weight: 600;">Balasore to Ranchi</span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
+  </div>
+</div>
 
 <!-- HERO SECTION -->
 <section class="bl2r-hero">
@@ -861,7 +887,7 @@ include_once __DIR__ . '/../includes/config.php';
         <span>Ranchi to Balasore (Outbound)</span>
         <span style="color: #0284c7;">→</span>
       </a>
-      <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
         <span>Ranchi Headquarters Hub</span>
         <span style="color: #0284c7;">→</span>
       </a>
@@ -898,7 +924,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 </div>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

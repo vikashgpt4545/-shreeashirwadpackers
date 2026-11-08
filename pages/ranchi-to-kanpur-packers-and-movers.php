@@ -14,8 +14,11 @@ $page_title = "Ranchi to Kanpur Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Kanpur packers and movers by Shree Ashirwad. Express transit via NH-19 GT Road, E-Way bill & GST billing, IIT Kanpur transfers. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-kanpur-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -683,7 +686,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 <?php
 // Include site-wide header
-require_once __DIR__ . '/includes/header.php';
+require_once BASE_PATH . '/includes/header.php';
 ?>
 
 <!-- 1. Hero Section -->
@@ -692,7 +695,7 @@ require_once __DIR__ . '/includes/header.php';
     <nav class="r2k-breadcrumb" aria-label="Breadcrumb">
       <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
       <span>/</span>
-      <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
       <span>/</span>
       <span class="current">Ranchi to Kanpur Packers and Movers</span>
     </nav>
@@ -713,11 +716,11 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="r2k-cta-group">
-      <a href="tel:+919835565233" class="r2k-btn-primary">
-        <i class="fas fa-phone-alt"></i> Call Instant Helpline: 084095 31615
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2k-btn-primary">
+        <i class="fas fa-phone-alt"></i> Call Instant Helpline: <?php echo PRIMARY_PHONE_DISPLAY; ?>
       </a>
-      <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Kanpur%20shifting." class="r2k-btn-secondary" target="_blank" rel="noopener">
-        <i class="fab fa-whatsapp"></i> WhatsApp Quote (098355 65233)
+      <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Kanpur%20shifting." class="r2k-btn-secondary" target="_blank" rel="noopener">
+        <i class="fab fa-whatsapp"></i> WhatsApp Quote (<?php echo PRIMARY_PHONE_DISPLAY; ?>)
       </a>
     </div>
   </div>
@@ -744,12 +747,12 @@ require_once __DIR__ . '/includes/header.php';
         <i class="fas fa-headset"></i>
         <div>
           <span>Direct Coordinator: </span>
-          <strong>+91 84095 31615 / +91 98355 65233</strong>
+          <strong><?php echo PRIMARY_PHONE_DISPLAY; ?> / <?php echo SECONDARY_PHONE_DISPLAY; ?></strong>
         </div>
       </div>
       <div class="r2k-action-links">
-        <a href="tel:+919835565233" class="r2k-phone-chip"><i class="fas fa-phone-volume"></i> 084095 31615</a>
-        <a href="https://api.whatsapp.com/send?phone=919835565233&text=Ranchi%20to%20Kanpur%20shifting%20quote%20enquiry" class="r2k-whatsapp-chip" target="_blank" rel="noopener">
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2k-phone-chip"><i class="fas fa-phone-volume"></i> <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+        <a href="https://wa.me/918409531615?text=Ranchi%20to%20Kanpur%20shifting%20quote%20enquiry" class="r2k-whatsapp-chip" target="_blank" rel="noopener">
           <i class="fab fa-whatsapp"></i> Quick Chat
         </a>
       </div>
@@ -1297,8 +1300,11 @@ require_once __DIR__ . '/includes/header.php';
     </div>
 
     <div class="r2k-cluster-links">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="r2k-cluster-btn">
-        <i class="fas fa-home"></i> Packers and Movers in Ranchi
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2k-cluster-btn">
+        <i class="fas fa-home"></i> Packers and Movers in Ranchi (HQ Hub)
+      </a>
+      <a href="<?php echo SITE_BASE_URL; ?>/kanpur-to-ranchi-packers-and-movers" class="r2k-cluster-btn">
+        <i class="fas fa-arrow-left"></i> Kanpur to Ranchi (Return Route)
       </a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="r2k-cluster-btn">
         <i class="fas fa-calculator"></i> Ranchi Moving Charges Guide
@@ -1332,11 +1338,11 @@ require_once __DIR__ . '/includes/header.php';
       Get a guaranteed, all-inclusive quote today. Express 24-to-36 hour delivery, IIT Kanpur &amp; Defense PSU transfer bill compliance, and multi-layer defensive packing for a smooth relocation.
     </p>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <a href="tel:+919835565233" class="r2k-btn-primary" style="font-size: 1.05rem;">
-        <i class="fas fa-phone-alt"></i> Call Helpline: 084095 31615
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2k-btn-primary" style="font-size: 1.05rem;">
+        <i class="fas fa-phone-alt"></i> Call Helpline: <?php echo PRIMARY_PHONE_DISPLAY; ?>
       </a>
-      <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Kanpur%20shifting." class="r2k-btn-secondary" target="_blank" rel="noopener" style="font-size: 1.05rem;">
-        <i class="fab fa-whatsapp"></i> Chat on WhatsApp (098355 65233)
+      <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Kanpur%20shifting." class="r2k-btn-secondary" target="_blank" rel="noopener" style="font-size: 1.05rem;">
+        <i class="fab fa-whatsapp"></i> Chat on WhatsApp (<?php echo PRIMARY_PHONE_DISPLAY; ?>)
       </a>
     </div>
   </div>
@@ -1344,7 +1350,7 @@ require_once __DIR__ . '/includes/header.php';
 
 <?php
 // Include site-wide footer
-require_once __DIR__ . '/includes/footer.php';
+require_once BASE_PATH . '/includes/footer.php';
 ?>
 
 <!-- Structured Data Schemas -->
@@ -1358,20 +1364,21 @@ require_once __DIR__ . '/includes/footer.php';
   "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
   "@id": "https://www.shreeashirwadpackers.com/#organization",
   "url": "https://www.shreeashirwadpackers.com",
-  "telephone": "+919835565233",
+  "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+  "email": "enquiry@shreeashirwadpackers.com",
   "priceRange": "₹₹",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Bariatu Road, Near RIMS",
+    "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
     "addressLocality": "Ranchi",
-    "addressRegion": "JH",
-    "postalCode": "834009",
+    "addressRegion": "Jharkhand",
+    "postalCode": "834002",
     "addressCountry": "IN"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 23.3835,
-    "longitude": 85.3582
+    "latitude": 23.3441,
+    "longitude": 85.3096
   },
   "areaServed": [
     {
@@ -1398,7 +1405,9 @@ require_once __DIR__ . '/includes/footer.php';
   "serviceType": "Interstate Relocation Services",
   "provider": {
     "@type": "MovingCompany",
-    "name": "Shree Ashirwad Packers and Movers"
+    "name": "Shree Ashirwad Packers and Movers",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "url": "https://www.shreeashirwadpackers.com"
   },
   "areaServed": [
     {
@@ -1438,7 +1447,7 @@ require_once __DIR__ . '/includes/footer.php';
       "@type": "ListItem",
       "position": 2,
       "name": "Packers and Movers in Ranchi",
-      "item": "https://www.shreeashirwadpackers.com/"
+      "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
     },
     {
       "@type": "ListItem",

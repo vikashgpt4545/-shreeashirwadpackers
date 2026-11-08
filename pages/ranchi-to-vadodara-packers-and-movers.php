@@ -16,8 +16,11 @@ $page_title = "Ranchi to Vadodara Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Ranchi to Vadodara packers and movers by Shree Ashirwad. Fast 48-hr transit, GIDC & L&T bills, 5-layer packing, car/bike parcel. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-vadodara-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -72,13 +75,13 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional interstate relocation, corporate shifting, and automotive transportation services from Ranchi, Jharkhand to Vadodara (Baroda), Gujarat.",
-    "telephone": "+91-9835565233",
-    "alternatePhone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "alternatePhone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹22,000 - ₹72,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Road, Near Sahajanand Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -172,8 +175,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Packers and Movers",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -950,8 +953,21 @@ require_once __DIR__ . '/includes/seo.php';
 
 <?php
 // Load unified master header navigation
-require_once __DIR__ . '/includes/header.php';
+require_once BASE_PATH . '/includes/header.php';
 ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<div style="background: #f8fafc; border-bottom: 1px solid #e2e8f0; padding: 12px 0;">
+  <div class="r2vdr-container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="Breadcrumb" style="font-size: 0.88rem; color: #64748b;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;">Home</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <span style="color: #0f172a; font-weight: 600;">Ranchi to Vadodara</span>
+    </nav>
+  </div>
+</div>
 
 <div class="r2vdr-wrapper">
 
@@ -1002,8 +1018,8 @@ require_once __DIR__ . '/includes/header.php';
         <p>Get a prompt, transparent quote with zero hidden charges and free doorstep pre-move survey.</p>
       </div>
       <div class="r2vdr-action-buttons">
-        <a href="tel:+919835565233" class="r2vdr-btn-call">
-          <span>📞</span> Call 9835565233
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2vdr-btn-call">
+          <span>📞</span> Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
         </a>
         <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Ranchi%20to%20Vadodara%20relocation." target="_blank" rel="noopener noreferrer" class="r2vdr-btn-whatsapp">
           <span>💬</span> WhatsApp Estimate
@@ -1580,16 +1596,17 @@ require_once __DIR__ . '/includes/header.php';
       <div class="r2vdr-cluster-box">
         <h3 class="r2vdr-cluster-title">Explore Related Interstate &amp; Intra-State Moving Routes:</h3>
         <div class="r2vdr-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2vdr-cluster-link">Ranchi Main Hub</a>
-          <a href="/ahmedabad-to-ranchi-packers-and-movers" class="r2vdr-cluster-link">Ahmedabad to Ranchi</a>
-          <a href="/ranchi-to-agra-packers-and-movers" class="r2vdr-cluster-link">Ranchi to Agra</a>
-          <a href="/ranchi-to-bhopal-packers-and-movers" class="r2vdr-cluster-link">Ranchi to Bhopal</a>
-          <a href="/indore-to-ranchi-packers-and-movers" class="r2vdr-cluster-link">Indore to Ranchi</a>
-          <a href="/mumbai-to-ranchi-packers-and-movers" class="r2vdr-cluster-link">Mumbai to Ranchi</a>
-          <a href="/pune-to-ranchi-packers-and-movers" class="r2vdr-cluster-link">Pune to Ranchi</a>
-          <a href="/ranchi-to-bilaspur-packers-and-movers" class="r2vdr-cluster-link">Ranchi to Bilaspur</a>
-          <a href="/pricing" class="r2vdr-cluster-link">Packers &amp; Movers Pricing Guide</a>
-          <a href="/contact" class="r2vdr-cluster-link">Get Free Quote</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2vdr-cluster-link">Packers and Movers in Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/vadodara-to-ranchi-packers-and-movers" class="r2vdr-cluster-link">Vadodara to Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ahmedabad-to-ranchi-packers-and-movers" class="r2vdr-cluster-link">Ahmedabad to Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-agra-packers-and-movers" class="r2vdr-cluster-link">Ranchi to Agra</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bhopal-packers-and-movers" class="r2vdr-cluster-link">Ranchi to Bhopal</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/indore-to-ranchi-packers-and-movers" class="r2vdr-cluster-link">Indore to Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-ranchi-packers-and-movers" class="r2vdr-cluster-link">Mumbai to Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/pune-to-ranchi-packers-and-movers" class="r2vdr-cluster-link">Pune to Ranchi</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bilaspur-packers-and-movers" class="r2vdr-cluster-link">Ranchi to Bilaspur</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2vdr-cluster-link">Packers &amp; Movers Pricing Guide</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/contact" class="r2vdr-cluster-link">Get Free Quote</a>
         </div>
       </div>
     </div>
@@ -1624,5 +1641,5 @@ require_once __DIR__ . '/includes/header.php';
 
 <?php
 // Load unified master footer
-require_once __DIR__ . '/includes/footer.php';
+require_once BASE_PATH . '/includes/footer.php';
 ?>

@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Bokaro to Ramgarh Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Top-rated Bokaro to Ramgarh packers and movers. 68 km transit via NH-320, 2-hour delivery, 5-layer safety packaging, SAIL BSL & Cantonment transfer billing, car & bike carrier. Call 9835565233.";
+$page_desc = "Top-rated Bokaro to Ramgarh packers and movers. 68 km transit via NH-320, 2-hour delivery, 5-layer safety packaging, SAIL BSL & Cantonment transfer billing, car & bike carrier. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ramgarh-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -437,25 +437,27 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ramgarh-packers
     {
       "@context": "https://schema.org",
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers Bokaro to Ramgarh",
+      "name": "Shree Ashirwad Packers and Movers - Bokaro Branch",
       "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-      "@id": "https://www.shreeashirwadpackers.com/#bokaro-to-ramgarh-packers",
+      "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro#movingcompany",
       "url": "https://www.shreeashirwadpackers.com/bokaro-to-ramgarh-packers-and-movers",
-      "telephone": "+91-9835565233",
+      "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+      "email": "<?php echo OFFICIAL_EMAIL; ?>",
       "priceRange": "INR 5,500 - 42,000",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sector 4, City Centre",
+        "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
         "addressLocality": "Bokaro Steel City",
         "addressRegion": "Jharkhand",
-        "postalCode": "827004",
+        "postalCode": "827012",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 23.6693,
-        "longitude": 86.1511
+        "latitude": <?php echo BOKARO_GEO_LAT; ?>,
+        "longitude": <?php echo BOKARO_GEO_LNG; ?>
       },
+      "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
       "openingHoursSpecification": {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": [
@@ -467,12 +469,15 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ramgarh-packers
           "Saturday",
           "Sunday"
         ],
-        "opens": "06:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       "sameAs": [
-        "https://www.facebook.com/shreeashirwadpackers",
-        "https://www.instagram.com/shreeashirwadpackers"
+        "<?php echo SOCIAL_FACEBOOK; ?>",
+        "<?php echo SOCIAL_TWITTER; ?>",
+        "<?php echo SOCIAL_INSTAGRAM; ?>",
+        "<?php echo SOCIAL_YOUTUBE; ?>",
+        "<?php echo SOCIAL_PINTEREST; ?>"
       ]
     }
     </script>
@@ -551,8 +556,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ramgarh-packers
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Intercity Routes",
-          "item": "https://www.shreeashirwadpackers.com/services"
+          "name": "Packers and Movers in Bokaro",
+          "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro"
         },
         {
           "@type": "ListItem",
@@ -658,7 +663,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ramgarh-packers
         <div class="bok2ram-container">
             <nav class="bok2ram-breadcrumbs" aria-label="breadcrumb">
                 <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &raquo; 
-                <a href="<?php echo SITE_BASE_URL; ?>/services">Intercity Routes</a> &raquo; 
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Bokaro Packers and Movers</a> &raquo; 
                 <span>Bokaro to Ramgarh</span>
             </nav>
             <div class="bok2ram-hero-badge">&#10004; Dedicated Steel City to Cantonment NH-320 Express</div>
@@ -667,13 +672,16 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ramgarh-packers
                 Professional intercity moving services from Bokaro Steel City (Sectors 1 to 12, Chas, BSL Township) to Ramgarh Cantonment, Barka-Sayal, and Patratu. Complete household shifting, SAIL BSL & defense transfer billing, enclosed car carrier transit, and bike courier with guaranteed same-day delivery.
             </p>
             <div class="bok2ram-hero-cta">
-                <a href="tel:9835565233" class="bok2ram-btn-primary">
+                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="bok2ram-btn-primary">
                     <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24c1.12.37 2.33.57 3.57.57a1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.24.2 2.45.57 3.57a1 1 0 01-.24 1.02l-2.21 2.2z"/></svg>
-                    Call: 9835565233
+                    Call: <?php echo SECONDARY_PHONE; ?>
                 </a>
-                <a href="#bok2ram-quote" class="bok2ram-btn-outline">
+                <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20moving%20quote%20from%20Bokaro%20to%20Ramgarh." target="_blank" rel="noopener" class="bok2ram-btn-primary" style="background: rgba(37, 211, 102, 0.2); border: 1px solid rgba(37, 211, 102, 0.55); color: #ffffff;">
+                    WhatsApp Quote &rarr;
+                </a>
+                <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bok2ram-btn-outline">
                     <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-                    Request Free Estimate
+                    Request Free Estimate &rarr;
                 </a>
             </div>
 
@@ -1101,14 +1109,37 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ramgarh-packers
                     Contact Shree Ashirwad Packers and Movers today for an instant free moving estimate. Experience prompt, professional shifting with verified intercity relocation experts.
                 </p>
                 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-                    <a href="tel:9835565233" class="bok2ram-btn-primary" style="background: #f59e0b; color: #0f172a;">
+                    <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="bok2ram-btn-primary" style="background: #f59e0b; color: #0f172a;">
                         <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24c1.12.37 2.33.57 3.57.57a1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.24.2 2.45.57 3.57a1 1 0 01-.24 1.02l-2.21 2.2z"/></svg>
-                        Call 9835565233
+                        Call <?php echo SECONDARY_PHONE; ?>
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20relocation%20from%20Bokaro%20to%20Ramgarh." class="bok2ram-btn-outline" target="_blank" rel="noopener noreferrer">
-                        Chat on WhatsApp
+                    <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20relocation%20from%20Bokaro%20to%20Ramgarh." class="bok2ram-btn-outline" target="_blank" rel="noopener noreferrer">
+                        Chat on WhatsApp &rarr;
+                    </a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/contact" class="bok2ram-btn-outline">
+                        Request Written Estimate &rarr;
                     </a>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Connected Shifting Resources Module -->
+    <section style="padding: 40px 0; background: #f8fafc;">
+        <div class="bok2ram-container">
+            <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+                <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.35rem; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 12px;">Connected Regional Moving Corridors &amp; Authority Hubs</h3>
+                <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, Bokaro township hubs, tariff calculators, and reciprocal return corridors:</p>
+                <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
+                    <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Bokaro (Branch)</a></li>
+                    <li><a href="<?php echo SITE_BASE_URL; ?>/ramgarh-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Return Route: Ramgarh to Bokaro</a></li>
+                    <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Sector 4 Bokaro</a></li>
+                    <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Sector 12 Bokaro</a></li>
+                    <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Chas Bokaro</a></li>
+                    <li><a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Household Shifting Services in Bokaro</a></li>
+                    <li><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Bokaro to Ranchi Packers &amp; Movers</a></li>
+                    <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Cost Calculator</a></li>
+                </ul>
             </div>
         </div>
     </section>

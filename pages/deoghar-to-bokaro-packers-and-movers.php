@@ -15,7 +15,7 @@
 
 // Define page-specific metadata
 $page_title = "Deoghar to Bokaro Packers & Movers | Shree Ashirwad Packers";
-$page_description = "Top Deoghar to Bokaro packers and movers by Shree Ashirwad. Same-day 8-10 hr transit, AIIMS bills, 5-layer packing, car carrier. Call 9835565233.";
+$page_description = "Top Deoghar to Bokaro packers and movers by Shree Ashirwad. Same-day 8-10 hr transit, AIIMS bills, 5-layer packing, car carrier. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/deoghar-to-bokaro-packers-and-movers";
 
 require_once __DIR__ . '/includes/config.php';
@@ -694,7 +694,7 @@ require_once __DIR__ . '/includes/seo.php';
     "name": "Shree Ashirwad Packers and Movers - Deoghar to Bokaro",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/deoghar-to-bokaro-packers-and-movers",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo SECONDARY_PHONE; ?>",
     "priceRange": "₹9,500 - ₹30,000",
     "address": {
       "@type": "PostalAddress",
@@ -1518,9 +1518,11 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our industrial and interdistrict relocation network linking Deoghar and Bokaro with major Jharkhand centers:
         </p>
         <div class="dgh2b-cluster-links">
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="dgh2b-cluster-link">Bokaro Hub Main Page</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-deoghar-packers-and-movers" class="dgh2b-cluster-link">Bokaro to Deoghar (Return Route)</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" class="dgh2b-cluster-link">Sector 4 Bokaro</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" class="dgh2b-cluster-link">Chas Bokaro</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-deoghar" class="dgh2b-cluster-link">Deoghar Hub</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="dgh2b-cluster-link">Bokaro Hub</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-deoghar-packers-and-movers" class="dgh2b-cluster-link">Bokaro to Deoghar</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" class="dgh2b-cluster-link">Bokaro to Dhanbad</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" class="dgh2b-cluster-link">Bokaro to Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="dgh2b-cluster-link">Cost Calculator &amp; Rates</a>

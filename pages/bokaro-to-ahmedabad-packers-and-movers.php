@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Bokaro to Ahmedabad Packers and Movers | Reliable Shifting Services";
-$page_desc = "Safe Bokaro to Ahmedabad packers and movers. 1780 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
+$page_desc = "Safe Bokaro to Ahmedabad packers and movers. 1780 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ahmedabad-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -369,29 +369,31 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ahmedabad-packe
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Bokaro to Ahmedabad",
+        "name": "Shree Ashirwad Packers and Movers - Bokaro Branch",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-        "@id": "<?php echo $canonical_url; ?>#company",
+        "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro#movingcompany",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
-        "priceRange": "INR 9,500 - 45,000",
+        "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+        "email": "<?php echo OFFICIAL_EMAIL; ?>",
+        "priceRange": "INR 17,630 - 64,510",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Sector 1 Main Road",
-            "addressLocality": "Bokaro",
+            "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
+            "addressLocality": "Bokaro Steel City",
             "addressRegion": "Jharkhand",
-            "postalCode": "827001",
+            "postalCode": "827012",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.6693,
-            "longitude": 86.1511
+            "latitude": <?php echo BOKARO_GEO_LAT; ?>,
+            "longitude": <?php echo BOKARO_GEO_LNG; ?>
         },
+        "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
         "areaServed": [
             {
                 "@type": "City",
-                "name": "Bokaro"
+                "name": "Bokaro Steel City"
             },
             {
                 "@type": "City",
@@ -411,7 +413,14 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ahmedabad-packe
             ],
             "opens": "00:00",
             "closes": "23:59"
-        }
+        },
+        "sameAs": [
+            "<?php echo SOCIAL_FACEBOOK; ?>",
+            "<?php echo SOCIAL_TWITTER; ?>",
+            "<?php echo SOCIAL_INSTAGRAM; ?>",
+            "<?php echo SOCIAL_YOUTUBE; ?>",
+            "<?php echo SOCIAL_PINTEREST; ?>"
+        ]
     }
     </script>
 
@@ -474,8 +483,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ahmedabad-packe
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
-                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+                "name": "Bokaro Packers and Movers",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro"
             },
             {
                 "@type": "ListItem",
@@ -587,6 +596,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ahmedabad-packe
 <!-- Hero Section -->
 <section class="c_bok_ahm-hero">
     <div class="container">
+        <nav aria-label="Breadcrumb" style="margin-bottom: 14px; font-size: 0.9rem; color: rgba(255,255,255,0.85);">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a>
+            <span style="margin: 0 8px; opacity: 0.6;">/</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #93c5fd; text-decoration: none;">Bokaro Packers and Movers</a>
+            <span style="margin: 0 8px; opacity: 0.6;">/</span>
+            <span style="color: #ffffff; font-weight: 600;">Bokaro to Ahmedabad Shifting</span>
+        </nav>
         <div class="c_bok_ahm-badge-strip">
             <span class="c_bok_ahm-badge">&#9733; 1780 KM Express Interstate Corridor</span>
             <span class="c_bok_ahm-badge">&#128666; Sealed All-Weather Closed Containers</span>
@@ -595,57 +611,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ahmedabad-packe
         </div>
         <h1>Packers and Movers from Bokaro to Ahmedabad</h1>
         <p class="lead">
-            Dependable, insured, and professional household shifting, vehicle transport, and corporate relocation services connecting Bokaro to Ahmedabad. Experience 5-layer protective packaging, dedicated closed container trucks, and seamless doorstep delivery.
+            Dependable, insured, and professional household shifting, vehicle transport, and corporate relocation services connecting Bokaro Steel City (Sector 12/A Branch) to Ahmedabad, Gandhinagar, Satellite, Prahlad Nagar, and Bopal. Experience 5-layer protective packaging, dedicated closed container trucks, and seamless doorstep delivery.
         </p>
         <div class="c_bok_ahm-cta-group">
-            <a href="tel:+919835565233" class="c_bok_ahm-btn-primary">
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="c_bok_ahm-btn-primary">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                Call Hotline: 084095 31615
+                Call Hotline: <?php echo SECONDARY_PHONE; ?>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="c_bok_ahm-btn-secondary">
+            <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20moving%20quote%20from%20Bokaro%20to%20Ahmedabad." target="_blank" rel="noopener" class="c_bok_ahm-btn-secondary" style="background: rgba(37, 211, 102, 0.2); border-color: rgba(37, 211, 102, 0.55); color: #ffffff;">
+                WhatsApp Quote &rarr;
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact" class="c_bok_ahm-btn-secondary">
                 Request Express Moving Quote &rarr;
             </a>
-        </div>
-    </div>
-</section>
-
-<!-- Competitor Ranking Keyword Content Box -->
-<section style="padding: 40px 0 20px; background: #ffffff;">
-    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-        <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-            <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                Packers and Movers from Bokaro to Ahmedabad
-            </h3>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                Looking for the <strong>best packers and movers from Bokaro to Ahmedabad</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-            </p>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Bokaro and Ahmedabad with timely delivery support.
-            </p>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                As one of the <strong>top-rated packers and movers near Bokaro</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand and India without hassle.
-            </p>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                We cover major localities in Bokaro and Ahmedabad along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-            </p>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                Whether you need <strong>local shifting in Bokaro</strong>, intercity relocation to Ahmedabad, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-            </p>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                Customers choose our <strong>movers and packers service from Bokaro to Ahmedabad</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-            </p>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-            </p>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company from Bokaro to Ahmedabad</strong> delivers affordable, safe, and stress-free relocation services.
-            </p>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                If you are searching for reliable <strong>movers and packers near me from Bokaro to Ahmedabad</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-            </p>
-            <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                Our <strong>professional packers and movers service from Bokaro to Ahmedabad</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Bokaro to Ahmedabad</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-            </p>
         </div>
     </div>
 </section>
@@ -1089,11 +1067,14 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ahmedabad-packe
             Contact our moving experts for an accurate written estimate, complimentary pre-move assessment, and scheduled delivery.
         </p>
         <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
-            <a href="tel:+919835565233" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                Call Hotline: 084095 31615
+                Call Hotline: <?php echo SECONDARY_PHONE; ?>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
+            <a href="https://wa.me/918409531615?text=Hi%20Shree%20Ashirwad%20Packers%2C%20I%20need%20a%20moving%20quote%20from%20Bokaro%20to%20Ahmedabad." target="_blank" rel="noopener" style="background: #16a34a; color: #ffffff; font-weight: 700; padding: 14px 28px; border-radius: 10px; text-decoration: none;">
+                WhatsApp Quote &rarr;
+            </a>
+            <a href="<?php echo SITE_BASE_URL; ?>/contact" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
                 Request Express Quote &rarr;
             </a>
         </div>
@@ -1105,12 +1086,16 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ahmedabad-packe
     <div class="container">
         <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 30px; box-shadow: var(--c_bok_ahm-shadow);">
             <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.35rem; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 12px;">Connected Interstate Moving Corridors &amp; Authority Hubs</h3>
-            <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, tariff calculators, and reciprocal return corridors:</p>
+            <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, Bokaro township hubs, tariff calculators, and reciprocal return corridors:</p>
             <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
-                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ranchi (HQ)</a></li>
-                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ahmedabad" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ahmedabad</a></li>
-                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Charges &amp; Tariff Calculator</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Bokaro (Branch)</a></li>
                 <li><a href="<?php echo SITE_BASE_URL; ?>/ahmedabad-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Return Route: Ahmedabad to Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Sector 4 Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Sector 12 Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Chas Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Household Shifting in Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ahmedabad" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ahmedabad</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Cost Calculator</a></li>
             </ul>
         </div>
     </div>

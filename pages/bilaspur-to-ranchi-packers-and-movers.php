@@ -18,8 +18,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bilaspur-to-ranchi-packer
 // Common layout variables
 $current_page = 'services';
 
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -74,17 +77,22 @@ require_once __DIR__ . '/../includes/seo.php';
         "name": "Shree Ashirwad Packers and Movers",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/bilaspur-to-ranchi-packers-and-movers",
-        "telephone": "+91-9835565233",
-        "email": "contact@shreeashirwadpackers.com",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹11,000 - ₹46,000",
         "description": "Professional Bilaspur to Ranchi packers and movers providing verified household relocation, corporate employee shifting, car transport, and bike shifting via NH-130 and NH-43.",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Shop No. 14, Vyapar Vihar Commercial Complex, Near SECR HQ",
-            "addressLocality": "Bilaspur",
-            "addressRegion": "Chhattisgarh",
-            "postalCode": "495001",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -119,8 +127,8 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Routes",
-                "item": "https://www.shreeashirwadpackers.com/routes"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -648,7 +656,18 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="bsp-ran-container" style="font-size: 0.88rem; color: #64748b;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; text-decoration: none; font-weight: 500;">Home</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a8a; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Bilaspur to Ranchi</span>
+    </div>
+</nav>
 
 <!-- HERO SECTION -->
 <section class="bsp-ran-hero">
@@ -1013,8 +1032,8 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ranchi to Bilaspur (Return Corridor)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/" class="bsp-ran-cluster-link">
-                <span>Ranchi Headquarters Hub</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="bsp-ran-cluster-link">
+                <span>Packers and Movers in Ranchi</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-raipur-packers-and-movers" class="bsp-ran-cluster-link">
@@ -1051,7 +1070,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </section>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

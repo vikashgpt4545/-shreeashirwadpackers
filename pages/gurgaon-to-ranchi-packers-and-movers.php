@@ -15,8 +15,11 @@ $page_title = "Gurgaon to Ranchi Packers & Movers | Shree Ashirwad";
 $page_description = "Top Gurgaon to Ranchi packers and movers by Shree Ashirwad. Express 28-hr transit via NH-19, DLF Cyber City bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/gurgaon-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,500 - ₹72,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -157,7 +160,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+91-9835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": [
@@ -196,8 +199,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -909,7 +912,20 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body class="g2r-wrapper">
 
-<?php include_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<div style="background: #f8fafc; border-bottom: 1px solid #e2e8f0; padding: 12px 0;">
+  <div class="g2r-container">
+    <nav aria-label="Breadcrumb" style="font-size: 0.88rem; color: #64748b;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;">Home</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <span style="color: #0f172a; font-weight: 600;">Gurgaon to Ranchi</span>
+    </nav>
+  </div>
+</div>
 
 <!-- Hero Section -->
 <header class="g2r-hero">
@@ -931,8 +947,8 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
 
     <div class="g2r-hero-actions">
-      <a href="tel:+919835565233" class="g2r-btn g2r-btn-primary">📞 Call Now: 084095 31615</a>
-      <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20relocation%20from%20Gurgaon%20to%20Ranchi" class="g2r-btn g2r-btn-outline" target="_blank" rel="noopener">💬 WhatsApp Free Instant Quote</a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="g2r-btn g2r-btn-primary">📞 Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+      <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20quote%20for%20relocation%20from%20Gurgaon%20to%20Ranchi" class="g2r-btn g2r-btn-outline" target="_blank" rel="noopener">💬 WhatsApp Free Instant Quote</a>
     </div>
   </div>
 </header>
@@ -948,8 +964,8 @@ require_once __DIR__ . '/includes/seo.php';
       <span>📍 <strong>Direct Corridor Service:</strong> Daily departures connecting DLF Phase 1–5, Cyber City, Golf Course Road, Sohna Road, and Manesar directly to all Ranchi sectors.</span>
     </div>
     <div class="g2r-callbar-links">
-      <a href="tel:+919835565233" class="g2r-call-link">📱 9835565233</a>
-      <a href="tel:+919835565233" class="g2r-call-link">☎️ 9835565233</a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="g2r-call-link">📱 <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+      <a href="tel:+919835565233" class="g2r-call-link">☎️ +91 9835565233</a>
     </div>
   </div>
 </aside>
@@ -1474,7 +1490,8 @@ require_once __DIR__ . '/includes/seo.php';
     </p>
 
     <div class="g2r-cluster-links">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="g2r-cluster-btn">Ranchi Relocation Hub</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="g2r-cluster-btn">Packers and Movers in Ranchi</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gurgaon-packers-and-movers" class="g2r-cluster-btn">Ranchi to Gurgaon (Outbound)</a>
       <a href="<?php echo SITE_BASE_URL; ?>/delhi-to-ranchi-packers-and-movers" class="g2r-cluster-btn">Delhi to Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/lucknow-to-ranchi-packers-and-movers" class="g2r-cluster-btn">Lucknow to Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/chennai-to-ranchi-packers-and-movers" class="g2r-cluster-btn">Chennai to Ranchi</a>
@@ -1510,7 +1527,7 @@ require_once __DIR__ . '/includes/seo.php';
   });
 </script>
 
-<?php include_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

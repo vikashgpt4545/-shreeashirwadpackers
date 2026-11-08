@@ -14,8 +14,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/coimbatore-to-ranchi-pack
 $page_keywords = "coimbatore to ranchi packers and movers, packers and movers coimbatore to ranchi, household shifting coimbatore to ranchi, car transport coimbatore to ranchi, bike courier coimbatore to ranchi, tidel park to ranchi movers, sulur air force relocation, rs puram to ranchi movers";
 
 $current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -61,20 +64,21 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Professional 2,080 km inter-state relocation from Coimbatore to Ranchi. Reliable household shifting, Air Force personnel transfers, IT return moves & enclosed vehicle shipping.",
-        "telephone": "+91-9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 18,000 - 72,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Avinashi Road, Peelamedu",
-            "addressLocality": "Coimbatore",
-            "addressRegion": "Tamil Nadu",
-            "postalCode": "641004",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 11.0168,
-            "longitude": 76.9558
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -118,8 +122,8 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "<?php echo SITE_BASE_URL; ?>/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -140,7 +144,7 @@ require_once __DIR__ . '/../includes/seo.php';
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91-9835565233",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": {
@@ -735,7 +739,18 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="cbr-container" style="font-size: 0.88rem; color: #64748b;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; text-decoration: none; font-weight: 500;">Home</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #2563eb; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Coimbatore to Ranchi</span>
+    </div>
+</nav>
 
     
     <main class="cbr-wrap">
@@ -1194,8 +1209,8 @@ require_once __DIR__ . '/../includes/seo.php';
                     <span>Ranchi to Coimbatore (Return)</span>
                     <span style="color: var(--cbr-blue);">→</span>
                 </a>
-                <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--cbr-border); text-decoration: none; color: var(--cbr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
-                    <span>Ranchi Headquarters Hub</span>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--cbr-border); text-decoration: none; color: var(--cbr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+                    <span>Packers and Movers in Ranchi</span>
                     <span style="color: var(--cbr-blue);">→</span>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/madurai-to-ranchi-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid var(--cbr-border); text-decoration: none; color: var(--cbr-navy); font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
@@ -1244,7 +1259,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

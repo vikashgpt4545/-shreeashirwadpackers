@@ -10,9 +10,9 @@ require_once __DIR__ . '/includes/config.php';
 
 // Page-specific variables
 $page_title = "Packers and Movers in Chandankiyari | Best Shifting Services Bokaro - Shree Ashirwad";
-$page_description = "Looking for the best packers and movers in Chandankiyari? Shree Ashirwad Packers offers trusted household shifting, bike/car transport, colliery & SAIL employee moving. Call +91 9835565233.";
+$page_description = "Looking for the best packers and movers in Chandankiyari? Shree Ashirwad Packers offers trusted household shifting, bike/car transport, colliery & SAIL employee moving. Call +91 8409531615.";
 $page_keywords = "packers and movers in chandankiyari, best movers and packers chandankiyari, movers and packers near me in chandankiyari, household shifting chandankiyari, car transport chandankiyari, bike shifting chandankiyari, packing and moving company in chandankiyari, local shifting in chandankiyari, bhojudih packers and movers, amlabad colliery shifting";
-$canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
+$canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-chandankiyari";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -67,24 +67,33 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers - Chandankiyari",
       "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
-      "@id": "<?php echo $canonical_url; ?>#movingcompany",
+      "@id": "<?php echo $canonical_url; ?>/#movingcompany",
       "url": "<?php echo $canonical_url; ?>",
-      "telephone": "+919835565233",
+      "telephone": "+918409531615",
+      "email": "<?php echo OFFICIAL_EMAIL; ?>",
+      "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
       "keywords": "packers and movers in chandankiyari, packers and movers chandankiyari, best packers and movers in chandankiyari, household shifting chandankiyari, car transport chandankiyari, bike parcel chandankiyari, iba approved packers chandankiyari, local shifting chandankiyari",
       "priceRange": "INR 3500 - 50000",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Chas-Purulia Main Road, Chandankiyari Bazar",
-        "addressLocality": "Chandankiyari, Bokaro",
+        "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
+        "addressLocality": "Bokaro Steel City",
         "addressRegion": "Jharkhand",
-        "postalCode": "828134",
+        "postalCode": "827012",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 23.5768,
-        "longitude": 86.3533
+        "latitude": 23.6693,
+        "longitude": 86.1511
       },
+      "areaServed": [
+        "Chandankiyari",
+        "Bhojudih",
+        "Amlabad",
+        "Chas",
+        "Bokaro Steel City"
+      ],
       "openingHoursSpecification": {
         "@type": "OpeningHoursSpecification",
         "dayOfWeek": [
@@ -100,8 +109,11 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
         "closes": "23:59"
       },
       "sameAs": [
-        "https://www.facebook.com/shreeashirwadpackers",
-        "https://www.youtube.com/@shreeashirwadpackers"
+        "<?php echo SOCIAL_FACEBOOK; ?>",
+        "<?php echo SOCIAL_TWITTER; ?>",
+        "<?php echo SOCIAL_INSTAGRAM; ?>",
+        "<?php echo SOCIAL_YOUTUBE; ?>",
+        "<?php echo SOCIAL_PINTEREST; ?>"
       ]
     }
     </script>
@@ -121,8 +133,8 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Packers and Movers Jharkhand",
-          "item": "<?php echo SITE_BASE_URL; ?>/#service-areas"
+          "name": "Packers and Movers in Bokaro",
+          "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro"
         },
         {
           "@type": "ListItem",
@@ -201,7 +213,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
           "name": "How can I book a free home survey in Chandankiyari?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You can call our dedicated 24x7 helpline at +91 9835565233 or WhatsApp us at +91 9835565233. Our Bokaro operations coordinator will schedule a free physical inspection or quick video survey to provide a transparent, fixed-price estimate."
+            "text": "You can call our dedicated 24x7 helpline at +91 8409531615 or WhatsApp us at +91 8409531615. Our Bokaro operations coordinator will schedule a free physical inspection or quick video survey to provide a transparent, fixed-price estimate."
           }
         }
       ]
@@ -229,10 +241,10 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
                     Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Chandankiyari and nearby areas with timely delivery support. As one of the top-rated movers and packers near Chandankiyari, we help families, colliery staff, and SAIL/BCCL employees relocate locally and across Jharkhand without hassle.
                 </p>
                 <div class="hero-cta-group" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 30px;">
-                    <a href="tel:+919835565233" class="btn-primary" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(239, 68, 68, 0.3); transition: all 0.3s ease;">
-                        <i class="fa-solid fa-phone-volume"></i> Call +91 9835565233
+                    <a href="tel:+918409531615" class="btn-primary" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(239, 68, 68, 0.3); transition: all 0.3s ease;">
+                        <i class="fa-solid fa-phone-volume"></i> Call +91 8409531615
                     </a>
-                    <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20moving%20in%20Chandankiyari" target="_blank" class="btn-whatsapp" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(34, 197, 94, 0.3); transition: all 0.3s ease;">
+                    <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20moving%20in%20Chandankiyari" target="_blank" class="btn-whatsapp" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 28px; border-radius: 8px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px rgba(34, 197, 94, 0.3); transition: all 0.3s ease;">
                         <i class="fa-brands fa-whatsapp"></i> WhatsApp Quote
                     </a>
                 </div>
@@ -262,7 +274,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
         <ol style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; align-items: center;">
             <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #475569; text-decoration: none;"><i class="fa-solid fa-house" style="margin-right: 4px;"></i> Home</a></li>
             <li style="color: #94a3b8;">/</li>
-            <li><a href="<?php echo SITE_BASE_URL; ?>/#service-areas" style="color: #475569; text-decoration: none;">Jharkhand</a></li>
+            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #475569; text-decoration: none;">Packers and Movers in Bokaro</a></li>
             <li style="color: #94a3b8;">/</li>
             <li style="color: #1e3a8a; font-weight: 600;" aria-current="page">Chandankiyari</li>
         </ol>
@@ -274,66 +286,26 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
         <div class="row" style="display: flex; flex-wrap: wrap; gap: 40px;">
             <div class="main-column" style="flex: 1 1 760px;">
-                
-                    <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers in Chandankiyari
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers in Chandankiyari</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Chandankiyari and nearby areas with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Chandankiyari</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including Practical Moving Recommendations for Chandankiyari:, Colliery Quarters Surrender Assistance:, Seamless Interstate Border Coordination: along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Chandankiyari</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service in Chandankiyari</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Chandankiyari</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me in Chandankiyari</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Chandankiyari</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Chandankiyari</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
-    <!-- Section 1: Overview & Strategic Location -->
+
+                <!-- Section 1: Overview & Strategic Location -->
                 <article class="article-block" style="margin-bottom: 50px;">
                     <h2 style="font-size: 28px; font-weight: 700; color: #0f172a; margin-bottom: 20px; font-family: 'Outfit', sans-serif;">
                         Top-Tier Relocation Services Across Chandankiyari & Bokaro Industrial Basin
                     </h2>
                     <p style="font-size: 16px; line-height: 1.8; color: #334155; margin-bottom: 18px;">
-                        Positioned in the eastern quadrant of Bokaro district, <strong>Chandankiyari</strong> functions as a vital socioeconomic corridor connecting the steel hub of Bokaro Steel City and Chas with the mining clusters of Dhanbad and the Purulia district of West Bengal. Bordered by the Damodar and Izri river systems, Chandankiyari is home to active coal mining settlements like Amlabad Colliery, significant railway junctions like Bhojudih on the Adra railway division, and thriving agrarian-commercial markets centered along the Chas-Purulia highway.
+                        Positioned in the eastern quadrant of Bokaro district, <strong>Chandankiyari</strong> functions as a vital socioeconomic corridor connecting the steel hub of <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #2563eb; font-weight: 600;">Bokaro Steel City</a> and <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #2563eb; font-weight: 600;">Chas</a> with the mining clusters of Dhanbad and the Purulia district of West Bengal. Bordered by the Damodar and Izri river systems, Chandankiyari is home to active coal mining settlements like Amlabad Colliery, significant railway junctions like Bhojudih on the Adra railway division, and thriving agrarian-commercial markets centered along the Chas-Purulia highway.
                     </p>
                     <p style="font-size: 16px; line-height: 1.8; color: #334155; margin-bottom: 18px;">
                         Because of its unique geography, relocating in Chandankiyari presents distinct operational needs. Families regularly transition between Chandankiyari and urban sectors of Bokaro Steel City (Sector 1 through Sector 12, Cooperative Colony), commercial hubs in Chas, colliery townships in Dhanbad and Jharia, or across state borders into Purulia and Bankura. Moving in this belt requires heavy-duty vehicles capable of handling mining road surfaces, dust-resistant packaging materials that shield delicate home furniture from airborne coal particles, and certified billing paperwork for public sector employee transfer allowances.
                     </p>
                     <p style="font-size: 16px; line-height: 1.8; color: #334155; margin-bottom: 25px;">
-                        <strong>Shree Ashirwad Packers and Movers</strong> has earned an outstanding reputation in Chandankiyari. Our trained field crews, equipped with dedicated closed container vehicles and multi-layered packaging supplies, manage every step of your move. From dismantling complex modular furniture to carefully cushioning televisions, refrigerators, and glassware, we guarantee that every single item arrives safely, punctually, and in immaculate condition.
+                        Coordinated directly from our verified Bokaro district branch office at <strong><?php echo BOKARO_BRANCH_FULL_ADDRESS; ?></strong>, <strong>Shree Ashirwad Packers and Movers</strong> has earned an outstanding reputation in Chandankiyari. Our trained field crews, equipped with dedicated closed container vehicles and multi-layered packaging supplies, manage every step of your move. From dismantling complex modular furniture to carefully cushioning televisions, refrigerators, and glassware, we guarantee that every single item arrives safely, punctually, and in immaculate condition.
                     </p>
 
                     <!-- Verified Image Embed 1 -->
                     <div class="content-media-embed" style="margin: 30px auto; max-width: 420px; width: 100%;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packaging in Chandankiyari by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/bubble-wrap-household-cartons-jharkhand.jpg" alt="Household packaging in Chandankiyari by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 18px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 13.5px; font-weight: 600;"><i class="fa-solid fa-box" style="color: #60a5fa; margin-right: 8px;"></i> Multi-layer bubble wrap & heavy corrugated cartons for household shifting in Chandankiyari.</p>
                             </div>
@@ -417,7 +389,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
                     <!-- Verified Image Embed 2 -->
                     <div class="content-media-embed" style="margin: 35px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Chandankiyari Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg" alt="Door to door delivery truck by Shree Ashirwad Packers in Chandankiyari Bokaro" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 20px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 14px; font-weight: 600;"><i class="fa-solid fa-truck-moving" style="color: #60a5fa; margin-right: 8px;"></i> Sealed containerized logistics fleet ensuring dust-free transit across Bokaro and Chas.</p>
                             </div>
@@ -591,7 +563,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
                     <!-- Verified Image Embed 3 -->
                     <div class="content-media-embed" style="margin: 35px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service in Chandankiyari by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" alt="Car transport carrier loading service in Chandankiyari by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 20px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 14px; font-weight: 600;"><i class="fa-solid fa-car-side" style="color: #60a5fa; margin-right: 8px;"></i> Hydraulic closed-body car carriers providing scratch-free automobile shifting.</p>
                             </div>
@@ -686,7 +658,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
                     <!-- Verified Image Embed 4 -->
                     <div class="content-media-embed" style="margin: 35px 0;">
                         <div class="image-wrapper" style="position: relative; aspect-ratio: 3/4; max-width: 420px; margin: 0 auto; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 28px rgba(0,0,0,0.12);">
-                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and household goods storage warehouse serving Chandankiyari by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;" loading="lazy">
+                            <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/commercial-goods-storage-warehouse-ranchi.jpg" alt="Commercial and household goods storage warehouse serving Chandankiyari by Shree Ashirwad Packers" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 20px; color: #ffffff;">
                                 <p style="margin: 0; font-size: 14px; font-weight: 600;"><i class="fa-solid fa-warehouse" style="color: #60a5fa; margin-right: 8px;"></i> Modern, 24/7 guarded warehouse facility protecting goods for short and long-term storage.</p>
                             </div>
@@ -750,8 +722,12 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
                     </p>
 
                     <!-- Local Google Map Embed -->
-                    <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0;">
-                        <iframe src="https://maps.google.com/maps?q=Chandankiyari%2C%20Jharkhand&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Map Location of Chandankiyari Jharkhand"></iframe>
+                    <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #e2e8f0; background: #f8fafc;">
+                        <iframe src="https://maps.google.com/maps?q=Chandankiyari%2C%20Jharkhand&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="320" style="border:0; display:block;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Map Location of Chandankiyari Jharkhand"></iframe>
+                        <div style="padding: 14px 20px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; font-size: 0.9rem; color: #334155;">
+                            <span><strong>Bokaro District Branch:</strong> <?php echo BOKARO_BRANCH_FULL_ADDRESS; ?></span>
+                            <a href="<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>" target="_blank" rel="noopener" style="color: #2563eb; font-weight: 700; text-decoration: none;">Get Directions to Bokaro Office &rarr;</a>
+                        </div>
                     </div>
                 </article>
 
@@ -830,7 +806,7 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
                                 <i class="fa-solid fa-circle-question" style="color: #2563eb; margin-right: 8px;"></i> How can I book a free home survey in Chandankiyari?
                             </h3>
                             <p style="font-size: 15px; line-height: 1.75; color: #334155; margin: 0;">
-                                You can call our dedicated 24x7 helpline at +91 9835565233 or WhatsApp us at +91 9835565233. Our Bokaro operations coordinator will schedule a free physical inspection or quick video survey to provide a transparent, fixed-price estimate.
+                                You can call our dedicated 24x7 helpline at +91 8409531615 or WhatsApp us at +91 8409531615. Our Bokaro operations coordinator will schedule a free physical inspection or quick video survey to provide a transparent, fixed-price estimate.
                             </p>
                         </div>
                     </div>
@@ -851,13 +827,13 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
                             Moving in or from Chandankiyari? Speak directly with our Bokaro relocation coordinator today.
                         </p>
                         <div style="display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px;">
-                            <a href="tel:9835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
-                                <i class="fa-solid fa-phone"></i> +91 9835565233
+                            <a href="tel:+918409531615" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #ef4444; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px; box-shadow: 0 6px 16px rgba(239, 68, 68, 0.25);">
+                                <i class="fa-solid fa-phone"></i> Call +91 8409531615
                             </a>
-                            <a href="tel:+919835565233" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #1e3a8a; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
-                                <i class="fa-solid fa-phone"></i> +91 9835565233
+                            <a href="<?php echo SITE_BASE_URL; ?>/contact" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #1e3a8a; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
+                                <i class="fa-solid fa-calculator"></i> Get Free Online Estimate
                             </a>
-                            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chandankiyari" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
+                            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Chandankiyari" target="_blank" style="display: flex; align-items: center; justify-content: center; gap: 10px; background: #22c55e; color: #ffffff; text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 15px;">
                                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
                             </a>
                         </div>
@@ -888,11 +864,12 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
                             Nearby Service Hubs
                         </h4>
                         <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; font-size: 13.5px;">
-                            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #2563eb; text-decoration: none; font-weight: 500;"><i class="fa-solid fa-arrow-right" style="font-size: 11px; margin-right: 6px;"></i> Bokaro Steel City</a></li>
+                            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #2563eb; text-decoration: none; font-weight: 500;"><i class="fa-solid fa-arrow-right" style="font-size: 11px; margin-right: 6px;"></i> Bokaro Steel City Hub</a></li>
                             <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #2563eb; text-decoration: none; font-weight: 500;"><i class="fa-solid fa-arrow-right" style="font-size: 11px; margin-right: 6px;"></i> Chas Commercial Hub</a></li>
-                            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad" style="color: #2563eb; text-decoration: none; font-weight: 500;"><i class="fa-solid fa-arrow-right" style="font-size: 11px; margin-right: 6px;"></i> Dhanbad Coal City</a></li>
+                            <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #2563eb; text-decoration: none; font-weight: 500;"><i class="fa-solid fa-arrow-right" style="font-size: 11px; margin-right: 6px;"></i> Sector 12 Bokaro Branch</a></li>
                             <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chandrapura" style="color: #2563eb; text-decoration: none; font-weight: 500;"><i class="fa-solid fa-arrow-right" style="font-size: 11px; margin-right: 6px;"></i> Chandrapura Thermal Belt</a></li>
-                            <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #2563eb; text-decoration: none; font-weight: 500;"><i class="fa-solid fa-arrow-right" style="font-size: 11px; margin-right: 6px;"></i> Ranchi State Capital</a></li>
+                            <li><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color: #2563eb; text-decoration: none; font-weight: 500;"><i class="fa-solid fa-arrow-right" style="font-size: 11px; margin-right: 6px;"></i> Bokaro to Dhanbad Corridor</a></li>
+                            <li><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color: #2563eb; text-decoration: none; font-weight: 500;"><i class="fa-solid fa-arrow-right" style="font-size: 11px; margin-right: 6px;"></i> Bokaro to Kolkata Corridor</a></li>
                         </ul>
                     </div>
 
@@ -916,10 +893,10 @@ $canonical_url = SITE_BASE_URL . "/packers-and-movers-in-chandankiyari";
             Reach out to Shree Ashirwad Packers and Movers today for a free pre-move consultation and transparent rate quote. Trust Jharkhand’s premier moving team for an effortless, on-time relocation.
         </p>
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-            <a href="tel:9835565233" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(239, 68, 68, 0.35);">
-                <i class="fa-solid fa-phone-volume"></i> Call +91 9835565233
+            <a href="tel:+918409531615" style="display: inline-flex; align-items: center; gap: 10px; background: #ef4444; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(239, 68, 68, 0.35);">
+                <i class="fa-solid fa-phone-volume"></i> Call +91 8409531615
             </a>
-            <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20me%20a%20quote%20for%20Chandankiyari" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(34, 197, 94, 0.35);">
+            <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20me%20a%20quote%20for%20Chandankiyari" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; background: #22c55e; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 16px; box-shadow: 0 8px 20px rgba(34, 197, 94, 0.35);">
                 <i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>

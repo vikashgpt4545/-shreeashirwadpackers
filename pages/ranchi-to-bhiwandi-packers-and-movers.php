@@ -5,9 +5,12 @@
  * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Ranchi to Bhiwandi.
  * Focus Keywords: ranchi to bhiwandi packers and movers, packers and movers ranchi to bhiwandi, house shifting ranchi to bhiwandi, car carrier ranchi to bhiwandi, bike transport ranchi to bhiwandi, household moving ranchi bhiwandi
  */
-if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/includes/config.php';
+$current_page = 'services';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
 }
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Ranchi to Bhiwandi Packers and Movers | Reliable Shifting Services";
 $page_desc = "Safe Ranchi to Bhiwandi packers and movers. 1720 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
@@ -369,15 +372,18 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-bhiwandi-packer
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Ranchi to Bhiwandi",
-        "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-        "@id": "<?php echo $canonical_url; ?>#company",
-        "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
-        "priceRange": "INR 9,500 - 45,000",
+        "@id": "https://www.shreeashirwadpackers.com/#organization",
+        "name": "Shree Ashirwad Packers and Movers",
+        "url": "https://www.shreeashirwadpackers.com",
+        "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
+        "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "description": "Professional inter-state relocation specialists providing door-to-door shifting, container linehaul, vehicle transportation, and transit insurance between Ranchi and Bhiwandi.",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
+        "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Main Road Main Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -464,24 +470,25 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-bhiwandi-packer
     {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
+        "@id": "https://www.shreeashirwadpackers.com/ranchi-to-bhiwandi-packers-and-movers#breadcrumb",
         "itemListElement": [
             {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "<?php echo SITE_BASE_URL; ?>/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
-                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Ranchi to Bhiwandi Shifting",
-                "item": "<?php echo $canonical_url; ?>"
+                "name": "Ranchi to Bhiwandi",
+                "item": "https://www.shreeashirwadpackers.com/ranchi-to-bhiwandi-packers-and-movers"
             }
         ]
     }
@@ -582,7 +589,20 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-bhiwandi-packer
 </head>
 <body>
 
-<?php include __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Bhiwandi</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- Hero Section -->
 <section class="c_ran_bhi-hero">
@@ -1116,6 +1136,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-bhiwandi-packer
     </div>
 </section>
 
-<?php include __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

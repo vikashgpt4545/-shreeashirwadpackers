@@ -11,8 +11,8 @@ function get_page_seo($page_identifier = 'home') {
 
     $seo_defaults = [
         'home' => [
-            'title' => 'Packers and Movers Ranchi - 9835565233',
-            'description' => 'Shree Ashirwad Packers and Movers in Ranchi offer trusted household, office & vehicle shifting across Jharkhand. Top movers and packers ranchi & packers movers in ranchi with IBA approved bills. Call 8409531615.',
+            'title' => 'Packers and Movers in Ranchi | Shree Ashirwad (IBA Approved)',
+            'description' => 'Top packers and movers in Ranchi by Shree Ashirwad. Safe household & vehicle shifting with IBA-approved bills, 4.9★ rating & 100% safety. Call 8409531615.',
             'canonical' => $canonical_base . '/',
             'keywords' => 'Packers and Movers Ranchi, packers and movers in ranchi, movers and packers ranchi, packers movers ranchi, packers movers in ranchi, best packers and movers in ranchi, top packers and movers in ranchi, movers and packers in ranchi, packers and movers in ranchi jharkhand, ranchi packers and movers contact number, iba approved packers and movers in ranchi, packers and movers charges in ranchi, packers and movers ranchi price list',
             'og_type' => 'website',

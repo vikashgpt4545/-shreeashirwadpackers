@@ -14,8 +14,8 @@ $page_title = "Ranchi to Deoghar Packers and Movers | Shree Ashirwad Packers";
 $page_description = "Best Ranchi to Deoghar packers and movers by Shree Ashirwad. Same-day 6-hr shifting via NH-20, AIIMS doctor kits, 5-layer packing & IBA bills. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-deoghar-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -70,7 +70,7 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-deoghar-packers-and-movers",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "₹4,500 - ₹38,000",
     "address": {
       "@type": "PostalAddress",
@@ -82,8 +82,8 @@ require_once __DIR__ . '/includes/seo.php';
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3639813,
-      "longitude": 85.3090259
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "openingHoursSpecification": {
       "@type": "OpeningHoursSpecification",
@@ -186,19 +186,19 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Jharkhand Relocation Corridors",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Ranchi to Deoghar Packers and Movers",
-        "item": "https://www.shreeashirwadpackers.com/ranchi-to-deoghar-packers-and-movers"
+        "item": "<?php echo $canonical_url; ?>"
       }
     ]
   }
@@ -560,11 +560,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php include __DIR__ . '/../includes/header.php'; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
 
 <!-- Hero Section -->
 <section class="route-hero">
   <div class="container">
+    <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;"><i class="fa fa-home"></i> Home</a>
+      <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+      <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
+      <span aria-current="page" style="color:#ff6a28; font-weight:600;">Ranchi to Deoghar</span>
+    </nav>
     <h1>Ranchi to Deoghar Packers and Movers | Express Same-Day Relocation</h1>
     <p>Professional door-to-door household shifting, specialized AIIMS Deoghar doctor relocation kits, sacred temple artifact crating, and enclosed container transit connecting Jharkhand's capital to Baba Baidyanath Dham city via NH-20.</p>
     <div class="route-badge-bar">
@@ -612,7 +619,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Deoghar</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Deoghar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Deoghar</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Deoghar</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Deoghar</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -832,7 +839,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="cta-banner">
     <h3>Plan Your Stress-Free Move from Ranchi to Deoghar Today</h3>
     <p style="max-width: 700px; margin: 0 auto; color: #e2e8f0;">Get a free, transparent moving estimate with guaranteed same-day delivery, 5-layer protective packing, and verified IBA reimbursement documentation.</p>
-    <a href="tel:+919835565233" class="cta-btn-amber">📞 Call Free Moving Helpline: +91 9835565233</a>
+    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="cta-btn-amber">📞 Call Free Moving Helpline: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
     <p style="font-size: 0.9rem; margin-top: 15px; color: #cbd5e1;">Headquarters: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002</p>
   </div>
 
@@ -841,7 +848,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Related Relocation Services & Jharkhand Intercity Corridors</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Explore connected relocation hubs, pricing charts, and regional corridors connecting with Ranchi and Deoghar:</p>
     <div class="cluster-grid-deoghar">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-deoghar">🏠 Ranchi Headquarters Main Hub</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-deoghar">🏠 Packers and Movers in Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-deoghar">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-deoghar">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="cluster-link-deoghar">📦 Household Shifting in Ranchi</a>
@@ -858,7 +865,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php include __DIR__ . '/../includes/footer.php'; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

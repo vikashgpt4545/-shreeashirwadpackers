@@ -70,6 +70,8 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
     "description": "Premium long-distance interstate relocation service connecting Bangalore (Bengaluru) to Bokaro Steel City & Chas. Specialized container transport for tech professionals, household goods, cars, and bikes with zero transshipment and IBA approved transit documentation.",
     "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "email": "<?php echo OFFICIAL_EMAIL; ?>",
+    "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
     "priceRange": "₹6,000 - ₹95,000",
     "address": {
       "@type": "PostalAddress",
@@ -90,6 +92,13 @@ require_once __DIR__ . '/includes/seo.php';
       "opens": "07:00",
       "closes": "22:00"
     },
+    "sameAs": [
+      "<?php echo SOCIAL_FACEBOOK; ?>",
+      "<?php echo SOCIAL_TWITTER; ?>",
+      "<?php echo SOCIAL_INSTAGRAM; ?>",
+      "<?php echo SOCIAL_YOUTUBE; ?>",
+      "<?php echo SOCIAL_PINTEREST; ?>"
+    ],
     "areaServed": [
       { "@type": "City", "name": "Bangalore" },
       { "@type": "City", "name": "Bokaro Steel City" },
@@ -304,48 +313,6 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
       </header>
 
-    <!-- Competitor Ranking Keyword Content Section -->
-    <section style="padding: 35px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 28px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.45rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers from Bangalore to Bokaro
-                </h3>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the best packers and movers from Bangalore to Bokaro? Shree Ashirwad Packers and Movers provides trusted household shifting, commercial office relocation, bike transport service, car carrier transportation, and complete door-to-door moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Bangalore and Bokaro with guaranteed on-time delivery support.
-                </p>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the top-rated packers and movers near Bangalore, we help families, defense personnel, corporate executives, and businesses relocate intercity without hassle.
-                </p>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major pickup hubs in Bangalore including Whitefield, Electronic City, HSR Layout, Koramangala, and Marathahalli along with nearby residential sectors and industrial zones for fast, secure, and reliable shifting services.
-                </p>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need local shifting, intercity relocation, express office moving, luggage transport, or specialized vehicle transportation, our trained staff ensures secure handling and transit insurance support.
-                </p>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our movers and packers service for transparent pricing, zero hidden charges, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide nearby packers and movers support with pincode-based scheduling, same-day packing assistance, floor-to-floor handling, and flexible moving options.
-                </p>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From 1 BHK / 2 BHK flat relocations to large corporate setups, our packing and moving company delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable movers and packers near me from Bangalore to Bokaro, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
-                </p>
-                <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for instant booking and free quote.
-                </p>
-            </div>
-        </div>
-    </section>
-
-
       <!-- Main Body Text Sections -->
       <div style="font-size: 1.05rem; line-height: 1.8; color: #334155;">
 
@@ -368,8 +335,7 @@ require_once __DIR__ . '/includes/seo.php';
           <div style="margin: 30px auto; max-width: 550px; text-align: center;">
             <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg" 
                  alt="Waterproof sealed container loading for Bangalore to Bokaro relocation" 
-                 style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;"
-                 loading="lazy">
+                 style="width: 100%; height: 280px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); display: block; margin: 0 auto;">
             <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px; font-style: italic;">
               High-capacity weatherproof sealed container trucks ensure zero moisture seepage and zero highway dust across the 1,850 km Bangalore to Bokaro transit route.
             </p>
@@ -458,8 +424,7 @@ require_once __DIR__ . '/includes/seo.php';
           <div style="margin: 30px 0; text-align: center;">
             <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/electronics-led-tv-crating-jharkhand.jpg" 
                  alt="Custom wooden crating for large LED television moving from Bangalore to Bokaro" 
-                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
-                 loading="lazy">
+                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);">
             <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px; font-style: italic;">
               Customized timber crating provides uncompromising protection for premium electronics and fragile glass furniture during multi-day inter-state linehaul transit.
             </p>
@@ -571,16 +536,12 @@ require_once __DIR__ . '/includes/seo.php';
           <p>
             Driving your personal car or motorcycle across 1,900 km through varied road conditions and lengthy toll queues is physically exhausting and causes substantial vehicle wear and tear. Shree Ashirwad Packers and Movers offers dedicated automobile shipping services from Bangalore directly to Bokaro Steel City and Chas.
           </p>
-          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-</div>
 
           <!-- Verified Image Asset 3 -->
           <div style="margin: 30px 0; text-align: center;">
             <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/car-transport-carrier-loading-jharkhand.jpg" 
                  alt="Car carrier trailer loading vehicle for transport from Bangalore to Bokaro" 
-                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
-                 loading="lazy">
+                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);">
             <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px; font-style: italic;">
               Enclosed car carrying trailers provide hydraulic platform loading, wheel lock straps, and full road transit insurance across the Bangalore-Bokaro expressway route.
             </p>
@@ -665,8 +626,7 @@ require_once __DIR__ . '/includes/seo.php';
           <div style="margin: 30px 0; text-align: center;">
             <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/unpacking-and-setup-service-ranchi.jpg" 
                  alt="Doorstep unpacking and furniture placement service in Bokaro" 
-                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);"
-                 loading="lazy">
+                 style="width: 100%; max-width: 900px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08);">
             <p style="font-size: 0.85rem; color: #64748b; margin-top: 8px; font-style: italic;">
               Our trained Bokaro destination crew unboxes cartons, reassembles double beds and dining furniture, and places appliances exactly where you want them.
             </p>
@@ -787,15 +747,18 @@ require_once __DIR__ . '/includes/seo.php';
           </p>
           <div style="display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.9rem;">
             <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers and Movers in Bokaro</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Packers in Chas</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 4 Bokaro</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Sector 12 Bokaro Branch</a>
             <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Household Shifting in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Car Transport in Bokaro</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bike Transport in Bokaro</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Bangalore Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Ranchi Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Kolkata Movers</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color: #ff6a28; text-decoration: none; background: #fff7ed; padding: 9px 15px; border-radius: 6px; font-weight: 700; border: 1px solid #fed7aa;">Bangalore to Bokaro Movers (Current)</a>
-            <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro to Patna Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Dhanbad to Bokaro Movers</a>
             <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Bokaro Shifting Guide</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color: #0284c7; text-decoration: none; background: #f0f9ff; padding: 9px 15px; border-radius: 6px; font-weight: 600; border: 1px solid #bae6fd;">Cost Calculator &amp; Rates</a>
           </div>
         </section>
 
@@ -805,6 +768,5 @@ require_once __DIR__ . '/includes/seo.php';
 
   <!-- Global Footer -->
   <?php include __DIR__ . '/includes/footer.php'; ?>
-  <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>
 </body>
 </html>

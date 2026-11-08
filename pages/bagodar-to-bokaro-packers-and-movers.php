@@ -12,7 +12,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Bagodar to Bokaro Packers and Movers | Best Shifting Services - Shree Ashirwad";
-$page_desc = "Looking for the best packers and movers from Bagodar to Bokaro? Shree Ashirwad offers 80 km express 2-3 hr transit, household shifting, bike transport, car carrier, IBA approved bill. Call +91 9835565233.";
+$page_desc = "Looking for the best packers and movers from Bagodar to Bokaro? Shree Ashirwad offers 80 km express 2-3 hr transit, household shifting, bike transport, car carrier, IBA approved bill. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bagodar-to-bokaro-packers-and-movers";
 $route_origin = "Bagodar";
 $route_destination = "Bokaro Steel City";
@@ -458,7 +458,7 @@ $og_image = SITE_BASE_URL . "/images/wooden-furniture-wrapping-bokaro.jpg";
         <div class="bag2bok-container">
             <nav class="bag2bok-breadcrumbs" aria-label="Breadcrumb">
                 <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &raquo;
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bagodar">Bagodar</a> &raquo;
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Bokaro Packers and Movers</a> &raquo;
                 <span>Bagodar to Bokaro</span>
             </nav>
 
@@ -474,8 +474,8 @@ $og_image = SITE_BASE_URL . "/images/wooden-furniture-wrapping-bokaro.jpg";
             </div>
 
             <div class="bag2bok-cta-group">
-                <a href="tel:+919835565233" class="bag2bok-btn-primary"><i class="fa-solid fa-phone"></i> Call +91 9835565233</a>
-                <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Bagodar%20to%20Bokaro%20shifting" class="bag2bok-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
+                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="bag2bok-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo SECONDARY_PHONE; ?></a>
+                <a href="https://wa.me/<?php echo SECONDARY_PHONE_RAW; ?>?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Bagodar%20to%20Bokaro%20shifting" class="bag2bok-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
             </div>
         </div>
     </header>
@@ -515,7 +515,7 @@ $og_image = SITE_BASE_URL . "/images/wooden-furniture-wrapping-bokaro.jpg";
                     If you are searching for reliable movers and packers near me from Bagodar to Bokaro, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for instant booking and free quote.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for instant booking and free quote.
                 </p>
             </div>
         </div>
@@ -811,7 +811,31 @@ $og_image = SITE_BASE_URL . "/images/wooden-furniture-wrapping-bokaro.jpg";
 
                 <div class="bag2bok-faq-item">
                     <h4 class="bag2bok-faq-q">How can I book my relocation with Shree Ashirwad Packers?</h4>
-                    <p class="bag2bok-faq-a">You can book by calling 8409531615 or 9835565233. We recommend booking 2 to 3 days in advance to secure your preferred date and dedicated container vehicle.</p>
+                    <p class="bag2bok-faq-a">You can book by calling <?php echo SECONDARY_PHONE; ?>. We recommend booking 2 to 3 days in advance to secure your preferred date and dedicated container vehicle.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Intercity Route Cluster Navigation -->
+    <section class="bag2bok-section bg-light" style="padding-top: 20px;">
+        <div class="bag2bok-container">
+            <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 28px; box-shadow: 0 2px 10px rgba(0,0,0,0.03);">
+                <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.4rem; font-weight: 800; color: #0f172a; margin-bottom: 1rem;">
+                    Explore Connected Bokaro &amp; Jharkhand Relocation Routes
+                </h3>
+                <p style="font-size: 0.95rem; color: #64748b; margin-bottom: 1.5rem;">
+                    Connect seamlessly across our industrial and interdistrict relocation network linking Bagodar and Bokaro Steel City:
+                </p>
+                <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro Hub Main Page</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bagodar-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Bagodar (Return Route)</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Sector 4 Bokaro</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Chas Bokaro</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Dhanbad</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Bokaro to Ranchi</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Household Shifting Bokaro</a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/pricing" style="background: #f1f5f9; color: #0f172a; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600; border: 1px solid #e2e8f0;">Cost Calculator &amp; Rates</a>
                 </div>
             </div>
         </div>
@@ -827,7 +851,7 @@ $og_image = SITE_BASE_URL . "/images/wooden-furniture-wrapping-bokaro.jpg";
         "image": "<?php echo $og_image; ?>",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo SECONDARY_PHONE; ?>",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",

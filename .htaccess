@@ -93,6 +93,8 @@ RewriteRule ^packers-and-movers-in-nagaruntari(\.php)?/?$ /packers-and-movers-in
 RewriteRule ^packers-and-movers-in-husainabad(\.php)?/?$ /packers-and-movers-in-hussainabad [R=301,L]
 RewriteRule ^packers-and-movers-in-garhwa(\.php)?/?$ /packers-and-movers-in-gharwha [R=301,L]
 RewriteRule ^packers-and-movers-in-seraikela-kharsawan(\.php)?/?$ /packers-and-movers-in-saraikela-kharsawan [R=301,L]
+RewriteRule ^bokaro-to-bokaro-steel-city-packers-and-movers(\.php)?/?$ /packers-and-movers-in-bokaro [R=301,L]
+RewriteRule ^bangalore-to-bokaro-packers-and-movers(\.php)?/?$ /packers-and-movers-bangalore-to-bokaro [R=301,L]
 RewriteRule ^services(\.php)?/?$ / [R=301,L]
 RewriteRule ^(jharkhand|packers-and-movers-in-jharkhand)(\.php)?/?$ / [R=301,L]
 

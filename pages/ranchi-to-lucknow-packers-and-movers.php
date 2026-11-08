@@ -12,8 +12,11 @@ $page_title = "Ranchi to Lucknow Packers and Movers | Awadh Corridor - Shree Ash
 $page_description = "Certified Ranchi to Lucknow Packers and Movers by Shree Ashirwad. Dedicated weatherproof container trucks, 680 km express corridor transit, 4-layer packing, doorstep delivery across Gomti Nagar, Indira Nagar & Hazratganj. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-lucknow-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -68,7 +71,8 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹6,000 - ₹55,000",
     "address": {
       "@type": "PostalAddress",
@@ -197,8 +201,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Corridors",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -500,7 +504,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php include __DIR__ . '/../includes/header.php'; ?>
+<?php include BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumbs Navigation Bar -->
+<nav class="lucknow-breadcrumb" aria-label="Breadcrumb" style="background: #1e1b4b; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+  <div class="container" style="display: flex; align-items: center; gap: 8px; font-size: 0.88rem; flex-wrap: wrap;">
+    <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #cbd5e1; text-decoration: none;">Home</a>
+    <span style="color: #64748b;">/</span>
+    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #cbd5e1; text-decoration: none;">Packers and Movers in Ranchi</a>
+    <span style="color: #64748b;">/</span>
+    <span style="color: #fde047; font-weight: 600;">Ranchi to Lucknow</span>
+  </div>
+</nav>
 
 <!-- Hero Section -->
 <section class="lucknow-hero">
@@ -764,7 +779,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="cta-banner-lucknow">
     <h3 style="color: #ffffff; font-size: 1.85rem; margin-bottom: 12px;">Planning Your Move from Ranchi to Lucknow?</h3>
     <p style="font-size: 1.1rem; max-width: 720px; margin: 0 auto; color: #ddd6fe;">Get a guaranteed, all-inclusive binding moving quote from eastern India’s most trusted interstate packers and movers. Free home survey and transparent pricing.</p>
-    <a href="tel:+919835565233" class="cta-btn-gold">📞 Call Now: +91 9835565233</a>
+    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="cta-btn-gold">📞 Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
   </div>
 
   <!-- Internal Cluster Linking Box -->
@@ -772,7 +787,8 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="color: #4c1d95; font-size: 1.3rem; margin-bottom: 10px;">Explore Our Complete Ranchi Relocation Network & Services</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Connect with our specialized moving services and other popular interstate linehaul corridors originating from Ranchi:</p>
     <div class="cluster-grid-lucknow">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-lucknow">Packers and Movers in Ranchi (Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-lucknow">Packers and Movers in Ranchi (Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/lucknow-to-ranchi-packers-and-movers" class="cluster-link-lucknow">Lucknow to Ranchi (Return Route)</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-lucknow">Packers and Movers Charges in Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-lucknow">Complete Ranchi House Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-pune-packers-and-movers" class="cluster-link-lucknow">Ranchi to Pune Linehaul Corridor</a>
@@ -794,7 +810,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php include __DIR__ . '/../includes/footer.php'; ?>
+<?php include BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

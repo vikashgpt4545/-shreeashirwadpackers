@@ -8,8 +8,8 @@
  * Focus: Express 48-KM Short-Haul Corridor via NH-20 & Patratu Valley, Army Cantt, CCL & PVUNL Transfers
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Ramgarh to Ranchi - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Top packers and movers ramgarh to ranchi by Shree Ashirwad. Express 1.5-hr shifting via NH-20 & Patratu Valley, 5-layer packing, IBA approved bills & zero damage.";
@@ -75,7 +75,7 @@ $meta_keywords = "packers and movers ramgarh to ranchi, ramgarh to ranchi packer
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Premier packers and movers ramgarh to ranchi providing express same-day household shifting, Army Cantonment & defense transfer bills, CCL & PVUNL employee relocation, and vehicle transport.",
-    "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "<?php echo OFFICIAL_EMAIL; ?>",
     "priceRange": "₹5,000 - ₹26,000",
     "currenciesAccepted": "INR",
@@ -167,12 +167,12 @@ $meta_keywords = "packers and movers ramgarh to ranchi, ramgarh to ranchi packer
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+918409531615",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
       "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
         "postalCode": "834002",
@@ -208,8 +208,8 @@ $meta_keywords = "packers and movers ramgarh to ranchi, ramgarh to ranchi packer
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Jharkhand Routes",
-        "item": "<?php echo SITE_BASE_URL; ?>/#service-areas"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -866,7 +866,7 @@ $meta_keywords = "packers and movers ramgarh to ranchi, ramgarh to ranchi packer
 <body>
 
   <!-- Global Site Header -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
   <main id="mainContent">
 
@@ -874,11 +874,11 @@ $meta_keywords = "packers and movers ramgarh to ranchi, ramgarh to ranchi packer
     <section class="hero-ramgarh">
       <div class="container">
         <nav class="breadcrumb-trail" aria-label="Breadcrumb">
-          <a href="<?php echo SITE_BASE_URL; ?>/">Home</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/"><i class="fa fa-home"></i> Home</a>
           <span>&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#service-areas">Jharkhand Corridors</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
           <span>&gt;</span>
-          <span style="color:#ffaa7d; font-weight:600;">Packers and Movers Ramgarh to Ranchi</span>
+          <span style="color:#ffaa7d; font-weight:600;">Ramgarh to Ranchi</span>
         </nav>
 
         <div class="hero-badge-pill">
@@ -895,9 +895,9 @@ $meta_keywords = "packers and movers ramgarh to ranchi, ramgarh to ranchi packer
         </p>
 
         <div class="hero-cta-group">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-hero-call">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-hero-call">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            <span>Call Moving Desk: <strong>8409531615</strong></span>
+            <span>Call Moving Desk: <strong><?php echo PRIMARY_PHONE_DISPLAY; ?></strong></span>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-hero-wa">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1512,9 +1512,9 @@ $meta_keywords = "packers and movers ramgarh to ranchi, ramgarh to ranchi packer
           Experience zero-damage packing, express 1.5-hour highway transit via NH-20, same-day carpenter furniture setup, and 100% genuine IBA-approved bills. Speak with our certified moving coordinator now for a free survey and guaranteed fixed pricing.
         </p>
         <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-hero-call" style="font-size: 1.05rem; padding: 15px 32px;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-hero-call" style="font-size: 1.05rem; padding: 15px 32px;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Highway Route Desk: 8409531615
+            Call Highway Route Desk: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-hero-wa" style="font-size: 1.05rem; padding: 15px 30px;">
             <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91 0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21 5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0012.04 2z"/></svg>
@@ -1534,7 +1534,7 @@ $meta_keywords = "packers and movers ramgarh to ranchi, ramgarh to ranchi packer
           Explore our dedicated corridor relocation solutions across Jharkhand and central services in the capital city of Ranchi:
         </p>
         <div class="directory-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" title="Packers and Movers in Ranchi Jharkhand" class="dir-link dir-link-primary">Packers and Movers in Ranchi Jharkhand</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ramgarh" title="Packers and Movers in Ramgarh" class="dir-link dir-link-primary">Packers and Movers in Ramgarh</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-palamu-to-ranchi" title="Packers and Movers Palamu to Ranchi" class="dir-link">Palamu to Ranchi Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-pakur-to-ranchi" title="Packers and Movers Pakur to Ranchi" class="dir-link">Pakur to Ranchi Movers</a>
@@ -1554,7 +1554,7 @@ $meta_keywords = "packers and movers ramgarh to ranchi, ramgarh to ranchi packer
   </main>
 
   <!-- Global Site Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
   <!-- Core JavaScript -->
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>

@@ -17,7 +17,9 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-packe
 // Common layout variables
 $current_page = 'services';
 
-require_once __DIR__ . '/../includes/config.php';
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/../includes/config.php';
+}
 require_once __DIR__ . '/../includes/seo.php';
 ?>
 
@@ -73,17 +75,22 @@ require_once __DIR__ . '/../includes/seo.php';
         "name": "Shree Ashirwad Packers and Movers",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/ranchi-to-saraikela-packers-and-movers",
-        "telephone": "+91-8409531615",
-        "email": "contact@shreeashirwadpackers.com",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹11,000 - ₹34,000",
         "description": "Professional same-day packers and movers from Ranchi to Saraikela (Seraikela-Kharsawan), Kandra, and Sini. Specialized in government transfers, court staff relocation, and industrial moves.",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Ranchi Central Hub, Near Overbridge, Main Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
             "addressCountry": "IN"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "23.3441",
+            "longitude": "85.3096"
         },
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -118,8 +125,8 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Jharkhand Expansion Routes",
-                "item": "https://www.shreeashirwadpackers.com/routes"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -205,7 +212,9 @@ require_once __DIR__ . '/../includes/seo.php';
         "serviceType": "Intercity Same-Day Relocation",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+            "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": {
             "@type": "Place",
@@ -632,13 +641,20 @@ require_once __DIR__ . '/../includes/seo.php';
 <!-- HERO SECTION -->
 <section class="ran-sar-hero">
     <div class="ran-sar-container">
+        <nav style="margin-bottom: 20px; font-size: 0.95rem; color: #fef08a;" aria-label="Breadcrumb">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #fef08a; text-decoration: none;">Home</a>
+            <span style="margin: 0 8px; color: #fde047;">/</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #fef08a; text-decoration: none;">Packers and Movers in Ranchi</a>
+            <span style="margin: 0 8px; color: #fde047;">/</span>
+            <span style="color: #ffffff; font-weight: 600;">Ranchi to Saraikela Packers and Movers</span>
+        </nav>
         <span class="ran-sar-hero-badge"><i class="fa-solid fa-landmark"></i> Same-Day District Administration &amp; Heritage Express</span>
         <h1>Reliable Ranchi to Saraikela Packers and Movers</h1>
         <p>
             Shree Ashirwad Packers and Movers delivers smooth same-day household shifting, judicial and administrative officer transfers, Kandra auto-ancillary relocation, and Sini railway workshop moves from Ranchi to Saraikela-Kharsawan. 115 km prompt transit via NH-33, 5-layer heavy packing, waterproof container trucks, and 100% audit-approved reimbursement bills.
         </p>
         <div class="ran-sar-hero-cta">
-            <a href="tel:+918409531615" class="ran-sar-btn-primary"><i class="fa-solid fa-phone"></i> Call 084095 31615</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran-sar-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="ran-sar-btn-secondary"><i class="fa-solid fa-file-invoice"></i> Get Instant Quote</a>
         </div>
         <div class="ran-sar-trust-badges">
@@ -995,7 +1011,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Saraikela to Ranchi (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/" class="ran-sar-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ran-sar-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
@@ -1027,8 +1043,8 @@ require_once __DIR__ . '/../includes/seo.php';
             Get in touch with Shree Ashirwad Packers and Movers for a free pre-move survey, transparent rates, and seamless same-day shifting to Saraikela-Kharsawan.
         </p>
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-            <a href="tel:+918409531615" class="ran-sar-btn-primary"><i class="fa-solid fa-phone"></i> Call +91-8409531615</a>
-            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Ranchi%20to%20Saraikela" class="ran-sar-btn-secondary" style="background: #25D366; border-color: #25D366; color: #ffffff;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran-sar-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+            <a href="<?php echo WHATSAPP_LINK; ?>" class="ran-sar-btn-secondary" style="background: #25D366; border-color: #25D366; color: #ffffff;" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp (<?php echo PRIMARY_PHONE_DISPLAY; ?>)</a>
         </div>
     </div>
 </section>

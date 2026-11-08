@@ -10,9 +10,10 @@
 if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Ranchi to Chakradharpur | Fast Shifting";
-$page_desc = "Reliable packers and movers from Ranchi to Chakradharpur. 115 km safe transit via Khunti, 5-layer packing, railway & govt transfer billing. Call 9835565233.";
+$page_desc = "Reliable packers and movers from Ranchi to Chakradharpur. 115 km safe transit via Khunti, 5-layer packing, railway & govt transfer billing. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-chakradharpur-packers-and-movers";
 $route_origin = "Ranchi";
 $route_destination = "Chakradharpur";
@@ -66,13 +67,14 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
         "name": "Shree Ashirwad Packers and Movers Ranchi & Chakradharpur",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/ranchi-to-chakradharpur-packers-and-movers",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹4,500 - ₹34,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
-            "addressRegion": "JH",
+            "addressRegion": "Jharkhand",
             "postalCode": "834002",
             "addressCountry": "IN"
         },
@@ -143,13 +145,13 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Packers and Movers Ranchi",
-                "item": "https://www.shreeashirwadpackers.com/"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Ranchi to Chakradharpur",
+                "name": "Ranchi to Chakradharpur Packers and Movers",
                 "item": "https://www.shreeashirwadpackers.com/ranchi-to-chakradharpur-packers-and-movers"
             }
         ]
@@ -163,8 +165,10 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
         "@type": "Service",
         "serviceType": "Intercity Moving & Logistics",
         "provider": {
-            "@type": "LocalBusiness",
-            "name": "Shree Ashirwad Packers and Movers"
+            "@type": "MovingCompany",
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+            "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": {
             "@type": "City",
@@ -652,6 +656,13 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
     <!-- HERO SECTION -->
     <header class="rn-ckp-hero">
         <div class="container">
+            <nav style="margin-bottom: 20px; font-size: 0.95rem; color: #cbd5e1;" aria-label="Breadcrumb">
+                <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #cbd5e1; text-decoration: none;">Home</a>
+                <span style="margin: 0 8px; color: #94a3b8;">/</span>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #cbd5e1; text-decoration: none;">Packers and Movers in Ranchi</a>
+                <span style="margin: 0 8px; color: #94a3b8;">/</span>
+                <span style="color: #ffffff; font-weight: 600;">Ranchi to Chakradharpur Packers and Movers</span>
+            </nav>
             <div class="row align-items-center">
                 <div class="col-lg-8">
                     <div class="rn-ckp-badges">
@@ -665,10 +676,10 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                         Reliable door-to-door household shifting, railway staff transfer moving, and vehicle transportation from Ranchi to Chakradharpur. Professional 5-layer protective packing, dedicated closed container trucks via Khunti & Bandgaon, and seamless same-day delivery.
                     </p>
                     <div class="rn-ckp-cta-bar">
-                        <a href="tel:+919835565233" class="btn-route-call">
-                            <span>📞 Call 084095 31615</span>
+                        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-route-call">
+                            <span>📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></span>
                         </a>
-                        <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quotation%20for%20shifting%20from%20Ranchi%20to%20Chakradharpur." class="btn-route-wa" target="_blank" rel="noopener">
+                        <a href="<?php echo WHATSAPP_LINK; ?>" class="btn-route-wa" target="_blank" rel="noopener">
                             <span>💬 WhatsApp Instant Quote</span>
                         </a>
                     </div>
@@ -738,7 +749,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     If you are searching for reliable movers and packers near me from Ranchi to Chakradharpur, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -1172,7 +1183,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
             </div>
 
             <div class="cluster-hub-grid">
-                <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-hub-link">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-hub-link">
                     <span>Ranchi Head Office Hub</span>
                     <span>→</span>
                 </a>

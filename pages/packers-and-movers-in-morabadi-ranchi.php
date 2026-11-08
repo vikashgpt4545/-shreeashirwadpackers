@@ -24,16 +24,16 @@ include_once __DIR__ . '/../includes/config.php';
     "@context": "https://schema.org",
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers - Morabadi Ranchi",
-    "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
-    "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-morabadi-ranchi",
-    "telephone": "+91 9835565233",
+    "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
+    "url": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Tagore Hill Road & Morabadi Ground Commercial Hub",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Morabadi, Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834008",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -71,19 +71,19 @@ include_once __DIR__ . '/../includes/config.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "item": "<?php echo SITE_BASE_URL; ?>/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Packers and Movers in Morabadi Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-morabadi-ranchi"
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-morabadi-ranchi"
       }
     ]
   }
@@ -525,6 +525,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Morabadi</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-mrb-wrapper">
   <!-- Hero Section -->
   <section class="hl-mrb-hero-section">
@@ -538,8 +551,8 @@ include_once __DIR__ . '/../includes/config.php';
         <h1>Packers and Movers in Morabadi Ranchi</h1>
         <p>Looking for the best packers and movers in Morabadi Ranchi? Shree Ashirwad Packers and Movers provides trusted household shifting, villa relocation, university faculty moves, office relocation, bike transport, car transport, and complete moving solutions at affordable prices. Our experienced in-house team offers safe packing, loading, unloading, transportation, and unpacking services across Tagore Hill Road, Morabadi Ground, VIP Colony, and Boreya Road with timely delivery support.</p>
         <div class="hl-mrb-cta-btns">
-          <a href="tel:+919835565233" class="hl-mrb-btn-primary">Call Now: +91 98355 65233</a>
-          <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Morabadi%20Ranchi." class="hl-mrb-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-mrb-btn-primary">Call Now: +91 8409531615</a>
+          <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hi%2C%20I%20need%20packers%20and%20movers%20in%20Morabadi%20Ranchi." class="hl-mrb-btn-secondary" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
       <div class="hl-mrb-quote-card">
@@ -581,7 +594,7 @@ include_once __DIR__ . '/../includes/config.php';
       <h2>Trusted Local Relocation Specialists in Morabadi, Ranchi</h2>
       <p>Morabadi is widely recognized as one of the most culturally distinguished, green, and elite residential localities in Ranchi. Centered around the iconic Morabadi Ground and the historic Tagore Hill where Jyotirindranath Tagore once resided, this upscale neighborhood is home to senior university professors, distinguished government officials, defense veterans, healthcare leaders, and thriving business families. The locality features a graceful blend of spacious independent bungalows, elegant duplex villas, and contemporary multi-story apartment complexes located along Tagore Hill Road, Boreya Road, Hill View Road, and Karamtoli Chowk.</p>
 
-      <p>Moving home or setting up a new residence in Morabadi demands exceptional care, punctuality, and specialized material handling skills. The neighborhood's quiet tree-lined avenues, private gated residential lanes, and modern high-rise apartments require moving crews who understand how to maneuver safely through narrow driveways, protect polished marble flooring, safeguard residential elevator interiors, and execute quiet, respectful moving operations. Shree Ashirwad Packers and Movers brings over a decade of dedicated moving experience as the most reliable <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">movers and packers Ranchi</a>, ensuring that every piece of furniture, high-end appliance, and personal heirloom is packed and transported with flawless precision.</p>
+      <p>Moving home or setting up a new residence in Morabadi demands exceptional care, punctuality, and specialized material handling skills. The neighborhood's quiet tree-lined avenues, private gated residential lanes, and modern high-rise apartments require moving crews who understand how to maneuver safely through narrow driveways, protect polished marble flooring, safeguard residential elevator interiors, and execute quiet, respectful moving operations. Shree Ashirwad Packers and Movers brings over a decade of dedicated moving experience as the most reliable <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, ensuring that every piece of furniture, high-end appliance, and personal heirloom is packed and transported with flawless precision.</p>
 
       <div class="hl-mrb-img-card">
         <img loading="lazy" decoding="async" src="<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg" alt="Dedicated Moving Truck Serving Morabadi Ranchi">
@@ -636,7 +649,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Morabadi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Morabadi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Morabadi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Morabadi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Morabadi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>

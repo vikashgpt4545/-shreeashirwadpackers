@@ -12,8 +12,11 @@ $page_title = "Ranchi to Nagpur Packers and Movers | Zero Mile Linehaul - Shree 
 $page_description = "Certified Ranchi to Nagpur Packers and Movers by Shree Ashirwad. Dedicated weatherproof container trucks, 850 km Central India linehaul transit, 4-layer packing, doorstep delivery across Dharampeth, Ramdaspeth, MIHAN & Wardha Road. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-nagpur-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -68,7 +71,7 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "₹6,000 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
@@ -80,8 +83,8 @@ require_once __DIR__ . '/includes/seo.php';
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3639813,
-      "longitude": 85.3090259
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "openingHoursSpecification": {
       "@type": "OpeningHoursSpecification",
@@ -197,8 +200,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Corridors",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -500,11 +503,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php include __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
 <!-- Hero Section -->
 <section class="nagpur-hero">
   <div class="container">
+    <nav class="nagpur-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#fed7aa; text-decoration:none;">Home</a>
+      <span style="color:#fdba74;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#fed7aa; text-decoration:none;">Packers and Movers in Ranchi</a>
+      <span style="color:#fdba74;">/</span>
+      <span style="color:#fde047; font-weight:600;">Ranchi to Nagpur</span>
+    </nav>
     <h1>Ranchi to Nagpur Packers and Movers | Zero Mile Linehaul</h1>
     <p>Seamless 850 km interstate relocation connecting the plateau of Ranchi with Central India's logistics capital and the Orange City of Nagpur. Dedicated weatherproof container fleet, 4-tier impact-dampening packaging, real-time GPS tracking, and turnkey delivery across Dharampeth, Ramdaspeth, Wardha Road, and MIHAN SEZ.</p>
     <div class="nagpur-badge-bar">
@@ -772,7 +782,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="color: #9a3412; font-size: 1.3rem; margin-bottom: 10px;">Explore Our Complete Ranchi Relocation Network & Services</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Connect with our specialized moving services and other popular interstate linehaul corridors originating from Ranchi:</p>
     <div class="cluster-grid-nagpur">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-nagpur">Packers and Movers in Ranchi (Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-nagpur">Packers and Movers in Ranchi (Hub)</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-nagpur">Packers and Movers Charges in Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-nagpur">Complete Ranchi House Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gurgaon-packers-and-movers" class="cluster-link-nagpur">Ranchi to Gurgaon Linehaul Corridor</a>
@@ -802,7 +812,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php include __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

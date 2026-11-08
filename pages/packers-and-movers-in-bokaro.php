@@ -11,6 +11,7 @@
 
 require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
+$csrf_token = generate_csrf_token();
 
 $page_title = "Packers and Movers in Bokaro Steel City | Best Shifting Services Chas - Shree Ashirwad";
 $page_description = "Looking for the best packers and movers in Bokaro & Chas? Shree Ashirwad Packers offers IBA-approved household shifting, SAIL employee moves, car/bike transport & storage. Call +91 8409531615.";
@@ -107,7 +108,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
       "latitude": 23.6693,
       "longitude": 86.1511
     },
-    "hasMap": "https://maps.google.com/?q=23.6693,86.1511",
+    "hasMap": "https://www.google.com/maps?q=Plot+no+-+54/c,+Post+office+sector+-+12/A,+Bokaro,+Jharkhand+827012",
+    "parentOrganization": {
+      "@type": "MovingCompany",
+      "@id": "https://www.shreeashirwadpackers.com/#organization",
+      "name": "Shree Ashirwad Packers and Movers"
+    },
+    "sameAs": [
+      "<?php echo SOCIAL_FACEBOOK; ?>",
+      "<?php echo SOCIAL_TWITTER; ?>",
+      "<?php echo SOCIAL_INSTAGRAM; ?>",
+      "<?php echo SOCIAL_YOUTUBE; ?>",
+      "<?php echo SOCIAL_PINTEREST; ?>"
+    ],
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -251,41 +264,119 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
   <main id="mainContent">
 
     <!-- Hero Section -->
-    <section class="page-hero" style="position:relative; padding: 70px 0 50px; background: linear-gradient(135deg, #0b1727 0%, #102a45 60%, #1a3a5f 100%); color: #ffffff; overflow: hidden;">
+    <section class="page-hero" style="position:relative; padding: 55px 0 50px; background: linear-gradient(135deg, #0b1727 0%, #102a45 60%, #1a3a5f 100%); color: #ffffff; overflow: hidden;">
       <div class="hero-glow hero-glow-1" style="position:absolute; top:-100px; left:-100px; width:400px; height:400px; background:radial-gradient(circle, rgba(255,106,40,0.15) 0%, rgba(255,106,40,0) 70%); border-radius:50%; pointer-events:none;"></div>
       <div class="hero-glow hero-glow-2" style="position:absolute; bottom:-100px; right:-100px; width:500px; height:500px; background:radial-gradient(circle, rgba(30,144,255,0.15) 0%, rgba(30,144,255,0) 70%); border-radius:50%; pointer-events:none;"></div>
       
-      <div class="container page-hero-wrapper" style="position:relative; z-index:2; max-width:1140px; margin:0 auto; padding:0 20px;">
-        <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
-          <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
-          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#services" style="color:#cbd5e1; text-decoration:none;">Services</a>
-          <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
-          <span aria-current="page" style="color:#ff6a28; font-weight:600;">Packers and Movers in Bokaro</span>
-        </nav>
-        
-        <h1 class="page-hero-title" style="font-size: clamp(2rem, 4vw, 3rem); font-weight:800; line-height:1.2; margin-bottom:18px;">
-          Packers and Movers in Bokaro - <span class="gradient-text" style="background: linear-gradient(90deg, #ff6a28, #ff8c52); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Shree Ashirwad Packers</span>
-        </h1>
-        
-        <p class="page-hero-subtitle" style="font-size:1.15rem; line-height:1.7; color:#cbd5e1; max-width:880px; margin-bottom:16px;">
-          Looking for the <strong>best packers and movers in Bokaro</strong>? We provide trusted household shifting, SAIL officer relocation, office moving, bike transport, car transport, and complete moving solutions at affordable prices across Bokaro Steel City, Chas, and pan-India.
-        </p>
-        <p style="font-size:1rem; line-height:1.7; color:#cbd5e1; max-width:880px; margin-bottom:16px;">
-          Our experienced team offers safe packing, loading, unloading, transportation, and unpacking services across Bokaro sectors and nearby areas with timely delivery support. As one of the top-rated movers and packers near Bokaro, we help families and businesses relocate locally and across Jharkhand without hassle.
-        </p>
-        <p style="font-size:0.95rem; line-height:1.7; color:#cbd5e1; max-width:880px; margin-bottom:28px;">
-          With our dedicated branch office in Sector 12/A (Plot no - 54/c), Shree Ashirwad Packers and Movers brings over 15 years of industry excellence to Bokaro Steel City, Chas, and surrounding industrial belts. We deliver 100% damage-free household shifting, corporate relocations, industrial logistics, and vehicle transportation backed by authentic IBA-approved documentation.
-        </p>
+      <div class="container page-hero-wrapper" style="position:relative; z-index:2; max-width:1200px; margin:0 auto; padding:0 20px;">
+        <div class="hero-grid" style="align-items:center;">
+          <div>
+            <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:16px; font-size:0.9rem; color:#94a3b8;">
+              <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+              <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
+              <a href="<?php echo SITE_BASE_URL; ?>/#services" style="color:#cbd5e1; text-decoration:none;">Jharkhand</a>
+              <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
+              <span aria-current="page" style="color:#ff6a28; font-weight:600;">Packers and Movers in Bokaro</span>
+            </nav>
+            
+            <h1 class="page-hero-title" style="font-size: clamp(1.9rem, 3.6vw, 2.75rem); font-weight:800; line-height:1.2; margin-bottom:16px;">
+              Packers and Movers in Bokaro - <span class="gradient-text" style="background: linear-gradient(90deg, #ff6a28, #ff8c52); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Shree Ashirwad Packers</span>
+            </h1>
+            
+            <p class="page-hero-subtitle" style="font-size:1.05rem; line-height:1.65; color:#cbd5e1; margin-bottom:14px;">
+              Looking for the <strong>best packers and movers in Bokaro</strong>? Operating directly from our verified <strong>Sector 12/A branch office (Plot no - 54/c)</strong>, we provide IBA-approved household shifting, SAIL BSL &amp; PSU employee transfers, office moving, and enclosed car &amp; bike transport across Bokaro Steel City, Chas, and pan-India.
+            </p>
+            <p style="font-size:0.95rem; line-height:1.65; color:#cbd5e1; margin-bottom:24px;">
+              Backed by 15+ years of moving excellence, permanent packing crews, and company-owned closed container trucks, we guarantee 100% damage-free shifting with transparent GST &amp; IBA claim documentation.
+            </p>
 
-        <div class="hero-cta-buttons" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
-          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
-            <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Bokaro Office: +91 8409531615
-          </a>
-          <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener noreferrer" class="btn-outline-custom" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px); transition: all 0.3s ease;">
-            WhatsApp Moving Estimate &rarr;
-          </a>
+            <div class="hero-cta-buttons" style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;">
+              <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:13px 24px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
+                Call Bokaro Office: +91 8409531615
+              </a>
+              <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="noopener noreferrer" class="btn-outline-custom" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:13px 22px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px); transition: all 0.3s ease;">
+                WhatsApp Moving Estimate &rarr;
+              </a>
+            </div>
+          </div>
+
+          <!-- Right Column: Instant Bokaro Moving Quote Card -->
+          <div class="hero-form-wrapper">
+            <div class="quote-card">
+              <div class="quote-card-header">
+                <div class="quote-badge">
+                  <span class="pulse-indicator"></span>
+                  <span>Bokaro Branch • Sector 12/A</span>
+                </div>
+                <h2 class="quote-card-title">Get Free Bokaro Moving Quote</h2>
+                <p class="quote-card-desc">Instant estimate in 60 seconds • Zero hidden charges</p>
+              </div>
+
+              <div id="formStatusMessage" class="form-status-message"></div>
+
+              <form action="<?php echo SITE_BASE_URL; ?>/submit-quote.php" method="POST" class="quote-form" id="heroQuoteForm">
+                <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars($csrf_token, ENT_QUOTES, 'UTF-8'); ?>">
+                <input type="text" name="website_url_hp" class="form-honeypot" tabindex="-1" autocomplete="off">
+
+                <div class="form-row">
+                  <div class="form-group">
+                    <label for="leadName" class="form-label">Full Name *</label>
+                    <input type="text" id="leadName" name="name" class="form-control" placeholder="Your Name" required autocomplete="name">
+                  </div>
+                  <div class="form-group">
+                    <label for="leadPhone" class="form-label">Phone Number *</label>
+                    <input type="tel" id="leadPhone" name="phone" class="form-control" placeholder="10-digit mobile" required pattern="[0-9]{10}" maxlength="10" autocomplete="tel">
+                  </div>
+                </div>
+
+                <div class="form-row">
+                  <div class="form-group">
+                    <label for="leadFrom" class="form-label">Moving From *</label>
+                    <input type="text" id="leadFrom" name="moving_from" class="form-control" placeholder="e.g. Sector 4 / Chas, Bokaro" required>
+                  </div>
+                  <div class="form-group">
+                    <label for="leadTo" class="form-label">Moving To *</label>
+                    <input type="text" id="leadTo" name="moving_to" class="form-control" placeholder="Drop City / Sector" required>
+                  </div>
+                </div>
+
+                <div class="form-row">
+                  <div class="form-group">
+                    <label for="leadService" class="form-label">Service Type</label>
+                    <select id="leadService" name="service_type" class="form-control">
+                      <option value="Residential Shifting">Household / SAIL Quarter Shifting</option>
+                      <option value="Vehicle Shifting">Car &amp; Bike Transport</option>
+                      <option value="Business Shifting">Office / Commercial Shifting</option>
+                      <option value="Domestic Shifting">Intercity Pan-India Move</option>
+                      <option value="Warehouse Service">Warehouse &amp; Storage</option>
+                    </select>
+                  </div>
+                  <div class="form-group">
+                    <label for="leadMessage" class="form-label">Shifting Size</label>
+                    <input type="text" id="leadMessage" name="message" class="form-control" placeholder="e.g. 2BHK, Car, IBA Bill">
+                  </div>
+                </div>
+
+                <button type="submit" class="btn-submit-quote">
+                  <span>Calculate Bokaro Moving Cost</span>
+                  <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </button>
+
+                <div class="form-security-note">
+                  <span class="sec-item">
+                    <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
+                    IBA Approved Billing
+                  </span>
+                  <span class="sec-sep">•</span>
+                  <span class="sec-item">
+                    <svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm1 14h-2v-2h2v2zm0-4h-2V7h2v5z"/></svg>
+                    Callback in 15 Mins
+                  </span>
+                </div>
+              </form>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -342,46 +433,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
     <!-- Main Content Body -->
     <div class="container" style="max-width:1140px; margin:50px auto; padding:0 20px;">
       
-          <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers in Bokaro
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers in Bokaro</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Bokaro and nearby areas with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Bokaro</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including Bokaro, Jharkhand along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Bokaro</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service in Bokaro</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Bokaro</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me in Bokaro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Bokaro</strong>. Call <strong><a href="tel:+918409531615" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
     <!-- Section 1: Detailed Introduction & Local Context (Visually Broken Up, No Wall of Text) -->
       <section style="margin-bottom:60px;">
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:36px; align-items:center;">
@@ -498,13 +549,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
             <div>
               <div style="color:#ff6a28; font-size:1.8rem; margin-bottom:12px;">&#127968;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" style="color:#0f223d; text-decoration:none;">Household Shifting Services</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color:#0f223d; text-decoration:none;">Household Shifting Services in Bokaro</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
                 Complete home relocation for apartments, independent houses, and SAIL quarters. From delicate crockery and heavy double beds to modular kitchens and wardrobes, our crew dismantles, multi-layer wraps, transports, and reassembles every item seamlessly.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/residential-shifting/" style="color:#ff6a28; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Home Shifting &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color:#ff6a28; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Bokaro Home Shifting &rarr;</a>
           </div>
 
           <!-- Service Card 2 -->
@@ -526,13 +577,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
             <div>
               <div style="color:#16a34a; font-size:1.8rem; margin-bottom:12px;">&#128663;</div>
               <h3 style="font-size:1.25rem; font-weight:700; color:#0f223d; margin-bottom:10px;">
-                <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" style="color:#0f223d; text-decoration:none;">Car Carrier & Bike Transportation</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color:#0f223d; text-decoration:none;">Car Carrier & Bike Transport in Bokaro</a>
               </h3>
               <p style="font-size:0.95rem; line-height:1.6; color:#475569; margin-bottom:16px;">
-                Safe, insured vehicle transportation across India using enclosed car carriers and wooden-crated bike packing. Equipped with wheel locks, safety harnesses, and GPS tracking for sedans, SUVs, and motorcycles.
+                Safe, insured vehicle transportation across India using enclosed car carriers and <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro" style="color:#16a34a; font-weight:600; text-decoration:underline;">wooden-crated bike packing</a>. Equipped with wheel locks, safety harnesses, and GPS tracking for sedans, SUVs, and motorcycles.
               </p>
             </div>
-            <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" style="color:#16a34a; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Vehicle Shifting &rarr;</a>
+            <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color:#16a34a; font-weight:600; font-size:0.92rem; text-decoration:none;">Explore Bokaro Car &amp; Bike Transport &rarr;</a>
           </div>
 
           <!-- Service Card 4 -->
@@ -639,24 +690,24 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
               Bokaro Steel City Sectors
             </h3>
             <ul style="list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:12px; color:#475569; font-size:0.95rem;">
-              <li><strong>Sector 1 & Sector 2:</strong> Well-established residential avenues, older quarter complexes requiring customized furniture dismantling for narrow stairwells.</li>
-              <li><strong>Sector 3 & Sector 5:</strong> Dense employee housing with high volumes of transfer moves during financial and academic year-ends.</li>
-              <li><strong>Sector 4 (City Centre):</strong> Commercial hubs, retail stores, coaching institutes, and executive residences requiring timed night-moving to prevent retail disruption.</li>
-              <li><strong>Sector 6, 8 & 9:</strong> Large residential quarters, extensive school zones (DPS, Chinmaya) requiring coordinated family relocation services.</li>
-              <li><strong>Sector 11 & Sector 12 (including 12/A):</strong> Location of our local branch office, modern residential apartments, and direct connectivity to Chas bypass.</li>
+              <li><strong>Sector 1 &amp; Sector 2:</strong> Well-established residential avenues, older quarter complexes requiring customized furniture dismantling for narrow stairwells.</li>
+              <li><strong>Sector 3 &amp; Sector 5:</strong> Dense employee housing with high volumes of transfer moves during financial and academic year-ends.</li>
+              <li><strong><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color:#0f223d; text-decoration:underline;">Sector 4 (City Centre)</a>:</strong> Commercial hubs, retail stores, coaching institutes, and executive residences requiring timed night-moving to prevent retail disruption.</li>
+              <li><strong>Sector 6, 8 &amp; 9:</strong> Large residential quarters, extensive school zones (DPS, Chinmaya) requiring coordinated family relocation services.</li>
+              <li><strong><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color:#0f223d; text-decoration:underline;">Sector 11 &amp; Sector 12 (including 12/A)</a>:</strong> Location of our local branch office, modern residential apartments, and direct connectivity to Chas bypass.</li>
             </ul>
           </div>
 
           <div style="background:#f8fafc; border:1px solid #e2e8f0; border-radius:12px; padding:24px;">
             <h3 style="font-size:1.2rem; font-weight:700; color:#0f223d; margin-bottom:14px; border-bottom:2px solid #2563eb; padding-bottom:8px;">
-              Chas & Satellite Industrial Belts
+              Chas &amp; Satellite Industrial Belts
             </h3>
             <ul style="list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:12px; color:#475569; font-size:0.95rem;">
-              <li><strong>Chas Municipal Corporation:</strong> Chas Bazar, ITI More, Checkpost, Jhopro, and Bypass Road, demanding skilled navigation through bustling commercial thoroughfares.</li>
-              <li><strong>Cooperative Colony & Camp 2:</strong> High-density private residential neighborhoods with multi-story bungalows and apartment towers.</li>
+              <li><strong><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color:#0f223d; text-decoration:underline;">Chas Municipal Corporation</a>:</strong> Chas Bazar, Chira Chas, ITI More, Checkpost, Jhopro, and Bypass Road, demanding skilled navigation through bustling commercial thoroughfares.</li>
+              <li><strong>Cooperative Colony &amp; Camp 2:</strong> High-density private residential neighborhoods with multi-story bungalows and apartment towers.</li>
               <li><strong>Balidih Industrial Area (BIADA):</strong> Industrial manufacturing facilities, engineering workshops, and ancillary steel processing logistics.</li>
-              <li><strong>Chandrapura & Bermo Coal Belt:</strong> Power plant township logistics (DVC Chandrapura) and mining executive relocations in Phusro and Bermo.</li>
-              <li><strong>Gomia, Jaridih, Petarwar & Chandankiyari:</strong> Rural and semi-urban moving connectivity along the NH-320 and Purulia road arteries.</li>
+              <li><strong><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chandrapura" style="color:#0f223d; text-decoration:underline;">Chandrapura</a> &amp; <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bermo" style="color:#0f223d; text-decoration:underline;">Bermo</a> Coal Belt:</strong> Power plant township logistics (DVC Chandrapura) and mining executive relocations in <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-phusro" style="color:#0f223d; text-decoration:underline;">Phusro</a> and Bermo.</li>
+              <li><strong><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-gomia" style="color:#0f223d; text-decoration:underline;">Gomia</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jaridih" style="color:#0f223d; text-decoration:underline;">Jaridih</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-petarwar" style="color:#0f223d; text-decoration:underline;">Petarwar</a>, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-kasmar" style="color:#0f223d; text-decoration:underline;">Kasmar</a> &amp; <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chandankiyari" style="color:#0f223d; text-decoration:underline;">Chandankiyari</a>:</strong> Rural and semi-urban moving connectivity along the NH-320 and Purulia road arteries.</li>
             </ul>
           </div>
 
@@ -766,49 +817,49 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
             </thead>
             <tbody>
               <tr style="border-bottom:1px solid #e2e8f0;">
-                <td style="padding:14px 18px; font-weight:600; color:#0f223d;">Bokaro to Ranchi</td>
+                <td style="padding:14px 18px; font-weight:600; color:#0f223d;"><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color:#0d47a1; text-decoration:underline;">Bokaro to Ranchi</a></td>
                 <td style="padding:14px 18px; color:#475569;">~115 km (NH-320)</td>
                 <td style="padding:14px 18px; color:#475569;">₹11,000 – ₹18,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹2,000 – ₹3,500</td>
                 <td style="padding:14px 18px; color:#475569;">₹6,500 – ₹9,500</td>
               </tr>
               <tr style="border-bottom:1px solid #e2e8f0; background:#f8fafc;">
-                <td style="padding:14px 18px; font-weight:600; color:#0f223d;">Bokaro to Dhanbad</td>
+                <td style="padding:14px 18px; font-weight:600; color:#0f223d;"><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color:#0d47a1; text-decoration:underline;">Bokaro to Dhanbad</a></td>
                 <td style="padding:14px 18px; color:#475569;">~45 km (NH-218)</td>
                 <td style="padding:14px 18px; color:#475569;">₹8,000 – ₹14,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹1,800 – ₹2,800</td>
                 <td style="padding:14px 18px; color:#475569;">₹5,000 – ₹7,500</td>
               </tr>
               <tr style="border-bottom:1px solid #e2e8f0;">
-                <td style="padding:14px 18px; font-weight:600; color:#0f223d;">Bokaro to Jamshedpur</td>
+                <td style="padding:14px 18px; font-weight:600; color:#0f223d;"><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-jamshedpur-packers-and-movers" style="color:#0d47a1; text-decoration:underline;">Bokaro to Jamshedpur</a></td>
                 <td style="padding:14px 18px; color:#475569;">~125 km (via Purulia/NH-18)</td>
                 <td style="padding:14px 18px; color:#475569;">₹12,000 – ₹20,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹2,500 – ₹4,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹7,000 – ₹10,500</td>
               </tr>
               <tr style="border-bottom:1px solid #e2e8f0; background:#f8fafc;">
-                <td style="padding:14px 18px; font-weight:600; color:#0f223d;">Bokaro to Patna</td>
+                <td style="padding:14px 18px; font-weight:600; color:#0f223d;"><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color:#0d47a1; text-decoration:underline;">Bokaro to Patna</a></td>
                 <td style="padding:14px 18px; color:#475569;">~310 km (NH-20 / NH-33)</td>
                 <td style="padding:14px 18px; color:#475569;">₹18,000 – ₹32,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹3,500 – ₹5,500</td>
                 <td style="padding:14px 18px; color:#475569;">₹10,500 – ₹15,000</td>
               </tr>
               <tr style="border-bottom:1px solid #e2e8f0;">
-                <td style="padding:14px 18px; font-weight:600; color:#0f223d;">Bokaro to Kolkata</td>
+                <td style="padding:14px 18px; font-weight:600; color:#0f223d;"><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color:#0d47a1; text-decoration:underline;">Bokaro to Kolkata</a></td>
                 <td style="padding:14px 18px; color:#475569;">~305 km (NH-19 / Grand Trunk)</td>
                 <td style="padding:14px 18px; color:#475569;">₹17,000 – ₹30,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹3,500 – ₹5,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹10,000 – ₹14,500</td>
               </tr>
               <tr style="border-bottom:1px solid #e2e8f0; background:#f8fafc;">
-                <td style="padding:14px 18px; font-weight:600; color:#0f223d;">Bokaro to Delhi NCR</td>
+                <td style="padding:14px 18px; font-weight:600; color:#0f223d;"><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" style="color:#0d47a1; text-decoration:underline;">Bokaro to Delhi NCR</a></td>
                 <td style="padding:14px 18px; color:#475569;">~1,180 km (NH-19 Corridor)</td>
                 <td style="padding:14px 18px; color:#475569;">₹32,000 – ₹55,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹5,500 – ₹8,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹16,000 – ₹24,000</td>
               </tr>
               <tr style="border-bottom:1px solid #e2e8f0;">
-                <td style="padding:14px 18px; font-weight:600; color:#0f223d;">Bokaro to Bengaluru</td>
+                <td style="padding:14px 18px; font-weight:600; color:#0f223d;"><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" style="color:#0d47a1; text-decoration:underline;">Bokaro to Bengaluru</a></td>
                 <td style="padding:14px 18px; color:#475569;">~1,780 km (NH-16 / NH-44)</td>
                 <td style="padding:14px 18px; color:#475569;">₹42,000 – ₹72,000</td>
                 <td style="padding:14px 18px; color:#475569;">₹6,500 – ₹9,500</td>
@@ -1013,17 +1064,17 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
 
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:28px; align-items:center; background:#f8fafc; border:1px solid #e2e8f0; border-radius:14px; padding:24px;">
           
-          <!-- Responsive Google Map Embed -->
+          <!-- Responsive Google Map Embed Pinned to Sector 12/A Branch -->
           <div style="position:relative; width:100%; height:360px; border-radius:10px; overflow:hidden; box-shadow:0 4px 12px rgba(0,0,0,0.06); border:1px solid #cbd5e1;">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116997.74474773873!2d86.07923485!3d23.66929655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f42301c223a763%3A0x2ff25c1cb5a2a29c!2sBokaro%20Steel%20City%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1710000000000!5m2!1sen!2sin" 
+              src="https://maps.google.com/maps?q=Plot+no+-+54/c,+Post+office+sector+-+12/A,+Bokaro,+Jharkhand+827012&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed" 
               width="100%" 
               height="100%" 
               style="border:0;" 
               allowfullscreen="" 
               loading="lazy" 
               referrerpolicy="no-referrer-when-downgrade"
-              title="Map of Bokaro Steel City - Shree Ashirwad Packers and Movers">
+              title="Shree Ashirwad Packers and Movers Bokaro Branch - Plot no 54/c, Post Office Sector 12/A">
             </iframe>
           </div>
 
@@ -1031,13 +1082,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
           <div style="display:flex; flex-direction:column; gap:16px;">
             <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:18px;">
               <h3 style="font-size:1.15rem; font-weight:700; color:#0f223d; margin-bottom:8px;">
-                Verified Geographic Coordinates
+                Sector 12/A Branch &amp; Coordinates
               </h3>
               <div style="display:flex; flex-direction:column; gap:8px; font-size:0.92rem; color:#475569;">
-                <div><strong>Latitude:</strong> 23.6693° N</div>
-                <div><strong>Longitude:</strong> 86.1511° E</div>
-                <div><strong>Elevation:</strong> ~210 meters above sea level</div>
-                <div><strong>District Headquarters:</strong> Bokaro Steel City (Camp 2 / Sector 1)</div>
+                <div><strong>Branch Address:</strong> <?php echo BOKARO_BRANCH_FULL_ADDRESS; ?></div>
+                <div><strong>Latitude / Longitude:</strong> 23.6693° N, 86.1511° E</div>
+                <div><strong>PIN Code:</strong> 827012 (Post Office Sector 12/A)</div>
+                <div style="margin-top:4px;"><a href="<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>" target="_blank" rel="noopener noreferrer" style="color:#ff6a28; font-weight:700; text-decoration:underline;">Get Driving Directions on Google Maps &rarr;</a></div>
               </div>
             </div>
 
@@ -1076,7 +1127,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
               </div>
               <div style="display:flex; align-items:center; gap:10px;">
                 <strong style="color:#0f223d; min-width:80px;">Phone:</strong>
-                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color:#ff6a28; font-weight:700; text-decoration:none;">8409531615</a> / <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color:#0f223d; font-weight:700; text-decoration:none;">8409531615</a>
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color:#ff6a28; font-weight:700; text-decoration:none;">+91 8409531615</a>
               </div>
               <div style="display:flex; align-items:center; gap:10px;">
                 <strong style="color:#0f223d; min-width:80px;">Email:</strong>
@@ -1152,7 +1203,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
               Where is your branch office located in Bokaro?
             </h3>
             <p style="font-size:0.95rem; line-height:1.7; color:#475569; margin:0;">
-              Our verified local branch office in Bokaro is located at Plot no - 54/c, Post office sector - 12/A, Bokaro, Jharkhand - 827012. You can contact our local moving coordinator directly at 8409531615 or 8409531615.
+              Our verified local branch office in Bokaro is located at Plot no - 54/c, Post office sector - 12/A, Bokaro, Jharkhand - 827012. You can contact our local moving coordinator directly at +91 8409531615.
             </p>
           </div>
 
@@ -1238,15 +1289,23 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bok
         </p>
         <div style="display:flex; flex-wrap:wrap; gap:12px; font-size:0.9rem;">
           <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color:#ff6a28; text-decoration:none; background:#fff7ed; padding:9px 15px; border-radius:6px; font-weight:700; border:1px solid #fed7aa;">Packers and Movers in Bokaro (Current Hub)</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Sector 4 Bokaro Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Sector 12 Bokaro Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Packers &amp; Movers in Chas</a>
           <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Household Shifting in Bokaro</a>
           <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Car Transport in Bokaro</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bike Transport in Bokaro</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Ranchi Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Dhanbad Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-jamshedpur-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Jamshedpur Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Kolkata Movers</a>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bangalore to Bokaro Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Patna Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-delhi-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Delhi Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro to Bangalore Movers</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-bangalore-to-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bangalore to Bokaro Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/dhanbad-to-bokaro-packers-and-movers" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Dhanbad to Bokaro Movers</a>
           <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Bokaro Shifting Guide</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator" style="color:#0284c7; text-decoration:none; background:#f0f9ff; padding:9px 15px; border-radius:6px; font-weight:600; border:1px solid #bae6fd;">Moving Cost Calculator</a>
         </div>
       </section>
 

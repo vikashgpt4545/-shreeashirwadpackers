@@ -12,13 +12,15 @@
 
 // Define page-specific metadata
 $page_title = "Ranchi to Ghatshila Packers & Movers | Shree Ashirwad";
-$page_description = "Top Ranchi to Ghatshila packers and movers by Shree Ashirwad. Same-day 4-hr transit via NH-33/NH-18, HCL/Govt transfer bills, 5-layer packing. Call 9835565233.";
+$page_description = "Top Ranchi to Ghatshila packers and movers by Shree Ashirwad. Same-day 4-hr transit via NH-33/NH-18, HCL/Govt transfer bills, 5-layer packing. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-ghatshila-packers-and-movers";
 
 // Common layout variables
 $current_page = 'services';
 
-require_once __DIR__ . '/../includes/config.php';
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/../includes/config.php';
+}
 require_once __DIR__ . '/../includes/seo.php';
 ?>
 
@@ -74,17 +76,22 @@ require_once __DIR__ . '/../includes/seo.php';
         "name": "Shree Ashirwad Packers and Movers",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "https://www.shreeashirwadpackers.com/ranchi-to-ghatshila-packers-and-movers",
-        "telephone": "+91-9835565233",
-        "email": "contact@shreeashirwadpackers.com",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹10,500 - ₹34,000",
         "description": "Professional Ranchi to Ghatshila packers and movers offering dedicated household goods moving, HCL Moubhandar executive transfer, car transport, and bike shifting via NH-33.",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Ranchi Central Hub, Near Overbridge, Main Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
             "addressCountry": "IN"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "aggregateRating": {
             "@type": "AggregateRating",
@@ -119,8 +126,8 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Jharkhand Expansion Routes",
-                "item": "https://www.shreeashirwadpackers.com/routes"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -190,7 +197,9 @@ require_once __DIR__ . '/../includes/seo.php';
         "serviceType": "Intercity Packers and Movers",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+            "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": {
             "@type": "Place",
@@ -617,13 +626,22 @@ require_once __DIR__ . '/../includes/seo.php';
 <!-- HERO SECTION -->
 <section class="ran-gha-hero">
     <div class="ran-gha-container">
+        <!-- Visual Breadcrumb Navigation -->
+        <nav class="breadcrumb-nav" aria-label="Breadcrumb" style="margin-bottom: 20px;">
+            <ol style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; font-size: 0.88rem; color: #cbd5e1;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a> &raquo;</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #93c5fd; text-decoration: none;">Packers and Movers in Ranchi</a> &raquo;</li>
+                <li style="color: #ffffff;" aria-current="page">Ranchi to Ghatshila</li>
+            </ol>
+        </nav>
+
         <span class="ran-gha-hero-badge"><i class="fa-solid fa-truck-fast"></i> Express 4-Hour NH-33/NH-18 Transit</span>
         <h1>Trusted Ranchi to Ghatshila Packers and Movers</h1>
         <p>
             Shree Ashirwad Packers and Movers provides fast, safe, and fully insured intercity shifting services from Ranchi to Ghatshila, Moubhandar Copper Township, and Musabani. Dedicated linehaul container vehicles, 5-layer protective packing, and 100% audit-approved bills for HCL PSU executives, civil servants, and residential families.
         </p>
         <div class="ran-gha-hero-cta">
-            <a href="tel:+919835565233" class="ran-gha-btn-primary"><i class="fa-solid fa-phone"></i> Call 084095 31615</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran-gha-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="ran-gha-btn-secondary"><i class="fa-solid fa-file-invoice"></i> Get Instant Quote</a>
         </div>
         <div class="ran-gha-trust-badges">
@@ -670,7 +688,7 @@ require_once __DIR__ . '/../includes/seo.php';
                     If you are searching for reliable movers and packers near me from Ranchi to Ghatshila, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -972,7 +990,7 @@ require_once __DIR__ . '/../includes/seo.php';
                 <span>Ghatshila to Ranchi (Return)</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/" class="ran-gha-cluster-link">
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="ran-gha-cluster-link">
                 <span>Ranchi Headquarters Hub</span>
                 <i class="fa-solid fa-arrow-right"></i>
             </a>
@@ -1004,8 +1022,8 @@ require_once __DIR__ . '/../includes/seo.php';
             Contact Shree Ashirwad Packers and Movers for a free pre-move survey, transparent quotation, and guaranteed safe same-day delivery to your new home in Ghatshila.
         </p>
         <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-            <a href="tel:+919835565233" class="ran-gha-btn-primary"><i class="fa-solid fa-phone"></i> Call +91-9835565233</a>
-            <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Ranchi%20to%20Ghatshila" class="ran-gha-btn-secondary" style="background: #25D366; border-color: #25D366; color: #ffffff;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</a>
+            <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="ran-gha-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+            <a href="https://api.whatsapp.com/send?phone=918409531615&text=Hello%20Shree%20Ashirwad,%20I%20need%20packers%20and%20movers%20from%20Ranchi%20to%20Ghatshila" class="ran-gha-btn-secondary" style="background: #25D366; border-color: #25D366; color: #ffffff;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</a>
         </div>
     </div>
 </section>

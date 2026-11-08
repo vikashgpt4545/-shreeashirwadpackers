@@ -12,14 +12,14 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Packers and Movers Bokaro to Ormanjhi | Best Moving Company - 9835565233";
-$page_desc = "Looking for the best packers and movers from Bokaro to Ormanjhi? Shree Ashirwad Packers offers reliable household shifting, bike parcel, car carrier & SAIL transfer billing. Call +91 9835565233.";
+$page_desc = "Looking for the best packers and movers from Bokaro to Ormanjhi? Shree Ashirwad Packers offers reliable household shifting, bike parcel, car carrier & SAIL transfer billing. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-ormanjhi-packers-and-movers";
 $route_origin = "Bokaro";
 $route_destination = "Ormanjhi";
 
 // Open Graph
 $og_title = "Packers and Movers Bokaro to Ormanjhi | Best Moving Company - 9835565233";
-$og_description = "Looking for the best packers and movers from Bokaro to Ormanjhi? Shree Ashirwad Packers offers reliable household shifting, bike parcel, car carrier & SAIL transfer billing. Call +91 9835565233.";
+$og_description = "Looking for the best packers and movers from Bokaro to Ormanjhi? Shree Ashirwad Packers offers reliable household shifting, bike parcel, car carrier & SAIL transfer billing. Call +91 8409531615.";
 $og_url = $canonical_url;
 $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
 ?>
@@ -34,7 +34,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">
-    <meta name="geo.placename" content="Ormanjhi">
+    <meta name="geo.placename" content="Bokaro Steel City, Jharkhand">
 
     <!-- Open Graph Metadata -->
     <meta property="og:type" content="business.business">
@@ -66,20 +66,20 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "name": "Shree Ashirwad Packers and Movers Bokaro to Ormanjhi",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo SECONDARY_PHONE; ?>",
         "priceRange": "₹5,200 - ₹8,500 - ₹17,500 - ₹26,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Booty More, Bariatu Road",
-            "addressLocality": "Ranchi",
+            "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
+            "addressLocality": "Bokaro Steel City",
             "addressRegion": "Jharkhand",
-            "postalCode": "834009",
+            "postalCode": "827012",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3441,
-            "longitude": 85.3096
+            "latitude": 23.6693,
+            "longitude": 86.1511
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -111,7 +111,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91 9835565233",
+            "telephone": "<?php echo SECONDARY_PHONE; ?>",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
@@ -152,8 +152,8 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Packers and Movers",
-                "item": "https://www.shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Bokaro",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro"
             },
             {
                 "@type": "ListItem",
@@ -510,7 +510,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 <nav aria-label="breadcrumb" style="margin-bottom: 15px;">
                     <ol class="breadcrumb" style="background: transparent; padding: 0; margin: 0; font-size: 0.9rem;">
                         <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a></li>
-                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/services" style="color: #93c5fd; text-decoration: none;">Services</a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #93c5fd; text-decoration: none;">Bokaro Packers and Movers</a></li>
                         <li class="breadcrumb-item active" aria-current="page" style="color: #ffffff;">Bokaro to Ormanjhi</li>
                     </ol>
                 </nav>
@@ -525,8 +525,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     <span class="hero-meta-badge"><i class="fas fa-box-open"></i> 5-Layer Waterproof Packing</span>
                 </div>
                 <div class="hero-cta-group">
-                    <a href="tel:+919835565233" class="btn-brand-primary">
-                        <i class="fas fa-phone-alt"></i> Call +91 9835565233
+                    <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-brand-primary">
+                        <i class="fas fa-phone-alt"></i> Call <?php echo SECONDARY_PHONE; ?>
                     </a>
                     <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn-brand-secondary">
                         <i class="fas fa-calculator"></i> Get Free Instant Quote
@@ -573,7 +573,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     If you are searching for reliable movers and packers near me from Bokaro to Ormanjhi, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -1087,6 +1087,29 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
     </div>
 </section>
 
+<!-- Bokaro Hub & Regional Network Section -->
+<section class="content-section" style="padding-top: 0; padding-bottom: 25px;">
+    <div class="container">
+        <div style="background: #ffffff; border-radius: 12px; padding: 28px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
+            <h3 style="font-size: 1.25rem; font-weight: 700; color: #0f172a; margin-bottom: 12px;">Bokaro Sector 12 Hub & Regional Network</h3>
+            <p style="font-size: 0.95rem; color: #475569; line-height: 1.6; margin-bottom: 16px;">
+                Operating from our branch at <strong>Plot no - 54/c, Post office sector - 12/A, Bokaro Steel City (827012)</strong>, Shree Ashirwad Packers and Movers coordinates dedicated vehicle fleets and direct transport across Jharkhand and neighboring states:
+            </p>
+            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #1e40af; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Bokaro Hub Main Page &rarr;</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #1e40af; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Sector 4 Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #1e40af; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Sector 12 Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #1e40af; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Chas Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #f1f5f9; color: #334155; border-radius: 6px; font-size: 0.88rem; font-weight: 500; text-decoration: none;">Bokaro to Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ramgarh-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #f1f5f9; color: #334155; border-radius: 6px; font-size: 0.88rem; font-weight: 500; text-decoration: none;">Bokaro to Ramgarh</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #f1f5f9; color: #334155; border-radius: 6px; font-size: 0.88rem; font-weight: 500; text-decoration: none;">Bokaro to Dhanbad</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-hazaribagh-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #f1f5f9; color: #334155; border-radius: 6px; font-size: 0.88rem; font-weight: 500; text-decoration: none;">Bokaro to Hazaribagh</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/ormanjhi-to-bokaro-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #2563eb; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Ormanjhi to Bokaro (Return Route) &rarr;</a>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Conversion CTA Banner -->
 <section class="content-section" style="padding-top: 0;">
     <div class="container">
@@ -1096,8 +1119,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 Join thousands of delighted families, defense officers, doctors, and corporate executives who trust Shree Ashirwad Packers and Movers for dependable, damage-free shifting across Jharkhand and pan-India.
             </p>
             <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:+919835565233" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 32px;">
-                    <i class="fas fa-phone-alt"></i> Call +91 9835565233
+                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 32px;">
+                    <i class="fas fa-phone-alt"></i> Call <?php echo SECONDARY_PHONE; ?>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn-brand-secondary" style="font-size: 1.1rem; padding: 14px 30px;">
                     <i class="fas fa-calendar-check"></i> Book Your Move Today

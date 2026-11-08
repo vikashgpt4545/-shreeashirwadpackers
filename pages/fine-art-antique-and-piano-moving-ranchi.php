@@ -1,8 +1,14 @@
 <?php
+/**
+ * Fine Art, Antique and Piano Moving in Ranchi - Shree Ashirwad Packers and Movers
+ */
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
+
 // Dynamic SEO Configuration for Fine Art Antique and Piano Moving in Ranchi
 $page_title = "Fine Art, Antique & Piano Moving in Ranchi | White Glove Relocation";
-$page_description = "Specialized fine art, antique furniture, temple mandir & piano moving in Ranchi. Custom wooden crating, museum-grade packing, climate transit & insurance. Call +91 9835565233for white-glove service.";
-$canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-moving-ranchi";
+$page_description = "Specialized fine art, antique furniture, temple mandir & piano moving in Ranchi. Custom wooden crating, museum-grade packing, climate transit & insurance. Call +91 8409531615 for white-glove service.";
+$canonical_url = PRODUCTION_CANONICAL_DOMAIN . "/fine-art-antique-and-piano-moving-ranchi";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,22 +27,22 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Fine Art & White Glove Division",
-        "image": "https://shreeashirwadpackers.com/images/wooden-furniture-wrapping-bokaro.jpg",
+        "image": "<?php echo SITE_BASE_URL; ?>/images/wooden-furniture-wrapping-bokaro.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "+918409531615",
         "priceRange": "₹4,500 - ₹45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Kanke Road, Near CM Residence",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "834008",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3768,
-            "longitude": 85.3195
+            "latitude": 23.3639813,
+            "longitude": 85.3090259
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -57,17 +63,23 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "<?php echo SITE_BASE_URL; ?>/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "https://shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
+                "name": "Fine Art, Antique & Piano Moving in Ranchi",
+                "item": "<?php echo $canonical_url; ?>"
+            }
+        ]
+    }
+    </script>
                 "name": "Fine Art & Antique Moving",
                 "item": "<?php echo $canonical_url; ?>"
             }
@@ -352,7 +364,20 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
+
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Fine Art & Piano Moving in Ranchi</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 
 <div class="art-page-wrap">
 
@@ -360,7 +385,7 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
     <section class="art-hero-banner">
         <h1 class="art-hero-title">Fine Art, Antique & Piano Moving in Ranchi</h1>
         <p class="art-hero-subtitle">White-Glove Relocation for Priceless Heirlooms, Oil Paintings, Grand Pianos, Temple Murti & Antique Teak Furniture. Custom Timber Crating & Museum-Grade Protection.</p>
-        <a href="tel:+919835565233" class="art-cta-btn">Book White-Glove Survey: +91 9835565233</a>
+        <a href="tel:+918409531615" class="art-cta-btn">Book White-Glove Survey: +91 8409531615</a>
     </section>
 
     <!-- Main Container -->
@@ -563,7 +588,7 @@ $canonical_url = "https://shreeashirwadpackers.com/fine-art-antique-and-piano-mo
     </div>
 </div>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

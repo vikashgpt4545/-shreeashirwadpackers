@@ -14,7 +14,7 @@ require_once __DIR__ . '/includes/config.php';
 require_once __DIR__ . '/includes/seo.php';
 
 $page_title = "Packers and Movers in Bermo | Best Shifting Services Phusro - Shree Ashirwad";
-$page_description = "Looking for the best packers and movers in Bermo Phusro? Shree Ashirwad Packers offers IBA-approved household shifting, CCL transfer moves, car/bike transport & storage. Call +91 9835565233.";
+$page_description = "Looking for the best packers and movers in Bermo Phusro? Shree Ashirwad Packers offers IBA-approved household shifting, CCL transfer moves, car/bike transport & storage. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-bermo";
 ?>
 <!DOCTYPE html>
@@ -74,27 +74,28 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
   "@graph": [
     {
       "@type": "MovingCompany",
-      "@id": "https://www.shreeashirwadpackers.com/#organization",
-      "name": "Shree Ashirwad Packers and Movers Bermo",
+      "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bermo/#movingcompany",
+      "name": "Shree Ashirwad Packers and Movers - Bokaro Branch (Serving Bermo & Phusro)",
       "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bermo",
       "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
       "image": "https://www.shreeashirwadpackers.com/images/bubble-wrap-household-cartons-jharkhand.jpg",
-      "description": "IBA approved packers and movers in Bermo and Phusro, Bokaro district. Expert home shifting, vehicle carrier, CCL coalfield officer transfer relocation, and secure storage across Jharkhand and India.",
-      "telephone": "+919835565233",
+      "description": "IBA approved packers and movers serving Bermo and Phusro from our verified Bokaro branch. Expert home shifting, vehicle carrier, CCL coalfield officer transfer relocation, and secure storage across Jharkhand and India.",
+      "telephone": "+918409531615",
+      "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
       "keywords": "packers and movers in bermo, best packers and movers in bermo, movers and packers near me in bermo, household shifting in bermo, packers and movers phusro, packers and movers bermo bokaro, packers and movers kargali, car transport bermo, bike parcel bermo, reliable movers and packers bermo, packing and moving company in bermo, iba approved packers bermo, local shifting in bermo",
       "email": "enquiry@shreeashirwadpackers.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Main Road Phusro Bazar, Near Bermo Railway Station",
-        "addressLocality": "Bermo",
+        "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
+        "addressLocality": "Bokaro Steel City",
         "addressRegion": "Jharkhand",
-        "postalCode": "829144",
+        "postalCode": "827012",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 23.7781,
-        "longitude": 85.9556
+        "latitude": 23.6693,
+        "longitude": 86.1511
       },
       "areaServed": [
         "Bermo",
@@ -109,6 +110,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
         "Bokaro District",
         "Jharkhand"
       ],
+      "sameAs": [
+        "<?php echo SOCIAL_FACEBOOK; ?>",
+        "<?php echo SOCIAL_TWITTER; ?>",
+        "<?php echo SOCIAL_INSTAGRAM; ?>",
+        "<?php echo SOCIAL_YOUTUBE; ?>",
+        "<?php echo SOCIAL_PINTEREST; ?>"
+      ],
       "priceRange": "₹3,800 - ₹62,000",
       "openingHoursSpecification": [
         {
@@ -117,12 +125,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
           "opens": "00:00",
           "closes": "23:59"
         }
-      ],
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "284"
-      }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -137,8 +140,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Jharkhand",
-          "item": "https://www.shreeashirwadpackers.com/#service-areas"
+          "name": "Packers and Movers in Bokaro",
+          "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro"
         },
         {
           "@type": "ListItem",
@@ -213,7 +216,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
           "name": "How can I book a free home survey in Bermo or Phusro?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You can call our 24/7 customer care line at +91 9835565233 or submit an online quote request. Our surveyor will visit your premises in Bermo or conduct a video survey to provide a transparent, all-inclusive written estimate."
+            "text": "You can call our 24/7 customer care line at +91 8409531615 or submit an online quote request. Our surveyor will visit your premises in Bermo or conduct a video survey to provide a transparent, all-inclusive written estimate."
           }
         }
       ]
@@ -232,7 +235,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
     <ul class="breadcrumb-nav" style="list-style: none; display: flex; flex-wrap: wrap; gap: 10px; margin: 0 0 15px 0; padding: 0; font-size: 14px; color: #8da9c4;">
       <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #eef4f8; text-decoration: none;"><i class="fa fa-home"></i> Home</a></li>
       <li><span style="color: #8da9c4;">/</span></li>
-      <li><a href="<?php echo SITE_BASE_URL; ?>/#service-areas" style="color: #eef4f8; text-decoration: none;">Jharkhand</a></li>
+      <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #eef4f8; text-decoration: none;">Packers and Movers in Bokaro</a></li>
       <li><span style="color: #8da9c4;">/</span></li>
       <li style="color: #fca311; font-weight: 600;">Bermo</li>
     </ul>
@@ -255,47 +258,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
       <!-- Primary Text & Core Content Area -->
       <article class="content-body" style="background: #ffffff; padding: 40px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.06); line-height: 1.8; color: #334155;">
         
-            <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers in Bermo
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers in Bermo</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Bermo and nearby areas with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Bermo</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including Bermo Subdivision (Phusro, Kargali, Dhori, Kathara, Bokaro Thermal, Gomia, Tenughat), Bokaro District, Jharkhand along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Bermo</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service in Bermo</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Bermo</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me in Bermo</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Bermo</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Bermo</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
-    <!-- Opening Heading & City Intro -->
+        <!-- Opening Heading & City Intro -->
         <h2 style="font-size: 26px; color: #0b2545; font-weight: 800; margin-top: 0; margin-bottom: 20px; line-height: 1.3;">
           Premier Packers and Movers in Bermo & Phusro Industrial Belt
         </h2>
@@ -309,7 +272,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
         </p>
 
         <p>
-          At <strong>Shree Ashirwad Packers and Movers in Bermo</strong>, we offer over sixteen years of dedicated relocation expertise. We are fully <strong>IBA-approved</strong> and ISO 9001:2015 certified, delivering seamless home relocations, vehicle carriers, corporate office moves, and climate-protected warehousing across Bermo, Bokaro district, Jharkhand, and throughout India.
+          At <strong>Shree Ashirwad Packers and Movers</strong>, we serve the entire Bermo subdivision directly from our verified Bokaro district branch at <strong>Plot no - 54/c, Post office sector - 12/A, Bokaro - 827012</strong>. Backed by over sixteen years of dedicated relocation expertise, we provide IBA-compliant documentation, seamless home relocations, vehicle carriers, corporate office moves, and climate-protected warehousing across Bermo, <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color:#134074; font-weight:600;">Bokaro Steel City</a>, Jharkhand, and throughout India.
         </p>
 
         <div style="background: #f8fafc; border-left: 4px solid #134074; padding: 22px; margin: 26px 0; border-radius: 0 8px 8px 0; border: 1px solid #e2e8f0; border-left: 4px solid #134074;">
@@ -781,7 +744,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
               8. How can I book a free home survey in Bermo or Phusro?
             </h4>
             <p style="margin: 0; font-size: 14px; color: #475569; line-height: 1.6;">
-              You can call our 24/7 customer care line at +91 9835565233 or submit an online quote request. Our surveyor will visit your premises in Bermo or conduct a video survey to provide a transparent, all-inclusive written estimate.
+              You can call our 24/7 customer care line at +91 8409531615 or submit an online quote request. Our surveyor will visit your premises in Bermo or conduct a video survey to provide a transparent, all-inclusive written estimate.
             </p>
           </div>
 
@@ -793,8 +756,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
           <p style="font-size: 15px; margin: 0 0 20px 0; color: #d0e1fd;">
             Contact our Bermo relocation specialists today for a free pre-move survey and customized shifting quote.
           </p>
-          <a href="tel:+919835565233" style="display: inline-block; background: #fca311; color: #000000; font-weight: 800; padding: 14px 32px; border-radius: 6px; text-decoration: none; font-size: 17px; box-shadow: 0 4px 15px rgba(252,163,17,0.4); transition: transform 0.2s ease;">
-            <i class="fa fa-phone-alt"></i> Call Now: +91 9835565233
+          <a href="tel:+918409531615" style="display: inline-block; background: #fca311; color: #000000; font-weight: 800; padding: 14px 32px; border-radius: 6px; text-decoration: none; font-size: 17px; box-shadow: 0 4px 15px rgba(252,163,17,0.4); transition: transform 0.2s ease;">
+            <i class="fa fa-phone-alt"></i> Call Now: +91 8409531615
           </a>
         </div>
 
@@ -809,7 +772,10 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
           <p style="font-size: 13px; color: #64748b; margin: 0 0 20px 0;">Free home survey & guaranteed best rates in Bermo & Phusro.</p>
           
           <form action="<?php echo SITE_BASE_URL; ?>/submit-quote.php" method="POST" style="display: flex; flex-direction: column; gap: 12px;">
-            <input type="hidden" name="source_page" value="Packers and Movers in Bermo">
+            <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars(generate_csrf_token(), ENT_QUOTES, 'UTF-8'); ?>">
+            <div style="display:none;" aria-hidden="true">
+              <input type="text" name="website_url_hp" value="" tabindex="-1" autocomplete="off">
+            </div>
             <div>
               <label style="display: block; font-size: 12px; font-weight: 600; color: #334155; margin-bottom: 4px;">Full Name *</label>
               <input type="text" name="name" required placeholder="Enter your name" style="width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
@@ -820,11 +786,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
             </div>
             <div>
               <label style="display: block; font-size: 12px; font-weight: 600; color: #334155; margin-bottom: 4px;">Pickup Location *</label>
-              <input type="text" name="from_location" value="Bermo / Phusro" required style="width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+              <input type="text" name="moving_from" value="Bermo / Phusro" required style="width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
             </div>
             <div>
               <label style="display: block; font-size: 12px; font-weight: 600; color: #334155; margin-bottom: 4px;">Destination City *</label>
-              <input type="text" name="to_location" required placeholder="e.g. Bokaro, Ranchi, Dhanbad, Delhi" style="width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
+              <input type="text" name="moving_to" required placeholder="e.g. Bokaro, Ranchi, Dhanbad, Delhi" style="width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 13px;">
             </div>
             <div>
               <label style="display: block; font-size: 12px; font-weight: 600; color: #334155; margin-bottom: 4px;">Service Type</label>
@@ -867,8 +833,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-ber
 
           <div style="margin-top: 20px; padding-top: 15px; border-top: 1px solid #e2e8f0; text-align: center;">
             <p style="font-size: 12px; color: #64748b; margin: 0 0 8px 0;">Direct Helpline for Bermo & Phusro</p>
-            <a href="tel:+919835565233" style="font-size: 18px; font-weight: 800; color: #0b2545; text-decoration: none;">
-              <i class="fa fa-phone" style="color: #fca311;"></i> +91 9835565233
+            <a href="tel:+918409531615" style="font-size: 18px; font-weight: 800; color: #0b2545; text-decoration: none;">
+              <i class="fa fa-phone" style="color: #fca311;"></i> +91 8409531615
             </a>
           </div>
         </div>

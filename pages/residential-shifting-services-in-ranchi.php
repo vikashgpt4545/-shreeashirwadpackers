@@ -8,8 +8,8 @@
  * Focus: Premium, Zero-Damage Home Relocation for Apartments, Villas, Townships & Government Quarters
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Residential Shifting Services in Ranchi - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Top-rated residential shifting services in Ranchi by Shree Ashirwad Packers. Zero-damage home & apartment moving, 5-layer packing, IBA bills. Call 8409531615.";
@@ -236,8 +236,8 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Services",
-        "item": "<?php echo SITE_BASE_URL; ?>/#services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -711,7 +711,20 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
 <body>
 
   <!-- Global Header Navigation -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include __DIR__ . '/../includes/header.php'; ?>
+
+  <!-- Breadcrumbs -->
+  <div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+          <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+          <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+          <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Residential Shifting in Ranchi</li>
+        </ol>
+      </nav>
+    </div>
+  </div>
 
   <main id="mainContent">
 
@@ -725,7 +738,7 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
         <nav aria-label="Breadcrumb" style="margin-bottom: 20px; font-size: 0.9rem; color: #94a3b8;">
           <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #cbd5e1; text-decoration: none;">Home</a>
           <span style="margin: 0 8px;">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/#services" style="color: #cbd5e1; text-decoration: none;">Ranchi Services</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #cbd5e1; text-decoration: none;">Packers and Movers in Ranchi</a>
           <span style="margin: 0 8px;">&gt;</span>
           <span style="color: #ff8c52; font-weight: 600;">Residential Shifting Services in Ranchi</span>
         </nav>
@@ -1577,7 +1590,7 @@ $meta_keywords = "residential shifting services in ranchi, residential packers a
   </main>
 
   <!-- Global Footer -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

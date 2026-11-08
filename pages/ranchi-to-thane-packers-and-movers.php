@@ -14,8 +14,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-thane-packers-a
 $page_keywords = "ranchi to thane packers and movers, packers and movers ranchi to thane, household shifting ranchi to thane, ghodbunder road packers movers, hiranandani estate shifting from ranchi, car carrier ranchi to thane, luggage transport ranchi to thane";
 
 $current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -72,12 +75,12 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "description": "Professional inter-state relocation specialists providing door-to-door shifting, container linehaul, vehicle transportation, and transit insurance between Ranchi and Thane.",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Road, Near Sahajanand Chowk",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -85,8 +88,8 @@ require_once __DIR__ . '/../includes/seo.php';
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3569,
-            "longitude": 85.3182
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             { "@type": "City", "name": "Ranchi" },
@@ -117,8 +120,8 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Ranchi Relocation Hub",
-                "item": "https://www.shreeashirwadpackers.com/"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -679,7 +682,20 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Thane</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- HERO SECTION -->
 <section class="rth-hero">
@@ -1140,7 +1156,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </section>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

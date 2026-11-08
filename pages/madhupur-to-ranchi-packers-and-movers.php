@@ -7,9 +7,8 @@
  * Meta Description: Trusted packers and movers from Madhupur to Ranchi. 215 km express transit via Giridih, Bagodar & NH-20, 5-layer packing, railway employee moves, car & bike parcel, full insurance.
  */
 
-if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/../includes/config.php';
-}
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Madhupur to Ranchi | Safe Intercity Shifting";
 $page_desc = "Trusted packers and movers from Madhupur to Ranchi. 215 km express transit via Giridih, Bagodar & NH-20, 5-layer packing, railway employee moves, car & bike parcel, full insurance.";
@@ -66,20 +65,21 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "name": "Shree Ashirwad Packers and Movers Madhupur to Ranchi",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91-8409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹7,500 - ₹11,500 - ₹23,000 - ₹35,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Station Road, Near Gandhi Chowk",
-            "addressLocality": "Madhupur",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "815353",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 24.2642,
-            "longitude": 86.6475
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -152,13 +152,13 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Packers and Movers",
-                "item": "https://www.shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Madhupur to Ranchi",
+                "name": "Madhupur to Ranchi Packers and Movers",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -506,9 +506,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
 
 <?php
 // Include Site Header
-if (file_exists(__DIR__ . '/../includes/header.php')) {
-    include_once __DIR__ . '/../includes/header.php';
-}
+include_once __DIR__ . '/../includes/header.php';
 ?>
 
 <!-- Hero Section -->
@@ -519,7 +517,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 <nav aria-label="breadcrumb" style="margin-bottom: 15px;">
                     <ol class="breadcrumb" style="background: transparent; padding: 0; margin: 0; font-size: 0.9rem;">
                         <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a></li>
-                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/services" style="color: #93c5fd; text-decoration: none;">Services</a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #93c5fd; text-decoration: none;">Packers and Movers in Ranchi</a></li>
                         <li class="breadcrumb-item active" aria-current="page" style="color: #ffffff;">Madhupur to Ranchi</li>
                     </ol>
                 </nav>
@@ -534,7 +532,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     <span class="hero-meta-badge"><i class="fas fa-file-invoice"></i> IBA Approved Bills</span>
                 </div>
                 <div class="hero-cta-group">
-                    <a href="tel:+918409531615" class="btn-brand-primary"><i class="fas fa-phone-alt"></i> Call +91-8409531615</a>
+                    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-brand-primary"><i class="fas fa-phone-alt"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
                     <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn-brand-secondary"><i class="fas fa-calculator"></i> Get Free Moving Quote</a>
                 </div>
             </div>
@@ -577,7 +575,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     If you are searching for reliable movers and packers near me from Madhupur to Ranchi, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for instant booking and free quote.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for instant booking and free quote.
                 </p>
             </div>
         </div>
@@ -1113,7 +1111,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 Experience safe, transparent, and seamless moving with Jharkhand's most trusted relocation specialist. Get your free personalized estimate in under 5 minutes.
             </p>
             <div class="hero-cta-group" style="justify-content: center;">
-                <a href="tel:+918409531615" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 34px;"><i class="fas fa-phone-alt"></i> Call +91-8409531615</a>
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 34px;"><i class="fas fa-phone-alt"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact" class="btn-brand-secondary" style="font-size: 1.1rem; padding: 14px 30px;"><i class="fas fa-calendar-check"></i> Book Your Moving Date</a>
             </div>
         </div>
@@ -1122,9 +1120,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
 
 <?php
 // Include Site Footer
-if (file_exists(__DIR__ . '/../includes/footer.php')) {
-    include_once __DIR__ . '/../includes/footer.php';
-}
+include_once __DIR__ . '/../includes/footer.php';
 ?>
 
 <script>

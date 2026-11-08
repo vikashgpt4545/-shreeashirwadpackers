@@ -5,9 +5,11 @@
  * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Srinagar to Ranchi.
  * Focus Keywords: srinagar to ranchi packers and movers, packers and movers srinagar to ranchi, house shifting srinagar to ranchi, car carrier srinagar to ranchi, bike transport srinagar to ranchi, household moving srinagar ranchi
  */
-if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/includes/config.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
 }
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Srinagar to Ranchi Packers and Movers | Reliable Shifting Services";
 $page_desc = "Safe Srinagar to Ranchi packers and movers. 2010 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
@@ -373,20 +375,21 @@ $canonical_url = "https://www.shreeashirwadpackers.com/srinagar-to-ranchi-packer
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Lal Chowk Main Road",
-            "addressLocality": "Srinagar",
-            "addressRegion": "Jammu & Kashmir",
-            "postalCode": "190001",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 34.0837,
-            "longitude": 74.7973
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -423,7 +426,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/srinagar-to-ranchi-packer
         "serviceType": "Interstate Relocation & Household Shifting",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
         },
         "areaServed": {
             "@type": "City",
@@ -474,13 +478,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/srinagar-to-ranchi-packer
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
+                "name": "Packers and Movers in Ranchi",
                 "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Srinagar to Ranchi Shifting",
+                "name": "Srinagar to Ranchi",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -582,7 +586,18 @@ $canonical_url = "https://www.shreeashirwadpackers.com/srinagar-to-ranchi-packer
 </head>
 <body>
 
-<?php include __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="padding-top: 0; padding-bottom: 0; font-size: 0.88rem; color: #64748b;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338ca; text-decoration: none; font-weight: 500;">Home</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338ca; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Srinagar to Ranchi</span>
+    </div>
+</nav>
 
 <!-- Hero Section -->
 <section class="c_sri_ran-hero">
@@ -1116,6 +1131,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/srinagar-to-ranchi-packer
     </div>
 </section>
 
-<?php include __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

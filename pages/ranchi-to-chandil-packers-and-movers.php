@@ -10,6 +10,7 @@
 if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Ranchi to Chandil | Inbound Capital Relocation";
 $page_desc = "Trusted packers and movers from Ranchi to Chandil, Saraikela. 85 km transit via NH-43 & Bundu, 5-layer packing, home shifting, car & bike parcel, door-to-door delivery.";
@@ -66,20 +67,21 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "name": "Shree Ashirwad Packers and Movers Ranchi to Chandil",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹5,500 - ₹8,500 - ₹18,000 - ₹26,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Main Road, Near Chandil Sub-Divisional Office & Tata-Ranchi Highway",
-            "addressLocality": "Chandil, Saraikela Kharsawan",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "832401",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 22.9600,
-            "longitude": 86.0500
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -111,7 +113,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91 9835565233",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
@@ -152,8 +154,8 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Packers and Movers",
-                "item": "https://www.shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -510,7 +512,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 <nav aria-label="breadcrumb" style="margin-bottom: 15px;">
                     <ol class="breadcrumb" style="background: transparent; padding: 0; margin: 0; font-size: 0.9rem;">
                         <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a></li>
-                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/services" style="color: #93c5fd; text-decoration: none;">Services</a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #93c5fd; text-decoration: none;">Packers and Movers in Ranchi</a></li>
                         <li class="breadcrumb-item active" aria-current="page" style="color: #ffffff;">Ranchi to Chandil</li>
                     </ol>
                 </nav>
@@ -525,8 +527,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     <span class="hero-meta-badge"><i class="fas fa-box-open"></i> 5-Layer Waterproof Packing</span>
                 </div>
                 <div class="hero-cta-group">
-                    <a href="tel:+919835565233" class="btn-brand-primary">
-                        <i class="fas fa-phone-alt"></i> Call +91 9835565233
+                    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-brand-primary">
+                        <i class="fas fa-phone-alt"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
                     </a>
                     <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn-brand-secondary">
                         <i class="fas fa-calculator"></i> Get Free Instant Quote
@@ -572,7 +574,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     If you are searching for reliable movers and packers near me from Ranchi to Chandil, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -1096,8 +1098,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 Join thousands of delighted families, defense officers, engineers, and corporate executives who trust Shree Ashirwad Packers and Movers for dependable, damage-free shifting across Jharkhand and pan-India.
             </p>
             <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:+919835565233" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 32px;">
-                    <i class="fas fa-phone-alt"></i> Call +91 9835565233
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 32px;">
+                    <i class="fas fa-phone-alt"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn-brand-secondary" style="font-size: 1.1rem; padding: 14px 30px;">
                     <i class="fas fa-calendar-check"></i> Book Your Move Today
@@ -1108,6 +1110,22 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 <span><i class="fas fa-check-circle" style="color: #4ade80;"></i> Zero Hidden Charges</span> &nbsp;|&nbsp; 
                 <span><i class="fas fa-check-circle" style="color: #4ade80;"></i> Full Transit Insurance</span>
             </div>
+        </div>
+    </div>
+</section>
+
+<!-- Connected Shifting Resources Module -->
+<section class="content-section" style="padding: 40px 0; background: #f8fafc;">
+    <div class="container">
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
+            <h3 style="font-size: 1.35rem; font-weight: 700; color: #0f223d; margin-top: 0; margin-bottom: 12px;">Connected Inter-District Moving Corridors &amp; Authority Hubs</h3>
+            <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, tariff calculators, and reciprocal return corridors:</p>
+            <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0d6efd; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ranchi (HQ)</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/chandil-to-ranchi-packers-and-movers" style="color: #0d6efd; text-decoration: none; font-weight: 600;">&#8594; Return Route: Chandil to Ranchi Movers</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0d6efd; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Charges &amp; Tariff Calculator</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-saraikela-kharsawan" style="color: #0d6efd; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Saraikela Kharsawan</a></li>
+            </ul>
         </div>
     </div>
 </section>

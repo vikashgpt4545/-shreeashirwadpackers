@@ -14,8 +14,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/jodhpur-to-ranchi-packers
 $page_keywords = "jodhpur to ranchi packers and movers, packers and movers jodhpur to ranchi, household shifting jodhpur to ranchi, car transport jodhpur to ranchi, bike courier jodhpur to ranchi, defense relocation jodhpur, boranada packers movers, pal road jodhpur shifting";
 
 $current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -56,25 +59,27 @@ require_once __DIR__ . '/../includes/seo.php';
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Jodhpur to Ranchi",
-        "url": "<?php echo $canonical_url; ?>",
-        "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/favicon.png",
-        "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-        "description": "Professional inter-state relocation service from Jodhpur to Ranchi covering 1,420 km. Dedicated household shifting, defense cantonment transfers, vehicle transport & commercial relocation.",
-        "telephone": "+91-9835565233",
-        "priceRange": "INR 14,000 - 62,000",
+        "@id": "https://www.shreeashirwadpackers.com/#organization",
+        "name": "Shree Ashirwad Packers and Movers",
+        "url": "https://www.shreeashirwadpackers.com",
+        "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
+        "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "description": "Professional inter-state relocation specialists providing door-to-door shifting, container linehaul, vehicle transportation, and transit insurance between Jodhpur and Ranchi.",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
+        "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Pal Road, Shastri Nagar",
-            "addressLocality": "Jodhpur",
-            "addressRegion": "Rajasthan",
-            "postalCode": "342001",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 26.2389,
-            "longitude": 73.0243
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -97,8 +102,8 @@ require_once __DIR__ . '/../includes/seo.php';
                 "Saturday",
                 "Sunday"
             ],
-            "opens": "07:00",
-            "closes": "22:00"
+            "opens": "00:00",
+            "closes": "23:59"
         }
     }
     </script>
@@ -108,24 +113,25 @@ require_once __DIR__ . '/../includes/seo.php';
     {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
+        "@id": "https://www.shreeashirwadpackers.com/jodhpur-to-ranchi-packers-and-movers#breadcrumb",
         "itemListElement": [
             {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "<?php echo SITE_BASE_URL; ?>/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "<?php echo SITE_BASE_URL; ?>/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Jodhpur to Ranchi Packers and Movers",
-                "item": "<?php echo $canonical_url; ?>"
+                "name": "Jodhpur to Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/jodhpur-to-ranchi-packers-and-movers"
             }
         ]
     }
@@ -741,7 +747,20 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Jodhpur to Ranchi</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
     
     <main class="jdr-wrap">
@@ -1250,7 +1269,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -26,14 +26,14 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ratu Road Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ratu-road-ranchi",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 4,500 - 45,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Ratu Road Arterial Corridor near ITI Bus Stand & Pahari Mandir",
-      "addressLocality": "Ratu Road, Ranchi",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+      "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
-      "postalCode": "834005",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
@@ -76,8 +76,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Local Movers Ranchi",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -420,6 +420,19 @@ include_once __DIR__ . '/../includes/config.php';
 <body>
 <?php include_once __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+        <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Ratu Road</li>
+      </ol>
+    </nav>
+  </div>
+</div>
+
 <main class="hl-rtr-wrapper">
   <!-- Hero Section -->
   <section class="hl-rtr-hero-section">
@@ -432,7 +445,7 @@ include_once __DIR__ . '/../includes/config.php';
         </div>
         <h1>Packers and Movers in Ratu Road Ranchi</h1>
         <p>Premium household shifting, commercial godown relocation, and vehicle transport services across Ratu Road, Sukhdeo Nagar, Pandra Market Yard, Pahari Mandir, ITI Bus Stand, and Devi Mandap Road. Fast, punctual, and damage-free moving delivered by experienced local crews.</p>
-        <a href="tel:+919835565233" class="hl-rtr-cta-btn">&#128222; Call Now: +91 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="hl-rtr-cta-btn">&#128222; Call Now: +91 8409531615</a>
       </div>
       <div class="hl-rtr-hero-card">
         <h3>Fast Moving Quote</h3>
@@ -440,7 +453,7 @@ include_once __DIR__ . '/../includes/config.php';
           <span>Operating Hub:</span> Ratu Road &amp; ITI Bus Stand, Ranchi
         </div>
         <div class="hl-rtr-contact-item">
-          <span>Phone Support:</span> +91 9835565233
+          <span>Phone Support:</span> +91 8409531615
         </div>
         <div class="hl-rtr-contact-item">
           <span>Operating Hours:</span> 7:00 AM – 10:00 PM (All 7 Days)
@@ -498,7 +511,7 @@ include_once __DIR__ . '/../includes/config.php';
                     If you are searching for reliable <strong>movers and packers near me in Ratu Road</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Ratu Road</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Ratu Road</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service in Ratu Road</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Ratu Road</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -508,7 +521,7 @@ include_once __DIR__ . '/../includes/config.php';
     <article class="hl-rtr-section">
       <h2>Professional Moving Services along the Ratu Road Corridor</h2>
       <p>Ratu Road is one of Ranchi's most bustling and strategically vital lifelines. Extending westward from the historic Pahari Mandir Chowk through Sukhdeo Nagar, ITI Bus Stand, Pandra Krishi Upaj Mandi, Devi Mandap Road, Bajra, Tilta, and onward towards Ratu Chatti and Kathitand, this corridor serves as the prime gateway connecting central Ranchi with National Highway 75 towards Kuru, Daltonganj, and Garhwa. With dense residential neighborhoods, expanding apartment towers, thriving commercial complexes, and eastern India's major wholesale agricultural market at Pandra, the demand for organized, reliable, and professional relocation services along Ratu Road is exceptionally high.</p>
-      <p>However, relocating in Ratu Road presents unique logistical complexities. High vehicular traffic volumes, active flyover construction projects, narrow interconnecting colony lanes in Sukhdeo Nagar and Devi Mandap, and restricted commercial vehicle timings near Pandra Market require careful coordination and deep local familiarity. As the most trusted <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers Ranchi</a>, Shree Ashirwad Packers and Movers has perfected local shifting across Ratu Road through over a decade of field experience. We operate compact feeder trucks, employ background-verified local packing crews, utilize multi-layer protective packaging, and schedule moves strategically during non-peak traffic hours to guarantee an effortless, punctual, and completely scratch-free moving experience.</p>
+      <p>However, relocating in Ratu Road presents unique logistical complexities. High vehicular traffic volumes, active flyover construction projects, narrow interconnecting colony lanes in Sukhdeo Nagar and Devi Mandap, and restricted commercial vehicle timings near Pandra Market require careful coordination and deep local familiarity. As the most trusted <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #1e3a5f; font-weight: 600; text-decoration: underline;">packers and movers in Ranchi</a>, Shree Ashirwad Packers and Movers has perfected local shifting across Ratu Road through over a decade of field experience. We operate compact feeder trucks, employ background-verified local packing crews, utilize multi-layer protective packaging, and schedule moves strategically during non-peak traffic hours to guarantee an effortless, punctual, and completely scratch-free moving experience.</p>
     </article>
 
     <!-- Hyper-Local Neighborhood Coverage -->

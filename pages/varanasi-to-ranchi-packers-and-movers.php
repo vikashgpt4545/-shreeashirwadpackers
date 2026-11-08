@@ -16,8 +16,11 @@ $page_title = "Varanasi to Ranchi Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Varanasi to Ranchi packers and movers by Shree Ashirwad. Same-day 8-hr transit via NH-19, BLW & BHU transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/varanasi-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -72,17 +75,22 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "description": "Professional inbound interstate relocation, railway transfer moving, and vehicle transport from Varanasi, Uttar Pradesh to Ranchi, Jharkhand.",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "alternatePhone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹12,500 - ₹44,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Road, Near Sahajanand Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
       "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "areaServed": [
       {
@@ -141,7 +149,9 @@ require_once __DIR__ . '/includes/seo.php';
     "serviceType": "Interstate Relocation & Logistics Service",
     "provider": {
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers"
+      "name": "Shree Ashirwad Packers and Movers",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+      "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": {
       "@type": "City",
@@ -172,8 +182,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Packers and Movers",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -950,8 +960,21 @@ require_once __DIR__ . '/includes/seo.php';
 
 <?php
 // Load unified master header navigation
-require_once __DIR__ . '/includes/header.php';
+require_once BASE_PATH . '/includes/header.php';
 ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<div style="background: #f8fafc; border-bottom: 1px solid #e2e8f0; padding: 12px 0;">
+  <div class="r2vns-container">
+    <nav aria-label="Breadcrumb" style="font-size: 0.88rem; color: #64748b;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;">Home</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <span style="color: #0f172a; font-weight: 600;">Varanasi to Ranchi</span>
+    </nav>
+  </div>
+</div>
 
 <div class="r2vns-wrapper">
 
@@ -1002,10 +1025,10 @@ require_once __DIR__ . '/includes/header.php';
         <p>Get a prompt, transparent quote with zero hidden charges and free doorstep pre-move survey.</p>
       </div>
       <div class="r2vns-action-buttons">
-        <a href="tel:+919835565233" class="r2vns-btn-call">
-          <span>📞</span> Call 9835565233
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2vns-btn-call">
+          <span>📞</span> Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
         </a>
-        <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Varanasi%20to%20Ranchi%20relocation." target="_blank" rel="noopener noreferrer" class="r2vns-btn-whatsapp">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Varanasi%20to%20Ranchi%20relocation." target="_blank" rel="noopener noreferrer" class="r2vns-btn-whatsapp">
           <span>💬</span> WhatsApp Estimate
         </a>
       </div>
@@ -1580,7 +1603,7 @@ require_once __DIR__ . '/includes/header.php';
       <div class="r2vns-cluster-box">
         <h3 class="r2vns-cluster-title">Explore Related Interstate &amp; Intra-State Moving Routes:</h3>
         <div class="r2vns-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2vns-cluster-link">Ranchi Main Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2vns-cluster-link">Packers and Movers in Ranchi</a>
           <a href="/ranchi-to-varanasi-packers-and-movers" class="r2vns-cluster-link">Ranchi to Varanasi (Outbound)</a>
           <a href="/ranchi-to-prayagraj-packers-and-movers" class="r2vns-cluster-link">Ranchi to Prayagraj</a>
           <a href="/ranchi-to-kanpur-packers-and-movers" class="r2vns-cluster-link">Ranchi to Kanpur</a>
@@ -1623,5 +1646,5 @@ require_once __DIR__ . '/includes/header.php';
 
 <?php
 // Load unified master footer
-require_once __DIR__ . '/includes/footer.php';
+require_once BASE_PATH . '/includes/footer.php';
 ?>

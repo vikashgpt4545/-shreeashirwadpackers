@@ -15,8 +15,11 @@ $page_title = "Nagpur to Ranchi Packers & Movers | Shree Ashirwad";
 $page_description = "Top Nagpur to Ranchi packers and movers by Shree Ashirwad. Express 20-hr transit via NH-53/43, WCL & MIHAN bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/nagpur-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,200 - ₹64,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -196,8 +199,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -1088,11 +1091,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body class="nag2r-body">
 
-  <?php include_once __DIR__ . '/includes/header.php'; ?>
+  <?php require_once BASE_PATH . '/includes/header.php'; ?>
 
   <!-- Hero Section -->
   <header class="nag2r-hero">
     <div class="nag2r-container">
+      <nav class="nag2r-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#fed7aa; text-decoration:none;">Home</a>
+        <span style="color:#fdba74;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#fed7aa; text-decoration:none;">Packers and Movers in Ranchi</a>
+        <span style="color:#fdba74;">/</span>
+        <span style="color:#fde047; font-weight:600;">Nagpur to Ranchi</span>
+      </nav>
       <div class="nag2r-hero-badge">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
         Zero Mile Vidarbha to Jharkhand Capital Express Freight Route
@@ -1813,8 +1823,8 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="nag2r-container">
       <h3>Explore Connected Relocation Corridors</h3>
       <div class="nag2r-cluster-grid">
-        <a href="<?php echo SITE_BASE_URL; ?>/" class="nag2r-cluster-link">
-          Ranchi Relocation Hub
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="nag2r-cluster-link">
+          Packers and Movers in Ranchi
         </a>
         <a href="<?php echo SITE_BASE_URL; ?>/raipur-to-ranchi-packers-and-movers" class="nag2r-cluster-link">
           Raipur to Ranchi Route
@@ -1841,7 +1851,7 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </section>
 
-  <?php include_once __DIR__ . '/includes/footer.php'; ?>
+  <?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

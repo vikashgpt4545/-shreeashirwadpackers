@@ -33,7 +33,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">
-    <meta name="geo.placename" content="<?php echo $route_origin ?? 'Koderma'; ?>">
+    <meta name="geo.placename" content="Bokaro Steel City, Jharkhand">
 
     <!-- Open Graph Metadata -->
     <meta property="og:type" content="business.business">
@@ -439,9 +439,9 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
 <section class="bok2kod-hero">
     <div class="bok2kod-container">
         <div class="bok2kod-breadcrumbs">
-            <a href="/">Home</a> &raquo; 
-            <a href="/services">Services</a> &raquo; 
-            <span>Bokaro to Koderma Packers and Movers</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &raquo; 
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Bokaro Packers and Movers</a> &raquo; 
+            <span>Bokaro to Koderma</span>
         </div>
         <div class="bok2kod-hero-grid">
             <div>
@@ -529,7 +529,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
                     If you are searching for reliable <strong>movers and packers near me from Bokaro to Koderma</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Bokaro to Koderma</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Bokaro to Koderma</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Bokaro to Koderma</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Bokaro to Koderma</strong>. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -792,13 +792,33 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
             </div>
         </div>
 
+        <!-- Bokaro Hub & Intercity Routes Section -->
+        <div style="margin-top: 45px; background: #ffffff; border-radius: 12px; padding: 28px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
+            <h3 style="font-size: 1.25rem; font-weight: 700; color: #0f172a; margin-bottom: 12px;">Bokaro Sector 12 Hub & Regional Network</h3>
+            <p style="font-size: 0.95rem; color: #475569; line-height: 1.6; margin-bottom: 16px;">
+                Operating from our branch at <strong>Plot no - 54/c, Post office sector - 12/A, Bokaro Steel City (827012)</strong>, Shree Ashirwad Packers and Movers coordinates dedicated vehicle fleets and direct transport across Jharkhand and neighboring states:
+            </p>
+            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #1e40af; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Bokaro Hub Main Page &rarr;</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #1e40af; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Sector 4 Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #1e40af; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Sector 12 Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #1e40af; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Chas Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #f1f5f9; color: #334155; border-radius: 6px; font-size: 0.88rem; font-weight: 500; text-decoration: none;">Bokaro to Ranchi</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #f1f5f9; color: #334155; border-radius: 6px; font-size: 0.88rem; font-weight: 500; text-decoration: none;">Bokaro to Dhanbad</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-hazaribagh-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #f1f5f9; color: #334155; border-radius: 6px; font-size: 0.88rem; font-weight: 500; text-decoration: none;">Bokaro to Hazaribagh</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-giridih-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #f1f5f9; color: #334155; border-radius: 6px; font-size: 0.88rem; font-weight: 500; text-decoration: none;">Bokaro to Giridih</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-patna-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #f1f5f9; color: #334155; border-radius: 6px; font-size: 0.88rem; font-weight: 500; text-decoration: none;">Bokaro to Patna</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/koderma-to-bokaro-packers-and-movers" style="display: inline-block; padding: 7px 14px; background: #eff6ff; color: #2563eb; border-radius: 6px; font-size: 0.88rem; font-weight: 600; text-decoration: none;">Koderma to Bokaro (Return Route) &rarr;</a>
+            </div>
+        </div>
+
         <!-- Call to Action Banner -->
         <div class="bok2kod-cta-banner">
             <h2 style="font-size: 2rem; font-weight: 800; margin-bottom: 12px; color: #ffffff;">Ready to Move from Bokaro to Koderma?</h2>
             <p style="font-size: 1.05rem; max-width: 680px; margin: 0 auto 24px; color: #cbd5e1;">
                 Contact Shree Ashirwad Packers and Movers today for an instant, transparent quote with zero hidden charges and guaranteed on-time delivery.
             </p>
-            <a href="tel:+919835565233" class="bok2kod-cta-btn"><i class="fas fa-phone-alt"></i> Call Now: +91 98355 65233</a>
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="bok2kod-cta-btn"><i class="fas fa-phone-alt"></i> Call Now: <?php echo SECONDARY_PHONE; ?></a>
         </div>
     </section>
 </div>
@@ -812,14 +832,14 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
   "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
   "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
   "url": "https://www.shreeashirwadpackers.com",
-  "telephone": "+91 9835565233",
+  "telephone": "<?php echo SECONDARY_PHONE; ?>",
   "priceRange": "₹₹",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Sector 4, Main Road, Bokaro Steel City",
-    "addressLocality": "Bokaro",
+    "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
+    "addressLocality": "Bokaro Steel City",
     "addressRegion": "Jharkhand",
-    "postalCode": "827004",
+    "postalCode": "827012",
     "addressCountry": "IN"
   },
   "geo": {
@@ -883,8 +903,8 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Services",
-      "item": "https://www.shreeashirwadpackers.com/services"
+      "name": "Packers and Movers in Bokaro",
+      "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro"
     },
     {
       "@type": "ListItem",

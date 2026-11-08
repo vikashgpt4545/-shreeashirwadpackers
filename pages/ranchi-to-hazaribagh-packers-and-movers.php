@@ -13,8 +13,8 @@ $page_title = "Ranchi to Hazaribagh Packers and Movers | Express Highway Shiftin
 $page_description = "Fast and secure Ranchi to Hazaribagh Packers and Movers by Shree Ashirwad. Direct 95 km transit via NH-20 express highway, 4-layer packing, Charhi valley transit safety, same-day delivery to Matwari, Korrah & Meru. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-hazaribagh-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,7 +69,7 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "₹4,000 - ₹22,000",
     "address": {
       "@type": "PostalAddress",
@@ -198,8 +198,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Corridors",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -510,11 +510,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php include __DIR__ . '/../includes/header.php'; ?>
+<?php include_once __DIR__ . '/../includes/header.php'; ?>
 
 <!-- Hero Section -->
 <section class="route-hero">
   <div class="container">
+    <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;"><i class="fa fa-home"></i> Home</a>
+      <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+      <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">/</span>
+      <span aria-current="page" style="color:#ff6a28; font-weight:600;">Ranchi to Hazaribagh</span>
+    </nav>
     <h1>Ranchi to Hazaribagh Packers and Movers | Express Highway Corridor</h1>
     <p>Premium same-day household relocation along the 95 km four-lane NH-20 express corridor. From Harmu, Kanke Road, and Morabadi in Ranchi to Matwari, Korrah, Babugaon, and Meru Camp in Hazaribagh. Sealed all-weather container fleet, 4-layer packaging, and Charhi valley transit safety.</p>
     <div class="route-badge-bar">
@@ -562,7 +569,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Hazaribagh</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Hazaribagh</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Hazaribagh</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Hazaribagh</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Hazaribagh</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 8409531615</a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -754,7 +761,7 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
     <div class="faq-block-item">
       <div class="faq-block-q">How do I book my moving date with Shree Ashirwad?</div>
-      <div class="faq-block-a">You can schedule a free in-home survey or instant video assessment by calling our Ranchi headquarters at +91 9835565233. We issue a binding written quotation, and you can reserve your moving slot with a nominal advance token.</div>
+      <div class="faq-block-a">You can schedule a free in-home survey or instant video assessment by calling our Ranchi headquarters at <?php echo PRIMARY_PHONE_DISPLAY; ?>. We issue a binding written quotation, and you can reserve your moving slot with a nominal advance token.</div>
     </div>
   </div>
 
@@ -762,7 +769,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="cta-box-route">
     <h3>Plan Your Fast, Stress-Free Ranchi to Hazaribagh Move!</h3>
     <p>Enjoy same-day delivery, 4-layer defensive packing, and guaranteed zero-damage transit on the 95 km NH-20 express highway corridor.</p>
-    <a href="tel:+919835565233" class="cta-btn-amber">📞 Call Now: +91 9835565233</a>
+    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="cta-btn-amber">📞 Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
     <p style="font-size: 0.9rem; margin-top: 15px; color: #cbd5e1;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</p>
   </div>
 
@@ -771,7 +778,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Related Logistics Corridors, Services & Regional Hubs</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Explore connected highway routes, services, and city branch portals across Jharkhand:</p>
     <div class="cluster-subgrid">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-node">📍 Ranchi Main Hub & City HQ</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-node">📍 Ranchi Main Hub & City HQ</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-hazaribagh" class="cluster-node">📍 Hazaribagh Branch Hub</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-node">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-node">📖 Ranchi Shifting Guide & Checklist</a>
@@ -788,7 +795,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php include __DIR__ . '/../includes/footer.php'; ?>
+<?php include_once __DIR__ . '/../includes/footer.php'; ?>
 
 </body>
 </html>

@@ -1,8 +1,9 @@
 <?php
+require_once dirname(__DIR__) . '/includes/config.php';
 // Dynamic SEO Configuration for Sector 4, Bokaro Steel City (City Centre & Commercial Core)
 $page_title = "Packers and Movers in Sector 4 Bokaro | Safe Home & Office Shifting";
-$page_description = "Top packers and movers in Sector 4 Bokaro Steel City by Shree Ashirwad Packers. Safe apartment shifting, office relocation, vehicle transport, IBA approved bills. Call +91 9835565233.";
-$canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-4-bokaro";
+$page_description = "Top packers and movers in Sector 4 Bokaro Steel City by Shree Ashirwad Packers. Safe apartment shifting, office relocation, vehicle transport, IBA approved bills. Call +91 8409531615.";
+$canonical_url = "https://www.shreeashirwadpackers.com/packers-and-movers-in-sector-4-bokaro";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -20,17 +21,20 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Sector 4 Bokaro",
-        "image": "https://shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "@id": "https://www.shreeashirwadpackers.com/packers-and-movers-in-sector-4-bokaro/#movingcompany",
+        "name": "Shree Ashirwad Packers and Movers - Bokaro Branch (Serving Sector 4)",
+        "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
-        "priceRange": "₹4,000 - ₹38,000",
+        "telephone": "+918409531615",
+        "email": "<?php echo OFFICIAL_EMAIL; ?>",
+        "priceRange": "₹3,500 - ₹38,000",
+        "hasMap": "<?php echo BOKARO_MAPS_DIRECTIONS_URL; ?>",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "City Centre Commercial Area, Sector 4",
+            "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
             "addressLocality": "Bokaro Steel City",
             "addressRegion": "Jharkhand",
-            "postalCode": "827004",
+            "postalCode": "827012",
             "addressCountry": "IN"
         },
         "geo": {
@@ -38,6 +42,18 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
             "latitude": 23.6693,
             "longitude": 86.1511
         },
+        "areaServed": [
+            { "@type": "Place", "name": "Sector 4, Bokaro Steel City" },
+            { "@type": "Place", "name": "City Centre, Bokaro Steel City" },
+            { "@type": "City", "name": "Bokaro Steel City" }
+        ],
+        "sameAs": [
+            "<?php echo SOCIAL_FACEBOOK; ?>",
+            "<?php echo SOCIAL_TWITTER; ?>",
+            "<?php echo SOCIAL_INSTAGRAM; ?>",
+            "<?php echo SOCIAL_YOUTUBE; ?>",
+            "<?php echo SOCIAL_PINTEREST; ?>"
+        ],
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
             "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
@@ -57,13 +73,13 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Packers and Movers in Bokaro",
-                "item": "https://shreeashirwadpackers.com/packers-and-movers-in-bokaro"
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-bokaro"
             },
             {
                 "@type": "ListItem",
@@ -378,64 +394,34 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
 
 <div class="sc4-page-wrap">
 
+    <!-- Breadcrumb Navigation -->
+    <nav aria-label="Breadcrumb" style="background: #f8fafc; padding: 12px 20px; border-bottom: 1px solid #e2e8f0; font-size: 0.9rem;">
+        <div style="max-width: 1140px; margin: 0 auto; color: #64748b;">
+            <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #1e3a8a; text-decoration: none; font-weight: 600;">Home</a>
+            <span style="margin: 0 8px;">/</span>
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #1e3a8a; text-decoration: none; font-weight: 600;">Packers and Movers in Bokaro</a>
+            <span style="margin: 0 8px;">/</span>
+            <span style="color: #0f172a; font-weight: 700;">Sector 4 Bokaro</span>
+        </div>
+    </nav>
+
     <!-- Hero Section -->
     <section class="sc4-hero-banner">
         <h1 class="sc4-hero-title">Packers and Movers in Sector 4 Bokaro</h1>
         <p class="sc4-hero-subtitle">Premier Moving Services in Bokaro Steel City's Commercial & Administrative Heart. Safe Apartment Shifting, Office Transfers, Car & Bike Shipping with IBA Approved Bills.</p>
-        <a href="tel:+919835565233" class="sc4-cta-btn">Book Move in Sector 4: +91 9835565233</a>
+        <a href="tel:+918409531615" class="sc4-cta-btn">Book Move in Sector 4: +91 8409531615</a>
     </section>
 
     <!-- Main Container -->
     <div class="sc4-container">
-
-            <!-- Competitor Ranking Keyword Content Box -->
-    <section style="padding: 40px 0 20px; background: #ffffff;">
-        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
-            <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0d47a1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.04);">
-                <h3 style="color: #0f172a; font-size: 1.5rem; font-weight: 700; margin-top: 0; margin-bottom: 16px;">
-                    Packers and Movers in Sector 4
-                </h3>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Looking for the <strong>best packers and movers in Sector 4</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting</strong>, commercial <strong>office relocation</strong>, specialized <strong>bike transport</strong>, secure <strong>car transport</strong>, and complete moving solutions at affordable prices.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Our experienced team offers safe packing, loading, unloading, direct transit transportation, and unpacking services across Sector 4 and nearby areas with timely delivery support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    As one of the <strong>top-rated packers and movers near Sector 4</strong>, we help families, military personnel, corporate executives, and businesses relocate locally and across Jharkhand without hassle.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We cover major localities including Sector 4, Jharkhand along with nearby residential colonies, commercial centers, and industrial areas for fast and reliable shifting services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Whether you need <strong>local shifting in Sector 4</strong>, intercity relocation, <strong>office moving</strong>, luggage transport, or vehicle transportation, our trained staff ensures secure handling and professional support.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    Customers choose our <strong>movers and packers service in Sector 4</strong> for transparent pricing, careful goods handling, quick booking assistance, and dependable relocation planning.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    We also provide <strong>nearby packers and movers</strong> support with <strong>pincode-based scheduling</strong>, <strong>same-day shifting assistance</strong>, <strong>floor-to-floor handling</strong>, and flexible moving options.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    From small apartments (1 BHK, 2 BHK, 3 BHK) to large bungalows and corporate setups, our <strong>packing and moving company in Sector 4</strong> delivers affordable, safe, and stress-free relocation services.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 12px;">
-                    If you are searching for reliable <strong>movers and packers near me in Sector 4</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
-                </p>
-                <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service in Sector 4</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges in Sector 4</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
-                </p>
-            </div>
-        </div>
-    </section>
 
         <!-- Section 1: Introduction & Urban Context -->
         <div class="sc4-grid-2">
             <div>
                 <h2 class="sc4-section-title">Professional Relocation in Sector 4 Bokaro</h2>
                 <p>Sector 4 is universally recognized as the pulse of Bokaro Steel City. Home to the bustling City Centre commercial district, administrative banking headquarters, premium shopping complexes, and prestigious SAIL residential avenues, Sector 4 witnesses high demand for both residential apartment moves and commercial corporate relocations.</p>
-                <p><strong>Shree Ashirwad Packers and Movers</strong> provides trusted moving services in Sector 4 Bokaro. Whether you are transferring between SAIL quarters in Sector 4-A, 4-B, 4-C, 4-D, 4-E, 4-F, or 4-G, moving into modern private apartment complexes in nearby Chas, or transferring to other steel and industrial hubs like <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Dhanbad</a>, <a href="<?php echo SITE_BASE_URL; ?>/">Ranchi</a>, or <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-jamshedpur">Jamshedpur</a>, we provide precision packing and flawless execution.</p>
-                <p>Explore our broader citywide capabilities at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Packers and Movers in Bokaro</a>, or estimate your exact move cost on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Tariff Calculator</a>.</p>
+                <p><strong>Shree Ashirwad Packers and Movers</strong> dispatches dedicated moving crews from our verified Bokaro branch office (<em>Plot no - 54/c, Post office sector - 12/A, Bokaro - 827012</em>) to serve every block in Sector 4. Whether you are transferring between SAIL quarters in Sector 4-A, 4-B, 4-C, 4-D, 4-E, 4-F, or 4-G, moving into modern private apartment complexes in nearby <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas">Chas</a>, or transferring to other steel and industrial hubs like <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers">Dhanbad</a>, <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers">Ranchi</a>, or <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-jamshedpur-packers-and-movers">Jamshedpur</a>, we provide precision packing and flawless execution.</p>
+                <p>Explore our broader citywide capabilities at <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Packers and Movers in Bokaro</a>, or estimate your exact move cost on our <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Live Tariff Calculator</a>.</p>
             </div>
             <div>
                 <div class="sc4-image-box">
@@ -617,14 +603,19 @@ $canonical_url = "https://shreeashirwadpackers.com/packers-and-movers-in-sector-
 
         <!-- Section 8: Connected Cluster Module -->
         <div class="sc4-cluster-links">
-            <h4>Explore Nearby Sectors & Industrial Corridors</h4>
+            <h4>Explore Bokaro Sectors, Services & Intercity Corridors</h4>
             <div class="sc4-cluster-grid">
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Packers and Movers in Bokaro</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas">Packers and Movers in Chas</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro">Household Shifting in Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-bokaro">Car Transport in Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-in-bokaro">Bike Transport in Bokaro</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-12-bokaro">Movers in Sector 12 Bokaro</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-dhanbad">Packers and Movers in Dhanbad</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/">Packers and Movers in Ranchi</a>
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi">Live Relocation Cost Calculator</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas">Packers and Movers in Chas</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers">Bokaro to Ranchi Movers</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-kolkata-packers-and-movers">Bokaro to Kolkata Movers</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-bangalore-packers-and-movers">Bokaro to Bangalore Movers</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-bokaro">Bokaro House Shifting Guide</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-cost-calculator">Live Relocation Cost Calculator</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact">Contact Customer Care</a>
             </div>
         </div>

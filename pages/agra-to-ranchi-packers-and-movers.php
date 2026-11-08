@@ -16,8 +16,11 @@ $page_title = "Agra to Ranchi Packers and Movers | Best Shifting Services - Shre
 $page_description = "Looking for the best packers and movers from Agra to Ranchi? Shree Ashirwad Packers offers 36-48 hr transit via GT Road, Army & defense bills, household shifting, car carriers & transit insurance. Call +91 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/agra-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -692,11 +695,11 @@ require_once __DIR__ . '/includes/seo.php';
     "name": "Shree Ashirwad Packers and Movers - Agra to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/agra-to-ranchi-packers-and-movers",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "₹15,000 - ₹54,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Patel Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -759,8 +762,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Routes",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -869,13 +872,20 @@ require_once __DIR__ . '/includes/seo.php';
 
 <body class="r2agr-wrapper">
 
-<?php include_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
     
     <main>
   <!-- Hero Section -->
   <section class="r2agr-hero">
     <div class="r2agr-hero-container">
+      <nav class="r2agr-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+        <span style="color:#64748b;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+        <span style="color:#64748b;">/</span>
+        <span style="color:#fde047; font-weight:600;">Agra to Ranchi</span>
+      </nav>
       <div>
         <div class="r2agr-hero-badge">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
@@ -1523,7 +1533,7 @@ require_once __DIR__ . '/includes/seo.php';
           Connect seamlessly across our interstate network linking Western Uttar Pradesh, Grand Trunk Road, and Jharkhand:
         </p>
         <div class="r2agr-cluster-links">
-          <a href="<?php echo SITE_BASE_URL; ?>/" class="r2agr-cluster-link">Ranchi Main Hub</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2agr-cluster-link">Packers and Movers in Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-agra-packers-and-movers" class="r2agr-cluster-link">Ranchi to Agra</a>
           <a href="<?php echo SITE_BASE_URL; ?>/kanpur-to-ranchi-packers-and-movers" class="r2agr-cluster-link">Kanpur to Ranchi</a>
           <a href="<?php echo SITE_BASE_URL; ?>/prayagraj-to-ranchi-packers-and-movers" class="r2agr-cluster-link">Prayagraj to Ranchi</a>
@@ -1536,7 +1546,7 @@ require_once __DIR__ . '/includes/seo.php';
   </section>
 </main>
 
-<?php include_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

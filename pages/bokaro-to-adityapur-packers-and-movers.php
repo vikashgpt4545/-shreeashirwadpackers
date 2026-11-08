@@ -13,14 +13,14 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Packers and Movers Bokaro to Adityapur | Best Moving Company - 9835565233";
-$page_desc = "Looking for the best packers and movers from Bokaro to Adityapur? Shree Ashirwad Packers offers trusted household shifting, steel plant cargo moving, bike & car transport with 5-layer packing. Call +91 9835565233.";
+$page_desc = "Looking for the best packers and movers from Bokaro to Adityapur? Shree Ashirwad Packers offers trusted household shifting, steel plant cargo moving, bike & car transport with 5-layer packing. Call +91 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/bokaro-to-adityapur-packers-and-movers";
 $route_origin = "Bokaro Steel City";
 $route_destination = "Adityapur";
 
 // Open Graph
 $og_title = "Packers and Movers Bokaro to Adityapur | Best Moving Company - 9835565233";
-$og_description = "Looking for the best packers and movers from Bokaro to Adityapur? Shree Ashirwad Packers offers trusted household shifting, steel plant cargo moving, bike & car transport with 5-layer packing. Call +91 9835565233.";
+$og_description = "Looking for the best packers and movers from Bokaro to Adityapur? Shree Ashirwad Packers offers trusted household shifting, steel plant cargo moving, bike & car transport with 5-layer packing. Call +91 8409531615.";
 $og_url = $canonical_url;
 $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg";
 ?>
@@ -35,7 +35,7 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
     <link rel="canonical" href="<?php echo $canonical_url; ?>">
     <meta name="robots" content="index, follow">
     <meta name="geo.region" content="IN-JH">
-    <meta name="geo.placename" content="Bokaro Steel City">
+    <meta name="geo.placename" content="Bokaro Steel City, Jharkhand">
 
     <!-- Open Graph Metadata -->
     <meta property="og:type" content="business.business">
@@ -67,14 +67,14 @@ $og_image = "https://www.shreeashirwadpackers.com/images/safe-transit-container-
         "name": "Shree Ashirwad Packers and Movers Bokaro to Adityapur",
         "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo SECONDARY_PHONE; ?>",
         "priceRange": "₹6,800 - ₹35,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Sector 4 City Centre & Chas Bypass Link",
+            "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
             "addressLocality": "Bokaro Steel City",
             "addressRegion": "Jharkhand",
-            "postalCode": "827004",
+            "postalCode": "827012",
             "addressCountry": "IN"
         },
         "geo": {
@@ -667,6 +667,11 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
     <!-- HERO SECTION -->
     <header class="bok-adi-hero">
         <div class="bok-adi-hero-container">
+            <nav style="margin-bottom: 18px; font-size: 0.9rem;" aria-label="breadcrumb">
+                <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a> &raquo; 
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #93c5fd; text-decoration: none;">Bokaro Packers and Movers</a> &raquo; 
+                <span style="color: #ffffff;">Bokaro to Adityapur</span>
+            </nav>
             <div class="bok-adi-badge-row">
                 <span class="bok-adi-badge"><i class="fa-solid fa-truck-fast"></i> 125 km Express NH-18 Route</span>
                 <span class="bok-adi-badge"><i class="fa-solid fa-shield-halved"></i> 100% In-Transit Risk Cover</span>
@@ -678,10 +683,10 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 Looking for the <strong>best packers and movers from Bokaro to Adityapur</strong>? Shree Ashirwad Packers and Movers provides trusted <strong>household shifting, office relocation, bike transport, and car carrier services</strong> at affordable, transparent prices. As one of the top-rated movers and packers near Bokaro, our professional crew ensures safe packing, loading, highway transportation via NH-18, and doorstep unpacking across Sector 1–12, Chas, and the Adityapur AIADA industrial cluster with same-day shifting assistance, floor-to-floor handling, and complete transit insurance protection.
             </p>
             <div class="bok-adi-cta-row">
-                <a href="tel:+919835565233" class="btn-bok-adi-call" title="Call Shree Ashirwad Packers Bokaro">
-                    <i class="fa-solid fa-phone"></i> Call +91 9835565233
+                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-bok-adi-call" title="Call Shree Ashirwad Packers Bokaro">
+                    <i class="fa-solid fa-phone"></i> Call <?php echo SECONDARY_PHONE; ?>
                 </a>
-                <a href="https://api.whatsapp.com/send?phone=919835565233&amp;text=Hi%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Bokaro%20to%20Adityapur%20shifting." class="btn-bok-adi-wa" target="_blank" rel="noopener" title="Get Instant WhatsApp Quote">
+                <a href="https://api.whatsapp.com/send?phone=918409531615&amp;text=Hi%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Bokaro%20to%20Adityapur%20shifting." class="btn-bok-adi-wa" target="_blank" rel="noopener" title="Get Instant WhatsApp Quote">
                     <i class="fa-brands fa-whatsapp"></i> WhatsApp Instant Quote
                 </a>
             </div>
@@ -723,7 +728,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     If you are searching for reliable movers and packers near me from Bokaro to Adityapur, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -1099,12 +1104,20 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                         <span>Bokaro Steel City Hub</span>
                         <i class="fa-solid fa-arrow-right"></i>
                     </a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-adityapur" class="bok-adi-cluster-link">
-                        <span>Adityapur Main Hub</span>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" class="bok-adi-cluster-link">
+                        <span>Sector 4 Bokaro</span>
+                        <i class="fa-solid fa-arrow-right"></i>
+                    </a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" class="bok-adi-cluster-link">
+                        <span>Chas Bokaro</span>
                         <i class="fa-solid fa-arrow-right"></i>
                     </a>
                     <a href="<?php echo SITE_BASE_URL; ?>/adityapur-to-bokaro-packers-and-movers" class="bok-adi-cluster-link">
-                        <span>Adityapur to Bokaro</span>
+                        <span>Adityapur to Bokaro (Return Route)</span>
+                        <i class="fa-solid fa-arrow-right"></i>
+                    </a>
+                    <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-jamshedpur-packers-and-movers" class="bok-adi-cluster-link">
+                        <span>Bokaro to Jamshedpur</span>
                         <i class="fa-solid fa-arrow-right"></i>
                     </a>
                     <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" class="bok-adi-cluster-link">
@@ -1115,16 +1128,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                         <span>Bokaro to Ranchi</span>
                         <i class="fa-solid fa-arrow-right"></i>
                     </a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/adityapur-to-dhanbad-packers-and-movers" class="bok-adi-cluster-link">
-                        <span>Adityapur to Dhanbad</span>
-                        <i class="fa-solid fa-arrow-right"></i>
-                    </a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/adityapur-to-jamshedpur-packers-and-movers" class="bok-adi-cluster-link">
-                        <span>Adityapur to Jamshedpur</span>
-                        <i class="fa-solid fa-arrow-right"></i>
-                    </a>
-                    <a href="<?php echo SITE_BASE_URL; ?>/jamshedpur-to-adityapur-packers-and-movers" class="bok-adi-cluster-link">
-                        <span>Jamshedpur to Adityapur</span>
+                    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-adityapur" class="bok-adi-cluster-link">
+                        <span>Adityapur Main Hub</span>
                         <i class="fa-solid fa-arrow-right"></i>
                     </a>
                 </div>

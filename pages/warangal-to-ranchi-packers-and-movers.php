@@ -13,9 +13,11 @@ $page_description = "Dependable Warangal (Hanamkonda-Kazipet) to Ranchi packers 
 $canonical_url = "https://www.shreeashirwadpackers.com/warangal-to-ranchi-packers-and-movers";
 $page_keywords = "warangal to ranchi packers and movers, packers and movers hanamkonda to ranchi, household shifting warangal to ranchi, car carrier warangal to ranchi, bike courier kazipet to ranchi, return movers warangal to ranchi, nit warangal faculty return relocation, kazipet to ranchi packers";
 
-$current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -61,12 +63,12 @@ require_once __DIR__ . '/../includes/seo.php';
         "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
         "image": "<?php echo SITE_BASE_URL; ?>/images/complete-household-packing-dhanbad.jpg",
         "description": "Professional inbound intercity relocation service connecting Warangal-Hanamkonda-Kazipet (Telangana) to Ranchi (Jharkhand). Expert household moving, automobile transport, corporate returns, and all-risk transit insurance.",
-        "telephone": "+91-8409531615",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
         "alternateTelephone": "+91-9835565233",
         "email": "enquiry@shreeashirwadpackers.com",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Harmu Road, Near Overbridge",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -114,13 +116,13 @@ require_once __DIR__ . '/../includes/seo.php';
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Intercity Routes",
-                "item": "<?php echo SITE_BASE_URL; ?>/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Warangal to Ranchi Packers and Movers",
+                "name": "Warangal to Ranchi",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -135,7 +137,8 @@ require_once __DIR__ . '/../includes/seo.php';
         "serviceType": "Intercity Packers and Movers",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
         },
         "areaServed": {
             "@type": "City",
@@ -526,7 +529,18 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="warr-hero-container" style="padding-top: 0; padding-bottom: 0; font-size: 0.88rem; color: #64748b;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338ca; text-decoration: none; font-weight: 500;">Home</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338ca; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Warangal to Ranchi</span>
+    </div>
+</nav>
 
 <!-- Hero Section -->
 <header class="warr-hero">
@@ -953,6 +967,10 @@ require_once __DIR__ . '/../includes/seo.php';
             <p style="font-size: 0.95rem; color: #64748B; margin: 0;">Direct container linehaul linking Warangal tri-cities and Telangana with Ranchi headquarters.</p>
         </div>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem;">
+            <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+                <span>Packers and Movers in Ranchi</span>
+                <span style="color: #E11D48;">→</span>
+            </a>
             <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-warangal-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #E2E8F0; text-decoration: none; color: #4338CA; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
                 <span>Ranchi to Warangal (Outbound)</span>
                 <span style="color: #E11D48;">→</span>
@@ -995,7 +1013,7 @@ require_once __DIR__ . '/../includes/seo.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -9,8 +9,11 @@
  * Distance: ~145 km | Same-Day / 24-Hour Relocation Corridor
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Chaibasa to Ranchi Packers and Movers - 9835565233 | Shree Ashirwad Packers";
 $page_description = "Hire top-rated Chaibasa to Ranchi packers and movers by Shree Ashirwad Packers. Same-day shifting, 5-layer packing, closed container trucks, IBA approved bills, and zero damage guarantee.";
@@ -89,7 +92,7 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/door-to-door-delivery-truck-jharkhand.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "keywords": "chaibasa to ranchi packers and movers, packers and movers chaibasa to ranchi, house shifting chaibasa to ranchi, chaibasa to ranchi movers",
@@ -97,7 +100,7 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -105,10 +108,10 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3639813,
-      "longitude": 85.3090259
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
-    "hasMap": "https://maps.google.com/?q=23.3639813,85.3090259",
+    "hasMap": "https://maps.google.com/?q=23.3441,85.3096",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -138,12 +141,12 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
       "@type": "MovingCompany",
       "@id": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/#movingcompany",
       "name": "<?php echo BUSINESS_NAME; ?>",
-      "telephone": "+919835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/",
       "image": "<?php echo PRODUCTION_CANONICAL_DOMAIN; ?>/assets/images/logo.png",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+        "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
         "postalCode": "834002",
@@ -184,8 +187,8 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Packers and Movers in Chaibasa",
-        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chaibasa"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -326,7 +329,7 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
 <body>
 
   <!-- 1. Global Header Navigation -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include BASE_PATH . '/includes/header.php'; ?>
 
   <main id="mainContent">
 
@@ -339,7 +342,7 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
         <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
           <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
           <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chaibasa" style="color:#cbd5e1; text-decoration:none;">Chaibasa</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
           <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
           <span aria-current="page" style="color:#ff6a28; font-weight:600;">Chaibasa to Ranchi</span>
         </nav>
@@ -353,9 +356,9 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
         </p>
 
         <div class="hero-cta-buttons" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-primary-custom" style="display:inline-flex; align-items:center; gap:10px; background:#ff6a28; color:#ffffff; padding:14px 28px; border-radius:8px; font-weight:700; text-decoration:none; box-shadow: 0 4px 15px rgba(255,106,40,0.35); transition: all 0.3s ease;">
             <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-            Call Highway Route Desk: 9835565233
+            Call Highway Route Desk: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-outline-custom" style="display:inline-flex; align-items:center; gap:10px; background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.25); color:#ffffff; padding:14px 26px; border-radius:8px; font-weight:600; text-decoration:none; backdrop-filter:blur(6px); transition: all 0.3s ease;">
             WhatsApp Route Estimate &rarr;
@@ -448,7 +451,7 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
                     If you are searching for reliable <strong>movers and packers near me from Chaibasa to Ranchi</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Chaibasa to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Chaibasa to Ranchi</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Chaibasa to Ranchi</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Chaibasa to Ranchi</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -478,7 +481,7 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
             <div style="display:flex; gap:14px; flex-wrap:wrap;">
               <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="background:#0f223d; color:#ffffff; padding:12px 24px; border-radius:8px; font-weight:700; text-decoration:none; font-size:0.95rem; display:inline-flex; align-items:center; gap:8px;">
                 <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M6.62 10.79a15.05 15.05 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.72 11.72 0 003.68.59 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.72 11.72 0 00.59 3.68 1 1 0 01-.24 1.02l-2.23 2.09z"/></svg>
-                Direct Route Booking: 9835565233
+                Direct Route Booking: <?php echo PRIMARY_PHONE_DISPLAY; ?>
               </a>
               <a href="#pricing-matrix" style="background:#f1f5f9; color:#1e293b; padding:12px 22px; border-radius:8px; font-weight:600; text-decoration:none; font-size:0.95rem;">
                 View Moving Rate Chart &darr;
@@ -1211,7 +1214,7 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
               Where is your office located in Ranchi for coordination?
             </h3>
             <p style="font-size:0.96rem; line-height:1.7; color:#475569; margin:0;">
-              Our verified corporate headquarters is located at Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi, Jharkhand - 834002. You can visit us in person or reach our operations desk directly 24/7 at 9835565233 or 9835565233.
+              Our verified corporate headquarters is located at Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony, Ranchi, Jharkhand - 834002. You can visit us in person or reach our operations desk directly 24/7 at <?php echo PRIMARY_PHONE_DISPLAY; ?>.
             </p>
           </div>
 
@@ -1219,7 +1222,48 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
       </section>
 
       <!-- Section 11: Authentic Customer Reviews & Feedback -->
-      <?php include __DIR__ . '/includes/sections/gmb-reviews.php'; ?>
+      <?php include __DIR__ . '/../includes/sections/gmb-reviews.php'; ?>
+
+      <!-- Section 11.5: Connected Southern Jharkhand Corridors -->
+      <section style="margin-bottom:60px; background:#f8fafc; border-radius:16px; padding:40px 30px; border:1px solid #e2e8f0;">
+        <div style="text-align:center; max-width:850px; margin:0 auto 30px;">
+          <span style="background:#e0f2fe; color:#0369a1; padding:4px 14px; border-radius:9999px; font-weight:700; font-size:0.82rem; text-transform:uppercase; display:inline-block; margin-bottom:10px;">
+            Regional Network
+          </span>
+          <h2 style="font-size:clamp(1.6rem, 2.5vw, 2.1rem); font-weight:800; color:#0f223d; margin-bottom:12px;">
+            Explore Connected Inter-District Corridors
+          </h2>
+          <p style="font-size:0.98rem; line-height:1.7; color:#475569;">
+            Fast, insured highway moving solutions linking Ranchi, Chaibasa, and neighboring industrial centers:
+          </p>
+        </div>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:16px;">
+          <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-chaibasa-packers-and-movers" style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:16px 20px; text-decoration:none; color:#0f223d; font-weight:600; font-size:0.92rem; display:flex; justify-content:space-between; align-items:center; transition:all 0.3s ease;">
+            <span>Ranchi to Chaibasa (Return)</span>
+            <span style="color:#ff6a28;">&rarr;</span>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:16px 20px; text-decoration:none; color:#0f223d; font-weight:600; font-size:0.92rem; display:flex; justify-content:space-between; align-items:center; transition:all 0.3s ease;">
+            <span>Ranchi Headquarters Hub</span>
+            <span style="color:#ff6a28;">&rarr;</span>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/chakradharpur-to-ranchi-packers-and-movers" style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:16px 20px; text-decoration:none; color:#0f223d; font-weight:600; font-size:0.92rem; display:flex; justify-content:space-between; align-items:center; transition:all 0.3s ease;">
+            <span>Chakradharpur to Ranchi</span>
+            <span style="color:#ff6a28;">&rarr;</span>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/saraikela-to-ranchi-packers-and-movers" style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:16px 20px; text-decoration:none; color:#0f223d; font-weight:600; font-size:0.92rem; display:flex; justify-content:space-between; align-items:center; transition:all 0.3s ease;">
+            <span>Saraikela to Ranchi</span>
+            <span style="color:#ff6a28;">&rarr;</span>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/khunti-to-ranchi-packers-and-movers" style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:16px 20px; text-decoration:none; color:#0f223d; font-weight:600; font-size:0.92rem; display:flex; justify-content:space-between; align-items:center; transition:all 0.3s ease;">
+            <span>Khunti to Ranchi</span>
+            <span style="color:#ff6a28;">&rarr;</span>
+          </a>
+          <a href="<?php echo SITE_BASE_URL; ?>/jamshedpur-to-ranchi-packers-and-movers" style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:16px 20px; text-decoration:none; color:#0f223d; font-weight:600; font-size:0.92rem; display:flex; justify-content:space-between; align-items:center; transition:all 0.3s ease;">
+            <span>Jamshedpur to Ranchi</span>
+            <span style="color:#ff6a28;">&rarr;</span>
+          </a>
+        </div>
+      </section>
 
       <!-- Section 12: High-Converting Call to Action Banner -->
       <section style="background:linear-gradient(135deg, #0f223d 0%, #1e3a5f 100%); border-radius:16px; padding:50px 30px; text-align:center; color:#ffffff; margin-bottom:40px; box-shadow:0 10px 35px rgba(15,34,61,0.25);">
@@ -1230,11 +1274,11 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
           Book certified Chaibasa to Ranchi packers and movers with Shree Ashirwad Packers today. Get free in-home survey, same-day direct highway transit, 5-layer protective packing, and authentic IBA-approved bills.
         </p>
         <div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;">
-          <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="btn-hero-call" style="background:#ff6a28; color:#ffffff; padding:15px 32px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1.05rem; box-shadow:0 4px 15px rgba(255,106,40,0.4);">
-            Call Route Specialist: 9835565233
+          <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-hero-call" style="background:#ff6a28; color:#ffffff; padding:15px 32px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1.05rem; box-shadow:0 4px 15px rgba(255,106,40,0.4);">
+            Call Route Specialist: <?php echo PRIMARY_PHONE_DISPLAY; ?>
           </a>
           <a href="<?php echo WHATSAPP_LINK; ?>" target="_blank" rel="nofollow noopener noreferrer" class="btn-hero-whatsapp" style="background:#25d366; color:#ffffff; padding:15px 30px; border-radius:8px; font-weight:700; text-decoration:none; font-size:1.05rem; box-shadow:0 4px 15px rgba(37,211,102,0.3);">
-            WhatsApp Free Moving Estimate
+            WhatsApp Free Moving Estimate (<?php echo PRIMARY_PHONE_DISPLAY; ?>)
           </a>
           <a href="<?php echo SITE_BASE_URL; ?>/contact" style="background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.3); color:#ffffff; padding:15px 28px; border-radius:8px; font-weight:600; text-decoration:none; font-size:1.05rem;">
             Online Enquiry &rarr;
@@ -1247,7 +1291,7 @@ $meta_keywords = "chaibasa to ranchi packers and movers, packers and movers chai
   </main>
 
   <!-- Global Footer Navigation -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include BASE_PATH . '/includes/footer.php'; ?>
 
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>
 </body>

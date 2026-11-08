@@ -9,8 +9,8 @@
  * Coordinates: 23.3639813° N, 85.3090259° E
  */
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+require_once __DIR__ . '/../includes/config.php';
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Bike Transport in Ranchi - 8409531615 | Shree Ashirwad Packers";
 $page_description = "Specialized bike transport in Ranchi by Shree Ashirwad Packers. 5-layer protective packing, custom wooden crating, enclosed container trucks, door-to-door pickup, and IBA approved bills across India.";
@@ -182,8 +182,8 @@ $meta_keywords = "bike transport in ranchi, two wheeler transport in ranchi, mot
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Vehicle Shifting",
-        "item": "<?php echo SITE_BASE_URL; ?>/vehicle-shifting/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -288,7 +288,20 @@ $meta_keywords = "bike transport in ranchi, two wheeler transport in ranchi, mot
 <body>
 
   <!-- 1. Global Header Navigation -->
-  <?php include __DIR__ . '/includes/header.php'; ?>
+  <?php include __DIR__ . '/../includes/header.php'; ?>
+
+  <!-- Breadcrumbs -->
+  <div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb" style="display: flex; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; font-size: 0.9rem;">
+          <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;"><i class="fa fa-home"></i> Home</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+          <li class="breadcrumb-item" style="margin-right: 8px;"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a> <span style="color: #94a3b8; margin-left: 6px;">/</span></li>
+          <li class="breadcrumb-item active" aria-current="page" style="color: #64748b; font-weight: 600;">Bike Transport in Ranchi</li>
+        </ol>
+      </nav>
+    </div>
+  </div>
 
   <main id="mainContent">
 
@@ -301,7 +314,7 @@ $meta_keywords = "bike transport in ranchi, two wheeler transport in ranchi, mot
         <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
           <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
           <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
-          <a href="<?php echo SITE_BASE_URL; ?>/vehicle-shifting/" style="color:#cbd5e1; text-decoration:none;">Vehicle Shifting</a>
+          <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
           <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
           <span aria-current="page" style="color:#ff6a28; font-weight:600;">Bike Transport in Ranchi</span>
         </nav>
@@ -1255,7 +1268,7 @@ $meta_keywords = "bike transport in ranchi, two wheeler transport in ranchi, mot
   </main>
 
   <!-- Global Footer Navigation -->
-  <?php include __DIR__ . '/includes/footer.php'; ?>
+  <?php include __DIR__ . '/../includes/footer.php'; ?>
 
   <script src="<?php echo SITE_BASE_URL; ?>/assets/js/main.js" defer></script>
 </body>

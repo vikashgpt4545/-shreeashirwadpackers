@@ -11,9 +11,11 @@ $page_description = "Reliable Ranchi to Navi Mumbai packers and movers service. 
 $page_keywords = "ranchi to navi mumbai packers and movers, packers and movers ranchi to navi mumbai, household shifting ranchi to vashi, car transport ranchi to navi mumbai, luggage shifting ranchi to kharghar";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-navi-mumbai-packers-and-movers";
 
-$current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -72,11 +74,11 @@ require_once __DIR__ . '/../includes/seo.php';
             "logo": "https://www.shreeashirwadpackers.com/images/logo.png",
             "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
             "description": "Licensed and insured long-distance moving specialist offering premier packing, moving, car transport, and logistics services from Ranchi to Navi Mumbai.",
-            "telephone": "+91 9835565233",
-            "email": "support@shreeashirwadpackers.com",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+            "email": "enquiry@shreeashirwadpackers.com",
             "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "Harmu Road, Near Sahajanand Chowk",
+                "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
                 "addressLocality": "Ranchi",
                 "addressRegion": "Jharkhand",
                 "postalCode": "834002",
@@ -84,8 +86,8 @@ require_once __DIR__ . '/../includes/seo.php';
             },
             "geo": {
                 "@type": "GeoCoordinates",
-                "latitude": "23.3569",
-                "longitude": "85.3182"
+                "latitude": "23.3441",
+                "longitude": "85.3096"
             },
             "openingHoursSpecification": {
                 "@type": "OpeningHoursSpecification",
@@ -146,14 +148,14 @@ require_once __DIR__ . '/../includes/seo.php';
                 {
                     "@type": "ListItem",
                     "position": 2,
-                    "name": "Ranchi Corridors",
-                    "item": "https://www.shreeashirwadpackers.com/"
+                    "name": "Packers and Movers in Ranchi",
+                    "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
                 },
                 {
                     "@type": "ListItem",
                     "position": 3,
                     "name": "Ranchi to Navi Mumbai",
-                    "item": "https://www.shreeashirwadpackers.com/ranchi-to-navi-mumbai-packers-and-movers"
+                    "item": "<?php echo $canonical_url; ?>"
                 }
             ]
         },
@@ -208,14 +210,14 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 <div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
     <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
         <nav aria-label="breadcrumb">
             <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
                 <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
                 <li style="color: #94a3b8;">/</li>
-                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Ranchi Routes</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
                 <li style="color: #94a3b8;">/</li>
                 <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Navi Mumbai</li>
             </ol>
@@ -745,7 +747,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </section>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

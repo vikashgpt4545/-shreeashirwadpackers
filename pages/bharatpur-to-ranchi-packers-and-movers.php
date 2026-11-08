@@ -5,9 +5,12 @@
  * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Bharatpur to Ranchi.
  * Focus Keywords: bharatpur to ranchi packers and movers, packers and movers bharatpur to ranchi, house shifting bharatpur to ranchi, car carrier bharatpur to ranchi, bike transport bharatpur to ranchi, household moving bharatpur ranchi
  */
-if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/includes/config.php';
+$current_page = 'services';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
 }
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Bharatpur to Ranchi Packers and Movers | Reliable Shifting Services";
 $page_desc = "Safe Bharatpur to Ranchi packers and movers. 1150 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
@@ -373,20 +376,21 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bharatpur-to-ranchi-packe
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Kumher Gate Main Road",
-            "addressLocality": "Bharatpur",
-            "addressRegion": "Rajasthan",
-            "postalCode": "321001",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
+            "addressRegion": "Jharkhand",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 27.2152,
-            "longitude": 77.503
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -474,13 +478,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bharatpur-to-ranchi-packe
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
+                "name": "Packers and Movers in Ranchi",
                 "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Bharatpur to Ranchi Shifting",
+                "name": "Bharatpur to Ranchi",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -582,7 +586,20 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bharatpur-to-ranchi-packe
 </head>
 <body>
 
-<?php include __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Bharatpur to Ranchi</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- Hero Section -->
 <section class="c_bha_ran-hero">
@@ -1116,6 +1133,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/bharatpur-to-ranchi-packe
     </div>
 </section>
 
-<?php include __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

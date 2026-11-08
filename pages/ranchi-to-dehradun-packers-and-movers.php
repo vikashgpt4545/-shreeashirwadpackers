@@ -15,8 +15,11 @@ $page_title = "Ranchi to Dehradun Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Dehradun packers and movers by Shree Ashirwad. Express transit via NH-19/EPE, IMA & ONGC bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-dehradun-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ranchi",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹5,000 - ₹72,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -151,7 +154,8 @@ require_once __DIR__ . '/includes/seo.php';
     "serviceType": "Interstate Relocation & Packers and Movers",
     "provider": {
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers"
+      "name": "Shree Ashirwad Packers and Movers",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
     },
     "areaServed": {
       "@type": "City",
@@ -950,7 +954,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="r2ddn-hero-container" style="padding-top: 0; padding-bottom: 0; font-size: 0.88rem; color: #64748b;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338ca; text-decoration: none; font-weight: 500;">Home</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338ca; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Ranchi to Dehradun</span>
+    </div>
+</nav>
 
 <main class="r2ddn-page-wrapper">
 
@@ -1549,6 +1564,8 @@ require_once __DIR__ . '/includes/seo.php';
         Discover our dedicated interstate relocation corridors connecting Ranchi to major institutional, educational, and defense centers across Uttarakhand, Uttar Pradesh, and neighboring states:
       </p>
       <div class="r2ddn-cluster-links">
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2ddn-cluster-link">Packers and Movers in Ranchi</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/dehradun-to-ranchi-packers-and-movers" class="r2ddn-cluster-link">Dehradun to Ranchi Movers</a>
         <a href="<?php echo SITE_BASE_URL; ?>/" class="r2ddn-cluster-link">Ranchi Headquarters</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2ddn-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-gwalior-packers-and-movers" class="r2ddn-cluster-link">Ranchi to Gwalior</a>
@@ -1565,7 +1582,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

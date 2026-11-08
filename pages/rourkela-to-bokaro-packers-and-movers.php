@@ -10,7 +10,7 @@ if (!defined('APP_INIT')) {
 }
 
 $page_title = "Rourkela to Bokaro Packers & Movers | Shree Ashirwad Packers";
-$page_desc = "Top Rourkela to Bokaro packers and movers by Shree Ashirwad. Next-day 24h transit, SAIL RSP/BSL approved claim bills, 5-layer packing, car carrier. Call 9835565233.";
+$page_desc = "Top Rourkela to Bokaro packers and movers by Shree Ashirwad. Next-day 24h transit, SAIL RSP/BSL approved claim bills, 5-layer packing, car carrier. Call 8409531615.";
 $canonical_url = "https://www.shreeashirwadpackers.com/rourkela-to-bokaro-packers-and-movers";
 ?>
 <!DOCTYPE html>
@@ -453,14 +453,14 @@ $canonical_url = "https://www.shreeashirwadpackers.com/rourkela-to-bokaro-packer
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "https://www.shreeashirwadpackers.com/#organization",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo SECONDARY_PHONE; ?>",
         "priceRange": "INR 12,000 - 46,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Shop No. 12, City Centre, Sector 4",
+            "streetAddress": "Plot no - 54/c, Post office sector - 12/A",
             "addressLocality": "Bokaro Steel City",
             "addressRegion": "Jharkhand",
-            "postalCode": "827004",
+            "postalCode": "827012",
             "addressCountry": "IN"
         },
         "geo": {
@@ -632,6 +632,17 @@ $canonical_url = "https://www.shreeashirwadpackers.com/rourkela-to-bokaro-packer
 
 <?php include __DIR__ . '/../includes/header.php'; ?>
 
+<!-- Visual Breadcrumb Bar -->
+<div style="background: #f1f5f9; padding: 10px 0; border-bottom: 1px solid #e2e8f0; font-size: 0.875rem;">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a>
+        <span style="color: #cbd5e1; margin: 0 8px;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #64748b; text-decoration: none;">Bokaro Packers and Movers</a>
+        <span style="color: #cbd5e1; margin: 0 8px;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Rourkela to Bokaro</span>
+    </div>
+</div>
+
 <main>
     <!-- Hero Section -->
     <section class="r2bko-hero">
@@ -662,8 +673,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/rourkela-to-bokaro-packer
             </div>
 
             <div class="r2bko-cta-group">
-                <a href="tel:9835565233" class="r2bko-btn-phone">&#128222; Call 084095 31615</a>
-                <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20a%20quote%20for%20Rourkela%20to%20Bokaro%20shifting." target="_blank" class="r2bko-btn-whatsapp">&#128172; WhatsApp Quote</a>
+                <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="r2bko-btn-phone">&#128222; Call <?php echo SECONDARY_PHONE; ?></a>
+                <a href="https://api.whatsapp.com/send?phone=<?php echo SECONDARY_PHONE_RAW; ?>&text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20a%20quote%20for%20Rourkela%20to%20Bokaro%20shifting." target="_blank" class="r2bko-btn-whatsapp">&#128172; WhatsApp Quote</a>
             </div>
         </div>
     </section>
@@ -703,7 +714,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/rourkela-to-bokaro-packer
                     If you are searching for reliable <strong>movers and packers near me from Rourkela to Bokaro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Rourkela to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Rourkela to Bokaro</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Rourkela to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Rourkela to Bokaro</strong>. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1087,8 +1098,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/rourkela-to-bokaro-packer
         <h2>Book Your Rourkela to Bokaro Move Today</h2>
         <p>Experience hassle-free, next-day relocation connecting Eastern India's steel townships. Free pre-move survey, transparent binding quotations, and complete transit insurance coverage.</p>
         <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-            <a href="tel:9835565233" class="r2bko-btn-phone" style="font-size: 1.1rem; padding: 14px 30px;">&#128222; Call 084095 31615</a>
-            <a href="https://api.whatsapp.com/send?phone=919835565233&text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20a%20quote%20for%20Rourkela%20to%20Bokaro%20shifting." target="_blank" class="r2bko-btn-whatsapp" style="font-size: 1.1rem; padding: 14px 30px;">&#128172; WhatsApp Inquiry</a>
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="r2bko-btn-phone" style="font-size: 1.1rem; padding: 14px 30px;">&#128222; Call <?php echo SECONDARY_PHONE; ?></a>
+            <a href="https://api.whatsapp.com/send?phone=<?php echo SECONDARY_PHONE_RAW; ?>&text=Hello%20Shree%20Ashirwad%20Packers,%20please%20send%20a%20quote%20for%20Rourkela%20to%20Bokaro%20shifting." target="_blank" class="r2bko-btn-whatsapp" style="font-size: 1.1rem; padding: 14px 30px;">&#128172; WhatsApp Inquiry</a>
         </div>
     </div>
 
@@ -1097,7 +1108,10 @@ $canonical_url = "https://www.shreeashirwadpackers.com/rourkela-to-bokaro-packer
         <div class="r2bko-cluster-links">
             <h3>Explore Connected Bokaro &amp; Interstate Relocation Routes</h3>
             <div class="r2bko-tag-cloud">
-                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="r2bko-tag-link">Bokaro Hub Overview</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" class="r2bko-tag-link">Bokaro Hub Main Page</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-rourkela-packers-and-movers" class="r2bko-tag-link">Bokaro to Rourkela (Return Route)</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" class="r2bko-tag-link">Sector 4 Bokaro</a>
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" class="r2bko-tag-link">Chas Bokaro</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/durgapur-to-bokaro-packers-and-movers" class="r2bko-tag-link">Durgapur to Bokaro Packers</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-durgapur-packers-and-movers" class="r2bko-tag-link">Bokaro to Durgapur Packers</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/kolkata-to-bokaro-packers-and-movers" class="r2bko-tag-link">Kolkata to Bokaro Packers</a>

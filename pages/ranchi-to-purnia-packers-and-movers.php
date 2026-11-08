@@ -5,7 +5,11 @@
  * Canonical URL: https://www.shreeashirwadpackers.com/ranchi-to-purnia-packers-and-movers
  * Description: Dependable interstate moving services from Ranchi to Purnia (Bihar). Specialized in household shifting, Line Bazar medical specialist transfers, Gulabbagh commercial moves, and car transport via NH31/NH33.
  */
-include_once __DIR__ . '/../includes/config.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,11 +30,11 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Ranchi to Purnia",
     "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
     "url": "https://www.shreeashirwadpackers.com/ranchi-to-purnia-packers-and-movers",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "INR 13,000 - 58,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Road & Morabadi Logistics Complex",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -82,8 +86,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Routes",
-        "item": "https://www.shreeashirwadpackers.com/routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -495,11 +499,18 @@ include_once __DIR__ . '/../includes/config.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
 <!-- HERO SECTION -->
 <section class="r2pn-hero">
   <div class="r2pn-container" style="padding-top:0; padding-bottom:0;">
+    <nav class="r2pn-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px; padding-top:15px;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+      <span style="color:#64748b;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+      <span style="color:#64748b;">/</span>
+      <span style="color:#fde047; font-weight:600;">Ranchi to Purnia</span>
+    </nav>
     <div class="r2pn-hero-badges">
       <span class="r2pn-badge">⚡ 440 km Direct NH31 / NH33 Corridor</span>
       <span class="r2pn-badge">🏥 Line Bazar &amp; Medical Relocation Experts</span>
@@ -857,8 +868,8 @@ include_once __DIR__ . '/../includes/config.php';
         <span>Purnia to Ranchi (Return)</span>
         <span style="color: #0284c7;">→</span>
       </a>
-      <a href="<?php echo SITE_BASE_URL; ?>/" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
-        <span>Ranchi Headquarters Hub</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
+        <span>Packers and Movers in Ranchi</span>
         <span style="color: #0284c7;">→</span>
       </a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-katihar-packers-and-movers" style="display: flex; justify-content: space-between; align-items: center; background: #ffffff; padding: 1.1rem 1.25rem; border-radius: 8px; border: 1px solid #e2e8f0; text-decoration: none; color: #0369a1; font-weight: 600; font-size: 0.95rem; box-shadow: 0 2px 4px rgba(0,0,0,0.03);">
@@ -894,7 +905,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 </div>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

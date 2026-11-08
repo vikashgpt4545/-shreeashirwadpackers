@@ -5,7 +5,11 @@
  * Canonical URL: https://www.shreeashirwadpackers.com/sambalpur-to-ranchi-packers-and-movers
  * Description: Dedicated interstate relocation service from Sambalpur (Odisha) to Ranchi (Jharkhand). Providing home shifting, MCL to CCL mining transfers, IIM/VSSUT faculty relocations, and vehicle transport via NH143.
  */
-include_once __DIR__ . '/../includes/config.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -26,20 +30,21 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Shree Ashirwad Packers and Movers - Sambalpur to Ranchi",
     "image": "https://www.shreeashirwadpackers.com/images/door-to-door-delivery-truck-jharkhand.jpg",
     "url": "https://www.shreeashirwadpackers.com/sambalpur-to-ranchi-packers-and-movers",
-    "telephone": "+91 9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "INR 12,000 - 55,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Budharaja & Khetrajpur Transport Complex",
-      "addressLocality": "Sambalpur",
-      "addressRegion": "Odisha",
-      "postalCode": "768001",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+      "addressLocality": "Ranchi",
+      "addressRegion": "Jharkhand",
+      "postalCode": "834002",
       "addressCountry": "IN"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 21.4669,
-      "longitude": 83.9812
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "areaServed": [
       {
@@ -82,8 +87,8 @@ include_once __DIR__ . '/../includes/config.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Routes",
-        "item": "https://www.shreeashirwadpackers.com/routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -102,7 +107,8 @@ include_once __DIR__ . '/../includes/config.php';
     "name": "Relocation Service from Sambalpur to Ranchi",
     "provider": {
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers"
+      "name": "Shree Ashirwad Packers and Movers",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
     },
     "serviceType": "Interstate Relocation & Logistics",
     "areaServed": {
@@ -451,7 +457,18 @@ include_once __DIR__ . '/../includes/config.php';
 </head>
 <body>
 
-<?php include_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="sb2r-container" style="padding-top: 0; padding-bottom: 0; font-size: 0.88rem; color: #64748b;">
+    <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #083c4a; text-decoration: none; font-weight: 500;">Home</a>
+    <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #083c4a; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+    <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+    <span style="color: #0f172a; font-weight: 600;">Sambalpur to Ranchi</span>
+  </div>
+</nav>
 
 <header class="sb2r-hero">
   <div class="sb2r-container">
@@ -763,6 +780,7 @@ include_once __DIR__ . '/../includes/config.php';
   <section>
     <h3 style="font-size: 1.3rem; color: #083c4a; margin-bottom: 12px;">Related Odisha & Inter-State Corridors</h3>
     <div class="sb2r-links-grid">
+      <div class="sb2r-link-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a></div>
       <div class="sb2r-link-item"><a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-sambalpur-packers-and-movers">Ranchi to Sambalpur Packers and Movers</a></div>
       <div class="sb2r-link-item"><a href="<?php echo SITE_BASE_URL; ?>/rourkela-to-ranchi-packers-and-movers">Rourkela to Ranchi Packers and Movers</a></div>
       <div class="sb2r-link-item"><a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-rourkela-packers-and-movers">Ranchi to Rourkela Packers and Movers</a></div>
@@ -778,7 +796,7 @@ include_once __DIR__ . '/../includes/config.php';
 
 </main>
 
-<?php include_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

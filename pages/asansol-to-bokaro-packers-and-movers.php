@@ -6,7 +6,7 @@
  * Focus Keywords: asansol to bokaro packers and movers, packers and movers asansol to bokaro, house shifting asansol to bokaro, car carrier asansol to bokaro, bike transport asansol to bokaro, household moving asansol bokaro
  */
 if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/includes/config.php';
+    require_once __DIR__ . '/../includes/config.php';
 }
 
 $page_title = "Asansol to Bokaro Packers and Movers | Reliable Shifting Services";
@@ -373,7 +373,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-bokaro-packers
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo SECONDARY_PHONE_RAW; ?>",
         "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
@@ -474,8 +474,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-bokaro-packers
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
-                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
+                "name": "Bokaro Packers and Movers",
+                "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro"
             },
             {
                 "@type": "ListItem",
@@ -584,6 +584,19 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-bokaro-packers
 
 <?php include __DIR__ . '/includes/header.php'; ?>
 
+<!-- Breadcrumbs -->
+<div class="breadcrumb-container" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb" style="background: transparent; margin: 0; padding: 0; font-size: 0.9rem;">
+                <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/"><i class="fa fa-home"></i> Home</a></li>
+                <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro">Bokaro Packers and Movers</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Asansol to Bokaro</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
 <!-- Hero Section -->
 <section class="c_asa_bok-hero">
     <div class="container">
@@ -598,11 +611,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-bokaro-packers
             Dependable, insured, and professional household shifting, vehicle transport, and corporate relocation services connecting Asansol to Bokaro. Experience 5-layer protective packaging, dedicated closed container trucks, and seamless doorstep delivery.
         </p>
         <div class="c_asa_bok-cta-group">
-            <a href="tel:+919835565233" class="c_asa_bok-btn-primary">
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" class="c_asa_bok-btn-primary">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                Call Hotline: 084095 31615
+                Call Hotline: <?php echo SECONDARY_PHONE; ?>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="c_asa_bok-btn-secondary">
+            <a href="<?php echo SITE_BASE_URL; ?>/contact" class="c_asa_bok-btn-secondary">
                 Request Express Moving Quote &rarr;
             </a>
         </div>
@@ -644,7 +657,7 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-bokaro-packers
                 If you are searching for reliable <strong>movers and packers near me from Asansol to Bokaro</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
             </p>
             <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                Our <strong>professional packers and movers service from Asansol to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Asansol to Bokaro</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                Our <strong>professional packers and movers service from Asansol to Bokaro</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Asansol to Bokaro</strong>. Call <strong><a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo SECONDARY_PHONE; ?></a></strong> for an instant quotation.
             </p>
         </div>
     </div>
@@ -1089,11 +1102,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-bokaro-packers
             Contact our moving experts for an accurate written estimate, complimentary pre-move assessment, and scheduled delivery.
         </p>
         <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
-            <a href="tel:+919835565233" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+            <a href="tel:<?php echo SECONDARY_PHONE_RAW; ?>" style="background: #0284c7; color: #ffffff; font-weight: 700; padding: 14px 34px; border-radius: 10px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-                Call Hotline: 084095 31615
+                Call Hotline: <?php echo SECONDARY_PHONE; ?>
             </a>
-            <a href="<?php echo SITE_BASE_URL; ?>/contact-us" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
+            <a href="<?php echo SITE_BASE_URL; ?>/contact" style="background: rgba(255,255,255,0.15); color: #ffffff; font-weight: 600; padding: 14px 28px; border-radius: 10px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">
                 Request Express Quote &rarr;
             </a>
         </div>
@@ -1107,10 +1120,14 @@ $canonical_url = "https://www.shreeashirwadpackers.com/asansol-to-bokaro-packers
             <h3 style="font-family: 'Outfit', sans-serif; font-size: 1.35rem; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 12px;">Connected Interstate Moving Corridors &amp; Authority Hubs</h3>
             <p style="color: #64748b; font-size: 0.96rem; margin-bottom: 20px;">Explore verified relocation routes, tariff calculators, and reciprocal return corridors:</p>
             <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; padding-left: 0; list-style: none; margin: 0;">
-                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Ranchi (HQ)</a></li>
-                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers and Movers in Bokaro</a></li>
-                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Shifting Charges &amp; Tariff Calculator</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Bokaro Hub (Branch Office)</a></li>
                 <li><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-asansol-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Return Route: Bokaro to Asansol</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-sector-4-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers &amp; Movers Sector 4 Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-chas" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Packers &amp; Movers Chas Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-dhanbad-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Bokaro to Dhanbad Shifting</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/bokaro-to-ranchi-packers-and-movers" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Bokaro to Ranchi Express Route</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-bokaro" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Household Shifting Bokaro</a></li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/pricing" style="color: #0284c7; text-decoration: none; font-weight: 600;">&#8594; Live Rates &amp; Cost Calculator</a></li>
             </ul>
         </div>
     </div>

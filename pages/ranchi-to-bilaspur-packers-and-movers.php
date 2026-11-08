@@ -15,8 +15,11 @@ $page_title = "Ranchi to Bilaspur Packers & Movers | Shree Ashirwad";
 $page_description = "Top Ranchi to Bilaspur packers and movers by Shree Ashirwad. 24-hr express transit via NH-43, SECR & SECL transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-bilaspur-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers Ranchi",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,500 - ₹54,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -151,7 +154,8 @@ require_once __DIR__ . '/includes/seo.php';
     "serviceType": "Interstate Relocation & Packers and Movers",
     "provider": {
       "@type": "MovingCompany",
-      "name": "Shree Ashirwad Packers and Movers"
+      "name": "Shree Ashirwad Packers and Movers",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
     },
     "areaServed": {
       "@type": "City",
@@ -330,6 +334,7 @@ require_once __DIR__ . '/includes/seo.php';
       color: #fbbf24;
       background: linear-gradient(120deg, #fef08a, #f59e0b);
       -webkit-background-clip: text;
+      background-clip: text;
       -webkit-text-fill-color: transparent;
     }
     .r2b-hero-desc {
@@ -907,7 +912,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+  <div class="r2b-container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px; font-size: 0.88rem; color: #64748b;">
+    <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0369a1; text-decoration: none; font-weight: 500;">Home</a>
+    <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+    <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0369a1; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+    <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+    <span style="color: #0f172a; font-weight: 600;">Ranchi to Bilaspur</span>
+  </div>
+</nav>
 
 <main class="r2b-page-wrapper">
 
@@ -1470,7 +1486,7 @@ require_once __DIR__ . '/includes/seo.php';
       </p>
       <div class="r2b-cluster-links">
         <a href="<?php echo SITE_BASE_URL; ?>/bilaspur-to-ranchi-packers-and-movers" class="r2b-cluster-link">Bilaspur to Ranchi (Return)</a>
-        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2b-cluster-link">Ranchi Headquarters</a>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2b-cluster-link">Packers and Movers in Ranchi</a>
         <a href="<?php echo SITE_BASE_URL; ?>/pricing" class="r2b-cluster-link">Transparent Rate Card</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-rourkela-packers-and-movers" class="r2b-cluster-link">Ranchi to Rourkela</a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-cuttack-packers-and-movers" class="r2b-cluster-link">Ranchi to Cuttack</a>
@@ -1486,7 +1502,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php require_once __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -1,8 +1,17 @@
 <?php
+/**
+ * Page: Student Relocation Services in Ranchi
+ */
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
+
 // Dynamic SEO Configuration for Student Relocation Services in Ranchi
 $page_title = "Student Relocation Services in Ranchi | Hostel & PG Shifting with Student Discount";
 $page_description = "Specialized student relocation in Ranchi for BIT Mesra, IIM, RIMS, XISS, NUSRL & CUJ students. Affordable hostel luggage, books, bike & PC shifting with up to 20% student discount. Call +91 9835565233.";
-$canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-ranchi";
+$canonical_url = "https://www.shreeashirwadpackers.com/student-relocation-services-ranchi";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,10 +30,10 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Student Logistics Division",
-        "image": "https://shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
+        "image": "https://www.shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
-        "priceRange": "₹799 - ₹8,500",
+        "telephone": "+91-8409531615",
+        "priceRange": "INR 799 - 8,500",
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "BIT Mesra Road, Near Main Gate",
@@ -57,13 +66,13 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "https://shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -350,7 +359,29 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumbs Bar -->
+<div class="breadcrumbs-bar" style="background: #f1f5f9; padding: 10px 0; border-bottom: 1px solid #e2e8f0; font-size: 0.88rem;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <ol style="list-style: none; display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; align-items: center;" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="<?php echo SITE_BASE_URL; ?>/" itemprop="item" style="color: #0284c7; text-decoration: none;"><span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li style="color: #64748b;">/</li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" itemprop="item" style="color: #0284c7; text-decoration: none;"><span itemprop="name">Packers and Movers in Ranchi</span></a>
+        <meta itemprop="position" content="2" />
+      </li>
+      <li style="color: #64748b;">/</li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <span itemprop="name" style="color: #334155; font-weight: 600;">Student Relocation Services</span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
+  </div>
+</div>
 
 <div class="stu-page-wrap">
 
@@ -549,6 +580,7 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
         <div class="stu-cluster-links">
             <h4>Explore Related Transport & Shifting Services</h4>
             <div class="stu-cluster-grid">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-and-luggage-transport-ranchi">Single Item & Luggage Transport</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/tempo-service-in-ranchi">Tempo Service in Ranchi</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/bike-transport-charges-calculator">Bike Transport Calculator</a>
@@ -563,7 +595,7 @@ $canonical_url = "https://shreeashirwadpackers.com/student-relocation-services-r
     </div>
 </div>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

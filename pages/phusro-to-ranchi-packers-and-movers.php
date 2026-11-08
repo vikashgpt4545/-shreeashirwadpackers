@@ -10,6 +10,7 @@
 if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Phusro to Ranchi | Safe Intercity Shifting";
 $page_desc = "Best packers and movers from Phusro to Ranchi. 105 km safe highway transit via NH-320 & NH-20, 5-layer packing, CCL shifting, car & bike parcel, IBA approved bills.";
@@ -66,20 +67,21 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "name": "Shree Ashirwad Packers and Movers Phusro to Ranchi",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹7,500 - ₹34,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Main Road, Near Bank More Chowk",
-            "addressLocality": "Phusro",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "829144",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.7602,
-            "longitude": 85.9755
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -112,7 +114,9 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         "serviceType": "Intercity Relocation & Household Shifting",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+            "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
             {
@@ -143,8 +147,8 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Routes",
-                "item": "https://www.shreeashirwadpackers.com/routes"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -586,7 +590,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
         <div class="phu2ran-container">
             <nav class="phu2ran-breadcrumbs" aria-label="Breadcrumb">
                 <a href="<?php echo SITE_BASE_URL; ?>/">Home</a> &raquo;
-                <a href="<?php echo SITE_BASE_URL; ?>/routes">Routes</a> &raquo;
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a> &raquo;
                 <span>Phusro to Ranchi</span>
             </nav>
 
@@ -602,7 +606,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             </div>
 
             <div class="phu2ran-cta-group">
-                <a href="tel:+919835565233" class="phu2ran-btn-primary"><i class="fa-solid fa-phone"></i> Call 9835565233</a>
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="phu2ran-btn-primary"><i class="fa-solid fa-phone"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
                 <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad%20Packers,%20I%20need%20a%20quote%20for%20Phusro%20to%20Ranchi%20shifting" class="phu2ran-btn-secondary" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> Instant WhatsApp Quote</a>
             </div>
         </div>
@@ -643,7 +647,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
                     If you are searching for reliable movers and packers near me from Phusro to Ranchi, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 0.98rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for instant booking and free quote.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for instant booking and free quote.
                 </p>
             </div>
         </div>
@@ -901,7 +905,7 @@ $og_image = SITE_BASE_URL . "/images/intercity-shifting-truck-loading-jharkhand.
             <div class="phu2ran-cta">
                 <h3>Ready for a Hassle-Free Phusro to Ranchi Move?</h3>
                 <p>Contact Jharkhand's most trusted intercity relocation company today. Get an honest price quote, guaranteed transit timings, and complete peace of mind.</p>
-                <a href="tel:+919835565233" class="phu2ran-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call 9835565233 / 8409531615</a>
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="phu2ran-btn"><i class="fa-solid fa-phone" style="margin-right: 8px;"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
             </div>
         </div>
     </section>

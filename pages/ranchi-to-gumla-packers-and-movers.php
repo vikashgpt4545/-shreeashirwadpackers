@@ -14,8 +14,10 @@ $page_title = "Ranchi to Gumla Packers & Movers | Shree Ashirwad Packers";
 $page_description = "Top Ranchi to Gumla packers and movers by Shree Ashirwad. Same-day 2-hr shifting via NH-43, Collectorate & Govt transfer bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-gumla-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('APP_INIT')) {
+    require_once __DIR__ . '/../includes/config.php';
+}
+require_once __DIR__ . '/../includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -73,14 +75,14 @@ require_once __DIR__ . '/includes/seo.php';
     "logo": "<?php echo SITE_BASE_URL; ?>/assets/images/logo.png",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
     "description": "<?php echo $page_description; ?>",
-    "telephone": "+919835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "email": "enquiry@shreeashirwadpackers.com",
     "priceRange": "₹₹",
     "currenciesAccepted": "INR",
     "paymentAccepted": "Cash, UPI, Net Banking, Cheque",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -118,8 +120,8 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+919835565233",
-      "url": "https://www.shreeashirwadpackers.com/"
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+      "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": [
       { "@type": "City", "name": "Ranchi" },
@@ -150,13 +152,13 @@ require_once __DIR__ . '/includes/seo.php';
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "<?php echo SITE_BASE_URL; ?>/"
+        "item": "https://www.shreeashirwadpackers.com/"
       },
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Jharkhand Intercity Routes",
-        "item": "<?php echo SITE_BASE_URL; ?>/#routes"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -716,6 +718,13 @@ require_once __DIR__ . '/includes/seo.php';
 <!-- Hero Section -->
 <section class="route-gumla-hero">
   <div class="container">
+    <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="margin-bottom:20px; font-size:0.9rem; color:#94a3b8;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+      <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+      <span class="breadcrumb-sep" style="margin:0 8px; color:#64748b;">&gt;</span>
+      <span aria-current="page" style="color:#fde68a; font-weight:600;">Ranchi to Gumla</span>
+    </nav>
     <h1>Ranchi to Gumla Packers and Movers | Express Household Relocation</h1>
     <p>Certified door-to-door household shifting, specialized Gumla District Collectorate and police department transfer documentation, missionary institution relocation, and dustproof sealed container fleet transit connecting Ranchi to Gumla in 2 hours via NH-43.</p>
     
@@ -733,8 +742,8 @@ require_once __DIR__ . '/includes/seo.php';
         Relocating between Ranchi & Gumla? Reserve your dedicated container truck today:
       </div>
       <div class="phone-wrap">
-        <a href="tel:+919835565233" class="btn-gumla-call">📞 Call 9835565233</a>
-        <a href="tel:+919835565233" class="btn-gumla-call">📱 Call 9835565233</a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-gumla-call">📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-gumla-call">📱 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
       </div>
     </div>
   </div>
@@ -778,7 +787,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Gumla</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Gumla</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Gumla</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Gumla</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Gumla</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -1067,8 +1076,8 @@ require_once __DIR__ . '/includes/seo.php';
     <h3>Plan Your Stress-Free Ranchi to Gumla Move Today</h3>
     <p>Contact our senior logistics coordinator for an instant written quotation, customized packing plan, and guaranteed same-day linehaul container booking.</p>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-      <a href="tel:+919835565233" class="btn-cta-amber">📞 Call 9835565233</a>
-      <a href="tel:+919835565233" class="btn-cta-amber">📱 Call 9835565233</a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-cta-amber">📞 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
+      <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-cta-amber">📱 Call <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
     </div>
   </section>
 
@@ -1124,7 +1133,7 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0; color:#1c1917;">Related Relocation Services & Jharkhand Intercity Corridors</h3>
     <p style="font-size: 0.95rem; color: #57534e;">Explore connected relocation hubs, pricing charts, and regional corridors connecting with Ranchi and Gumla:</p>
     <div class="cluster-grid-gumla">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-gumla">🏠 Ranchi Headquarters Main Hub</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-gumla">📍 Packers and Movers in Ranchi Hub</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-gumla">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-gumla">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/household-shifting-services-in-ranchi" class="cluster-link-gumla">📦 Household Shifting in Ranchi</a>

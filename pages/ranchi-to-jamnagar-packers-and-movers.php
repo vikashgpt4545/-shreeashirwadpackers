@@ -14,8 +14,11 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-jamnagar-packer
 $page_keywords = "ranchi to jamnagar packers and movers, packers and movers ranchi to jamnagar, household shifting ranchi to jamnagar, car transport ranchi to jamnagar, bike courier ranchi to jamnagar, moti khavdi movers, dared gidc movers, indira marg jamnagar shifting";
 
 $current_page = 'services';
-require_once __DIR__ . '/../includes/config.php';
-require_once __DIR__ . '/../includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -65,14 +68,18 @@ require_once __DIR__ . '/../includes/seo.php';
     {
         "@context": "https://schema.org",
         "@type": "MovingCompany",
-        "name": "Shree Ashirwad Packers and Movers - Ranchi to Jamnagar",
-        "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-        "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
-        "priceRange": "₹15,000 - ₹75,000",
+        "@id": "https://www.shreeashirwadpackers.com/#organization",
+        "name": "Shree Ashirwad Packers and Movers",
+        "url": "https://www.shreeashirwadpackers.com",
+        "logo": "https://www.shreeashirwadpackers.com/assets/images/logo.png",
+        "image": "https://www.shreeashirwadpackers.com/images/safe-transit-container-truck-ranchi.jpg",
+        "description": "Professional inter-state relocation specialists providing door-to-door shifting, container linehaul, vehicle transportation, and transit insurance between Ranchi and Jamnagar.",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
+        "priceRange": "₹₹",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Near Harmu Chowk, Harmu Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -80,8 +87,8 @@ require_once __DIR__ . '/../includes/seo.php';
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 23.3569,
-            "longitude": 85.3182
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "areaServed": [
             {
@@ -104,8 +111,8 @@ require_once __DIR__ . '/../includes/seo.php';
                 "Saturday",
                 "Sunday"
             ],
-            "opens": "07:00",
-            "closes": "22:00"
+            "opens": "00:00",
+            "closes": "23:59"
         }
     }
     </script>
@@ -115,24 +122,25 @@ require_once __DIR__ . '/../includes/seo.php';
     {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
+        "@id": "https://www.shreeashirwadpackers.com/ranchi-to-jamnagar-packers-and-movers#breadcrumb",
         "itemListElement": [
             {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "<?php echo SITE_BASE_URL; ?>/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "<?php echo SITE_BASE_URL; ?>/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Ranchi to Jamnagar Packers and Movers",
-                "item": "<?php echo $canonical_url; ?>"
+                "name": "Ranchi to Jamnagar",
+                "item": "https://www.shreeashirwadpackers.com/ranchi-to-jamnagar-packers-and-movers"
             }
         ]
     }
@@ -645,7 +653,20 @@ require_once __DIR__ . '/../includes/seo.php';
 </head>
 <body>
 
-<?php require_once __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+<div class="breadcrumb-wrapper" style="background: #f8fafc; padding: 15px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+        <nav aria-label="breadcrumb">
+            <ol style="display: flex; list-style: none; padding: 0; margin: 0; font-size: 14px; gap: 8px; flex-wrap: wrap;">
+                <li><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #64748b; text-decoration: none;">Home</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #64748b; text-decoration: none;">Packers and Movers in Ranchi</a></li>
+                <li style="color: #94a3b8;">/</li>
+                <li style="color: #0f172a; font-weight: 600;" aria-current="page">Ranchi to Jamnagar</li>
+            </ol>
+        </nav>
+    </div>
+</div>
 
 <!-- HERO BANNER -->
 <section class="rjm-hero">
@@ -1102,7 +1123,7 @@ require_once __DIR__ . '/../includes/seo.php';
     </div>
 </section>
 
-<?php require_once __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

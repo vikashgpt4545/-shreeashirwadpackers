@@ -1,8 +1,17 @@
 <?php
+/**
+ * Page: Plant & Pet Relocation Services in Ranchi
+ */
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
+
 // Dynamic SEO Configuration for Plant and Pet Relocation Services in Ranchi
 $page_title = "Plant & Pet Relocation Services in Ranchi | Safe Garden & Pet Transport";
 $page_description = "Specialized plant and pet relocation in Ranchi. Safe nursery & balcony garden shifting, ventilated crates, root protection, and pet-friendly travel assistance. Call +91 9835565233 for consultation.";
-$canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-services-ranchi";
+$canonical_url = "https://www.shreeashirwadpackers.com/plant-and-pet-relocation-services-ranchi";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,10 +30,10 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
         "@context": "https://schema.org",
         "@type": "MovingCompany",
         "name": "Shree Ashirwad Packers and Movers - Botanical & Pet Care Division",
-        "image": "https://shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
+        "image": "https://www.shreeashirwadpackers.com/images/residential-relocation-cartons-ranchi.jpg",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
-        "priceRange": "₹1,200 - ₹18,000",
+        "telephone": "+91-8409531615",
+        "priceRange": "INR 1,200 - 18,000",
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "Morabadi Ground Road, Near Botanical Park",
@@ -57,13 +66,13 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://shreeashirwadpackers.com/"
+                "item": "https://www.shreeashirwadpackers.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Services",
-                "item": "https://shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -350,7 +359,29 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
 </head>
 <body>
 
-<?php include_once dirname(__DIR__) . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Breadcrumbs Bar -->
+<div class="breadcrumbs-bar" style="background: #f1f5f9; padding: 10px 0; border-bottom: 1px solid #e2e8f0; font-size: 0.88rem;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <ol style="list-style: none; display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; align-items: center;" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="<?php echo SITE_BASE_URL; ?>/" itemprop="item" style="color: #0284c7; text-decoration: none;"><span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li style="color: #64748b;">/</li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" itemprop="item" style="color: #0284c7; text-decoration: none;"><span itemprop="name">Packers and Movers in Ranchi</span></a>
+        <meta itemprop="position" content="2" />
+      </li>
+      <li style="color: #64748b;">/</li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <span itemprop="name" style="color: #334155; font-weight: 600;">Plant & Pet Relocation</span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
+  </div>
+</div>
 
 <div class="pet-page-wrap">
 
@@ -548,6 +579,7 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
         <div class="pet-cluster-links">
             <h4>Explore Related Moving Services & Local Communities</h4>
             <div class="pet-cluster-grid">
+                <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi">Packers and Movers in Ranchi</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/tempo-service-in-ranchi">Tempo Service in Ranchi</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/single-item-and-luggage-transport-ranchi">Single Item Transport</a>
                 <a href="<?php echo SITE_BASE_URL; ?>/fine-art-antique-and-piano-moving-ranchi">Fine Art & Antique Moving</a>
@@ -562,7 +594,7 @@ $canonical_url = "https://shreeashirwadpackers.com/plant-and-pet-relocation-serv
     </div>
 </div>
 
-<?php include_once dirname(__DIR__) . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

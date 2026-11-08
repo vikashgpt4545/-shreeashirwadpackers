@@ -5,9 +5,11 @@
  * Description: Dependable interstate household shifting, corporate office relocation, car carrier, and commercial moving services from Ranchi to Guntur.
  * Focus Keywords: ranchi to guntur packers and movers, packers and movers ranchi to guntur, house shifting ranchi to guntur, car carrier ranchi to guntur, bike transport ranchi to guntur, household moving ranchi guntur
  */
-if (!defined('APP_INIT')) {
-    require_once __DIR__ . '/includes/config.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
 }
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 
 $page_title = "Ranchi to Guntur Packers and Movers | Reliable Shifting Services";
 $page_desc = "Safe Ranchi to Guntur packers and movers. 1200 km direct transit via National Highway Corridor, 5-layer packing, corporate transfer bills, car carrier. Call 9835565233.";
@@ -373,11 +375,12 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-guntur-packers-
         "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
         "@id": "<?php echo $canonical_url; ?>#company",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+919835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "INR 9,500 - 45,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Main Road Main Road",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
             "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
             "postalCode": "834002",
@@ -423,7 +426,8 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-guntur-packers-
         "serviceType": "Interstate Relocation & Household Shifting",
         "provider": {
             "@type": "MovingCompany",
-            "name": "Shree Ashirwad Packers and Movers"
+            "name": "Shree Ashirwad Packers and Movers",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>"
         },
         "areaServed": {
             "@type": "City",
@@ -474,13 +478,13 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-guntur-packers-
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Interstate Relocation",
+                "name": "Packers and Movers in Ranchi",
                 "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
-                "name": "Ranchi to Guntur Shifting",
+                "name": "Ranchi to Guntur",
                 "item": "<?php echo $canonical_url; ?>"
             }
         ]
@@ -582,7 +586,18 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-guntur-packers-
 </head>
 <body>
 
-<?php include __DIR__ . '/includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
+
+<!-- Visual Breadcrumb Navigation Bar -->
+<nav aria-label="breadcrumb" style="background: #f8fafc; padding: 12px 0; border-bottom: 1px solid #e2e8f0;">
+    <div class="container" style="padding-top: 0; padding-bottom: 0; font-size: 0.88rem; color: #64748b;">
+        <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #4338ca; text-decoration: none; font-weight: 500;">Home</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #4338ca; text-decoration: none; font-weight: 500;">Packers and Movers in Ranchi</a>
+        <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+        <span style="color: #0f172a; font-weight: 600;">Ranchi to Guntur</span>
+    </div>
+</nav>
 
 <!-- Hero Section -->
 <section class="c_ran_gun-hero">
@@ -1116,6 +1131,6 @@ $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-guntur-packers-
     </div>
 </section>
 
-<?php include __DIR__ . '/includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 </body>
 </html>

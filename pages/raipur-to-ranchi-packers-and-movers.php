@@ -15,8 +15,11 @@ $page_title = "Raipur to Ranchi Packers & Movers | Shree Ashirwad";
 $page_description = "Top Raipur to Ranchi packers and movers by Shree Ashirwad. Express 14-hr transit via NH-130/43, steel & mining PSU bills, 5-layer packing. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/raipur-to-ranchi-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,13 +72,13 @@ require_once __DIR__ . '/includes/seo.php';
     "@type": "MovingCompany",
     "name": "Shree Ashirwad Packers and Movers",
     "image": "<?php echo SITE_BASE_URL; ?>/images/safe-transit-container-truck-ranchi.jpg",
-    "telephone": "+91-9835565233",
-    "email": "support@shreeashirwadpackers.com",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+    "email": "enquiry@shreeashirwadpackers.com",
     "url": "<?php echo $canonical_url; ?>",
     "priceRange": "₹4,000 - ₹58,000",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harmu Housing Colony, Near Anandpuri Chowk",
+      "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
       "addressLocality": "Ranchi",
       "addressRegion": "Jharkhand",
       "postalCode": "834002",
@@ -161,7 +164,7 @@ require_once __DIR__ . '/includes/seo.php';
     "provider": {
       "@type": "MovingCompany",
       "name": "Shree Ashirwad Packers and Movers",
-      "telephone": "+91-9835565233",
+      "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
       "url": "https://www.shreeashirwadpackers.com"
     },
     "areaServed": [
@@ -204,8 +207,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Ranchi Relocation Hub",
-        "item": "https://www.shreeashirwadpackers.com/"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -1096,7 +1099,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body class="r2r-body">
 
-  <?php include_once __DIR__ . '/includes/header.php'; ?>
+  <?php include BASE_PATH . '/includes/header.php'; ?>
+
+  <!-- Visual Breadcrumbs Navigation Bar -->
+  <nav class="r2r-breadcrumb" aria-label="Breadcrumb" style="background: #0f172a; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,0.1);">
+    <div class="r2r-container" style="display: flex; align-items: center; gap: 8px; font-size: 0.88rem; flex-wrap: wrap;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #94a3b8; text-decoration: none;">Home</a>
+      <span style="color: #64748b;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #94a3b8; text-decoration: none;">Packers and Movers in Ranchi</a>
+      <span style="color: #64748b;">/</span>
+      <span style="color: #38bdf8; font-weight: 600;">Raipur to Ranchi</span>
+    </div>
+  </nav>
 
   <!-- Hero Section -->
   <header class="r2r-hero">
@@ -1150,11 +1164,11 @@ require_once __DIR__ . '/includes/seo.php';
         </div>
       </div>
       <div class="r2r-cta-actions">
-        <a href="tel:09835565233" class="r2r-btn r2r-btn-primary">
+        <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="r2r-btn r2r-btn-primary">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-          Call 9835565233
+          Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
         </a>
-        <a href="https://wa.me/919835565233?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20relocation%20quote%20from%20Raipur%20to%20Ranchi" class="r2r-btn r2r-btn-secondary" target="_blank" rel="noopener noreferrer">
+        <a href="https://wa.me/918409531615?text=Hello%20Shree%20Ashirwad,%20I%20need%20a%20relocation%20quote%20from%20Raipur%20to%20Ranchi" class="r2r-btn r2r-btn-secondary" target="_blank" rel="noopener noreferrer">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
           WhatsApp Estimate
         </a>
@@ -1821,8 +1835,11 @@ require_once __DIR__ . '/includes/seo.php';
     <div class="r2r-container">
       <h3>Explore Connected Relocation Corridors</h3>
       <div class="r2r-cluster-grid">
-        <a href="<?php echo SITE_BASE_URL; ?>/" class="r2r-cluster-link">
-          Ranchi Relocation Hub
+        <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="r2r-cluster-link">
+          Packers and Movers in Ranchi (HQ Hub)
+        </a>
+        <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-raipur-packers-and-movers" class="r2r-cluster-link">
+          Ranchi to Raipur Route (Return)
         </a>
         <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bilaspur-packers-and-movers" class="r2r-cluster-link">
           Ranchi to Bilaspur Route
@@ -1849,7 +1866,7 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
   </section>
 
-  <?php include_once __DIR__ . '/includes/footer.php'; ?>
+  <?php include BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

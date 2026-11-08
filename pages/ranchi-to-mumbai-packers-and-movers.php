@@ -13,8 +13,11 @@ $page_title = "Ranchi to Mumbai Packers and Movers | Premier Linehaul Shifting -
 $page_description = "Top-rated Ranchi to Mumbai Packers and Movers by Shree Ashirwad. Dedicated sealed container trucks, 1,650 km interstate linehaul, 4-layer packing, doorstep delivery across Navi Mumbai, Thane, Andheri & Borivali. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-mumbai-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -69,7 +72,7 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "₹7,000 - ₹75,000",
     "address": {
       "@type": "PostalAddress",
@@ -206,8 +209,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Corridors",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -519,11 +522,18 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php include __DIR__ . '/../includes/header.php'; ?>
+<?php include BASE_PATH . '/includes/header.php'; ?>
 
 <!-- Hero Section -->
 <section class="mumbai-hero">
   <div class="container">
+    <nav class="mumbai-breadcrumb" aria-label="Breadcrumb" style="display:flex; flex-wrap:wrap; align-items:center; gap:8px; font-size:0.9rem; margin-bottom:15px;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color:#cbd5e1; text-decoration:none;">Home</a>
+      <span style="color:#64748b;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color:#cbd5e1; text-decoration:none;">Packers and Movers in Ranchi</a>
+      <span style="color:#64748b;">/</span>
+      <span style="color:#ee9b00; font-weight:600;">Ranchi to Mumbai</span>
+    </nav>
     <h1>Ranchi to Mumbai Packers and Movers | Premier Linehaul Relocation</h1>
     <p>Direct 1,650 km interstate moving from Ranchi to Mumbai, Navi Mumbai, and Thane. Dedicated sealed all-weather container trucks, 4-layer multi-barrier packaging, and white-glove doorstep delivery across South Mumbai, Bandra, Andheri, Borivali, and Thane.</p>
     <div class="mumbai-badge-bar">
@@ -570,7 +580,7 @@ require_once __DIR__ . '/includes/seo.php';
                     If you are searching for reliable <strong>movers and packers near me from Ranchi to Mumbai</strong>, our local team is available 24/7 for <strong>home shifting</strong>, storage, transport, and complete relocation assistance.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our <strong>professional packers and movers service from Ranchi to Mumbai</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Mumbai</strong>. Call <strong><a href="tel:+919835565233" style="color: #0d47a1; font-weight: 700; text-decoration: none;">+91 9835565233</a></strong> for an instant quotation.
+                    Our <strong>professional packers and movers service from Ranchi to Mumbai</strong> is designed for safe household shifting, commercial relocation, <strong>furniture moving</strong>, and <strong>long-distance transportation</strong> at verified <strong>cheap and affordable packers and movers charges from Ranchi to Mumbai</strong>. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for an instant quotation.
                 </p>
             </div>
         </div>
@@ -782,7 +792,7 @@ require_once __DIR__ . '/includes/seo.php';
     </div>
     <div class="faq-item-mumbai">
       <div class="faq-q-mumbai">How do I book my move from Ranchi to Mumbai with Shree Ashirwad?</div>
-      <div class="faq-a-mumbai">Call our Ranchi headquarters at +91 9835565233 to arrange a free in-home survey or virtual video assessment. We issue an official written quotation, and you can reserve your preferred moving date with a nominal advance token.</div>
+      <div class="faq-a-mumbai">Call our Ranchi headquarters at <?php echo PRIMARY_PHONE_DISPLAY; ?> to arrange a free in-home survey or virtual video assessment. We issue an official written quotation, and you can reserve your preferred moving date with a nominal advance token.</div>
     </div>
   </div>
 
@@ -790,7 +800,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="cta-banner-mumbai">
     <h3>Relocating from Ranchi to Mumbai? Experience White-Glove Moving!</h3>
     <p>Enjoy direct sealed container linehaul, 4-layer protective packaging, GPS tracking, and complete IBA-approved corporate reimbursement support.</p>
-    <a href="tel:+919835565233" class="cta-btn-amber">📞 Call Now: +91 9835565233</a>
+    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="cta-btn-amber">📞 Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
     <p style="font-size: 0.9rem; margin-top: 15px; color: #e9d8a6;">Head Office: Anandpuri Chowk, Vidyanagar Road, Harmu, Ranchi - 834002</p>
   </div>
 
@@ -799,7 +809,8 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="margin-top:0;">Related Interstate Highway Corridors & Relocation Services</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Explore connected interstate routes and specialized relocation solutions originating from Ranchi:</p>
     <div class="cluster-grid-mumbai">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-mumbai">📍 Ranchi Main Hub & City HQ</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-mumbai" style="font-weight:700; color:#ee9b00;">📍 Ranchi Movers Headquarters</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/mumbai-to-ranchi-packers-and-movers" class="cluster-link-mumbai" style="font-weight:700; color:#ee9b00;">🛣️ Mumbai to Ranchi Return Route</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-mumbai">💰 Ranchi Relocation Tariff Chart</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-mumbai">📖 Complete Ranchi Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-pune-packers-and-movers" class="cluster-link-mumbai">🛣️ Ranchi to Pune Movers</a>
@@ -809,14 +820,13 @@ require_once __DIR__ . '/includes/seo.php';
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-patna-packers-and-movers" class="cluster-link-mumbai">🛣️ Ranchi to Patna Movers</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-hyderabad-packers-and-movers" class="cluster-link-mumbai">🛣️ Ranchi to Hyderabad Movers</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-bokaro-packers-and-movers" class="cluster-link-mumbai">🛣️ Ranchi to Bokaro Route</a>
-      <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-hazaribagh-packers-and-movers" class="cluster-link-mumbai">🛣️ Ranchi to Hazaribagh Route</a>
       <a href="<?php echo SITE_BASE_URL; ?>/car-transport-in-ranchi" class="cluster-link-mumbai">🚗 Car Carrier Services Ranchi</a>
     </div>
   </div>
 
 </main>
 
-<?php include __DIR__ . '/../includes/footer.php'; ?>
+<?php include BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

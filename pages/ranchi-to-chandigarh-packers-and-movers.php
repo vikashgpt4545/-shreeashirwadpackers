@@ -12,8 +12,11 @@ $page_title = "Ranchi to Chandigarh Packers and Movers | Tricity Express Linehau
 $page_description = "Certified Ranchi to Chandigarh Packers and Movers by Shree Ashirwad. Dedicated weatherproof container trucks, 1,350 km NH-19/NH-44 expressway corridor, 4-layer packing, doorstep delivery across Chandigarh Sectors, Mohali IT City, Panchkula & Chandimandir Cantt. Call 9835565233.";
 $canonical_url = "https://www.shreeashirwadpackers.com/ranchi-to-chandigarh-packers-and-movers";
 
-require_once __DIR__ . '/includes/config.php';
-require_once __DIR__ . '/includes/seo.php';
+if (!defined('BASE_PATH')) {
+    define('BASE_PATH', dirname(__DIR__));
+}
+require_once BASE_PATH . '/includes/config.php';
+require_once BASE_PATH . '/includes/seo.php';
 ?>
 
 <!DOCTYPE html>
@@ -68,7 +71,7 @@ require_once __DIR__ . '/includes/seo.php';
     "image": "<?php echo SITE_BASE_URL; ?>/images/waterproof-container-loading-jharkhand.jpg",
     "@id": "https://www.shreeashirwadpackers.com/#movingcompany",
     "url": "https://www.shreeashirwadpackers.com",
-    "telephone": "+91-9835565233",
+    "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
     "priceRange": "₹6,800 - ₹66,000",
     "address": {
       "@type": "PostalAddress",
@@ -80,8 +83,8 @@ require_once __DIR__ . '/includes/seo.php';
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 23.3639813,
-      "longitude": 85.3090259
+      "latitude": 23.3441,
+      "longitude": 85.3096
     },
     "openingHoursSpecification": {
       "@type": "OpeningHoursSpecification",
@@ -197,8 +200,8 @@ require_once __DIR__ . '/includes/seo.php';
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Intercity Corridors",
-        "item": "https://www.shreeashirwadpackers.com/services"
+        "name": "Packers and Movers in Ranchi",
+        "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
       },
       {
         "@type": "ListItem",
@@ -561,9 +564,21 @@ require_once __DIR__ . '/includes/seo.php';
 </head>
 <body>
 
-<?php include __DIR__ . '/../includes/header.php'; ?>
+<?php require_once BASE_PATH . '/includes/header.php'; ?>
 
-    
+<!-- Visual Breadcrumb Navigation Bar -->
+<div style="background: #f8fafc; border-bottom: 1px solid #e2e8f0; padding: 12px 0;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+    <nav aria-label="Breadcrumb" style="font-size: 0.88rem; color: #64748b;">
+      <a href="<?php echo SITE_BASE_URL; ?>/" style="color: #0284c7; text-decoration: none;">Home</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #0284c7; text-decoration: none;">Packers and Movers in Ranchi</a>
+      <span style="margin: 0 8px; color: #cbd5e1;">/</span>
+      <span style="color: #0f172a; font-weight: 600;">Ranchi to Chandigarh</span>
+    </nav>
+  </div>
+</div>
+
     <main class="container corridor-page-chandigarh" style="padding-top: 2rem; padding-bottom: 4rem;">
 
   <!-- Hero Section -->
@@ -863,7 +878,7 @@ require_once __DIR__ . '/includes/seo.php';
   <div class="cta-banner-chandigarh">
     <h3 style="color: #ffffff; font-size: 1.85rem; margin-bottom: 12px;">Planning Your Move from Ranchi to Chandigarh?</h3>
     <p style="font-size: 1.1rem; max-width: 720px; margin: 0 auto; color: #bae6fd;">Get a guaranteed, all-inclusive binding moving quote from eastern India’s most trusted interstate packers and movers. Free home survey, zero hidden costs, and guaranteed on-time delivery.</p>
-    <a href="tel:+919835565233" class="cta-btn-gold">📞 Call Now: +91 9835565233</a>
+    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="cta-btn-gold">📞 Call Now: <?php echo PRIMARY_PHONE_DISPLAY; ?></a>
   </div>
 
   <!-- Internal Cluster Linking Box -->
@@ -871,7 +886,8 @@ require_once __DIR__ . '/includes/seo.php';
     <h3 style="color: #0284c7; font-size: 1.3rem; margin-bottom: 10px;">Explore Our Complete Ranchi Relocation Network & Services</h3>
     <p style="font-size: 0.95rem; color: #64748b;">Connect with our specialized moving services and other popular interstate linehaul corridors originating from Ranchi:</p>
     <div class="cluster-grid-chandigarh">
-      <a href="<?php echo SITE_BASE_URL; ?>/" class="cluster-link-chandigarh">Packers and Movers in Ranchi (Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" class="cluster-link-chandigarh">Packers and Movers in Ranchi (Hub)</a>
+      <a href="<?php echo SITE_BASE_URL; ?>/chandigarh-to-ranchi-packers-and-movers" class="cluster-link-chandigarh">Chandigarh to Ranchi Linehaul Corridor</a>
       <a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-charges-in-ranchi" class="cluster-link-chandigarh">Packers and Movers Charges in Ranchi</a>
       <a href="<?php echo SITE_BASE_URL; ?>/complete-guide-to-house-shifting-in-ranchi" class="cluster-link-chandigarh">Complete Ranchi House Shifting Guide</a>
       <a href="<?php echo SITE_BASE_URL; ?>/ranchi-to-visakhapatnam-packers-and-movers" class="cluster-link-chandigarh">Ranchi to Visakhapatnam Coastal Route</a>
@@ -906,7 +922,7 @@ require_once __DIR__ . '/includes/seo.php';
 
 </main>
 
-<?php include __DIR__ . '/../includes/footer.php'; ?>
+<?php require_once BASE_PATH . '/includes/footer.php'; ?>
 
 </body>
 </html>

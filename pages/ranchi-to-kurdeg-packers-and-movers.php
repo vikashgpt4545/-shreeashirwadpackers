@@ -10,6 +10,7 @@
 if (!defined('APP_INIT')) {
     require_once __DIR__ . '/../includes/config.php';
 }
+require_once __DIR__ . '/../includes/seo.php';
 
 $page_title = "Packers and Movers Ranchi to Kurdeg | Inbound Capital Relocation";
 $page_desc = "Trusted packers and movers from Ranchi to Kurdeg, Simdega. 185 km transit via NH-143 & Kolebira, 5-layer packing, home shifting, car & bike parcel, door-to-door delivery.";
@@ -66,20 +67,21 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "name": "Shree Ashirwad Packers and Movers Ranchi to Kurdeg",
         "image": "<?php echo $og_image; ?>",
         "url": "<?php echo $canonical_url; ?>",
-        "telephone": "+91 9835565233",
+        "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
+        "email": "enquiry@shreeashirwadpackers.com",
         "priceRange": "₹7,500 - ₹11,500 - ₹22,000 - ₹34,000",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Main Road, Near Kurdeg Block Office & CHC Hospital",
-            "addressLocality": "Kurdeg, Simdega",
+            "streetAddress": "Anandpuri Chowk, Vidyanagar Road, Harmu Housing Colony",
+            "addressLocality": "Ranchi",
             "addressRegion": "Jharkhand",
-            "postalCode": "835212",
+            "postalCode": "834002",
             "addressCountry": "IN"
         },
         "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 22.5600,
-            "longitude": 84.1400
+            "latitude": 23.3441,
+            "longitude": 85.3096
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -111,7 +113,7 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
         "provider": {
             "@type": "MovingCompany",
             "name": "Shree Ashirwad Packers and Movers",
-            "telephone": "+91 9835565233",
+            "telephone": "<?php echo PRIMARY_PHONE_RAW; ?>",
             "url": "https://www.shreeashirwadpackers.com"
         },
         "areaServed": [
@@ -152,8 +154,8 @@ $og_image = SITE_BASE_URL . "/images/safe-transit-container-truck-ranchi.jpg";
             {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Packers and Movers",
-                "item": "https://www.shreeashirwadpackers.com/services"
+                "name": "Packers and Movers in Ranchi",
+                "item": "https://www.shreeashirwadpackers.com/packers-and-movers-in-ranchi"
             },
             {
                 "@type": "ListItem",
@@ -510,7 +512,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 <nav aria-label="breadcrumb" style="margin-bottom: 15px;">
                     <ol class="breadcrumb" style="background: transparent; padding: 0; margin: 0; font-size: 0.9rem;">
                         <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/" style="color: #93c5fd; text-decoration: none;">Home</a></li>
-                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/services" style="color: #93c5fd; text-decoration: none;">Services</a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo SITE_BASE_URL; ?>/packers-and-movers-in-ranchi" style="color: #93c5fd; text-decoration: none;">Packers and Movers in Ranchi</a></li>
                         <li class="breadcrumb-item active" aria-current="page" style="color: #ffffff;">Ranchi to Kurdeg</li>
                     </ol>
                 </nav>
@@ -525,8 +527,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     <span class="hero-meta-badge"><i class="fas fa-box-open"></i> 5-Layer Waterproof Packing</span>
                 </div>
                 <div class="hero-cta-group">
-                    <a href="tel:+919835565233" class="btn-brand-primary">
-                        <i class="fas fa-phone-alt"></i> Call +91 9835565233
+                    <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-brand-primary">
+                        <i class="fas fa-phone-alt"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
                     </a>
                     <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn-brand-secondary">
                         <i class="fas fa-calculator"></i> Get Free Instant Quote
@@ -572,7 +574,7 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                     If you are searching for reliable movers and packers near me from Ranchi to Kurdeg, our dedicated fleet is available 24/7 for home shifting, furniture moving, room shifting, storage, and long-distance transport.
                 </p>
                 <p style="font-size: 1rem; color: #334155; line-height: 1.8; margin-bottom: 0;">
-                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong>+91 9835565233</strong> for direct booking and free moving estimate.
+                    Our professional packers and movers service is designed for cheap and affordable packers and movers charges, safe household shifting, heavy machinery transport, and complete intercity relocation. Call <strong><a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" style="color: #0d47a1; font-weight: 700; text-decoration: none;"><?php echo PRIMARY_PHONE_DISPLAY; ?></a></strong> for direct booking and free moving estimate.
                 </p>
             </div>
         </div>
@@ -1096,8 +1098,8 @@ if (file_exists(__DIR__ . '/../includes/header.php')) {
                 Join thousands of delighted families, defense officers, doctors, and corporate executives who trust Shree Ashirwad Packers and Movers for dependable, damage-free shifting across Jharkhand and pan-India.
             </p>
             <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-                <a href="tel:+919835565233" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 32px;">
-                    <i class="fas fa-phone-alt"></i> Call +91 9835565233
+                <a href="tel:<?php echo PRIMARY_PHONE_RAW; ?>" class="btn-brand-primary" style="font-size: 1.1rem; padding: 14px 32px;">
+                    <i class="fas fa-phone-alt"></i> Call <?php echo PRIMARY_PHONE_DISPLAY; ?>
                 </a>
                 <a href="<?php echo SITE_BASE_URL; ?>/contact-us" class="btn-brand-secondary" style="font-size: 1.1rem; padding: 14px 30px;">
                     <i class="fas fa-calendar-check"></i> Book Your Move Today
