@@ -14,6 +14,14 @@ $request_uri = isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : '/';
 $path = parse_url($request_uri, PHP_URL_PATH);
 $path = '/' . ltrim($path ? $path : '/', '/');
 
+// 301 Permanent Canonical Redirects for Sister Domains to Primary Domain
+$http_host = strtolower($_SERVER['HTTP_HOST'] ?? '');
+if (strpos($http_host, 'shreeashirwadpackersandmovers.com') !== false || strpos($http_host, 'shreeashirwadpackers.in') !== false) {
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: ' . PRODUCTION_CANONICAL_DOMAIN . $path);
+    exit;
+}
+
 // Block direct HTTP access to sensitive database, JSON, and include files
 if (preg_match('#^/(database|includes)/|\.(sqlite|json)$#i', $path)) {
     http_response_code(403);

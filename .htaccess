@@ -6,6 +6,11 @@
 Options -Indexes
 RewriteEngine On
 
+# 301 Permanent Canonical Redirects for Sister Domains
+RewriteCond %{HTTP_HOST} ^(www\.)?shreeashirwadpackersandmovers\.com$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^(www\.)?shreeashirwadpackers\.in$ [NC]
+RewriteRule ^(.*)$ https://www.shreeashirwadpackers.com/$1 [R=301,L]
+
 # Canonical Redirects for Production (Force HTTPS and www)
 RewriteCond %{HTTP_HOST} ^shreeashirwadpackers\.com$ [NC]
 RewriteRule ^(.*)$ https://www.shreeashirwadpackers.com/$1 [R=301,L]
